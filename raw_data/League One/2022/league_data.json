@@ -1,0 +1,1109 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "41",
+        "season": "2022"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 41,
+                "name": "League One",
+                "country": "England",
+                "logo": "https://media.api-sports.io/football/leagues/41.png",
+                "flag": "https://media.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 1357,
+                                "name": "Plymouth",
+                                "logo": "https://media.api-sports.io/football/teams/1357.png"
+                            },
+                            "points": 101,
+                            "goalsDiff": 35,
+                            "group": "League One: Regular Season",
+                            "form": "WWWWW",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 46,
+                                "win": 31,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 82,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 20,
+                                "draw": 1,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 57,
+                                "name": "Ipswich",
+                                "logo": "https://media.api-sports.io/football/teams/57.png"
+                            },
+                            "points": 98,
+                            "goalsDiff": 66,
+                            "group": "League One: Regular Season",
+                            "form": "DWWWW",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 46,
+                                "win": 28,
+                                "draw": 14,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 101,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 16,
+                                "draw": 6,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 60,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 8,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 74,
+                                "name": "Sheffield Wednesday",
+                                "logo": "https://media.api-sports.io/football/teams/74.png"
+                            },
+                            "points": 96,
+                            "goalsDiff": 44,
+                            "group": "League One: Regular Season",
+                            "form": "WWWWL",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 28,
+                                "draw": 12,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 81,
+                                    "against": 37
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 16,
+                                "draw": 6,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 747,
+                                "name": "Barnsley",
+                                "logo": "https://media.api-sports.io/football/teams/747.png"
+                            },
+                            "points": 86,
+                            "goalsDiff": 33,
+                            "group": "League One: Regular Season",
+                            "form": "LDLWD",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 26,
+                                "draw": 8,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 80,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 16,
+                                "draw": 1,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 10,
+                                "draw": 7,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 68,
+                                "name": "Bolton",
+                                "logo": "https://media.api-sports.io/football/teams/68.png"
+                            },
+                            "points": 81,
+                            "goalsDiff": 26,
+                            "group": "League One: Regular Season",
+                            "form": "WWLWD",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 23,
+                                "draw": 12,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 62,
+                                    "against": 36
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 14,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 1350,
+                                "name": "Peterborough",
+                                "logo": "https://media.api-sports.io/football/teams/1350.png"
+                            },
+                            "points": 77,
+                            "goalsDiff": 21,
+                            "group": "League One: Regular Season",
+                            "form": "WDLWL",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 24,
+                                "draw": 5,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 75,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 13,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 1,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 69,
+                                "name": "Derby",
+                                "logo": "https://media.api-sports.io/football/teams/69.png"
+                            },
+                            "points": 76,
+                            "goalsDiff": 21,
+                            "group": "League One: Regular Season",
+                            "form": "LDWWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 21,
+                                "draw": 13,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 67,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 13,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 1355,
+                                "name": "Portsmouth",
+                                "logo": "https://media.api-sports.io/football/teams/1355.png"
+                            },
+                            "points": 70,
+                            "goalsDiff": 11,
+                            "group": "League One: Regular Season",
+                            "form": "DDWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 17,
+                                "draw": 19,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 11,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 1358,
+                                "name": "Wycombe",
+                                "logo": "https://media.api-sports.io/football/teams/1358.png"
+                            },
+                            "points": 69,
+                            "goalsDiff": 8,
+                            "group": "League One: Regular Season",
+                            "form": "DLLWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 20,
+                                "draw": 9,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 59,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 1335,
+                                "name": "Charlton",
+                                "logo": "https://media.api-sports.io/football/teams/1335.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": 4,
+                            "group": "League One: Regular Season",
+                            "form": "DWLWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 16,
+                                "draw": 14,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 70,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 31
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 35
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 1379,
+                                "name": "Lincoln",
+                                "logo": "https://media.api-sports.io/football/teams/1379.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": 0,
+                            "group": "League One: Regular Season",
+                            "form": "WLLWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 20,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 14,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1352,
+                                "name": "Shrewsbury",
+                                "logo": "https://media.api-sports.io/football/teams/1352.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": -9,
+                            "group": "League One: Regular Season",
+                            "form": "LWLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 17,
+                                "draw": 8,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 52,
+                                    "against": 61
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 32
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1336,
+                                "name": "Fleetwood Town",
+                                "logo": "https://media.api-sports.io/football/teams/1336.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": 2,
+                            "group": "League One: Regular Season",
+                            "form": "DLWDW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 16,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 53,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 8,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 8,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 1364,
+                                "name": "Exeter City",
+                                "logo": "https://media.api-sports.io/football/teams/1364.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": -4,
+                            "group": "League One: Regular Season",
+                            "form": "WLLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 15,
+                                "draw": 11,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 64,
+                                    "against": 68
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 41
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 748,
+                                "name": "Burton Albion",
+                                "logo": "https://media.api-sports.io/football/teams/748.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": -22,
+                            "group": "League One: Regular Season",
+                            "form": "DWLWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 15,
+                                "draw": 11,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 57,
+                                    "against": 79
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 33
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 46
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 1372,
+                                "name": "Cheltenham",
+                                "logo": "https://media.api-sports.io/football/teams/1372.png"
+                            },
+                            "points": 54,
+                            "goalsDiff": -16,
+                            "group": "League One: Regular Season",
+                            "form": "DWLWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 12,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 61
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 1334,
+                                "name": "Bristol Rovers",
+                                "logo": "https://media.api-sports.io/football/teams/1334.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": -15,
+                            "group": "League One: Regular Season",
+                            "form": "LLDLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 11,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 58,
+                                    "against": 73
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 36
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 1351,
+                                "name": "Port Vale",
+                                "logo": "https://media.api-sports.io/football/teams/1351.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": -23,
+                            "group": "League One: Regular Season",
+                            "form": "LLWLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 13,
+                                "draw": 10,
+                                "lose": 23,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 71
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 41
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 1338,
+                                "name": "Oxford United",
+                                "logo": "https://media.api-sports.io/football/teams/1338.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -7,
+                            "group": "League One: Regular Season",
+                            "form": "LWWLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 11,
+                                "draw": 14,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 31
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 1370,
+                                "name": "Cambridge United",
+                                "logo": "https://media.api-sports.io/football/teams/1370.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": -27,
+                            "group": "League One: Regular Season",
+                            "form": "WLWLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 13,
+                                "draw": 7,
+                                "lose": 26,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 68
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 42
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 21,
+                            "team": {
+                                "id": 1348,
+                                "name": "Milton Keynes Dons",
+                                "logo": "https://media.api-sports.io/football/teams/1348.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": -22,
+                            "group": "League One: Regular Season",
+                            "form": "DDLLD",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 11,
+                                "draw": 12,
+                                "lose": 23,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 33
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 22,
+                            "team": {
+                                "id": 1375,
+                                "name": "Morecambe",
+                                "logo": "https://media.api-sports.io/football/teams/1375.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -31,
+                            "group": "League One: Regular Season",
+                            "form": "LWWWD",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 10,
+                                "draw": 14,
+                                "lose": 22,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 78
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 31
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 47
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 23,
+                            "team": {
+                                "id": 1360,
+                                "name": "Accrington ST",
+                                "logo": "https://media.api-sports.io/football/teams/1360.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -37,
+                            "group": "League One: Regular Season",
+                            "form": "WLWLL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 11,
+                                "draw": 11,
+                                "lose": 24,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 77
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 39
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 38
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 24,
+                            "team": {
+                                "id": 1378,
+                                "name": "Forest Green",
+                                "logo": "https://media.api-sports.io/football/teams/1378.png"
+                            },
+                            "points": 27,
+                            "goalsDiff": -58,
+                            "group": "League One: Regular Season",
+                            "form": "LLLDL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 6,
+                                "draw": 9,
+                                "lose": 31,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 89
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 2,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 42
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 1,
+                                "draw": 7,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 47
+                                }
+                            },
+                            "update": "2023-05-29T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

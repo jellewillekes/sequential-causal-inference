@@ -1,0 +1,929 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "89",
+        "season": "2016"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2016,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 204,
+                                "name": "VVV Venlo",
+                                "logo": "https://media.api-sports.io/football/teams/204.png"
+                            },
+                            "points": 80,
+                            "goalsDiff": 40,
+                            "group": "Eerste Divisie",
+                            "form": "WLDDW",
+                            "status": null,
+                            "description": "Promotion",
+                            "all": {
+                                "played": 38,
+                                "win": 25,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 75,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 13,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 12,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 15
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 425,
+                                "name": "Jong Ajax",
+                                "logo": "https://media.api-sports.io/football/teams/425.png"
+                            },
+                            "points": 76,
+                            "goalsDiff": 39,
+                            "group": "Eerste Divisie",
+                            "form": "WWWLW",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 38,
+                                "win": 23,
+                                "draw": 7,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 93,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 14,
+                                "draw": 4,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 420,
+                                "name": "Cambuur",
+                                "logo": "https://media.api-sports.io/football/teams/420.png"
+                            },
+                            "points": 71,
+                            "goalsDiff": 36,
+                            "group": "Eerste Divisie",
+                            "form": "LWWWW",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 38,
+                                "win": 22,
+                                "draw": 5,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 78,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 13,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 2,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 411,
+                                "name": "Jong PSV",
+                                "logo": "https://media.api-sports.io/football/teams/411.png"
+                            },
+                            "points": 69,
+                            "goalsDiff": 31,
+                            "group": "Eerste Divisie",
+                            "form": "WWDWL",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 38,
+                                "win": 20,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 66,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 15,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 203,
+                                "name": "NAC Breda",
+                                "logo": "https://media.api-sports.io/football/teams/203.png"
+                            },
+                            "points": 64,
+                            "goalsDiff": 15,
+                            "group": "Eerste Divisie",
+                            "form": "WWDDL",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 38,
+                                "win": 19,
+                                "draw": 7,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 416,
+                                "name": "FC Volendam",
+                                "logo": "https://media.api-sports.io/football/teams/416.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": 19,
+                            "group": "Eerste Divisie",
+                            "form": "LWDLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 17,
+                                "draw": 11,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 63,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 412,
+                                "name": "MVV",
+                                "logo": "https://media.api-sports.io/football/teams/412.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 10,
+                            "group": "Eerste Divisie",
+                            "form": "DLDLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 14,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 8,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 419,
+                                "name": "Almere City FC",
+                                "logo": "https://media.api-sports.io/football/teams/419.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 8,
+                            "group": "Eerste Divisie",
+                            "form": "LDLDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 17,
+                                "draw": 8,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 74,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 12,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 44
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 208,
+                                "name": "Emmen",
+                                "logo": "https://media.api-sports.io/football/teams/208.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": 10,
+                            "group": "Eerste Divisie",
+                            "form": "LWDDD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 13,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 40
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 417,
+                                "name": "Waalwijk",
+                                "logo": "https://media.api-sports.io/football/teams/417.png"
+                            },
+                            "points": 54,
+                            "goalsDiff": -8,
+                            "group": "Eerste Divisie",
+                            "form": "DWLDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 9,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 62,
+                                    "against": 70
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 43
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 422,
+                                "name": "FC Eindhoven",
+                                "logo": "https://media.api-sports.io/football/teams/422.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": -7,
+                            "group": "Eerste Divisie",
+                            "form": "DLDDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 8,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 64,
+                                    "against": 71
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 12,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 46
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 199,
+                                "name": "De Graafschap",
+                                "logo": "https://media.api-sports.io/football/teams/199.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": 7,
+                            "group": "Eerste Divisie",
+                            "form": "LDWWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 5,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 70,
+                                    "against": 63
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 12,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 424,
+                                "name": "Helmond Sport",
+                                "logo": "https://media.api-sports.io/football/teams/424.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": -16,
+                            "group": "Eerste Divisie",
+                            "form": "DDLWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 7,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 67
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 10,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 44
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 421,
+                                "name": "Den Bosch",
+                                "logo": "https://media.api-sports.io/football/teams/421.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": -19,
+                            "group": "Eerste Divisie",
+                            "form": "WLDLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 9,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 67
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 43
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 423,
+                                "name": "FC OSS",
+                                "logo": "https://media.api-sports.io/football/teams/423.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -28,
+                            "group": "Eerste Divisie",
+                            "form": "WLDLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 5,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 67,
+                                    "against": 95
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 44
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 2,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 51
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 427,
+                                "name": "Telstar",
+                                "logo": "https://media.api-sports.io/football/teams/427.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -18,
+                            "group": "Eerste Divisie",
+                            "form": "LLWWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 10,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 64
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 33
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 205,
+                                "name": "Fortuna Sittard",
+                                "logo": "https://media.api-sports.io/football/teams/205.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": -13,
+                            "group": "Eerste Divisie",
+                            "form": "WLDWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 9,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 67
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 43
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 428,
+                                "name": "Jong Utrecht",
+                                "logo": "https://media.api-sports.io/football/teams/428.png"
+                            },
+                            "points": 37,
+                            "goalsDiff": -21,
+                            "group": "Eerste Divisie",
+                            "form": "WWLLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 7,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 71
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 45
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 409,
+                                "name": "Dordrecht",
+                                "logo": "https://media.api-sports.io/football/teams/409.png"
+                            },
+                            "points": 24,
+                            "goalsDiff": -30,
+                            "group": "Eerste Divisie",
+                            "form": "LLDLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 5,
+                                "draw": 9,
+                                "lose": 24,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 72
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 35
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 1,
+                                "draw": 4,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 806,
+                                "name": "Achilles 29",
+                                "logo": "https://media.api-sports.io/football/teams/806.png"
+                            },
+                            "points": 19,
+                            "goalsDiff": -55,
+                            "group": "Eerste Divisie",
+                            "form": "LDDWW",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 5,
+                                "draw": 7,
+                                "lose": 26,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 92
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 49
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 43
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

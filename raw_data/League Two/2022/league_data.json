@@ -1,0 +1,1109 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "42",
+        "season": "2022"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 42,
+                "name": "League Two",
+                "country": "England",
+                "logo": "https://media.api-sports.io/football/leagues/42.png",
+                "flag": "https://media.api-sports.io/flags/gb.svg",
+                "season": 2022,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 1373,
+                                "name": "Leyton Orient",
+                                "logo": "https://media.api-sports.io/football/teams/1373.png"
+                            },
+                            "points": 91,
+                            "goalsDiff": 27,
+                            "group": "League Two: Regular Season",
+                            "form": "DLWWL",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 46,
+                                "win": 26,
+                                "draw": 13,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 15,
+                                "draw": 6,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 1368,
+                                "name": "Stevenage",
+                                "logo": "https://media.api-sports.io/football/teams/1368.png"
+                            },
+                            "points": 85,
+                            "goalsDiff": 22,
+                            "group": "League Two: Regular Season",
+                            "form": "WWWLW",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 46,
+                                "win": 24,
+                                "draw": 13,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 39
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 17,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 11,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 1337,
+                                "name": "Northampton",
+                                "logo": "https://media.api-sports.io/football/teams/1337.png"
+                            },
+                            "points": 83,
+                            "goalsDiff": 20,
+                            "group": "League Two: Regular Season",
+                            "form": "WLWWD",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 46,
+                                "win": 23,
+                                "draw": 14,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 62,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 4686,
+                                "name": "Stockport County",
+                                "logo": "https://media.api-sports.io/football/teams/4686.png"
+                            },
+                            "points": 79,
+                            "goalsDiff": 28,
+                            "group": "League Two: Regular Season",
+                            "form": "DWWDD",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 22,
+                                "draw": 13,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 37
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 9,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 1371,
+                                "name": "Carlisle",
+                                "logo": "https://media.api-sports.io/football/teams/1371.png"
+                            },
+                            "points": 76,
+                            "goalsDiff": 23,
+                            "group": "League Two: Regular Season",
+                            "form": "DLWDD",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 20,
+                                "draw": 16,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 66,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 8,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 1343,
+                                "name": "Bradford",
+                                "logo": "https://media.api-sports.io/football/teams/1343.png"
+                            },
+                            "points": 76,
+                            "goalsDiff": 18,
+                            "group": "League Two: Regular Season",
+                            "form": "DLWDL",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 20,
+                                "draw": 16,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 10,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 1844,
+                                "name": "Salford City",
+                                "logo": "https://media.api-sports.io/football/teams/1844.png"
+                            },
+                            "points": 75,
+                            "goalsDiff": 18,
+                            "group": "League Two: Regular Season",
+                            "form": "LWWWL",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 22,
+                                "draw": 9,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 72,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 1374,
+                                "name": "Mansfield Town",
+                                "logo": "https://media.api-sports.io/football/teams/1374.png"
+                            },
+                            "points": 75,
+                            "goalsDiff": 17,
+                            "group": "League Two: Regular Season",
+                            "form": "WLLWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 21,
+                                "draw": 12,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 72,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 8,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 31
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 1819,
+                                "name": "Barrow",
+                                "logo": "https://media.api-sports.io/football/teams/1819.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": -6,
+                            "group": "League Two: Regular Season",
+                            "form": "LLLLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 18,
+                                "draw": 8,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 1353,
+                                "name": "Swindon Town",
+                                "logo": "https://media.api-sports.io/football/teams/1353.png"
+                            },
+                            "points": 61,
+                            "goalsDiff": 6,
+                            "group": "League Two: Regular Season",
+                            "form": "WLLWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 16,
+                                "draw": 13,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 1365,
+                                "name": "Grimsby",
+                                "logo": "https://media.api-sports.io/football/teams/1365.png"
+                            },
+                            "points": 61,
+                            "goalsDiff": -7,
+                            "group": "League Two: Regular Season",
+                            "form": "WLWLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 16,
+                                "draw": 13,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 10,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1381,
+                                "name": "Tranmere",
+                                "logo": "https://media.api-sports.io/football/teams/1381.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": -3,
+                            "group": "League Two: Regular Season",
+                            "form": "LDWDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 15,
+                                "draw": 13,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 10,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 7,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1363,
+                                "name": "Crewe",
+                                "logo": "https://media.api-sports.io/football/teams/1363.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": -12,
+                            "group": "League Two: Regular Season",
+                            "form": "DWWLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 16,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 3,
+                                "draw": 10,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 1835,
+                                "name": "Sutton Utd",
+                                "logo": "https://media.api-sports.io/football/teams/1835.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": -12,
+                            "group": "League Two: Regular Season",
+                            "form": "DLLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 15,
+                                "draw": 13,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 58
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 8,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 1367,
+                                "name": "Newport County",
+                                "logo": "https://media.api-sports.io/football/teams/1367.png"
+                            },
+                            "points": 57,
+                            "goalsDiff": -3,
+                            "group": "League Two: Regular Season",
+                            "form": "DWLWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 15,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 53,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 1342,
+                                "name": "Walsall",
+                                "logo": "https://media.api-sports.io/football/teams/1342.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": -3,
+                            "group": "League Two: Regular Season",
+                            "form": "WDLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 12,
+                                "draw": 19,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 9,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 3,
+                                "draw": 10,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 1347,
+                                "name": "Gillingham",
+                                "logo": "https://media.api-sports.io/football/teams/1347.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": -13,
+                            "group": "League Two: Regular Season",
+                            "form": "WLDWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 13,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 3,
+                                "draw": 8,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 1354,
+                                "name": "Doncaster",
+                                "logo": "https://media.api-sports.io/football/teams/1354.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": -19,
+                            "group": "League Two: Regular Season",
+                            "form": "LWLLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 16,
+                                "draw": 7,
+                                "lose": 23,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 65
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 1,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 35
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 1842,
+                                "name": "Harrogate Town",
+                                "logo": "https://media.api-sports.io/football/teams/1842.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": -9,
+                            "group": "League Two: Regular Season",
+                            "form": "DWWLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 12,
+                                "draw": 16,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 59,
+                                    "against": 68
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 10,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 32
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 36
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 1361,
+                                "name": "Colchester",
+                                "logo": "https://media.api-sports.io/football/teams/1361.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": -7,
+                            "group": "League Two: Regular Season",
+                            "form": "LLWDW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 12,
+                                "draw": 13,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 9,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 21,
+                            "team": {
+                                "id": 1333,
+                                "name": "AFC Wimbledon",
+                                "logo": "https://media.api-sports.io/football/teams/1333.png"
+                            },
+                            "points": 48,
+                            "goalsDiff": -12,
+                            "group": "League Two: Regular Season",
+                            "form": "LDLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 11,
+                                "draw": 15,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 8,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 22,
+                            "team": {
+                                "id": 1362,
+                                "name": "Crawley Town",
+                                "logo": "https://media.api-sports.io/football/teams/1362.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": -23,
+                            "group": "League Two: Regular Season",
+                            "form": "LDWDW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 11,
+                                "draw": 13,
+                                "lose": 22,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 71
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 41
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 23,
+                            "team": {
+                                "id": 1366,
+                                "name": "Hartlepool",
+                                "logo": "https://media.api-sports.io/football/teams/1366.png"
+                            },
+                            "points": 43,
+                            "goalsDiff": -26,
+                            "group": "League Two: Regular Season",
+                            "form": "DWLLL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 9,
+                                "draw": 16,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 52,
+                                    "against": 78
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 10,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 36
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 42
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 24,
+                            "team": {
+                                "id": 1339,
+                                "name": "Rochdale",
+                                "logo": "https://media.api-sports.io/football/teams/1339.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": -24,
+                            "group": "League Two: Regular Season",
+                            "form": "DWLDL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 9,
+                                "draw": 11,
+                                "lose": 26,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 70
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 38
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2023-05-28T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
