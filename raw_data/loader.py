@@ -16,6 +16,13 @@ def load_mappings_from_yaml(filename):
     return mappings
 
 
+def load_stages(country):
+    # Load the stage order from the YAML file
+    with open(os.path.join(get_project_root(), 'settings', 'stages.yaml'), 'r') as file:
+        stages_data = yaml.safe_load(file)
+    return stages_data.get(country)
+
+
 def request_data(league_name, league_id, season, request_counter, start_time):
     if request_counter >= 10:
         elapsed_time = time.time() - start_time

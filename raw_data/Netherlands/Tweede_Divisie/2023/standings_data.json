@@ -1,0 +1,839 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "492",
+        "season": "2023"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 492,
+                "name": "Tweede Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/492.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2023,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 1249,
+                                "name": "Spakenburg",
+                                "logo": "https://media.api-sports.io/football/teams/1249.png"
+                            },
+                            "points": 57,
+                            "goalsDiff": 29,
+                            "group": "Tweede Divisie",
+                            "form": "LWDDW",
+                            "status": "same",
+                            "description": "Champion",
+                            "all": {
+                                "played": 24,
+                                "win": 18,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 57,
+                                    "against": 28
+                                }
+                            },
+                            "home": {
+                                "played": 13,
+                                "win": 11,
+                                "draw": 1,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 1277,
+                                "name": "De Treffers",
+                                "logo": "https://media.api-sports.io/football/teams/1277.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": 16,
+                            "group": "Tweede Divisie",
+                            "form": "LDWWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 15,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 32
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 17
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 1272,
+                                "name": "Quick Boys",
+                                "logo": "https://media.api-sports.io/football/teams/1272.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": 18,
+                            "group": "Tweede Divisie",
+                            "form": "WLWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 14,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 33
+                                }
+                            },
+                            "home": {
+                                "played": 13,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 9
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 1237,
+                                "name": "Katwijk",
+                                "logo": "https://media.api-sports.io/football/teams/1237.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": 13,
+                            "group": "Tweede Divisie",
+                            "form": "LWWDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 14,
+                                "draw": 2,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 30
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 5,
+                                "draw": 1,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 13,
+                                "win": 9,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 1261,
+                                "name": "GVVV Veenendaal",
+                                "logo": "https://media.api-sports.io/football/teams/1261.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": 2,
+                            "group": "Tweede Divisie",
+                            "form": "WLLDW",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 11,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 1278,
+                                "name": "HHC",
+                                "logo": "https://media.api-sports.io/football/teams/1278.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": 12,
+                            "group": "Tweede Divisie",
+                            "form": "WDWLW",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 11,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 24
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 12
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 12
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 3911,
+                                "name": "ACV",
+                                "logo": "https://media.api-sports.io/football/teams/3911.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": 3,
+                            "group": "Tweede Divisie",
+                            "form": "LLWLW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 12,
+                                "draw": 2,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 37
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 6,
+                                "draw": 1,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 6,
+                                "draw": 1,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 9130,
+                                "name": "Almere City II",
+                                "logo": "https://media.api-sports.io/football/teams/9130.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": 7,
+                            "group": "Tweede Divisie",
+                            "form": "LDWWL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 10,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 1252,
+                                "name": "AFC Amsterdam",
+                                "logo": "https://media.api-sports.io/football/teams/1252.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": 4,
+                            "group": "Tweede Divisie",
+                            "form": "LWWLL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 10,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 38
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 13,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 1246,
+                                "name": "Koninklijke HFC",
+                                "logo": "https://media.api-sports.io/football/teams/1246.png"
+                            },
+                            "points": 35,
+                            "goalsDiff": 7,
+                            "group": "Tweede Divisie",
+                            "form": "WDWDW",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 9,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 13,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 10320,
+                                "name": "Sparta Rotterdam II",
+                                "logo": "https://media.api-sports.io/football/teams/10320.png"
+                            },
+                            "points": 35,
+                            "goalsDiff": 4,
+                            "group": "Tweede Divisie",
+                            "form": "WWWLL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 11,
+                                "draw": 2,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 37
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 5,
+                                "draw": 1,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 6,
+                                "draw": 1,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1248,
+                                "name": "Rijnsburgse Boys",
+                                "logo": "https://media.api-sports.io/football/teams/1248.png"
+                            },
+                            "points": 34,
+                            "goalsDiff": 1,
+                            "group": "Tweede Divisie",
+                            "form": "WWLWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 10,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 37
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 13,
+                                "win": 6,
+                                "draw": 1,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1247,
+                                "name": "Noordwijk",
+                                "logo": "https://media.api-sports.io/football/teams/1247.png"
+                            },
+                            "points": 29,
+                            "goalsDiff": 1,
+                            "group": "Tweede Divisie",
+                            "form": "WLLWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 6,
+                                "draw": 11,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 31
+                                }
+                            },
+                            "home": {
+                                "played": 13,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 11
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 3886,
+                                "name": "ADO '20",
+                                "logo": "https://media.api-sports.io/football/teams/3886.png"
+                            },
+                            "points": 26,
+                            "goalsDiff": -15,
+                            "group": "Tweede Divisie",
+                            "form": "WLLWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 41
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 5,
+                                "draw": 0,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 1250,
+                                "name": "SVV Scheveningen",
+                                "logo": "https://media.api-sports.io/football/teams/1250.png"
+                            },
+                            "points": 19,
+                            "goalsDiff": -22,
+                            "group": "Tweede Divisie",
+                            "form": "LLLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 24,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 1242,
+                                "name": "Kozakken Boys",
+                                "logo": "https://media.api-sports.io/football/teams/1242.png"
+                            },
+                            "points": 16,
+                            "goalsDiff": -18,
+                            "group": "Tweede Divisie",
+                            "form": "DWWLL",
+                            "status": "up",
+                            "description": "Relegation Play-off",
+                            "all": {
+                                "played": 24,
+                                "win": 3,
+                                "draw": 7,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 13,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 1,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 17129,
+                                "name": "Excelsior Maassluis",
+                                "logo": "https://media.api-sports.io/football/teams/17129.png"
+                            },
+                            "points": 15,
+                            "goalsDiff": -23,
+                            "group": "Tweede Divisie",
+                            "form": "LLDLL",
+                            "status": "down",
+                            "description": "Relegation Play-off",
+                            "all": {
+                                "played": 24,
+                                "win": 3,
+                                "draw": 6,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 0,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 1257,
+                                "name": "FC Lisse",
+                                "logo": "https://media.api-sports.io/football/teams/1257.png"
+                            },
+                            "points": 11,
+                            "goalsDiff": -39,
+                            "group": "Tweede Divisie",
+                            "form": "LLDLL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 24,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 65
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 0,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 33
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 2,
+                                "draw": 2,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
