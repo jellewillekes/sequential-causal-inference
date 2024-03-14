@@ -1,4 +1,4 @@
-League,Division,Season,Position,Team,Team_id,Points,Form,Played,Win,Draw,Lose,GoalsDiff,GoalsFor,GoalsAgainst,NationalRank
+League,Division,Year,Position,Team,Team_id,Points,Form,Played,Win,Draw,Lose,GoalsDiff,GoalsFor,GoalsAgainst,NationalRank
 Eredivisie,1,2017,1,PSV Eindhoven,197,61,WWWWW,23,20,1,2,37,60,23,1
 Eredivisie,1,2017,2,Ajax,194,54,WWWDW,23,17,3,3,44,65,21,2
 Eredivisie,1,2017,3,AZ Alkmaar,201,47,DWDWD,23,14,5,4,21,43,22,3

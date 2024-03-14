@@ -1,5 +1,3 @@
-# league_analysis.py
-
 import os
 import json
 import pandas as pd
@@ -34,7 +32,7 @@ class LeagueAnalysis:
         return {
             'League': league,
             'Division': division,
-            'Season': season,
+            'Year': season,
             'Position': entry['rank'],
             'Team': entry['team']['name'],
             'Team_id': entry['team']['id'],
@@ -50,18 +48,18 @@ class LeagueAnalysis:
         }
 
     def calculate_national_rank(self, df):
-        df = df.sort_values(by=['Season', 'Division', 'Position'])
+        df = df.sort_values(by=['Year', 'Division', 'Position'])
         offsets = self.calculate_offsets(df)
-        df['NationalRank'] = df.apply(lambda row: row['Position'] + offsets[(row['Season'], row['Division'])], axis=1)
-        return df.sort_values(by=['Season', 'NationalRank']).reset_index(drop=True)
+        df['NationalRank'] = df.apply(lambda row: row['Position'] + offsets[(row['Year'], row['Division'])], axis=1)
+        return df.sort_values(by=['Year', 'NationalRank']).reset_index(drop=True)
 
     def calculate_offsets(self, df):
         offsets = {}
-        for season in df['Season'].unique():
+        for Year in df['Year'].unique():
             max_position = 0
-            for division in sorted(df[df['Season'] == season]['Division'].unique()):
-                offsets[(season, division)] = max_position
-                max_position += df[(df['Season'] == season) & (df['Division'] == division)]['Position'].max()
+            for division in sorted(df[df['Year'] == Year]['Division'].unique()):
+                offsets[(Year, division)] = max_position
+                max_position += df[(df['Year'] == Year) & (df['Division'] == division)]['Position'].max()
         return offsets
 
     def save_to_csv(self, df):
@@ -73,9 +71,9 @@ class LeagueAnalysis:
 def run_analysis(country):
     analysis = LeagueAnalysis(country)
     df_final = analysis.compile_standings()
-    print(df_final[['Season', 'Division', 'Position', 'Team', 'NationalRank']].head(5))
+    print(df_final[['Year', 'Division', 'Position', 'Team', 'NationalRank']].head(5))
 
 
 if __name__ == "__main__":
-    country = 'Netherlands'
+    country = 'England'
     run_analysis(country)

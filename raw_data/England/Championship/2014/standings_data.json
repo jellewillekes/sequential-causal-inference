@@ -1,0 +1,1109 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "40",
+        "season": "2014"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 40,
+                "name": "Championship",
+                "country": "England",
+                "logo": "https://media.api-sports.io/football/leagues/40.png",
+                "flag": "https://media.api-sports.io/flags/gb.svg",
+                "season": 2014,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 35,
+                                "name": "Bournemouth",
+                                "logo": "https://media.api-sports.io/football/teams/35.png"
+                            },
+                            "points": 90,
+                            "goalsDiff": 53,
+                            "group": "Championship: Regular Season",
+                            "form": "WWDWW",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 46,
+                                "win": 26,
+                                "draw": 12,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 98,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 13,
+                                "draw": 7,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 13,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 38,
+                                "name": "Watford",
+                                "logo": "https://media.api-sports.io/football/teams/38.png"
+                            },
+                            "points": 89,
+                            "goalsDiff": 41,
+                            "group": "Championship: Regular Season",
+                            "form": "DWWWW",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 46,
+                                "win": 27,
+                                "draw": 8,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 91,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 14,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 13,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 71,
+                                "name": "Norwich",
+                                "logo": "https://media.api-sports.io/football/teams/71.png"
+                            },
+                            "points": 86,
+                            "goalsDiff": 40,
+                            "group": "Championship: Regular Season",
+                            "form": "WDLWW",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 25,
+                                "draw": 11,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 88,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 13,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 70,
+                                "name": "Middlesbrough",
+                                "logo": "https://media.api-sports.io/football/teams/70.png"
+                            },
+                            "points": 85,
+                            "goalsDiff": 31,
+                            "group": "Championship: Regular Season",
+                            "form": "DLWWW",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 25,
+                                "draw": 10,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 68,
+                                    "against": 37
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 15,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 12
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 55,
+                                "name": "Brentford",
+                                "logo": "https://media.api-sports.io/football/teams/55.png"
+                            },
+                            "points": 78,
+                            "goalsDiff": 19,
+                            "group": "Championship: Regular Season",
+                            "form": "WWDLD",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 23,
+                                "draw": 9,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 78,
+                                    "against": 59
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 28
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 57,
+                                "name": "Ipswich",
+                                "logo": "https://media.api-sports.io/football/teams/57.png"
+                            },
+                            "points": 78,
+                            "goalsDiff": 18,
+                            "group": "Championship: Regular Season",
+                            "form": "LWDWW",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 46,
+                                "win": 22,
+                                "draw": 12,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 72,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 15,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 36
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 39,
+                                "name": "Wolves",
+                                "logo": "https://media.api-sports.io/football/teams/39.png"
+                            },
+                            "points": 78,
+                            "goalsDiff": 14,
+                            "group": "Championship: Regular Season",
+                            "form": "WWDLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 22,
+                                "draw": 12,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 70,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 13,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 69,
+                                "name": "Derby",
+                                "logo": "https://media.api-sports.io/football/teams/69.png"
+                            },
+                            "points": 77,
+                            "goalsDiff": 29,
+                            "group": "Championship: Regular Season",
+                            "form": "LDDWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 21,
+                                "draw": 14,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 85,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 12,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 67,
+                                "name": "Blackburn",
+                                "logo": "https://media.api-sports.io/football/teams/67.png"
+                            },
+                            "points": 67,
+                            "goalsDiff": 7,
+                            "group": "Championship: Regular Season",
+                            "form": "WDWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 17,
+                                "draw": 16,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 66,
+                                    "against": 59
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 11,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 28
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 10,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 54,
+                                "name": "Birmingham",
+                                "logo": "https://media.api-sports.io/football/teams/54.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": -10,
+                            "group": "Championship: Regular Season",
+                            "form": "WWWLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 16,
+                                "draw": 15,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 64
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 10,
+                                "draw": 7,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 31
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 8,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 43,
+                                "name": "Cardiff",
+                                "logo": "https://media.api-sports.io/football/teams/43.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": -4,
+                            "group": "Championship: Regular Season",
+                            "form": "WWDLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 16,
+                                "draw": 14,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 57,
+                                    "against": 61
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 9,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1335,
+                                "name": "Charlton",
+                                "logo": "https://media.api-sports.io/football/teams/1335.png"
+                            },
+                            "points": 60,
+                            "goalsDiff": -6,
+                            "group": "Championship: Regular Season",
+                            "form": "LLWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 18,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 9,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 74,
+                                "name": "Sheffield Wednesday",
+                                "logo": "https://media.api-sports.io/football/teams/74.png"
+                            },
+                            "points": 60,
+                            "goalsDiff": -6,
+                            "group": "Championship: Regular Season",
+                            "form": "DLDWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 18,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 11,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 65,
+                                "name": "Nottingham Forest",
+                                "logo": "https://media.api-sports.io/football/teams/65.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 2,
+                            "group": "Championship: Regular Season",
+                            "form": "LLDLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 15,
+                                "draw": 14,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 71,
+                                    "against": 69
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 32
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 9,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 63,
+                                "name": "Leeds",
+                                "logo": "https://media.api-sports.io/football/teams/63.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": -11,
+                            "group": "Championship: Regular Season",
+                            "form": "DWLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 15,
+                                "draw": 11,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 61
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 37,
+                                "name": "Huddersfield",
+                                "logo": "https://media.api-sports.io/football/teams/37.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": -17,
+                            "group": "Championship: Regular Season",
+                            "form": "DDDDW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 13,
+                                "draw": 16,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 58,
+                                    "against": 75
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 34
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 41
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 36,
+                                "name": "Fulham",
+                                "logo": "https://media.api-sports.io/football/teams/36.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": -21,
+                            "group": "Championship: Regular Season",
+                            "form": "LWWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 14,
+                                "draw": 10,
+                                "lose": 22,
+                                "goals": {
+                                    "for": 62,
+                                    "against": 83
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 38
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 45
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 68,
+                                "name": "Bolton",
+                                "logo": "https://media.api-sports.io/football/teams/68.png"
+                            },
+                            "points": 51,
+                            "goalsDiff": -13,
+                            "group": "Championship: Regular Season",
+                            "form": "LLDDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 13,
+                                "draw": 12,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 67
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 9,
+                                "draw": 8,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 40
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 53,
+                                "name": "Reading",
+                                "logo": "https://media.api-sports.io/football/teams/53.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": -21,
+                            "group": "Championship: Regular Season",
+                            "form": "WLLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 13,
+                                "draw": 11,
+                                "lose": 22,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 69
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 44
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 51,
+                                "name": "Brighton",
+                                "logo": "https://media.api-sports.io/football/teams/51.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -10,
+                            "group": "Championship: Regular Season",
+                            "form": "DLLDL",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 10,
+                                "draw": 17,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 8,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 9,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 21,
+                            "team": {
+                                "id": 73,
+                                "name": "Rotherham",
+                                "logo": "https://media.api-sports.io/football/teams/73.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": -21,
+                            "group": "Championship: Regular Season",
+                            "form": "DWDDL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 46,
+                                "win": 11,
+                                "draw": 16,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 67
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 34
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 3,
+                                "draw": 9,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 22,
+                            "team": {
+                                "id": 58,
+                                "name": "Millwall",
+                                "logo": "https://media.api-sports.io/football/teams/58.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -34,
+                            "group": "Championship: Regular Season",
+                            "form": "LDLDW",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 9,
+                                "draw": 14,
+                                "lose": 23,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 76
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 5,
+                                "draw": 7,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 40
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 36
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 23,
+                            "team": {
+                                "id": 61,
+                                "name": "Wigan",
+                                "logo": "https://media.api-sports.io/football/teams/61.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": -25,
+                            "group": "Championship: Regular Season",
+                            "form": "LLWLD",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 9,
+                                "draw": 12,
+                                "lose": 25,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 64
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 3,
+                                "draw": 8,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 35
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 24,
+                            "team": {
+                                "id": 1356,
+                                "name": "Blackpool",
+                                "logo": "https://media.api-sports.io/football/teams/1356.png"
+                            },
+                            "points": 26,
+                            "goalsDiff": -55,
+                            "group": "Championship: Regular Season",
+                            "form": "DLLLL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 46,
+                                "win": 4,
+                                "draw": 14,
+                                "lose": 28,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 91
+                                }
+                            },
+                            "home": {
+                                "played": 23,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 35
+                                }
+                            },
+                            "away": {
+                                "played": 23,
+                                "win": 0,
+                                "draw": 7,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 56
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

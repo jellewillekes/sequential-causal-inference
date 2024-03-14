@@ -75,7 +75,7 @@ class CupAnalysis:
 if __name__ == "__main__":
     country = 'Netherlands'
     cup = 'KNVB_Beker'
-    season_start = 2017
+    season_start = 2011
     season_end = 2023
 
     cup_analysis = CupAnalysis(country, cup)

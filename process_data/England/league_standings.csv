@@ -1,0 +1,932 @@
+League,Division,Year,Position,Team,Team_id,Points,Form,Played,Win,Draw,Lose,GoalsDiff,GoalsFor,GoalsAgainst,NationalRank
+Premier_League,1,2011,1,Manchester City,50,89,WWWWW,38,28,5,5,64,93,29,1
+Premier_League,1,2011,2,Manchester United,33,89,WWLDW,38,28,5,5,56,89,33,2
+Premier_League,1,2011,3,Arsenal,42,70,WDDDL,38,21,7,10,25,74,49,3
+Premier_League,1,2011,4,Tottenham,47,69,WDWWL,38,20,9,9,25,66,41,4
+Premier_League,1,2011,5,Newcastle,34,65,LLWLW,38,19,8,11,5,56,51,5
+Premier_League,1,2011,6,Chelsea,49,64,WLLWD,38,18,10,10,19,65,46,6
+Premier_League,1,2011,7,Everton,45,56,WDDWD,38,15,11,12,10,50,40,7
+Premier_League,1,2011,8,Liverpool,40,52,LWLWL,38,14,10,14,7,47,40,8
+Premier_League,1,2011,9,Fulham,36,52,LWWLW,38,14,10,14,-3,48,51,9
+Premier_League,1,2011,10,West Brom,60,47,LDDWW,38,13,8,17,-7,45,52,10
+Premier_League,1,2011,11,Swansea,76,47,WLDDW,38,12,11,15,-7,44,51,11
+Premier_League,1,2011,12,Norwich,71,47,WDLLL,38,12,11,15,-14,52,66,12
+Premier_League,1,2011,13,Sunderland,746,45,LLDDD,38,11,12,15,-1,45,46,13
+Premier_League,1,2011,14,Stoke City,75,45,DLDDL,38,11,12,15,-17,36,53,14
+Premier_League,1,2011,15,Wigan,61,43,WWWLW,38,11,10,17,-20,42,62,15
+Premier_League,1,2011,16,Aston Villa,66,38,LDDLD,38,7,17,14,-16,37,53,16
+Premier_League,1,2011,17,QPR,72,37,LWLWL,38,10,7,21,-23,43,66,17
+Premier_League,1,2011,18,Bolton,68,36,DDLDW,38,10,6,22,-31,46,77,18
+Premier_League,1,2011,19,Blackburn,67,31,LLLWL,38,8,7,23,-30,48,78,19
+Premier_League,1,2011,20,Wolves,39,25,LDDLD,38,5,10,23,-42,40,82,20
+Championship,2,2011,1,Reading,53,89,LDWWW,46,27,8,11,28,69,41,21
+Championship,2,2011,2,Southampton,41,88,WLWLW,46,26,10,10,39,85,46,22
+Championship,2,2011,3,West Ham,48,86,WWDWD,46,24,14,8,33,81,48,23
+Championship,2,2011,4,Birmingham,54,76,WDDDD,46,20,16,10,27,78,51,24
+Championship,2,2011,5,Blackpool,1356,75,DWWDD,46,20,15,11,20,79,59,25
+Championship,2,2011,6,Cardiff,43,75,WDWWD,46,19,18,9,13,66,53,26
+Championship,2,2011,7,Middlesbrough,70,70,LWDWL,46,18,16,12,1,52,51,27
+Championship,2,2011,8,Hull City,64,68,LWWDW,46,19,11,16,3,47,44,28
+Championship,2,2011,9,Leicester,46,66,WLDLW,46,18,12,16,11,66,55,29
+Championship,2,2011,10,Brighton,51,66,DDDLL,46,17,15,14,0,52,52,30
+Championship,2,2011,11,Watford,38,64,WDDDD,46,16,16,14,-8,56,64,31
+Championship,2,2011,12,Derby,69,64,DWLLW,46,18,10,18,-8,50,58,32
+Championship,2,2011,13,Burnley,44,62,DLDDW,46,17,11,18,3,61,58,33
+Championship,2,2011,14,Leeds,63,61,LDLWL,46,17,10,19,-3,65,68,34
+Championship,2,2011,15,Ipswich,57,61,WLDDL,46,17,10,19,-8,69,77,35
+Championship,2,2011,16,Millwall,58,57,DWWWW,46,15,12,19,-2,55,57,36
+Championship,2,2011,17,Crystal Palace,52,56,LDLDL,46,13,17,16,-5,46,51,37
+Championship,2,2011,18,Peterborough,1350,50,DDLLL,46,13,11,22,-10,67,77,38
+Championship,2,2011,19,Nottingham Forest,65,50,WLLDW,46,14,8,24,-15,48,63,39
+Championship,2,2011,20,Bristol City,56,49,DWDDW,46,12,13,21,-24,44,68,40
+Championship,2,2011,21,Barnsley,747,48,DLLLD,46,13,9,24,-25,49,74,41
+Championship,2,2011,22,Portsmouth,1355,40,LLWWL,46,13,11,22,-9,50,59,42
+Championship,2,2011,23,Coventry,1346,40,LLLDL,46,9,13,24,-24,41,65,43
+Championship,2,2011,24,Doncaster,1354,36,LWDLL,46,8,12,26,-37,43,80,44
+League_One,3,2011,1,Charlton,1335,101,WDWWW,46,30,11,5,46,82,36,45
+League_One,3,2011,2,Sheffield Wednesday,74,93,WWWDW,46,28,9,9,33,81,48,46
+League_One,3,2011,3,Sheffield Utd,62,90,DDLWW,46,27,9,10,41,92,51,47
+League_One,3,2011,4,Huddersfield,37,81,WDWLL,46,21,18,7,32,79,47,48
+League_One,3,2011,5,Milton Keynes Dons,1348,80,LWWWW,46,22,14,10,37,84,47,49
+League_One,3,2011,6,Stevenage,1368,73,WDWWW,46,18,19,9,25,69,44,50
+League_One,3,2011,7,Notts County,1376,73,WWLDW,46,21,10,15,12,75,63,51
+League_One,3,2011,8,Carlisle,1371,69,LWLLL,46,18,15,13,-1,65,66,52
+League_One,3,2011,9,Brentford,55,67,WLLDD,46,18,13,15,11,63,52,53
+League_One,3,2011,10,Colchester,1361,59,LWDDL,46,13,20,13,-5,61,66,54
+League_One,3,2011,11,Bournemouth,35,58,WDDLW,46,15,13,18,-4,48,52,55
+League_One,3,2011,12,Tranmere,1381,56,DLDWL,46,14,14,18,-4,49,53,56
+League_One,3,2011,13,Hartlepool,1366,56,LWDLD,46,14,14,18,-5,50,55,57
+League_One,3,2011,14,Bury,1344,56,LDWWW,46,15,11,20,-19,60,79,58
+League_One,3,2011,15,Preston,59,54,LDDWD,46,13,15,18,-14,54,68,59
+League_One,3,2011,16,Oldham,1349,54,WDDDL,46,14,12,20,-16,50,66,60
+League_One,3,2011,17,Yeovil Town,1377,54,LWDLL,46,14,12,20,-21,59,80,61
+League_One,3,2011,18,Scunthorpe,1340,52,DDLLD,46,10,22,14,-4,55,59,62
+League_One,3,2011,19,Walsall,1342,50,WDLLL,46,10,20,16,-6,51,57,63
+League_One,3,2011,20,Leyton Orient,1373,50,WLDLL,46,13,11,22,-27,48,75,64
+League_One,3,2011,21,Wycombe,1358,43,LLLDL,46,11,10,25,-23,65,88,65
+League_One,3,2011,22,Chesterfield,1345,42,LLWWW,46,10,12,24,-25,56,81,66
+League_One,3,2011,23,Exeter City,1364,42,DLWLW,46,10,12,24,-29,46,75,67
+League_One,3,2011,24,Rochdale,1339,38,LLLWL,46,8,14,24,-34,47,81,68
+League_Two,4,2011,1,Swindon Town,1353,93,DWLLW,46,29,6,11,43,75,32,69
+League_Two,4,2011,2,Shrewsbury,1352,88,LWDWW,46,26,10,10,25,66,41,70
+League_Two,4,2011,3,Crawley Town,1362,84,WLDWD,46,23,15,8,22,76,54,71
+League_Two,4,2011,4,Southend,1341,83,WWWDW,46,25,8,13,29,77,48,72
+League_Two,4,2011,5,Torquay,1827,81,LDLDD,46,23,12,11,13,63,50,73
+League_Two,4,2011,6,Cheltenham,1372,77,WWLWL,46,23,8,15,16,66,50,74
+League_Two,4,2011,7,Crewe,1363,72,DDWDW,46,20,12,14,8,67,59,75
+League_Two,4,2011,8,Gillingham,1347,70,WDWDL,46,20,10,16,17,79,62,76
+League_Two,4,2011,9,Oxford United,1338,68,LLDDD,46,17,17,12,11,59,48,77
+League_Two,4,2011,10,Rotherham,73,67,DDWLW,46,18,13,15,4,67,63,78
+League_Two,4,2011,11,Aldershot Town,1818,66,DDWWD,46,19,9,18,2,54,52,79
+League_Two,4,2011,12,Port Vale,1351,59,WLWLD,46,20,9,17,8,68,60,80
+League_Two,4,2011,13,Bristol Rovers,1334,57,LWLWL,46,15,12,19,-10,60,70,81
+League_Two,4,2011,14,Accrington ST,1360,57,LLDLW,46,14,15,17,-12,54,66,82
+League_Two,4,2011,15,Morecambe,1375,56,LDLDL,46,14,14,18,6,63,57,83
+League_Two,4,2011,16,AFC Wimbledon,1333,54,WLWDL,46,15,9,22,-16,62,78,84
+League_Two,4,2011,17,Burton Albion,748,54,LWLLW,46,14,12,20,-27,54,81,85
+League_Two,4,2011,18,Bradford,1343,50,DLWWL,46,12,14,20,-5,54,59,86
+League_Two,4,2011,19,Dagenham & Redbridge,1821,50,WLDDW,46,14,8,24,-22,50,72,87
+League_Two,4,2011,20,Northampton,1337,48,DDDLL,46,12,12,22,-23,56,79,88
+League_Two,4,2011,21,Plymouth,1357,46,LDDLW,46,10,16,20,-17,47,64,89
+League_Two,4,2011,22,Barnet,1369,46,WWLDL,46,12,10,24,-27,52,79,90
+League_Two,4,2011,23,Hereford United,11932,44,WWDDL,46,10,14,22,-20,50,70,91
+League_Two,4,2011,24,Macclesfield,1380,37,LLLDL,46,8,13,25,-25,39,64,92
+Premier_League,1,2012,1,Manchester United,33,89,DWLDW,38,28,5,5,43,86,43,1
+Premier_League,1,2012,2,Manchester City,50,78,LWWDW,38,23,9,6,32,66,34,2
+Premier_League,1,2012,3,Chelsea,49,75,WWDWW,38,22,9,7,36,75,39,3
+Premier_League,1,2012,4,Arsenal,42,73,WWWDW,38,21,10,7,35,72,37,4
+Premier_League,1,2012,5,Tottenham,47,72,WWDWD,38,21,9,8,20,66,46,5
+Premier_League,1,2012,6,Everton,45,63,LWDWL,38,16,15,7,15,55,40,6
+Premier_League,1,2012,7,Liverpool,40,61,WWDWD,38,16,13,9,28,71,43,7
+Premier_League,1,2012,8,West Brom,60,49,DLLLW,38,14,7,17,-4,53,57,8
+Premier_League,1,2012,9,Swansea,76,46,LLWDL,38,11,13,14,-4,47,51,9
+Premier_League,1,2012,10,West Ham,48,46,WLDLW,38,12,10,16,-8,45,53,10
+Premier_League,1,2012,11,Norwich,71,44,WWLLW,38,10,14,14,-17,41,58,11
+Premier_League,1,2012,12,Fulham,36,43,WLLLL,38,11,10,17,-10,50,60,12
+Premier_League,1,2012,13,Stoke City,75,42,DLDWW,38,9,15,14,-11,34,45,13
+Premier_League,1,2012,14,Southampton,41,41,DDLLD,38,9,14,15,-11,49,60,14
+Premier_League,1,2012,15,Aston Villa,66,41,DLWWL,38,10,11,17,-22,47,69,15
+Premier_League,1,2012,16,Newcastle,34,41,LWDLD,38,11,8,19,-23,45,68,16
+Premier_League,1,2012,17,Sunderland,746,39,LDDLW,38,9,12,17,-13,41,54,17
+Premier_League,1,2012,18,Wigan,61,36,DLLWD,38,9,9,20,-26,47,73,18
+Premier_League,1,2012,19,Reading,53,28,LLWDL,38,6,10,22,-30,43,73,19
+Premier_League,1,2012,20,QPR,72,25,LLLDL,38,4,13,21,-30,30,60,20
+Championship,2,2012,1,Cardiff,43,87,DDDDW,46,25,12,9,27,72,45,21
+Championship,2,2012,2,Hull City,64,79,DLDLW,46,24,7,15,9,61,52,22
+Championship,2,2012,3,Watford,38,77,LWWLL,46,23,8,15,27,85,58,23
+Championship,2,2012,4,Brighton,51,75,WWWDW,46,19,18,9,26,69,43,24
+Championship,2,2012,5,Crystal Palace,52,72,WDDDL,46,19,15,12,11,73,62,25
+Championship,2,2012,6,Leicester,46,68,WLDWD,46,19,11,16,23,71,48,26
+Championship,2,2012,7,Bolton,68,68,DDWLW,46,18,14,14,8,69,61,27
+Championship,2,2012,8,Nottingham Forest,65,67,LWDLL,46,17,16,13,4,63,59,28
+Championship,2,2012,9,Charlton,1335,65,WDWDW,46,17,14,15,6,65,59,29
+Championship,2,2012,10,Derby,69,61,WLWDL,46,16,13,17,3,65,62,30
+Championship,2,2012,11,Burnley,44,61,WWDLL,46,16,13,17,2,62,60,31
+Championship,2,2012,12,Birmingham,54,61,DLWWD,46,15,16,15,-6,63,69,32
+Championship,2,2012,13,Leeds,63,61,WLLWW,46,17,10,19,-9,57,66,33
+Championship,2,2012,14,Ipswich,57,60,LWDWL,46,16,12,18,-13,48,61,34
+Championship,2,2012,15,Blackpool,1356,59,DWLDW,46,14,17,15,-1,62,63,35
+Championship,2,2012,16,Middlesbrough,70,59,LDLWL,46,18,5,23,-9,61,70,36
+Championship,2,2012,17,Blackburn,67,58,DDWLW,46,14,16,16,-7,55,62,37
+Championship,2,2012,18,Sheffield Wednesday,74,58,WLDDL,46,16,10,20,-8,53,61,38
+Championship,2,2012,19,Huddersfield,37,58,DWWLW,46,15,13,18,-20,53,73,39
+Championship,2,2012,20,Millwall,58,56,LDLLL,46,15,11,20,-11,51,62,40
+Championship,2,2012,21,Barnsley,747,55,DWDDL,46,14,13,19,-14,56,70,41
+Championship,2,2012,22,Peterborough,1350,54,LWLDW,46,15,9,22,-9,66,75,42
+Championship,2,2012,23,Wolves,39,51,LLLWL,46,14,9,23,-14,55,69,43
+Championship,2,2012,24,Bristol City,56,41,LLDLL,46,11,8,27,-25,59,84,44
+League_One,3,2012,1,Doncaster,1354,84,WLWLW,46,25,9,12,18,62,44,45
+League_One,3,2012,2,Bournemouth,35,83,DWWWW,46,24,11,11,23,76,53,46
+League_One,3,2012,3,Brentford,55,79,LDDWW,46,21,16,9,15,62,47,47
+League_One,3,2012,4,Yeovil Town,1377,77,LWLWW,46,23,8,15,15,71,56,48
+League_One,3,2012,5,Sheffield Utd,62,75,DLLDW,46,19,18,9,14,56,42,49
+League_One,3,2012,6,Swindon Town,1353,74,LWWLL,46,20,14,12,33,72,39,50
+League_One,3,2012,7,Leyton Orient,1373,71,DWWLW,46,21,8,17,7,55,48,51
+League_One,3,2012,8,Milton Keynes Dons,1348,70,WLWLW,46,19,13,14,17,62,45,52
+League_One,3,2012,9,Walsall,1342,68,LDDDW,46,17,17,12,7,65,58,53
+League_One,3,2012,10,Crawley Town,1362,68,DWLWW,46,18,14,14,1,59,58,54
+League_One,3,2012,11,Tranmere,1381,67,DLLLL,46,19,10,17,10,58,48,55
+League_One,3,2012,12,Notts County,1376,65,DWWLL,46,16,17,13,12,61,49,56
+League_One,3,2012,13,Crewe,1363,64,WWLLL,46,18,10,18,-8,54,62,57
+League_One,3,2012,14,Preston,59,59,DLWDW,46,14,17,15,5,54,49,58
+League_One,3,2012,15,Coventry,1346,55,DLLDL,46,18,11,17,7,66,59,59
+League_One,3,2012,16,Shrewsbury,1352,55,WWDLL,46,13,16,17,-6,54,60,60
+League_One,3,2012,17,Carlisle,1371,55,LLDWW,46,14,13,19,-21,56,77,61
+League_One,3,2012,18,Stevenage,1368,54,LLLDW,46,15,9,22,-17,47,64,62
+League_One,3,2012,19,Oldham,1349,51,DLWWW,46,14,9,23,-13,46,59,63
+League_One,3,2012,20,Colchester,1361,51,WDLLW,46,14,9,23,-21,47,68,64
+League_One,3,2012,21,Scunthorpe,1340,48,WWLDL,46,13,9,24,-24,49,73,65
+League_One,3,2012,22,Bury,1344,41,WDWLL,46,9,14,23,-28,45,73,66
+League_One,3,2012,23,Hartlepool,1366,41,DDWWL,46,9,14,23,-28,39,67,67
+League_One,3,2012,24,Portsmouth,1355,32,LWLDW,46,10,12,24,-18,51,69,68
+League_Two,4,2012,1,Gillingham,1347,83,LDLWW,46,23,14,9,27,66,39,69
+League_Two,4,2012,2,Rotherham,73,79,WWWWW,46,24,7,15,15,74,59,70
+League_Two,4,2012,3,Port Vale,1351,78,DDDDW,46,21,15,10,35,87,52,71
+League_Two,4,2012,4,Burton Albion,748,76,WLWWL,46,22,10,14,6,71,65,72
+League_Two,4,2012,5,Cheltenham,1372,75,DWWLW,46,20,15,11,7,58,51,73
+League_Two,4,2012,6,Northampton,1337,73,WDDLL,46,21,10,15,9,64,55,74
+League_Two,4,2012,7,Bradford,1343,69,DWLDW,46,18,15,13,11,63,52,75
+League_Two,4,2012,8,Chesterfield,1345,67,WWLDW,46,18,13,15,15,60,45,76
+League_Two,4,2012,9,Oxford United,1338,65,WWWLL,46,19,8,19,-1,60,61,77
+League_Two,4,2012,10,Exeter City,1364,64,LLDLL,46,18,10,18,1,63,62,78
+League_Two,4,2012,11,Southend,1341,61,LLWDL,46,16,13,17,6,61,55,79
+League_Two,4,2012,12,Rochdale,1339,61,WLDWW,46,16,13,17,-2,68,70,80
+League_Two,4,2012,13,Fleetwood Town,1336,60,LLLLD,46,15,15,16,-2,55,57,81
+League_Two,4,2012,14,Bristol Rovers,1334,60,DLDLW,46,16,12,18,-9,60,69,82
+League_Two,4,2012,15,Wycombe,1358,60,DLDWL,46,17,9,20,-10,50,60,83
+League_Two,4,2012,16,Morecambe,1375,58,WLLWL,46,15,13,18,-6,55,61,84
+League_Two,4,2012,17,York,1828,55,WWWDW,46,12,19,15,-10,50,60,85
+League_Two,4,2012,18,Accrington ST,1360,54,LWWDD,46,14,12,20,-17,51,68,86
+League_Two,4,2012,19,Torquay,1827,53,DWWLL,46,13,14,19,-7,55,62,87
+League_Two,4,2012,20,AFC Wimbledon,1333,53,WDDLL,46,14,11,21,-22,54,76,88
+League_Two,4,2012,21,Plymouth,1357,52,LLWLW,46,13,13,20,-9,46,55,89
+League_Two,4,2012,22,Dagenham & Redbridge,1821,51,LLLWL,46,13,12,21,-7,55,62,90
+League_Two,4,2012,23,Barnet,1369,51,LWLLW,46,13,12,21,-12,47,59,91
+League_Two,4,2012,24,Aldershot Town,1818,48,LWLLD,46,11,15,20,-18,42,60,92
+Premier_League,1,2013,1,Manchester City,50,86,WWWWW,38,27,5,6,65,102,37,1
+Premier_League,1,2013,2,Liverpool,40,84,WDLWW,38,26,6,6,51,101,50,2
+Premier_League,1,2013,3,Chelsea,49,82,WDWLW,38,25,7,6,44,71,27,3
+Premier_League,1,2013,4,Arsenal,42,79,WWWWW,38,24,7,7,27,68,41,4
+Premier_League,1,2013,5,Everton,45,72,WLLWL,38,21,9,8,22,61,39,5
+Premier_League,1,2013,6,Tottenham,47,69,WLWWD,38,21,6,11,4,55,51,6
+Premier_League,1,2013,7,Manchester United,33,64,DWLWL,38,19,7,12,21,64,43,7
+Premier_League,1,2013,8,Southampton,41,56,DWWDL,38,15,11,12,8,54,46,8
+Premier_League,1,2013,9,Stoke City,75,50,WWLDW,38,13,11,14,-7,45,52,9
+Premier_League,1,2013,10,Newcastle,34,49,LWLLL,38,15,4,19,-16,43,59,10
+Premier_League,1,2013,11,Crystal Palace,52,45,DDLWW,38,13,6,19,-15,33,48,11
+Premier_League,1,2013,12,Swansea,76,42,WLWWL,38,11,9,18,0,54,54,12
+Premier_League,1,2013,13,West Ham,48,40,LWLLL,38,11,7,20,-11,40,51,13
+Premier_League,1,2013,14,Sunderland,746,38,LWWWW,38,10,8,20,-19,41,60,14
+Premier_League,1,2013,15,Aston Villa,66,38,LLWLD,38,10,8,20,-22,39,61,15
+Premier_League,1,2013,16,Hull City,64,37,LLLDL,38,10,7,21,-15,38,53,16
+Premier_League,1,2013,17,West Brom,60,36,LLLWL,38,7,15,16,-16,43,59,17
+Premier_League,1,2013,18,Norwich,71,33,LDLLL,38,8,9,21,-34,28,62,18
+Premier_League,1,2013,19,Fulham,36,32,DLDLW,38,9,5,24,-45,40,85,19
+Premier_League,1,2013,20,Cardiff,43,30,LLLDW,38,7,9,22,-42,32,74,20
+Championship,2,2013,1,Leicester,46,102,WWWWD,46,31,9,6,40,83,43,21
+Championship,2,2013,2,Burnley,44,93,DWWWL,46,26,15,5,35,72,37,22
+Championship,2,2013,3,Derby,69,85,DWWWW,46,25,10,11,32,84,52,23
+Championship,2,2013,4,QPR,72,80,WDWLW,46,23,11,12,16,60,44,24
+Championship,2,2013,5,Wigan,61,73,LWLLW,46,21,10,15,13,61,48,25
+Championship,2,2013,6,Brighton,51,72,WWDDW,46,19,15,12,15,55,40,26
+Championship,2,2013,7,Reading,53,71,DWWLD,46,19,14,13,14,70,56,27
+Championship,2,2013,8,Blackburn,67,70,WWWDD,46,18,16,12,8,70,62,28
+Championship,2,2013,9,Ipswich,57,68,WLDLW,46,18,14,14,6,60,54,29
+Championship,2,2013,10,Bournemouth,35,66,LWDLD,46,18,12,16,1,67,66,30
+Championship,2,2013,11,Nottingham Forest,65,65,LLWWL,46,16,17,13,3,67,64,31
+Championship,2,2013,12,Middlesbrough,70,64,WWLLW,46,16,16,14,12,62,50,32
+Championship,2,2013,13,Watford,38,60,LLLLW,46,15,15,16,10,74,64,33
+Championship,2,2013,14,Bolton,68,59,DWLDW,46,14,17,15,-1,59,60,34
+Championship,2,2013,15,Leeds,63,57,DWLWW,46,16,9,21,-8,59,67,35
+Championship,2,2013,16,Sheffield Wednesday,74,53,LLLWD,46,13,14,19,-2,63,65,36
+Championship,2,2013,17,Huddersfield,37,53,WLWDL,46,14,11,21,-7,58,65,37
+Championship,2,2013,18,Charlton,1335,51,WWLWD,46,13,12,21,-20,41,61,38
+Championship,2,2013,19,Millwall,58,48,WDDWD,46,11,15,20,-28,46,74,39
+Championship,2,2013,20,Blackpool,1356,46,LWDLL,46,11,13,22,-28,38,66,40
+Championship,2,2013,21,Birmingham,54,44,DLLLL,46,11,11,24,-16,58,74,41
+Championship,2,2013,22,Doncaster,1354,44,LLDLL,46,11,11,24,-31,39,70,42
+Championship,2,2013,23,Barnsley,747,39,LLLLW,46,9,12,25,-33,44,77,43
+Championship,2,2013,24,Yeovil Town,1377,37,LLLDD,46,8,13,25,-31,44,75,44
+League_One,3,2013,1,Wolves,39,103,WDWWW,46,31,10,5,58,89,31,45
+League_One,3,2013,2,Brentford,55,94,WLDWL,46,28,10,8,29,72,43,46
+League_One,3,2013,3,Leyton Orient,1373,86,WWLLW,46,25,11,10,40,85,45,47
+League_One,3,2013,4,Rotherham,73,86,WDWLD,46,24,14,8,28,86,58,48
+League_One,3,2013,5,Preston,59,85,LWWLW,46,23,16,7,26,72,46,49
+League_One,3,2013,6,Peterborough,1350,74,DWWLW,46,23,5,18,14,72,58,50
+League_One,3,2013,7,Sheffield Utd,62,67,WDWDW,46,18,13,15,2,48,46,51
+League_One,3,2013,8,Swindon Town,1353,66,LLWWW,46,19,9,18,4,63,59,52
+League_One,3,2013,9,Port Vale,1351,61,DLLWL,46,18,7,21,-14,59,73,53
+League_One,3,2013,10,Milton Keynes Dons,1348,60,LDDLL,46,17,9,20,-2,63,65,54
+League_One,3,2013,11,Bradford,1343,59,WWLWD,46,14,17,15,3,57,54,55
+League_One,3,2013,12,Bristol City,56,58,DDWWW,46,13,19,14,3,70,67,56
+League_One,3,2013,13,Walsall,1342,58,LLDDL,46,14,16,16,0,49,49,57
+League_One,3,2013,14,Crawley Town,1362,57,DDLLW,46,14,15,17,-6,48,54,58
+League_One,3,2013,15,Oldham,1349,56,DDWDW,46,14,14,18,-9,50,59,59
+League_One,3,2013,16,Colchester,1361,53,WWDLW,46,13,14,19,-8,53,61,60
+League_One,3,2013,17,Gillingham,1347,53,DLDWL,46,15,8,23,-19,60,79,61
+League_One,3,2013,18,Coventry,1346,51,LDDLL,46,16,13,17,-3,74,77,62
+League_One,3,2013,19,Crewe,1363,51,WDDWL,46,13,12,21,-26,54,80,63
+League_One,3,2013,20,Notts County,1376,50,DWWLW,46,15,5,26,-13,64,77,64
+League_One,3,2013,21,Tranmere,1381,47,LLDLL,46,12,11,23,-27,52,79,65
+League_One,3,2013,22,Carlisle,1371,45,LDLLD,46,11,12,23,-33,43,76,66
+League_One,3,2013,23,Shrewsbury,1352,42,DLLLL,46,9,15,22,-21,44,65,67
+League_One,3,2013,24,Stevenage,1368,42,LWLLL,46,11,9,26,-26,46,72,68
+Premier_League,1,2014,1,Chelsea,49,87,WLDWW,38,26,9,3,41,73,32,1
+Premier_League,1,2014,2,Manchester City,50,79,WWWWW,38,24,7,7,45,83,38,2
+Premier_League,1,2014,3,Arsenal,42,75,WDDLW,38,22,9,7,35,71,36,3
+Premier_League,1,2014,4,Manchester United,33,70,DDWLL,38,20,10,8,25,62,37,4
+Premier_League,1,2014,5,Tottenham,47,64,WWLLD,38,19,7,12,5,58,53,5
+Premier_League,1,2014,6,Liverpool,40,62,LLDWL,38,18,8,12,4,52,48,6
+Premier_League,1,2014,7,Southampton,41,60,LWLLD,38,18,6,14,21,54,33,7
+Premier_League,1,2014,8,Swansea,76,56,LLWWW,38,16,8,14,-3,46,49,8
+Premier_League,1,2014,9,Stoke City,75,54,WDWLD,38,15,9,14,3,48,45,9
+Premier_League,1,2014,10,Crystal Palace,52,48,WWLLL,38,13,9,16,-4,47,51,10
+Premier_League,1,2014,11,Everton,45,47,LWLLW,38,12,11,15,-2,48,50,11
+Premier_League,1,2014,12,West Ham,48,47,LLLWD,38,12,11,15,-3,44,47,12
+Premier_League,1,2014,13,West Brom,60,44,LWDWD,38,11,11,16,-13,38,51,13
+Premier_League,1,2014,14,Leicester,46,41,WDWWL,38,11,8,19,-9,46,55,14
+Premier_League,1,2014,15,Newcastle,34,39,WLDLL,38,10,9,19,-23,40,63,15
+Premier_League,1,2014,16,Sunderland,746,38,LDDWW,38,7,17,14,-22,31,53,16
+Premier_League,1,2014,17,Aston Villa,66,38,LLWWL,38,10,8,20,-26,31,57,17
+Premier_League,1,2014,18,Hull City,64,35,DLLLW,38,8,11,19,-18,33,51,18
+Premier_League,1,2014,19,Burnley,44,33,WDWLL,38,7,12,19,-25,28,53,19
+Premier_League,1,2014,20,QPR,72,30,LWLLD,38,8,6,24,-31,42,73,20
+Championship,2,2014,1,Bournemouth,35,90,WWDWW,46,26,12,8,53,98,45,21
+Championship,2,2014,2,Watford,38,89,DWWWW,46,27,8,11,41,91,50,22
+Championship,2,2014,3,Norwich,71,86,WDLWW,46,25,11,10,40,88,48,23
+Championship,2,2014,4,Middlesbrough,70,85,DLWWW,46,25,10,11,31,68,37,24
+Championship,2,2014,5,Brentford,55,78,WWDLD,46,23,9,14,19,78,59,25
+Championship,2,2014,6,Ipswich,57,78,LWDWW,46,22,12,12,18,72,54,26
+Championship,2,2014,7,Wolves,39,78,WWDLL,46,22,12,12,14,70,56,27
+Championship,2,2014,8,Derby,69,77,LDDWD,46,21,14,11,29,85,56,28
+Championship,2,2014,9,Blackburn,67,67,WDWDD,46,17,16,13,7,66,59,29
+Championship,2,2014,10,Birmingham,54,63,WWWLD,46,16,15,15,-10,54,64,30
+Championship,2,2014,11,Cardiff,43,62,WWDLW,46,16,14,16,-4,57,61,31
+Championship,2,2014,12,Charlton,1335,60,LLWDD,46,14,18,14,-6,54,60,32
+Championship,2,2014,13,Sheffield Wednesday,74,60,DLDWD,46,14,18,14,-6,43,49,33
+Championship,2,2014,14,Nottingham Forest,65,59,LLDLL,46,15,14,17,2,71,69,34
+Championship,2,2014,15,Leeds,63,56,DWLLL,46,15,11,20,-11,50,61,35
+Championship,2,2014,16,Huddersfield,37,55,DDDDW,46,13,16,17,-17,58,75,36
+Championship,2,2014,17,Fulham,36,52,LWWDD,46,14,10,22,-21,62,83,37
+Championship,2,2014,18,Bolton,68,51,LLDDL,46,13,12,21,-13,54,67,38
+Championship,2,2014,19,Reading,53,50,WLLLL,46,13,11,22,-21,48,69,39
+Championship,2,2014,20,Brighton,51,47,DLLDL,46,10,17,19,-10,44,54,40
+Championship,2,2014,21,Rotherham,73,46,DWDDL,46,11,16,19,-21,46,67,41
+Championship,2,2014,22,Millwall,58,41,LDLDW,46,9,14,23,-34,42,76,42
+Championship,2,2014,23,Wigan,61,39,LLWLD,46,9,12,25,-25,39,64,43
+Championship,2,2014,24,Blackpool,1356,26,DLLLL,46,4,14,28,-55,36,91,44
+League_One,3,2014,1,Bristol City,56,99,WWDWD,46,29,12,5,58,96,38,45
+League_One,3,2014,2,Milton Keynes Dons,1348,91,WWWWW,46,27,10,9,57,101,44,46
+League_One,3,2014,3,Preston,59,89,LWWDD,46,25,14,7,39,79,40,47
+League_One,3,2014,4,Swindon Town,1353,79,DDLDL,46,23,10,13,19,76,57,48
+League_One,3,2014,5,Sheffield Utd,62,71,DDDLD,46,19,14,13,13,66,53,49
+League_One,3,2014,6,Chesterfield,1345,69,DLDWD,46,19,12,15,13,68,55,50
+League_One,3,2014,7,Bradford,1343,65,WWDDL,46,17,14,15,0,55,55,51
+League_One,3,2014,8,Rochdale,1339,63,LLWLL,46,19,6,21,6,72,66,52
+League_One,3,2014,9,Peterborough,1350,63,DWDDL,46,18,9,19,-3,53,56,53
+League_One,3,2014,10,Fleetwood Town,1336,63,WLDLL,46,17,12,17,-3,49,52,54
+League_One,3,2014,11,Barnsley,747,62,WLDDD,46,17,11,18,1,62,61,55
+League_One,3,2014,12,Gillingham,1347,62,WLWDW,46,16,14,16,-1,65,66,56
+League_One,3,2014,13,Doncaster,1354,61,WLLDW,46,16,13,17,-4,58,62,57
+League_One,3,2014,14,Walsall,1342,59,LWDDW,46,14,17,15,-4,50,54,58
+League_One,3,2014,15,Oldham,1349,57,DLDDD,46,14,15,17,-13,54,67,59
+League_One,3,2014,16,Scunthorpe,1340,56,LWDDD,46,14,14,18,-13,62,75,60
+League_One,3,2014,17,Coventry,1346,55,WLDDW,46,13,16,17,-11,49,60,61
+League_One,3,2014,18,Port Vale,1351,54,LWDDD,46,15,9,22,-10,55,65,62
+League_One,3,2014,19,Colchester,1361,52,WDWDL,46,14,10,22,-19,58,77,63
+League_One,3,2014,20,Crewe,1363,52,LWDDD,46,14,10,22,-32,43,75,64
+League_One,3,2014,21,Notts County,1376,50,LWLLD,46,12,14,20,-18,45,63,65
+League_One,3,2014,22,Crawley Town,1362,50,LLWLL,46,13,11,22,-26,53,79,66
+League_One,3,2014,23,Leyton Orient,1373,49,DDLLL,46,12,13,21,-10,59,69,67
+League_One,3,2014,24,Yeovil Town,1377,40,LLWWD,46,10,10,26,-39,36,75,68
+Premier_League,1,2015,1,Leicester,46,81,DWDWD,38,23,12,3,32,68,36,1
+Premier_League,1,2015,2,Arsenal,42,71,WDWDW,38,20,11,7,29,65,36,2
+Premier_League,1,2015,3,Tottenham,47,70,LLDDW,38,19,13,6,34,69,35,3
+Premier_League,1,2015,4,Manchester City,50,66,DDLWD,38,19,9,10,30,71,41,4
+Premier_League,1,2015,5,Manchester United,33,66,WLWDW,38,19,9,10,14,49,35,5
+Premier_League,1,2015,6,Southampton,41,63,WWWWD,38,18,9,11,18,59,41,6
+Premier_League,1,2015,7,West Ham,48,62,LWLWW,38,16,14,8,14,65,51,7
+Premier_League,1,2015,8,Liverpool,40,60,DDWLD,38,16,12,10,13,63,50,8
+Premier_League,1,2015,9,Stoke City,75,51,WLDLL,38,14,9,15,-14,41,55,9
+Premier_League,1,2015,10,Chelsea,49,50,DDLDW,38,12,14,12,6,59,53,10
+Premier_League,1,2015,11,Everton,45,47,WLLWL,38,11,14,13,4,59,55,11
+Premier_League,1,2015,12,Swansea,76,47,DWWLL,38,12,11,15,-10,42,52,12
+Premier_League,1,2015,13,Watford,38,45,DLLWL,38,12,9,17,-10,40,50,13
+Premier_League,1,2015,14,West Brom,60,43,DDLDL,38,10,13,15,-14,34,48,14
+Premier_League,1,2015,15,Crystal Palace,52,42,LWLLD,38,11,9,18,-12,39,51,15
+Premier_League,1,2015,16,Bournemouth,35,42,LDLLL,38,11,9,18,-22,45,67,16
+Premier_League,1,2015,17,Sunderland,746,39,DWWDD,38,9,12,17,-14,48,62,17
+Premier_League,1,2015,18,Newcastle,34,37,WDWDD,38,9,10,19,-21,44,65,18
+Premier_League,1,2015,19,Norwich,71,34,LWLLL,38,9,7,22,-28,39,67,19
+Premier_League,1,2015,20,Aston Villa,66,17,LDLLL,38,3,8,27,-49,27,76,20
+Championship,2,2015,1,Burnley,44,93,WWWDW,46,26,15,5,37,72,35,21
+Championship,2,2015,2,Middlesbrough,70,89,DDDDW,46,26,11,9,32,63,31,22
+Championship,2,2015,3,Brighton,51,89,DDWWW,46,24,17,5,30,72,42,23
+Championship,2,2015,4,Hull City,64,83,WLWDW,46,24,11,11,34,69,35,24
+Championship,2,2015,5,Derby,69,78,LDDWW,46,21,15,10,23,66,43,25
+Championship,2,2015,6,Sheffield Wednesday,74,74,LWDDD,46,19,17,10,21,66,45,26
+Championship,2,2015,7,Ipswich,57,69,WWDDD,46,18,15,13,2,53,51,27
+Championship,2,2015,8,Cardiff,43,68,DLWLD,46,17,17,12,5,56,51,28
+Championship,2,2015,9,Brentford,55,65,WWLWW,46,19,8,19,5,72,67,29
+Championship,2,2015,10,Birmingham,54,63,DDDDL,46,16,15,15,4,53,49,30
+Championship,2,2015,11,Preston,59,62,DWLDD,46,15,17,14,0,45,45,31
+Championship,2,2015,12,QPR,72,60,WLDLD,46,14,18,14,0,54,54,32
+Championship,2,2015,13,Leeds,63,59,DLDWW,46,14,17,15,-8,50,58,33
+Championship,2,2015,14,Wolves,39,58,WDDLL,46,14,16,16,-5,53,58,34
+Championship,2,2015,15,Blackburn,67,55,WWDDL,46,13,16,17,0,46,46,35
+Championship,2,2015,16,Nottingham Forest,65,55,WDWDD,46,13,16,17,-4,43,47,36
+Championship,2,2015,17,Reading,53,52,LLDLL,46,13,13,20,-7,52,59,37
+Championship,2,2015,18,Bristol City,56,52,LWDLD,46,13,13,20,-17,54,71,38
+Championship,2,2015,19,Huddersfield,37,51,LLDDW,46,13,12,21,-11,59,70,39
+Championship,2,2015,20,Fulham,36,51,WLLDL,46,12,15,19,-13,66,79,40
+Championship,2,2015,21,Rotherham,73,49,LLDDD,46,13,10,23,-18,53,71,41
+Championship,2,2015,22,Charlton,1335,40,LWLDL,46,9,13,24,-40,40,80,42
+Championship,2,2015,23,Milton Keynes Dons,1348,39,LLLDD,46,9,12,25,-30,39,69,43
+Championship,2,2015,24,Bolton,68,30,LWLDL,46,5,15,26,-40,41,81,44
+League_One,3,2015,1,Wigan,61,87,LWWDL,46,24,15,7,37,82,45,45
+League_One,3,2015,2,Burton Albion,748,85,DWWDD,46,25,10,11,20,57,37,46
+League_One,3,2015,3,Walsall,1342,84,WWWLD,46,24,12,10,22,71,49,47
+League_One,3,2015,4,Millwall,58,81,WWWWL,46,24,9,13,24,73,49,48
+League_One,3,2015,5,Bradford,1343,80,WWWLD,46,23,11,12,15,55,40,49
+League_One,3,2015,6,Barnsley,747,74,WDDWD,46,22,8,16,16,70,54,50
+League_One,3,2015,7,Scunthorpe,1340,74,WWWWW,46,21,11,14,13,60,47,51
+League_One,3,2015,8,Coventry,1346,69,WWLWW,46,19,12,15,18,67,49,52
+League_One,3,2015,9,Gillingham,1347,69,LLLDL,46,19,12,15,15,71,56,53
+League_One,3,2015,10,Rochdale,1339,69,WDLDW,46,19,12,15,7,68,61,54
+League_One,3,2015,11,Sheffield Utd,62,66,LLDWW,46,18,12,16,5,64,59,55
+League_One,3,2015,12,Port Vale,1351,65,LLWWW,46,18,11,17,-2,56,58,56
+League_One,3,2015,13,Peterborough,1350,63,WWLLW,46,19,6,21,9,82,73,57
+League_One,3,2015,14,Bury,1344,60,WLLLW,46,16,12,18,-17,56,73,58
+League_One,3,2015,15,Southend,1341,59,LLLLL,46,16,11,19,-6,58,64,59
+League_One,3,2015,16,Swindon Town,1353,59,WDWDL,46,16,11,19,-7,64,71,60
+League_One,3,2015,17,Oldham,1349,54,LLWWD,46,12,18,16,-14,44,58,61
+League_One,3,2015,18,Chesterfield,1345,53,LWLDL,46,15,8,23,-12,58,70,62
+League_One,3,2015,19,Fleetwood Town,1336,51,WLDLD,46,12,15,19,-4,52,56,63
+League_One,3,2015,20,Shrewsbury,1352,50,LLLWL,46,13,11,22,-21,58,79,64
+League_One,3,2015,21,Doncaster,1354,46,DLWDW,46,11,13,22,-16,48,64,65
+League_One,3,2015,22,Blackpool,1356,46,LLDLL,46,12,10,24,-23,40,63,66
+League_One,3,2015,23,Colchester,1361,40,LDLDL,46,9,13,24,-42,57,99,67
+League_One,3,2015,24,Crewe,1363,34,LWLDL,46,7,13,26,-37,46,83,68
+Premier_League,1,2016,1,Chelsea,49,93,WWWWW,38,30,3,5,52,85,33,1
+Premier_League,1,2016,2,Tottenham,47,86,WWWLW,38,26,8,4,60,86,26,2
+Premier_League,1,2016,3,Manchester City,50,78,WWWWD,38,23,9,6,41,80,39,3
+Premier_League,1,2016,4,Liverpool,40,76,WWDWL,38,22,10,6,36,78,42,4
+Premier_League,1,2016,5,Arsenal,42,75,WWWWW,38,23,6,9,33,77,44,5
+Premier_League,1,2016,6,Manchester United,33,69,WDLLD,38,18,15,5,25,54,29,6
+Premier_League,1,2016,7,Everton,45,61,LWLLD,38,17,10,11,18,62,44,7
+Premier_League,1,2016,8,Southampton,41,46,LDWLD,38,12,10,16,-7,41,48,8
+Premier_League,1,2016,9,Bournemouth,35,46,DWDWW,38,12,10,16,-12,55,67,9
+Premier_League,1,2016,10,West Brom,60,45,LLLDL,38,12,9,17,-8,43,51,10
+Premier_League,1,2016,11,West Ham,48,45,WLWDD,38,12,9,17,-17,47,64,11
+Premier_League,1,2016,12,Leicester,46,44,DLLWW,38,12,8,18,-15,48,63,12
+Premier_League,1,2016,13,Stoke City,75,44,WLDDL,38,11,11,16,-15,41,56,13
+Premier_League,1,2016,14,Crystal Palace,52,41,LWLLL,38,12,5,21,-13,50,63,14
+Premier_League,1,2016,15,Swansea,76,41,WWWDW,38,12,5,21,-25,45,70,15
+Premier_League,1,2016,16,Burnley,44,40,LLDWL,38,11,7,20,-16,39,55,16
+Premier_League,1,2016,17,Watford,38,40,LLLLL,38,11,7,20,-28,40,68,17
+Premier_League,1,2016,18,Hull City,64,34,LLLDW,38,9,7,22,-43,37,80,18
+Premier_League,1,2016,19,Middlesbrough,70,28,LLLDW,38,5,13,20,-26,27,53,19
+Premier_League,1,2016,20,Sunderland,746,24,LLLWL,38,6,6,26,-40,29,69,20
+Championship,2,2016,1,Newcastle,34,94,WWWLD,46,29,7,10,45,85,40,21
+Championship,2,2016,2,Brighton,51,93,DLLWW,46,28,9,9,34,74,40,22
+Championship,2,2016,3,Reading,53,85,WWLWW,46,26,7,13,4,68,64,23
+Championship,2,2016,4,Sheffield Wednesday,74,81,LWWWW,46,24,9,13,15,60,45,24
+Championship,2,2016,5,Huddersfield,37,81,LLWLD,46,25,6,15,-2,56,58,25
+Championship,2,2016,6,Fulham,36,80,WDWWW,46,22,14,10,28,85,57,26
+Championship,2,2016,7,Leeds,63,75,DDLLD,46,22,9,15,14,61,47,27
+Championship,2,2016,8,Norwich,71,70,WDWWL,46,20,10,16,16,85,69,28
+Championship,2,2016,9,Derby,69,67,DWLDL,46,18,13,15,4,54,50,29
+Championship,2,2016,10,Brentford,55,64,LDWDW,46,18,10,18,10,75,65,30
+Championship,2,2016,11,Preston,59,62,LDLLL,46,16,14,16,1,64,63,31
+Championship,2,2016,12,Cardiff,43,62,WLDWL,46,17,11,18,-1,60,61,32
+Championship,2,2016,13,Aston Villa,66,62,DLWLL,46,16,14,16,-1,47,48,33
+Championship,2,2016,14,Barnsley,747,58,LDLDL,46,15,13,18,-3,64,67,34
+Championship,2,2016,15,Wolves,39,58,WLLDW,46,16,10,20,-4,54,58,35
+Championship,2,2016,16,Ipswich,57,55,LLLWW,46,13,16,17,-10,48,58,36
+Championship,2,2016,17,Bristol City,56,54,LWWDW,46,15,9,22,-6,60,66,37
+Championship,2,2016,18,QPR,72,53,LWLLL,46,15,8,23,-14,52,66,38
+Championship,2,2016,19,Birmingham,54,53,WWLLD,46,13,14,19,-19,45,64,39
+Championship,2,2016,20,Burton Albion,748,52,LDWWL,46,13,13,20,-14,49,63,40
+Championship,2,2016,21,Nottingham Forest,65,51,WLWLL,46,14,9,23,-10,62,72,41
+Championship,2,2016,22,Blackburn,67,51,WWDDW,46,12,15,19,-12,53,65,42
+Championship,2,2016,23,Wigan,61,42,DLDLW,46,10,12,24,-17,40,57,43
+Championship,2,2016,24,Rotherham,73,23,DDWLD,46,5,8,33,-58,40,98,44
+League_One,3,2016,1,Sheffield Utd,62,100,WWWWW,46,30,10,6,45,92,47,45
+League_One,3,2016,2,Bolton,68,86,WWDLL,46,25,11,10,32,68,36,46
+League_One,3,2016,3,Scunthorpe,1340,82,WWWWW,46,24,10,12,26,80,54,47
+League_One,3,2016,4,Fleetwood Town,1336,82,DWWWL,46,23,13,10,21,64,43,48
+League_One,3,2016,5,Bradford,1343,79,DWLWW,46,20,19,7,19,62,43,49
+League_One,3,2016,6,Millwall,58,73,WLLWD,46,20,13,13,9,66,57,50
+League_One,3,2016,7,Southend,1341,72,WLLWL,46,20,12,14,17,70,53,51
+League_One,3,2016,8,Oxford United,1338,69,WWWLD,46,20,9,17,13,65,52,52
+League_One,3,2016,9,Rochdale,1339,69,DDWWL,46,19,12,15,9,71,62,53
+League_One,3,2016,10,Bristol Rovers,1334,66,LLWLW,46,18,12,16,-2,68,70,54
+League_One,3,2016,11,Peterborough,1350,62,LWDLL,46,17,11,18,0,62,62,55
+League_One,3,2016,12,Milton Keynes Dons,1348,61,WLWLD,46,16,13,17,2,60,58,56
+League_One,3,2016,13,Charlton,1335,60,WWWDW,46,14,18,14,7,60,53,57
+League_One,3,2016,14,Walsall,1342,58,LLLWD,46,14,16,16,-7,51,58,58
+League_One,3,2016,15,AFC Wimbledon,1333,57,DLDDL,46,13,18,15,-3,52,55,59
+League_One,3,2016,16,Northampton,1337,53,DLDLL,46,14,11,21,-13,60,73,60
+League_One,3,2016,17,Oldham,1349,53,DDLWW,46,12,17,17,-13,31,44,61
+League_One,3,2016,18,Shrewsbury,1352,51,LWDDW,46,13,12,21,-17,46,63,62
+League_One,3,2016,19,Bury,1344,50,LWDLL,46,13,11,22,-12,61,73,63
+League_One,3,2016,20,Gillingham,1347,50,DLLWD,46,12,14,20,-20,59,79,64
+League_One,3,2016,21,Port Vale,1351,49,DWLLL,46,12,13,21,-25,45,70,65
+League_One,3,2016,22,Swindon Town,1353,44,LLLDD,46,11,11,24,-22,44,66,66
+League_One,3,2016,23,Coventry,1346,39,LWLDW,46,9,12,25,-31,37,68,67
+League_One,3,2016,24,Chesterfield,1345,37,LLLLW,46,9,10,27,-35,43,78,68
+Premier_League,1,2017,1,Manchester City,50,100,WWDWW,38,32,4,2,79,106,27,1
+Premier_League,1,2017,2,Manchester United,33,81,WDLWW,38,25,6,7,40,68,28,2
+Premier_League,1,2017,3,Tottenham,47,77,WWLWD,38,23,8,7,38,74,36,3
+Premier_League,1,2017,4,Liverpool,40,75,WLDDW,38,21,12,5,46,84,38,4
+Premier_League,1,2017,5,Chelsea,49,70,LDWWW,38,21,7,10,24,62,38,5
+Premier_League,1,2017,6,Arsenal,42,63,WLWLW,38,19,6,13,23,74,51,6
+Premier_League,1,2017,7,Burnley,44,54,LLDDL,38,14,12,12,-3,36,39,7
+Premier_League,1,2017,8,Everton,45,49,LDWWD,38,13,10,15,-14,44,58,8
+Premier_League,1,2017,9,Leicester,46,47,LWLLD,38,12,11,15,-4,56,60,9
+Premier_League,1,2017,10,Newcastle,34,44,WLLLL,38,12,8,18,-8,39,47,10
+Premier_League,1,2017,11,Crystal Palace,52,44,WWWDW,38,11,11,16,-10,45,55,11
+Premier_League,1,2017,12,Bournemouth,35,44,WWLLL,38,11,11,16,-16,45,61,12
+Premier_League,1,2017,13,West Ham,48,42,WDWLL,38,10,12,16,-20,48,68,13
+Premier_League,1,2017,14,Watford,38,41,LWLDL,38,11,8,19,-20,44,64,14
+Premier_League,1,2017,15,Brighton,51,40,LLWDD,38,9,13,16,-20,34,54,15
+Premier_League,1,2017,16,Huddersfield,37,37,LDDLW,38,9,10,19,-30,28,58,16
+Premier_League,1,2017,17,Southampton,41,36,LWDWD,38,7,15,16,-19,37,56,17
+Premier_League,1,2017,18,Swansea,76,33,LLLLL,38,8,9,21,-28,28,56,18
+Premier_League,1,2017,19,Stoke City,75,33,WLDDD,38,7,12,19,-33,35,68,19
+Premier_League,1,2017,20,West Brom,60,31,LWWDW,38,6,13,19,-25,31,56,20
+Championship,2,2017,1,Wolves,39,71,WWWLD,31,22,5,4,33,56,23,21
+Championship,2,2017,2,Aston Villa,66,59,WWWWW,31,17,8,6,21,48,27,22
+Championship,2,2017,3,Derby,69,58,LDWDD,32,16,10,6,22,48,26,23
+Championship,2,2017,4,Cardiff,43,58,WDWDW,31,17,7,7,20,47,27,24
+Championship,2,2017,5,Fulham,36,52,DWWWW,31,14,10,7,16,52,36,25
+Championship,2,2017,6,Bristol City,56,52,DLWDL,31,14,10,7,9,45,36,26
+Championship,2,2017,7,Preston,59,49,DWWDD,31,12,13,6,8,38,30,27
+Championship,2,2017,8,Sheffield Utd,62,49,WLLWD,31,15,4,12,7,44,37,28
+Championship,2,2017,9,Middlesbrough,70,48,WLDWL,31,14,6,11,11,40,29,29
+Championship,2,2017,10,Brentford,55,44,DLLWW,31,11,11,9,3,43,40,30
+Championship,2,2017,11,Leeds,63,44,LLDLL,31,13,5,13,3,42,39,31
+Championship,2,2017,12,Ipswich,57,44,DWLDW,31,13,5,13,2,43,41,32
+Championship,2,2017,13,Norwich,71,44,DWWLW,31,12,8,11,-3,31,34,33
+Championship,2,2017,14,Millwall,58,39,DWDWD,31,9,12,10,2,36,34,34
+Championship,2,2017,15,Sheffield Wednesday,74,37,WDLDD,32,8,13,11,-4,34,38,35
+Championship,2,2017,16,QPR,72,36,LWLLW,31,9,9,13,-11,33,44,36
+Championship,2,2017,17,Nottingham Forest,65,35,LLLWL,31,11,2,18,-15,35,50,37
+Championship,2,2017,18,Reading,53,32,LLWLD,31,8,8,15,-7,34,41,38
+Championship,2,2017,19,Bolton,68,30,LDWDL,31,7,9,15,-21,28,49,39
+Championship,2,2017,20,Birmingham,54,30,LWWDL,31,8,6,17,-21,22,43,40
+Championship,2,2017,21,Hull City,64,29,WLDLD,31,6,11,14,-5,42,47,41
+Championship,2,2017,22,Barnsley,747,28,DLLLD,31,6,10,15,-15,30,45,42
+Championship,2,2017,23,Sunderland,746,26,DLLWL,31,5,11,15,-21,34,55,43
+Championship,2,2017,24,Burton Albion,748,25,DLLLL,31,6,7,18,-34,24,58,44
+League_One,3,2017,1,Shrewsbury,1352,64,WLWWD,31,19,7,5,18,42,24,45
+League_One,3,2017,2,Wigan,61,63,LLWWD,30,19,6,5,38,56,18,46
+League_One,3,2017,3,Blackburn,67,63,WDLWD,32,18,9,5,26,58,32,47
+League_One,3,2017,4,Rotherham,73,56,WWWWW,32,17,5,10,17,55,38,48
+League_One,3,2017,5,Scunthorpe,1340,55,DLWLD,33,15,10,8,12,48,36,49
+League_One,3,2017,6,Bradford,1343,50,DDLLL,33,15,5,13,-2,48,50,50
+League_One,3,2017,7,Charlton,1335,48,DDLWW,31,13,9,9,3,41,38,51
+League_One,3,2017,8,Plymouth,1357,47,WWWWL,33,13,8,12,-1,41,42,52
+League_One,3,2017,9,Portsmouth,1355,46,LWDLL,32,14,4,14,1,39,38,53
+League_One,3,2017,10,Peterborough,1350,45,DDLWD,31,12,9,10,8,49,41,54
+League_One,3,2017,11,Bristol Rovers,1334,45,WWLWW,32,14,3,15,-2,48,50,55
+League_One,3,2017,12,Gillingham,1347,44,WDLWW,32,11,11,10,1,37,36,56
+League_One,3,2017,13,Oxford United,1338,41,LLWLL,32,11,8,13,-1,49,50,57
+League_One,3,2017,14,Southend,1341,41,DWWWL,32,11,8,13,-11,39,50,58
+League_One,3,2017,15,Walsall,1342,40,WDWLL,31,10,10,11,-3,42,45,59
+League_One,3,2017,16,Doncaster,1354,39,LDDLD,33,9,12,12,-3,39,42,60
+League_One,3,2017,17,Blackpool,1356,38,WDDLD,32,9,11,12,-4,39,43,61
+League_One,3,2017,18,Fleetwood Town,1336,36,LLLLW,31,10,6,15,-7,43,50,62
+League_One,3,2017,19,Oldham,1349,36,WDWLL,33,9,9,15,-12,46,58,63
+League_One,3,2017,20,Northampton,1337,36,LWLDW,33,10,6,17,-22,32,54,64
+League_One,3,2017,21,AFC Wimbledon,1333,34,LLLLW,32,9,7,16,-10,32,42,65
+League_One,3,2017,22,Milton Keynes Dons,1348,30,LLLLD,31,7,9,15,-14,30,44,66
+League_One,3,2017,23,Bury,1344,26,DDWDW,32,6,8,18,-21,26,47,67
+League_One,3,2017,24,Rochdale,1339,25,LWLLL,28,5,10,13,-11,29,40,68
+Premier_League,1,2018,1,Manchester City,50,98,WWWWW,38,32,2,4,72,95,23,1
+Premier_League,1,2018,2,Liverpool,40,97,WWWWW,38,30,7,1,67,89,22,2
+Premier_League,1,2018,3,Chelsea,49,72,DWDDL,38,21,9,8,24,63,39,3
+Premier_League,1,2018,4,Tottenham,47,71,DLLWL,38,23,2,13,28,67,39,4
+Premier_League,1,2018,5,Arsenal,42,70,WDLLL,38,21,7,10,22,73,51,5
+Premier_League,1,2018,6,Manchester United,33,66,LDDLL,38,19,9,10,11,65,54,6
+Premier_League,1,2018,7,Wolves,39,57,LWWWD,38,16,9,13,1,47,46,7
+Premier_League,1,2018,8,Everton,45,54,DWDWL,38,15,9,14,8,54,46,8
+Premier_League,1,2018,9,Leicester,46,52,DLWDL,38,15,7,16,3,51,48,9
+Premier_League,1,2018,10,West Ham,48,52,WWWDL,38,15,7,16,-3,52,55,10
+Premier_League,1,2018,11,Watford,38,50,LLLDW,38,14,8,16,-7,52,59,11
+Premier_League,1,2018,12,Crystal Palace,52,49,WWDWL,38,14,7,17,-2,51,53,12
+Premier_League,1,2018,13,Newcastle,34,45,WLDWW,38,12,9,17,-6,42,48,13
+Premier_League,1,2018,14,Bournemouth,35,45,LWDLW,38,13,6,19,-14,56,70,14
+Premier_League,1,2018,15,Burnley,44,40,LLLDW,38,11,7,20,-23,45,68,15
+Premier_League,1,2018,16,Southampton,41,39,DLDDL,38,9,12,17,-20,45,65,16
+Premier_League,1,2018,17,Brighton,51,36,LDDLD,38,9,9,20,-25,35,60,17
+Premier_League,1,2018,18,Cardiff,43,34,WLLLW,38,10,4,24,-35,34,69,18
+Premier_League,1,2018,19,Fulham,36,26,LLWWW,38,7,5,26,-47,34,81,19
+Premier_League,1,2018,20,Huddersfield,37,16,DDLLL,38,3,7,28,-54,22,76,20
+Championship,2,2018,1,Norwich,71,94,WWDDD,46,27,13,6,36,93,57,21
+Championship,2,2018,2,Sheffield Utd,62,89,DWWWD,46,26,11,9,37,78,41,22
+Championship,2,2018,3,Leeds,63,83,LDLLW,46,25,8,13,23,73,50,23
+Championship,2,2018,4,West Brom,60,80,LWDWW,46,23,11,12,25,87,62,24
+Championship,2,2018,5,Aston Villa,66,76,LDWWW,46,20,16,10,21,82,61,25
+Championship,2,2018,6,Derby,69,74,WDWWD,46,20,14,12,15,69,54,26
+Championship,2,2018,7,Middlesbrough,70,73,WWLWW,46,20,13,13,8,49,41,27
+Championship,2,2018,8,Bristol City,56,70,DWLLD,46,19,13,14,6,59,53,28
+Championship,2,2018,9,Nottingham Forest,65,66,WWWLL,46,17,15,14,7,61,54,29
+Championship,2,2018,10,Swansea,76,65,DDDWW,46,18,11,17,3,65,62,30
+Championship,2,2018,11,Brentford,55,64,WWWDL,46,17,13,16,14,73,59,31
+Championship,2,2018,12,Sheffield Wednesday,74,64,LDWDL,46,16,16,14,-2,60,62,32
+Championship,2,2018,13,Hull City,64,62,DDLLL,46,17,11,18,-2,66,68,33
+Championship,2,2018,14,Preston,59,61,LDLWL,46,16,13,17,0,67,67,34
+Championship,2,2018,15,Blackburn,67,60,DLWWW,46,16,12,18,-5,64,69,35
+Championship,2,2018,16,Stoke City,75,55,DDDLD,46,11,22,13,-7,45,52,36
+Championship,2,2018,17,Birmingham,54,52,DDWDD,46,14,19,13,6,64,58,37
+Championship,2,2018,18,Wigan,61,52,WDWWD,46,13,13,20,-13,51,64,38
+Championship,2,2018,19,QPR,72,51,WLLLW,46,14,9,23,-18,53,71,39
+Championship,2,2018,20,Reading,53,47,DLDDW,46,10,17,19,-17,49,66,40
+Championship,2,2018,21,Millwall,58,44,LLDLD,46,10,14,22,-16,48,64,41
+Championship,2,2018,22,Rotherham,73,40,LLLLD,46,8,16,22,-31,52,83,42
+Championship,2,2018,23,Bolton,68,32,LLLLL,46,8,8,30,-49,29,78,43
+Championship,2,2018,24,Ipswich,57,31,WLLLD,46,5,16,25,-41,36,77,44
+League_One,3,2018,1,Luton,1359,94,WLDWL,46,27,13,6,48,90,42,45
+League_One,3,2018,2,Barnsley,747,91,LWWWW,46,26,13,7,41,80,39,46
+League_One,3,2018,3,Charlton,1335,88,WWWLW,46,26,10,10,33,73,40,47
+League_One,3,2018,4,Portsmouth,1355,88,DLDWW,46,25,13,8,32,83,51,48
+League_One,3,2018,5,Sunderland,746,85,LLDDW,46,22,19,5,33,80,47,49
+League_One,3,2018,6,Doncaster,1354,73,WDLLW,46,20,13,13,18,76,58,50
+League_One,3,2018,7,Peterborough,1350,72,WWLDD,46,20,12,14,9,71,62,51
+League_One,3,2018,8,Coventry,1346,65,LDLWW,46,18,11,17,0,54,54,52
+League_One,3,2018,9,Burton Albion,748,63,LWLLW,46,17,12,17,9,66,57,53
+League_One,3,2018,10,Blackpool,1356,62,LLWDL,46,15,17,14,-2,50,52,54
+League_One,3,2018,11,Fleetwood Town,1336,61,LWDLD,46,16,13,17,6,58,52,55
+League_One,3,2018,12,Oxford United,1338,60,LDWWD,46,15,15,16,-6,58,64,56
+League_One,3,2018,13,Gillingham,1347,55,WLDWL,46,15,10,21,-11,61,72,57
+League_One,3,2018,14,Accrington ST,1360,55,DWWLW,46,14,13,19,-16,51,67,58
+League_One,3,2018,15,Bristol Rovers,1334,54,WDLDW,46,13,15,18,-3,47,50,59
+League_One,3,2018,16,Rochdale,1339,54,LWWWL,46,15,9,22,-33,54,87,60
+League_One,3,2018,17,Wycombe,1358,53,WLWLW,46,14,11,21,-12,55,67,61
+League_One,3,2018,18,Shrewsbury,1352,52,DDLLW,46,12,16,18,-8,51,59,62
+League_One,3,2018,19,Southend,1341,50,WLWDL,46,14,8,24,-13,55,68,63
+League_One,3,2018,20,AFC Wimbledon,1333,50,DWDDD,46,13,11,22,-21,42,63,64
+League_One,3,2018,21,Plymouth,1357,50,WLLLL,46,13,11,22,-24,56,80,65
+League_One,3,2018,22,Walsall,1342,47,DWLDL,46,12,11,23,-22,49,71,66
+League_One,3,2018,23,Scunthorpe,1340,46,LLLDL,46,12,10,24,-30,53,83,67
+League_One,3,2018,24,Bradford,1343,41,DWDLL,46,11,8,27,-28,49,77,68
+Premier_League,1,2019,1,Liverpool,40,99,WWLDW,38,32,3,3,52,85,33,1
+Premier_League,1,2019,2,Manchester City,50,81,WWWWW,38,26,3,9,67,102,35,2
+Premier_League,1,2019,3,Manchester United,33,66,WDWDW,38,18,12,8,30,66,36,3
+Premier_League,1,2019,4,Chelsea,49,66,WLWLW,38,20,6,12,15,69,54,4
+Premier_League,1,2019,5,Leicester,46,62,LLWLD,38,18,8,12,26,67,41,5
+Premier_League,1,2019,6,Tottenham,47,59,DWWWD,38,16,11,11,14,61,47,6
+Premier_League,1,2019,7,Wolves,39,59,LWDWL,38,15,14,9,11,51,40,7
+Premier_League,1,2019,8,Arsenal,42,56,WLWLD,38,14,14,10,8,56,48,8
+Premier_League,1,2019,9,Sheffield Utd,62,54,LLLWW,38,14,12,12,0,39,39,9
+Premier_League,1,2019,10,Burnley,44,54,LWDDW,38,15,9,14,-7,43,50,10
+Premier_League,1,2019,11,Southampton,41,52,WWDDD,38,15,7,16,-9,51,60,11
+Premier_League,1,2019,12,Everton,45,49,LWDLD,38,13,10,15,-12,44,56,12
+Premier_League,1,2019,13,Newcastle,34,44,LDLLL,38,11,11,16,-20,38,58,13
+Premier_League,1,2019,14,Crystal Palace,52,43,DLLLL,38,11,10,17,-19,31,50,14
+Premier_League,1,2019,15,Brighton,51,41,WDDLL,38,9,14,15,-15,39,54,15
+Premier_League,1,2019,16,West Ham,48,39,DDWWL,38,10,9,19,-13,49,62,16
+Premier_League,1,2019,17,Aston Villa,66,35,DWDWL,38,9,8,21,-26,41,67,17
+Premier_League,1,2019,18,Bournemouth,35,34,WLLWD,38,9,7,22,-25,40,65,18
+Premier_League,1,2019,19,Watford,38,34,LLLWW,38,8,10,20,-28,36,64,19
+Premier_League,1,2019,20,Norwich,71,21,LLLLL,38,5,6,27,-49,26,75,20
+Championship,2,2019,1,Leeds,63,93,WWWWW,46,28,9,9,42,77,35,21
+Championship,2,2019,2,West Brom,60,83,DLDDW,46,22,17,7,32,77,45,22
+Championship,2,2019,3,Brentford,55,81,LLWWW,46,24,9,13,42,80,38,23
+Championship,2,2019,4,Fulham,36,81,DWDWW,46,23,12,11,16,64,48,24
+Championship,2,2019,5,Cardiff,43,73,WWWLL,46,19,16,11,10,68,58,25
+Championship,2,2019,6,Swansea,76,70,WWDLW,46,18,16,12,9,62,53,26
+Championship,2,2019,7,Nottingham Forest,65,70,LLDDL,46,18,16,12,8,58,50,27
+Championship,2,2019,8,Millwall,58,68,WLWWL,46,17,17,12,6,57,51,28
+Championship,2,2019,9,Preston,59,66,DWLDW,46,18,12,16,5,59,54,29
+Championship,2,2019,10,Derby,69,64,WLLLL,46,17,13,16,-2,62,64,30
+Championship,2,2019,11,Blackburn,67,63,LWLDW,46,17,12,17,3,66,63,31
+Championship,2,2019,12,Bristol City,56,63,DLDWW,46,17,12,17,-5,60,65,32
+Championship,2,2019,13,QPR,72,58,DWDLL,46,16,10,20,-9,67,76,33
+Championship,2,2019,14,Reading,53,56,LLLWD,46,15,11,20,1,59,58,34
+Championship,2,2019,15,Stoke City,75,56,WWDWL,46,16,8,22,-6,62,68,35
+Championship,2,2019,16,Sheffield Wednesday,74,56,LLDWL,46,15,11,20,-8,58,66,36
+Championship,2,2019,17,Middlesbrough,70,53,WLWLW,46,13,14,19,-13,48,61,37
+Championship,2,2019,18,Huddersfield,37,51,LWDLD,46,13,12,21,-18,52,70,38
+Championship,2,2019,19,Luton,1359,51,WWDWD,46,14,9,23,-28,54,82,39
+Championship,2,2019,20,Birmingham,54,50,LLDLL,46,12,14,20,-21,54,75,40
+Championship,2,2019,21,Barnsley,747,49,WWLDD,46,12,13,21,-20,49,69,41
+Championship,2,2019,22,Charlton,1335,48,LDDLL,46,12,12,22,-15,50,65,42
+Championship,2,2019,23,Wigan,61,47,DDWDW,46,15,14,17,1,57,56,43
+Championship,2,2019,24,Hull City,64,45,LLLLL,46,12,9,25,-30,57,87,44
+League_One,3,2019,1,Coventry,1346,67,WWDWW,34,18,13,3,18,48,30,45
+League_One,3,2019,2,Rotherham,73,62,LDDWD,35,18,8,9,23,61,38,46
+League_One,3,2019,3,Wycombe,1358,59,LWWLW,34,17,8,9,5,45,40,47
+League_One,3,2019,4,Oxford United,1338,60,WWWWW,35,17,9,9,24,61,37,48
+League_One,3,2019,5,Portsmouth,1355,60,DLWWL,35,17,9,9,17,53,36,49
+League_One,3,2019,6,Fleetwood Town,1336,60,DDWDW,35,16,12,7,13,51,38,50
+League_One,3,2019,7,Peterborough,1350,59,WDLWW,35,17,8,10,28,68,40,51
+League_One,3,2019,8,Sunderland,746,59,LDLDW,36,16,11,9,16,48,32,52
+League_One,3,2019,9,Doncaster,1354,54,WWLLW,34,15,9,10,18,51,33,53
+League_One,3,2019,10,Gillingham,1347,51,DLDWW,35,12,15,8,8,42,34,54
+League_One,3,2019,11,Ipswich,57,52,LLLLW,36,14,10,12,10,46,36,55
+League_One,3,2019,12,Burton Albion,748,48,DLDWL,35,12,12,11,0,50,50,56
+League_One,3,2019,13,Blackpool,1356,45,LDWWD,35,11,12,12,1,44,43,57
+League_One,3,2019,14,Bristol Rovers,1334,45,WLLLW,35,12,9,14,-11,38,49,58
+League_One,3,2019,15,Shrewsbury,1352,41,LWLWL,34,10,11,13,-11,31,42,59
+League_One,3,2019,16,Lincoln,1379,42,WDLDL,35,12,6,17,-2,44,46,60
+League_One,3,2019,17,Accrington ST,1360,40,LDLLW,35,10,10,15,-6,47,53,61
+League_One,3,2019,18,Rochdale,1339,36,WLLLD,34,10,6,18,-18,39,57,62
+League_One,3,2019,19,Milton Keynes Dons,1348,37,LDLWD,35,10,7,18,-11,36,47,63
+League_One,3,2019,20,AFC Wimbledon,1333,35,DWDLD,35,8,11,16,-13,39,52,64
+League_One,3,2019,21,Tranmere,1381,32,WWWLD,34,8,8,18,-24,36,60,65
+League_One,3,2019,22,Southend,1341,19,WLLLL,35,4,7,24,-46,39,85,66
+League_One,3,2019,23,Bolton,68,14,DDDLL,34,5,11,18,-39,27,66,67
+Premier_League,1,2020,1,Manchester City,50,86,WLWLW,38,27,5,6,51,83,32,1
+Premier_League,1,2020,2,Manchester United,33,74,WDLLW,38,21,11,6,29,73,44,2
+Premier_League,1,2020,3,Liverpool,40,69,WWWWW,38,20,9,9,26,68,42,3
+Premier_League,1,2020,4,Chelsea,49,67,LWLWW,38,19,10,9,22,58,36,4
+Premier_League,1,2020,5,Leicester,46,66,LLWLD,38,20,6,12,18,68,50,5
+Premier_League,1,2020,6,West Ham,48,65,WWDLW,38,19,8,11,15,62,47,6
+Premier_League,1,2020,7,Tottenham,47,62,WLWLW,38,18,8,12,23,68,45,7
+Premier_League,1,2020,8,Arsenal,42,61,WWWWW,38,18,7,13,16,55,39,8
+Premier_League,1,2020,9,Leeds,63,59,WWWWL,38,18,5,15,8,62,54,9
+Premier_League,1,2020,10,Everton,45,59,LWLDW,38,17,8,13,-1,47,48,10
+Premier_League,1,2020,11,Aston Villa,66,55,WWLDL,38,16,7,15,9,55,46,11
+Premier_League,1,2020,12,Newcastle,34,45,WWLWL,38,12,9,17,-16,46,62,12
+Premier_League,1,2020,13,Wolves,39,45,LLLWD,38,12,9,17,-16,36,52,13
+Premier_League,1,2020,14,Crystal Palace,52,44,LLWLW,38,12,8,18,-25,41,66,14
+Premier_League,1,2020,15,Southampton,41,43,LLWWL,38,12,7,19,-21,47,68,15
+Premier_League,1,2020,16,Brighton,51,41,LWDLW,38,9,14,15,-6,40,46,16
+Premier_League,1,2020,17,Burnley,44,39,LLLWL,38,10,9,19,-22,33,55,17
+Premier_League,1,2020,18,Fulham,36,28,LDLLL,38,5,13,20,-26,27,53,18
+Premier_League,1,2020,19,West Brom,60,26,LLLLD,38,5,11,22,-41,35,76,19
+Premier_League,1,2020,20,Sheffield Utd,62,23,WLWLL,38,7,2,29,-43,20,63,20
+Championship,2,2020,1,Norwich,71,97,DWWLL,46,29,10,7,39,75,36,21
+Championship,2,2020,2,Watford,38,91,WLWWL,46,27,10,9,33,63,30,22
+Championship,2,2020,3,Brentford,55,87,WWWWD,46,24,15,7,37,79,42,23
+Championship,2,2020,4,Swansea,76,80,LWDLD,46,23,11,12,17,56,39,24
+Championship,2,2020,5,Barnsley,747,78,DLWWL,46,23,9,14,8,58,50,25
+Championship,2,2020,6,Bournemouth,35,77,LLLWW,46,22,11,13,27,73,46,26
+Championship,2,2020,7,Reading,53,70,DLDDD,46,19,13,14,8,62,54,27
+Championship,2,2020,8,Cardiff,43,68,DWWDD,46,18,14,14,17,66,49,28
+Championship,2,2020,9,QPR,72,68,WWLWW,46,19,11,16,2,57,55,29
+Championship,2,2020,10,Middlesbrough,70,64,LDWWL,46,18,10,18,2,55,53,30
+Championship,2,2020,11,Millwall,58,62,LWLLD,46,15,17,14,-5,47,52,31
+Championship,2,2020,12,Luton,1359,62,LDDWD,46,17,11,18,-11,41,52,32
+Championship,2,2020,13,Preston,59,61,WWWWD,46,18,7,21,-7,49,56,33
+Championship,2,2020,14,Stoke City,75,60,WLDLD,46,15,15,16,-2,50,52,34
+Championship,2,2020,15,Blackburn,67,57,WDWLW,46,15,12,19,11,65,54,35
+Championship,2,2020,16,Coventry,1346,55,WDLWW,46,14,13,19,-12,49,61,36
+Championship,2,2020,17,Nottingham Forest,65,52,LDDDL,46,12,16,18,-8,37,45,37
+Championship,2,2020,18,Birmingham,54,52,LLWDW,46,13,13,20,-24,37,61,38
+Championship,2,2020,19,Bristol City,56,51,LLLLD,46,15,6,25,-22,46,68,39
+Championship,2,2020,20,Huddersfield,37,49,DDLLW,46,12,13,21,-21,50,71,40
+Championship,2,2020,21,Derby,69,44,DLLLL,46,11,11,24,-22,36,58,41
+Championship,2,2020,22,Wycombe,1358,43,WWLWD,46,11,10,25,-30,39,69,42
+Championship,2,2020,23,Rotherham,73,42,DDDLL,46,11,9,26,-16,44,60,43
+Championship,2,2020,24,Sheffield Wednesday,74,41,DDLWD,46,12,11,23,-21,40,61,44
+League_One,3,2020,1,Hull City,64,89,LWWDW,46,27,8,11,42,80,38,45
+League_One,3,2020,2,Peterborough,1350,87,WDDWL,46,26,9,11,37,83,46,46
+League_One,3,2020,3,Blackpool,1356,80,WWWWL,46,23,11,12,23,60,37,47
+League_One,3,2020,4,Sunderland,746,77,DWLDD,46,20,17,9,28,70,42,48
+League_One,3,2020,5,Lincoln,1379,77,DLDWL,46,22,11,13,19,69,50,49
+League_One,3,2020,6,Oxford United,1338,74,WWWLW,46,22,8,16,21,77,56,50
+League_One,3,2020,7,Charlton,1335,74,WWDDL,46,20,14,12,14,70,56,51
+League_One,3,2020,8,Portsmouth,1355,72,LWDWL,46,21,9,16,14,65,51,52
+League_One,3,2020,9,Ipswich,57,69,WDWDL,46,19,12,15,0,46,46,53
+League_One,3,2020,10,Gillingham,1347,67,WDDWL,46,19,10,17,3,63,60,54
+League_One,3,2020,11,Accrington ST,1360,67,WDDDW,46,18,13,15,-5,63,68,55
+League_One,3,2020,12,Crewe,1363,66,WWDDW,46,18,12,16,-5,56,61,56
+League_One,3,2020,13,Milton Keynes Dons,1348,65,LDWWW,46,18,11,17,2,64,62,57
+League_One,3,2020,14,Doncaster,1354,64,LLWDL,46,19,7,20,-4,63,67,58
+League_One,3,2020,15,Fleetwood Town,1336,60,LDLWL,46,16,12,18,3,49,46,59
+League_One,3,2020,16,Burton Albion,748,57,LDWDL,46,15,12,19,-12,61,73,60
+League_One,3,2020,17,Shrewsbury,1352,54,LDLLW,46,13,15,18,-7,50,57,61
+League_One,3,2020,18,Plymouth,1357,53,LLLLD,46,14,11,21,-27,53,80,62
+League_One,3,2020,19,AFC Wimbledon,1333,51,DLDDW,46,12,15,19,-16,54,70,63
+League_One,3,2020,20,Wigan,61,48,LLDWW,46,13,9,24,-23,54,77,64
+League_One,3,2020,21,Rochdale,1339,47,WLDDW,46,11,14,21,-17,61,78,65
+League_One,3,2020,22,Northampton,1337,45,DLDWL,46,11,12,23,-26,41,67,66
+League_One,3,2020,23,Swindon Town,1353,43,WLLWL,46,13,4,29,-34,55,89,67
+League_One,3,2020,24,Bristol Rovers,1334,38,LLLLL,46,10,8,28,-30,40,70,68
+Premier_League,1,2021,1,Manchester City,50,93,WDWWW,38,29,6,3,73,99,26,1
+Premier_League,1,2021,2,Liverpool,40,92,WWWDW,38,28,8,2,68,94,26,2
+Premier_League,1,2021,3,Chelsea,49,74,WDWDL,38,21,11,6,43,76,33,3
+Premier_League,1,2021,4,Tottenham,47,71,WWWDW,38,22,5,11,29,69,40,4
+Premier_League,1,2021,5,Arsenal,42,69,WLLWW,38,22,3,13,13,61,48,5
+Premier_League,1,2021,6,Manchester United,33,58,LLWDL,38,16,10,12,0,57,57,6
+Premier_League,1,2021,7,West Ham,48,56,LDWLL,38,16,8,14,9,60,51,7
+Premier_League,1,2021,8,Leicester,46,52,WDWWL,38,14,10,14,3,62,59,8
+Premier_League,1,2021,9,Brighton,51,51,WDWWD,38,12,15,11,-2,42,44,9
+Premier_League,1,2021,10,Wolves,39,51,LDLDL,38,15,6,17,-5,38,43,10
+Premier_League,1,2021,11,Newcastle,34,49,WWLLW,38,13,10,15,-18,44,62,11
+Premier_League,1,2021,12,Crystal Palace,52,48,WLDWW,38,11,15,12,4,50,46,12
+Premier_League,1,2021,13,Brentford,55,46,LWWLD,38,13,7,18,-8,48,56,13
+Premier_League,1,2021,14,Aston Villa,66,45,LDDLW,38,13,6,19,-2,52,54,14
+Premier_League,1,2021,15,Southampton,41,40,LLLLD,38,9,13,16,-24,43,67,15
+Premier_League,1,2021,16,Everton,45,39,LWLDW,38,11,6,21,-23,43,66,16
+Premier_League,1,2021,17,Leeds,63,38,WDLLL,38,9,11,18,-37,42,79,17
+Premier_League,1,2021,18,Burnley,44,35,LDLLW,38,7,14,17,-19,34,53,18
+Premier_League,1,2021,19,Watford,38,23,LLDLL,38,6,5,27,-43,34,77,19
+Premier_League,1,2021,20,Norwich,71,22,LDLLL,38,5,7,26,-61,23,84,20
+Championship,2,2021,1,Fulham,36,90,LWLDW,46,27,9,10,63,106,43,21
+Championship,2,2021,2,Bournemouth,35,88,WWWDD,46,25,13,8,35,74,39,22
+Championship,2,2021,3,Huddersfield,37,82,WWWWD,46,23,13,10,17,64,47,23
+Championship,2,2021,4,Nottingham Forest,65,80,DLWWW,46,23,11,12,33,73,40,24
+Championship,2,2021,5,Sheffield Utd,62,75,WWWDL,46,21,12,13,18,63,45,25
+Championship,2,2021,6,Luton,1359,75,WLDWW,46,21,12,13,8,63,55,26
+Championship,2,2021,7,Middlesbrough,70,70,LWWDL,46,20,10,16,9,59,50,27
+Championship,2,2021,8,Blackburn,67,69,WLWLL,46,19,12,15,9,59,50,28
+Championship,2,2021,9,Millwall,58,69,LWDWD,46,18,15,13,8,53,45,29
+Championship,2,2021,10,West Brom,60,67,WWDLW,46,18,13,15,7,52,45,30
+Championship,2,2021,11,QPR,72,66,WLLWD,46,19,9,18,1,60,59,31
+Championship,2,2021,12,Coventry,1346,64,DLDLW,46,17,13,16,1,60,59,32
+Championship,2,2021,13,Preston,59,64,WWLLD,46,16,16,14,-4,52,56,33
+Championship,2,2021,14,Stoke City,75,62,DLWWL,46,17,11,18,5,57,52,34
+Championship,2,2021,15,Swansea,76,61,LLDDD,46,16,13,17,-10,58,68,35
+Championship,2,2021,16,Blackpool,1356,60,LLWDW,46,16,12,18,-4,54,58,36
+Championship,2,2021,17,Bristol City,56,55,LWWDW,46,15,10,21,-15,62,77,37
+Championship,2,2021,18,Cardiff,43,53,WDLLL,46,15,8,23,-18,50,68,38
+Championship,2,2021,19,Hull City,64,51,DLWLW,46,14,9,23,-13,41,54,39
+Championship,2,2021,20,Birmingham,54,47,LDDLL,46,11,14,21,-25,50,75,40
+Championship,2,2021,21,Reading,53,41,LLLDW,46,13,8,25,-33,54,87,41
+Championship,2,2021,22,Peterborough,1350,37,WLLWW,46,9,10,27,-44,43,87,42
+Championship,2,2021,23,Derby,69,34,LWLLW,46,14,13,19,-8,45,53,43
+Championship,2,2021,24,Barnsley,747,30,LLLLL,46,6,12,28,-40,33,73,44
+League_One,3,2021,1,Wigan,61,92,WLDDL,46,27,11,8,38,82,44,45
+League_One,3,2021,2,Rotherham,73,90,WDWLW,46,27,9,10,37,70,33,46
+League_One,3,2021,3,Milton Keynes Dons,1348,89,WWLLD,46,26,11,9,34,78,44,47
+League_One,3,2021,4,Sheffield Wednesday,74,85,WWLWW,46,24,13,9,28,78,50,48
+League_One,3,2021,5,Sunderland,746,84,WDWDW,46,24,12,10,26,79,53,49
+League_One,3,2021,6,Wycombe,1358,83,WWDWD,46,23,14,9,24,75,51,50
+League_One,3,2021,7,Plymouth,1357,80,LDDLD,46,23,11,12,20,68,48,51
+League_One,3,2021,8,Oxford United,1338,76,DLWWL,46,22,10,14,23,82,59,52
+League_One,3,2021,9,Bolton,68,73,WWWWD,46,21,10,15,17,74,57,53
+League_One,3,2021,10,Portsmouth,1355,73,LWWDW,46,20,13,13,17,68,51,54
+League_One,3,2021,11,Ipswich,57,70,WDDLD,46,18,16,12,21,67,46,55
+League_One,3,2021,12,Accrington ST,1360,61,WWLDW,46,17,10,19,-19,61,80,56
+League_One,3,2021,13,Charlton,1335,59,LWWLW,46,17,8,21,-4,55,59,57
+League_One,3,2021,14,Cambridge United,1370,58,DLLWW,46,15,13,18,-18,56,74,58
+League_One,3,2021,15,Cheltenham,1372,56,DLLDW,46,13,17,16,-14,66,80,59
+League_One,3,2021,16,Burton Albion,748,53,LLWDD,46,14,11,21,-16,51,67,60
+League_One,3,2021,17,Lincoln,1379,52,WLWLL,46,14,10,22,-8,55,63,61
+League_One,3,2021,18,Shrewsbury,1352,50,LLDLD,46,12,14,20,-4,47,51,62
+League_One,3,2021,19,Morecambe,1375,42,LLDWL,46,10,12,24,-31,57,88,63
+League_One,3,2021,20,Fleetwood Town,1336,40,LLDDL,46,8,16,22,-20,62,82,64
+League_One,3,2021,21,Gillingham,1347,40,LLDDD,46,8,16,22,-34,35,69,65
+League_One,3,2021,22,Doncaster,1354,38,DWDLW,46,10,8,28,-45,37,82,66
+League_One,3,2021,23,AFC Wimbledon,1333,37,LDDLD,46,6,19,21,-26,49,75,67
+League_One,3,2021,24,Crewe,1363,29,LDLWL,46,7,8,31,-46,37,83,68
+Premier_League,1,2022,1,Manchester City,50,89,LDWWW,38,28,5,5,61,94,33,1
+Premier_League,1,2022,2,Arsenal,42,84,WLLWW,38,26,6,6,45,88,43,2
+Premier_League,1,2022,3,Manchester United,33,75,WWWWL,38,23,6,9,15,58,43,3
+Premier_League,1,2022,4,Newcastle,34,71,DDWDL,38,19,14,5,35,68,33,4
+Premier_League,1,2022,5,Liverpool,40,67,DDWWW,38,19,10,9,28,75,47,5
+Premier_League,1,2022,6,Brighton,51,62,LDWLW,38,18,8,12,19,72,53,6
+Premier_League,1,2022,7,Aston Villa,66,61,WDWLL,38,18,7,13,5,51,46,7
+Premier_League,1,2022,8,Tottenham,47,60,WLLWL,38,18,6,14,7,70,63,8
+Premier_League,1,2022,9,Brentford,55,59,WWWLW,38,15,14,9,12,58,46,9
+Premier_League,1,2022,10,Fulham,36,52,LDWWL,38,15,7,16,2,55,53,10
+Premier_League,1,2022,11,Crystal Palace,52,45,DDWLW,38,11,12,15,-9,40,49,11
+Premier_League,1,2022,12,Chelsea,49,44,DLLDW,38,11,11,16,-9,38,47,12
+Premier_League,1,2022,13,Wolves,39,41,LDLWL,38,11,8,19,-27,31,58,13
+Premier_League,1,2022,14,West Ham,48,40,LWLWL,38,11,7,20,-13,42,55,14
+Premier_League,1,2022,15,Bournemouth,35,39,LLLLW,38,11,6,21,-34,37,71,15
+Premier_League,1,2022,16,Nottingham Forest,65,38,DWDWL,38,9,11,18,-30,38,68,16
+Premier_League,1,2022,17,Everton,45,36,WDLWD,38,8,12,18,-23,34,57,17
+Premier_League,1,2022,18,Leicester,46,34,WDLLD,38,9,7,22,-17,51,68,18
+Premier_League,1,2022,19,Leeds,63,31,LLDLL,38,7,10,21,-30,48,78,19
+Premier_League,1,2022,20,Southampton,41,25,DLLLL,38,6,7,25,-37,36,73,20
+Championship,2,2022,1,Burnley,44,101,WWWLD,46,29,14,3,52,87,35,21
+Championship,2,2022,2,Sheffield Utd,62,91,WLWWW,46,28,7,11,34,73,39,22
+Championship,2,2022,3,Luton,1359,80,DDWDW,46,21,17,8,18,57,39,23
+Championship,2,2022,4,Middlesbrough,70,75,DLLWW,46,22,9,15,28,84,56,24
+Championship,2,2022,5,Coventry,1346,70,DWWDW,46,18,16,12,12,58,46,25
+Championship,2,2022,6,Sunderland,746,69,WDWDW,46,18,15,13,13,68,55,26
+Championship,2,2022,7,Blackburn,67,69,WDLDD,46,20,9,17,-2,52,54,27
+Championship,2,2022,8,Millwall,58,68,LWLLW,46,19,11,16,7,57,50,28
+Championship,2,2022,9,West Brom,60,66,LWLLW,46,18,12,16,6,59,53,29
+Championship,2,2022,10,Swansea,76,66,WDWWW,46,18,12,16,4,68,64,30
+Championship,2,2022,11,Watford,38,63,WDLLW,46,16,15,15,3,56,53,31
+Championship,2,2022,12,Preston,59,63,LLDLL,46,17,12,17,-14,45,59,32
+Championship,2,2022,13,Norwich,71,62,LLLDL,46,17,11,18,3,57,54,33
+Championship,2,2022,14,Bristol City,56,59,WLWLL,46,15,14,17,-1,55,56,34
+Championship,2,2022,15,Hull City,64,58,DDWLD,46,14,16,16,-10,51,61,35
+Championship,2,2022,16,Stoke City,75,53,LLDLL,46,14,11,21,1,55,54,36
+Championship,2,2022,17,Birmingham,54,53,LLLWL,46,14,11,21,-11,47,58,37
+Championship,2,2022,18,Huddersfield,37,53,WWWDL,46,14,11,21,-15,47,62,38
+Championship,2,2022,19,Rotherham,73,50,DWLLD,46,11,17,18,-11,49,60,39
+Championship,2,2022,20,QPR,72,50,LWWDL,46,13,11,22,-27,44,71,40
+Championship,2,2022,21,Cardiff,43,49,LLWDW,46,13,10,23,-17,41,58,41
+Championship,2,2022,22,Reading,53,44,LDLDD,46,13,11,22,-22,46,68,42
+Championship,2,2022,23,Blackpool,1356,44,WLWLW,46,11,11,24,-24,48,72,43
+Championship,2,2022,24,Wigan,61,39,DDWWL,46,10,15,21,-27,38,65,44
+League_One,3,2022,1,Plymouth,1357,101,WWWWW,46,31,8,7,35,82,47,45
+League_One,3,2022,2,Ipswich,57,98,DWWWW,46,28,14,4,66,101,35,46
+League_One,3,2022,3,Sheffield Wednesday,74,96,WWWWL,46,28,12,6,44,81,37,47
+League_One,3,2022,4,Barnsley,747,86,LDLWD,46,26,8,12,33,80,47,48
+League_One,3,2022,5,Bolton,68,81,WWLWD,46,23,12,11,26,62,36,49
+League_One,3,2022,6,Peterborough,1350,77,WDLWL,46,24,5,17,21,75,54,50
+League_One,3,2022,7,Derby,69,76,LDWWD,46,21,13,12,21,67,46,51
+League_One,3,2022,8,Portsmouth,1355,70,DDWDD,46,17,19,10,11,61,50,52
+League_One,3,2022,9,Wycombe,1358,69,DLLWL,46,20,9,17,8,59,51,53
+League_One,3,2022,10,Charlton,1335,62,DWLWL,46,16,14,16,4,70,66,54
+League_One,3,2022,11,Lincoln,1379,62,WLLWD,46,14,20,12,0,47,47,55
+League_One,3,2022,12,Shrewsbury,1352,59,LWLLL,46,17,8,21,-9,52,61,56
+League_One,3,2022,13,Fleetwood Town,1336,58,DLWDW,46,14,16,16,2,53,51,57
+League_One,3,2022,14,Exeter City,1364,56,WLLLL,46,15,11,20,-4,64,68,58
+League_One,3,2022,15,Burton Albion,748,56,DWLWL,46,15,11,20,-22,57,79,59
+League_One,3,2022,16,Cheltenham,1372,54,DWLWD,46,14,12,20,-16,45,61,60
+League_One,3,2022,17,Bristol Rovers,1334,53,LLDLL,46,14,11,21,-15,58,73,61
+League_One,3,2022,18,Port Vale,1351,49,LLWLL,46,13,10,23,-23,48,71,62
+League_One,3,2022,19,Oxford United,1338,47,LWWLD,46,11,14,21,-7,49,56,63
+League_One,3,2022,20,Cambridge United,1370,46,WLWLL,46,13,7,26,-27,41,68,64
+League_One,3,2022,21,Milton Keynes Dons,1348,45,DDLLD,46,11,12,23,-22,44,66,65
+League_One,3,2022,22,Morecambe,1375,44,LWWWD,46,10,14,22,-31,47,78,66
+League_One,3,2022,23,Accrington ST,1360,44,WLWLL,46,11,11,24,-37,40,77,67
+League_One,3,2022,24,Forest Green,1378,27,LLLDL,46,6,9,31,-58,31,89,68
+Premier_League,1,2023,1,Arsenal,42,64,WWWWW,28,20,4,4,46,70,24,1
+Premier_League,1,2023,2,Liverpool,40,64,DWWWW,28,19,7,2,39,65,26,2
+Premier_League,1,2023,3,Manchester City,50,63,DWWWD,28,19,6,3,35,63,28,3
+Premier_League,1,2023,4,Aston Villa,66,55,LWWWL,28,17,4,7,18,59,41,4
+Premier_League,1,2023,5,Tottenham,47,53,WWLWD,27,16,5,6,20,59,39,5
+Premier_League,1,2023,6,Manchester United,33,47,WLLWW,28,15,2,11,0,39,39,6
+Premier_League,1,2023,7,West Ham,48,43,DWWLL,28,12,7,9,-4,45,49,7
+Premier_League,1,2023,8,Brighton,51,42,WLDWL,28,11,9,8,6,50,44,8
+Premier_League,1,2023,9,Wolves,39,41,WLWWL,28,12,5,11,-2,42,44,9
+Premier_League,1,2023,10,Newcastle,34,40,LWLDW,28,12,4,12,11,59,48,10
+Premier_League,1,2023,11,Chelsea,49,39,WDDWL,27,11,6,10,2,47,45,11
+Premier_League,1,2023,12,Fulham,36,35,LWWLW,28,10,5,13,-4,40,44,12
+Premier_League,1,2023,13,Bournemouth,35,35,WDWLD,28,9,8,11,-11,41,52,13
+Premier_League,1,2023,14,Crystal Palace,52,29,DLWDL,28,7,8,13,-15,33,48,14
+Premier_League,1,2023,15,Brentford,55,26,LDLLL,28,7,5,16,-12,40,52,15
+Premier_League,1,2023,16,Everton,45,25,LLDDL,28,8,7,13,-10,29,39,16
+Premier_League,1,2023,17,Nottingham Forest,65,24,LLLWL,28,6,6,16,-16,34,50,17
+Premier_League,1,2023,18,Luton,1359,21,LDLLL,28,5,6,17,-18,41,59,18
+Premier_League,1,2023,19,Burnley,44,14,DLLLL,28,3,5,20,-35,27,62,19
+Premier_League,1,2023,20,Sheffield Utd,62,14,DLLLW,28,3,5,20,-50,24,74,20
+Championship,2,2023,1,Leicester,46,82,DWLLL,37,26,4,7,41,74,33,21
+Championship,2,2023,2,Leeds,63,79,WWDWW,37,24,7,6,40,68,28,22
+Championship,2,2023,3,Ipswich,57,78,LWWWW,37,23,9,5,25,74,49,23
+Championship,2,2023,4,Southampton,41,73,WWLLW,36,22,7,7,26,73,47,24
+Championship,2,2023,5,West Brom,60,63,WDWDW,37,18,9,10,21,57,36,25
+Championship,2,2023,6,Norwich,71,58,WLWDW,37,17,7,13,12,66,54,26
+Championship,2,2023,7,Hull City,64,58,DDDDW,37,16,10,11,7,53,46,27
+Championship,2,2023,8,Coventry,1346,57,WWLLW,37,15,12,10,16,59,43,28
+Championship,2,2023,9,Middlesbrough,70,53,WWWLL,37,16,5,16,1,53,52,29
+Championship,2,2023,10,Preston,59,53,LDWDW,36,15,8,13,-6,48,54,30
+Championship,2,2023,11,Cardiff,43,53,WWWWD,37,16,5,16,-6,43,49,31
+Championship,2,2023,12,Sunderland,746,47,LLLLL,37,14,5,18,3,48,45,32
+Championship,2,2023,13,Bristol City,56,47,WLLLL,37,13,8,16,-1,42,43,33
+Championship,2,2023,14,Watford,38,45,LDLLW,37,11,12,14,1,52,51,34
+Championship,2,2023,15,Swansea,76,43,LDWWL,37,11,10,16,-12,46,58,35
+Championship,2,2023,16,Millwall,58,43,WDWWL,37,11,10,16,-12,36,48,36
+Championship,2,2023,17,Plymouth,1357,41,DLLWL,37,10,11,16,-7,54,61,37
+Championship,2,2023,18,Blackburn,67,41,DDLDD,37,11,8,18,-13,51,64,38
+Championship,2,2023,19,Stoke City,75,41,WLWLL,37,11,8,18,-15,35,50,39
+Championship,2,2023,20,QPR,72,39,LDWWW,37,10,9,18,-14,36,50,40
+Championship,2,2023,21,Birmingham,54,39,LLDLL,37,10,9,18,-16,42,58,41
+Championship,2,2023,22,Huddersfield,37,38,LLDWL,37,8,14,15,-19,42,61,42
+Championship,2,2023,23,Sheffield Wednesday,74,38,LWWWW,37,11,5,21,-25,30,55,43
+Championship,2,2023,24,Rotherham,73,19,LLLLL,37,3,10,24,-47,30,77,44
+League_One,3,2023,1,Portsmouth,1355,80,WDWDW,38,23,11,4,30,62,32,45
+League_One,3,2023,2,Derby,69,75,WWWLL,38,23,6,9,34,68,34,46
+League_One,3,2023,3,Bolton,68,74,WDDWL,38,22,8,8,29,71,42,47
+League_One,3,2023,4,Peterborough,1350,71,WWWWW,37,21,8,8,29,74,45,48
+League_One,3,2023,5,Barnsley,747,70,WLDWW,37,20,10,7,22,70,48,49
+League_One,3,2023,6,Stevenage,1368,61,LDDWW,37,17,10,10,12,49,37,50
+League_One,3,2023,7,Blackpool,1356,60,WDWLW,38,17,9,12,16,57,41,51
+League_One,3,2023,8,Oxford United,1338,60,LWLLD,38,17,9,12,8,60,52,52
+League_One,3,2023,9,Lincoln,1379,58,WWDWW,38,15,13,10,18,51,33,53
+League_One,3,2023,10,Leyton Orient,1373,55,DLLWW,38,15,10,13,-1,43,44,54
+League_One,3,2023,11,Bristol Rovers,1334,50,DLWWL,37,14,8,15,-4,48,52,55
+League_One,3,2023,12,Northampton,1337,50,LDLDW,38,14,8,16,-8,50,58,56
+League_One,3,2023,13,Wigan,61,47,LWLWD,38,16,7,15,4,52,48,57
+League_One,3,2023,14,Wycombe,1358,47,WWLWL,37,12,11,14,-1,48,49,58
+League_One,3,2023,15,Charlton,1335,44,WWDWD,38,10,14,14,-1,56,57,59
+League_One,3,2023,16,Exeter City,1364,44,WDLDL,38,12,8,18,-20,32,52,60
+League_One,3,2023,17,Shrewsbury,1352,41,LWLLW,38,12,5,21,-27,28,55,61
+League_One,3,2023,18,Reading,53,39,LLWLW,38,12,9,17,-6,51,57,62
+League_One,3,2023,19,Burton Albion,748,39,LLDLL,37,10,9,18,-18,31,49,63
+League_One,3,2023,20,Cambridge United,1370,39,LDLLL,37,10,9,18,-19,32,51,64
+League_One,3,2023,21,Cheltenham,1372,34,LLDLD,36,9,7,20,-20,30,50,65
+League_One,3,2023,22,Fleetwood Town,1336,33,DDWDD,38,7,12,19,-20,40,60,66
+League_One,3,2023,23,Port Vale,1351,33,DLLDL,36,8,9,19,-24,35,59,67
+League_One,3,2023,24,Carlisle,1371,23,LLLWL,37,5,8,24,-33,33,66,68
