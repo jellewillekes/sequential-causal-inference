@@ -1,0 +1,839 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "79",
+        "season": "2018"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 79,
+                "name": "2. Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/79.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2018,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 192,
+                                "name": "FC Koln",
+                                "logo": "https://media.api-sports.io/football/teams/192.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 37,
+                            "group": "2. Bundesliga",
+                            "form": "DLWLL",
+                            "status": null,
+                            "description": "Promotion - Bundesliga",
+                            "all": {
+                                "played": 34,
+                                "win": 19,
+                                "draw": 6,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 84,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 185,
+                                "name": "SC Paderborn 07",
+                                "logo": "https://media.api-sports.io/football/teams/185.png"
+                            },
+                            "points": 57,
+                            "goalsDiff": 26,
+                            "group": "2. Bundesliga",
+                            "form": "LWLWW",
+                            "status": null,
+                            "description": "Promotion - Bundesliga",
+                            "all": {
+                                "played": 34,
+                                "win": 16,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 76,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 6,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 182,
+                                "name": "Union Berlin",
+                                "logo": "https://media.api-sports.io/football/teams/182.png"
+                            },
+                            "points": 57,
+                            "goalsDiff": 21,
+                            "group": "2. Bundesliga",
+                            "form": "DWLWD",
+                            "status": null,
+                            "description": "Promotion - Bundesliga (Relegation - Play Offs)",
+                            "all": {
+                                "played": 34,
+                                "win": 14,
+                                "draw": 15,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 33
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 11,
+                                "draw": 5,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 10,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 175,
+                                "name": "Hamburger SV",
+                                "logo": "https://media.api-sports.io/football/teams/175.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": 3,
+                            "group": "2. Bundesliga",
+                            "form": "WLLLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 16,
+                                "draw": 8,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 180,
+                                "name": "FC Heidenheim",
+                                "logo": "https://media.api-sports.io/football/teams/180.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": 10,
+                            "group": "2. Bundesliga",
+                            "form": "WWLLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 15,
+                                "draw": 10,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 191,
+                                "name": "Holstein Kiel",
+                                "logo": "https://media.api-sports.io/football/teams/191.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": 9,
+                            "group": "2. Bundesliga",
+                            "form": "LWLLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 13,
+                                "draw": 10,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 60,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 188,
+                                "name": "Arminia Bielefeld",
+                                "logo": "https://media.api-sports.io/football/teams/188.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": 2,
+                            "group": "2. Bundesliga",
+                            "form": "WWWDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 13,
+                                "draw": 10,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 52,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 177,
+                                "name": "Jahn Regensburg",
+                                "logo": "https://media.api-sports.io/football/teams/177.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": 1,
+                            "group": "2. Bundesliga",
+                            "form": "DWLLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 12,
+                                "draw": 13,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 186,
+                                "name": "FC St. Pauli",
+                                "logo": "https://media.api-sports.io/football/teams/186.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": -7,
+                            "group": "2. Bundesliga",
+                            "form": "LDLWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 14,
+                                "draw": 7,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 181,
+                                "name": "SV Darmstadt 98",
+                                "logo": "https://media.api-sports.io/football/teams/181.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": -8,
+                            "group": "2. Bundesliga",
+                            "form": "WLWWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 13,
+                                "draw": 7,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 36
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 176,
+                                "name": "VfL BOCHUM",
+                                "logo": "https://media.api-sports.io/football/teams/176.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -1,
+                            "group": "2. Bundesliga",
+                            "form": "DDWLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 11,
+                                "draw": 11,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 183,
+                                "name": "Dynamo Dresden",
+                                "logo": "https://media.api-sports.io/football/teams/183.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": -7,
+                            "group": "2. Bundesliga",
+                            "form": "WLWLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 11,
+                                "draw": 9,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 178,
+                                "name": "SpVgg Greuther Furth",
+                                "logo": "https://media.api-sports.io/football/teams/178.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": -19,
+                            "group": "2. Bundesliga",
+                            "form": "WDLLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 12,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 8,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 190,
+                                "name": "Erzgebirge AUE",
+                                "logo": "https://media.api-sports.io/football/teams/190.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -4,
+                            "group": "2. Bundesliga",
+                            "form": "LDWWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 11,
+                                "draw": 7,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 2,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 189,
+                                "name": "SV Sandhausen",
+                                "logo": "https://media.api-sports.io/football/teams/189.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": -7,
+                            "group": "2. Bundesliga",
+                            "form": "DLWWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 9,
+                                "draw": 11,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 184,
+                                "name": "FC Ingolstadt 04",
+                                "logo": "https://media.api-sports.io/football/teams/184.png"
+                            },
+                            "points": 35,
+                            "goalsDiff": -12,
+                            "group": "2. Bundesliga",
+                            "form": "LWWWW",
+                            "status": null,
+                            "description": "2. Bundesliga (Relegation)",
+                            "all": {
+                                "played": 34,
+                                "win": 9,
+                                "draw": 8,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 179,
+                                "name": "FC Magdeburg",
+                                "logo": "https://media.api-sports.io/football/teams/179.png"
+                            },
+                            "points": 31,
+                            "goalsDiff": -18,
+                            "group": "2. Bundesliga",
+                            "form": "DLLWL",
+                            "status": null,
+                            "description": "Relegation - 3. Liga",
+                            "all": {
+                                "played": 34,
+                                "win": 6,
+                                "draw": 13,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 10,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 187,
+                                "name": "MSV Duisburg",
+                                "logo": "https://media.api-sports.io/football/teams/187.png"
+                            },
+                            "points": 28,
+                            "goalsDiff": -26,
+                            "group": "2. Bundesliga",
+                            "form": "LLWDD",
+                            "status": null,
+                            "description": "Relegation - 3. Liga",
+                            "all": {
+                                "played": 34,
+                                "win": 6,
+                                "draw": 10,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 65
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 39
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2019-05-19T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

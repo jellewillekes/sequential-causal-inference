@@ -1,0 +1,929 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "80",
+        "season": "2013"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 80,
+                "name": "3. Liga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/80.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2013,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 180,
+                                "name": "FC Heidenheim",
+                                "logo": "https://media.api-sports.io/football/teams/180.png"
+                            },
+                            "points": 79,
+                            "goalsDiff": 34,
+                            "group": "3. Liga",
+                            "form": "WLLDW",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 38,
+                                "win": 23,
+                                "draw": 10,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 59,
+                                    "against": 25
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 12,
+                                "draw": 5,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 173,
+                                "name": "RB Leipzig",
+                                "logo": "https://media.api-sports.io/football/teams/173.png"
+                            },
+                            "points": 79,
+                            "goalsDiff": 31,
+                            "group": "3. Liga",
+                            "form": "WWWWD",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 38,
+                                "win": 24,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 13,
+                                "draw": 4,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 181,
+                                "name": "SV Darmstadt 98",
+                                "logo": "https://media.api-sports.io/football/teams/181.png"
+                            },
+                            "points": 72,
+                            "goalsDiff": 29,
+                            "group": "3. Liga",
+                            "form": "LWWLW",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 38,
+                                "win": 21,
+                                "draw": 9,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 58,
+                                    "against": 29
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 13,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 1319,
+                                "name": "SV Wehen",
+                                "logo": "https://media.api-sports.io/football/teams/1319.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": -1,
+                            "group": "3. Liga",
+                            "form": "DLWWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 11,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 1324,
+                                "name": "VfL Osnabruck",
+                                "logo": "https://media.api-sports.io/football/teams/1324.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": 11,
+                            "group": "3. Liga",
+                            "form": "DWLLW",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 10,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 39
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 1313,
+                                "name": "Preussen Munster",
+                                "logo": "https://media.api-sports.io/football/teams/1313.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": 5,
+                            "group": "3. Liga",
+                            "form": "WLDWW",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 14,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 10,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 187,
+                                "name": "MSV Duisburg",
+                                "logo": "https://media.api-sports.io/football/teams/187.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": 0,
+                            "group": "3. Liga",
+                            "form": "LLDWL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 13,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 12868,
+                                "name": "Stuttgarter Kickers",
+                                "logo": "https://media.api-sports.io/football/teams/12868.png"
+                            },
+                            "points": 51,
+                            "goalsDiff": -1,
+                            "group": "3. Liga",
+                            "form": "LLDDW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 12,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 10,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 8,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 1316,
+                                "name": "Hallescher FC",
+                                "logo": "https://media.api-sports.io/football/teams/1316.png"
+                            },
+                            "points": 51,
+                            "goalsDiff": -5,
+                            "group": "3. Liga",
+                            "form": "LWDDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 9,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 1329,
+                                "name": "Rot-weiss Erfurt",
+                                "logo": "https://media.api-sports.io/football/teams/1329.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": 4,
+                            "group": "3. Liga",
+                            "form": "WDLWL",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 8,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 53,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 177,
+                                "name": "Jahn Regensburg",
+                                "logo": "https://media.api-sports.io/football/teams/177.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": 0,
+                            "group": "3. Liga",
+                            "form": "DDDDW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 13,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1328,
+                                "name": "Chemnitzer FC",
+                                "logo": "https://media.api-sports.io/football/teams/1328.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": -3,
+                            "group": "3. Liga",
+                            "form": "DDWLW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 13,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1321,
+                                "name": "Hansa Rostock",
+                                "logo": "https://media.api-sports.io/football/teams/1321.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": -10,
+                            "group": "3. Liga",
+                            "form": "DDLWL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 10,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 9367,
+                                "name": "Borussia Dortmund II",
+                                "logo": "https://media.api-sports.io/football/teams/9367.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": -8,
+                            "group": "3. Liga",
+                            "form": "WDLLD",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 10,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 12867,
+                                "name": "Stuttgart II",
+                                "logo": "https://media.api-sports.io/football/teams/12867.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": -9,
+                            "group": "3. Liga",
+                            "form": "DDWWL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 10,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 191,
+                                "name": "Holstein Kiel",
+                                "logo": "https://media.api-sports.io/football/teams/191.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": 4,
+                            "group": "3. Liga",
+                            "form": "WDLDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 15,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 38
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 9,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 1314,
+                                "name": "SpVgg Unterhaching",
+                                "logo": "https://media.api-sports.io/football/teams/1314.png"
+                            },
+                            "points": 43,
+                            "goalsDiff": -15,
+                            "group": "3. Liga",
+                            "form": "LWWLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 10,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 65
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 28
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 1660,
+                                "name": "SV Elversberg",
+                                "logo": "https://media.api-sports.io/football/teams/1660.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -22,
+                            "group": "3. Liga",
+                            "form": "LDDDL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 10,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 7,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 9337,
+                                "name": "Wacker Burghausen",
+                                "logo": "https://media.api-sports.io/football/teams/9337.png"
+                            },
+                            "points": 37,
+                            "goalsDiff": -19,
+                            "group": "3. Liga",
+                            "form": "WWDLL",
+                            "status": "up",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 9,
+                                "draw": 10,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 58
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 1639,
+                                "name": "FC Saarbrucken",
+                                "logo": "https://media.api-sports.io/football/teams/1639.png"
+                            },
+                            "points": 32,
+                            "goalsDiff": -25,
+                            "group": "3. Liga",
+                            "form": "LLDLW",
+                            "status": "down",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 22,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 63
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 39
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,929 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "80",
+        "season": "2019"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 80,
+                "name": "3. Liga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/80.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2019,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 4674,
+                                "name": "Bayern M\u00fcnchen II",
+                                "logo": "https://media.api-sports.io/football/teams/4674.png"
+                            },
+                            "points": 65,
+                            "goalsDiff": 16,
+                            "group": "3. Liga",
+                            "form": "LDWWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 19,
+                                "draw": 8,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 76,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 28
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 784,
+                                "name": "FC Wurzburger Kickers",
+                                "logo": "https://media.api-sports.io/football/teams/784.png"
+                            },
+                            "points": 64,
+                            "goalsDiff": 11,
+                            "group": "3. Liga",
+                            "form": "DLWWW",
+                            "status": "same",
+                            "description": "Promotion - 2. Bundesliga",
+                            "all": {
+                                "played": 38,
+                                "win": 19,
+                                "draw": 7,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 71,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 2,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 744,
+                                "name": "Eintracht Braunschweig",
+                                "logo": "https://media.api-sports.io/football/teams/744.png"
+                            },
+                            "points": 64,
+                            "goalsDiff": 11,
+                            "group": "3. Liga",
+                            "form": "LWLWW",
+                            "status": "same",
+                            "description": "Promotion - 2. Bundesliga",
+                            "all": {
+                                "played": 38,
+                                "win": 18,
+                                "draw": 10,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 64,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 184,
+                                "name": "FC Ingolstadt 04",
+                                "logo": "https://media.api-sports.io/football/teams/184.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 21,
+                            "group": "3. Liga",
+                            "form": "WLWWW",
+                            "status": "same",
+                            "description": "Promotion - 2. Bundesliga (Relegation)",
+                            "all": {
+                                "played": 38,
+                                "win": 17,
+                                "draw": 12,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 40
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 187,
+                                "name": "MSV Duisburg",
+                                "logo": "https://media.api-sports.io/football/teams/187.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": 20,
+                            "group": "3. Liga",
+                            "form": "WDDLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 17,
+                                "draw": 11,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 68,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 6,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 1321,
+                                "name": "Hansa Rostock",
+                                "logo": "https://media.api-sports.io/football/teams/1321.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 11,
+                            "group": "3. Liga",
+                            "form": "LWLDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 17,
+                                "draw": 8,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 1318,
+                                "name": "SV Meppen",
+                                "logo": "https://media.api-sports.io/football/teams/1318.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": 12,
+                            "group": "3. Liga",
+                            "form": "WWLWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 16,
+                                "draw": 10,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 69,
+                                    "against": 57
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 32
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 786,
+                                "name": "TSV 1860 Munich",
+                                "logo": "https://media.api-sports.io/football/teams/786.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": 9,
+                            "group": "3. Liga",
+                            "form": "LWWLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 16,
+                                "draw": 10,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 63,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 4268,
+                                "name": "Waldhof Mannheim",
+                                "logo": "https://media.api-sports.io/football/teams/4268.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": 5,
+                            "group": "3. Liga",
+                            "form": "DLDLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 17,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 52,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 9,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 745,
+                                "name": "FC Kaiserslautern",
+                                "logo": "https://media.api-sports.io/football/teams/745.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": 5,
+                            "group": "3. Liga",
+                            "form": "WDWDW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 13,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 59,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 9,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 36
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 1314,
+                                "name": "SpVgg Unterhaching",
+                                "logo": "https://media.api-sports.io/football/teams/1314.png"
+                            },
+                            "points": 51,
+                            "goalsDiff": -3,
+                            "group": "3. Liga",
+                            "form": "LDLDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 15,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 9,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1620,
+                                "name": "FC Viktoria Koln",
+                                "logo": "https://media.api-sports.io/football/teams/1620.png"
+                            },
+                            "points": 51,
+                            "goalsDiff": -6,
+                            "group": "3. Liga",
+                            "form": "DWLWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 9,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 71
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 41
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1322,
+                                "name": "KFC Uerdingen 05",
+                                "logo": "https://media.api-sports.io/football/teams/1322.png"
+                            },
+                            "points": 48,
+                            "goalsDiff": -14,
+                            "group": "3. Liga",
+                            "form": "DLDLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 12,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 179,
+                                "name": "FC Magdeburg",
+                                "logo": "https://media.api-sports.io/football/teams/179.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": 7,
+                            "group": "3. Liga",
+                            "form": "DWLDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 17,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 11,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 1316,
+                                "name": "Hallescher FC",
+                                "logo": "https://media.api-sports.io/football/teams/1316.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": -2,
+                            "group": "3. Liga",
+                            "form": "DDDWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 10,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 64,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 32
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 1315,
+                                "name": "FSV Zwickau",
+                                "logo": "https://media.api-sports.io/football/teams/1315.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -5,
+                            "group": "3. Liga",
+                            "form": "DWWLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 11,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 61
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 6,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 1328,
+                                "name": "Chemnitzer FC",
+                                "logo": "https://media.api-sports.io/football/teams/1328.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -6,
+                            "group": "3. Liga",
+                            "form": "WLDLL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 11,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 39
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 1313,
+                                "name": "Preussen Munster",
+                                "logo": "https://media.api-sports.io/football/teams/1313.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -13,
+                            "group": "3. Liga",
+                            "form": "DLDWL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 9,
+                                "draw": 13,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 62
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 7,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 1317,
+                                "name": "SG Sonnenhof Grossaspach",
+                                "logo": "https://media.api-sports.io/football/teams/1317.png"
+                            },
+                            "points": 32,
+                            "goalsDiff": -34,
+                            "group": "3. Liga",
+                            "form": "LLWLL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 8,
+                                "draw": 8,
+                                "lose": 22,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 67
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 41
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 1325,
+                                "name": "Carl Zeiss Jena",
+                                "logo": "https://media.api-sports.io/football/teams/1325.png"
+                            },
+                            "points": 23,
+                            "goalsDiff": -45,
+                            "group": "3. Liga",
+                            "form": "WDLLL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 25,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 85
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 33
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 52
+                                }
+                            },
+                            "update": "2020-07-04T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

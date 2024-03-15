@@ -61,13 +61,13 @@ def request_data(country, competition_name, competition_id, season, data_type, r
 
 
 if __name__ == "__main__":
-    mappings = load_mappings_from_yaml('settings/mapping_england.yaml')
+    mappings = load_mappings_from_yaml('settings/mapping_competitions.yaml')
 
     request_counter = 0
     start_time = time.time()
 
     # Specify the country to process
-    specified_country = "England"  # Change as needed
+    specified_country = "Germany"  # Change as needed
 
     if specified_country in mappings:
         country_info = mappings[specified_country]

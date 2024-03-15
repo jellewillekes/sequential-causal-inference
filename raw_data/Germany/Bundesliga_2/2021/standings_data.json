@@ -1,0 +1,839 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "79",
+        "season": "2021"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 79,
+                "name": "2. Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/79.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2021,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 174,
+                                "name": "FC Schalke 04",
+                                "logo": "https://media.api-sports.io/football/teams/174.png"
+                            },
+                            "points": 65,
+                            "goalsDiff": 28,
+                            "group": "2. Bundesliga",
+                            "form": "WWWLW",
+                            "status": "same",
+                            "description": "Promotion - Bundesliga",
+                            "all": {
+                                "played": 34,
+                                "win": 20,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 72,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 17
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 162,
+                                "name": "Werder Bremen",
+                                "logo": "https://media.api-sports.io/football/teams/162.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 22,
+                            "group": "2. Bundesliga",
+                            "form": "WWLWD",
+                            "status": "same",
+                            "description": "Promotion - Bundesliga",
+                            "all": {
+                                "played": 34,
+                                "win": 18,
+                                "draw": 9,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 175,
+                                "name": "Hamburger SV",
+                                "logo": "https://media.api-sports.io/football/teams/175.png"
+                            },
+                            "points": 60,
+                            "goalsDiff": 32,
+                            "group": "2. Bundesliga",
+                            "form": "WWWWW",
+                            "status": "same",
+                            "description": "Promotion - Bundesliga (Promotion)",
+                            "all": {
+                                "played": 34,
+                                "win": 16,
+                                "draw": 12,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 67,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 6,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 181,
+                                "name": "SV Darmstadt 98",
+                                "logo": "https://media.api-sports.io/football/teams/181.png"
+                            },
+                            "points": 60,
+                            "goalsDiff": 25,
+                            "group": "2. Bundesliga",
+                            "form": "WLWWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 18,
+                                "draw": 6,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 71,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 186,
+                                "name": "FC St. Pauli",
+                                "logo": "https://media.api-sports.io/football/teams/186.png"
+                            },
+                            "points": 57,
+                            "goalsDiff": 15,
+                            "group": "2. Bundesliga",
+                            "form": "WLDLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 16,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 180,
+                                "name": "FC Heidenheim",
+                                "logo": "https://media.api-sports.io/football/teams/180.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": -2,
+                            "group": "2. Bundesliga",
+                            "form": "WWLDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 15,
+                                "draw": 7,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 185,
+                                "name": "SC Paderborn 07",
+                                "logo": "https://media.api-sports.io/football/teams/185.png"
+                            },
+                            "points": 51,
+                            "goalsDiff": 12,
+                            "group": "2. Bundesliga",
+                            "form": "LWDWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 13,
+                                "draw": 12,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 171,
+                                "name": "FC Nurnberg",
+                                "logo": "https://media.api-sports.io/football/teams/171.png"
+                            },
+                            "points": 51,
+                            "goalsDiff": 0,
+                            "group": "2. Bundesliga",
+                            "form": "LLDLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 14,
+                                "draw": 9,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 191,
+                                "name": "Holstein Kiel",
+                                "logo": "https://media.api-sports.io/football/teams/191.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": -8,
+                            "group": "2. Bundesliga",
+                            "form": "LWWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 12,
+                                "draw": 9,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 158,
+                                "name": "Fortuna Dusseldorf",
+                                "logo": "https://media.api-sports.io/football/teams/158.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": 3,
+                            "group": "2. Bundesliga",
+                            "form": "LWWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 11,
+                                "draw": 11,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 166,
+                                "name": "Hannover 96",
+                                "logo": "https://media.api-sports.io/football/teams/166.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": -14,
+                            "group": "2. Bundesliga",
+                            "form": "WLWLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 11,
+                                "draw": 9,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 785,
+                                "name": "Karlsruher SC",
+                                "logo": "https://media.api-sports.io/football/teams/785.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -1,
+                            "group": "2. Bundesliga",
+                            "form": "LDLDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 9,
+                                "draw": 14,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 9,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1321,
+                                "name": "Hansa Rostock",
+                                "logo": "https://media.api-sports.io/football/teams/1321.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -11,
+                            "group": "2. Bundesliga",
+                            "form": "LDDDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 11,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 189,
+                                "name": "SV Sandhausen",
+                                "logo": "https://media.api-sports.io/football/teams/189.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -12,
+                            "group": "2. Bundesliga",
+                            "form": "WLLWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 11,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 177,
+                                "name": "Jahn Regensburg",
+                                "logo": "https://media.api-sports.io/football/teams/177.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -1,
+                            "group": "2. Bundesliga",
+                            "form": "LLDLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 10,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 183,
+                                "name": "Dynamo Dresden",
+                                "logo": "https://media.api-sports.io/football/teams/183.png"
+                            },
+                            "points": 32,
+                            "goalsDiff": -13,
+                            "group": "2. Bundesliga",
+                            "form": "LDDDD",
+                            "status": "same",
+                            "description": "2. Bundesliga (Relegation)",
+                            "all": {
+                                "played": 34,
+                                "win": 7,
+                                "draw": 11,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 190,
+                                "name": "Erzgebirge AUE",
+                                "logo": "https://media.api-sports.io/football/teams/190.png"
+                            },
+                            "points": 26,
+                            "goalsDiff": -40,
+                            "group": "2. Bundesliga",
+                            "form": "WLLDW",
+                            "status": "same",
+                            "description": "Relegation - 3. Liga",
+                            "all": {
+                                "played": 34,
+                                "win": 6,
+                                "draw": 8,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 72
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 34
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 38
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 184,
+                                "name": "FC Ingolstadt 04",
+                                "logo": "https://media.api-sports.io/football/teams/184.png"
+                            },
+                            "points": 21,
+                            "goalsDiff": -35,
+                            "group": "2. Bundesliga",
+                            "form": "LDLDL",
+                            "status": "same",
+                            "description": "Relegation - 3. Liga",
+                            "all": {
+                                "played": 34,
+                                "win": 4,
+                                "draw": 9,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 65
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 36
+                                }
+                            },
+                            "update": "2022-05-24T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

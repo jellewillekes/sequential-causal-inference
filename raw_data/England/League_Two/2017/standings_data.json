@@ -1,0 +1,1109 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "42",
+        "season": "2017"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 42,
+                "name": "League Two",
+                "country": "England",
+                "logo": "https://media.api-sports.io/football/leagues/42.png",
+                "flag": "https://media.api-sports.io/flags/gb.svg",
+                "season": 2017,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 1359,
+                                "name": "Luton",
+                                "logo": "https://media.api-sports.io/football/teams/1359.png"
+                            },
+                            "points": 67,
+                            "goalsDiff": 40,
+                            "group": "League Two: Regular Season",
+                            "form": "WDWLW",
+                            "status": null,
+                            "description": "Promotion",
+                            "all": {
+                                "played": 33,
+                                "win": 20,
+                                "draw": 7,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 72,
+                                    "against": 32
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 13,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 15
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 1360,
+                                "name": "Accrington ST",
+                                "logo": "https://media.api-sports.io/football/teams/1360.png"
+                            },
+                            "points": 61,
+                            "goalsDiff": 19,
+                            "group": "League Two: Regular Season",
+                            "form": "WWWWL",
+                            "status": null,
+                            "description": "Promotion",
+                            "all": {
+                                "played": 32,
+                                "win": 19,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 37
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 11,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 1358,
+                                "name": "Wycombe",
+                                "logo": "https://media.api-sports.io/football/teams/1358.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 17,
+                            "group": "League Two: Regular Season",
+                            "form": "WDWWW",
+                            "status": null,
+                            "description": "Promotion",
+                            "all": {
+                                "played": 32,
+                                "win": 17,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 63,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 1376,
+                                "name": "Notts County",
+                                "logo": "https://media.api-sports.io/football/teams/1376.png"
+                            },
+                            "points": 57,
+                            "goalsDiff": 19,
+                            "group": "League Two: Regular Season",
+                            "form": "WLWLL",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 32,
+                                "win": 16,
+                                "draw": 9,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 1374,
+                                "name": "Mansfield Town",
+                                "logo": "https://media.api-sports.io/football/teams/1374.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": 17,
+                            "group": "League Two: Regular Season",
+                            "form": "WLWWW",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 32,
+                                "win": 15,
+                                "draw": 11,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 1353,
+                                "name": "Swindon Town",
+                                "logo": "https://media.api-sports.io/football/teams/1353.png"
+                            },
+                            "points": 54,
+                            "goalsDiff": 4,
+                            "group": "League Two: Regular Season",
+                            "form": "LWLDW",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 33,
+                                "win": 17,
+                                "draw": 3,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 1,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 1379,
+                                "name": "Lincoln",
+                                "logo": "https://media.api-sports.io/football/teams/1379.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": 14,
+                            "group": "League Two: Regular Season",
+                            "form": "WDDWD",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 32,
+                                "win": 14,
+                                "draw": 11,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 30
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 6,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 1364,
+                                "name": "Exeter City",
+                                "logo": "https://media.api-sports.io/football/teams/1364.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": 6,
+                            "group": "League Two: Regular Season",
+                            "form": "DLWWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 16,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 11,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 12
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 1346,
+                                "name": "Coventry",
+                                "logo": "https://media.api-sports.io/football/teams/1346.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": 9,
+                            "group": "League Two: Regular Season",
+                            "form": "LLLWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 15,
+                                "draw": 5,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 27
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 10,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 1361,
+                                "name": "Colchester",
+                                "logo": "https://media.api-sports.io/football/teams/1361.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": 6,
+                            "group": "League Two: Regular Season",
+                            "form": "WDWDD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 13,
+                                "draw": 11,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 39
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 1362,
+                                "name": "Crawley Town",
+                                "logo": "https://media.api-sports.io/football/teams/1362.png"
+                            },
+                            "points": 48,
+                            "goalsDiff": -2,
+                            "group": "League Two: Regular Season",
+                            "form": "LWWWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 14,
+                                "draw": 6,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 40
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1367,
+                                "name": "Newport County",
+                                "logo": "https://media.api-sports.io/football/teams/1367.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": -2,
+                            "group": "League Two: Regular Season",
+                            "form": "LLLDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 12,
+                                "draw": 10,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1371,
+                                "name": "Carlisle",
+                                "logo": "https://media.api-sports.io/football/teams/1371.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": 0,
+                            "group": "League Two: Regular Season",
+                            "form": "LDLWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 11,
+                                "draw": 9,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 1370,
+                                "name": "Cambridge United",
+                                "logo": "https://media.api-sports.io/football/teams/1370.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": -12,
+                            "group": "League Two: Regular Season",
+                            "form": "WDLLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 11,
+                                "draw": 9,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 1372,
+                                "name": "Cheltenham",
+                                "logo": "https://media.api-sports.io/football/teams/1372.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": -2,
+                            "group": "League Two: Regular Season",
+                            "form": "LWDDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 10,
+                                "draw": 9,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 7,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 1368,
+                                "name": "Stevenage",
+                                "logo": "https://media.api-sports.io/football/teams/1368.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": -6,
+                            "group": "League Two: Regular Season",
+                            "form": "LDLLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 10,
+                                "draw": 9,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 2,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 1377,
+                                "name": "Yeovil Town",
+                                "logo": "https://media.api-sports.io/football/teams/1377.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": -5,
+                            "group": "League Two: Regular Season",
+                            "form": "WDWWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 10,
+                                "draw": 8,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 1365,
+                                "name": "Grimsby",
+                                "logo": "https://media.api-sports.io/football/teams/1365.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -18,
+                            "group": "League Two: Regular Season",
+                            "form": "LDLLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 9,
+                                "draw": 9,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 1351,
+                                "name": "Port Vale",
+                                "logo": "https://media.api-sports.io/football/teams/1351.png"
+                            },
+                            "points": 34,
+                            "goalsDiff": -11,
+                            "group": "League Two: Regular Season",
+                            "form": "LDDLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 1378,
+                                "name": "Forest Green",
+                                "logo": "https://media.api-sports.io/football/teams/1378.png"
+                            },
+                            "points": 32,
+                            "goalsDiff": -19,
+                            "group": "League Two: Regular Season",
+                            "form": "WWLLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 28
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 21,
+                            "team": {
+                                "id": 1375,
+                                "name": "Morecambe",
+                                "logo": "https://media.api-sports.io/football/teams/1375.png"
+                            },
+                            "points": 31,
+                            "goalsDiff": -12,
+                            "group": "League Two: Regular Season",
+                            "form": "DLDLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 31,
+                                "win": 7,
+                                "draw": 10,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 41
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 2,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 22,
+                            "team": {
+                                "id": 1363,
+                                "name": "Crewe",
+                                "logo": "https://media.api-sports.io/football/teams/1363.png"
+                            },
+                            "points": 30,
+                            "goalsDiff": -19,
+                            "group": "League Two: Regular Season",
+                            "form": "LDLLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 3,
+                                "draw": 0,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 23,
+                            "team": {
+                                "id": 1345,
+                                "name": "Chesterfield",
+                                "logo": "https://media.api-sports.io/football/teams/1345.png"
+                            },
+                            "points": 27,
+                            "goalsDiff": -25,
+                            "group": "League Two: Regular Season",
+                            "form": "LLLWW",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 32,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 58
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 24,
+                            "team": {
+                                "id": 1369,
+                                "name": "Barnet",
+                                "logo": "https://media.api-sports.io/football/teams/1369.png"
+                            },
+                            "points": 25,
+                            "goalsDiff": -18,
+                            "group": "League Two: Regular Season",
+                            "form": "LWLDD",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 32,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

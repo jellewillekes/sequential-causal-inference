@@ -1,0 +1,2415 @@
+Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
+2011,Final,7,Cardiff,43,Liverpool,40,0.0
+2011,Final,7,Liverpool,40,Cardiff,43,1.0
+2011,Semi-finals,6,Crystal Palace,52,Cardiff,43,1.0
+2011,Semi-finals,6,Cardiff,43,Crystal Palace,52,0.0
+2011,Semi-finals,6,Cardiff,43,Crystal Palace,52,1.0
+2011,Semi-finals,6,Crystal Palace,52,Cardiff,43,0.0
+2011,Semi-finals,6,Manchester City,50,Liverpool,40,0.0
+2011,Semi-finals,6,Liverpool,40,Manchester City,50,1.0
+2011,Semi-finals,6,Liverpool,40,Manchester City,50,
+2011,Semi-finals,6,Manchester City,50,Liverpool,40,
+2011,Quarter-finals,5,Chelsea,49,Liverpool,40,0.0
+2011,Quarter-finals,5,Liverpool,40,Chelsea,49,1.0
+2011,Quarter-finals,5,Cardiff,43,Blackburn,67,1.0
+2011,Quarter-finals,5,Blackburn,67,Cardiff,43,0.0
+2011,Quarter-finals,5,Arsenal,42,Manchester City,50,0.0
+2011,Quarter-finals,5,Manchester City,50,Arsenal,42,1.0
+2011,Quarter-finals,5,Manchester United,33,Crystal Palace,52,0.0
+2011,Quarter-finals,5,Crystal Palace,52,Manchester United,33,1.0
+2011,8th Finals,4,Arsenal,42,Bolton,68,1.0
+2011,8th Finals,4,Bolton,68,Arsenal,42,0.0
+2011,8th Finals,4,Aldershot Town,1818,Manchester United,33,0.0
+2011,8th Finals,4,Manchester United,33,Aldershot Town,1818,1.0
+2011,8th Finals,4,Crystal Palace,52,Southampton,41,1.0
+2011,8th Finals,4,Southampton,41,Crystal Palace,52,0.0
+2011,8th Finals,4,Cardiff,43,Burnley,44,1.0
+2011,8th Finals,4,Burnley,44,Cardiff,43,0.0
+2011,8th Finals,4,Wolves,39,Manchester City,50,0.0
+2011,8th Finals,4,Manchester City,50,Wolves,39,1.0
+2011,8th Finals,4,Stoke City,75,Liverpool,40,0.0
+2011,8th Finals,4,Liverpool,40,Stoke City,75,1.0
+2011,8th Finals,4,Blackburn,67,Newcastle,34,1.0
+2011,8th Finals,4,Newcastle,34,Blackburn,67,0.0
+2011,8th Finals,4,Everton,45,Chelsea,49,0.0
+2011,8th Finals,4,Chelsea,49,Everton,45,1.0
+2011,3rd Round,3,Wolves,39,Millwall,58,1.0
+2011,3rd Round,3,Millwall,58,Wolves,39,0.0
+2011,3rd Round,3,Aldershot Town,1818,Rochdale,1339,1.0
+2011,3rd Round,3,Rochdale,1339,Aldershot Town,1818,0.0
+2011,3rd Round,3,Burnley,44,Milton Keynes Dons,1348,1.0
+2011,3rd Round,3,Milton Keynes Dons,1348,Burnley,44,0.0
+2011,3rd Round,3,Nottingham Forest,65,Newcastle,34,0.0
+2011,3rd Round,3,Newcastle,34,Nottingham Forest,65,1.0
+2011,3rd Round,3,Aston Villa,66,Bolton,68,0.0
+2011,3rd Round,3,Bolton,68,Aston Villa,66,1.0
+2011,3rd Round,3,Stoke City,75,Tottenham,47,1.0
+2011,3rd Round,3,Tottenham,47,Stoke City,75,0.0
+2011,3rd Round,3,Leeds,63,Manchester United,33,0.0
+2011,3rd Round,3,Manchester United,33,Leeds,63,1.0
+2011,3rd Round,3,Arsenal,42,Shrewsbury,1352,1.0
+2011,3rd Round,3,Shrewsbury,1352,Arsenal,42,0.0
+2011,3rd Round,3,Crystal Palace,52,Middlesbrough,70,1.0
+2011,3rd Round,3,Middlesbrough,70,Crystal Palace,52,0.0
+2011,3rd Round,3,Blackburn,67,Leyton Orient,1373,1.0
+2011,3rd Round,3,Leyton Orient,1373,Blackburn,67,0.0
+2011,3rd Round,3,Cardiff,43,Leicester,46,1.0
+2011,3rd Round,3,Leicester,46,Cardiff,43,0.0
+2011,3rd Round,3,Brighton,51,Liverpool,40,0.0
+2011,3rd Round,3,Liverpool,40,Brighton,51,1.0
+2011,3rd Round,3,Southampton,41,Preston,59,1.0
+2011,3rd Round,3,Preston,59,Southampton,41,0.0
+2011,3rd Round,3,Manchester City,50,Birmingham,54,1.0
+2011,3rd Round,3,Birmingham,54,Manchester City,50,0.0
+2011,3rd Round,3,Chelsea,49,Fulham,36,1.0
+2011,3rd Round,3,Fulham,36,Chelsea,49,0.0
+2011,3rd Round,3,Everton,45,West Brom,60,1.0
+2011,3rd Round,3,West Brom,60,Everton,45,0.0
+2011,2nd Round,2,Millwall,58,Morecambe,1375,1.0
+2011,2nd Round,2,Morecambe,1375,Millwall,58,0.0
+2011,2nd Round,2,Bury,1344,Leicester,46,0.0
+2011,2nd Round,2,Leicester,46,Bury,1344,1.0
+2011,2nd Round,2,Bournemouth,35,West Brom,60,0.0
+2011,2nd Round,2,West Brom,60,Bournemouth,35,1.0
+2011,2nd Round,2,Aston Villa,66,Hereford United,11932,1.0
+2011,2nd Round,2,Hereford United,11932,Aston Villa,66,0.0
+2011,2nd Round,2,Brighton,51,Sunderland,746,1.0
+2011,2nd Round,2,Sunderland,746,Brighton,51,0.0
+2011,2nd Round,2,Shrewsbury,1352,Swansea,76,1.0
+2011,2nd Round,2,Swansea,76,Shrewsbury,1352,0.0
+2011,2nd Round,2,Norwich,71,Milton Keynes Dons,1348,0.0
+2011,2nd Round,2,Milton Keynes Dons,1348,Norwich,71,1.0
+2011,2nd Round,2,Northampton,1337,Wolves,39,0.0
+2011,2nd Round,2,Wolves,39,Northampton,1337,1.0
+2011,2nd Round,2,Wycombe,1358,Nottingham Forest,65,0.0
+2011,2nd Round,2,Nottingham Forest,65,Wycombe,1358,1.0
+2011,2nd Round,2,Burnley,44,Barnet,1369,1.0
+2011,2nd Round,2,Barnet,1369,Burnley,44,0.0
+2011,2nd Round,2,Doncaster,1354,Leeds,63,0.0
+2011,2nd Round,2,Leeds,63,Doncaster,1354,1.0
+2011,2nd Round,2,Cardiff,43,Huddersfield,37,1.0
+2011,2nd Round,2,Huddersfield,37,Cardiff,43,0.0
+2011,2nd Round,2,QPR,72,Rochdale,1339,0.0
+2011,2nd Round,2,Rochdale,1339,QPR,72,1.0
+2011,2nd Round,2,Peterborough,1350,Middlesbrough,70,0.0
+2011,2nd Round,2,Middlesbrough,70,Peterborough,1350,1.0
+2011,2nd Round,2,Exeter City,1364,Liverpool,40,0.0
+2011,2nd Round,2,Liverpool,40,Exeter City,1364,1.0
+2011,2nd Round,2,Blackburn,67,Sheffield Wednesday,74,1.0
+2011,2nd Round,2,Sheffield Wednesday,74,Blackburn,67,0.0
+2011,2nd Round,2,Everton,45,Sheffield Utd,62,1.0
+2011,2nd Round,2,Sheffield Utd,62,Everton,45,0.0
+2011,2nd Round,2,Bolton,68,Macclesfield,1380,1.0
+2011,2nd Round,2,Macclesfield,1380,Bolton,68,0.0
+2011,2nd Round,2,Scunthorpe,1340,Newcastle,34,0.0
+2011,2nd Round,2,Newcastle,34,Scunthorpe,1340,1.0
+2011,2nd Round,2,Aldershot Town,1818,Carlisle,1371,1.0
+2011,2nd Round,2,Carlisle,1371,Aldershot Town,1818,0.0
+2011,2nd Round,2,Swindon Town,1353,Southampton,41,0.0
+2011,2nd Round,2,Southampton,41,Swindon Town,1353,1.0
+2011,2nd Round,2,Leyton Orient,1373,Bristol Rovers,1334,1.0
+2011,2nd Round,2,Bristol Rovers,1334,Leyton Orient,1373,0.0
+2011,2nd Round,2,Charlton,1335,Preston,59,0.0
+2011,2nd Round,2,Preston,59,Charlton,1335,1.0
+2011,2nd Round,2,Crystal Palace,52,Wigan,61,1.0
+2011,2nd Round,2,Wigan,61,Crystal Palace,52,0.0
+2011,1st Round,1,Rochdale,1339,Chesterfield,1345,1.0
+2011,1st Round,1,Chesterfield,1345,Rochdale,1339,0.0
+2011,1st Round,1,Port Vale,1351,Huddersfield,37,0.0
+2011,1st Round,1,Huddersfield,37,Port Vale,1351,1.0
+2011,1st Round,1,Rotherham,73,Leicester,46,0.0
+2011,1st Round,1,Leicester,46,Rotherham,73,1.0
+2011,1st Round,1,Hull City,64,Macclesfield,1380,0.0
+2011,1st Round,1,Macclesfield,1380,Hull City,64,1.0
+2011,1st Round,1,Hartlepool,1366,Sheffield Utd,62,0.0
+2011,1st Round,1,Sheffield Utd,62,Hartlepool,1366,1.0
+2011,1st Round,1,Exeter City,1364,Yeovil Town,1377,1.0
+2011,1st Round,1,Yeovil Town,1377,Exeter City,1364,0.0
+2011,1st Round,1,Leeds,63,Bradford,1343,1.0
+2011,1st Round,1,Bradford,1343,Leeds,63,0.0
+2011,1st Round,1,Hereford United,11932,Brentford,55,1.0
+2011,1st Round,1,Brentford,55,Hereford United,11932,0.0
+2011,1st Round,1,Doncaster,1354,Tranmere,1381,1.0
+2011,1st Round,1,Tranmere,1381,Doncaster,1354,0.0
+2011,1st Round,1,Wycombe,1358,Colchester,1361,1.0
+2011,1st Round,1,Colchester,1361,Wycombe,1358,0.0
+2011,1st Round,1,Walsall,1342,Middlesbrough,70,0.0
+2011,1st Round,1,Middlesbrough,70,Walsall,1342,1.0
+2011,1st Round,1,Southend,1341,Leyton Orient,1373,0.0
+2011,1st Round,1,Leyton Orient,1373,Southend,1341,1.0
+2011,1st Round,1,Stevenage,1368,Peterborough,1350,0.0
+2011,1st Round,1,Peterborough,1350,Stevenage,1368,1.0
+2011,1st Round,1,Barnsley,747,Morecambe,1375,0.0
+2011,1st Round,1,Morecambe,1375,Barnsley,747,1.0
+2011,1st Round,1,Portsmouth,1355,Barnet,1369,0.0
+2011,1st Round,1,Barnet,1369,Portsmouth,1355,1.0
+2011,1st Round,1,Accrington ST,1360,Scunthorpe,1340,0.0
+2011,1st Round,1,Scunthorpe,1340,Accrington ST,1360,1.0
+2011,1st Round,1,Derby,69,Shrewsbury,1352,0.0
+2011,1st Round,1,Shrewsbury,1352,Derby,69,1.0
+2011,1st Round,1,Oldham,1349,Carlisle,1371,0.0
+2011,1st Round,1,Carlisle,1371,Oldham,1349,1.0
+2011,1st Round,1,Bury,1344,Coventry,1346,1.0
+2011,1st Round,1,Coventry,1346,Bury,1344,0.0
+2011,1st Round,1,Burnley,44,Burton Albion,748,1.0
+2011,1st Round,1,Burton Albion,748,Burnley,44,0.0
+2011,1st Round,1,Preston,59,Crewe,1363,1.0
+2011,1st Round,1,Crewe,1363,Preston,59,0.0
+2011,1st Round,1,Nottingham Forest,65,Notts County,1376,1.0
+2011,1st Round,1,Notts County,1376,Nottingham Forest,65,0.0
+2011,1st Round,1,Brighton,51,Gillingham,1347,1.0
+2011,1st Round,1,Gillingham,1347,Brighton,51,0.0
+2011,1st Round,1,Bournemouth,35,Dagenham & Redbridge,1821,1.0
+2011,1st Round,1,Dagenham & Redbridge,1821,Bournemouth,35,0.0
+2011,1st Round,1,Ipswich,57,Northampton,1337,0.0
+2011,1st Round,1,Northampton,1337,Ipswich,57,1.0
+2011,1st Round,1,Cheltenham,1372,Milton Keynes Dons,1348,0.0
+2011,1st Round,1,Milton Keynes Dons,1348,Cheltenham,1372,1.0
+2011,1st Round,1,Plymouth,1357,Millwall,58,0.0
+2011,1st Round,1,Millwall,58,Plymouth,1357,1.0
+2011,1st Round,1,Southampton,41,Torquay,1827,1.0
+2011,1st Round,1,Torquay,1827,Southampton,41,0.0
+2011,1st Round,1,Oxford United,1338,Cardiff,43,0.0
+2011,1st Round,1,Cardiff,43,Oxford United,1338,1.0
+2011,1st Round,1,Sheffield Wednesday,74,Blackpool,1356,1.0
+2011,1st Round,1,Blackpool,1356,Sheffield Wednesday,74,0.0
+2011,1st Round,1,Crystal Palace,52,Crawley Town,1362,1.0
+2011,1st Round,1,Crawley Town,1362,Crystal Palace,52,0.0
+2011,1st Round,1,Bristol Rovers,1334,Watford,38,1.0
+2011,1st Round,1,Watford,38,Bristol Rovers,1334,0.0
+2011,1st Round,1,Charlton,1335,Reading,53,1.0
+2011,1st Round,1,Reading,53,Charlton,1335,0.0
+2011,1st Round,1,Bristol City,56,Swindon Town,1353,0.0
+2011,1st Round,1,Swindon Town,1353,Bristol City,56,1.0
+2011,1st Round,1,West Ham,48,Aldershot Town,1818,0.0
+2011,1st Round,1,Aldershot Town,1818,West Ham,48,1.0
+2011,Preliminary Round,0,Crawley Town,1362,AFC Wimbledon,1333,1.0
+2011,Preliminary Round,0,AFC Wimbledon,1333,Crawley Town,1362,0.0
+2012,Final,7,Bradford,1343,Swansea,76,0.0
+2012,Final,7,Swansea,76,Bradford,1343,1.0
+2012,Semi-finals,6,Bradford,1343,Aston Villa,66,1.0
+2012,Semi-finals,6,Aston Villa,66,Bradford,1343,0.0
+2012,Semi-finals,6,Aston Villa,66,Bradford,1343,1.0
+2012,Semi-finals,6,Bradford,1343,Aston Villa,66,0.0
+2012,Semi-finals,6,Chelsea,49,Swansea,76,0.0
+2012,Semi-finals,6,Swansea,76,Chelsea,49,1.0
+2012,Semi-finals,6,Swansea,76,Chelsea,49,
+2012,Semi-finals,6,Chelsea,49,Swansea,76,
+2012,Quarter-finals,5,Norwich,71,Aston Villa,66,0.0
+2012,Quarter-finals,5,Aston Villa,66,Norwich,71,1.0
+2012,Quarter-finals,5,Bradford,1343,Arsenal,42,1.0
+2012,Quarter-finals,5,Arsenal,42,Bradford,1343,0.0
+2012,Quarter-finals,5,Swansea,76,Middlesbrough,70,1.0
+2012,Quarter-finals,5,Middlesbrough,70,Swansea,76,0.0
+2012,Quarter-finals,5,Leeds,63,Chelsea,49,0.0
+2012,Quarter-finals,5,Chelsea,49,Leeds,63,1.0
+2012,8th Finals,4,Sunderland,746,Middlesbrough,70,0.0
+2012,8th Finals,4,Middlesbrough,70,Sunderland,746,1.0
+2012,8th Finals,4,Swindon Town,1353,Aston Villa,66,0.0
+2012,8th Finals,4,Aston Villa,66,Swindon Town,1353,1.0
+2012,8th Finals,4,Wigan,61,Bradford,1343,0.0
+2012,8th Finals,4,Bradford,1343,Wigan,61,1.0
+2012,8th Finals,4,Leeds,63,Southampton,41,1.0
+2012,8th Finals,4,Southampton,41,Leeds,63,0.0
+2012,8th Finals,4,Reading,53,Arsenal,42,0.0
+2012,8th Finals,4,Arsenal,42,Reading,53,1.0
+2012,8th Finals,4,Norwich,71,Tottenham,47,1.0
+2012,8th Finals,4,Tottenham,47,Norwich,71,0.0
+2012,8th Finals,4,Chelsea,49,Manchester United,33,1.0
+2012,8th Finals,4,Manchester United,33,Chelsea,49,0.0
+2012,8th Finals,4,Liverpool,40,Swansea,76,0.0
+2012,8th Finals,4,Swansea,76,Liverpool,40,1.0
+2012,3rd Round,3,Swindon Town,1353,Burnley,44,1.0
+2012,3rd Round,3,Burnley,44,Swindon Town,1353,0.0
+2012,3rd Round,3,West Ham,48,Wigan,61,0.0
+2012,3rd Round,3,Wigan,61,West Ham,48,1.0
+2012,3rd Round,3,Leeds,63,Everton,45,1.0
+2012,3rd Round,3,Everton,45,Leeds,63,0.0
+2012,3rd Round,3,Preston,59,Middlesbrough,70,0.0
+2012,3rd Round,3,Middlesbrough,70,Preston,59,1.0
+2012,3rd Round,3,Southampton,41,Sheffield Wednesday,74,1.0
+2012,3rd Round,3,Sheffield Wednesday,74,Southampton,41,0.0
+2012,3rd Round,3,Chelsea,49,Wolves,39,1.0
+2012,3rd Round,3,Wolves,39,Chelsea,49,0.0
+2012,3rd Round,3,Crawley Town,1362,Swansea,76,0.0
+2012,3rd Round,3,Swansea,76,Crawley Town,1362,1.0
+2012,3rd Round,3,Bradford,1343,Burton Albion,748,1.0
+2012,3rd Round,3,Burton Albion,748,Bradford,1343,0.0
+2012,3rd Round,3,Manchester City,50,Aston Villa,66,0.0
+2012,3rd Round,3,Aston Villa,66,Manchester City,50,1.0
+2012,3rd Round,3,Milton Keynes Dons,1348,Sunderland,746,0.0
+2012,3rd Round,3,Sunderland,746,Milton Keynes Dons,1348,1.0
+2012,3rd Round,3,Carlisle,1371,Tottenham,47,0.0
+2012,3rd Round,3,Tottenham,47,Carlisle,1371,1.0
+2012,3rd Round,3,Arsenal,42,Coventry,1346,1.0
+2012,3rd Round,3,Coventry,1346,Arsenal,42,0.0
+2012,3rd Round,3,QPR,72,Reading,53,0.0
+2012,3rd Round,3,Reading,53,QPR,72,1.0
+2012,3rd Round,3,Norwich,71,Doncaster,1354,1.0
+2012,3rd Round,3,Doncaster,1354,Norwich,71,0.0
+2012,3rd Round,3,Manchester United,33,Newcastle,34,1.0
+2012,3rd Round,3,Newcastle,34,Manchester United,33,0.0
+2012,3rd Round,3,West Brom,60,Liverpool,40,0.0
+2012,3rd Round,3,Liverpool,40,West Brom,60,1.0
+2012,2nd Round,2,Norwich,71,Scunthorpe,1340,1.0
+2012,2nd Round,2,Scunthorpe,1340,Norwich,71,0.0
+2012,2nd Round,2,Sunderland,746,Morecambe,1375,1.0
+2012,2nd Round,2,Morecambe,1375,Sunderland,746,0.0
+2012,2nd Round,2,Milton Keynes Dons,1348,Blackburn,67,1.0
+2012,2nd Round,2,Blackburn,67,Milton Keynes Dons,1348,0.0
+2012,2nd Round,2,Leeds,63,Oxford United,1338,1.0
+2012,2nd Round,2,Oxford United,1338,Leeds,63,0.0
+2012,2nd Round,2,Gillingham,1347,Middlesbrough,70,0.0
+2012,2nd Round,2,Middlesbrough,70,Gillingham,1347,1.0
+2012,2nd Round,2,Crawley Town,1362,Bolton,68,1.0
+2012,2nd Round,2,Bolton,68,Crawley Town,1362,0.0
+2012,2nd Round,2,Aston Villa,66,Tranmere,1381,1.0
+2012,2nd Round,2,Tranmere,1381,Aston Villa,66,0.0
+2012,2nd Round,2,Stoke City,75,Swindon Town,1353,0.0
+2012,2nd Round,2,Swindon Town,1353,Stoke City,75,1.0
+2012,2nd Round,2,Stevenage,1368,Southampton,41,0.0
+2012,2nd Round,2,Southampton,41,Stevenage,1368,1.0
+2012,2nd Round,2,QPR,72,Walsall,1342,1.0
+2012,2nd Round,2,Walsall,1342,QPR,72,0.0
+2012,2nd Round,2,Burnley,44,Plymouth,1357,1.0
+2012,2nd Round,2,Plymouth,1357,Burnley,44,0.0
+2012,2nd Round,2,Leicester,46,Burton Albion,748,0.0
+2012,2nd Round,2,Burton Albion,748,Leicester,46,1.0
+2012,2nd Round,2,Sheffield Wednesday,74,Fulham,36,1.0
+2012,2nd Round,2,Fulham,36,Sheffield Wednesday,74,0.0
+2012,2nd Round,2,Carlisle,1371,Ipswich,57,1.0
+2012,2nd Round,2,Ipswich,57,Carlisle,1371,0.0
+2012,2nd Round,2,Doncaster,1354,Hull City,64,1.0
+2012,2nd Round,2,Hull City,64,Doncaster,1354,0.0
+2012,2nd Round,2,West Ham,48,Crewe,1363,1.0
+2012,2nd Round,2,Crewe,1363,West Ham,48,0.0
+2012,2nd Round,2,Coventry,1346,Birmingham,54,1.0
+2012,2nd Round,2,Birmingham,54,Coventry,1346,0.0
+2012,2nd Round,2,Yeovil Town,1377,West Brom,60,0.0
+2012,2nd Round,2,West Brom,60,Yeovil Town,1377,1.0
+2012,2nd Round,2,Swansea,76,Barnsley,747,1.0
+2012,2nd Round,2,Barnsley,747,Swansea,76,0.0
+2012,2nd Round,2,Watford,38,Bradford,1343,0.0
+2012,2nd Round,2,Bradford,1343,Watford,38,1.0
+2012,2nd Round,2,Preston,59,Crystal Palace,52,1.0
+2012,2nd Round,2,Crystal Palace,52,Preston,59,0.0
+2012,2nd Round,2,Nottingham Forest,65,Wigan,61,0.0
+2012,2nd Round,2,Wigan,61,Nottingham Forest,65,1.0
+2012,2nd Round,2,Reading,53,Peterborough,1350,1.0
+2012,2nd Round,2,Peterborough,1350,Reading,53,0.0
+2012,2nd Round,2,Everton,45,Leyton Orient,1373,1.0
+2012,2nd Round,2,Leyton Orient,1373,Everton,45,0.0
+2012,2nd Round,2,Northampton,1337,Wolves,39,0.0
+2012,2nd Round,2,Wolves,39,Northampton,1337,1.0
+2012,1st Round,1,Rochdale,1339,Barnsley,747,0.0
+2012,1st Round,1,Barnsley,747,Rochdale,1339,1.0
+2012,1st Round,1,Notts County,1376,Bradford,1343,0.0
+2012,1st Round,1,Bradford,1343,Notts County,1376,1.0
+2012,1st Round,1,Hull City,64,Rotherham,73,1.0
+2012,1st Round,1,Rotherham,73,Hull City,64,0.0
+2012,1st Round,1,Carlisle,1371,Accrington ST,1360,1.0
+2012,1st Round,1,Accrington ST,1360,Carlisle,1371,0.0
+2012,1st Round,1,Doncaster,1354,York,1828,1.0
+2012,1st Round,1,York,1828,Doncaster,1354,0.0
+2012,1st Round,1,Crewe,1363,Hartlepool,1366,1.0
+2012,1st Round,1,Hartlepool,1366,Crewe,1363,0.0
+2012,1st Round,1,Bury,1344,Middlesbrough,70,0.0
+2012,1st Round,1,Middlesbrough,70,Bury,1344,1.0
+2012,1st Round,1,Sheffield Utd,62,Burton Albion,748,0.0
+2012,1st Round,1,Burton Albion,748,Sheffield Utd,62,1.0
+2012,1st Round,1,Leeds,63,Shrewsbury,1352,1.0
+2012,1st Round,1,Shrewsbury,1352,Leeds,63,0.0
+2012,1st Round,1,Cheltenham,1372,Milton Keynes Dons,1348,0.0
+2012,1st Round,1,Milton Keynes Dons,1348,Cheltenham,1372,1.0
+2012,1st Round,1,Wolves,39,Aldershot Town,1818,1.0
+2012,1st Round,1,Aldershot Town,1818,Wolves,39,0.0
+2012,1st Round,1,Walsall,1342,Brentford,55,1.0
+2012,1st Round,1,Brentford,55,Walsall,1342,0.0
+2012,1st Round,1,Watford,38,Wycombe,1358,1.0
+2012,1st Round,1,Wycombe,1358,Watford,38,0.0
+2012,1st Round,1,Blackpool,1356,Morecambe,1375,0.0
+2012,1st Round,1,Morecambe,1375,Blackpool,1356,1.0
+2012,1st Round,1,Fleetwood Town,1336,Nottingham Forest,65,0.0
+2012,1st Round,1,Nottingham Forest,65,Fleetwood Town,1336,1.0
+2012,1st Round,1,Preston,59,Huddersfield,37,1.0
+2012,1st Round,1,Huddersfield,37,Preston,59,0.0
+2012,1st Round,1,Oldham,1349,Sheffield Wednesday,74,0.0
+2012,1st Round,1,Sheffield Wednesday,74,Oldham,1349,1.0
+2012,1st Round,1,Derby,69,Scunthorpe,1340,0.0
+2012,1st Round,1,Scunthorpe,1340,Derby,69,1.0
+2012,1st Round,1,Port Vale,1351,Burnley,44,0.0
+2012,1st Round,1,Burnley,44,Port Vale,1351,1.0
+2012,1st Round,1,Chesterfield,1345,Tranmere,1381,0.0
+2012,1st Round,1,Tranmere,1381,Chesterfield,1345,1.0
+2012,1st Round,1,Ipswich,57,Bristol Rovers,1334,1.0
+2012,1st Round,1,Bristol Rovers,1334,Ipswich,57,0.0
+2012,1st Round,1,Stevenage,1368,AFC Wimbledon,1333,1.0
+2012,1st Round,1,AFC Wimbledon,1333,Stevenage,1368,0.0
+2012,1st Round,1,Exeter City,1364,Crystal Palace,52,0.0
+2012,1st Round,1,Crystal Palace,52,Exeter City,1364,1.0
+2012,1st Round,1,Yeovil Town,1377,Colchester,1361,1.0
+2012,1st Round,1,Colchester,1361,Yeovil Town,1377,0.0
+2012,1st Round,1,Birmingham,54,Barnet,1369,1.0
+2012,1st Round,1,Barnet,1369,Birmingham,54,0.0
+2012,1st Round,1,Bristol City,56,Gillingham,1347,0.0
+2012,1st Round,1,Gillingham,1347,Bristol City,56,1.0
+2012,1st Round,1,Northampton,1337,Cardiff,43,1.0
+2012,1st Round,1,Cardiff,43,Northampton,1337,0.0
+2012,1st Round,1,Plymouth,1357,Portsmouth,1355,1.0
+2012,1st Round,1,Portsmouth,1355,Plymouth,1357,0.0
+2012,1st Round,1,Millwall,58,Crawley Town,1362,0.0
+2012,1st Round,1,Crawley Town,1362,Millwall,58,1.0
+2012,1st Round,1,Torquay,1827,Leicester,46,0.0
+2012,1st Round,1,Leicester,46,Torquay,1827,1.0
+2012,1st Round,1,Peterborough,1350,Southend,1341,1.0
+2012,1st Round,1,Southend,1341,Peterborough,1350,0.0
+2012,1st Round,1,Swindon Town,1353,Brighton,51,1.0
+2012,1st Round,1,Brighton,51,Swindon Town,1353,0.0
+2012,1st Round,1,Oxford United,1338,Bournemouth,35,1.0
+2012,1st Round,1,Bournemouth,35,Oxford United,1338,0.0
+2012,1st Round,1,Charlton,1335,Leyton Orient,1373,0.0
+2012,1st Round,1,Leyton Orient,1373,Charlton,1335,1.0
+2012,1st Round,1,Dagenham & Redbridge,1821,Coventry,1346,0.0
+2012,1st Round,1,Coventry,1346,Dagenham & Redbridge,1821,1.0
+2013,Final,7,Manchester City,50,Sunderland,746,1.0
+2013,Final,7,Sunderland,746,Manchester City,50,0.0
+2013,Semi-finals,6,Sunderland,746,Manchester United,33,1.0
+2013,Semi-finals,6,Manchester United,33,Sunderland,746,0.0
+2013,Semi-finals,6,Manchester United,33,Sunderland,746,0.0
+2013,Semi-finals,6,Sunderland,746,Manchester United,33,1.0
+2013,Semi-finals,6,Manchester City,50,West Ham,48,1.0
+2013,Semi-finals,6,West Ham,48,Manchester City,50,0.0
+2013,Semi-finals,6,West Ham,48,Manchester City,50,0.0
+2013,Semi-finals,6,Manchester City,50,West Ham,48,1.0
+2013,Quarter-finals,5,Sunderland,746,Chelsea,49,1.0
+2013,Quarter-finals,5,Chelsea,49,Sunderland,746,0.0
+2013,Quarter-finals,5,Leicester,46,Manchester City,50,0.0
+2013,Quarter-finals,5,Manchester City,50,Leicester,46,1.0
+2013,Quarter-finals,5,Tottenham,47,West Ham,48,0.0
+2013,Quarter-finals,5,West Ham,48,Tottenham,47,1.0
+2013,Quarter-finals,5,Stoke City,75,Manchester United,33,0.0
+2013,Quarter-finals,5,Manchester United,33,Stoke City,75,1.0
+2013,8th Finals,4,Leicester,46,Fulham,36,1.0
+2013,8th Finals,4,Fulham,36,Leicester,46,0.0
+2013,8th Finals,4,Birmingham,54,Stoke City,75,0.0
+2013,8th Finals,4,Stoke City,75,Birmingham,54,1.0
+2013,8th Finals,4,Manchester United,33,Norwich,71,1.0
+2013,8th Finals,4,Norwich,71,Manchester United,33,0.0
+2013,8th Finals,4,Burnley,44,West Ham,48,0.0
+2013,8th Finals,4,West Ham,48,Burnley,44,1.0
+2013,8th Finals,4,Arsenal,42,Chelsea,49,0.0
+2013,8th Finals,4,Chelsea,49,Arsenal,42,1.0
+2013,8th Finals,4,Tottenham,47,Hull City,64,1.0
+2013,8th Finals,4,Hull City,64,Tottenham,47,0.0
+2013,8th Finals,4,Newcastle,34,Manchester City,50,0.0
+2013,8th Finals,4,Manchester City,50,Newcastle,34,1.0
+2013,8th Finals,4,Sunderland,746,Southampton,41,1.0
+2013,8th Finals,4,Southampton,41,Sunderland,746,0.0
+2013,3rd Round,3,Sunderland,746,Peterborough,1350,1.0
+2013,3rd Round,3,Peterborough,1350,Sunderland,746,0.0
+2013,3rd Round,3,West Ham,48,Cardiff,43,1.0
+2013,3rd Round,3,Cardiff,43,West Ham,48,0.0
+2013,3rd Round,3,Manchester City,50,Wigan,61,1.0
+2013,3rd Round,3,Wigan,61,Manchester City,50,0.0
+2013,3rd Round,3,Burnley,44,Nottingham Forest,65,1.0
+2013,3rd Round,3,Nottingham Forest,65,Burnley,44,0.0
+2013,3rd Round,3,Southampton,41,Bristol City,56,1.0
+2013,3rd Round,3,Bristol City,56,Southampton,41,0.0
+2013,3rd Round,3,Swindon Town,1353,Chelsea,49,0.0
+2013,3rd Round,3,Chelsea,49,Swindon Town,1353,1.0
+2013,3rd Round,3,Watford,38,Norwich,71,0.0
+2013,3rd Round,3,Norwich,71,Watford,38,1.0
+2013,3rd Round,3,Aston Villa,66,Tottenham,47,0.0
+2013,3rd Round,3,Tottenham,47,Aston Villa,66,1.0
+2013,3rd Round,3,Hull City,64,Huddersfield,37,1.0
+2013,3rd Round,3,Huddersfield,37,Hull City,64,0.0
+2013,3rd Round,3,Leicester,46,Derby,69,1.0
+2013,3rd Round,3,Derby,69,Leicester,46,0.0
+2013,3rd Round,3,Fulham,36,Everton,45,1.0
+2013,3rd Round,3,Everton,45,Fulham,36,0.0
+2013,3rd Round,3,Manchester United,33,Liverpool,40,1.0
+2013,3rd Round,3,Liverpool,40,Manchester United,33,0.0
+2013,3rd Round,3,Newcastle,34,Leeds,63,1.0
+2013,3rd Round,3,Leeds,63,Newcastle,34,0.0
+2013,3rd Round,3,Tranmere,1381,Stoke City,75,0.0
+2013,3rd Round,3,Stoke City,75,Tranmere,1381,1.0
+2013,3rd Round,3,Birmingham,54,Swansea,76,1.0
+2013,3rd Round,3,Swansea,76,Birmingham,54,0.0
+2013,3rd Round,3,West Brom,60,Arsenal,42,0.0
+2013,3rd Round,3,Arsenal,42,West Brom,60,1.0
+2013,2nd Round,2,Carlisle,1371,Leicester,46,0.0
+2013,2nd Round,2,Leicester,46,Carlisle,1371,1.0
+2013,2nd Round,2,Doncaster,1354,Leeds,63,0.0
+2013,2nd Round,2,Leeds,63,Doncaster,1354,1.0
+2013,2nd Round,2,Sunderland,746,Milton Keynes Dons,1348,1.0
+2013,2nd Round,2,Milton Keynes Dons,1348,Sunderland,746,0.0
+2013,2nd Round,2,Bristol City,56,Crystal Palace,52,1.0
+2013,2nd Round,2,Crystal Palace,52,Bristol City,56,0.0
+2013,2nd Round,2,Barnsley,747,Southampton,41,0.0
+2013,2nd Round,2,Southampton,41,Barnsley,747,1.0
+2013,2nd Round,2,Burton Albion,748,Fulham,36,0.0
+2013,2nd Round,2,Fulham,36,Burton Albion,748,1.0
+2013,2nd Round,2,Burnley,44,Preston,59,1.0
+2013,2nd Round,2,Preston,59,Burnley,44,0.0
+2013,2nd Round,2,Liverpool,40,Notts County,1376,1.0
+2013,2nd Round,2,Notts County,1376,Liverpool,40,0.0
+2013,2nd Round,2,Norwich,71,Bury,1344,1.0
+2013,2nd Round,2,Bury,1344,Norwich,71,0.0
+2013,2nd Round,2,Leyton Orient,1373,Hull City,64,0.0
+2013,2nd Round,2,Hull City,64,Leyton Orient,1373,1.0
+2013,2nd Round,2,West Ham,48,Cheltenham,1372,1.0
+2013,2nd Round,2,Cheltenham,1372,West Ham,48,0.0
+2013,2nd Round,2,Yeovil Town,1377,Birmingham,54,0.0
+2013,2nd Round,2,Birmingham,54,Yeovil Town,1377,1.0
+2013,2nd Round,2,Derby,69,Brentford,55,1.0
+2013,2nd Round,2,Brentford,55,Derby,69,0.0
+2013,2nd Round,2,QPR,72,Swindon Town,1353,0.0
+2013,2nd Round,2,Swindon Town,1353,QPR,72,1.0
+2013,2nd Round,2,Tranmere,1381,Bolton,68,1.0
+2013,2nd Round,2,Bolton,68,Tranmere,1381,0.0
+2013,2nd Round,2,Peterborough,1350,Reading,53,1.0
+2013,2nd Round,2,Reading,53,Peterborough,1350,0.0
+2013,2nd Round,2,Huddersfield,37,Charlton,1335,1.0
+2013,2nd Round,2,Charlton,1335,Huddersfield,37,0.0
+2013,2nd Round,2,West Brom,60,Newport County,1367,1.0
+2013,2nd Round,2,Newport County,1367,West Brom,60,0.0
+2013,2nd Round,2,Nottingham Forest,65,Millwall,58,1.0
+2013,2nd Round,2,Millwall,58,Nottingham Forest,65,0.0
+2013,2nd Round,2,Accrington ST,1360,Cardiff,43,0.0
+2013,2nd Round,2,Cardiff,43,Accrington ST,1360,1.0
+2013,2nd Round,2,Watford,38,Bournemouth,35,1.0
+2013,2nd Round,2,Bournemouth,35,Watford,38,0.0
+2013,2nd Round,2,Morecambe,1375,Newcastle,34,0.0
+2013,2nd Round,2,Newcastle,34,Morecambe,1375,1.0
+2013,2nd Round,2,Aston Villa,66,Rotherham,73,1.0
+2013,2nd Round,2,Rotherham,73,Aston Villa,66,0.0
+2013,2nd Round,2,Everton,45,Stevenage,1368,1.0
+2013,2nd Round,2,Stevenage,1368,Everton,45,0.0
+2013,2nd Round,2,Stoke City,75,Walsall,1342,1.0
+2013,2nd Round,2,Walsall,1342,Stoke City,75,0.0
+2013,1st Round,1,Preston,59,Blackpool,1356,1.0
+2013,1st Round,1,Blackpool,1356,Preston,59,0.0
+2013,1st Round,1,Bury,1344,Crewe,1363,1.0
+2013,1st Round,1,Crewe,1363,Bury,1344,0.0
+2013,1st Round,1,Shrewsbury,1352,Bolton,68,0.0
+2013,1st Round,1,Bolton,68,Shrewsbury,1352,1.0
+2013,1st Round,1,Doncaster,1354,Rochdale,1339,1.0
+2013,1st Round,1,Rochdale,1339,Doncaster,1354,0.0
+2013,1st Round,1,Barnsley,747,Scunthorpe,1340,1.0
+2013,1st Round,1,Scunthorpe,1340,Barnsley,747,0.0
+2013,1st Round,1,Tranmere,1381,Mansfield Town,1374,1.0
+2013,1st Round,1,Mansfield Town,1374,Tranmere,1381,0.0
+2013,1st Round,1,York,1828,Burnley,44,0.0
+2013,1st Round,1,Burnley,44,York,1828,1.0
+2013,1st Round,1,Sheffield Utd,62,Burton Albion,748,0.0
+2013,1st Round,1,Burton Albion,748,Sheffield Utd,62,1.0
+2013,1st Round,1,Oldham,1349,Derby,69,0.0
+2013,1st Round,1,Derby,69,Oldham,1349,1.0
+2013,1st Round,1,Morecambe,1375,Wolves,39,1.0
+2013,1st Round,1,Wolves,39,Morecambe,1375,0.0
+2013,1st Round,1,Nottingham Forest,65,Hartlepool,1366,1.0
+2013,1st Round,1,Hartlepool,1366,Nottingham Forest,65,0.0
+2013,1st Round,1,Huddersfield,37,Bradford,1343,1.0
+2013,1st Round,1,Bradford,1343,Huddersfield,37,0.0
+2013,1st Round,1,Rotherham,73,Sheffield Wednesday,74,1.0
+2013,1st Round,1,Sheffield Wednesday,74,Rotherham,73,0.0
+2013,1st Round,1,Port Vale,1351,Walsall,1342,0.0
+2013,1st Round,1,Walsall,1342,Port Vale,1351,1.0
+2013,1st Round,1,Gillingham,1347,Bristol City,56,0.0
+2013,1st Round,1,Bristol City,56,Gillingham,1347,1.0
+2013,1st Round,1,Bournemouth,35,Portsmouth,1355,1.0
+2013,1st Round,1,Portsmouth,1355,Bournemouth,35,0.0
+2013,1st Round,1,Wycombe,1358,Leicester,46,0.0
+2013,1st Round,1,Leicester,46,Wycombe,1358,1.0
+2013,1st Round,1,Brentford,55,Dagenham & Redbridge,1821,1.0
+2013,1st Round,1,Dagenham & Redbridge,1821,Brentford,55,0.0
+2013,1st Round,1,Exeter City,1364,QPR,72,0.0
+2013,1st Round,1,QPR,72,Exeter City,1364,1.0
+2013,1st Round,1,Charlton,1335,Oxford United,1338,1.0
+2013,1st Round,1,Oxford United,1338,Charlton,1335,0.0
+2013,1st Round,1,Southend,1341,Yeovil Town,1377,0.0
+2013,1st Round,1,Yeovil Town,1377,Southend,1341,1.0
+2013,1st Round,1,Millwall,58,AFC Wimbledon,1333,1.0
+2013,1st Round,1,AFC Wimbledon,1333,Millwall,58,0.0
+2013,1st Round,1,Swindon Town,1353,Torquay,1827,1.0
+2013,1st Round,1,Torquay,1827,Swindon Town,1353,0.0
+2013,1st Round,1,Birmingham,54,Plymouth,1357,1.0
+2013,1st Round,1,Plymouth,1357,Birmingham,54,0.0
+2013,1st Round,1,Stevenage,1368,Ipswich,57,1.0
+2013,1st Round,1,Ipswich,57,Stevenage,1368,0.0
+2013,1st Round,1,Cheltenham,1372,Crawley Town,1362,1.0
+2013,1st Round,1,Crawley Town,1362,Cheltenham,1372,0.0
+2013,1st Round,1,Bristol Rovers,1334,Watford,38,0.0
+2013,1st Round,1,Watford,38,Bristol Rovers,1334,1.0
+2013,1st Round,1,Northampton,1337,Milton Keynes Dons,1348,0.0
+2013,1st Round,1,Milton Keynes Dons,1348,Northampton,1337,1.0
+2013,1st Round,1,Leyton Orient,1373,Coventry,1346,1.0
+2013,1st Round,1,Coventry,1346,Leyton Orient,1373,0.0
+2013,1st Round,1,Colchester,1361,Peterborough,1350,0.0
+2013,1st Round,1,Peterborough,1350,Colchester,1361,1.0
+2013,1st Round,1,Brighton,51,Newport County,1367,0.0
+2013,1st Round,1,Newport County,1367,Brighton,51,1.0
+2013,1st Round,1,Middlesbrough,70,Accrington ST,1360,0.0
+2013,1st Round,1,Accrington ST,1360,Middlesbrough,70,1.0
+2013,1st Round,1,Notts County,1376,Fleetwood Town,1336,1.0
+2013,1st Round,1,Fleetwood Town,1336,Notts County,1376,0.0
+2013,1st Round,1,Carlisle,1371,Blackburn,67,1.0
+2013,1st Round,1,Blackburn,67,Carlisle,1371,0.0
+2013,1st Round,1,Leeds,63,Chesterfield,1345,1.0
+2013,1st Round,1,Chesterfield,1345,Leeds,63,0.0
+2014,Final,7,Chelsea,49,Tottenham,47,1.0
+2014,Final,7,Tottenham,47,Chelsea,49,0.0
+2014,Semi-finals,6,Liverpool,40,Chelsea,49,
+2014,Semi-finals,6,Chelsea,49,Liverpool,40,
+2014,Semi-finals,6,Chelsea,49,Liverpool,40,1.0
+2014,Semi-finals,6,Liverpool,40,Chelsea,49,0.0
+2014,Semi-finals,6,Tottenham,47,Sheffield Utd,62,1.0
+2014,Semi-finals,6,Sheffield Utd,62,Tottenham,47,0.0
+2014,Semi-finals,6,Sheffield Utd,62,Tottenham,47,
+2014,Semi-finals,6,Tottenham,47,Sheffield Utd,62,
+2014,Quarter-finals,5,Derby,69,Chelsea,49,0.0
+2014,Quarter-finals,5,Chelsea,49,Derby,69,1.0
+2014,Quarter-finals,5,Sheffield Utd,62,Southampton,41,1.0
+2014,Quarter-finals,5,Southampton,41,Sheffield Utd,62,0.0
+2014,Quarter-finals,5,Bournemouth,35,Liverpool,40,0.0
+2014,Quarter-finals,5,Liverpool,40,Bournemouth,35,1.0
+2014,Quarter-finals,5,Tottenham,47,Newcastle,34,1.0
+2014,Quarter-finals,5,Newcastle,34,Tottenham,47,0.0
+2014,8th Finals,4,Bournemouth,35,West Brom,60,1.0
+2014,8th Finals,4,West Brom,60,Bournemouth,35,0.0
+2014,8th Finals,4,Shrewsbury,1352,Chelsea,49,0.0
+2014,8th Finals,4,Chelsea,49,Shrewsbury,1352,1.0
+2014,8th Finals,4,Milton Keynes Dons,1348,Sheffield Utd,62,0.0
+2014,8th Finals,4,Sheffield Utd,62,Milton Keynes Dons,1348,1.0
+2014,8th Finals,4,Liverpool,40,Swansea,76,1.0
+2014,8th Finals,4,Swansea,76,Liverpool,40,0.0
+2014,8th Finals,4,Fulham,36,Derby,69,0.0
+2014,8th Finals,4,Derby,69,Fulham,36,1.0
+2014,8th Finals,4,Stoke City,75,Southampton,41,0.0
+2014,8th Finals,4,Southampton,41,Stoke City,75,1.0
+2014,8th Finals,4,Manchester City,50,Newcastle,34,0.0
+2014,8th Finals,4,Newcastle,34,Manchester City,50,1.0
+2014,8th Finals,4,Tottenham,47,Brighton,51,1.0
+2014,8th Finals,4,Brighton,51,Tottenham,47,0.0
+2014,3rd Round,3,Arsenal,42,Southampton,41,0.0
+2014,3rd Round,3,Southampton,41,Arsenal,42,1.0
+2014,3rd Round,3,Leyton Orient,1373,Sheffield Utd,62,0.0
+2014,3rd Round,3,Sheffield Utd,62,Leyton Orient,1373,1.0
+2014,3rd Round,3,Cardiff,43,Bournemouth,35,0.0
+2014,3rd Round,3,Bournemouth,35,Cardiff,43,1.0
+2014,3rd Round,3,Sunderland,746,Stoke City,75,0.0
+2014,3rd Round,3,Stoke City,75,Sunderland,746,1.0
+2014,3rd Round,3,Derby,69,Reading,53,1.0
+2014,3rd Round,3,Reading,53,Derby,69,0.0
+2014,3rd Round,3,Liverpool,40,Middlesbrough,70,1.0
+2014,3rd Round,3,Middlesbrough,70,Liverpool,40,0.0
+2014,3rd Round,3,Milton Keynes Dons,1348,Bradford,1343,1.0
+2014,3rd Round,3,Bradford,1343,Milton Keynes Dons,1348,0.0
+2014,3rd Round,3,Swansea,76,Everton,45,1.0
+2014,3rd Round,3,Everton,45,Swansea,76,0.0
+2014,3rd Round,3,Shrewsbury,1352,Norwich,71,1.0
+2014,3rd Round,3,Norwich,71,Shrewsbury,1352,0.0
+2014,3rd Round,3,Fulham,36,Doncaster,1354,1.0
+2014,3rd Round,3,Doncaster,1354,Fulham,36,0.0
+2014,3rd Round,3,Chelsea,49,Bolton,68,1.0
+2014,3rd Round,3,Bolton,68,Chelsea,49,0.0
+2014,3rd Round,3,Manchester City,50,Sheffield Wednesday,74,1.0
+2014,3rd Round,3,Sheffield Wednesday,74,Manchester City,50,0.0
+2014,3rd Round,3,Burton Albion,748,Brighton,51,0.0
+2014,3rd Round,3,Brighton,51,Burton Albion,748,1.0
+2014,3rd Round,3,Tottenham,47,Nottingham Forest,65,1.0
+2014,3rd Round,3,Nottingham Forest,65,Tottenham,47,0.0
+2014,3rd Round,3,West Brom,60,Hull City,64,1.0
+2014,3rd Round,3,Hull City,64,West Brom,60,0.0
+2014,3rd Round,3,Crystal Palace,52,Newcastle,34,0.0
+2014,3rd Round,3,Newcastle,34,Crystal Palace,52,1.0
+2014,2nd Round,2,Port Vale,1351,Cardiff,43,0.0
+2014,2nd Round,2,Cardiff,43,Port Vale,1351,1.0
+2014,2nd Round,2,Middlesbrough,70,Preston,59,1.0
+2014,2nd Round,2,Preston,59,Middlesbrough,70,0.0
+2014,2nd Round,2,Huddersfield,37,Nottingham Forest,65,0.0
+2014,2nd Round,2,Nottingham Forest,65,Huddersfield,37,1.0
+2014,2nd Round,2,Swansea,76,Rotherham,73,1.0
+2014,2nd Round,2,Rotherham,73,Swansea,76,0.0
+2014,2nd Round,2,Watford,38,Doncaster,1354,0.0
+2014,2nd Round,2,Doncaster,1354,Watford,38,1.0
+2014,2nd Round,2,Millwall,58,Southampton,41,0.0
+2014,2nd Round,2,Southampton,41,Millwall,58,1.0
+2014,2nd Round,2,Bournemouth,35,Northampton,1337,1.0
+2014,2nd Round,2,Northampton,1337,Bournemouth,35,0.0
+2014,2nd Round,2,Brentford,55,Fulham,36,0.0
+2014,2nd Round,2,Fulham,36,Brentford,55,1.0
+2014,2nd Round,2,Scunthorpe,1340,Reading,53,0.0
+2014,2nd Round,2,Reading,53,Scunthorpe,1340,1.0
+2014,2nd Round,2,Derby,69,Charlton,1335,1.0
+2014,2nd Round,2,Charlton,1335,Derby,69,0.0
+2014,2nd Round,2,West Ham,48,Sheffield Utd,62,0.0
+2014,2nd Round,2,Sheffield Utd,62,West Ham,48,1.0
+2014,2nd Round,2,Swindon Town,1353,Brighton,51,0.0
+2014,2nd Round,2,Brighton,51,Swindon Town,1353,1.0
+2014,2nd Round,2,Leicester,46,Shrewsbury,1352,0.0
+2014,2nd Round,2,Shrewsbury,1352,Leicester,46,1.0
+2014,2nd Round,2,Crewe,1363,Bolton,68,0.0
+2014,2nd Round,2,Bolton,68,Crewe,1363,1.0
+2014,2nd Round,2,Gillingham,1347,Newcastle,34,0.0
+2014,2nd Round,2,Newcastle,34,Gillingham,1347,1.0
+2014,2nd Round,2,Norwich,71,Crawley Town,1362,1.0
+2014,2nd Round,2,Crawley Town,1362,Norwich,71,0.0
+2014,2nd Round,2,Burnley,44,Sheffield Wednesday,74,0.0
+2014,2nd Round,2,Sheffield Wednesday,74,Burnley,44,1.0
+2014,2nd Round,2,Walsall,1342,Crystal Palace,52,0.0
+2014,2nd Round,2,Crystal Palace,52,Walsall,1342,1.0
+2014,2nd Round,2,West Brom,60,Oxford United,1338,1.0
+2014,2nd Round,2,Oxford United,1338,West Brom,60,0.0
+2014,2nd Round,2,Milton Keynes Dons,1348,Manchester United,33,1.0
+2014,2nd Round,2,Manchester United,33,Milton Keynes Dons,1348,0.0
+2014,2nd Round,2,Burton Albion,748,QPR,72,1.0
+2014,2nd Round,2,QPR,72,Burton Albion,748,0.0
+2014,2nd Round,2,Stoke City,75,Portsmouth,1355,1.0
+2014,2nd Round,2,Portsmouth,1355,Stoke City,75,0.0
+2014,2nd Round,2,Birmingham,54,Sunderland,746,0.0
+2014,2nd Round,2,Sunderland,746,Birmingham,54,1.0
+2014,2nd Round,2,Bradford,1343,Leeds,63,1.0
+2014,2nd Round,2,Leeds,63,Bradford,1343,0.0
+2014,2nd Round,2,Aston Villa,66,Leyton Orient,1373,0.0
+2014,2nd Round,2,Leyton Orient,1373,Aston Villa,66,1.0
+2014,1st Round,1,Carlisle,1371,Derby,69,0.0
+2014,1st Round,1,Derby,69,Carlisle,1371,1.0
+2014,1st Round,1,Oldham,1349,Middlesbrough,70,0.0
+2014,1st Round,1,Middlesbrough,70,Oldham,1349,1.0
+2014,1st Round,1,Shrewsbury,1352,Blackpool,1356,1.0
+2014,1st Round,1,Blackpool,1356,Shrewsbury,1352,0.0
+2014,1st Round,1,Sheffield Wednesday,74,Notts County,1376,1.0
+2014,1st Round,1,Notts County,1376,Sheffield Wednesday,74,0.0
+2014,1st Round,1,Tranmere,1381,Nottingham Forest,65,0.0
+2014,1st Round,1,Nottingham Forest,65,Tranmere,1381,1.0
+2014,1st Round,1,Leeds,63,Accrington ST,1360,1.0
+2014,1st Round,1,Accrington ST,1360,Leeds,63,0.0
+2014,1st Round,1,Rochdale,1339,Preston,59,0.0
+2014,1st Round,1,Preston,59,Rochdale,1339,1.0
+2014,1st Round,1,Rotherham,73,Fleetwood Town,1336,1.0
+2014,1st Round,1,Fleetwood Town,1336,Rotherham,73,0.0
+2014,1st Round,1,Port Vale,1351,Hartlepool,1366,1.0
+2014,1st Round,1,Hartlepool,1366,Port Vale,1351,0.0
+2014,1st Round,1,Morecambe,1375,Bradford,1343,0.0
+2014,1st Round,1,Bradford,1343,Morecambe,1375,1.0
+2014,1st Round,1,Barnsley,747,Crewe,1363,0.0
+2014,1st Round,1,Crewe,1363,Barnsley,747,1.0
+2014,1st Round,1,Chesterfield,1345,Huddersfield,37,0.0
+2014,1st Round,1,Huddersfield,37,Chesterfield,1345,1.0
+2014,1st Round,1,Blackburn,67,Scunthorpe,1340,0.0
+2014,1st Round,1,Scunthorpe,1340,Blackburn,67,1.0
+2014,1st Round,1,Burton Albion,748,Wigan,61,1.0
+2014,1st Round,1,Wigan,61,Burton Albion,748,0.0
+2014,1st Round,1,York,1828,Doncaster,1354,0.0
+2014,1st Round,1,Doncaster,1354,York,1828,1.0
+2014,1st Round,1,Bristol City,56,Oxford United,1338,0.0
+2014,1st Round,1,Oxford United,1338,Bristol City,56,1.0
+2014,1st Round,1,Brighton,51,Cheltenham,1372,1.0
+2014,1st Round,1,Cheltenham,1372,Brighton,51,0.0
+2014,1st Round,1,Luton,1359,Swindon Town,1353,0.0
+2014,1st Round,1,Swindon Town,1353,Luton,1359,1.0
+2014,1st Round,1,Dagenham & Redbridge,1821,Brentford,55,0.0
+2014,1st Round,1,Brentford,55,Dagenham & Redbridge,1821,1.0
+2014,1st Round,1,Charlton,1335,Colchester,1361,1.0
+2014,1st Round,1,Colchester,1361,Charlton,1335,0.0
+2014,1st Round,1,Crawley Town,1362,Ipswich,57,1.0
+2014,1st Round,1,Ipswich,57,Crawley Town,1362,0.0
+2014,1st Round,1,Wolves,39,Northampton,1337,0.0
+2014,1st Round,1,Northampton,1337,Wolves,39,1.0
+2014,1st Round,1,Yeovil Town,1377,Gillingham,1347,0.0
+2014,1st Round,1,Gillingham,1347,Yeovil Town,1377,1.0
+2014,1st Round,1,Milton Keynes Dons,1348,AFC Wimbledon,1333,1.0
+2014,1st Round,1,AFC Wimbledon,1333,Milton Keynes Dons,1348,0.0
+2014,1st Round,1,Exeter City,1364,Bournemouth,35,0.0
+2014,1st Round,1,Bournemouth,35,Exeter City,1364,1.0
+2014,1st Round,1,Stevenage,1368,Watford,38,0.0
+2014,1st Round,1,Watford,38,Stevenage,1368,1.0
+2014,1st Round,1,Plymouth,1357,Leyton Orient,1373,0.0
+2014,1st Round,1,Leyton Orient,1373,Plymouth,1357,1.0
+2014,1st Round,1,Birmingham,54,Cambridge United,1370,1.0
+2014,1st Round,1,Cambridge United,1370,Birmingham,54,0.0
+2014,1st Round,1,Portsmouth,1355,Peterborough,1350,1.0
+2014,1st Round,1,Peterborough,1350,Portsmouth,1355,0.0
+2014,1st Round,1,Millwall,58,Wycombe,1358,1.0
+2014,1st Round,1,Wycombe,1358,Millwall,58,0.0
+2014,1st Round,1,Southend,1341,Walsall,1342,0.0
+2014,1st Round,1,Walsall,1342,Southend,1341,1.0
+2014,1st Round,1,Bolton,68,Bury,1344,1.0
+2014,1st Round,1,Bury,1344,Bolton,68,0.0
+2014,1st Round,1,Reading,53,Newport County,1367,1.0
+2014,1st Round,1,Newport County,1367,Reading,53,0.0
+2014,1st Round,1,Sheffield Utd,62,Mansfield Town,1374,1.0
+2014,1st Round,1,Mansfield Town,1374,Sheffield Utd,62,0.0
+2014,1st Round,1,Coventry,1346,Cardiff,43,0.0
+2014,1st Round,1,Cardiff,43,Coventry,1346,1.0
+2015,Final,7,Liverpool,40,Manchester City,50,0.0
+2015,Final,7,Manchester City,50,Liverpool,40,1.0
+2015,Semi-finals,6,Stoke City,75,Liverpool,40,0.0
+2015,Semi-finals,6,Liverpool,40,Stoke City,75,1.0
+2015,Semi-finals,6,Liverpool,40,Stoke City,75,1.0
+2015,Semi-finals,6,Stoke City,75,Liverpool,40,0.0
+2015,Semi-finals,6,Everton,45,Manchester City,50,1.0
+2015,Semi-finals,6,Manchester City,50,Everton,45,0.0
+2015,Semi-finals,6,Manchester City,50,Everton,45,1.0
+2015,Semi-finals,6,Everton,45,Manchester City,50,0.0
+2015,Quarter-finals,5,Middlesbrough,70,Everton,45,0.0
+2015,Quarter-finals,5,Everton,45,Middlesbrough,70,1.0
+2015,Quarter-finals,5,Stoke City,75,Sheffield Wednesday,74,1.0
+2015,Quarter-finals,5,Sheffield Wednesday,74,Stoke City,75,0.0
+2015,Quarter-finals,5,Manchester City,50,Hull City,64,1.0
+2015,Quarter-finals,5,Hull City,64,Manchester City,50,0.0
+2015,Quarter-finals,5,Southampton,41,Liverpool,40,0.0
+2015,Quarter-finals,5,Liverpool,40,Southampton,41,1.0
+2015,8th Finals,4,Everton,45,Norwich,71,1.0
+2015,8th Finals,4,Norwich,71,Everton,45,0.0
+2015,8th Finals,4,Sheffield Wednesday,74,Arsenal,42,1.0
+2015,8th Finals,4,Arsenal,42,Sheffield Wednesday,74,0.0
+2015,8th Finals,4,Hull City,64,Leicester,46,1.0
+2015,8th Finals,4,Leicester,46,Hull City,64,0.0
+2015,8th Finals,4,Stoke City,75,Chelsea,49,1.0
+2015,8th Finals,4,Chelsea,49,Stoke City,75,0.0
+2015,8th Finals,4,Manchester City,50,Crystal Palace,52,1.0
+2015,8th Finals,4,Crystal Palace,52,Manchester City,50,0.0
+2015,8th Finals,4,Liverpool,40,Bournemouth,35,1.0
+2015,8th Finals,4,Bournemouth,35,Liverpool,40,0.0
+2015,8th Finals,4,Southampton,41,Aston Villa,66,1.0
+2015,8th Finals,4,Aston Villa,66,Southampton,41,0.0
+2015,8th Finals,4,Manchester United,33,Middlesbrough,70,0.0
+2015,8th Finals,4,Middlesbrough,70,Manchester United,33,1.0
+2015,3rd Round,3,Aston Villa,66,Birmingham,54,1.0
+2015,3rd Round,3,Birmingham,54,Aston Villa,66,0.0
+2015,3rd Round,3,Fulham,36,Stoke City,75,0.0
+2015,3rd Round,3,Stoke City,75,Fulham,36,1.0
+2015,3rd Round,3,Hull City,64,Swansea,76,1.0
+2015,3rd Round,3,Swansea,76,Hull City,64,0.0
+2015,3rd Round,3,Leicester,46,West Ham,48,1.0
+2015,3rd Round,3,West Ham,48,Leicester,46,0.0
+2015,3rd Round,3,Middlesbrough,70,Wolves,39,1.0
+2015,3rd Round,3,Wolves,39,Middlesbrough,70,0.0
+2015,3rd Round,3,Preston,59,Bournemouth,35,0.0
+2015,3rd Round,3,Bournemouth,35,Preston,59,1.0
+2015,3rd Round,3,Sunderland,746,Manchester City,50,0.0
+2015,3rd Round,3,Manchester City,50,Sunderland,746,1.0
+2015,3rd Round,3,Reading,53,Everton,45,0.0
+2015,3rd Round,3,Everton,45,Reading,53,1.0
+2015,3rd Round,3,Crystal Palace,52,Charlton,1335,1.0
+2015,3rd Round,3,Charlton,1335,Crystal Palace,52,0.0
+2015,3rd Round,3,Milton Keynes Dons,1348,Southampton,41,0.0
+2015,3rd Round,3,Southampton,41,Milton Keynes Dons,1348,1.0
+2015,3rd Round,3,Newcastle,34,Sheffield Wednesday,74,0.0
+2015,3rd Round,3,Sheffield Wednesday,74,Newcastle,34,1.0
+2015,3rd Round,3,Norwich,71,West Brom,60,1.0
+2015,3rd Round,3,West Brom,60,Norwich,71,0.0
+2015,3rd Round,3,Tottenham,47,Arsenal,42,0.0
+2015,3rd Round,3,Arsenal,42,Tottenham,47,1.0
+2015,3rd Round,3,Walsall,1342,Chelsea,49,0.0
+2015,3rd Round,3,Chelsea,49,Walsall,1342,1.0
+2015,3rd Round,3,Liverpool,40,Carlisle,1371,1.0
+2015,3rd Round,3,Carlisle,1371,Liverpool,40,0.0
+2015,3rd Round,3,Manchester United,33,Ipswich,57,1.0
+2015,3rd Round,3,Ipswich,57,Manchester United,33,0.0
+2015,2nd Round,2,Aston Villa,66,Notts County,1376,1.0
+2015,2nd Round,2,Notts County,1376,Aston Villa,66,0.0
+2015,2nd Round,2,Walsall,1342,Brighton,51,1.0
+2015,2nd Round,2,Brighton,51,Walsall,1342,0.0
+2015,2nd Round,2,Crystal Palace,52,Shrewsbury,1352,1.0
+2015,2nd Round,2,Shrewsbury,1352,Crystal Palace,52,0.0
+2015,2nd Round,2,Portsmouth,1355,Reading,53,0.0
+2015,2nd Round,2,Reading,53,Portsmouth,1355,1.0
+2015,2nd Round,2,Hartlepool,1366,Bournemouth,35,0.0
+2015,2nd Round,2,Bournemouth,35,Hartlepool,1366,1.0
+2015,2nd Round,2,Fulham,36,Sheffield Utd,62,1.0
+2015,2nd Round,2,Sheffield Utd,62,Fulham,36,0.0
+2015,2nd Round,2,Milton Keynes Dons,1348,Cardiff,43,1.0
+2015,2nd Round,2,Cardiff,43,Milton Keynes Dons,1348,0.0
+2015,2nd Round,2,Hull City,64,Rochdale,1339,1.0
+2015,2nd Round,2,Rochdale,1339,Hull City,64,0.0
+2015,2nd Round,2,Sunderland,746,Exeter City,1364,1.0
+2015,2nd Round,2,Exeter City,1364,Sunderland,746,0.0
+2015,2nd Round,2,Bury,1344,Leicester,46,0.0
+2015,2nd Round,2,Leicester,46,Bury,1344,1.0
+2015,2nd Round,2,Rotherham,73,Norwich,71,0.0
+2015,2nd Round,2,Norwich,71,Rotherham,73,1.0
+2015,2nd Round,2,Swansea,76,York,1828,1.0
+2015,2nd Round,2,York,1828,Swansea,76,0.0
+2015,2nd Round,2,QPR,72,Carlisle,1371,0.0
+2015,2nd Round,2,Carlisle,1371,QPR,72,1.0
+2015,2nd Round,2,Peterborough,1350,Charlton,1335,0.0
+2015,2nd Round,2,Charlton,1335,Peterborough,1350,1.0
+2015,2nd Round,2,Birmingham,54,Gillingham,1347,1.0
+2015,2nd Round,2,Gillingham,1347,Birmingham,54,0.0
+2015,2nd Round,2,Newcastle,34,Northampton,1337,1.0
+2015,2nd Round,2,Northampton,1337,Newcastle,34,0.0
+2015,2nd Round,2,Wolves,39,Barnet,1369,1.0
+2015,2nd Round,2,Barnet,1369,Wolves,39,0.0
+2015,2nd Round,2,Burton Albion,748,Middlesbrough,70,0.0
+2015,2nd Round,2,Middlesbrough,70,Burton Albion,748,1.0
+2015,2nd Round,2,Luton,1359,Stoke City,75,0.0
+2015,2nd Round,2,Stoke City,75,Luton,1359,1.0
+2015,2nd Round,2,Preston,59,Watford,38,1.0
+2015,2nd Round,2,Watford,38,Preston,59,0.0
+2015,2nd Round,2,Doncaster,1354,Ipswich,57,0.0
+2015,2nd Round,2,Ipswich,57,Doncaster,1354,1.0
+2015,2nd Round,2,Sheffield Wednesday,74,Oxford United,1338,1.0
+2015,2nd Round,2,Oxford United,1338,Sheffield Wednesday,74,0.0
+2015,2nd Round,2,West Brom,60,Port Vale,1351,1.0
+2015,2nd Round,2,Port Vale,1351,West Brom,60,0.0
+2015,2nd Round,2,Barnsley,747,Everton,45,0.0
+2015,2nd Round,2,Everton,45,Barnsley,747,1.0
+2015,1st Round,1,Carlisle,1371,Chesterfield,1345,1.0
+2015,1st Round,1,Chesterfield,1345,Carlisle,1371,0.0
+2015,1st Round,1,Nottingham Forest,65,Walsall,1342,0.0
+2015,1st Round,1,Walsall,1342,Nottingham Forest,65,1.0
+2015,1st Round,1,Fleetwood Town,1336,Hartlepool,1366,0.0
+2015,1st Round,1,Hartlepool,1366,Fleetwood Town,1336,1.0
+2015,1st Round,1,Scunthorpe,1340,Barnsley,747,0.0
+2015,1st Round,1,Barnsley,747,Scunthorpe,1340,1.0
+2015,1st Round,1,Accrington ST,1360,Hull City,64,0.0
+2015,1st Round,1,Hull City,64,Accrington ST,1360,1.0
+2015,1st Round,1,Rochdale,1339,Coventry,1346,1.0
+2015,1st Round,1,Coventry,1346,Rochdale,1339,0.0
+2015,1st Round,1,Huddersfield,37,Notts County,1376,0.0
+2015,1st Round,1,Notts County,1376,Huddersfield,37,1.0
+2015,1st Round,1,Blackburn,67,Shrewsbury,1352,0.0
+2015,1st Round,1,Shrewsbury,1352,Blackburn,67,1.0
+2015,1st Round,1,Morecambe,1375,Sheffield Utd,62,0.0
+2015,1st Round,1,Sheffield Utd,62,Morecambe,1375,1.0
+2015,1st Round,1,Wigan,61,Bury,1344,0.0
+2015,1st Round,1,Bury,1344,Wigan,61,1.0
+2015,1st Round,1,Northampton,1337,Blackpool,1356,1.0
+2015,1st Round,1,Blackpool,1356,Northampton,1337,0.0
+2015,1st Round,1,Sheffield Wednesday,74,Mansfield Town,1374,1.0
+2015,1st Round,1,Mansfield Town,1374,Sheffield Wednesday,74,0.0
+2015,1st Round,1,Rotherham,73,Cambridge United,1370,1.0
+2015,1st Round,1,Cambridge United,1370,Rotherham,73,0.0
+2015,1st Round,1,York,1828,Bradford,1343,1.0
+2015,1st Round,1,Bradford,1343,York,1828,0.0
+2015,1st Round,1,Port Vale,1351,Burnley,44,1.0
+2015,1st Round,1,Burnley,44,Port Vale,1351,0.0
+2015,1st Round,1,Peterborough,1350,Crawley Town,1362,1.0
+2015,1st Round,1,Crawley Town,1362,Peterborough,1350,0.0
+2015,1st Round,1,Yeovil Town,1377,QPR,72,0.0
+2015,1st Round,1,QPR,72,Yeovil Town,1377,1.0
+2015,1st Round,1,Plymouth,1357,Gillingham,1347,0.0
+2015,1st Round,1,Gillingham,1347,Plymouth,1357,1.0
+2015,1st Round,1,Swindon Town,1353,Exeter City,1364,0.0
+2015,1st Round,1,Exeter City,1364,Swindon Town,1353,1.0
+2015,1st Round,1,Bristol Rovers,1334,Birmingham,54,0.0
+2015,1st Round,1,Birmingham,54,Bristol Rovers,1334,1.0
+2015,1st Round,1,Ipswich,57,Stevenage,1368,1.0
+2015,1st Round,1,Stevenage,1368,Ipswich,57,0.0
+2015,1st Round,1,Luton,1359,Bristol City,56,1.0
+2015,1st Round,1,Bristol City,56,Luton,1359,0.0
+2015,1st Round,1,Charlton,1335,Dagenham & Redbridge,1821,1.0
+2015,1st Round,1,Dagenham & Redbridge,1821,Charlton,1335,0.0
+2015,1st Round,1,Wolves,39,Newport County,1367,1.0
+2015,1st Round,1,Newport County,1367,Wolves,39,0.0
+2015,1st Round,1,Brentford,55,Oxford United,1338,0.0
+2015,1st Round,1,Oxford United,1338,Brentford,55,1.0
+2015,1st Round,1,Southend,1341,Brighton,51,0.0
+2015,1st Round,1,Brighton,51,Southend,1341,1.0
+2015,1st Round,1,Milton Keynes Dons,1348,Leyton Orient,1373,1.0
+2015,1st Round,1,Leyton Orient,1373,Milton Keynes Dons,1348,0.0
+2015,1st Round,1,Cardiff,43,AFC Wimbledon,1333,1.0
+2015,1st Round,1,AFC Wimbledon,1333,Cardiff,43,0.0
+2015,1st Round,1,Millwall,58,Barnet,1369,0.0
+2015,1st Round,1,Barnet,1369,Millwall,58,1.0
+2015,1st Round,1,Wycombe,1358,Fulham,36,0.0
+2015,1st Round,1,Fulham,36,Wycombe,1358,1.0
+2015,1st Round,1,Colchester,1361,Reading,53,0.0
+2015,1st Round,1,Reading,53,Colchester,1361,1.0
+2015,1st Round,1,Bolton,68,Burton Albion,748,0.0
+2015,1st Round,1,Burton Albion,748,Bolton,68,1.0
+2015,1st Round,1,Oldham,1349,Middlesbrough,70,0.0
+2015,1st Round,1,Middlesbrough,70,Oldham,1349,1.0
+2015,1st Round,1,Crewe,1363,Preston,59,0.0
+2015,1st Round,1,Preston,59,Crewe,1363,1.0
+2015,1st Round,1,Portsmouth,1355,Derby,69,1.0
+2015,1st Round,1,Derby,69,Portsmouth,1355,0.0
+2015,1st Round,1,Doncaster,1354,Leeds,63,1.0
+2015,1st Round,1,Leeds,63,Doncaster,1354,0.0
+2016,Final,7,Manchester United,33,Southampton,41,1.0
+2016,Final,7,Southampton,41,Manchester United,33,0.0
+2016,Semi-finals,6,Manchester United,33,Hull City,64,1.0
+2016,Semi-finals,6,Hull City,64,Manchester United,33,0.0
+2016,Semi-finals,6,Hull City,64,Manchester United,33,1.0
+2016,Semi-finals,6,Manchester United,33,Hull City,64,0.0
+2016,Semi-finals,6,Southampton,41,Liverpool,40,1.0
+2016,Semi-finals,6,Liverpool,40,Southampton,41,0.0
+2016,Semi-finals,6,Liverpool,40,Southampton,41,0.0
+2016,Semi-finals,6,Southampton,41,Liverpool,40,1.0
+2016,Quarter-finals,5,Liverpool,40,Leeds,63,1.0
+2016,Quarter-finals,5,Leeds,63,Liverpool,40,0.0
+2016,Quarter-finals,5,Hull City,64,Newcastle,34,1.0
+2016,Quarter-finals,5,Newcastle,34,Hull City,64,0.0
+2016,Quarter-finals,5,Arsenal,42,Southampton,41,0.0
+2016,Quarter-finals,5,Southampton,41,Arsenal,42,1.0
+2016,Quarter-finals,5,Manchester United,33,West Ham,48,1.0
+2016,Quarter-finals,5,West Ham,48,Manchester United,33,0.0
+2016,8th Finals,4,Arsenal,42,Reading,53,1.0
+2016,8th Finals,4,Reading,53,Arsenal,42,0.0
+2016,8th Finals,4,Liverpool,40,Tottenham,47,1.0
+2016,8th Finals,4,Tottenham,47,Liverpool,40,0.0
+2016,8th Finals,4,Bristol City,56,Hull City,64,0.0
+2016,8th Finals,4,Hull City,64,Bristol City,56,1.0
+2016,8th Finals,4,Leeds,63,Norwich,71,1.0
+2016,8th Finals,4,Norwich,71,Leeds,63,0.0
+2016,8th Finals,4,Newcastle,34,Preston,59,1.0
+2016,8th Finals,4,Preston,59,Newcastle,34,0.0
+2016,8th Finals,4,West Ham,48,Chelsea,49,1.0
+2016,8th Finals,4,Chelsea,49,West Ham,48,0.0
+2016,8th Finals,4,Southampton,41,Sunderland,746,1.0
+2016,8th Finals,4,Sunderland,746,Southampton,41,0.0
+2016,8th Finals,4,Manchester United,33,Manchester City,50,1.0
+2016,8th Finals,4,Manchester City,50,Manchester United,33,0.0
+2016,3rd Round,3,Nottingham Forest,65,Arsenal,42,0.0
+2016,3rd Round,3,Arsenal,42,Nottingham Forest,65,1.0
+2016,3rd Round,3,Leeds,63,Blackburn,67,1.0
+2016,3rd Round,3,Blackburn,67,Leeds,63,0.0
+2016,3rd Round,3,Bournemouth,35,Preston,59,0.0
+2016,3rd Round,3,Preston,59,Bournemouth,35,1.0
+2016,3rd Round,3,Everton,45,Norwich,71,0.0
+2016,3rd Round,3,Norwich,71,Everton,45,1.0
+2016,3rd Round,3,Derby,69,Liverpool,40,0.0
+2016,3rd Round,3,Liverpool,40,Derby,69,1.0
+2016,3rd Round,3,Brighton,51,Reading,53,0.0
+2016,3rd Round,3,Reading,53,Brighton,51,1.0
+2016,3rd Round,3,Newcastle,34,Wolves,39,1.0
+2016,3rd Round,3,Wolves,39,Newcastle,34,0.0
+2016,3rd Round,3,Leicester,46,Chelsea,49,0.0
+2016,3rd Round,3,Chelsea,49,Leicester,46,1.0
+2016,3rd Round,3,QPR,72,Sunderland,746,0.0
+2016,3rd Round,3,Sunderland,746,QPR,72,1.0
+2016,3rd Round,3,West Ham,48,Accrington ST,1360,1.0
+2016,3rd Round,3,Accrington ST,1360,West Ham,48,0.0
+2016,3rd Round,3,Southampton,41,Crystal Palace,52,1.0
+2016,3rd Round,3,Crystal Palace,52,Southampton,41,0.0
+2016,3rd Round,3,Swansea,76,Manchester City,50,0.0
+2016,3rd Round,3,Manchester City,50,Swansea,76,1.0
+2016,3rd Round,3,Fulham,36,Bristol City,56,0.0
+2016,3rd Round,3,Bristol City,56,Fulham,36,1.0
+2016,3rd Round,3,Northampton,1337,Manchester United,33,0.0
+2016,3rd Round,3,Manchester United,33,Northampton,1337,1.0
+2016,3rd Round,3,Tottenham,47,Gillingham,1347,1.0
+2016,3rd Round,3,Gillingham,1347,Tottenham,47,0.0
+2016,3rd Round,3,Stoke City,75,Hull City,64,0.0
+2016,3rd Round,3,Hull City,64,Stoke City,75,1.0
+2016,2nd Round,2,Crystal Palace,52,Blackpool,1356,1.0
+2016,2nd Round,2,Blackpool,1356,Crystal Palace,52,0.0
+2016,2nd Round,2,QPR,72,Rochdale,1339,1.0
+2016,2nd Round,2,Rochdale,1339,QPR,72,0.0
+2016,2nd Round,2,Scunthorpe,1340,Bristol City,56,0.0
+2016,2nd Round,2,Bristol City,56,Scunthorpe,1340,1.0
+2016,2nd Round,2,Watford,38,Gillingham,1347,0.0
+2016,2nd Round,2,Gillingham,1347,Watford,38,1.0
+2016,2nd Round,2,Peterborough,1350,Swansea,76,0.0
+2016,2nd Round,2,Swansea,76,Peterborough,1350,1.0
+2016,2nd Round,2,Everton,45,Yeovil Town,1377,1.0
+2016,2nd Round,2,Yeovil Town,1377,Everton,45,0.0
+2016,2nd Round,2,Millwall,58,Nottingham Forest,65,0.0
+2016,2nd Round,2,Nottingham Forest,65,Millwall,58,1.0
+2016,2nd Round,2,Luton,1359,Leeds,63,0.0
+2016,2nd Round,2,Leeds,63,Luton,1359,1.0
+2016,2nd Round,2,Chelsea,49,Bristol Rovers,1334,1.0
+2016,2nd Round,2,Bristol Rovers,1334,Chelsea,49,0.0
+2016,2nd Round,2,Burton Albion,748,Liverpool,40,0.0
+2016,2nd Round,2,Liverpool,40,Burton Albion,748,1.0
+2016,2nd Round,2,Blackburn,67,Crewe,1363,1.0
+2016,2nd Round,2,Crewe,1363,Blackburn,67,0.0
+2016,2nd Round,2,Preston,59,Oldham,1349,1.0
+2016,2nd Round,2,Oldham,1349,Preston,59,0.0
+2016,2nd Round,2,Oxford United,1338,Brighton,51,0.0
+2016,2nd Round,2,Brighton,51,Oxford United,1338,1.0
+2016,2nd Round,2,Newcastle,34,Cheltenham,1372,1.0
+2016,2nd Round,2,Cheltenham,1372,Newcastle,34,0.0
+2016,2nd Round,2,Exeter City,1364,Hull City,64,0.0
+2016,2nd Round,2,Hull City,64,Exeter City,1364,1.0
+2016,2nd Round,2,Derby,69,Carlisle,1371,1.0
+2016,2nd Round,2,Carlisle,1371,Derby,69,0.0
+2016,2nd Round,2,Northampton,1337,West Brom,60,1.0
+2016,2nd Round,2,West Brom,60,Northampton,1337,0.0
+2016,2nd Round,2,Wolves,39,Cambridge United,1370,1.0
+2016,2nd Round,2,Cambridge United,1370,Wolves,39,0.0
+2016,2nd Round,2,Stevenage,1368,Stoke City,75,0.0
+2016,2nd Round,2,Stoke City,75,Stevenage,1368,1.0
+2016,2nd Round,2,Norwich,71,Coventry,1346,1.0
+2016,2nd Round,2,Coventry,1346,Norwich,71,0.0
+2016,2nd Round,2,Reading,53,Milton Keynes Dons,1348,1.0
+2016,2nd Round,2,Milton Keynes Dons,1348,Reading,53,0.0
+2016,2nd Round,2,Sunderland,746,Shrewsbury,1352,1.0
+2016,2nd Round,2,Shrewsbury,1352,Sunderland,746,0.0
+2016,2nd Round,2,Accrington ST,1360,Burnley,44,1.0
+2016,2nd Round,2,Burnley,44,Accrington ST,1360,0.0
+2016,2nd Round,2,Morecambe,1375,Bournemouth,35,0.0
+2016,2nd Round,2,Bournemouth,35,Morecambe,1375,1.0
+2016,2nd Round,2,Fulham,36,Middlesbrough,70,1.0
+2016,2nd Round,2,Middlesbrough,70,Fulham,36,0.0
+2016,1st Round,1,Accrington ST,1360,Bradford,1343,1.0
+2016,1st Round,1,Bradford,1343,Accrington ST,1360,0.0
+2016,1st Round,1,Barnsley,747,Northampton,1337,0.0
+2016,1st Round,1,Northampton,1337,Barnsley,747,1.0
+2016,1st Round,1,Birmingham,54,Oxford United,1338,0.0
+2016,1st Round,1,Oxford United,1338,Birmingham,54,1.0
+2016,1st Round,1,Blackpool,1356,Bolton,68,1.0
+2016,1st Round,1,Bolton,68,Blackpool,1356,0.0
+2016,1st Round,1,Brighton,51,Colchester,1361,1.0
+2016,1st Round,1,Colchester,1361,Brighton,51,0.0
+2016,1st Round,1,Cambridge United,1370,Sheffield Wednesday,74,1.0
+2016,1st Round,1,Sheffield Wednesday,74,Cambridge United,1370,0.0
+2016,1st Round,1,Carlisle,1371,Port Vale,1351,1.0
+2016,1st Round,1,Port Vale,1351,Carlisle,1371,0.0
+2016,1st Round,1,Cheltenham,1372,Charlton,1335,1.0
+2016,1st Round,1,Charlton,1335,Cheltenham,1372,0.0
+2016,1st Round,1,Coventry,1346,Portsmouth,1355,1.0
+2016,1st Round,1,Portsmouth,1355,Coventry,1346,0.0
+2016,1st Round,1,Derby,69,Grimsby,1365,1.0
+2016,1st Round,1,Grimsby,1365,Derby,69,0.0
+2016,1st Round,1,Doncaster,1354,Nottingham Forest,65,0.0
+2016,1st Round,1,Nottingham Forest,65,Doncaster,1354,1.0
+2016,1st Round,1,Exeter City,1364,Brentford,55,1.0
+2016,1st Round,1,Brentford,55,Exeter City,1364,0.0
+2016,1st Round,1,Ipswich,57,Stevenage,1368,0.0
+2016,1st Round,1,Stevenage,1368,Ipswich,57,1.0
+2016,1st Round,1,Leyton Orient,1373,Fulham,36,0.0
+2016,1st Round,1,Fulham,36,Leyton Orient,1373,1.0
+2016,1st Round,1,Mansfield Town,1374,Blackburn,67,0.0
+2016,1st Round,1,Blackburn,67,Mansfield Town,1374,1.0
+2016,1st Round,1,Newport County,1367,Milton Keynes Dons,1348,0.0
+2016,1st Round,1,Milton Keynes Dons,1348,Newport County,1367,1.0
+2016,1st Round,1,Oldham,1349,Wigan,61,1.0
+2016,1st Round,1,Wigan,61,Oldham,1349,0.0
+2016,1st Round,1,Peterborough,1350,AFC Wimbledon,1333,1.0
+2016,1st Round,1,AFC Wimbledon,1333,Peterborough,1350,0.0
+2016,1st Round,1,Preston,59,Hartlepool,1366,1.0
+2016,1st Round,1,Hartlepool,1366,Preston,59,0.0
+2016,1st Round,1,Rochdale,1339,Chesterfield,1345,1.0
+2016,1st Round,1,Chesterfield,1345,Rochdale,1339,0.0
+2016,1st Round,1,Rotherham,73,Morecambe,1375,0.0
+2016,1st Round,1,Morecambe,1375,Rotherham,73,1.0
+2016,1st Round,1,Scunthorpe,1340,Notts County,1376,1.0
+2016,1st Round,1,Notts County,1376,Scunthorpe,1340,0.0
+2016,1st Round,1,Sheffield Utd,62,Crewe,1363,0.0
+2016,1st Round,1,Crewe,1363,Sheffield Utd,62,1.0
+2016,1st Round,1,Shrewsbury,1352,Huddersfield,37,1.0
+2016,1st Round,1,Huddersfield,37,Shrewsbury,1352,0.0
+2016,1st Round,1,Southend,1341,Gillingham,1347,0.0
+2016,1st Round,1,Gillingham,1347,Southend,1341,1.0
+2016,1st Round,1,Walsall,1342,Yeovil Town,1377,0.0
+2016,1st Round,1,Yeovil Town,1377,Walsall,1342,1.0
+2016,1st Round,1,Wolves,39,Crawley Town,1362,1.0
+2016,1st Round,1,Crawley Town,1362,Wolves,39,0.0
+2016,1st Round,1,Wycombe,1358,Bristol City,56,0.0
+2016,1st Round,1,Bristol City,56,Wycombe,1358,1.0
+2016,1st Round,1,Barnet,1369,Millwall,58,0.0
+2016,1st Round,1,Millwall,58,Barnet,1369,1.0
+2016,1st Round,1,Reading,53,Plymouth,1357,1.0
+2016,1st Round,1,Plymouth,1357,Reading,53,0.0
+2016,1st Round,1,Burton Albion,748,Bury,1344,1.0
+2016,1st Round,1,Bury,1344,Burton Albion,748,0.0
+2016,1st Round,1,Fleetwood Town,1336,Leeds,63,0.0
+2016,1st Round,1,Leeds,63,Fleetwood Town,1336,1.0
+2016,1st Round,1,Luton,1359,Aston Villa,66,1.0
+2016,1st Round,1,Aston Villa,66,Luton,1359,0.0
+2016,1st Round,1,QPR,72,Swindon Town,1353,1.0
+2016,1st Round,1,Swindon Town,1353,QPR,72,0.0
+2016,1st Round,1,Bristol Rovers,1334,Cardiff,43,1.0
+2016,1st Round,1,Cardiff,43,Bristol Rovers,1334,0.0
+2017,Final,7,Arsenal,42,Manchester City,50,0.0
+2017,Final,7,Manchester City,50,Arsenal,42,1.0
+2017,Semi-finals,6,Manchester City,50,Bristol City,56,1.0
+2017,Semi-finals,6,Bristol City,56,Manchester City,50,0.0
+2017,Semi-finals,6,Bristol City,56,Manchester City,50,0.0
+2017,Semi-finals,6,Manchester City,50,Bristol City,56,1.0
+2017,Semi-finals,6,Chelsea,49,Arsenal,42,
+2017,Semi-finals,6,Arsenal,42,Chelsea,49,
+2017,Semi-finals,6,Arsenal,42,Chelsea,49,1.0
+2017,Semi-finals,6,Chelsea,49,Arsenal,42,0.0
+2017,Quarter-finals,5,Arsenal,42,West Ham,48,1.0
+2017,Quarter-finals,5,West Ham,48,Arsenal,42,0.0
+2017,Quarter-finals,5,Leicester,46,Manchester City,50,0.0
+2017,Quarter-finals,5,Manchester City,50,Leicester,46,1.0
+2017,Quarter-finals,5,Chelsea,49,Bournemouth,35,1.0
+2017,Quarter-finals,5,Bournemouth,35,Chelsea,49,0.0
+2017,Quarter-finals,5,Bristol City,56,Manchester United,33,1.0
+2017,Quarter-finals,5,Manchester United,33,Bristol City,56,0.0
+2017,8th Finals,4,Bournemouth,35,Middlesbrough,70,1.0
+2017,8th Finals,4,Middlesbrough,70,Bournemouth,35,0.0
+2017,8th Finals,4,Arsenal,42,Norwich,71,1.0
+2017,8th Finals,4,Norwich,71,Arsenal,42,0.0
+2017,8th Finals,4,Bristol City,56,Crystal Palace,52,1.0
+2017,8th Finals,4,Crystal Palace,52,Bristol City,56,0.0
+2017,8th Finals,4,Leicester,46,Leeds,63,1.0
+2017,8th Finals,4,Leeds,63,Leicester,46,0.0
+2017,8th Finals,4,Swansea,76,Manchester United,33,0.0
+2017,8th Finals,4,Manchester United,33,Swansea,76,1.0
+2017,8th Finals,4,Manchester City,50,Wolves,39,1.0
+2017,8th Finals,4,Wolves,39,Manchester City,50,0.0
+2017,8th Finals,4,Chelsea,49,Everton,45,1.0
+2017,8th Finals,4,Everton,45,Chelsea,49,0.0
+2017,8th Finals,4,Tottenham,47,West Ham,48,0.0
+2017,8th Finals,4,West Ham,48,Tottenham,47,1.0
+2017,3rd Round,3,Leicester,46,Liverpool,40,1.0
+2017,3rd Round,3,Liverpool,40,Leicester,46,0.0
+2017,3rd Round,3,Brentford,55,Norwich,71,0.0
+2017,3rd Round,3,Norwich,71,Brentford,55,1.0
+2017,3rd Round,3,Wolves,39,Bristol Rovers,1334,1.0
+2017,3rd Round,3,Bristol Rovers,1334,Wolves,39,0.0
+2017,3rd Round,3,Burnley,44,Leeds,63,0.0
+2017,3rd Round,3,Leeds,63,Burnley,44,1.0
+2017,3rd Round,3,Bristol City,56,Stoke City,75,1.0
+2017,3rd Round,3,Stoke City,75,Bristol City,56,0.0
+2017,3rd Round,3,Aston Villa,66,Middlesbrough,70,0.0
+2017,3rd Round,3,Middlesbrough,70,Aston Villa,66,1.0
+2017,3rd Round,3,West Ham,48,Bolton,68,1.0
+2017,3rd Round,3,Bolton,68,West Ham,48,0.0
+2017,3rd Round,3,Crystal Palace,52,Huddersfield,37,1.0
+2017,3rd Round,3,Huddersfield,37,Crystal Palace,52,0.0
+2017,3rd Round,3,Bournemouth,35,Brighton,51,1.0
+2017,3rd Round,3,Brighton,51,Bournemouth,35,0.0
+2017,3rd Round,3,Reading,53,Swansea,76,0.0
+2017,3rd Round,3,Swansea,76,Reading,53,1.0
+2017,3rd Round,3,Tottenham,47,Barnsley,747,1.0
+2017,3rd Round,3,Barnsley,747,Tottenham,47,0.0
+2017,3rd Round,3,Everton,45,Sunderland,746,1.0
+2017,3rd Round,3,Sunderland,746,Everton,45,0.0
+2017,3rd Round,3,Arsenal,42,Doncaster,1354,1.0
+2017,3rd Round,3,Doncaster,1354,Arsenal,42,0.0
+2017,3rd Round,3,Chelsea,49,Nottingham Forest,65,1.0
+2017,3rd Round,3,Nottingham Forest,65,Chelsea,49,0.0
+2017,3rd Round,3,West Brom,60,Manchester City,50,0.0
+2017,3rd Round,3,Manchester City,50,West Brom,60,1.0
+2017,3rd Round,3,Manchester United,33,Burton Albion,748,1.0
+2017,3rd Round,3,Burton Albion,748,Manchester United,33,0.0
+2017,2nd Round,2,Crystal Palace,52,Ipswich,57,1.0
+2017,2nd Round,2,Ipswich,57,Crystal Palace,52,0.0
+2017,2nd Round,2,Carlisle,1371,Sunderland,746,0.0
+2017,2nd Round,2,Sunderland,746,Carlisle,1371,1.0
+2017,2nd Round,2,Accrington ST,1360,West Brom,60,0.0
+2017,2nd Round,2,West Brom,60,Accrington ST,1360,1.0
+2017,2nd Round,2,Leeds,63,Newport County,1367,1.0
+2017,2nd Round,2,Newport County,1367,Leeds,63,0.0
+2017,2nd Round,2,Middlesbrough,70,Scunthorpe,1340,1.0
+2017,2nd Round,2,Scunthorpe,1340,Middlesbrough,70,0.0
+2017,2nd Round,2,Doncaster,1354,Hull City,64,1.0
+2017,2nd Round,2,Hull City,64,Doncaster,1354,0.0
+2017,2nd Round,2,Sheffield Utd,62,Leicester,46,0.0
+2017,2nd Round,2,Leicester,46,Sheffield Utd,62,1.0
+2017,2nd Round,2,Aston Villa,66,Wigan,61,1.0
+2017,2nd Round,2,Wigan,61,Aston Villa,66,0.0
+2017,2nd Round,2,QPR,72,Brentford,55,0.0
+2017,2nd Round,2,Brentford,55,QPR,72,1.0
+2017,2nd Round,2,Watford,38,Bristol City,56,0.0
+2017,2nd Round,2,Bristol City,56,Watford,38,1.0
+2017,2nd Round,2,Norwich,71,Charlton,1335,1.0
+2017,2nd Round,2,Charlton,1335,Norwich,71,0.0
+2017,2nd Round,2,Brighton,51,Barnet,1369,1.0
+2017,2nd Round,2,Barnet,1369,Brighton,51,0.0
+2017,2nd Round,2,Cardiff,43,Burton Albion,748,0.0
+2017,2nd Round,2,Burton Albion,748,Cardiff,43,1.0
+2017,2nd Round,2,Fulham,36,Bristol Rovers,1334,0.0
+2017,2nd Round,2,Bristol Rovers,1334,Fulham,36,1.0
+2017,2nd Round,2,Milton Keynes Dons,1348,Swansea,76,0.0
+2017,2nd Round,2,Swansea,76,Milton Keynes Dons,1348,1.0
+2017,2nd Round,2,Birmingham,54,Bournemouth,35,0.0
+2017,2nd Round,2,Bournemouth,35,Birmingham,54,1.0
+2017,2nd Round,2,Bolton,68,Sheffield Wednesday,74,1.0
+2017,2nd Round,2,Sheffield Wednesday,74,Bolton,68,0.0
+2017,2nd Round,2,Reading,53,Millwall,58,1.0
+2017,2nd Round,2,Millwall,58,Reading,53,0.0
+2017,2nd Round,2,Newcastle,34,Nottingham Forest,65,0.0
+2017,2nd Round,2,Nottingham Forest,65,Newcastle,34,1.0
+2017,2nd Round,2,Huddersfield,37,Rotherham,73,1.0
+2017,2nd Round,2,Rotherham,73,Huddersfield,37,0.0
+2017,2nd Round,2,Blackburn,67,Burnley,44,0.0
+2017,2nd Round,2,Burnley,44,Blackburn,67,1.0
+2017,2nd Round,2,Cheltenham,1372,West Ham,48,0.0
+2017,2nd Round,2,West Ham,48,Cheltenham,1372,1.0
+2017,2nd Round,2,Southampton,41,Wolves,39,0.0
+2017,2nd Round,2,Wolves,39,Southampton,41,1.0
+2017,2nd Round,2,Stoke City,75,Rochdale,1339,1.0
+2017,2nd Round,2,Rochdale,1339,Stoke City,75,0.0
+2017,2nd Round,2,Barnsley,747,Derby,69,1.0
+2017,2nd Round,2,Derby,69,Barnsley,747,0.0
+2017,1st Round,1,Coventry,1346,Blackburn,67,0.0
+2017,1st Round,1,Blackburn,67,Coventry,1346,1.0
+2017,1st Round,1,Nottingham Forest,65,Shrewsbury,1352,1.0
+2017,1st Round,1,Shrewsbury,1352,Nottingham Forest,65,0.0
+2017,1st Round,1,Bradford,1343,Doncaster,1354,0.0
+2017,1st Round,1,Doncaster,1354,Bradford,1343,1.0
+2017,1st Round,1,Mansfield Town,1374,Rochdale,1339,0.0
+2017,1st Round,1,Rochdale,1339,Mansfield Town,1374,1.0
+2017,1st Round,1,Barnsley,747,Morecambe,1375,1.0
+2017,1st Round,1,Morecambe,1375,Barnsley,747,0.0
+2017,1st Round,1,Wigan,61,Blackpool,1356,1.0
+2017,1st Round,1,Blackpool,1356,Wigan,61,0.0
+2017,1st Round,1,Sheffield Wednesday,74,Chesterfield,1345,1.0
+2017,1st Round,1,Chesterfield,1345,Sheffield Wednesday,74,0.0
+2017,1st Round,1,Accrington ST,1360,Preston,59,1.0
+2017,1st Round,1,Preston,59,Accrington ST,1360,0.0
+2017,1st Round,1,Fleetwood Town,1336,Carlisle,1371,0.0
+2017,1st Round,1,Carlisle,1371,Fleetwood Town,1336,1.0
+2017,1st Round,1,Scunthorpe,1340,Notts County,1376,1.0
+2017,1st Round,1,Notts County,1376,Scunthorpe,1340,0.0
+2017,1st Round,1,Birmingham,54,Crawley Town,1362,1.0
+2017,1st Round,1,Crawley Town,1362,Birmingham,54,0.0
+2017,1st Round,1,Exeter City,1364,Charlton,1335,0.0
+2017,1st Round,1,Charlton,1335,Exeter City,1364,1.0
+2017,1st Round,1,QPR,72,Northampton,1337,1.0
+2017,1st Round,1,Northampton,1337,QPR,72,0.0
+2017,1st Round,1,Southend,1341,Newport County,1367,0.0
+2017,1st Round,1,Newport County,1367,Southend,1341,1.0
+2017,1st Round,1,Bristol City,56,Plymouth,1357,1.0
+2017,1st Round,1,Plymouth,1357,Bristol City,56,0.0
+2017,1st Round,1,Cardiff,43,Portsmouth,1355,1.0
+2017,1st Round,1,Portsmouth,1355,Cardiff,43,0.0
+2017,1st Round,1,Rotherham,73,Lincoln,1379,1.0
+2017,1st Round,1,Lincoln,1379,Rotherham,73,0.0
+2017,1st Round,1,Oxford United,1338,Cheltenham,1372,0.0
+2017,1st Round,1,Cheltenham,1372,Oxford United,1338,1.0
+2017,1st Round,1,AFC Wimbledon,1333,Brentford,55,0.0
+2017,1st Round,1,Brentford,55,AFC Wimbledon,1333,1.0
+2017,1st Round,1,Norwich,71,Swindon Town,1353,1.0
+2017,1st Round,1,Swindon Town,1353,Norwich,71,0.0
+2017,1st Round,1,Bristol Rovers,1334,Cambridge United,1370,1.0
+2017,1st Round,1,Cambridge United,1370,Bristol Rovers,1334,0.0
+2017,1st Round,1,Peterborough,1350,Barnet,1369,0.0
+2017,1st Round,1,Barnet,1369,Peterborough,1350,1.0
+2017,1st Round,1,Wycombe,1358,Fulham,36,0.0
+2017,1st Round,1,Fulham,36,Wycombe,1358,1.0
+2017,1st Round,1,Forest Green,1378,Milton Keynes Dons,1348,0.0
+2017,1st Round,1,Milton Keynes Dons,1348,Forest Green,1378,1.0
+2017,1st Round,1,Millwall,58,Stevenage,1368,1.0
+2017,1st Round,1,Stevenage,1368,Millwall,58,0.0
+2017,1st Round,1,Wolves,39,Yeovil Town,1377,1.0
+2017,1st Round,1,Yeovil Town,1377,Wolves,39,0.0
+2017,1st Round,1,Luton,1359,Ipswich,57,0.0
+2017,1st Round,1,Ipswich,57,Luton,1359,1.0
+2017,1st Round,1,Reading,53,Gillingham,1347,1.0
+2017,1st Round,1,Gillingham,1347,Reading,53,0.0
+2017,1st Round,1,Crewe,1363,Bolton,68,0.0
+2017,1st Round,1,Bolton,68,Crewe,1363,1.0
+2017,1st Round,1,Oldham,1349,Burton Albion,748,0.0
+2017,1st Round,1,Burton Albion,748,Oldham,1349,1.0
+2017,1st Round,1,Sheffield Utd,62,Walsall,1342,1.0
+2017,1st Round,1,Walsall,1342,Sheffield Utd,62,0.0
+2017,1st Round,1,Leeds,63,Port Vale,1351,1.0
+2017,1st Round,1,Port Vale,1351,Leeds,63,0.0
+2017,1st Round,1,Colchester,1361,Aston Villa,66,0.0
+2017,1st Round,1,Aston Villa,66,Colchester,1361,1.0
+2017,1st Round,1,Bury,1344,Sunderland,746,0.0
+2017,1st Round,1,Sunderland,746,Bury,1344,1.0
+2017,1st Round,1,Grimsby,1365,Derby,69,0.0
+2017,1st Round,1,Derby,69,Grimsby,1365,1.0
+2018,Final,7,Chelsea,49,Manchester City,50,0.0
+2018,Final,7,Manchester City,50,Chelsea,49,1.0
+2018,Semi-finals,6,Tottenham,47,Chelsea,49,1.0
+2018,Semi-finals,6,Chelsea,49,Tottenham,47,0.0
+2018,Semi-finals,6,Chelsea,49,Tottenham,47,1.0
+2018,Semi-finals,6,Tottenham,47,Chelsea,49,0.0
+2018,Semi-finals,6,Manchester City,50,Burton Albion,748,1.0
+2018,Semi-finals,6,Burton Albion,748,Manchester City,50,0.0
+2018,Semi-finals,6,Burton Albion,748,Manchester City,50,0.0
+2018,Semi-finals,6,Manchester City,50,Burton Albion,748,1.0
+2018,Quarter-finals,5,Middlesbrough,70,Burton Albion,748,0.0
+2018,Quarter-finals,5,Burton Albion,748,Middlesbrough,70,1.0
+2018,Quarter-finals,5,Leicester,46,Manchester City,50,0.0
+2018,Quarter-finals,5,Manchester City,50,Leicester,46,1.0
+2018,Quarter-finals,5,Arsenal,42,Tottenham,47,0.0
+2018,Quarter-finals,5,Tottenham,47,Arsenal,42,1.0
+2018,Quarter-finals,5,Chelsea,49,Bournemouth,35,1.0
+2018,Quarter-finals,5,Bournemouth,35,Chelsea,49,0.0
+2018,8th Finals,4,Burton Albion,748,Nottingham Forest,65,1.0
+2018,8th Finals,4,Nottingham Forest,65,Burton Albion,748,0.0
+2018,8th Finals,4,Bournemouth,35,Norwich,71,1.0
+2018,8th Finals,4,Norwich,71,Bournemouth,35,0.0
+2018,8th Finals,4,West Ham,48,Tottenham,47,0.0
+2018,8th Finals,4,Tottenham,47,West Ham,48,1.0
+2018,8th Finals,4,Chelsea,49,Derby,69,1.0
+2018,8th Finals,4,Derby,69,Chelsea,49,0.0
+2018,8th Finals,4,Arsenal,42,Blackpool,1356,1.0
+2018,8th Finals,4,Blackpool,1356,Arsenal,42,0.0
+2018,8th Finals,4,Middlesbrough,70,Crystal Palace,52,1.0
+2018,8th Finals,4,Crystal Palace,52,Middlesbrough,70,0.0
+2018,8th Finals,4,Manchester City,50,Fulham,36,1.0
+2018,8th Finals,4,Fulham,36,Manchester City,50,0.0
+2018,8th Finals,4,Leicester,46,Southampton,41,1.0
+2018,8th Finals,4,Southampton,41,Leicester,46,0.0
+2018,3rd Round,3,Burton Albion,748,Burnley,44,1.0
+2018,3rd Round,3,Burnley,44,Burton Albion,748,0.0
+2018,3rd Round,3,Wycombe,1358,Norwich,71,0.0
+2018,3rd Round,3,Norwich,71,Wycombe,1358,1.0
+2018,3rd Round,3,Oxford United,1338,Manchester City,50,0.0
+2018,3rd Round,3,Manchester City,50,Oxford United,1338,1.0
+2018,3rd Round,3,Millwall,58,Fulham,36,0.0
+2018,3rd Round,3,Fulham,36,Millwall,58,1.0
+2018,3rd Round,3,Bournemouth,35,Blackburn,67,1.0
+2018,3rd Round,3,Blackburn,67,Bournemouth,35,0.0
+2018,3rd Round,3,Preston,59,Middlesbrough,70,0.0
+2018,3rd Round,3,Middlesbrough,70,Preston,59,1.0
+2018,3rd Round,3,Wolves,39,Leicester,46,0.0
+2018,3rd Round,3,Leicester,46,Wolves,39,1.0
+2018,3rd Round,3,Blackpool,1356,QPR,72,1.0
+2018,3rd Round,3,QPR,72,Blackpool,1356,0.0
+2018,3rd Round,3,West Brom,60,Crystal Palace,52,0.0
+2018,3rd Round,3,Crystal Palace,52,West Brom,60,1.0
+2018,3rd Round,3,Manchester United,33,Derby,69,0.0
+2018,3rd Round,3,Derby,69,Manchester United,33,1.0
+2018,3rd Round,3,Arsenal,42,Brentford,55,1.0
+2018,3rd Round,3,Brentford,55,Arsenal,42,0.0
+2018,3rd Round,3,West Ham,48,Macclesfield,1380,1.0
+2018,3rd Round,3,Macclesfield,1380,West Ham,48,0.0
+2018,3rd Round,3,Liverpool,40,Chelsea,49,0.0
+2018,3rd Round,3,Chelsea,49,Liverpool,40,1.0
+2018,3rd Round,3,Nottingham Forest,65,Stoke City,75,1.0
+2018,3rd Round,3,Stoke City,75,Nottingham Forest,65,0.0
+2018,3rd Round,3,Tottenham,47,Watford,38,1.0
+2018,3rd Round,3,Watford,38,Tottenham,47,0.0
+2018,3rd Round,3,Everton,45,Southampton,41,0.0
+2018,3rd Round,3,Southampton,41,Everton,45,1.0
+2018,2nd Round,2,Swansea,76,Crystal Palace,52,0.0
+2018,2nd Round,2,Crystal Palace,52,Swansea,76,1.0
+2018,2nd Round,2,AFC Wimbledon,1333,West Ham,48,0.0
+2018,2nd Round,2,West Ham,48,AFC Wimbledon,1333,1.0
+2018,2nd Round,2,Blackburn,67,Lincoln,1379,1.0
+2018,2nd Round,2,Lincoln,1379,Blackburn,67,0.0
+2018,2nd Round,2,Bournemouth,35,Milton Keynes Dons,1348,1.0
+2018,2nd Round,2,Milton Keynes Dons,1348,Bournemouth,35,0.0
+2018,2nd Round,2,Brentford,55,Cheltenham,1372,1.0
+2018,2nd Round,2,Cheltenham,1372,Brentford,55,0.0
+2018,2nd Round,2,Brighton,51,Southampton,41,0.0
+2018,2nd Round,2,Southampton,41,Brighton,51,1.0
+2018,2nd Round,2,Burton Albion,748,Aston Villa,66,1.0
+2018,2nd Round,2,Aston Villa,66,Burton Albion,748,0.0
+2018,2nd Round,2,Cardiff,43,Norwich,71,0.0
+2018,2nd Round,2,Norwich,71,Cardiff,43,1.0
+2018,2nd Round,2,Doncaster,1354,Blackpool,1356,0.0
+2018,2nd Round,2,Blackpool,1356,Doncaster,1354,1.0
+2018,2nd Round,2,Fulham,36,Exeter City,1364,1.0
+2018,2nd Round,2,Exeter City,1364,Fulham,36,0.0
+2018,2nd Round,2,Hull City,64,Derby,69,0.0
+2018,2nd Round,2,Derby,69,Hull City,64,1.0
+2018,2nd Round,2,Leeds,63,Preston,59,0.0
+2018,2nd Round,2,Preston,59,Leeds,63,1.0
+2018,2nd Round,2,Leicester,46,Fleetwood Town,1336,1.0
+2018,2nd Round,2,Fleetwood Town,1336,Leicester,46,0.0
+2018,2nd Round,2,Middlesbrough,70,Rochdale,1339,1.0
+2018,2nd Round,2,Rochdale,1339,Middlesbrough,70,0.0
+2018,2nd Round,2,Newport County,1367,Oxford United,1338,0.0
+2018,2nd Round,2,Oxford United,1338,Newport County,1367,1.0
+2018,2nd Round,2,QPR,72,Bristol Rovers,1334,1.0
+2018,2nd Round,2,Bristol Rovers,1334,QPR,72,0.0
+2018,2nd Round,2,Sheffield Wednesday,74,Wolves,39,0.0
+2018,2nd Round,2,Wolves,39,Sheffield Wednesday,74,1.0
+2018,2nd Round,2,Walsall,1342,Macclesfield,1380,0.0
+2018,2nd Round,2,Macclesfield,1380,Walsall,1342,1.0
+2018,2nd Round,2,Wycombe,1358,Forest Green,1378,1.0
+2018,2nd Round,2,Forest Green,1378,Wycombe,1358,0.0
+2018,2nd Round,2,Stoke City,75,Huddersfield,37,1.0
+2018,2nd Round,2,Huddersfield,37,Stoke City,75,0.0
+2018,2nd Round,2,West Brom,60,Mansfield Town,1374,1.0
+2018,2nd Round,2,Mansfield Town,1374,West Brom,60,0.0
+2018,2nd Round,2,Everton,45,Rotherham,73,1.0
+2018,2nd Round,2,Rotherham,73,Everton,45,0.0
+2018,2nd Round,2,Millwall,58,Plymouth,1357,1.0
+2018,2nd Round,2,Plymouth,1357,Millwall,58,0.0
+2018,2nd Round,2,Nottingham Forest,65,Newcastle,34,1.0
+2018,2nd Round,2,Newcastle,34,Nottingham Forest,65,0.0
+2018,2nd Round,2,Reading,53,Watford,38,0.0
+2018,2nd Round,2,Watford,38,Reading,53,1.0
+2018,1st Round,1,Nottingham Forest,65,Bury,1344,1.0
+2018,1st Round,1,Bury,1344,Nottingham Forest,65,0.0
+2018,1st Round,1,Rotherham,73,Wigan,61,1.0
+2018,1st Round,1,Wigan,61,Rotherham,73,0.0
+2018,1st Round,1,Tranmere,1381,Walsall,1342,0.0
+2018,1st Round,1,Walsall,1342,Tranmere,1381,1.0
+2018,1st Round,1,Crewe,1363,Fleetwood Town,1336,0.0
+2018,1st Round,1,Fleetwood Town,1336,Crewe,1363,1.0
+2018,1st Round,1,Scunthorpe,1340,Doncaster,1354,0.0
+2018,1st Round,1,Doncaster,1354,Scunthorpe,1340,1.0
+2018,1st Round,1,Macclesfield,1380,Bradford,1343,1.0
+2018,1st Round,1,Bradford,1343,Macclesfield,1380,0.0
+2018,1st Round,1,Grimsby,1365,Rochdale,1339,0.0
+2018,1st Round,1,Rochdale,1339,Grimsby,1365,1.0
+2018,1st Round,1,Sheffield Utd,62,Hull City,64,0.0
+2018,1st Round,1,Hull City,64,Sheffield Utd,62,1.0
+2018,1st Round,1,Middlesbrough,70,Notts County,1376,1.0
+2018,1st Round,1,Notts County,1376,Middlesbrough,70,0.0
+2018,1st Round,1,Leeds,63,Bolton,68,1.0
+2018,1st Round,1,Bolton,68,Leeds,63,0.0
+2018,1st Round,1,Carlisle,1371,Blackburn,67,0.0
+2018,1st Round,1,Blackburn,67,Carlisle,1371,1.0
+2018,1st Round,1,Mansfield Town,1374,Accrington ST,1360,1.0
+2018,1st Round,1,Accrington ST,1360,Mansfield Town,1374,0.0
+2018,1st Round,1,Port Vale,1351,Lincoln,1379,0.0
+2018,1st Round,1,Lincoln,1379,Port Vale,1351,1.0
+2018,1st Round,1,Preston,59,Morecambe,1375,1.0
+2018,1st Round,1,Morecambe,1375,Preston,59,0.0
+2018,1st Round,1,Oldham,1349,Derby,69,0.0
+2018,1st Round,1,Derby,69,Oldham,1349,1.0
+2018,1st Round,1,Shrewsbury,1352,Burton Albion,748,0.0
+2018,1st Round,1,Burton Albion,748,Shrewsbury,1352,1.0
+2018,1st Round,1,Blackpool,1356,Barnsley,747,1.0
+2018,1st Round,1,Barnsley,747,Blackpool,1356,0.0
+2018,1st Round,1,Millwall,58,Gillingham,1347,1.0
+2018,1st Round,1,Gillingham,1347,Millwall,58,0.0
+2018,1st Round,1,Portsmouth,1355,AFC Wimbledon,1333,0.0
+2018,1st Round,1,AFC Wimbledon,1333,Portsmouth,1355,1.0
+2018,1st Round,1,Cheltenham,1372,Colchester,1361,1.0
+2018,1st Round,1,Colchester,1361,Cheltenham,1372,0.0
+2018,1st Round,1,Yeovil Town,1377,Aston Villa,66,0.0
+2018,1st Round,1,Aston Villa,66,Yeovil Town,1377,1.0
+2018,1st Round,1,Southend,1341,Brentford,55,0.0
+2018,1st Round,1,Brentford,55,Southend,1341,1.0
+2018,1st Round,1,Wycombe,1358,Northampton,1337,1.0
+2018,1st Round,1,Northampton,1337,Wycombe,1358,0.0
+2018,1st Round,1,Swindon Town,1353,Forest Green,1378,0.0
+2018,1st Round,1,Forest Green,1378,Swindon Town,1353,1.0
+2018,1st Round,1,Norwich,71,Stevenage,1368,1.0
+2018,1st Round,1,Stevenage,1368,Norwich,71,0.0
+2018,1st Round,1,Exeter City,1364,Ipswich,57,1.0
+2018,1st Round,1,Ipswich,57,Exeter City,1364,0.0
+2018,1st Round,1,Milton Keynes Dons,1348,Charlton,1335,1.0
+2018,1st Round,1,Charlton,1335,Milton Keynes Dons,1348,0.0
+2018,1st Round,1,Bristol Rovers,1334,Crawley Town,1362,1.0
+2018,1st Round,1,Crawley Town,1362,Bristol Rovers,1334,0.0
+2018,1st Round,1,Bristol City,56,Plymouth,1357,0.0
+2018,1st Round,1,Plymouth,1357,Bristol City,56,1.0
+2018,1st Round,1,Cambridge United,1370,Newport County,1367,0.0
+2018,1st Round,1,Newport County,1367,Cambridge United,1370,1.0
+2018,1st Round,1,QPR,72,Peterborough,1350,1.0
+2018,1st Round,1,Peterborough,1350,QPR,72,0.0
+2018,1st Round,1,Oxford United,1338,Coventry,1346,1.0
+2018,1st Round,1,Coventry,1346,Oxford United,1338,0.0
+2018,1st Round,1,Reading,53,Birmingham,54,1.0
+2018,1st Round,1,Birmingham,54,Reading,53,0.0
+2018,1st Round,1,West Brom,60,Luton,1359,1.0
+2018,1st Round,1,Luton,1359,West Brom,60,0.0
+2018,1st Round,1,Sunderland,746,Sheffield Wednesday,74,0.0
+2018,1st Round,1,Sheffield Wednesday,74,Sunderland,746,1.0
+2019,3rd Round,3,Watford,38,Swansea,76,1.0
+2019,3rd Round,3,Swansea,76,Watford,38,0.0
+2019,3rd Round,3,Colchester,1361,Tottenham,47,1.0
+2019,3rd Round,3,Tottenham,47,Colchester,1361,0.0
+2019,3rd Round,3,Portsmouth,1355,Southampton,41,0.0
+2019,3rd Round,3,Southampton,41,Portsmouth,1355,1.0
+2019,3rd Round,3,Preston,59,Manchester City,50,0.0
+2019,3rd Round,3,Manchester City,50,Preston,59,1.0
+2019,3rd Round,3,Luton,1359,Leicester,46,0.0
+2019,3rd Round,3,Leicester,46,Luton,1359,1.0
+2019,3rd Round,3,Arsenal,42,Nottingham Forest,65,1.0
+2019,3rd Round,3,Nottingham Forest,65,Arsenal,42,0.0
+2019,3rd Round,3,Crawley Town,1362,Stoke City,75,1.0
+2019,3rd Round,3,Stoke City,75,Crawley Town,1362,0.0
+2019,3rd Round,3,Sheffield Wednesday,74,Everton,45,0.0
+2019,3rd Round,3,Everton,45,Sheffield Wednesday,74,1.0
+2019,3rd Round,3,Wolves,39,Reading,53,1.0
+2019,3rd Round,3,Reading,53,Wolves,39,0.0
+2019,3rd Round,3,Oxford United,1338,West Ham,48,1.0
+2019,3rd Round,3,West Ham,48,Oxford United,1338,0.0
+2019,3rd Round,3,Brighton,51,Aston Villa,66,0.0
+2019,3rd Round,3,Aston Villa,66,Brighton,51,1.0
+2019,3rd Round,3,Sheffield Utd,62,Sunderland,746,0.0
+2019,3rd Round,3,Sunderland,746,Sheffield Utd,62,1.0
+2019,3rd Round,3,Burton Albion,748,Bournemouth,35,1.0
+2019,3rd Round,3,Bournemouth,35,Burton Albion,748,0.0
+2019,3rd Round,3,Milton Keynes Dons,1348,Liverpool,40,0.0
+2019,3rd Round,3,Liverpool,40,Milton Keynes Dons,1348,1.0
+2019,3rd Round,3,Manchester United,33,Rochdale,1339,1.0
+2019,3rd Round,3,Rochdale,1339,Manchester United,33,0.0
+2019,2nd Round,2,Plymouth,1357,Reading,53,0.0
+2019,2nd Round,2,Reading,53,Plymouth,1357,1.0
+2019,2nd Round,2,Crawley Town,1362,Norwich,71,1.0
+2019,2nd Round,2,Norwich,71,Crawley Town,1362,0.0
+2019,2nd Round,2,Newport County,1367,West Ham,48,0.0
+2019,2nd Round,2,West Ham,48,Newport County,1367,1.0
+2019,2nd Round,2,Oxford United,1338,Millwall,58,1.0
+2019,2nd Round,2,Millwall,58,Oxford United,1338,0.0
+2019,2nd Round,2,Watford,38,Coventry,1346,1.0
+2019,2nd Round,2,Coventry,1346,Watford,38,0.0
+2019,2nd Round,2,Cardiff,43,Luton,1359,0.0
+2019,2nd Round,2,Luton,1359,Cardiff,43,1.0
+2019,2nd Round,2,Bristol Rovers,1334,Brighton,51,0.0
+2019,2nd Round,2,Brighton,51,Bristol Rovers,1334,1.0
+2019,2nd Round,2,Crystal Palace,52,Colchester,1361,0.0
+2019,2nd Round,2,Colchester,1361,Crystal Palace,52,1.0
+2019,2nd Round,2,Fulham,36,Southampton,41,0.0
+2019,2nd Round,2,Southampton,41,Fulham,36,1.0
+2019,2nd Round,2,Southend,1341,Milton Keynes Dons,1348,0.0
+2019,2nd Round,2,Milton Keynes Dons,1348,Southend,1341,1.0
+2019,2nd Round,2,Crewe,1363,Aston Villa,66,0.0
+2019,2nd Round,2,Aston Villa,66,Crewe,1363,1.0
+2019,2nd Round,2,Leeds,63,Stoke City,75,0.0
+2019,2nd Round,2,Stoke City,75,Leeds,63,1.0
+2019,2nd Round,2,Sheffield Utd,62,Blackburn,67,1.0
+2019,2nd Round,2,Blackburn,67,Sheffield Utd,62,0.0
+2019,2nd Round,2,Burton Albion,748,Morecambe,1375,1.0
+2019,2nd Round,2,Morecambe,1375,Burton Albion,748,0.0
+2019,2nd Round,2,Nottingham Forest,65,Derby,69,1.0
+2019,2nd Round,2,Derby,69,Nottingham Forest,65,0.0
+2019,2nd Round,2,Preston,59,Hull City,64,1.0
+2019,2nd Round,2,Hull City,64,Preston,59,0.0
+2019,2nd Round,2,Rochdale,1339,Carlisle,1371,1.0
+2019,2nd Round,2,Carlisle,1371,Rochdale,1339,0.0
+2019,2nd Round,2,Swansea,76,Cambridge United,1370,1.0
+2019,2nd Round,2,Cambridge United,1370,Swansea,76,0.0
+2019,2nd Round,2,Bournemouth,35,Forest Green,1378,1.0
+2019,2nd Round,2,Forest Green,1378,Bournemouth,35,0.0
+2019,2nd Round,2,QPR,72,Portsmouth,1355,0.0
+2019,2nd Round,2,Portsmouth,1355,QPR,72,1.0
+2019,2nd Round,2,Lincoln,1379,Everton,45,0.0
+2019,2nd Round,2,Everton,45,Lincoln,1379,1.0
+2019,2nd Round,2,Rotherham,73,Sheffield Wednesday,74,0.0
+2019,2nd Round,2,Sheffield Wednesday,74,Rotherham,73,1.0
+2019,2nd Round,2,Newcastle,34,Leicester,46,0.0
+2019,2nd Round,2,Leicester,46,Newcastle,34,1.0
+2019,2nd Round,2,Burnley,44,Sunderland,746,0.0
+2019,2nd Round,2,Sunderland,746,Burnley,44,1.0
+2019,2nd Round,2,Grimsby,1365,Macclesfield,1380,1.0
+2019,2nd Round,2,Macclesfield,1380,Grimsby,1365,0.0
+2019,1st Round,1,Portsmouth,1355,Birmingham,54,1.0
+2019,1st Round,1,Birmingham,54,Portsmouth,1355,0.0
+2019,1st Round,1,Tranmere,1381,Hull City,64,0.0
+2019,1st Round,1,Hull City,64,Tranmere,1381,1.0
+2019,1st Round,1,Grimsby,1365,Doncaster,1354,1.0
+2019,1st Round,1,Doncaster,1354,Grimsby,1365,0.0
+2019,1st Round,1,Wigan,61,Stoke City,75,0.0
+2019,1st Round,1,Stoke City,75,Wigan,61,1.0
+2019,1st Round,1,Port Vale,1351,Burton Albion,748,0.0
+2019,1st Round,1,Burton Albion,748,Port Vale,1351,1.0
+2019,1st Round,1,Nottingham Forest,65,Fleetwood Town,1336,1.0
+2019,1st Round,1,Fleetwood Town,1336,Nottingham Forest,65,0.0
+2019,1st Round,1,Bradford,1343,Preston,59,0.0
+2019,1st Round,1,Preston,59,Bradford,1343,1.0
+2019,1st Round,1,Blackpool,1356,Macclesfield,1380,0.0
+2019,1st Round,1,Macclesfield,1380,Blackpool,1356,1.0
+2019,1st Round,1,Blackburn,67,Oldham,1349,1.0
+2019,1st Round,1,Oldham,1349,Blackburn,67,0.0
+2019,1st Round,1,Mansfield Town,1374,Morecambe,1375,0.0
+2019,1st Round,1,Morecambe,1375,Mansfield Town,1374,1.0
+2019,1st Round,1,Charlton,1335,Forest Green,1378,0.0
+2019,1st Round,1,Forest Green,1378,Charlton,1335,1.0
+2019,1st Round,1,Colchester,1361,Swindon Town,1353,1.0
+2019,1st Round,1,Swindon Town,1353,Colchester,1361,0.0
+2019,1st Round,1,AFC Wimbledon,1333,Milton Keynes Dons,1348,0.0
+2019,1st Round,1,Milton Keynes Dons,1348,AFC Wimbledon,1333,1.0
+2019,1st Round,1,Oxford United,1338,Peterborough,1350,1.0
+2019,1st Round,1,Peterborough,1350,Oxford United,1338,0.0
+2019,1st Round,1,QPR,72,Bristol City,56,1.0
+2019,1st Round,1,Bristol City,56,QPR,72,0.0
+2019,1st Round,1,Plymouth,1357,Leyton Orient,1373,1.0
+2019,1st Round,1,Leyton Orient,1373,Plymouth,1357,0.0
+2019,1st Round,1,Wycombe,1358,Reading,53,0.0
+2019,1st Round,1,Reading,53,Wycombe,1358,1.0
+2019,1st Round,1,Gillingham,1347,Newport County,1367,0.0
+2019,1st Round,1,Newport County,1367,Gillingham,1347,1.0
+2019,1st Round,1,Stevenage,1368,Southend,1341,0.0
+2019,1st Round,1,Southend,1341,Stevenage,1368,1.0
+2019,1st Round,1,Luton,1359,Ipswich,57,1.0
+2019,1st Round,1,Ipswich,57,Luton,1359,0.0
+2019,1st Round,1,Walsall,1342,Crawley Town,1362,0.0
+2019,1st Round,1,Crawley Town,1362,Walsall,1342,1.0
+2019,1st Round,1,Bristol Rovers,1334,Cheltenham,1372,1.0
+2019,1st Round,1,Cheltenham,1372,Bristol Rovers,1334,0.0
+2019,1st Round,1,Brentford,55,Cambridge United,1370,0.0
+2019,1st Round,1,Cambridge United,1370,Brentford,55,1.0
+2019,1st Round,1,Coventry,1346,Exeter City,1364,1.0
+2019,1st Round,1,Exeter City,1364,Coventry,1346,0.0
+2019,1st Round,1,Swansea,76,Northampton,1337,1.0
+2019,1st Round,1,Northampton,1337,Swansea,76,0.0
+2019,1st Round,1,Accrington ST,1360,Sunderland,746,0.0
+2019,1st Round,1,Sunderland,746,Accrington ST,1360,1.0
+2019,1st Round,1,Scunthorpe,1340,Derby,69,0.0
+2019,1st Round,1,Derby,69,Scunthorpe,1340,1.0
+2019,1st Round,1,Rochdale,1339,Bolton,68,1.0
+2019,1st Round,1,Bolton,68,Rochdale,1339,0.0
+2019,1st Round,1,Huddersfield,37,Lincoln,1379,0.0
+2019,1st Round,1,Lincoln,1379,Huddersfield,37,1.0
+2019,1st Round,1,Middlesbrough,70,Crewe,1363,0.0
+2019,1st Round,1,Crewe,1363,Middlesbrough,70,1.0
+2019,1st Round,1,Shrewsbury,1352,Rotherham,73,0.0
+2019,1st Round,1,Rotherham,73,Shrewsbury,1352,1.0
+2019,1st Round,1,Sheffield Wednesday,74,Bury,1344,
+2019,1st Round,1,Bury,1344,Sheffield Wednesday,74,
+2019,1st Round,1,Salford City,1844,Leeds,63,0.0
+2019,1st Round,1,Leeds,63,Salford City,1844,1.0
+2019,1st Round,1,Barnsley,747,Carlisle,1371,0.0
+2019,1st Round,1,Carlisle,1371,Barnsley,747,1.0
+2019,1st Round,1,West Brom,60,Millwall,58,0.0
+2019,1st Round,1,Millwall,58,West Brom,60,1.0
+2019,3rd Round,3,Chelsea,49,Grimsby,1365,1.0
+2019,3rd Round,3,Grimsby,1365,Chelsea,49,0.0
+2019,8th Finals,4,Everton,45,Watford,38,1.0
+2019,8th Finals,4,Watford,38,Everton,45,0.0
+2019,8th Finals,4,Aston Villa,66,Wolves,39,1.0
+2019,8th Finals,4,Wolves,39,Aston Villa,66,0.0
+2019,8th Finals,4,Manchester City,50,Southampton,41,1.0
+2019,8th Finals,4,Southampton,41,Manchester City,50,0.0
+2019,8th Finals,4,Burton Albion,748,Leicester,46,0.0
+2019,8th Finals,4,Leicester,46,Burton Albion,748,1.0
+2019,8th Finals,4,Crawley Town,1362,Colchester,1361,0.0
+2019,8th Finals,4,Colchester,1361,Crawley Town,1362,1.0
+2019,8th Finals,4,Chelsea,49,Manchester United,33,0.0
+2019,8th Finals,4,Manchester United,33,Chelsea,49,1.0
+2019,8th Finals,4,Oxford United,1338,Sunderland,746,1.0
+2019,8th Finals,4,Sunderland,746,Oxford United,1338,0.0
+2019,8th Finals,4,Liverpool,40,Arsenal,42,1.0
+2019,8th Finals,4,Arsenal,42,Liverpool,40,0.0
+2019,Quarter-finals,5,Oxford United,1338,Manchester City,50,0.0
+2019,Quarter-finals,5,Manchester City,50,Oxford United,1338,1.0
+2019,Quarter-finals,5,Manchester United,33,Colchester,1361,1.0
+2019,Quarter-finals,5,Colchester,1361,Manchester United,33,0.0
+2019,Quarter-finals,5,Aston Villa,66,Liverpool,40,1.0
+2019,Quarter-finals,5,Liverpool,40,Aston Villa,66,0.0
+2019,Quarter-finals,5,Everton,45,Leicester,46,0.0
+2019,Quarter-finals,5,Leicester,46,Everton,45,1.0
+2019,Semi-finals,6,Leicester,46,Aston Villa,66,
+2019,Semi-finals,6,Aston Villa,66,Leicester,46,
+2019,Semi-finals,6,Aston Villa,66,Leicester,46,1.0
+2019,Semi-finals,6,Leicester,46,Aston Villa,66,0.0
+2019,Semi-finals,6,Manchester United,33,Manchester City,50,0.0
+2019,Semi-finals,6,Manchester City,50,Manchester United,33,1.0
+2019,Semi-finals,6,Manchester City,50,Manchester United,33,0.0
+2019,Semi-finals,6,Manchester United,33,Manchester City,50,1.0
+2019,Final,7,Aston Villa,66,Manchester City,50,0.0
+2019,Final,7,Manchester City,50,Aston Villa,66,1.0
+2020,1st Round,1,Tranmere,1381,Harrogate Town,1842,0.0
+2020,1st Round,1,Harrogate Town,1842,Tranmere,1381,1.0
+2020,1st Round,1,Crewe,1363,Lincoln,1379,0.0
+2020,1st Round,1,Lincoln,1379,Crewe,1363,1.0
+2020,1st Round,1,Walsall,1342,Sheffield Wednesday,74,0.0
+2020,1st Round,1,Sheffield Wednesday,74,Walsall,1342,1.0
+2020,1st Round,1,Huddersfield,37,Rochdale,1339,0.0
+2020,1st Round,1,Rochdale,1339,Huddersfield,37,1.0
+2020,1st Round,1,Preston,59,Mansfield Town,1374,1.0
+2020,1st Round,1,Mansfield Town,1374,Preston,59,0.0
+2020,1st Round,1,Bolton,68,Bradford,1343,0.0
+2020,1st Round,1,Bradford,1343,Bolton,68,1.0
+2020,1st Round,1,Blackburn,67,Doncaster,1354,1.0
+2020,1st Round,1,Doncaster,1354,Blackburn,67,0.0
+2020,1st Round,1,Stoke City,75,Blackpool,1356,1.0
+2020,1st Round,1,Blackpool,1356,Stoke City,75,0.0
+2020,1st Round,1,Fleetwood Town,1336,Wigan,61,1.0
+2020,1st Round,1,Wigan,61,Fleetwood Town,1336,0.0
+2020,1st Round,1,Grimsby,1365,Morecambe,1375,0.0
+2020,1st Round,1,Morecambe,1375,Grimsby,1365,1.0
+2020,1st Round,1,Middlesbrough,70,Shrewsbury,1352,1.0
+2020,1st Round,1,Shrewsbury,1352,Middlesbrough,70,0.0
+2020,1st Round,1,Derby,69,Barrow,1819,1.0
+2020,1st Round,1,Barrow,1819,Derby,69,0.0
+2020,1st Round,1,Scunthorpe,1340,Port Vale,1351,0.0
+2020,1st Round,1,Port Vale,1351,Scunthorpe,1340,1.0
+2020,1st Round,1,Sunderland,746,Hull City,64,0.0
+2020,1st Round,1,Hull City,64,Sunderland,746,1.0
+2020,1st Round,1,Burton Albion,748,Accrington ST,1360,1.0
+2020,1st Round,1,Accrington ST,1360,Burton Albion,748,0.0
+2020,1st Round,1,Salford City,1844,Rotherham,73,1.0
+2020,1st Round,1,Rotherham,73,Salford City,1844,0.0
+2020,1st Round,1,Barnsley,747,Nottingham Forest,65,1.0
+2020,1st Round,1,Nottingham Forest,65,Barnsley,747,0.0
+2020,1st Round,1,Oldham,1349,Carlisle,1371,1.0
+2020,1st Round,1,Carlisle,1371,Oldham,1349,0.0
+2020,1st Round,1,Bristol City,56,Exeter City,1364,1.0
+2020,1st Round,1,Exeter City,1364,Bristol City,56,0.0
+2020,1st Round,1,Plymouth,1357,QPR,72,1.0
+2020,1st Round,1,QPR,72,Plymouth,1357,0.0
+2020,1st Round,1,Swindon Town,1353,Charlton,1335,0.0
+2020,1st Round,1,Charlton,1335,Swindon Town,1353,1.0
+2020,1st Round,1,Forest Green,1378,Leyton Orient,1373,0.0
+2020,1st Round,1,Leyton Orient,1373,Forest Green,1378,1.0
+2020,1st Round,1,Milton Keynes Dons,1348,Coventry,1346,0.0
+2020,1st Round,1,Coventry,1346,Milton Keynes Dons,1348,1.0
+2020,1st Round,1,Crawley Town,1362,Millwall,58,0.0
+2020,1st Round,1,Millwall,58,Crawley Town,1362,1.0
+2020,1st Round,1,Stevenage,1368,Portsmouth,1355,0.0
+2020,1st Round,1,Portsmouth,1355,Stevenage,1368,1.0
+2020,1st Round,1,Peterborough,1350,Cheltenham,1372,0.0
+2020,1st Round,1,Cheltenham,1372,Peterborough,1350,1.0
+2020,1st Round,1,Brentford,55,Wycombe,1358,1.0
+2020,1st Round,1,Wycombe,1358,Brentford,55,0.0
+2020,1st Round,1,Northampton,1337,Cardiff,43,1.0
+2020,1st Round,1,Cardiff,43,Northampton,1337,0.0
+2020,1st Round,1,Luton,1359,Norwich,71,1.0
+2020,1st Round,1,Norwich,71,Luton,1359,0.0
+2020,1st Round,1,Birmingham,54,Cambridge United,1370,0.0
+2020,1st Round,1,Cambridge United,1370,Birmingham,54,1.0
+2020,1st Round,1,Newport County,1367,Swansea,76,1.0
+2020,1st Round,1,Swansea,76,Newport County,1367,0.0
+2020,1st Round,1,Oxford United,1338,AFC Wimbledon,1333,1.0
+2020,1st Round,1,AFC Wimbledon,1333,Oxford United,1338,0.0
+2020,1st Round,1,Reading,53,Colchester,1361,1.0
+2020,1st Round,1,Colchester,1361,Reading,53,0.0
+2020,1st Round,1,Gillingham,1347,Southend,1341,1.0
+2020,1st Round,1,Southend,1341,Gillingham,1347,0.0
+2020,1st Round,1,Ipswich,57,Bristol Rovers,1334,1.0
+2020,1st Round,1,Bristol Rovers,1334,Ipswich,57,0.0
+2020,2nd Round,2,Burnley,44,Sheffield Utd,62,1.0
+2020,2nd Round,2,Sheffield Utd,62,Burnley,44,0.0
+2020,2nd Round,2,Burton Albion,748,Aston Villa,66,0.0
+2020,2nd Round,2,Aston Villa,66,Burton Albion,748,1.0
+2020,2nd Round,2,Bradford,1343,Lincoln,1379,0.0
+2020,2nd Round,2,Lincoln,1379,Bradford,1343,1.0
+2020,2nd Round,2,Leeds,63,Hull City,64,0.0
+2020,2nd Round,2,Hull City,64,Leeds,63,1.0
+2020,2nd Round,2,Everton,45,Salford City,1844,1.0
+2020,2nd Round,2,Salford City,1844,Everton,45,0.0
+2020,2nd Round,2,Wolves,39,Stoke City,75,0.0
+2020,2nd Round,2,Stoke City,75,Wolves,39,1.0
+2020,2nd Round,2,Rochdale,1339,Sheffield Wednesday,74,0.0
+2020,2nd Round,2,Sheffield Wednesday,74,Rochdale,1339,1.0
+2020,2nd Round,2,West Brom,60,Harrogate Town,1842,1.0
+2020,2nd Round,2,Harrogate Town,1842,West Brom,60,0.0
+2020,2nd Round,2,Middlesbrough,70,Barnsley,747,0.0
+2020,2nd Round,2,Barnsley,747,Middlesbrough,70,1.0
+2020,2nd Round,2,Derby,69,Preston,59,0.0
+2020,2nd Round,2,Preston,59,Derby,69,1.0
+2020,2nd Round,2,Newcastle,34,Blackburn,67,1.0
+2020,2nd Round,2,Blackburn,67,Newcastle,34,0.0
+2020,2nd Round,2,Morecambe,1375,Oldham,1349,1.0
+2020,2nd Round,2,Oldham,1349,Morecambe,1375,0.0
+2020,2nd Round,2,Fleetwood Town,1336,Port Vale,1351,1.0
+2020,2nd Round,2,Port Vale,1351,Fleetwood Town,1336,0.0
+2020,2nd Round,2,West Ham,48,Charlton,1335,1.0
+2020,2nd Round,2,Charlton,1335,West Ham,48,0.0
+2020,2nd Round,2,Ipswich,57,Fulham,36,0.0
+2020,2nd Round,2,Fulham,36,Ipswich,57,1.0
+2020,2nd Round,2,Oxford United,1338,Watford,38,0.0
+2020,2nd Round,2,Watford,38,Oxford United,1338,1.0
+2020,2nd Round,2,Bournemouth,35,Crystal Palace,52,1.0
+2020,2nd Round,2,Crystal Palace,52,Bournemouth,35,0.0
+2020,2nd Round,2,Leyton Orient,1373,Plymouth,1357,1.0
+2020,2nd Round,2,Plymouth,1357,Leyton Orient,1373,0.0
+2020,2nd Round,2,Southampton,41,Brentford,55,0.0
+2020,2nd Round,2,Brentford,55,Southampton,41,1.0
+2020,2nd Round,2,Bristol City,56,Northampton,1337,1.0
+2020,2nd Round,2,Northampton,1337,Bristol City,56,0.0
+2020,2nd Round,2,Reading,53,Luton,1359,0.0
+2020,2nd Round,2,Luton,1359,Reading,53,1.0
+2020,2nd Round,2,Millwall,58,Cheltenham,1372,1.0
+2020,2nd Round,2,Cheltenham,1372,Millwall,58,0.0
+2020,2nd Round,2,Brighton,51,Portsmouth,1355,1.0
+2020,2nd Round,2,Portsmouth,1355,Brighton,51,0.0
+2020,2nd Round,2,Newport County,1367,Cambridge United,1370,1.0
+2020,2nd Round,2,Cambridge United,1370,Newport County,1367,0.0
+2020,2nd Round,2,Gillingham,1347,Coventry,1346,1.0
+2020,2nd Round,2,Coventry,1346,Gillingham,1347,0.0
+2020,3rd Round,3,Leicester,46,Arsenal,42,0.0
+2020,3rd Round,3,Arsenal,42,Leicester,46,1.0
+2020,3rd Round,3,Leyton Orient,1373,Tottenham,47,
+2020,3rd Round,3,Tottenham,47,Leyton Orient,1373,
+2020,3rd Round,3,West Brom,60,Brentford,55,0.0
+2020,3rd Round,3,Brentford,55,West Brom,60,1.0
+2020,3rd Round,3,Newport County,1367,Watford,38,1.0
+2020,3rd Round,3,Watford,38,Newport County,1367,0.0
+2020,3rd Round,3,West Ham,48,Hull City,64,1.0
+2020,3rd Round,3,Hull City,64,West Ham,48,0.0
+2020,3rd Round,3,Luton,1359,Manchester United,33,0.0
+2020,3rd Round,3,Manchester United,33,Luton,1359,1.0
+2020,3rd Round,3,Morecambe,1375,Newcastle,34,0.0
+2020,3rd Round,3,Newcastle,34,Morecambe,1375,1.0
+2020,3rd Round,3,Fulham,36,Sheffield Wednesday,74,1.0
+2020,3rd Round,3,Sheffield Wednesday,74,Fulham,36,0.0
+2020,3rd Round,3,Fleetwood Town,1336,Everton,45,0.0
+2020,3rd Round,3,Everton,45,Fleetwood Town,1336,1.0
+2020,3rd Round,3,Chelsea,49,Barnsley,747,1.0
+2020,3rd Round,3,Barnsley,747,Chelsea,49,0.0
+2020,3rd Round,3,Bristol City,56,Aston Villa,66,0.0
+2020,3rd Round,3,Aston Villa,66,Bristol City,56,1.0
+2020,3rd Round,3,Lincoln,1379,Liverpool,40,0.0
+2020,3rd Round,3,Liverpool,40,Lincoln,1379,1.0
+2020,3rd Round,3,Manchester City,50,Bournemouth,35,1.0
+2020,3rd Round,3,Bournemouth,35,Manchester City,50,0.0
+2020,3rd Round,3,Preston,59,Brighton,51,0.0
+2020,3rd Round,3,Brighton,51,Preston,59,1.0
+2020,3rd Round,3,Millwall,58,Burnley,44,0.0
+2020,3rd Round,3,Burnley,44,Millwall,58,1.0
+2020,3rd Round,3,Stoke City,75,Gillingham,1347,1.0
+2020,3rd Round,3,Gillingham,1347,Stoke City,75,0.0
+2020,8th Finals,4,Tottenham,47,Chelsea,49,1.0
+2020,8th Finals,4,Chelsea,49,Tottenham,47,0.0
+2020,8th Finals,4,Newport County,1367,Newcastle,34,0.0
+2020,8th Finals,4,Newcastle,34,Newport County,1367,1.0
+2020,8th Finals,4,Burnley,44,Manchester City,50,0.0
+2020,8th Finals,4,Manchester City,50,Burnley,44,1.0
+2020,8th Finals,4,Brighton,51,Manchester United,33,0.0
+2020,8th Finals,4,Manchester United,33,Brighton,51,1.0
+2020,8th Finals,4,Everton,45,West Ham,48,1.0
+2020,8th Finals,4,West Ham,48,Everton,45,0.0
+2020,8th Finals,4,Brentford,55,Fulham,36,1.0
+2020,8th Finals,4,Fulham,36,Brentford,55,0.0
+2020,8th Finals,4,Aston Villa,66,Stoke City,75,0.0
+2020,8th Finals,4,Stoke City,75,Aston Villa,66,1.0
+2020,8th Finals,4,Liverpool,40,Arsenal,42,0.0
+2020,8th Finals,4,Arsenal,42,Liverpool,40,1.0
+2020,Quarter-finals,5,Arsenal,42,Manchester City,50,0.0
+2020,Quarter-finals,5,Manchester City,50,Arsenal,42,1.0
+2020,Quarter-finals,5,Brentford,55,Newcastle,34,1.0
+2020,Quarter-finals,5,Newcastle,34,Brentford,55,0.0
+2020,Quarter-finals,5,Everton,45,Manchester United,33,0.0
+2020,Quarter-finals,5,Manchester United,33,Everton,45,1.0
+2020,Quarter-finals,5,Stoke City,75,Tottenham,47,0.0
+2020,Quarter-finals,5,Tottenham,47,Stoke City,75,1.0
+2020,Semi-finals,6,Tottenham,47,Brentford,55,1.0
+2020,Semi-finals,6,Brentford,55,Tottenham,47,0.0
+2020,Semi-finals,6,Manchester United,33,Manchester City,50,0.0
+2020,Semi-finals,6,Manchester City,50,Manchester United,33,1.0
+2020,Final,7,Manchester City,50,Tottenham,47,1.0
+2020,Final,7,Tottenham,47,Manchester City,50,0.0
+2021,1st Round,1,Sheffield Wednesday,74,Huddersfield,37,0.0
+2021,1st Round,1,Huddersfield,37,Sheffield Wednesday,74,1.0
+2021,1st Round,1,Derby,69,Salford City,1844,1.0
+2021,1st Round,1,Salford City,1844,Derby,69,0.0
+2021,1st Round,1,Hartlepool,1366,Crewe,1363,0.0
+2021,1st Round,1,Crewe,1363,Hartlepool,1366,1.0
+2021,1st Round,1,Shrewsbury,1352,Lincoln,1379,1.0
+2021,1st Round,1,Lincoln,1379,Shrewsbury,1352,0.0
+2021,1st Round,1,Mansfield Town,1374,Preston,59,0.0
+2021,1st Round,1,Preston,59,Mansfield Town,1374,1.0
+2021,1st Round,1,Port Vale,1351,Sunderland,746,0.0
+2021,1st Round,1,Sunderland,746,Port Vale,1351,1.0
+2021,1st Round,1,Sheffield Utd,62,Carlisle,1371,1.0
+2021,1st Round,1,Carlisle,1371,Sheffield Utd,62,0.0
+2021,1st Round,1,Blackpool,1356,Middlesbrough,70,1.0
+2021,1st Round,1,Middlesbrough,70,Blackpool,1356,0.0
+2021,1st Round,1,Harrogate Town,1842,Rochdale,1339,
+2021,1st Round,1,Rochdale,1339,Harrogate Town,1842,
+2021,1st Round,1,Stoke City,75,Fleetwood Town,1336,1.0
+2021,1st Round,1,Fleetwood Town,1336,Stoke City,75,0.0
+2021,1st Round,1,Walsall,1342,Doncaster,1354,0.0
+2021,1st Round,1,Doncaster,1354,Walsall,1342,1.0
+2021,1st Round,1,Oldham,1349,Tranmere,1381,1.0
+2021,1st Round,1,Tranmere,1381,Oldham,1349,0.0
+2021,1st Round,1,Rotherham,73,Accrington ST,1360,0.0
+2021,1st Round,1,Accrington ST,1360,Rotherham,73,1.0
+2021,1st Round,1,Barrow,1819,Scunthorpe,1340,1.0
+2021,1st Round,1,Scunthorpe,1340,Barrow,1819,0.0
+2021,1st Round,1,Hull City,64,Wigan,61,0.0
+2021,1st Round,1,Wigan,61,Hull City,64,1.0
+2021,1st Round,1,Bolton,68,Barnsley,747,1.0
+2021,1st Round,1,Barnsley,747,Bolton,68,0.0
+2021,1st Round,1,Nottingham Forest,65,Bradford,1343,1.0
+2021,1st Round,1,Bradford,1343,Nottingham Forest,65,0.0
+2021,1st Round,1,Blackburn,67,Morecambe,1375,0.0
+2021,1st Round,1,Morecambe,1375,Blackburn,67,1.0
+2021,1st Round,1,Cambridge United,1370,Swindon Town,1353,1.0
+2021,1st Round,1,Swindon Town,1353,Cambridge United,1370,0.0
+2021,1st Round,1,Exeter City,1364,Wycombe,1358,0.0
+2021,1st Round,1,Wycombe,1358,Exeter City,1364,1.0
+2021,1st Round,1,Crawley Town,1362,Gillingham,1347,0.0
+2021,1st Round,1,Gillingham,1347,Crawley Town,1362,1.0
+2021,1st Round,1,Burton Albion,748,Oxford United,1338,0.0
+2021,1st Round,1,Oxford United,1338,Burton Albion,748,1.0
+2021,1st Round,1,Coventry,1346,Northampton,1337,0.0
+2021,1st Round,1,Northampton,1337,Coventry,1346,1.0
+2021,1st Round,1,Ipswich,57,Newport County,1367,0.0
+2021,1st Round,1,Newport County,1367,Ipswich,57,1.0
+2021,1st Round,1,Forest Green,1378,Bristol City,56,1.0
+2021,1st Round,1,Bristol City,56,Forest Green,1378,0.0
+2021,1st Round,1,Reading,53,Swansea,76,0.0
+2021,1st Round,1,Swansea,76,Reading,53,1.0
+2021,1st Round,1,Cardiff,43,Sutton Utd,1835,1.0
+2021,1st Round,1,Sutton Utd,1835,Cardiff,43,0.0
+2021,1st Round,1,Bournemouth,35,Milton Keynes Dons,1348,1.0
+2021,1st Round,1,Milton Keynes Dons,1348,Bournemouth,35,0.0
+2021,1st Round,1,Bristol Rovers,1334,Cheltenham,1372,0.0
+2021,1st Round,1,Cheltenham,1372,Bristol Rovers,1334,1.0
+2021,1st Round,1,Peterborough,1350,Plymouth,1357,0.0
+2021,1st Round,1,Plymouth,1357,Peterborough,1350,1.0
+2021,1st Round,1,Leyton Orient,1373,QPR,72,0.0
+2021,1st Round,1,QPR,72,Leyton Orient,1373,1.0
+2021,1st Round,1,Stevenage,1368,Luton,1359,1.0
+2021,1st Round,1,Luton,1359,Stevenage,1368,0.0
+2021,1st Round,1,Millwall,58,Portsmouth,1355,1.0
+2021,1st Round,1,Portsmouth,1355,Millwall,58,0.0
+2021,1st Round,1,Birmingham,54,Colchester,1361,1.0
+2021,1st Round,1,Colchester,1361,Birmingham,54,0.0
+2021,1st Round,1,Charlton,1335,AFC Wimbledon,1333,0.0
+2021,1st Round,1,AFC Wimbledon,1333,Charlton,1335,1.0
+2021,2nd Round,2,Oldham,1349,Accrington ST,1360,1.0
+2021,2nd Round,2,Accrington ST,1360,Oldham,1349,0.0
+2021,2nd Round,2,Newcastle,34,Burnley,44,0.0
+2021,2nd Round,2,Burnley,44,Newcastle,34,1.0
+2021,2nd Round,2,Wigan,61,Bolton,68,1.0
+2021,2nd Round,2,Bolton,68,Wigan,61,0.0
+2021,2nd Round,2,Huddersfield,37,Everton,45,0.0
+2021,2nd Round,2,Everton,45,Huddersfield,37,1.0
+2021,2nd Round,2,Sheffield Utd,62,Derby,69,1.0
+2021,2nd Round,2,Derby,69,Sheffield Utd,62,0.0
+2021,2nd Round,2,Stoke City,75,Doncaster,1354,1.0
+2021,2nd Round,2,Doncaster,1354,Stoke City,75,0.0
+2021,2nd Round,2,Shrewsbury,1352,Rochdale,1339,0.0
+2021,2nd Round,2,Rochdale,1339,Shrewsbury,1352,1.0
+2021,2nd Round,2,Nottingham Forest,65,Wolves,39,0.0
+2021,2nd Round,2,Wolves,39,Nottingham Forest,65,1.0
+2021,2nd Round,2,Morecambe,1375,Preston,59,0.0
+2021,2nd Round,2,Preston,59,Morecambe,1375,1.0
+2021,2nd Round,2,Blackpool,1356,Sunderland,746,0.0
+2021,2nd Round,2,Sunderland,746,Blackpool,1356,1.0
+2021,2nd Round,2,Leeds,63,Crewe,1363,1.0
+2021,2nd Round,2,Crewe,1363,Leeds,63,0.0
+2021,2nd Round,2,Barrow,1819,Aston Villa,66,0.0
+2021,2nd Round,2,Aston Villa,66,Barrow,1819,1.0
+2021,2nd Round,2,Brentford,55,Forest Green,1378,1.0
+2021,2nd Round,2,Forest Green,1378,Brentford,55,0.0
+2021,2nd Round,2,Millwall,58,Cambridge United,1370,1.0
+2021,2nd Round,2,Cambridge United,1370,Millwall,58,0.0
+2021,2nd Round,2,West Brom,60,Arsenal,42,0.0
+2021,2nd Round,2,Arsenal,42,West Brom,60,1.0
+2021,2nd Round,2,Norwich,71,Bournemouth,35,1.0
+2021,2nd Round,2,Bournemouth,35,Norwich,71,0.0
+2021,2nd Round,2,Cardiff,43,Brighton,51,0.0
+2021,2nd Round,2,Brighton,51,Cardiff,43,1.0
+2021,2nd Round,2,Birmingham,54,Fulham,36,0.0
+2021,2nd Round,2,Fulham,36,Birmingham,54,1.0
+2021,2nd Round,2,Gillingham,1347,Cheltenham,1372,0.0
+2021,2nd Round,2,Cheltenham,1372,Gillingham,1347,1.0
+2021,2nd Round,2,QPR,72,Oxford United,1338,1.0
+2021,2nd Round,2,Oxford United,1338,QPR,72,0.0
+2021,2nd Round,2,Swansea,76,Plymouth,1357,1.0
+2021,2nd Round,2,Plymouth,1357,Swansea,76,0.0
+2021,2nd Round,2,Stevenage,1368,Wycombe,1358,0.0
+2021,2nd Round,2,Wycombe,1358,Stevenage,1368,1.0
+2021,2nd Round,2,Newport County,1367,Southampton,41,0.0
+2021,2nd Round,2,Southampton,41,Newport County,1367,1.0
+2021,2nd Round,2,Northampton,1337,AFC Wimbledon,1333,0.0
+2021,2nd Round,2,AFC Wimbledon,1333,Northampton,1337,1.0
+2021,2nd Round,2,Watford,38,Crystal Palace,52,1.0
+2021,2nd Round,2,Crystal Palace,52,Watford,38,0.0
+2021,3rd Round,3,QPR,72,Everton,45,1.0
+2021,3rd Round,3,Everton,45,QPR,72,0.0
+2021,3rd Round,3,Preston,59,Cheltenham,1372,1.0
+2021,3rd Round,3,Cheltenham,1372,Preston,59,0.0
+2021,3rd Round,3,Manchester United,33,West Ham,48,0.0
+2021,3rd Round,3,West Ham,48,Manchester United,33,1.0
+2021,3rd Round,3,Fulham,36,Leeds,63,0.0
+2021,3rd Round,3,Leeds,63,Fulham,36,1.0
+2021,3rd Round,3,Brentford,55,Oldham,1349,1.0
+2021,3rd Round,3,Oldham,1349,Brentford,55,0.0
+2021,3rd Round,3,Watford,38,Stoke City,75,0.0
+2021,3rd Round,3,Stoke City,75,Watford,38,1.0
+2021,3rd Round,3,Chelsea,49,Aston Villa,66,1.0
+2021,3rd Round,3,Aston Villa,66,Chelsea,49,0.0
+2021,3rd Round,3,Wigan,61,Sunderland,746,0.0
+2021,3rd Round,3,Sunderland,746,Wigan,61,1.0
+2021,3rd Round,3,Norwich,71,Liverpool,40,0.0
+2021,3rd Round,3,Liverpool,40,Norwich,71,1.0
+2021,3rd Round,3,Burnley,44,Rochdale,1339,1.0
+2021,3rd Round,3,Rochdale,1339,Burnley,44,0.0
+2021,3rd Round,3,Arsenal,42,AFC Wimbledon,1333,1.0
+2021,3rd Round,3,AFC Wimbledon,1333,Arsenal,42,0.0
+2021,3rd Round,3,Sheffield Utd,62,Southampton,41,0.0
+2021,3rd Round,3,Southampton,41,Sheffield Utd,62,1.0
+2021,3rd Round,3,Manchester City,50,Wycombe,1358,1.0
+2021,3rd Round,3,Wycombe,1358,Manchester City,50,0.0
+2021,3rd Round,3,Millwall,58,Leicester,46,0.0
+2021,3rd Round,3,Leicester,46,Millwall,58,1.0
+2021,3rd Round,3,Wolves,39,Tottenham,47,0.0
+2021,3rd Round,3,Tottenham,47,Wolves,39,1.0
+2021,3rd Round,3,Brighton,51,Swansea,76,1.0
+2021,3rd Round,3,Swansea,76,Brighton,51,0.0
+2021,Round of 16,4,Chelsea,49,Southampton,41,1.0
+2021,Round of 16,4,Southampton,41,Chelsea,49,0.0
+2021,Round of 16,4,Arsenal,42,Leeds,63,1.0
+2021,Round of 16,4,Leeds,63,Arsenal,42,0.0
+2021,Round of 16,4,Stoke City,75,Brentford,55,0.0
+2021,Round of 16,4,Brentford,55,Stoke City,75,1.0
+2021,Round of 16,4,West Ham,48,Manchester City,50,1.0
+2021,Round of 16,4,Manchester City,50,West Ham,48,0.0
+2021,Round of 16,4,Leicester,46,Brighton,51,1.0
+2021,Round of 16,4,Brighton,51,Leicester,46,0.0
+2021,Round of 16,4,Burnley,44,Tottenham,47,0.0
+2021,Round of 16,4,Tottenham,47,Burnley,44,1.0
+2021,Round of 16,4,QPR,72,Sunderland,746,0.0
+2021,Round of 16,4,Sunderland,746,QPR,72,1.0
+2021,Round of 16,4,Preston,59,Liverpool,40,0.0
+2021,Round of 16,4,Liverpool,40,Preston,59,1.0
+2021,Quarter-finals,5,Tottenham,47,West Ham,48,1.0
+2021,Quarter-finals,5,West Ham,48,Tottenham,47,0.0
+2021,Quarter-finals,5,Arsenal,42,Sunderland,746,1.0
+2021,Quarter-finals,5,Sunderland,746,Arsenal,42,0.0
+2021,Quarter-finals,5,Brentford,55,Chelsea,49,0.0
+2021,Quarter-finals,5,Chelsea,49,Brentford,55,1.0
+2021,Quarter-finals,5,Liverpool,40,Leicester,46,1.0
+2021,Quarter-finals,5,Leicester,46,Liverpool,40,0.0
+2021,Semi-finals,6,Arsenal,42,Liverpool,40,0.0
+2021,Semi-finals,6,Liverpool,40,Arsenal,42,1.0
+2021,Semi-finals,6,Liverpool,40,Arsenal,42,
+2021,Semi-finals,6,Arsenal,42,Liverpool,40,
+2021,Semi-finals,6,Chelsea,49,Tottenham,47,1.0
+2021,Semi-finals,6,Tottenham,47,Chelsea,49,0.0
+2021,Semi-finals,6,Tottenham,47,Chelsea,49,0.0
+2021,Semi-finals,6,Chelsea,49,Tottenham,47,1.0
+2021,Final,7,Chelsea,49,Liverpool,40,0.0
+2021,Final,7,Liverpool,40,Chelsea,49,1.0
+2022,1st Round,1,Blackburn,67,Hartlepool,1366,1.0
+2022,1st Round,1,Hartlepool,1366,Blackburn,67,0.0
+2022,1st Round,1,Harrogate Town,1842,Stockport County,4686,0.0
+2022,1st Round,1,Stockport County,4686,Harrogate Town,1842,1.0
+2022,1st Round,1,Bolton,68,Salford City,1844,1.0
+2022,1st Round,1,Salford City,1844,Bolton,68,0.0
+2022,1st Round,1,Morecambe,1375,Stoke City,75,1.0
+2022,1st Round,1,Stoke City,75,Morecambe,1375,0.0
+2022,1st Round,1,Blackpool,1356,Barrow,1819,0.0
+2022,1st Round,1,Barrow,1819,Blackpool,1356,1.0
+2022,1st Round,1,West Brom,60,Sheffield Utd,62,1.0
+2022,1st Round,1,Sheffield Utd,62,West Brom,60,0.0
+2022,1st Round,1,Sheffield Wednesday,74,Sunderland,746,1.0
+2022,1st Round,1,Sunderland,746,Sheffield Wednesday,74,0.0
+2022,1st Round,1,Grimsby,1365,Crewe,1363,1.0
+2022,1st Round,1,Crewe,1363,Grimsby,1365,0.0
+2022,1st Round,1,Mansfield Town,1374,Derby,69,0.0
+2022,1st Round,1,Derby,69,Mansfield Town,1374,1.0
+2022,1st Round,1,Accrington ST,1360,Tranmere,1381,0.0
+2022,1st Round,1,Tranmere,1381,Accrington ST,1360,1.0
+2022,1st Round,1,Middlesbrough,70,Barnsley,747,0.0
+2022,1st Round,1,Barnsley,747,Middlesbrough,70,1.0
+2022,1st Round,1,Bradford,1343,Hull City,64,1.0
+2022,1st Round,1,Hull City,64,Bradford,1343,0.0
+2022,1st Round,1,Rochdale,1339,Burton Albion,748,1.0
+2022,1st Round,1,Burton Albion,748,Rochdale,1339,0.0
+2022,1st Round,1,Doncaster,1354,Lincoln,1379,0.0
+2022,1st Round,1,Lincoln,1379,Doncaster,1354,1.0
+2022,1st Round,1,Huddersfield,37,Preston,59,0.0
+2022,1st Round,1,Preston,59,Huddersfield,37,1.0
+2022,1st Round,1,Shrewsbury,1352,Carlisle,1371,1.0
+2022,1st Round,1,Carlisle,1371,Shrewsbury,1352,0.0
+2022,1st Round,1,Port Vale,1351,Rotherham,73,0.0
+2022,1st Round,1,Rotherham,73,Port Vale,1351,1.0
+2022,1st Round,1,Fleetwood Town,1336,Wigan,61,1.0
+2022,1st Round,1,Wigan,61,Fleetwood Town,1336,0.0
+2022,1st Round,1,Norwich,71,Birmingham,54,1.0
+2022,1st Round,1,Birmingham,54,Norwich,71,0.0
+2022,1st Round,1,Coventry,1346,Bristol City,56,0.0
+2022,1st Round,1,Bristol City,56,Coventry,1346,1.0
+2022,1st Round,1,Northampton,1337,Wycombe,1358,0.0
+2022,1st Round,1,Wycombe,1358,Northampton,1337,1.0
+2022,1st Round,1,Cardiff,43,Portsmouth,1355,0.0
+2022,1st Round,1,Portsmouth,1355,Cardiff,43,1.0
+2022,1st Round,1,Charlton,1335,QPR,72,1.0
+2022,1st Round,1,QPR,72,Charlton,1335,0.0
+2022,1st Round,1,Crawley Town,1362,Bristol Rovers,1334,1.0
+2022,1st Round,1,Bristol Rovers,1334,Crawley Town,1362,0.0
+2022,1st Round,1,Walsall,1342,Swindon Town,1353,1.0
+2022,1st Round,1,Swindon Town,1353,Walsall,1342,0.0
+2022,1st Round,1,Ipswich,57,Colchester,1361,0.0
+2022,1st Round,1,Colchester,1361,Ipswich,57,1.0
+2022,1st Round,1,Luton,1359,Newport County,1367,0.0
+2022,1st Round,1,Newport County,1367,Luton,1359,1.0
+2022,1st Round,1,Reading,53,Stevenage,1368,0.0
+2022,1st Round,1,Stevenage,1368,Reading,53,1.0
+2022,1st Round,1,Plymouth,1357,Peterborough,1350,0.0
+2022,1st Round,1,Peterborough,1350,Plymouth,1357,1.0
+2022,1st Round,1,AFC Wimbledon,1333,Gillingham,1347,0.0
+2022,1st Round,1,Gillingham,1347,AFC Wimbledon,1333,1.0
+2022,1st Round,1,Cheltenham,1372,Exeter City,1364,0.0
+2022,1st Round,1,Exeter City,1364,Cheltenham,1372,1.0
+2022,1st Round,1,Milton Keynes Dons,1348,Sutton Utd,1835,1.0
+2022,1st Round,1,Sutton Utd,1835,Milton Keynes Dons,1348,0.0
+2022,1st Round,1,Forest Green,1378,Leyton Orient,1373,1.0
+2022,1st Round,1,Leyton Orient,1373,Forest Green,1378,0.0
+2022,1st Round,1,Cambridge United,1370,Millwall,58,1.0
+2022,1st Round,1,Millwall,58,Cambridge United,1370,0.0
+2022,1st Round,1,Oxford United,1338,Swansea,76,1.0
+2022,1st Round,1,Swansea,76,Oxford United,1338,0.0
+2022,2nd Round,2,Bolton,68,Aston Villa,66,0.0
+2022,2nd Round,2,Aston Villa,66,Bolton,68,1.0
+2022,2nd Round,2,Wolves,39,Preston,59,1.0
+2022,2nd Round,2,Preston,59,Wolves,39,0.0
+2022,2nd Round,2,Leeds,63,Barnsley,747,1.0
+2022,2nd Round,2,Barnsley,747,Leeds,63,0.0
+2022,2nd Round,2,Fleetwood Town,1336,Everton,45,0.0
+2022,2nd Round,2,Everton,45,Fleetwood Town,1336,1.0
+2022,2nd Round,2,Sheffield Wednesday,74,Rochdale,1339,1.0
+2022,2nd Round,2,Rochdale,1339,Sheffield Wednesday,74,0.0
+2022,2nd Round,2,Tranmere,1381,Newcastle,34,0.0
+2022,2nd Round,2,Newcastle,34,Tranmere,1381,1.0
+2022,2nd Round,2,Rotherham,73,Morecambe,1375,0.0
+2022,2nd Round,2,Morecambe,1375,Rotherham,73,1.0
+2022,2nd Round,2,Barrow,1819,Lincoln,1379,0.0
+2022,2nd Round,2,Lincoln,1379,Barrow,1819,1.0
+2022,2nd Round,2,Stockport County,4686,Leicester,46,0.0
+2022,2nd Round,2,Leicester,46,Stockport County,4686,1.0
+2022,2nd Round,2,Bradford,1343,Blackburn,67,0.0
+2022,2nd Round,2,Blackburn,67,Bradford,1343,1.0
+2022,2nd Round,2,Grimsby,1365,Nottingham Forest,65,0.0
+2022,2nd Round,2,Nottingham Forest,65,Grimsby,1365,1.0
+2022,2nd Round,2,Shrewsbury,1352,Burnley,44,0.0
+2022,2nd Round,2,Burnley,44,Shrewsbury,1352,1.0
+2022,2nd Round,2,Stevenage,1368,Peterborough,1350,1.0
+2022,2nd Round,2,Peterborough,1350,Stevenage,1368,0.0
+2022,2nd Round,2,Norwich,71,Bournemouth,35,0.0
+2022,2nd Round,2,Bournemouth,35,Norwich,71,1.0
+2022,2nd Round,2,Newport County,1367,Portsmouth,1355,1.0
+2022,2nd Round,2,Portsmouth,1355,Newport County,1367,0.0
+2022,2nd Round,2,Oxford United,1338,Crystal Palace,52,0.0
+2022,2nd Round,2,Crystal Palace,52,Oxford United,1338,1.0
+2022,2nd Round,2,Watford,38,Milton Keynes Dons,1348,0.0
+2022,2nd Round,2,Milton Keynes Dons,1348,Watford,38,1.0
+2022,2nd Round,2,Colchester,1361,Brentford,55,0.0
+2022,2nd Round,2,Brentford,55,Colchester,1361,1.0
+2022,2nd Round,2,Wycombe,1358,Bristol City,56,0.0
+2022,2nd Round,2,Bristol City,56,Wycombe,1358,1.0
+2022,2nd Round,2,Walsall,1342,Charlton,1335,0.0
+2022,2nd Round,2,Charlton,1335,Walsall,1342,1.0
+2022,2nd Round,2,Crawley Town,1362,Fulham,36,1.0
+2022,2nd Round,2,Fulham,36,Crawley Town,1362,0.0
+2022,2nd Round,2,Cambridge United,1370,Southampton,41,0.0
+2022,2nd Round,2,Southampton,41,Cambridge United,1370,1.0
+2022,2nd Round,2,Gillingham,1347,Exeter City,1364,1.0
+2022,2nd Round,2,Exeter City,1364,Gillingham,1347,0.0
+2022,2nd Round,2,Forest Green,1378,Brighton,51,0.0
+2022,2nd Round,2,Brighton,51,Forest Green,1378,1.0
+2022,2nd Round,2,Derby,69,West Brom,60,1.0
+2022,2nd Round,2,West Brom,60,Derby,69,0.0
+2022,3rd Round,3,Leicester,46,Newport County,1367,1.0
+2022,3rd Round,3,Newport County,1367,Leicester,46,0.0
+2022,3rd Round,3,West Ham,48,Blackburn,67,0.0
+2022,3rd Round,3,Blackburn,67,West Ham,48,1.0
+2022,3rd Round,3,Wolves,39,Leeds,63,1.0
+2022,3rd Round,3,Leeds,63,Wolves,39,0.0
+2022,3rd Round,3,Nottingham Forest,65,Tottenham,47,1.0
+2022,3rd Round,3,Tottenham,47,Nottingham Forest,65,0.0
+2022,3rd Round,3,Manchester United,33,Aston Villa,66,1.0
+2022,3rd Round,3,Aston Villa,66,Manchester United,33,0.0
+2022,3rd Round,3,Bournemouth,35,Everton,45,1.0
+2022,3rd Round,3,Everton,45,Bournemouth,35,0.0
+2022,3rd Round,3,Liverpool,40,Derby,69,1.0
+2022,3rd Round,3,Derby,69,Liverpool,40,0.0
+2022,3rd Round,3,Burnley,44,Crawley Town,1362,1.0
+2022,3rd Round,3,Crawley Town,1362,Burnley,44,0.0
+2022,3rd Round,3,Bristol City,56,Lincoln,1379,0.0
+2022,3rd Round,3,Lincoln,1379,Bristol City,56,1.0
+2022,3rd Round,3,Manchester City,50,Chelsea,49,1.0
+2022,3rd Round,3,Chelsea,49,Manchester City,50,0.0
+2022,3rd Round,3,Stevenage,1368,Charlton,1335,0.0
+2022,3rd Round,3,Charlton,1335,Stevenage,1368,1.0
+2022,3rd Round,3,Milton Keynes Dons,1348,Morecambe,1375,1.0
+2022,3rd Round,3,Morecambe,1375,Milton Keynes Dons,1348,0.0
+2022,3rd Round,3,Newcastle,34,Crystal Palace,52,1.0
+2022,3rd Round,3,Crystal Palace,52,Newcastle,34,0.0
+2022,3rd Round,3,Southampton,41,Sheffield Wednesday,74,1.0
+2022,3rd Round,3,Sheffield Wednesday,74,Southampton,41,0.0
+2022,3rd Round,3,Arsenal,42,Brighton,51,0.0
+2022,3rd Round,3,Brighton,51,Arsenal,42,1.0
+2022,3rd Round,3,Brentford,55,Gillingham,1347,0.0
+2022,3rd Round,3,Gillingham,1347,Brentford,55,1.0
+2022,Round of 16,4,Wolves,39,Gillingham,1347,1.0
+2022,Round of 16,4,Gillingham,1347,Wolves,39,0.0
+2022,Round of 16,4,Southampton,41,Lincoln,1379,1.0
+2022,Round of 16,4,Lincoln,1379,Southampton,41,0.0
+2022,Round of 16,4,Blackburn,67,Nottingham Forest,65,0.0
+2022,Round of 16,4,Nottingham Forest,65,Blackburn,67,1.0
+2022,Round of 16,4,Newcastle,34,Bournemouth,35,1.0
+2022,Round of 16,4,Bournemouth,35,Newcastle,34,0.0
+2022,Round of 16,4,Manchester City,50,Liverpool,40,1.0
+2022,Round of 16,4,Liverpool,40,Manchester City,50,0.0
+2022,Round of 16,4,Manchester United,33,Burnley,44,1.0
+2022,Round of 16,4,Burnley,44,Manchester United,33,0.0
+2022,Round of 16,4,Milton Keynes Dons,1348,Leicester,46,0.0
+2022,Round of 16,4,Leicester,46,Milton Keynes Dons,1348,1.0
+2022,Round of 16,4,Charlton,1335,Brighton,51,1.0
+2022,Round of 16,4,Brighton,51,Charlton,1335,0.0
+2022,Quarter-finals,5,Manchester United,33,Charlton,1335,1.0
+2022,Quarter-finals,5,Charlton,1335,Manchester United,33,0.0
+2022,Quarter-finals,5,Southampton,41,Manchester City,50,1.0
+2022,Quarter-finals,5,Manchester City,50,Southampton,41,0.0
+2022,Quarter-finals,5,Nottingham Forest,65,Wolves,39,1.0
+2022,Quarter-finals,5,Wolves,39,Nottingham Forest,65,0.0
+2022,Quarter-finals,5,Newcastle,34,Leicester,46,1.0
+2022,Quarter-finals,5,Leicester,46,Newcastle,34,0.0
+2022,Semi-finals,6,Southampton,41,Newcastle,34,0.0
+2022,Semi-finals,6,Newcastle,34,Southampton,41,1.0
+2022,Semi-finals,6,Newcastle,34,Southampton,41,1.0
+2022,Semi-finals,6,Southampton,41,Newcastle,34,0.0
+2022,Semi-finals,6,Nottingham Forest,65,Manchester United,33,0.0
+2022,Semi-finals,6,Manchester United,33,Nottingham Forest,65,1.0
+2022,Semi-finals,6,Manchester United,33,Nottingham Forest,65,1.0
+2022,Semi-finals,6,Nottingham Forest,65,Manchester United,33,0.0
+2022,Final,7,Manchester United,33,Newcastle,34,1.0
+2022,Final,7,Newcastle,34,Manchester United,33,0.0
+2023,1st Round,1,Plymouth,1357,Leyton Orient,1373,1.0
+2023,1st Round,1,Leyton Orient,1373,Plymouth,1357,0.0
+2023,1st Round,1,Forest Green,1378,Portsmouth,1355,0.0
+2023,1st Round,1,Portsmouth,1355,Forest Green,1378,1.0
+2023,1st Round,1,Swansea,76,Northampton,1337,1.0
+2023,1st Round,1,Northampton,1337,Swansea,76,0.0
+2023,1st Round,1,Exeter City,1364,Crawley Town,1362,1.0
+2023,1st Round,1,Crawley Town,1362,Exeter City,1364,0.0
+2023,1st Round,1,Ipswich,57,Bristol Rovers,1334,1.0
+2023,1st Round,1,Bristol Rovers,1334,Ipswich,57,0.0
+2023,1st Round,1,Newport County,1367,Charlton,1335,1.0
+2023,1st Round,1,Charlton,1335,Newport County,1367,0.0
+2023,1st Round,1,Stevenage,1368,Watford,38,1.0
+2023,1st Round,1,Watford,38,Stevenage,1368,0.0
+2023,1st Round,1,Cheltenham,1372,Birmingham,54,0.0
+2023,1st Round,1,Birmingham,54,Cheltenham,1372,1.0
+2023,1st Round,1,Sutton Utd,1835,Cambridge United,1370,1.0
+2023,1st Round,1,Cambridge United,1370,Sutton Utd,1835,0.0
+2023,1st Round,1,Milton Keynes Dons,1348,Wycombe,1358,0.0
+2023,1st Round,1,Wycombe,1358,Milton Keynes Dons,1348,1.0
+2023,1st Round,1,Millwall,58,Reading,53,0.0
+2023,1st Round,1,Reading,53,Millwall,58,1.0
+2023,1st Round,1,AFC Wimbledon,1333,Coventry,1346,1.0
+2023,1st Round,1,Coventry,1346,AFC Wimbledon,1333,0.0
+2023,1st Round,1,Bristol City,56,Oxford United,1338,1.0
+2023,1st Round,1,Oxford United,1338,Bristol City,56,0.0
+2023,1st Round,1,Gillingham,1347,Southampton,41,1.0
+2023,1st Round,1,Southampton,41,Gillingham,1347,0.0
+2023,1st Round,1,QPR,72,Norwich,71,0.0
+2023,1st Round,1,Norwich,71,QPR,72,1.0
+2023,1st Round,1,Peterborough,1350,Swindon Town,1353,1.0
+2023,1st Round,1,Swindon Town,1353,Peterborough,1350,0.0
+2023,1st Round,1,Cardiff,43,Colchester,1361,1.0
+2023,1st Round,1,Colchester,1361,Cardiff,43,0.0
+2023,1st Round,1,Bolton,68,Barrow,1819,1.0
+2023,1st Round,1,Barrow,1819,Bolton,68,0.0
+2023,1st Round,1,Hull City,64,Doncaster,1354,0.0
+2023,1st Round,1,Doncaster,1354,Hull City,64,1.0
+2023,1st Round,1,Mansfield Town,1374,Grimsby,1365,1.0
+2023,1st Round,1,Grimsby,1365,Mansfield Town,1374,0.0
+2023,1st Round,1,Stoke City,75,West Brom,60,1.0
+2023,1st Round,1,West Brom,60,Stoke City,75,0.0
+2023,1st Round,1,Sheffield Wednesday,74,Stockport County,4686,1.0
+2023,1st Round,1,Stockport County,4686,Sheffield Wednesday,74,0.0
+2023,1st Round,1,Leeds,63,Shrewsbury,1352,1.0
+2023,1st Round,1,Shrewsbury,1352,Leeds,63,0.0
+2023,1st Round,1,Preston,59,Salford City,1844,0.0
+2023,1st Round,1,Salford City,1844,Preston,59,1.0
+2023,1st Round,1,Rotherham,73,Morecambe,1375,1.0
+2023,1st Round,1,Morecambe,1375,Rotherham,73,0.0
+2023,1st Round,1,Harrogate Town,1842,Carlisle,1371,1.0
+2023,1st Round,1,Carlisle,1371,Harrogate Town,1842,0.0
+2023,1st Round,1,Burton Albion,748,Leicester,46,0.0
+2023,1st Round,1,Leicester,46,Burton Albion,748,1.0
+2023,1st Round,1,Accrington ST,1360,Bradford,1343,0.0
+2023,1st Round,1,Bradford,1343,Accrington ST,1360,1.0
+2023,1st Round,1,Derby,69,Blackpool,1356,0.0
+2023,1st Round,1,Blackpool,1356,Derby,69,1.0
+2023,1st Round,1,Port Vale,1351,Fleetwood Town,1336,1.0
+2023,1st Round,1,Fleetwood Town,1336,Port Vale,1351,0.0
+2023,1st Round,1,Barnsley,747,Tranmere,1381,0.0
+2023,1st Round,1,Tranmere,1381,Barnsley,747,1.0
+2023,1st Round,1,Blackburn,67,Walsall,1342,1.0
+2023,1st Round,1,Walsall,1342,Blackburn,67,0.0
+2023,1st Round,1,Huddersfield,37,Middlesbrough,70,0.0
+2023,1st Round,1,Middlesbrough,70,Huddersfield,37,1.0
+2023,1st Round,1,Wrexham,1837,Wigan,61,1.0
+2023,1st Round,1,Wigan,61,Wrexham,1837,0.0
+2023,1st Round,1,Sunderland,746,Crewe,1363,0.0
+2023,1st Round,1,Crewe,1363,Sunderland,746,1.0
+2023,1st Round,1,Notts County,1376,Lincoln,1379,0.0
+2023,1st Round,1,Lincoln,1379,Notts County,1376,1.0
+2023,2nd Round,2,Tranmere,1381,Leicester,46,0.0
+2023,2nd Round,2,Leicester,46,Tranmere,1381,1.0
+2023,2nd Round,2,Salford City,1844,Leeds,63,1.0
+2023,2nd Round,2,Leeds,63,Salford City,1844,0.0
+2023,2nd Round,2,Harrogate Town,1842,Blackburn,67,0.0
+2023,2nd Round,2,Blackburn,67,Harrogate Town,1842,1.0
+2023,2nd Round,2,Stoke City,75,Rotherham,73,1.0
+2023,2nd Round,2,Rotherham,73,Stoke City,75,0.0
+2023,2nd Round,2,Wrexham,1837,Bradford,1343,0.0
+2023,2nd Round,2,Bradford,1343,Wrexham,1837,1.0
+2023,2nd Round,2,Doncaster,1354,Everton,45,0.0
+2023,2nd Round,2,Everton,45,Doncaster,1354,1.0
+2023,2nd Round,2,Bolton,68,Middlesbrough,70,0.0
+2023,2nd Round,2,Middlesbrough,70,Bolton,68,1.0
+2023,2nd Round,2,Port Vale,1351,Crewe,1363,1.0
+2023,2nd Round,2,Crewe,1363,Port Vale,1351,0.0
+2023,2nd Round,2,Nottingham Forest,65,Burnley,44,0.0
+2023,2nd Round,2,Burnley,44,Nottingham Forest,65,1.0
+2023,2nd Round,2,Sheffield Wednesday,74,Mansfield Town,1374,0.0
+2023,2nd Round,2,Mansfield Town,1374,Sheffield Wednesday,74,1.0
+2023,2nd Round,2,Wolves,39,Blackpool,1356,1.0
+2023,2nd Round,2,Blackpool,1356,Wolves,39,0.0
+2023,2nd Round,2,Sheffield Utd,62,Lincoln,1379,0.0
+2023,2nd Round,2,Lincoln,1379,Sheffield Utd,62,1.0
+2023,2nd Round,2,Plymouth,1357,Crystal Palace,52,0.0
+2023,2nd Round,2,Crystal Palace,52,Plymouth,1357,1.0
+2023,2nd Round,2,Reading,53,Ipswich,57,0.0
+2023,2nd Round,2,Ipswich,57,Reading,53,1.0
+2023,2nd Round,2,Portsmouth,1355,Peterborough,1350,0.0
+2023,2nd Round,2,Peterborough,1350,Portsmouth,1355,1.0
+2023,2nd Round,2,Luton,1359,Gillingham,1347,1.0
+2023,2nd Round,2,Gillingham,1347,Luton,1359,0.0
+2023,2nd Round,2,Swansea,76,Bournemouth,35,0.0
+2023,2nd Round,2,Bournemouth,35,Swansea,76,1.0
+2023,2nd Round,2,Fulham,36,Tottenham,47,1.0
+2023,2nd Round,2,Tottenham,47,Fulham,36,0.0
+2023,2nd Round,2,Exeter City,1364,Stevenage,1368,1.0
+2023,2nd Round,2,Stevenage,1368,Exeter City,1364,0.0
+2023,2nd Round,2,Wycombe,1358,Sutton Utd,1835,0.0
+2023,2nd Round,2,Sutton Utd,1835,Wycombe,1358,1.0
+2023,2nd Round,2,Birmingham,54,Cardiff,43,0.0
+2023,2nd Round,2,Cardiff,43,Birmingham,54,1.0
+2023,2nd Round,2,Newport County,1367,Brentford,55,0.0
+2023,2nd Round,2,Brentford,55,Newport County,1367,1.0
+2023,2nd Round,2,Chelsea,49,AFC Wimbledon,1333,1.0
+2023,2nd Round,2,AFC Wimbledon,1333,Chelsea,49,0.0
+2023,2nd Round,2,Bristol City,56,Norwich,71,0.0
+2023,2nd Round,2,Norwich,71,Bristol City,56,1.0
+2023,3rd Round,3,Ipswich,57,Wolves,39,1.0
+2023,3rd Round,3,Wolves,39,Ipswich,57,0.0
+2023,3rd Round,3,Exeter City,1364,Luton,1359,1.0
+2023,3rd Round,3,Luton,1359,Exeter City,1364,0.0
+2023,3rd Round,3,Aston Villa,66,Everton,45,0.0
+2023,3rd Round,3,Everton,45,Aston Villa,66,1.0
+2023,3rd Round,3,Manchester United,33,Crystal Palace,52,1.0
+2023,3rd Round,3,Crystal Palace,52,Manchester United,33,0.0
+2023,3rd Round,3,Port Vale,1351,Sutton Utd,1835,1.0
+2023,3rd Round,3,Sutton Utd,1835,Port Vale,1351,0.0
+2023,3rd Round,3,Bradford,1343,Middlesbrough,70,0.0
+2023,3rd Round,3,Middlesbrough,70,Bradford,1343,1.0
+2023,3rd Round,3,Bournemouth,35,Stoke City,75,1.0
+2023,3rd Round,3,Stoke City,75,Bournemouth,35,0.0
+2023,3rd Round,3,Lincoln,1379,West Ham,48,0.0
+2023,3rd Round,3,West Ham,48,Lincoln,1379,1.0
+2023,3rd Round,3,Brentford,55,Arsenal,42,0.0
+2023,3rd Round,3,Arsenal,42,Brentford,55,1.0
+2023,3rd Round,3,Chelsea,49,Brighton,51,1.0
+2023,3rd Round,3,Brighton,51,Chelsea,49,0.0
+2023,3rd Round,3,Salford City,1844,Burnley,44,0.0
+2023,3rd Round,3,Burnley,44,Salford City,1844,1.0
+2023,3rd Round,3,Fulham,36,Norwich,71,1.0
+2023,3rd Round,3,Norwich,71,Fulham,36,0.0
+2023,3rd Round,3,Blackburn,67,Cardiff,43,1.0
+2023,3rd Round,3,Cardiff,43,Blackburn,67,0.0
+2023,3rd Round,3,Liverpool,40,Leicester,46,1.0
+2023,3rd Round,3,Leicester,46,Liverpool,40,0.0
+2023,3rd Round,3,Newcastle,34,Manchester City,50,1.0
+2023,3rd Round,3,Manchester City,50,Newcastle,34,0.0
+2023,3rd Round,3,Mansfield Town,1374,Peterborough,1350,1.0
+2023,3rd Round,3,Peterborough,1350,Mansfield Town,1374,0.0
+2023,Round of 16,4,Mansfield Town,1374,Port Vale,1351,0.0
+2023,Round of 16,4,Port Vale,1351,Mansfield Town,1374,1.0
+2023,Round of 16,4,Ipswich,57,Fulham,36,0.0
+2023,Round of 16,4,Fulham,36,Ipswich,57,1.0
+2023,Round of 16,4,Manchester United,33,Newcastle,34,0.0
+2023,Round of 16,4,Newcastle,34,Manchester United,33,1.0
+2023,Round of 16,4,Bournemouth,35,Liverpool,40,0.0
+2023,Round of 16,4,Liverpool,40,Bournemouth,35,1.0
+2023,Round of 16,4,Chelsea,49,Blackburn,67,1.0
+2023,Round of 16,4,Blackburn,67,Chelsea,49,0.0
+2023,Round of 16,4,West Ham,48,Arsenal,42,1.0
+2023,Round of 16,4,Arsenal,42,West Ham,48,0.0
+2023,Round of 16,4,Everton,45,Burnley,44,1.0
+2023,Round of 16,4,Burnley,44,Everton,45,0.0
+2023,Round of 16,4,Exeter City,1364,Middlesbrough,70,0.0
+2023,Round of 16,4,Middlesbrough,70,Exeter City,1364,1.0
+2023,Quarter-finals,5,Everton,45,Fulham,36,0.0
+2023,Quarter-finals,5,Fulham,36,Everton,45,1.0
+2023,Quarter-finals,5,Chelsea,49,Newcastle,34,1.0
+2023,Quarter-finals,5,Newcastle,34,Chelsea,49,0.0
+2023,Quarter-finals,5,Port Vale,1351,Middlesbrough,70,0.0
+2023,Quarter-finals,5,Middlesbrough,70,Port Vale,1351,1.0
+2023,Quarter-finals,5,Liverpool,40,West Ham,48,1.0
+2023,Quarter-finals,5,West Ham,48,Liverpool,40,0.0
+2023,Semi-finals,6,Middlesbrough,70,Chelsea,49,1.0
+2023,Semi-finals,6,Chelsea,49,Middlesbrough,70,0.0
+2023,Semi-finals,6,Chelsea,49,Middlesbrough,70,1.0
+2023,Semi-finals,6,Middlesbrough,70,Chelsea,49,0.0
+2023,Semi-finals,6,Liverpool,40,Fulham,36,1.0
+2023,Semi-finals,6,Fulham,36,Liverpool,40,0.0
+2023,Semi-finals,6,Fulham,36,Liverpool,40,
+2023,Semi-finals,6,Liverpool,40,Fulham,36,
+2023,Final,7,Chelsea,49,Liverpool,40,0.0
+2023,Final,7,Liverpool,40,Chelsea,49,1.0

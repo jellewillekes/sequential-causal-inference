@@ -1,0 +1,929 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "80",
+        "season": "2021"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 80,
+                "name": "3. Liga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/80.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2021,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 179,
+                                "name": "FC Magdeburg",
+                                "logo": "https://media.api-sports.io/football/teams/179.png"
+                            },
+                            "points": 78,
+                            "goalsDiff": 44,
+                            "group": "3. Liga",
+                            "form": "WWLWW",
+                            "status": "same",
+                            "description": "Promotion - 2. Bundesliga",
+                            "all": {
+                                "played": 36,
+                                "win": 24,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 83,
+                                    "against": 39
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 13,
+                                "draw": 4,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 10
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 11,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 744,
+                                "name": "Eintracht Braunschweig",
+                                "logo": "https://media.api-sports.io/football/teams/744.png"
+                            },
+                            "points": 64,
+                            "goalsDiff": 25,
+                            "group": "3. Liga",
+                            "form": "LLWWW",
+                            "status": "same",
+                            "description": "Promotion - 2. Bundesliga",
+                            "all": {
+                                "played": 36,
+                                "win": 18,
+                                "draw": 10,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 36
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 10,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 15
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 745,
+                                "name": "FC Kaiserslautern",
+                                "logo": "https://media.api-sports.io/football/teams/745.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 29,
+                            "group": "3. Liga",
+                            "form": "LLLWW",
+                            "status": "same",
+                            "description": "Promotion - 2. Bundesliga (Promotion)",
+                            "all": {
+                                "played": 36,
+                                "win": 18,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 27
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 12,
+                                "draw": 4,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 786,
+                                "name": "TSV 1860 Munich",
+                                "logo": "https://media.api-sports.io/football/teams/786.png"
+                            },
+                            "points": 61,
+                            "goalsDiff": 17,
+                            "group": "3. Liga",
+                            "form": "WLWWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 17,
+                                "draw": 10,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 67,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 28
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 4268,
+                                "name": "Waldhof Mannheim",
+                                "logo": "https://media.api-sports.io/football/teams/4268.png"
+                            },
+                            "points": 60,
+                            "goalsDiff": 18,
+                            "group": "3. Liga",
+                            "form": "WDWWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 16,
+                                "draw": 12,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 58,
+                                    "against": 40
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 1324,
+                                "name": "VfL Osnabruck",
+                                "logo": "https://media.api-sports.io/football/teams/1324.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": 8,
+                            "group": "3. Liga",
+                            "form": "LWLLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 16,
+                                "draw": 10,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 1639,
+                                "name": "FC Saarbrucken",
+                                "logo": "https://media.api-sports.io/football/teams/1639.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": 6,
+                            "group": "3. Liga",
+                            "form": "DDLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 14,
+                                "draw": 11,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 1319,
+                                "name": "SV Wehen",
+                                "logo": "https://media.api-sports.io/football/teams/1319.png"
+                            },
+                            "points": 51,
+                            "goalsDiff": 5,
+                            "group": "3. Liga",
+                            "form": "DDLWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 14,
+                                "draw": 9,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 9367,
+                                "name": "Borussia Dortmund II",
+                                "logo": "https://media.api-sports.io/football/teams/9367.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": 3,
+                            "group": "3. Liga",
+                            "form": "LLWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 14,
+                                "draw": 7,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 10,
+                                "draw": 1,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 1315,
+                                "name": "FSV Zwickau",
+                                "logo": "https://media.api-sports.io/football/teams/1315.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": 2,
+                            "group": "3. Liga",
+                            "form": "WDLWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 11,
+                                "draw": 14,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 9363,
+                                "name": "Freiburg II",
+                                "logo": "https://media.api-sports.io/football/teams/9363.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -8,
+                            "group": "3. Liga",
+                            "form": "DLWLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 12,
+                                "draw": 11,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1318,
+                                "name": "SV Meppen",
+                                "logo": "https://media.api-sports.io/football/teams/1318.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -13,
+                            "group": "3. Liga",
+                            "form": "WWLDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 13,
+                                "draw": 8,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 7,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1620,
+                                "name": "FC Viktoria Koln",
+                                "logo": "https://media.api-sports.io/football/teams/1620.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": -13,
+                            "group": "3. Liga",
+                            "form": "WWDDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 12,
+                                "draw": 9,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 1316,
+                                "name": "Hallescher FC",
+                                "logo": "https://media.api-sports.io/football/teams/1316.png"
+                            },
+                            "points": 43,
+                            "goalsDiff": -2,
+                            "group": "3. Liga",
+                            "form": "DWDDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 10,
+                                "draw": 13,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 3,
+                                "draw": 6,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 187,
+                                "name": "MSV Duisburg",
+                                "logo": "https://media.api-sports.io/football/teams/187.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": -25,
+                            "group": "3. Liga",
+                            "form": "DWLLW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 13,
+                                "draw": 3,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 71
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 37
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 6,
+                                "draw": 1,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 4265,
+                                "name": "Verl",
+                                "logo": "https://media.api-sports.io/football/teams/4265.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -10,
+                            "group": "3. Liga",
+                            "form": "DWWWL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 36,
+                                "win": 10,
+                                "draw": 10,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 33
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 4266,
+                                "name": "Viktoria Berlin",
+                                "logo": "https://media.api-sports.io/football/teams/4266.png"
+                            },
+                            "points": 37,
+                            "goalsDiff": -18,
+                            "group": "3. Liga",
+                            "form": "LWLLW",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 36,
+                                "win": 10,
+                                "draw": 7,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 62
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 784,
+                                "name": "FC Wurzburger Kickers",
+                                "logo": "https://media.api-sports.io/football/teams/784.png"
+                            },
+                            "points": 30,
+                            "goalsDiff": -25,
+                            "group": "3. Liga",
+                            "form": "LLWWL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 36,
+                                "win": 7,
+                                "draw": 9,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 59
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 32
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 9342,
+                                "name": "Havelse",
+                                "logo": "https://media.api-sports.io/football/teams/9342.png"
+                            },
+                            "points": 23,
+                            "goalsDiff": -43,
+                            "group": "3. Liga",
+                            "form": "LLLWD",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 36,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 23,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 71
+                                }
+                            },
+                            "home": {
+                                "played": 18,
+                                "win": 4,
+                                "draw": 1,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 34
+                                }
+                            },
+                            "away": {
+                                "played": 18,
+                                "win": 1,
+                                "draw": 7,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 9335,
+                                "name": "T\u00fcrkg\u00fcc\u00fc-Ataspor",
+                                "logo": "https://media.api-sports.io/football/teams/9335.png"
+                            },
+                            "points": 0,
+                            "goalsDiff": 0,
+                            "group": "3. Liga",
+                            "form": null,
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 0,
+                                "win": 0,
+                                "draw": 0,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 0,
+                                    "against": 0
+                                }
+                            },
+                            "home": {
+                                "played": 0,
+                                "win": 0,
+                                "draw": 0,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 0,
+                                    "against": 0
+                                }
+                            },
+                            "away": {
+                                "played": 0,
+                                "win": 0,
+                                "draw": 0,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 0,
+                                    "against": 0
+                                }
+                            },
+                            "update": "2022-05-14T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
