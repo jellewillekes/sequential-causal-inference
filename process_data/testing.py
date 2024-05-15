@@ -119,15 +119,15 @@ def perform_2SLS_analysis(stages_df):
 
 # Main execution flow
 if __name__ == "__main__":
-    country = 'Netherlands'
-    cup = 'KNVB_Beker'
+    country = 'Germany'
+    cup = 'DFB_Pokal'
     fixtures_df = load_csv_data(country, f'{cup}_fixtures.csv')
     standings_df = load_csv_data(country, 'league_standings.csv')
     stages_df = preprocess_data(fixtures_df, standings_df)
     # Assuming 'Rank_diff' and 'const' are the main features used in your model
     check_multicollinearity(stages_df, ['Rank_diff', 'const', 'Rank', 'RankOpponent'])
-    # results = perform_2SLS_analysis(stages_df)
-    # for key, value in results.items():
-    #     print(f"Results for {key}:")
-    #     print(value)
-    #     print("\n---\n")
+    results = perform_2SLS_analysis(stages_df)
+    for key, value in results.items():
+        print(f"Results for {key}:")
+        print(value)
+        print("\n---\n")
