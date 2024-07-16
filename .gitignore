@@ -1,5 +1,7 @@
-.idea
-
+# Ignore the .idea directory
+.idea/
+.idea/*
+*.idea
 
 
 # Byte-compiled / optimized / DLL files
