@@ -220,7 +220,7 @@ def plot_avg_rank_by_stage_and_outcome(df, stage, country_plots_dir):
 
 if __name__ == "__main__":
     country = 'Germany'
-    cup = 'DFB_Pokal'
+    cup = 'DFP_Pokal'
     fixtures_df = load_csv_data(country, f'{cup}_fixtures.csv')
     standings_df = load_csv_data(country, 'league_standings.csv')
     stages_df = preprocess_data(fixtures_df, standings_df)

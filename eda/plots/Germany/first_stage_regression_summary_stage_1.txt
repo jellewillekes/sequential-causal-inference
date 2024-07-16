@@ -3,8 +3,8 @@
 Dep. Variable:               Team_win   R-squared:                       0.383
 Model:                            OLS   Adj. R-squared:                  0.382
 Method:                 Least Squares   F-statistic:                     434.9
-Date:                Sat, 22 Jun 2024   Prob (F-statistic):           1.54e-75
-Time:                        20:05:18   Log-Likelihood:                -341.23
+Date:                Mon, 15 Jul 2024   Prob (F-statistic):           1.54e-75
+Time:                        22:09:48   Log-Likelihood:                -341.23
 No. Observations:                 704   AIC:                             686.5
 Df Residuals:                     702   BIC:                             695.6
 Df Model:                           1                                         

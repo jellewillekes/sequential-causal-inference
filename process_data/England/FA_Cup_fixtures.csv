@@ -1,78 +1,78 @@
 Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
-2011,Quarter-finals,5.0,Everton,45,Sunderland,746,
-2011,Quarter-finals,5.0,Sunderland,746,Everton,45,
-2011,Quarter-finals,5.0,Chelsea,49,Leicester,46,1.0
-2011,Quarter-finals,5.0,Leicester,46,Chelsea,49,0.0
-2011,Quarter-finals,5.0,Liverpool,40,Stoke City,75,1.0
-2011,Quarter-finals,5.0,Stoke City,75,Liverpool,40,0.0
-2011,Quarter-finals,5.0,Tottenham,47,Bolton,68,1.0
-2011,Quarter-finals,5.0,Bolton,68,Tottenham,47,0.0
+2011,Quarter-finals,8.0,Everton,45,Sunderland,746,
+2011,Quarter-finals,8.0,Sunderland,746,Everton,45,
+2011,Quarter-finals,8.0,Chelsea,49,Leicester,46,1.0
+2011,Quarter-finals,8.0,Leicester,46,Chelsea,49,0.0
+2011,Quarter-finals,8.0,Liverpool,40,Stoke City,75,1.0
+2011,Quarter-finals,8.0,Stoke City,75,Liverpool,40,0.0
+2011,Quarter-finals,8.0,Tottenham,47,Bolton,68,1.0
+2011,Quarter-finals,8.0,Bolton,68,Tottenham,47,0.0
 2011,Quarter-finals Replays,,Sunderland,746,Everton,45,0.0
 2011,Quarter-finals Replays,,Everton,45,Sunderland,746,1.0
-2011,Semi-finals,6.0,Liverpool,40,Everton,45,1.0
-2011,Semi-finals,6.0,Everton,45,Liverpool,40,0.0
-2011,Semi-finals,6.0,Tottenham,47,Chelsea,49,0.0
-2011,Semi-finals,6.0,Chelsea,49,Tottenham,47,1.0
-2011,Final,7.0,Chelsea,49,Liverpool,40,1.0
-2011,Final,7.0,Liverpool,40,Chelsea,49,0.0
-2011,5th Round Replays,,Birmingham,54,Chelsea,49,0.0
-2011,5th Round Replays,,Chelsea,49,Birmingham,54,1.0
-2011,5th Round Replays,,Tottenham,47,Stevenage,1368,1.0
-2011,5th Round Replays,,Stevenage,1368,Tottenham,47,0.0
-2011,5th Round,,Chelsea,49,Birmingham,54,
-2011,5th Round,,Birmingham,54,Chelsea,49,
-2011,5th Round,,Everton,45,Blackpool,1356,1.0
-2011,5th Round,,Blackpool,1356,Everton,45,0.0
-2011,5th Round,,Norwich,71,Leicester,46,0.0
-2011,5th Round,,Leicester,46,Norwich,71,1.0
-2011,5th Round,,Millwall,58,Bolton,68,0.0
-2011,5th Round,,Bolton,68,Millwall,58,1.0
-2011,5th Round,,Sunderland,746,Arsenal,42,1.0
-2011,5th Round,,Arsenal,42,Sunderland,746,0.0
-2011,5th Round,,Crawley Town,1362,Stoke City,75,0.0
-2011,5th Round,,Stoke City,75,Crawley Town,1362,1.0
-2011,5th Round,,Stevenage,1368,Tottenham,47,
-2011,5th Round,,Tottenham,47,Stevenage,1368,
-2011,5th Round,,Liverpool,40,Brighton,51,1.0
-2011,5th Round,,Brighton,51,Liverpool,40,0.0
-2011,4th Round Replays,,Sheffield Wednesday,74,Blackpool,1356,0.0
-2011,4th Round Replays,,Blackpool,1356,Sheffield Wednesday,74,1.0
-2011,4th Round Replays,,Southampton,41,Millwall,58,0.0
-2011,4th Round Replays,,Millwall,58,Southampton,41,1.0
-2011,4th Round Replays,,Middlesbrough,70,Sunderland,746,0.0
-2011,4th Round Replays,,Sunderland,746,Middlesbrough,70,1.0
-2011,4th Round,,Watford,38,Tottenham,47,0.0
-2011,4th Round,,Tottenham,47,Watford,38,1.0
-2011,4th Round,,Everton,45,Fulham,36,1.0
-2011,4th Round,,Fulham,36,Everton,45,0.0
-2011,4th Round,,QPR,72,Chelsea,49,0.0
-2011,4th Round,,Chelsea,49,QPR,72,1.0
-2011,4th Round,,Liverpool,40,Manchester United,33,1.0
-2011,4th Round,,Manchester United,33,Liverpool,40,0.0
-2011,4th Round,,Blackpool,1356,Sheffield Wednesday,74,
-2011,4th Round,,Sheffield Wednesday,74,Blackpool,1356,
-2011,4th Round,,Derby,69,Stoke City,75,0.0
-2011,4th Round,,Stoke City,75,Derby,69,1.0
-2011,4th Round,,Bolton,68,Swansea,76,1.0
-2011,4th Round,,Swansea,76,Bolton,68,0.0
-2011,4th Round,,Leicester,46,Swindon Town,1353,1.0
-2011,4th Round,,Swindon Town,1353,Leicester,46,0.0
-2011,4th Round,,Sheffield Utd,62,Birmingham,54,0.0
-2011,4th Round,,Birmingham,54,Sheffield Utd,62,1.0
-2011,4th Round,,Hull City,64,Crawley Town,1362,0.0
-2011,4th Round,,Crawley Town,1362,Hull City,64,1.0
-2011,4th Round,,West Brom,60,Norwich,71,0.0
-2011,4th Round,,Norwich,71,West Brom,60,1.0
-2011,4th Round,,Millwall,58,Southampton,41,
-2011,4th Round,,Southampton,41,Millwall,58,
-2011,4th Round,,Stevenage,1368,Notts County,1376,1.0
-2011,4th Round,,Notts County,1376,Stevenage,1368,0.0
-2011,4th Round,,Brighton,51,Newcastle,34,1.0
-2011,4th Round,,Newcastle,34,Brighton,51,0.0
-2011,4th Round,,Sunderland,746,Middlesbrough,70,
-2011,4th Round,,Middlesbrough,70,Sunderland,746,
-2011,4th Round,,Arsenal,42,Aston Villa,66,1.0
-2011,4th Round,,Aston Villa,66,Arsenal,42,0.0
+2011,Semi-finals,9.0,Liverpool,40,Everton,45,1.0
+2011,Semi-finals,9.0,Everton,45,Liverpool,40,0.0
+2011,Semi-finals,9.0,Tottenham,47,Chelsea,49,0.0
+2011,Semi-finals,9.0,Chelsea,49,Tottenham,47,1.0
+2011,Final,10.0,Chelsea,49,Liverpool,40,1.0
+2011,Final,10.0,Liverpool,40,Chelsea,49,0.0
+2011,5th Round Replays,5.0,Birmingham,54,Chelsea,49,0.0
+2011,5th Round Replays,5.0,Chelsea,49,Birmingham,54,1.0
+2011,5th Round Replays,5.0,Tottenham,47,Stevenage,1368,1.0
+2011,5th Round Replays,5.0,Stevenage,1368,Tottenham,47,0.0
+2011,5th Round,5.0,Chelsea,49,Birmingham,54,
+2011,5th Round,5.0,Birmingham,54,Chelsea,49,
+2011,5th Round,5.0,Everton,45,Blackpool,1356,1.0
+2011,5th Round,5.0,Blackpool,1356,Everton,45,0.0
+2011,5th Round,5.0,Norwich,71,Leicester,46,0.0
+2011,5th Round,5.0,Leicester,46,Norwich,71,1.0
+2011,5th Round,5.0,Millwall,58,Bolton,68,0.0
+2011,5th Round,5.0,Bolton,68,Millwall,58,1.0
+2011,5th Round,5.0,Sunderland,746,Arsenal,42,1.0
+2011,5th Round,5.0,Arsenal,42,Sunderland,746,0.0
+2011,5th Round,5.0,Crawley Town,1362,Stoke City,75,0.0
+2011,5th Round,5.0,Stoke City,75,Crawley Town,1362,1.0
+2011,5th Round,5.0,Stevenage,1368,Tottenham,47,
+2011,5th Round,5.0,Tottenham,47,Stevenage,1368,
+2011,5th Round,5.0,Liverpool,40,Brighton,51,1.0
+2011,5th Round,5.0,Brighton,51,Liverpool,40,0.0
+2011,4th Round Replays,4.0,Sheffield Wednesday,74,Blackpool,1356,0.0
+2011,4th Round Replays,4.0,Blackpool,1356,Sheffield Wednesday,74,1.0
+2011,4th Round Replays,4.0,Southampton,41,Millwall,58,0.0
+2011,4th Round Replays,4.0,Millwall,58,Southampton,41,1.0
+2011,4th Round Replays,4.0,Middlesbrough,70,Sunderland,746,0.0
+2011,4th Round Replays,4.0,Sunderland,746,Middlesbrough,70,1.0
+2011,4th Round,4.0,Watford,38,Tottenham,47,0.0
+2011,4th Round,4.0,Tottenham,47,Watford,38,1.0
+2011,4th Round,4.0,Everton,45,Fulham,36,1.0
+2011,4th Round,4.0,Fulham,36,Everton,45,0.0
+2011,4th Round,4.0,QPR,72,Chelsea,49,0.0
+2011,4th Round,4.0,Chelsea,49,QPR,72,1.0
+2011,4th Round,4.0,Liverpool,40,Manchester United,33,1.0
+2011,4th Round,4.0,Manchester United,33,Liverpool,40,0.0
+2011,4th Round,4.0,Blackpool,1356,Sheffield Wednesday,74,
+2011,4th Round,4.0,Sheffield Wednesday,74,Blackpool,1356,
+2011,4th Round,4.0,Derby,69,Stoke City,75,0.0
+2011,4th Round,4.0,Stoke City,75,Derby,69,1.0
+2011,4th Round,4.0,Bolton,68,Swansea,76,1.0
+2011,4th Round,4.0,Swansea,76,Bolton,68,0.0
+2011,4th Round,4.0,Leicester,46,Swindon Town,1353,1.0
+2011,4th Round,4.0,Swindon Town,1353,Leicester,46,0.0
+2011,4th Round,4.0,Sheffield Utd,62,Birmingham,54,0.0
+2011,4th Round,4.0,Birmingham,54,Sheffield Utd,62,1.0
+2011,4th Round,4.0,Hull City,64,Crawley Town,1362,0.0
+2011,4th Round,4.0,Crawley Town,1362,Hull City,64,1.0
+2011,4th Round,4.0,West Brom,60,Norwich,71,0.0
+2011,4th Round,4.0,Norwich,71,West Brom,60,1.0
+2011,4th Round,4.0,Millwall,58,Southampton,41,
+2011,4th Round,4.0,Southampton,41,Millwall,58,
+2011,4th Round,4.0,Stevenage,1368,Notts County,1376,1.0
+2011,4th Round,4.0,Notts County,1376,Stevenage,1368,0.0
+2011,4th Round,4.0,Brighton,51,Newcastle,34,1.0
+2011,4th Round,4.0,Newcastle,34,Brighton,51,0.0
+2011,4th Round,4.0,Sunderland,746,Middlesbrough,70,
+2011,4th Round,4.0,Middlesbrough,70,Sunderland,746,
+2011,4th Round,4.0,Arsenal,42,Aston Villa,66,1.0
+2011,4th Round,4.0,Aston Villa,66,Arsenal,42,0.0
 2011,3rd Round Replays,,Leicester,46,Nottingham Forest,65,1.0
 2011,3rd Round Replays,,Nottingham Forest,65,Leicester,46,0.0
 2011,3rd Round Replays,,Millwall,58,Dagenham & Redbridge,1821,1.0
@@ -85,16 +85,16 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2011,3rd Round Replays,,Brighton,51,Wrexham,1837,1.0
 2011,3rd Round Replays,,Wolves,39,Birmingham,54,0.0
 2011,3rd Round Replays,,Birmingham,54,Wolves,39,1.0
-2011,2nd Round Replays,,Yeovil Town,1377,Fleetwood Town,1336,0.0
-2011,2nd Round Replays,,Fleetwood Town,1336,Yeovil Town,1377,1.0
-2011,2nd Round Replays,,Grimsby,1365,Salisbury City,12109,0.0
-2011,2nd Round Replays,,Salisbury City,12109,Grimsby,1365,1.0
-2011,2nd Round Replays,,Walsall,1342,Dagenham & Redbridge,1821,0.0
-2011,2nd Round Replays,,Dagenham & Redbridge,1821,Walsall,1342,1.0
-2011,2nd Round Replays,,Oldham,1349,Southend,1341,1.0
-2011,2nd Round Replays,,Southend,1341,Oldham,1349,0.0
-2011,2nd Round Replays,,Macclesfield,1380,Chelmsford City,4689,1.0
-2011,2nd Round Replays,,Chelmsford City,4689,Macclesfield,1380,0.0
+2011,2nd Round Replays,2.0,Yeovil Town,1377,Fleetwood Town,1336,0.0
+2011,2nd Round Replays,2.0,Fleetwood Town,1336,Yeovil Town,1377,1.0
+2011,2nd Round Replays,2.0,Grimsby,1365,Salisbury City,12109,0.0
+2011,2nd Round Replays,2.0,Salisbury City,12109,Grimsby,1365,1.0
+2011,2nd Round Replays,2.0,Walsall,1342,Dagenham & Redbridge,1821,0.0
+2011,2nd Round Replays,2.0,Dagenham & Redbridge,1821,Walsall,1342,1.0
+2011,2nd Round Replays,2.0,Oldham,1349,Southend,1341,1.0
+2011,2nd Round Replays,2.0,Southend,1341,Oldham,1349,0.0
+2011,2nd Round Replays,2.0,Macclesfield,1380,Chelmsford City,4689,1.0
+2011,2nd Round Replays,2.0,Chelmsford City,4689,Macclesfield,1380,0.0
 2011,2nd Round,2.0,Fleetwood Town,1336,Yeovil Town,1377,
 2011,2nd Round,2.0,Yeovil Town,1377,Fleetwood Town,1336,
 2011,2nd Round,2.0,Stourbridge,4710,Stevenage,1368,0.0
@@ -135,28 +135,28 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2011,2nd Round,2.0,Bristol Rovers,1334,AFC Totton,7612,1.0
 2011,2nd Round,2.0,Sutton Utd,1835,Notts County,1376,0.0
 2011,2nd Round,2.0,Notts County,1376,Sutton Utd,1835,1.0
-2011,1st Round Replays,,Stourbridge,4710,Plymouth,1357,1.0
-2011,1st Round Replays,,Plymouth,1357,Stourbridge,4710,0.0
-2011,1st Round Replays,,Oxford City,4684,Redbridge,8908,0.0
-2011,1st Round Replays,,Redbridge,8908,Oxford City,4684,1.0
-2011,1st Round Replays,,Southend,1341,Preston,59,1.0
-2011,1st Round Replays,,Preston,59,Southend,1341,0.0
-2011,1st Round Replays,,Tamworth,7752,Hinckley United,12099,1.0
-2011,1st Round Replays,,Hinckley United,12099,Tamworth,7752,0.0
-2011,1st Round Replays,,Grimsby,1365,Port Vale,1351,1.0
-2011,1st Round Replays,,Port Vale,1351,Grimsby,1365,0.0
-2011,1st Round Replays,,Gillingham,1347,Bournemouth,35,1.0
-2011,1st Round Replays,,Bournemouth,35,Gillingham,1347,0.0
-2011,1st Round Replays,,Scunthorpe,1340,AFC Wimbledon,1333,0.0
-2011,1st Round Replays,,AFC Wimbledon,1333,Scunthorpe,1340,1.0
-2011,1st Round Replays,,Aldershot Town,1818,Maidenhead,1838,1.0
-2011,1st Round Replays,,Maidenhead,1838,Aldershot Town,1818,0.0
-2011,1st Round Replays,,Wrexham,1837,Cambridge United,1370,1.0
-2011,1st Round Replays,,Cambridge United,1370,Wrexham,1837,0.0
-2011,1st Round Replays,,Bath City,8657,Dagenham & Redbridge,1821,0.0
-2011,1st Round Replays,,Dagenham & Redbridge,1821,Bath City,8657,1.0
-2011,1st Round Replays,,Walsall,1342,Exeter City,1364,1.0
-2011,1st Round Replays,,Exeter City,1364,Walsall,1342,0.0
+2011,1st Round Replays,1.0,Stourbridge,4710,Plymouth,1357,1.0
+2011,1st Round Replays,1.0,Plymouth,1357,Stourbridge,4710,0.0
+2011,1st Round Replays,1.0,Oxford City,4684,Redbridge,8908,0.0
+2011,1st Round Replays,1.0,Redbridge,8908,Oxford City,4684,1.0
+2011,1st Round Replays,1.0,Southend,1341,Preston,59,1.0
+2011,1st Round Replays,1.0,Preston,59,Southend,1341,0.0
+2011,1st Round Replays,1.0,Tamworth,7752,Hinckley United,12099,1.0
+2011,1st Round Replays,1.0,Hinckley United,12099,Tamworth,7752,0.0
+2011,1st Round Replays,1.0,Grimsby,1365,Port Vale,1351,1.0
+2011,1st Round Replays,1.0,Port Vale,1351,Grimsby,1365,0.0
+2011,1st Round Replays,1.0,Gillingham,1347,Bournemouth,35,1.0
+2011,1st Round Replays,1.0,Bournemouth,35,Gillingham,1347,0.0
+2011,1st Round Replays,1.0,Scunthorpe,1340,AFC Wimbledon,1333,0.0
+2011,1st Round Replays,1.0,AFC Wimbledon,1333,Scunthorpe,1340,1.0
+2011,1st Round Replays,1.0,Aldershot Town,1818,Maidenhead,1838,1.0
+2011,1st Round Replays,1.0,Maidenhead,1838,Aldershot Town,1818,0.0
+2011,1st Round Replays,1.0,Wrexham,1837,Cambridge United,1370,1.0
+2011,1st Round Replays,1.0,Cambridge United,1370,Wrexham,1837,0.0
+2011,1st Round Replays,1.0,Bath City,8657,Dagenham & Redbridge,1821,0.0
+2011,1st Round Replays,1.0,Dagenham & Redbridge,1821,Bath City,8657,1.0
+2011,1st Round Replays,1.0,Walsall,1342,Exeter City,1364,1.0
+2011,1st Round Replays,1.0,Exeter City,1364,Walsall,1342,0.0
 2011,1st Round,1.0,Cambridge United,1370,Wrexham,1837,
 2011,1st Round,1.0,Wrexham,1837,Cambridge United,1370,
 2011,1st Round,1.0,Newport County,1367,Shrewsbury,1352,0.0
@@ -875,78 +875,78 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2011,1st Round Qualifying,,Woodley Sports,12161,United of Manchester,7754,
 2011,1st Round Qualifying,,Tadcaster Albion,7674,Scarborough,12160,1.0
 2011,1st Round Qualifying,,Scarborough,12160,Tadcaster Albion,7674,0.0
-2012,Semi-finals,6.0,Millwall,58,Wigan,61,0.0
-2012,Semi-finals,6.0,Wigan,61,Millwall,58,1.0
-2012,Semi-finals,6.0,Chelsea,49,Manchester City,50,0.0
-2012,Semi-finals,6.0,Manchester City,50,Chelsea,49,1.0
-2012,Final,7.0,Manchester City,50,Wigan,61,0.0
-2012,Final,7.0,Wigan,61,Manchester City,50,1.0
+2012,Semi-finals,9.0,Millwall,58,Wigan,61,0.0
+2012,Semi-finals,9.0,Wigan,61,Millwall,58,1.0
+2012,Semi-finals,9.0,Chelsea,49,Manchester City,50,0.0
+2012,Semi-finals,9.0,Manchester City,50,Chelsea,49,1.0
+2012,Final,10.0,Manchester City,50,Wigan,61,0.0
+2012,Final,10.0,Wigan,61,Manchester City,50,1.0
 2012,6th Round Replays,,Blackburn,67,Millwall,58,0.0
 2012,6th Round Replays,,Millwall,58,Blackburn,67,1.0
 2012,6th Round Replays,,Chelsea,49,Manchester United,33,1.0
 2012,6th Round Replays,,Manchester United,33,Chelsea,49,0.0
-2012,6th Round,,Everton,45,Wigan,61,0.0
-2012,6th Round,,Wigan,61,Everton,45,1.0
-2012,6th Round,,Manchester City,50,Barnsley,747,1.0
-2012,6th Round,,Barnsley,747,Manchester City,50,0.0
-2012,6th Round,,Millwall,58,Blackburn,67,
-2012,6th Round,,Blackburn,67,Millwall,58,
-2012,6th Round,,Manchester United,33,Chelsea,49,
-2012,6th Round,,Chelsea,49,Manchester United,33,
-2012,5th Round Replays,,Everton,45,Oldham,1349,1.0
-2012,5th Round Replays,,Oldham,1349,Everton,45,0.0
-2012,5th Round,,Luton,1359,Millwall,58,0.0
-2012,5th Round,,Millwall,58,Luton,1359,1.0
-2012,5th Round,,Milton Keynes Dons,1348,Barnsley,747,0.0
-2012,5th Round,,Barnsley,747,Milton Keynes Dons,1348,1.0
-2012,5th Round,,Arsenal,42,Blackburn,67,0.0
-2012,5th Round,,Blackburn,67,Arsenal,42,1.0
-2012,5th Round,,Oldham,1349,Everton,45,
-2012,5th Round,,Everton,45,Oldham,1349,
-2012,5th Round,,Manchester City,50,Leeds,63,1.0
-2012,5th Round,,Leeds,63,Manchester City,50,0.0
-2012,5th Round,,Huddersfield,37,Wigan,61,0.0
-2012,5th Round,,Wigan,61,Huddersfield,37,1.0
-2012,5th Round,,Manchester United,33,Reading,53,1.0
-2012,5th Round,,Reading,53,Manchester United,33,0.0
-2012,5th Round,,Middlesbrough,70,Chelsea,49,0.0
-2012,5th Round,,Chelsea,49,Middlesbrough,70,1.0
-2012,4th Round Replays,,Leicester,46,Huddersfield,37,0.0
-2012,4th Round Replays,,Huddersfield,37,Leicester,46,1.0
-2012,4th Round Replays,,Chelsea,49,Brentford,55,1.0
-2012,4th Round Replays,,Brentford,55,Chelsea,49,0.0
-2012,4th Round,,Millwall,58,Aston Villa,66,1.0
-2012,4th Round,,Aston Villa,66,Millwall,58,0.0
-2012,4th Round,,Stoke City,75,Manchester City,50,0.0
-2012,4th Round,,Manchester City,50,Stoke City,75,1.0
-2012,4th Round,,Norwich,71,Luton,1359,0.0
-2012,4th Round,,Luton,1359,Norwich,71,1.0
-2012,4th Round,,Macclesfield,1380,Wigan,61,0.0
-2012,4th Round,,Wigan,61,Macclesfield,1380,1.0
-2012,4th Round,,Derby,69,Blackburn,67,0.0
-2012,4th Round,,Blackburn,67,Derby,69,1.0
-2012,4th Round,,Hull City,64,Barnsley,747,0.0
-2012,4th Round,,Barnsley,747,Hull City,64,1.0
-2012,4th Round,,Middlesbrough,70,Aldershot Town,1818,1.0
-2012,4th Round,,Aldershot Town,1818,Middlesbrough,70,0.0
-2012,4th Round,,Reading,53,Sheffield Utd,62,1.0
-2012,4th Round,,Sheffield Utd,62,Reading,53,0.0
-2012,4th Round,,Huddersfield,37,Leicester,46,
-2012,4th Round,,Leicester,46,Huddersfield,37,
-2012,4th Round,,QPR,72,Milton Keynes Dons,1348,0.0
-2012,4th Round,,Milton Keynes Dons,1348,QPR,72,1.0
-2012,4th Round,,Bolton,68,Everton,45,0.0
-2012,4th Round,,Everton,45,Bolton,68,1.0
-2012,4th Round,,Brighton,51,Arsenal,42,0.0
-2012,4th Round,,Arsenal,42,Brighton,51,1.0
-2012,4th Round,,Manchester United,33,Fulham,36,1.0
-2012,4th Round,,Fulham,36,Manchester United,33,0.0
-2012,4th Round,,Brentford,55,Chelsea,49,
-2012,4th Round,,Chelsea,49,Brentford,55,
-2012,4th Round,,Leeds,63,Tottenham,47,1.0
-2012,4th Round,,Tottenham,47,Leeds,63,0.0
-2012,4th Round,,Oldham,1349,Liverpool,40,1.0
-2012,4th Round,,Liverpool,40,Oldham,1349,0.0
+2012,6th Round,6.0,Everton,45,Wigan,61,0.0
+2012,6th Round,6.0,Wigan,61,Everton,45,1.0
+2012,6th Round,6.0,Manchester City,50,Barnsley,747,1.0
+2012,6th Round,6.0,Barnsley,747,Manchester City,50,0.0
+2012,6th Round,6.0,Millwall,58,Blackburn,67,
+2012,6th Round,6.0,Blackburn,67,Millwall,58,
+2012,6th Round,6.0,Manchester United,33,Chelsea,49,
+2012,6th Round,6.0,Chelsea,49,Manchester United,33,
+2012,5th Round Replays,5.0,Everton,45,Oldham,1349,1.0
+2012,5th Round Replays,5.0,Oldham,1349,Everton,45,0.0
+2012,5th Round,5.0,Luton,1359,Millwall,58,0.0
+2012,5th Round,5.0,Millwall,58,Luton,1359,1.0
+2012,5th Round,5.0,Milton Keynes Dons,1348,Barnsley,747,0.0
+2012,5th Round,5.0,Barnsley,747,Milton Keynes Dons,1348,1.0
+2012,5th Round,5.0,Arsenal,42,Blackburn,67,0.0
+2012,5th Round,5.0,Blackburn,67,Arsenal,42,1.0
+2012,5th Round,5.0,Oldham,1349,Everton,45,
+2012,5th Round,5.0,Everton,45,Oldham,1349,
+2012,5th Round,5.0,Manchester City,50,Leeds,63,1.0
+2012,5th Round,5.0,Leeds,63,Manchester City,50,0.0
+2012,5th Round,5.0,Huddersfield,37,Wigan,61,0.0
+2012,5th Round,5.0,Wigan,61,Huddersfield,37,1.0
+2012,5th Round,5.0,Manchester United,33,Reading,53,1.0
+2012,5th Round,5.0,Reading,53,Manchester United,33,0.0
+2012,5th Round,5.0,Middlesbrough,70,Chelsea,49,0.0
+2012,5th Round,5.0,Chelsea,49,Middlesbrough,70,1.0
+2012,4th Round Replays,4.0,Leicester,46,Huddersfield,37,0.0
+2012,4th Round Replays,4.0,Huddersfield,37,Leicester,46,1.0
+2012,4th Round Replays,4.0,Chelsea,49,Brentford,55,1.0
+2012,4th Round Replays,4.0,Brentford,55,Chelsea,49,0.0
+2012,4th Round,4.0,Millwall,58,Aston Villa,66,1.0
+2012,4th Round,4.0,Aston Villa,66,Millwall,58,0.0
+2012,4th Round,4.0,Stoke City,75,Manchester City,50,0.0
+2012,4th Round,4.0,Manchester City,50,Stoke City,75,1.0
+2012,4th Round,4.0,Norwich,71,Luton,1359,0.0
+2012,4th Round,4.0,Luton,1359,Norwich,71,1.0
+2012,4th Round,4.0,Macclesfield,1380,Wigan,61,0.0
+2012,4th Round,4.0,Wigan,61,Macclesfield,1380,1.0
+2012,4th Round,4.0,Derby,69,Blackburn,67,0.0
+2012,4th Round,4.0,Blackburn,67,Derby,69,1.0
+2012,4th Round,4.0,Hull City,64,Barnsley,747,0.0
+2012,4th Round,4.0,Barnsley,747,Hull City,64,1.0
+2012,4th Round,4.0,Middlesbrough,70,Aldershot Town,1818,1.0
+2012,4th Round,4.0,Aldershot Town,1818,Middlesbrough,70,0.0
+2012,4th Round,4.0,Reading,53,Sheffield Utd,62,1.0
+2012,4th Round,4.0,Sheffield Utd,62,Reading,53,0.0
+2012,4th Round,4.0,Huddersfield,37,Leicester,46,
+2012,4th Round,4.0,Leicester,46,Huddersfield,37,
+2012,4th Round,4.0,QPR,72,Milton Keynes Dons,1348,0.0
+2012,4th Round,4.0,Milton Keynes Dons,1348,QPR,72,1.0
+2012,4th Round,4.0,Bolton,68,Everton,45,0.0
+2012,4th Round,4.0,Everton,45,Bolton,68,1.0
+2012,4th Round,4.0,Brighton,51,Arsenal,42,0.0
+2012,4th Round,4.0,Arsenal,42,Brighton,51,1.0
+2012,4th Round,4.0,Manchester United,33,Fulham,36,1.0
+2012,4th Round,4.0,Fulham,36,Manchester United,33,0.0
+2012,4th Round,4.0,Brentford,55,Chelsea,49,
+2012,4th Round,4.0,Chelsea,49,Brentford,55,
+2012,4th Round,4.0,Leeds,63,Tottenham,47,1.0
+2012,4th Round,4.0,Tottenham,47,Leeds,63,0.0
+2012,4th Round,4.0,Oldham,1349,Liverpool,40,1.0
+2012,4th Round,4.0,Liverpool,40,Oldham,1349,0.0
 2012,3rd Round Replays,,Birmingham,54,Leeds,63,0.0
 2012,3rd Round Replays,,Leeds,63,Birmingham,54,1.0
 2012,3rd Round Replays,,Bournemouth,35,Wigan,61,0.0
@@ -1033,22 +1033,22 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2012,3rd Round,3.0,Liverpool,40,Mansfield Town,1374,1.0
 2012,3rd Round,3.0,Cheltenham,1372,Everton,45,0.0
 2012,3rd Round,3.0,Everton,45,Cheltenham,1372,1.0
-2012,2nd Round Replays,,Southend,1341,Bury,1344,1.0
-2012,2nd Round Replays,,Bury,1344,Southend,1341,0.0
-2012,2nd Round Replays,,Hereford United,11932,Cheltenham,1372,0.0
-2012,2nd Round Replays,,Cheltenham,1372,Hereford United,11932,1.0
-2012,2nd Round Replays,,Mansfield Town,1374,Lincoln,1379,1.0
-2012,2nd Round Replays,,Lincoln,1379,Mansfield Town,1374,0.0
-2012,2nd Round Replays,,Hastings United,7231,Harrogate Town,1842,1.0
-2012,2nd Round Replays,,Harrogate Town,1842,Hastings United,7231,0.0
-2012,2nd Round Replays,,Notts County,1376,Rotherham,73,0.0
-2012,2nd Round Replays,,Rotherham,73,Notts County,1376,1.0
-2012,2nd Round Replays,,Oxford United,1338,Accrington ST,1360,1.0
-2012,2nd Round Replays,,Accrington ST,1360,Oxford United,1338,0.0
-2012,2nd Round Replays,,Brentford,55,Bradford,1343,1.0
-2012,2nd Round Replays,,Bradford,1343,Brentford,55,0.0
-2012,2nd Round Replays,,Macclesfield,1380,Barrow,1819,1.0
-2012,2nd Round Replays,,Barrow,1819,Macclesfield,1380,0.0
+2012,2nd Round Replays,2.0,Southend,1341,Bury,1344,1.0
+2012,2nd Round Replays,2.0,Bury,1344,Southend,1341,0.0
+2012,2nd Round Replays,2.0,Hereford United,11932,Cheltenham,1372,0.0
+2012,2nd Round Replays,2.0,Cheltenham,1372,Hereford United,11932,1.0
+2012,2nd Round Replays,2.0,Mansfield Town,1374,Lincoln,1379,1.0
+2012,2nd Round Replays,2.0,Lincoln,1379,Mansfield Town,1374,0.0
+2012,2nd Round Replays,2.0,Hastings United,7231,Harrogate Town,1842,1.0
+2012,2nd Round Replays,2.0,Harrogate Town,1842,Hastings United,7231,0.0
+2012,2nd Round Replays,2.0,Notts County,1376,Rotherham,73,0.0
+2012,2nd Round Replays,2.0,Rotherham,73,Notts County,1376,1.0
+2012,2nd Round Replays,2.0,Oxford United,1338,Accrington ST,1360,1.0
+2012,2nd Round Replays,2.0,Accrington ST,1360,Oxford United,1338,0.0
+2012,2nd Round Replays,2.0,Brentford,55,Bradford,1343,1.0
+2012,2nd Round Replays,2.0,Bradford,1343,Brentford,55,0.0
+2012,2nd Round Replays,2.0,Macclesfield,1380,Barrow,1819,1.0
+2012,2nd Round Replays,2.0,Barrow,1819,Macclesfield,1380,0.0
 2012,2nd Round,2.0,Bradford,1343,Brentford,55,
 2012,2nd Round,2.0,Brentford,55,Bradford,1343,
 2012,2nd Round,2.0,Lincoln,1379,Mansfield Town,1374,
@@ -1089,24 +1089,24 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2012,2nd Round,2.0,Hereford United,11932,Cheltenham,1372,
 2012,2nd Round,2.0,Barrow,1819,Macclesfield,1380,
 2012,2nd Round,2.0,Macclesfield,1380,Barrow,1819,
-2012,1st Round Replays,,AFC Wimbledon,1333,York,1828,1.0
-2012,1st Round Replays,,York,1828,AFC Wimbledon,1333,0.0
-2012,1st Round Replays,,Milton Keynes Dons,1348,Cambridge City,7218,1.0
-2012,1st Round Replays,,Cambridge City,7218,Milton Keynes Dons,1348,0.0
-2012,1st Round Replays,,Rochdale,1339,Morecambe,1375,0.0
-2012,1st Round Replays,,Morecambe,1375,Rochdale,1339,1.0
-2012,1st Round Replays,,Walsall,1342,Lincoln,1379,0.0
-2012,1st Round Replays,,Lincoln,1379,Walsall,1342,1.0
-2012,1st Round Replays,,Slough Town,4685,Mansfield Town,1374,0.0
-2012,1st Round Replays,,Mansfield Town,1374,Slough Town,4685,1.0
-2012,1st Round Replays,,Barrow,1819,Guiseley AFC,1824,1.0
-2012,1st Round Replays,,Guiseley AFC,1824,Barrow,1819,0.0
-2012,1st Round Replays,,Nuneaton Town,10159,Luton,1359,0.0
-2012,1st Round Replays,,Luton,1359,Nuneaton Town,10159,1.0
-2012,1st Round Replays,,Bradford,1343,Northampton,1337,1.0
-2012,1st Round Replays,,Northampton,1337,Bradford,1343,0.0
-2012,1st Round Replays,,Altrincham,4700,Burton Albion,748,0.0
-2012,1st Round Replays,,Burton Albion,748,Altrincham,4700,1.0
+2012,1st Round Replays,1.0,AFC Wimbledon,1333,York,1828,1.0
+2012,1st Round Replays,1.0,York,1828,AFC Wimbledon,1333,0.0
+2012,1st Round Replays,1.0,Milton Keynes Dons,1348,Cambridge City,7218,1.0
+2012,1st Round Replays,1.0,Cambridge City,7218,Milton Keynes Dons,1348,0.0
+2012,1st Round Replays,1.0,Rochdale,1339,Morecambe,1375,0.0
+2012,1st Round Replays,1.0,Morecambe,1375,Rochdale,1339,1.0
+2012,1st Round Replays,1.0,Walsall,1342,Lincoln,1379,0.0
+2012,1st Round Replays,1.0,Lincoln,1379,Walsall,1342,1.0
+2012,1st Round Replays,1.0,Slough Town,4685,Mansfield Town,1374,0.0
+2012,1st Round Replays,1.0,Mansfield Town,1374,Slough Town,4685,1.0
+2012,1st Round Replays,1.0,Barrow,1819,Guiseley AFC,1824,1.0
+2012,1st Round Replays,1.0,Guiseley AFC,1824,Barrow,1819,0.0
+2012,1st Round Replays,1.0,Nuneaton Town,10159,Luton,1359,0.0
+2012,1st Round Replays,1.0,Luton,1359,Nuneaton Town,10159,1.0
+2012,1st Round Replays,1.0,Bradford,1343,Northampton,1337,1.0
+2012,1st Round Replays,1.0,Northampton,1337,Bradford,1343,0.0
+2012,1st Round Replays,1.0,Altrincham,4700,Burton Albion,748,0.0
+2012,1st Round Replays,1.0,Burton Albion,748,Altrincham,4700,1.0
 2012,1st Round,1.0,Cambridge City,7218,Milton Keynes Dons,1348,
 2012,1st Round,1.0,Milton Keynes Dons,1348,Cambridge City,7218,
 2012,1st Round,1.0,Hereford United,11932,Shrewsbury,1352,1.0
@@ -2711,74 +2711,74 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2012,Extra Preliminary Round,,Whitchurch United,12042,GE Hamble,12141,0.0
 2012,Extra Preliminary Round,,Christchurch,8741,Cowes Sports,8756,1.0
 2012,Extra Preliminary Round,,Cowes Sports,8756,Christchurch,8741,0.0
-2013,Semi-finals,6.0,Wigan,61,Arsenal,42,0.0
-2013,Semi-finals,6.0,Arsenal,42,Wigan,61,1.0
-2013,Semi-finals,6.0,Hull City,64,Sheffield Utd,62,1.0
-2013,Semi-finals,6.0,Sheffield Utd,62,Hull City,64,0.0
-2013,Final,7.0,Arsenal,42,Hull City,64,1.0
-2013,Final,7.0,Hull City,64,Arsenal,42,0.0
-2013,6th Round,,Arsenal,42,Everton,45,1.0
-2013,6th Round,,Everton,45,Arsenal,42,0.0
-2013,6th Round,,Sheffield Utd,62,Charlton,1335,1.0
-2013,6th Round,,Charlton,1335,Sheffield Utd,62,0.0
-2013,6th Round,,Hull City,64,Sunderland,746,1.0
-2013,6th Round,,Sunderland,746,Hull City,64,0.0
-2013,6th Round,,Manchester City,50,Wigan,61,0.0
-2013,6th Round,,Wigan,61,Manchester City,50,1.0
-2013,5th Round Replays,,Hull City,64,Brighton,51,1.0
-2013,5th Round Replays,,Brighton,51,Hull City,64,0.0
-2013,5th Round,,Sunderland,746,Southampton,41,1.0
-2013,5th Round,,Southampton,41,Sunderland,746,0.0
-2013,5th Round,,Cardiff,43,Wigan,61,0.0
-2013,5th Round,,Wigan,61,Cardiff,43,1.0
-2013,5th Round,,Manchester City,50,Chelsea,49,1.0
-2013,5th Round,,Chelsea,49,Manchester City,50,0.0
-2013,5th Round,,Everton,45,Swansea,76,1.0
-2013,5th Round,,Swansea,76,Everton,45,0.0
-2013,5th Round,,Sheffield Utd,62,Nottingham Forest,65,1.0
-2013,5th Round,,Nottingham Forest,65,Sheffield Utd,62,0.0
-2013,5th Round,,Arsenal,42,Liverpool,40,1.0
-2013,5th Round,,Liverpool,40,Arsenal,42,0.0
-2013,5th Round,,Brighton,51,Hull City,64,
-2013,5th Round,,Hull City,64,Brighton,51,
-2013,5th Round,,Sheffield Wednesday,74,Charlton,1335,0.0
-2013,5th Round,,Charlton,1335,Sheffield Wednesday,74,1.0
-2013,4th Round Replays,,Fulham,36,Sheffield Utd,62,0.0
-2013,4th Round Replays,,Sheffield Utd,62,Fulham,36,1.0
-2013,4th Round Replays,,Preston,59,Nottingham Forest,65,0.0
-2013,4th Round Replays,,Nottingham Forest,65,Preston,59,1.0
-2013,4th Round,,Arsenal,42,Coventry,1346,1.0
-2013,4th Round,,Coventry,1346,Arsenal,42,0.0
-2013,4th Round,,Nottingham Forest,65,Preston,59,
-2013,4th Round,,Preston,59,Nottingham Forest,65,
-2013,4th Round,,Bournemouth,35,Liverpool,40,0.0
-2013,4th Round,,Liverpool,40,Bournemouth,35,1.0
-2013,4th Round,,Sunderland,746,Kidderminster Harriers,4695,1.0
-2013,4th Round,,Kidderminster Harriers,4695,Sunderland,746,0.0
-2013,4th Round,,Bolton,68,Cardiff,43,0.0
-2013,4th Round,,Cardiff,43,Bolton,68,1.0
-2013,4th Round,,Southampton,41,Yeovil Town,1377,1.0
-2013,4th Round,,Yeovil Town,1377,Southampton,41,0.0
-2013,4th Round,,Huddersfield,37,Charlton,1335,0.0
-2013,4th Round,,Charlton,1335,Huddersfield,37,1.0
-2013,4th Round,,Port Vale,1351,Brighton,51,0.0
-2013,4th Round,,Brighton,51,Port Vale,1351,1.0
-2013,4th Round,,Southend,1341,Hull City,64,0.0
-2013,4th Round,,Hull City,64,Southend,1341,1.0
-2013,4th Round,,Rochdale,1339,Sheffield Wednesday,74,0.0
-2013,4th Round,,Sheffield Wednesday,74,Rochdale,1339,1.0
-2013,4th Round,,Wigan,61,Crystal Palace,52,1.0
-2013,4th Round,,Crystal Palace,52,Wigan,61,0.0
-2013,4th Round,,Manchester City,50,Watford,38,1.0
-2013,4th Round,,Watford,38,Manchester City,50,0.0
-2013,4th Round,,Birmingham,54,Swansea,76,0.0
-2013,4th Round,,Swansea,76,Birmingham,54,1.0
-2013,4th Round,,Stevenage,1368,Everton,45,0.0
-2013,4th Round,,Everton,45,Stevenage,1368,1.0
-2013,4th Round,,Sheffield Utd,62,Fulham,36,
-2013,4th Round,,Fulham,36,Sheffield Utd,62,
-2013,4th Round,,Chelsea,49,Stoke City,75,1.0
-2013,4th Round,,Stoke City,75,Chelsea,49,0.0
+2013,Semi-finals,9.0,Wigan,61,Arsenal,42,0.0
+2013,Semi-finals,9.0,Arsenal,42,Wigan,61,1.0
+2013,Semi-finals,9.0,Hull City,64,Sheffield Utd,62,1.0
+2013,Semi-finals,9.0,Sheffield Utd,62,Hull City,64,0.0
+2013,Final,10.0,Arsenal,42,Hull City,64,1.0
+2013,Final,10.0,Hull City,64,Arsenal,42,0.0
+2013,6th Round,6.0,Arsenal,42,Everton,45,1.0
+2013,6th Round,6.0,Everton,45,Arsenal,42,0.0
+2013,6th Round,6.0,Sheffield Utd,62,Charlton,1335,1.0
+2013,6th Round,6.0,Charlton,1335,Sheffield Utd,62,0.0
+2013,6th Round,6.0,Hull City,64,Sunderland,746,1.0
+2013,6th Round,6.0,Sunderland,746,Hull City,64,0.0
+2013,6th Round,6.0,Manchester City,50,Wigan,61,0.0
+2013,6th Round,6.0,Wigan,61,Manchester City,50,1.0
+2013,5th Round Replays,5.0,Hull City,64,Brighton,51,1.0
+2013,5th Round Replays,5.0,Brighton,51,Hull City,64,0.0
+2013,5th Round,5.0,Sunderland,746,Southampton,41,1.0
+2013,5th Round,5.0,Southampton,41,Sunderland,746,0.0
+2013,5th Round,5.0,Cardiff,43,Wigan,61,0.0
+2013,5th Round,5.0,Wigan,61,Cardiff,43,1.0
+2013,5th Round,5.0,Manchester City,50,Chelsea,49,1.0
+2013,5th Round,5.0,Chelsea,49,Manchester City,50,0.0
+2013,5th Round,5.0,Everton,45,Swansea,76,1.0
+2013,5th Round,5.0,Swansea,76,Everton,45,0.0
+2013,5th Round,5.0,Sheffield Utd,62,Nottingham Forest,65,1.0
+2013,5th Round,5.0,Nottingham Forest,65,Sheffield Utd,62,0.0
+2013,5th Round,5.0,Arsenal,42,Liverpool,40,1.0
+2013,5th Round,5.0,Liverpool,40,Arsenal,42,0.0
+2013,5th Round,5.0,Brighton,51,Hull City,64,
+2013,5th Round,5.0,Hull City,64,Brighton,51,
+2013,5th Round,5.0,Sheffield Wednesday,74,Charlton,1335,0.0
+2013,5th Round,5.0,Charlton,1335,Sheffield Wednesday,74,1.0
+2013,4th Round Replays,4.0,Fulham,36,Sheffield Utd,62,0.0
+2013,4th Round Replays,4.0,Sheffield Utd,62,Fulham,36,1.0
+2013,4th Round Replays,4.0,Preston,59,Nottingham Forest,65,0.0
+2013,4th Round Replays,4.0,Nottingham Forest,65,Preston,59,1.0
+2013,4th Round,4.0,Arsenal,42,Coventry,1346,1.0
+2013,4th Round,4.0,Coventry,1346,Arsenal,42,0.0
+2013,4th Round,4.0,Nottingham Forest,65,Preston,59,
+2013,4th Round,4.0,Preston,59,Nottingham Forest,65,
+2013,4th Round,4.0,Bournemouth,35,Liverpool,40,0.0
+2013,4th Round,4.0,Liverpool,40,Bournemouth,35,1.0
+2013,4th Round,4.0,Sunderland,746,Kidderminster Harriers,4695,1.0
+2013,4th Round,4.0,Kidderminster Harriers,4695,Sunderland,746,0.0
+2013,4th Round,4.0,Bolton,68,Cardiff,43,0.0
+2013,4th Round,4.0,Cardiff,43,Bolton,68,1.0
+2013,4th Round,4.0,Southampton,41,Yeovil Town,1377,1.0
+2013,4th Round,4.0,Yeovil Town,1377,Southampton,41,0.0
+2013,4th Round,4.0,Huddersfield,37,Charlton,1335,0.0
+2013,4th Round,4.0,Charlton,1335,Huddersfield,37,1.0
+2013,4th Round,4.0,Port Vale,1351,Brighton,51,0.0
+2013,4th Round,4.0,Brighton,51,Port Vale,1351,1.0
+2013,4th Round,4.0,Southend,1341,Hull City,64,0.0
+2013,4th Round,4.0,Hull City,64,Southend,1341,1.0
+2013,4th Round,4.0,Rochdale,1339,Sheffield Wednesday,74,0.0
+2013,4th Round,4.0,Sheffield Wednesday,74,Rochdale,1339,1.0
+2013,4th Round,4.0,Wigan,61,Crystal Palace,52,1.0
+2013,4th Round,4.0,Crystal Palace,52,Wigan,61,0.0
+2013,4th Round,4.0,Manchester City,50,Watford,38,1.0
+2013,4th Round,4.0,Watford,38,Manchester City,50,0.0
+2013,4th Round,4.0,Birmingham,54,Swansea,76,0.0
+2013,4th Round,4.0,Swansea,76,Birmingham,54,1.0
+2013,4th Round,4.0,Stevenage,1368,Everton,45,0.0
+2013,4th Round,4.0,Everton,45,Stevenage,1368,1.0
+2013,4th Round,4.0,Sheffield Utd,62,Fulham,36,
+2013,4th Round,4.0,Fulham,36,Sheffield Utd,62,
+2013,4th Round,4.0,Chelsea,49,Stoke City,75,1.0
+2013,4th Round,4.0,Stoke City,75,Chelsea,49,0.0
 2013,3rd Round,3.0,Blackburn,67,Manchester City,50,
 2013,3rd Round,3.0,Manchester City,50,Blackburn,67,
 2013,3rd Round,3.0,Barnsley,747,Coventry,1346,0.0
@@ -2861,14 +2861,14 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2013,3rd Round Replays,,Blackburn,67,Manchester City,50,0.0
 2013,3rd Round Replays,,Oxford United,1338,Charlton,1335,0.0
 2013,3rd Round Replays,,Charlton,1335,Oxford United,1338,1.0
-2013,2nd Round Replays,,Mansfield Town,1374,Oldham,1349,0.0
-2013,2nd Round Replays,,Oldham,1349,Mansfield Town,1374,1.0
-2013,2nd Round Replays,,Coventry,1346,Hartlepool,1366,1.0
-2013,2nd Round Replays,,Hartlepool,1366,Coventry,1346,0.0
-2013,2nd Round Replays,,Burton Albion,748,Fleetwood Town,1336,1.0
-2013,2nd Round Replays,,Fleetwood Town,1336,Burton Albion,748,0.0
-2013,2nd Round Replays,,Crawley Town,1362,Bristol Rovers,1334,0.0
-2013,2nd Round Replays,,Bristol Rovers,1334,Crawley Town,1362,1.0
+2013,2nd Round Replays,2.0,Mansfield Town,1374,Oldham,1349,0.0
+2013,2nd Round Replays,2.0,Oldham,1349,Mansfield Town,1374,1.0
+2013,2nd Round Replays,2.0,Coventry,1346,Hartlepool,1366,1.0
+2013,2nd Round Replays,2.0,Hartlepool,1366,Coventry,1346,0.0
+2013,2nd Round Replays,2.0,Burton Albion,748,Fleetwood Town,1336,1.0
+2013,2nd Round Replays,2.0,Fleetwood Town,1336,Burton Albion,748,0.0
+2013,2nd Round Replays,2.0,Crawley Town,1362,Bristol Rovers,1334,0.0
+2013,2nd Round Replays,2.0,Bristol Rovers,1334,Crawley Town,1362,1.0
 2013,2nd Round,2.0,Port Vale,1351,Salisbury City,12109,1.0
 2013,2nd Round,2.0,Salisbury City,12109,Port Vale,1351,0.0
 2013,2nd Round,2.0,Wycombe,1358,Preston,59,0.0
@@ -2909,26 +2909,26 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2013,2nd Round,2.0,Bristol City,56,Tamworth,7752,1.0
 2013,2nd Round,2.0,Wrexham,1837,Oxford United,1338,0.0
 2013,2nd Round,2.0,Oxford United,1338,Wrexham,1837,1.0
-2013,1st Round Replays,,Brackley Town,4701,Gillingham,1347,1.0
-2013,1st Round Replays,,Gillingham,1347,Brackley Town,4701,0.0
-2013,1st Round Replays,,Carlisle,1371,Boreham Wood,1830,1.0
-2013,1st Round Replays,,Boreham Wood,1830,Carlisle,1371,0.0
-2013,1st Round Replays,,York,1828,Bristol Rovers,1334,0.0
-2013,1st Round Replays,,Bristol Rovers,1334,York,1828,1.0
-2013,1st Round Replays,,Scunthorpe,1340,Grimsby,1365,0.0
-2013,1st Round Replays,,Grimsby,1365,Scunthorpe,1340,1.0
-2013,1st Round Replays,,Newport County,1367,Braintree,1831,1.0
-2013,1st Round Replays,,Braintree,1831,Newport County,1367,0.0
-2013,1st Round Replays,,Wolves,39,Oldham,1349,0.0
-2013,1st Round Replays,,Oldham,1349,Wolves,39,1.0
-2013,1st Round Replays,,Crewe,1363,Wycombe,1358,0.0
-2013,1st Round Replays,,Wycombe,1358,Crewe,1363,1.0
-2013,1st Round Replays,,Plymouth,1357,Lincoln,1379,1.0
-2013,1st Round Replays,,Lincoln,1379,Plymouth,1357,0.0
-2013,1st Round Replays,,Cambridge United,1370,Bury,1344,1.0
-2013,1st Round Replays,,Bury,1344,Cambridge United,1370,0.0
-2013,1st Round Replays,,Gateshead,1823,Oxford United,1338,0.0
-2013,1st Round Replays,,Oxford United,1338,Gateshead,1823,1.0
+2013,1st Round Replays,1.0,Brackley Town,4701,Gillingham,1347,1.0
+2013,1st Round Replays,1.0,Gillingham,1347,Brackley Town,4701,0.0
+2013,1st Round Replays,1.0,Carlisle,1371,Boreham Wood,1830,1.0
+2013,1st Round Replays,1.0,Boreham Wood,1830,Carlisle,1371,0.0
+2013,1st Round Replays,1.0,York,1828,Bristol Rovers,1334,0.0
+2013,1st Round Replays,1.0,Bristol Rovers,1334,York,1828,1.0
+2013,1st Round Replays,1.0,Scunthorpe,1340,Grimsby,1365,0.0
+2013,1st Round Replays,1.0,Grimsby,1365,Scunthorpe,1340,1.0
+2013,1st Round Replays,1.0,Newport County,1367,Braintree,1831,1.0
+2013,1st Round Replays,1.0,Braintree,1831,Newport County,1367,0.0
+2013,1st Round Replays,1.0,Wolves,39,Oldham,1349,0.0
+2013,1st Round Replays,1.0,Oldham,1349,Wolves,39,1.0
+2013,1st Round Replays,1.0,Crewe,1363,Wycombe,1358,0.0
+2013,1st Round Replays,1.0,Wycombe,1358,Crewe,1363,1.0
+2013,1st Round Replays,1.0,Plymouth,1357,Lincoln,1379,1.0
+2013,1st Round Replays,1.0,Lincoln,1379,Plymouth,1357,0.0
+2013,1st Round Replays,1.0,Cambridge United,1370,Bury,1344,1.0
+2013,1st Round Replays,1.0,Bury,1344,Cambridge United,1370,0.0
+2013,1st Round Replays,1.0,Gateshead,1823,Oxford United,1338,0.0
+2013,1st Round Replays,1.0,Oxford United,1338,Gateshead,1823,1.0
 2013,1st Round,1.0,Bristol Rovers,1334,York,1828,
 2013,1st Round,1.0,York,1828,Bristol Rovers,1334,
 2013,1st Round,1.0,AFC Wimbledon,1333,Coventry,1346,0.0
@@ -4479,80 +4479,80 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2013,Extra Preliminary Round,,Canterbury City,8735,Dorking Wanderers,8659,0.0
 2013,Extra Preliminary Round,,Littlehampton Town,11998,St Francis Rangers,12031,1.0
 2013,Extra Preliminary Round,,St Francis Rangers,12031,Littlehampton Town,11998,0.0
-2014,Semi-finals,6.0,Reading,53,Arsenal,42,0.0
-2014,Semi-finals,6.0,Arsenal,42,Reading,53,1.0
-2014,Semi-finals,6.0,Aston Villa,66,Liverpool,40,1.0
-2014,Semi-finals,6.0,Liverpool,40,Aston Villa,66,0.0
-2014,Final,7.0,Arsenal,42,Aston Villa,66,1.0
-2014,Final,7.0,Aston Villa,66,Arsenal,42,0.0
+2014,Semi-finals,9.0,Reading,53,Arsenal,42,0.0
+2014,Semi-finals,9.0,Arsenal,42,Reading,53,1.0
+2014,Semi-finals,9.0,Aston Villa,66,Liverpool,40,1.0
+2014,Semi-finals,9.0,Liverpool,40,Aston Villa,66,0.0
+2014,Final,10.0,Arsenal,42,Aston Villa,66,1.0
+2014,Final,10.0,Aston Villa,66,Arsenal,42,0.0
 2014,6th Round Replays,,Reading,53,Bradford,1343,1.0
 2014,6th Round Replays,,Bradford,1343,Reading,53,0.0
 2014,6th Round Replays,,Blackburn,67,Liverpool,40,0.0
 2014,6th Round Replays,,Liverpool,40,Blackburn,67,1.0
-2014,6th Round,,Bradford,1343,Reading,53,
-2014,6th Round,,Reading,53,Bradford,1343,
-2014,6th Round,,Aston Villa,66,West Brom,60,1.0
-2014,6th Round,,West Brom,60,Aston Villa,66,0.0
-2014,6th Round,,Liverpool,40,Blackburn,67,
-2014,6th Round,,Blackburn,67,Liverpool,40,
-2014,6th Round,,Manchester United,33,Arsenal,42,0.0
-2014,6th Round,,Arsenal,42,Manchester United,33,1.0
-2014,5th Round,,West Brom,60,West Ham,48,1.0
-2014,5th Round,,West Ham,48,West Brom,60,0.0
-2014,5th Round,,Blackburn,67,Stoke City,75,1.0
-2014,5th Round,,Stoke City,75,Blackburn,67,0.0
-2014,5th Round,,Derby,69,Reading,53,0.0
-2014,5th Round,,Reading,53,Derby,69,1.0
-2014,5th Round,,Crystal Palace,52,Liverpool,40,0.0
-2014,5th Round,,Liverpool,40,Crystal Palace,52,1.0
-2014,5th Round,,Aston Villa,66,Leicester,46,1.0
-2014,5th Round,,Leicester,46,Aston Villa,66,0.0
-2014,5th Round,,Bradford,1343,Sunderland,746,1.0
-2014,5th Round,,Sunderland,746,Bradford,1343,0.0
-2014,5th Round,,Arsenal,42,Middlesbrough,70,1.0
-2014,5th Round,,Middlesbrough,70,Arsenal,42,0.0
-2014,5th Round,,Preston,59,Manchester United,33,0.0
-2014,5th Round,,Manchester United,33,Preston,59,1.0
-2014,4th Round Replays,,Fulham,36,Sunderland,746,0.0
-2014,4th Round Replays,,Sunderland,746,Fulham,36,1.0
-2014,4th Round Replays,,Sheffield Utd,62,Preston,59,0.0
-2014,4th Round Replays,,Preston,59,Sheffield Utd,62,1.0
-2014,4th Round Replays,,Manchester United,33,Cambridge United,1370,1.0
-2014,4th Round Replays,,Cambridge United,1370,Manchester United,33,0.0
-2014,4th Round Replays,,Bolton,68,Liverpool,40,0.0
-2014,4th Round Replays,,Liverpool,40,Bolton,68,1.0
-2014,4th Round,,Cambridge United,1370,Manchester United,33,
-2014,4th Round,,Manchester United,33,Cambridge United,1370,
-2014,4th Round,,Blackburn,67,Swansea,76,1.0
-2014,4th Round,,Swansea,76,Blackburn,67,0.0
-2014,4th Round,,Southampton,41,Crystal Palace,52,0.0
-2014,4th Round,,Crystal Palace,52,Southampton,41,1.0
-2014,4th Round,,Chelsea,49,Bradford,1343,0.0
-2014,4th Round,,Bradford,1343,Chelsea,49,1.0
-2014,4th Round,,Derby,69,Chesterfield,1345,1.0
-2014,4th Round,,Chesterfield,1345,Derby,69,0.0
-2014,4th Round,,Preston,59,Sheffield Utd,62,
-2014,4th Round,,Sheffield Utd,62,Preston,59,
-2014,4th Round,,Birmingham,54,West Brom,60,0.0
-2014,4th Round,,West Brom,60,Birmingham,54,1.0
-2014,4th Round,,Cardiff,43,Reading,53,0.0
-2014,4th Round,,Reading,53,Cardiff,43,1.0
-2014,4th Round,,Sunderland,746,Fulham,36,
-2014,4th Round,,Fulham,36,Sunderland,746,
-2014,4th Round,,Manchester City,50,Middlesbrough,70,0.0
-2014,4th Round,,Middlesbrough,70,Manchester City,50,1.0
-2014,4th Round,,Tottenham,47,Leicester,46,0.0
-2014,4th Round,,Leicester,46,Tottenham,47,1.0
-2014,4th Round,,Liverpool,40,Bolton,68,
-2014,4th Round,,Bolton,68,Liverpool,40,
-2014,4th Round,,Bristol City,56,West Ham,48,0.0
-2014,4th Round,,West Ham,48,Bristol City,56,1.0
-2014,4th Round,,Aston Villa,66,Bournemouth,35,1.0
-2014,4th Round,,Bournemouth,35,Aston Villa,66,0.0
-2014,4th Round,,Brighton,51,Arsenal,42,0.0
-2014,4th Round,,Arsenal,42,Brighton,51,1.0
-2014,4th Round,,Rochdale,1339,Stoke City,75,0.0
-2014,4th Round,,Stoke City,75,Rochdale,1339,1.0
+2014,6th Round,6.0,Bradford,1343,Reading,53,
+2014,6th Round,6.0,Reading,53,Bradford,1343,
+2014,6th Round,6.0,Aston Villa,66,West Brom,60,1.0
+2014,6th Round,6.0,West Brom,60,Aston Villa,66,0.0
+2014,6th Round,6.0,Liverpool,40,Blackburn,67,
+2014,6th Round,6.0,Blackburn,67,Liverpool,40,
+2014,6th Round,6.0,Manchester United,33,Arsenal,42,0.0
+2014,6th Round,6.0,Arsenal,42,Manchester United,33,1.0
+2014,5th Round,5.0,West Brom,60,West Ham,48,1.0
+2014,5th Round,5.0,West Ham,48,West Brom,60,0.0
+2014,5th Round,5.0,Blackburn,67,Stoke City,75,1.0
+2014,5th Round,5.0,Stoke City,75,Blackburn,67,0.0
+2014,5th Round,5.0,Derby,69,Reading,53,0.0
+2014,5th Round,5.0,Reading,53,Derby,69,1.0
+2014,5th Round,5.0,Crystal Palace,52,Liverpool,40,0.0
+2014,5th Round,5.0,Liverpool,40,Crystal Palace,52,1.0
+2014,5th Round,5.0,Aston Villa,66,Leicester,46,1.0
+2014,5th Round,5.0,Leicester,46,Aston Villa,66,0.0
+2014,5th Round,5.0,Bradford,1343,Sunderland,746,1.0
+2014,5th Round,5.0,Sunderland,746,Bradford,1343,0.0
+2014,5th Round,5.0,Arsenal,42,Middlesbrough,70,1.0
+2014,5th Round,5.0,Middlesbrough,70,Arsenal,42,0.0
+2014,5th Round,5.0,Preston,59,Manchester United,33,0.0
+2014,5th Round,5.0,Manchester United,33,Preston,59,1.0
+2014,4th Round Replays,4.0,Fulham,36,Sunderland,746,0.0
+2014,4th Round Replays,4.0,Sunderland,746,Fulham,36,1.0
+2014,4th Round Replays,4.0,Sheffield Utd,62,Preston,59,0.0
+2014,4th Round Replays,4.0,Preston,59,Sheffield Utd,62,1.0
+2014,4th Round Replays,4.0,Manchester United,33,Cambridge United,1370,1.0
+2014,4th Round Replays,4.0,Cambridge United,1370,Manchester United,33,0.0
+2014,4th Round Replays,4.0,Bolton,68,Liverpool,40,0.0
+2014,4th Round Replays,4.0,Liverpool,40,Bolton,68,1.0
+2014,4th Round,4.0,Cambridge United,1370,Manchester United,33,
+2014,4th Round,4.0,Manchester United,33,Cambridge United,1370,
+2014,4th Round,4.0,Blackburn,67,Swansea,76,1.0
+2014,4th Round,4.0,Swansea,76,Blackburn,67,0.0
+2014,4th Round,4.0,Southampton,41,Crystal Palace,52,0.0
+2014,4th Round,4.0,Crystal Palace,52,Southampton,41,1.0
+2014,4th Round,4.0,Chelsea,49,Bradford,1343,0.0
+2014,4th Round,4.0,Bradford,1343,Chelsea,49,1.0
+2014,4th Round,4.0,Derby,69,Chesterfield,1345,1.0
+2014,4th Round,4.0,Chesterfield,1345,Derby,69,0.0
+2014,4th Round,4.0,Preston,59,Sheffield Utd,62,
+2014,4th Round,4.0,Sheffield Utd,62,Preston,59,
+2014,4th Round,4.0,Birmingham,54,West Brom,60,0.0
+2014,4th Round,4.0,West Brom,60,Birmingham,54,1.0
+2014,4th Round,4.0,Cardiff,43,Reading,53,0.0
+2014,4th Round,4.0,Reading,53,Cardiff,43,1.0
+2014,4th Round,4.0,Sunderland,746,Fulham,36,
+2014,4th Round,4.0,Fulham,36,Sunderland,746,
+2014,4th Round,4.0,Manchester City,50,Middlesbrough,70,0.0
+2014,4th Round,4.0,Middlesbrough,70,Manchester City,50,1.0
+2014,4th Round,4.0,Tottenham,47,Leicester,46,0.0
+2014,4th Round,4.0,Leicester,46,Tottenham,47,1.0
+2014,4th Round,4.0,Liverpool,40,Bolton,68,
+2014,4th Round,4.0,Bolton,68,Liverpool,40,
+2014,4th Round,4.0,Bristol City,56,West Ham,48,0.0
+2014,4th Round,4.0,West Ham,48,Bristol City,56,1.0
+2014,4th Round,4.0,Aston Villa,66,Bournemouth,35,1.0
+2014,4th Round,4.0,Bournemouth,35,Aston Villa,66,0.0
+2014,4th Round,4.0,Brighton,51,Arsenal,42,0.0
+2014,4th Round,4.0,Arsenal,42,Brighton,51,1.0
+2014,4th Round,4.0,Rochdale,1339,Stoke City,75,0.0
+2014,4th Round,4.0,Stoke City,75,Rochdale,1339,1.0
 2014,3rd Round Replays,,Wolves,39,Fulham,36,0.0
 2014,3rd Round Replays,,Fulham,36,Wolves,39,1.0
 2014,3rd Round Replays,,Bristol City,56,Doncaster,1354,1.0
@@ -4631,22 +4631,22 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2014,3rd Round,3.0,Chesterfield,1345,Scunthorpe,1340,
 2014,3rd Round,3.0,Everton,45,West Ham,48,
 2014,3rd Round,3.0,West Ham,48,Everton,45,
-2014,2nd Round Replays,,Tranmere,1381,Oxford United,1338,1.0
-2014,2nd Round Replays,,Oxford United,1338,Tranmere,1381,0.0
-2014,2nd Round Replays,,Luton,1359,Bury,1344,1.0
-2014,2nd Round Replays,,Bury,1344,Luton,1359,0.0
-2014,2nd Round Replays,,Yeovil Town,1377,Accrington ST,1360,1.0
-2014,2nd Round Replays,,Accrington ST,1360,Yeovil Town,1377,0.0
-2014,2nd Round Replays,,Chester,1820,Barnsley,747,0.0
-2014,2nd Round Replays,,Barnsley,747,Chester,1820,1.0
-2014,2nd Round Replays,,Mansfield Town,1374,Cambridge United,1370,0.0
-2014,2nd Round Replays,,Cambridge United,1370,Mansfield Town,1374,1.0
-2014,2nd Round Replays,,Rochdale,1339,Aldershot Town,1818,1.0
-2014,2nd Round Replays,,Aldershot Town,1818,Rochdale,1339,0.0
-2014,2nd Round Replays,,Worcester City,9010,Scunthorpe,1340,0.0
-2014,2nd Round Replays,,Scunthorpe,1340,Worcester City,9010,1.0
-2014,2nd Round Replays,,Milton Keynes Dons,1348,Chesterfield,1345,0.0
-2014,2nd Round Replays,,Chesterfield,1345,Milton Keynes Dons,1348,1.0
+2014,2nd Round Replays,2.0,Tranmere,1381,Oxford United,1338,1.0
+2014,2nd Round Replays,2.0,Oxford United,1338,Tranmere,1381,0.0
+2014,2nd Round Replays,2.0,Luton,1359,Bury,1344,1.0
+2014,2nd Round Replays,2.0,Bury,1344,Luton,1359,0.0
+2014,2nd Round Replays,2.0,Yeovil Town,1377,Accrington ST,1360,1.0
+2014,2nd Round Replays,2.0,Accrington ST,1360,Yeovil Town,1377,0.0
+2014,2nd Round Replays,2.0,Chester,1820,Barnsley,747,0.0
+2014,2nd Round Replays,2.0,Barnsley,747,Chester,1820,1.0
+2014,2nd Round Replays,2.0,Mansfield Town,1374,Cambridge United,1370,0.0
+2014,2nd Round Replays,2.0,Cambridge United,1370,Mansfield Town,1374,1.0
+2014,2nd Round Replays,2.0,Rochdale,1339,Aldershot Town,1818,1.0
+2014,2nd Round Replays,2.0,Aldershot Town,1818,Rochdale,1339,0.0
+2014,2nd Round Replays,2.0,Worcester City,9010,Scunthorpe,1340,0.0
+2014,2nd Round Replays,2.0,Scunthorpe,1340,Worcester City,9010,1.0
+2014,2nd Round Replays,2.0,Milton Keynes Dons,1348,Chesterfield,1345,0.0
+2014,2nd Round Replays,2.0,Chesterfield,1345,Milton Keynes Dons,1348,1.0
 2014,2nd Round,2.0,Hartlepool,1366,Blyth Spartans,8650,0.0
 2014,2nd Round,2.0,Blyth Spartans,8650,Hartlepool,1366,1.0
 2014,2nd Round,2.0,Oxford United,1338,Tranmere,1381,
@@ -4687,26 +4687,26 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2014,2nd Round,2.0,Dover,1829,Cheltenham,1372,1.0
 2014,2nd Round,2.0,Colchester,1361,Peterborough,1350,1.0
 2014,2nd Round,2.0,Peterborough,1350,Colchester,1361,0.0
-2014,1st Round Replays,,AFC Wimbledon,1333,York,1828,1.0
-2014,1st Round Replays,,York,1828,AFC Wimbledon,1333,0.0
-2014,1st Round Replays,,Shrewsbury,1352,Walsall,1342,1.0
-2014,1st Round Replays,,Walsall,1342,Shrewsbury,1352,0.0
-2014,1st Round Replays,,Accrington ST,1360,Notts County,1376,1.0
-2014,1st Round Replays,,Notts County,1376,Accrington ST,1360,0.0
-2014,1st Round Replays,,AFC Telford United,4688,Basingstoke Town,7615,1.0
-2014,1st Round Replays,,Basingstoke Town,7615,AFC Telford United,4688,0.0
-2014,1st Round Replays,,Southport,1826,Dagenham & Redbridge,1821,1.0
-2014,1st Round Replays,,Dagenham & Redbridge,1821,Southport,1826,0.0
-2014,1st Round Replays,,Sheffield Utd,62,Crewe,1363,1.0
-2014,1st Round Replays,,Crewe,1363,Sheffield Utd,62,0.0
-2014,1st Round Replays,,Rochdale,1339,Northampton,1337,1.0
-2014,1st Round Replays,,Northampton,1337,Rochdale,1339,0.0
-2014,1st Round Replays,,Aldershot Town,1818,Portsmouth,1355,1.0
-2014,1st Round Replays,,Portsmouth,1355,Aldershot Town,1818,0.0
-2014,1st Round Replays,,Maidstone Utd,1825,Stevenage,1368,1.0
-2014,1st Round Replays,,Stevenage,1368,Maidstone Utd,1825,0.0
-2014,1st Round Replays,,Concord Rangers,8658,Mansfield Town,1374,0.0
-2014,1st Round Replays,,Mansfield Town,1374,Concord Rangers,8658,1.0
+2014,1st Round Replays,1.0,AFC Wimbledon,1333,York,1828,1.0
+2014,1st Round Replays,1.0,York,1828,AFC Wimbledon,1333,0.0
+2014,1st Round Replays,1.0,Shrewsbury,1352,Walsall,1342,1.0
+2014,1st Round Replays,1.0,Walsall,1342,Shrewsbury,1352,0.0
+2014,1st Round Replays,1.0,Accrington ST,1360,Notts County,1376,1.0
+2014,1st Round Replays,1.0,Notts County,1376,Accrington ST,1360,0.0
+2014,1st Round Replays,1.0,AFC Telford United,4688,Basingstoke Town,7615,1.0
+2014,1st Round Replays,1.0,Basingstoke Town,7615,AFC Telford United,4688,0.0
+2014,1st Round Replays,1.0,Southport,1826,Dagenham & Redbridge,1821,1.0
+2014,1st Round Replays,1.0,Dagenham & Redbridge,1821,Southport,1826,0.0
+2014,1st Round Replays,1.0,Sheffield Utd,62,Crewe,1363,1.0
+2014,1st Round Replays,1.0,Crewe,1363,Sheffield Utd,62,0.0
+2014,1st Round Replays,1.0,Rochdale,1339,Northampton,1337,1.0
+2014,1st Round Replays,1.0,Northampton,1337,Rochdale,1339,0.0
+2014,1st Round Replays,1.0,Aldershot Town,1818,Portsmouth,1355,1.0
+2014,1st Round Replays,1.0,Portsmouth,1355,Aldershot Town,1818,0.0
+2014,1st Round Replays,1.0,Maidstone Utd,1825,Stevenage,1368,1.0
+2014,1st Round Replays,1.0,Stevenage,1368,Maidstone Utd,1825,0.0
+2014,1st Round Replays,1.0,Concord Rangers,8658,Mansfield Town,1374,0.0
+2014,1st Round Replays,1.0,Mansfield Town,1374,Concord Rangers,8658,1.0
 2014,1st Round,1.0,Warrington Town,7756,Exeter City,1364,1.0
 2014,1st Round,1.0,Exeter City,1364,Warrington Town,7756,0.0
 2014,1st Round,1.0,Yeovil Town,1377,Crawley Town,1362,1.0
@@ -6289,76 +6289,76 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2014,Extra Preliminary Round,,Littlehampton Town,11998,Epsom Athletic,12062,1.0
 2014,Extra Preliminary Round,,Hartley Wintney,7719,Frimley Green,8788,1.0
 2014,Extra Preliminary Round,,Frimley Green,8788,Hartley Wintney,7719,0.0
-2015,Semi-finals,6.0,Everton,45,Manchester United,33,0.0
-2015,Semi-finals,6.0,Manchester United,33,Everton,45,1.0
-2015,Semi-finals,6.0,Crystal Palace,52,Watford,38,1.0
-2015,Semi-finals,6.0,Watford,38,Crystal Palace,52,0.0
-2015,Final,7.0,Crystal Palace,52,Manchester United,33,0.0
-2015,Final,7.0,Manchester United,33,Crystal Palace,52,1.0
+2015,Semi-finals,9.0,Everton,45,Manchester United,33,0.0
+2015,Semi-finals,9.0,Manchester United,33,Everton,45,1.0
+2015,Semi-finals,9.0,Crystal Palace,52,Watford,38,1.0
+2015,Semi-finals,9.0,Watford,38,Crystal Palace,52,0.0
+2015,Final,10.0,Crystal Palace,52,Manchester United,33,0.0
+2015,Final,10.0,Manchester United,33,Crystal Palace,52,1.0
 2015,6th Round Replay,,West Ham,48,Manchester United,33,0.0
 2015,6th Round Replay,,Manchester United,33,West Ham,48,1.0
-2015,6th Round,,Reading,53,Crystal Palace,52,0.0
-2015,6th Round,,Crystal Palace,52,Reading,53,1.0
-2015,6th Round,,Everton,45,Chelsea,49,1.0
-2015,6th Round,,Chelsea,49,Everton,45,0.0
-2015,6th Round,,Arsenal,42,Watford,38,0.0
-2015,6th Round,,Watford,38,Arsenal,42,1.0
-2015,6th Round,,Manchester United,33,West Ham,48,
-2015,6th Round,,West Ham,48,Manchester United,33,
-2015,5th Round Replays,,Hull City,64,Arsenal,42,0.0
-2015,5th Round Replays,,Arsenal,42,Hull City,64,1.0
-2015,5th Round,,Arsenal,42,Hull City,64,
-2015,5th Round,,Hull City,64,Arsenal,42,
-2015,5th Round,,Reading,53,West Brom,60,1.0
-2015,5th Round,,West Brom,60,Reading,53,0.0
-2015,5th Round,,Watford,38,Leeds,63,1.0
-2015,5th Round,,Leeds,63,Watford,38,0.0
-2015,5th Round,,Bournemouth,35,Everton,45,0.0
-2015,5th Round,,Everton,45,Bournemouth,35,1.0
-2015,5th Round,,Blackburn,67,West Ham,48,0.0
-2015,5th Round,,West Ham,48,Blackburn,67,1.0
-2015,5th Round,,Tottenham,47,Crystal Palace,52,0.0
-2015,5th Round,,Crystal Palace,52,Tottenham,47,1.0
-2015,5th Round,,Chelsea,49,Manchester City,50,1.0
-2015,5th Round,,Manchester City,50,Chelsea,49,0.0
-2015,5th Round,,Shrewsbury,1352,Manchester United,33,0.0
-2015,5th Round,,Manchester United,33,Shrewsbury,1352,1.0
-2015,4th Round Replays,,West Ham,48,Liverpool,40,1.0
-2015,4th Round Replays,,Liverpool,40,West Ham,48,0.0
-2015,4th Round Replays,,Peterborough,1350,West Brom,60,0.0
-2015,4th Round Replays,,West Brom,60,Peterborough,1350,1.0
-2015,4th Round,,Derby,69,Manchester United,33,0.0
-2015,4th Round,,Manchester United,33,Derby,69,1.0
-2015,4th Round,,Colchester,1361,Tottenham,47,0.0
-2015,4th Round,,Tottenham,47,Colchester,1361,1.0
-2015,4th Round,,West Brom,60,Peterborough,1350,
-2015,4th Round,,Peterborough,1350,West Brom,60,
-2015,4th Round,,Bolton,68,Leeds,63,0.0
-2015,4th Round,,Leeds,63,Bolton,68,1.0
-2015,4th Round,,Arsenal,42,Burnley,44,1.0
-2015,4th Round,,Burnley,44,Arsenal,42,0.0
-2015,4th Round,,Reading,53,Walsall,1342,1.0
-2015,4th Round,,Walsall,1342,Reading,53,0.0
-2015,4th Round,,Shrewsbury,1352,Sheffield Wednesday,74,1.0
-2015,4th Round,,Sheffield Wednesday,74,Shrewsbury,1352,0.0
-2015,4th Round,,Nottingham Forest,65,Watford,38,0.0
-2015,4th Round,,Watford,38,Nottingham Forest,65,1.0
-2015,4th Round,,Crystal Palace,52,Stoke City,75,1.0
-2015,4th Round,,Stoke City,75,Crystal Palace,52,0.0
-2015,4th Round,,Oxford United,1338,Blackburn,67,0.0
-2015,4th Round,,Blackburn,67,Oxford United,1338,1.0
-2015,4th Round,,Portsmouth,1355,Bournemouth,35,0.0
-2015,4th Round,,Bournemouth,35,Portsmouth,1355,1.0
-2015,4th Round,,Bury,1344,Hull City,64,0.0
-2015,4th Round,,Hull City,64,Bury,1344,1.0
-2015,4th Round,,Aston Villa,66,Manchester City,50,0.0
-2015,4th Round,,Manchester City,50,Aston Villa,66,1.0
-2015,4th Round,,Liverpool,40,West Ham,48,
-2015,4th Round,,West Ham,48,Liverpool,40,
-2015,4th Round,,Carlisle,1371,Everton,45,0.0
-2015,4th Round,,Everton,45,Carlisle,1371,1.0
-2015,4th Round,,Milton Keynes Dons,1348,Chelsea,49,0.0
-2015,4th Round,,Chelsea,49,Milton Keynes Dons,1348,1.0
+2015,6th Round,6.0,Reading,53,Crystal Palace,52,0.0
+2015,6th Round,6.0,Crystal Palace,52,Reading,53,1.0
+2015,6th Round,6.0,Everton,45,Chelsea,49,1.0
+2015,6th Round,6.0,Chelsea,49,Everton,45,0.0
+2015,6th Round,6.0,Arsenal,42,Watford,38,0.0
+2015,6th Round,6.0,Watford,38,Arsenal,42,1.0
+2015,6th Round,6.0,Manchester United,33,West Ham,48,
+2015,6th Round,6.0,West Ham,48,Manchester United,33,
+2015,5th Round Replays,5.0,Hull City,64,Arsenal,42,0.0
+2015,5th Round Replays,5.0,Arsenal,42,Hull City,64,1.0
+2015,5th Round,5.0,Arsenal,42,Hull City,64,
+2015,5th Round,5.0,Hull City,64,Arsenal,42,
+2015,5th Round,5.0,Reading,53,West Brom,60,1.0
+2015,5th Round,5.0,West Brom,60,Reading,53,0.0
+2015,5th Round,5.0,Watford,38,Leeds,63,1.0
+2015,5th Round,5.0,Leeds,63,Watford,38,0.0
+2015,5th Round,5.0,Bournemouth,35,Everton,45,0.0
+2015,5th Round,5.0,Everton,45,Bournemouth,35,1.0
+2015,5th Round,5.0,Blackburn,67,West Ham,48,0.0
+2015,5th Round,5.0,West Ham,48,Blackburn,67,1.0
+2015,5th Round,5.0,Tottenham,47,Crystal Palace,52,0.0
+2015,5th Round,5.0,Crystal Palace,52,Tottenham,47,1.0
+2015,5th Round,5.0,Chelsea,49,Manchester City,50,1.0
+2015,5th Round,5.0,Manchester City,50,Chelsea,49,0.0
+2015,5th Round,5.0,Shrewsbury,1352,Manchester United,33,0.0
+2015,5th Round,5.0,Manchester United,33,Shrewsbury,1352,1.0
+2015,4th Round Replays,4.0,West Ham,48,Liverpool,40,1.0
+2015,4th Round Replays,4.0,Liverpool,40,West Ham,48,0.0
+2015,4th Round Replays,4.0,Peterborough,1350,West Brom,60,0.0
+2015,4th Round Replays,4.0,West Brom,60,Peterborough,1350,1.0
+2015,4th Round,4.0,Derby,69,Manchester United,33,0.0
+2015,4th Round,4.0,Manchester United,33,Derby,69,1.0
+2015,4th Round,4.0,Colchester,1361,Tottenham,47,0.0
+2015,4th Round,4.0,Tottenham,47,Colchester,1361,1.0
+2015,4th Round,4.0,West Brom,60,Peterborough,1350,
+2015,4th Round,4.0,Peterborough,1350,West Brom,60,
+2015,4th Round,4.0,Bolton,68,Leeds,63,0.0
+2015,4th Round,4.0,Leeds,63,Bolton,68,1.0
+2015,4th Round,4.0,Arsenal,42,Burnley,44,1.0
+2015,4th Round,4.0,Burnley,44,Arsenal,42,0.0
+2015,4th Round,4.0,Reading,53,Walsall,1342,1.0
+2015,4th Round,4.0,Walsall,1342,Reading,53,0.0
+2015,4th Round,4.0,Shrewsbury,1352,Sheffield Wednesday,74,1.0
+2015,4th Round,4.0,Sheffield Wednesday,74,Shrewsbury,1352,0.0
+2015,4th Round,4.0,Nottingham Forest,65,Watford,38,0.0
+2015,4th Round,4.0,Watford,38,Nottingham Forest,65,1.0
+2015,4th Round,4.0,Crystal Palace,52,Stoke City,75,1.0
+2015,4th Round,4.0,Stoke City,75,Crystal Palace,52,0.0
+2015,4th Round,4.0,Oxford United,1338,Blackburn,67,0.0
+2015,4th Round,4.0,Blackburn,67,Oxford United,1338,1.0
+2015,4th Round,4.0,Portsmouth,1355,Bournemouth,35,0.0
+2015,4th Round,4.0,Bournemouth,35,Portsmouth,1355,1.0
+2015,4th Round,4.0,Bury,1344,Hull City,64,0.0
+2015,4th Round,4.0,Hull City,64,Bury,1344,1.0
+2015,4th Round,4.0,Aston Villa,66,Manchester City,50,0.0
+2015,4th Round,4.0,Manchester City,50,Aston Villa,66,1.0
+2015,4th Round,4.0,Liverpool,40,West Ham,48,
+2015,4th Round,4.0,West Ham,48,Liverpool,40,
+2015,4th Round,4.0,Carlisle,1371,Everton,45,0.0
+2015,4th Round,4.0,Everton,45,Carlisle,1371,1.0
+2015,4th Round,4.0,Milton Keynes Dons,1348,Chelsea,49,0.0
+2015,4th Round,4.0,Chelsea,49,Milton Keynes Dons,1348,1.0
 2015,3rd Round Replays,,Bristol City,56,West Brom,60,0.0
 2015,3rd Round Replays,,West Brom,60,Bristol City,56,1.0
 2015,3rd Round Replays,,Milton Keynes Dons,1348,Northampton,1337,1.0
@@ -6443,16 +6443,16 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2015,3rd Round,3.0,Shrewsbury,1352,Cardiff,43,1.0
 2015,3rd Round,3.0,Newport County,1367,Blackburn,67,0.0
 2015,3rd Round,3.0,Blackburn,67,Newport County,1367,1.0
-2015,2nd Round Replays,,Scunthorpe,1340,Leyton Orient,1373,1.0
-2015,2nd Round Replays,,Leyton Orient,1373,Scunthorpe,1340,0.0
-2015,2nd Round Replays,,Walsall,1342,Chesterfield,1345,1.0
-2015,2nd Round Replays,,Chesterfield,1345,Walsall,1342,0.0
-2015,2nd Round Replays,,Hartlepool,1366,Salford City,1844,1.0
-2015,2nd Round Replays,,Salford City,1844,Hartlepool,1366,0.0
-2015,2nd Round Replays,,Shrewsbury,1352,Grimsby,1365,1.0
-2015,2nd Round Replays,,Grimsby,1365,Shrewsbury,1352,0.0
-2015,2nd Round Replays,,Whitehawk,4713,Dagenham & Redbridge,1821,0.0
-2015,2nd Round Replays,,Dagenham & Redbridge,1821,Whitehawk,4713,1.0
+2015,2nd Round Replays,2.0,Scunthorpe,1340,Leyton Orient,1373,1.0
+2015,2nd Round Replays,2.0,Leyton Orient,1373,Scunthorpe,1340,0.0
+2015,2nd Round Replays,2.0,Walsall,1342,Chesterfield,1345,1.0
+2015,2nd Round Replays,2.0,Chesterfield,1345,Walsall,1342,0.0
+2015,2nd Round Replays,2.0,Hartlepool,1366,Salford City,1844,1.0
+2015,2nd Round Replays,2.0,Salford City,1844,Hartlepool,1366,0.0
+2015,2nd Round Replays,2.0,Shrewsbury,1352,Grimsby,1365,1.0
+2015,2nd Round Replays,2.0,Grimsby,1365,Shrewsbury,1352,0.0
+2015,2nd Round Replays,2.0,Whitehawk,4713,Dagenham & Redbridge,1821,0.0
+2015,2nd Round Replays,2.0,Dagenham & Redbridge,1821,Whitehawk,4713,1.0
 2015,2nd Round,2.0,Salford City,1844,Hartlepool,1366,
 2015,2nd Round,2.0,Hartlepool,1366,Salford City,1844,
 2015,2nd Round,2.0,Leyton Orient,1373,Scunthorpe,1340,
@@ -6493,20 +6493,20 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2015,2nd Round,2.0,Doncaster,1354,Cambridge United,1370,1.0
 2015,2nd Round,2.0,Grimsby,1365,Shrewsbury,1352,
 2015,2nd Round,2.0,Shrewsbury,1352,Grimsby,1365,
-2015,1st Round Replays,,Boreham Wood,1830,Northwich Victoria,8885,0.0
-2015,1st Round Replays,,Northwich Victoria,8885,Boreham Wood,1830,1.0
-2015,1st Round Replays,,Oldham,1349,Mansfield Town,1374,1.0
-2015,1st Round Replays,,Mansfield Town,1374,Oldham,1349,0.0
-2015,1st Round Replays,,Newport County,1367,Brackley Town,4701,1.0
-2015,1st Round Replays,,Brackley Town,4701,Newport County,1367,0.0
-2015,1st Round Replays,,Morecambe,1375,Dagenham & Redbridge,1821,0.0
-2015,1st Round Replays,,Dagenham & Redbridge,1821,Morecambe,1375,1.0
-2015,1st Round Replays,,Oxford United,1338,Braintree,1831,1.0
-2015,1st Round Replays,,Braintree,1831,Oxford United,1338,0.0
-2015,1st Round Replays,,Bradford,1343,Aldershot Town,1818,1.0
-2015,1st Round Replays,,Aldershot Town,1818,Bradford,1343,0.0
-2015,1st Round Replays,,Maidenhead,1838,Port Vale,1351,0.0
-2015,1st Round Replays,,Port Vale,1351,Maidenhead,1838,1.0
+2015,1st Round Replays,1.0,Boreham Wood,1830,Northwich Victoria,8885,0.0
+2015,1st Round Replays,1.0,Northwich Victoria,8885,Boreham Wood,1830,1.0
+2015,1st Round Replays,1.0,Oldham,1349,Mansfield Town,1374,1.0
+2015,1st Round Replays,1.0,Mansfield Town,1374,Oldham,1349,0.0
+2015,1st Round Replays,1.0,Newport County,1367,Brackley Town,4701,1.0
+2015,1st Round Replays,1.0,Brackley Town,4701,Newport County,1367,0.0
+2015,1st Round Replays,1.0,Morecambe,1375,Dagenham & Redbridge,1821,0.0
+2015,1st Round Replays,1.0,Dagenham & Redbridge,1821,Morecambe,1375,1.0
+2015,1st Round Replays,1.0,Oxford United,1338,Braintree,1831,1.0
+2015,1st Round Replays,1.0,Braintree,1831,Oxford United,1338,0.0
+2015,1st Round Replays,1.0,Bradford,1343,Aldershot Town,1818,1.0
+2015,1st Round Replays,1.0,Aldershot Town,1818,Bradford,1343,0.0
+2015,1st Round Replays,1.0,Maidenhead,1838,Port Vale,1351,0.0
+2015,1st Round Replays,1.0,Port Vale,1351,Maidenhead,1838,1.0
 2015,1st Round,1.0,Salford City,1844,Notts County,1376,1.0
 2015,1st Round,1.0,Notts County,1376,Salford City,1844,0.0
 2015,1st Round,1.0,Burton Albion,748,Peterborough,1350,0.0
@@ -8065,72 +8065,72 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2015,Extra Preliminary Round,,Erith & Belvedere,8776,Epsom & Ewell FC,11974,1.0
 2015,Extra Preliminary Round,,Christchurch,8741,Cadbury Heath,8732,1.0
 2015,Extra Preliminary Round,,Cadbury Heath,8732,Christchurch,8741,0.0
-2016,Quarter-finals,5.0,Middlesbrough,70,Manchester City,50,0.0
-2016,Quarter-finals,5.0,Manchester City,50,Middlesbrough,70,1.0
-2016,Quarter-finals,5.0,Arsenal,42,Lincoln,1379,1.0
-2016,Quarter-finals,5.0,Lincoln,1379,Arsenal,42,0.0
-2016,Quarter-finals,5.0,Tottenham,47,Millwall,58,1.0
-2016,Quarter-finals,5.0,Millwall,58,Tottenham,47,0.0
-2016,Quarter-finals,5.0,Chelsea,49,Manchester United,33,1.0
-2016,Quarter-finals,5.0,Manchester United,33,Chelsea,49,0.0
-2016,Semi-finals,6.0,Chelsea,49,Tottenham,47,1.0
-2016,Semi-finals,6.0,Tottenham,47,Chelsea,49,0.0
-2016,Semi-finals,6.0,Arsenal,42,Manchester City,50,1.0
-2016,Semi-finals,6.0,Manchester City,50,Arsenal,42,0.0
-2016,Final,7.0,Arsenal,42,Chelsea,49,1.0
-2016,Final,7.0,Chelsea,49,Arsenal,42,0.0
-2016,5th Round Replays,,Manchester City,50,Huddersfield,37,1.0
-2016,5th Round Replays,,Huddersfield,37,Manchester City,50,0.0
-2016,5th Round,,Burnley,44,Lincoln,1379,0.0
-2016,5th Round,,Lincoln,1379,Burnley,44,1.0
-2016,5th Round,,Middlesbrough,70,Oxford United,1338,1.0
-2016,5th Round,,Oxford United,1338,Middlesbrough,70,0.0
-2016,5th Round,,Huddersfield,37,Manchester City,50,
-2016,5th Round,,Manchester City,50,Huddersfield,37,
-2016,5th Round,,Millwall,58,Leicester,46,1.0
-2016,5th Round,,Leicester,46,Millwall,58,0.0
-2016,5th Round,,Wolves,39,Chelsea,49,0.0
-2016,5th Round,,Chelsea,49,Wolves,39,1.0
-2016,5th Round,,Fulham,36,Tottenham,47,0.0
-2016,5th Round,,Tottenham,47,Fulham,36,1.0
-2016,5th Round,,Blackburn,67,Manchester United,33,0.0
-2016,5th Round,,Manchester United,33,Blackburn,67,1.0
-2016,5th Round,,Sutton Utd,1835,Arsenal,42,0.0
-2016,5th Round,,Arsenal,42,Sutton Utd,1835,1.0
-2016,4th Round Replays,,Leicester,46,Derby,69,1.0
-2016,4th Round Replays,,Derby,69,Leicester,46,0.0
-2016,4th Round,,Derby,69,Leicester,46,
-2016,4th Round,,Leicester,46,Derby,69,
-2016,4th Round,,Liverpool,40,Wolves,39,0.0
-2016,4th Round,,Wolves,39,Liverpool,40,1.0
-2016,4th Round,,Tottenham,47,Wycombe,1358,1.0
-2016,4th Round,,Wycombe,1358,Tottenham,47,0.0
-2016,4th Round,,Oxford United,1338,Newcastle,34,1.0
-2016,4th Round,,Newcastle,34,Oxford United,1338,0.0
-2016,4th Round,,Lincoln,1379,Brighton,51,1.0
-2016,4th Round,,Brighton,51,Lincoln,1379,0.0
-2016,4th Round,,Chelsea,49,Brentford,55,1.0
-2016,4th Round,,Brentford,55,Chelsea,49,0.0
-2016,4th Round,,Rochdale,1339,Huddersfield,37,0.0
-2016,4th Round,,Huddersfield,37,Rochdale,1339,1.0
-2016,4th Round,,Burnley,44,Bristol City,56,1.0
-2016,4th Round,,Bristol City,56,Burnley,44,0.0
-2016,4th Round,,Blackburn,67,Blackpool,1356,1.0
-2016,4th Round,,Blackpool,1356,Blackburn,67,0.0
-2016,4th Round,,Middlesbrough,70,Accrington ST,1360,1.0
-2016,4th Round,,Accrington ST,1360,Middlesbrough,70,0.0
-2016,4th Round,,Crystal Palace,52,Manchester City,50,0.0
-2016,4th Round,,Manchester City,50,Crystal Palace,52,1.0
-2016,4th Round,,Southampton,41,Arsenal,42,0.0
-2016,4th Round,,Arsenal,42,Southampton,41,1.0
-2016,4th Round,,Millwall,58,Watford,38,1.0
-2016,4th Round,,Watford,38,Millwall,58,0.0
-2016,4th Round,,Fulham,36,Hull City,64,1.0
-2016,4th Round,,Hull City,64,Fulham,36,0.0
-2016,4th Round,,Sutton Utd,1835,Leeds,63,1.0
-2016,4th Round,,Leeds,63,Sutton Utd,1835,0.0
-2016,4th Round,,Manchester United,33,Wigan,61,1.0
-2016,4th Round,,Wigan,61,Manchester United,33,0.0
+2016,Quarter-finals,8.0,Middlesbrough,70,Manchester City,50,0.0
+2016,Quarter-finals,8.0,Manchester City,50,Middlesbrough,70,1.0
+2016,Quarter-finals,8.0,Arsenal,42,Lincoln,1379,1.0
+2016,Quarter-finals,8.0,Lincoln,1379,Arsenal,42,0.0
+2016,Quarter-finals,8.0,Tottenham,47,Millwall,58,1.0
+2016,Quarter-finals,8.0,Millwall,58,Tottenham,47,0.0
+2016,Quarter-finals,8.0,Chelsea,49,Manchester United,33,1.0
+2016,Quarter-finals,8.0,Manchester United,33,Chelsea,49,0.0
+2016,Semi-finals,9.0,Chelsea,49,Tottenham,47,1.0
+2016,Semi-finals,9.0,Tottenham,47,Chelsea,49,0.0
+2016,Semi-finals,9.0,Arsenal,42,Manchester City,50,1.0
+2016,Semi-finals,9.0,Manchester City,50,Arsenal,42,0.0
+2016,Final,10.0,Arsenal,42,Chelsea,49,1.0
+2016,Final,10.0,Chelsea,49,Arsenal,42,0.0
+2016,5th Round Replays,5.0,Manchester City,50,Huddersfield,37,1.0
+2016,5th Round Replays,5.0,Huddersfield,37,Manchester City,50,0.0
+2016,5th Round,5.0,Burnley,44,Lincoln,1379,0.0
+2016,5th Round,5.0,Lincoln,1379,Burnley,44,1.0
+2016,5th Round,5.0,Middlesbrough,70,Oxford United,1338,1.0
+2016,5th Round,5.0,Oxford United,1338,Middlesbrough,70,0.0
+2016,5th Round,5.0,Huddersfield,37,Manchester City,50,
+2016,5th Round,5.0,Manchester City,50,Huddersfield,37,
+2016,5th Round,5.0,Millwall,58,Leicester,46,1.0
+2016,5th Round,5.0,Leicester,46,Millwall,58,0.0
+2016,5th Round,5.0,Wolves,39,Chelsea,49,0.0
+2016,5th Round,5.0,Chelsea,49,Wolves,39,1.0
+2016,5th Round,5.0,Fulham,36,Tottenham,47,0.0
+2016,5th Round,5.0,Tottenham,47,Fulham,36,1.0
+2016,5th Round,5.0,Blackburn,67,Manchester United,33,0.0
+2016,5th Round,5.0,Manchester United,33,Blackburn,67,1.0
+2016,5th Round,5.0,Sutton Utd,1835,Arsenal,42,0.0
+2016,5th Round,5.0,Arsenal,42,Sutton Utd,1835,1.0
+2016,4th Round Replays,4.0,Leicester,46,Derby,69,1.0
+2016,4th Round Replays,4.0,Derby,69,Leicester,46,0.0
+2016,4th Round,4.0,Derby,69,Leicester,46,
+2016,4th Round,4.0,Leicester,46,Derby,69,
+2016,4th Round,4.0,Liverpool,40,Wolves,39,0.0
+2016,4th Round,4.0,Wolves,39,Liverpool,40,1.0
+2016,4th Round,4.0,Tottenham,47,Wycombe,1358,1.0
+2016,4th Round,4.0,Wycombe,1358,Tottenham,47,0.0
+2016,4th Round,4.0,Oxford United,1338,Newcastle,34,1.0
+2016,4th Round,4.0,Newcastle,34,Oxford United,1338,0.0
+2016,4th Round,4.0,Lincoln,1379,Brighton,51,1.0
+2016,4th Round,4.0,Brighton,51,Lincoln,1379,0.0
+2016,4th Round,4.0,Chelsea,49,Brentford,55,1.0
+2016,4th Round,4.0,Brentford,55,Chelsea,49,0.0
+2016,4th Round,4.0,Rochdale,1339,Huddersfield,37,0.0
+2016,4th Round,4.0,Huddersfield,37,Rochdale,1339,1.0
+2016,4th Round,4.0,Burnley,44,Bristol City,56,1.0
+2016,4th Round,4.0,Bristol City,56,Burnley,44,0.0
+2016,4th Round,4.0,Blackburn,67,Blackpool,1356,1.0
+2016,4th Round,4.0,Blackpool,1356,Blackburn,67,0.0
+2016,4th Round,4.0,Middlesbrough,70,Accrington ST,1360,1.0
+2016,4th Round,4.0,Accrington ST,1360,Middlesbrough,70,0.0
+2016,4th Round,4.0,Crystal Palace,52,Manchester City,50,0.0
+2016,4th Round,4.0,Manchester City,50,Crystal Palace,52,1.0
+2016,4th Round,4.0,Southampton,41,Arsenal,42,0.0
+2016,4th Round,4.0,Arsenal,42,Southampton,41,1.0
+2016,4th Round,4.0,Millwall,58,Watford,38,1.0
+2016,4th Round,4.0,Watford,38,Millwall,58,0.0
+2016,4th Round,4.0,Fulham,36,Hull City,64,1.0
+2016,4th Round,4.0,Hull City,64,Fulham,36,0.0
+2016,4th Round,4.0,Sutton Utd,1835,Leeds,63,1.0
+2016,4th Round,4.0,Leeds,63,Sutton Utd,1835,0.0
+2016,4th Round,4.0,Manchester United,33,Wigan,61,1.0
+2016,4th Round,4.0,Wigan,61,Manchester United,33,0.0
 2016,3rd Round Replays,,Burnley,44,Sunderland,746,1.0
 2016,3rd Round Replays,,Sunderland,746,Burnley,44,0.0
 2016,3rd Round Replays,,Barnsley,747,Blackpool,1356,0.0
@@ -8213,18 +8213,18 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2016,3rd Round,3.0,Aston Villa,66,Tottenham,47,0.0
 2016,3rd Round,3.0,Cambridge United,1370,Leeds,63,0.0
 2016,3rd Round,3.0,Leeds,63,Cambridge United,1370,1.0
-2016,2nd Round Replays,,Oxford United,1338,Macclesfield,1380,1.0
-2016,2nd Round Replays,,Macclesfield,1380,Oxford United,1338,0.0
-2016,2nd Round Replays,,Fleetwood Town,1336,Shrewsbury,1352,1.0
-2016,2nd Round Replays,,Shrewsbury,1352,Fleetwood Town,1336,0.0
-2016,2nd Round Replays,,Milton Keynes Dons,1348,Charlton,1335,1.0
-2016,2nd Round Replays,,Charlton,1335,Milton Keynes Dons,1348,0.0
-2016,2nd Round Replays,,FC Halifax Town,1841,Eastleigh,1822,0.0
-2016,2nd Round Replays,,Eastleigh,1822,FC Halifax Town,1841,1.0
-2016,2nd Round Replays,,Peterborough,1350,Notts County,1376,1.0
-2016,2nd Round Replays,,Notts County,1376,Peterborough,1350,0.0
-2016,2nd Round Replays,,Newport County,1367,Plymouth,1357,0.0
-2016,2nd Round Replays,,Plymouth,1357,Newport County,1367,1.0
+2016,2nd Round Replays,2.0,Oxford United,1338,Macclesfield,1380,1.0
+2016,2nd Round Replays,2.0,Macclesfield,1380,Oxford United,1338,0.0
+2016,2nd Round Replays,2.0,Fleetwood Town,1336,Shrewsbury,1352,1.0
+2016,2nd Round Replays,2.0,Shrewsbury,1352,Fleetwood Town,1336,0.0
+2016,2nd Round Replays,2.0,Milton Keynes Dons,1348,Charlton,1335,1.0
+2016,2nd Round Replays,2.0,Charlton,1335,Milton Keynes Dons,1348,0.0
+2016,2nd Round Replays,2.0,FC Halifax Town,1841,Eastleigh,1822,0.0
+2016,2nd Round Replays,2.0,Eastleigh,1822,FC Halifax Town,1841,1.0
+2016,2nd Round Replays,2.0,Peterborough,1350,Notts County,1376,1.0
+2016,2nd Round Replays,2.0,Notts County,1376,Peterborough,1350,0.0
+2016,2nd Round Replays,2.0,Newport County,1367,Plymouth,1357,0.0
+2016,2nd Round Replays,2.0,Plymouth,1357,Newport County,1367,1.0
 2016,2nd Round,2.0,Macclesfield,1380,Oxford United,1338,
 2016,2nd Round,2.0,Oxford United,1338,Macclesfield,1380,
 2016,2nd Round,2.0,Chesterfield,1345,Wycombe,1358,0.0
@@ -8265,38 +8265,38 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2016,2nd Round,2.0,Oldham,1349,Lincoln,1379,0.0
 2016,2nd Round,2.0,Stourbridge,4710,Northampton,1337,1.0
 2016,2nd Round,2.0,Northampton,1337,Stourbridge,4710,0.0
-2016,1st Round Replays,,Curzon Ashton,4703,Westfields,4712,1.0
-2016,1st Round Replays,,Westfields,4712,Curzon Ashton,4703,0.0
-2016,1st Round Replays,,Stourbridge,4710,Whitehawk,4713,1.0
-2016,1st Round Replays,,Whitehawk,4713,Stourbridge,4710,0.0
-2016,1st Round Replays,,FC Halifax Town,1841,Dagenham & Redbridge,1821,1.0
-2016,1st Round Replays,,Dagenham & Redbridge,1821,FC Halifax Town,1841,0.0
-2016,1st Round Replays,,Solihull Moors,1834,Yeovil Town,1377,1.0
-2016,1st Round Replays,,Yeovil Town,1377,Solihull Moors,1834,0.0
-2016,1st Round Replays,,AFC Wimbledon,1333,Bury,1344,1.0
-2016,1st Round Replays,,Bury,1344,AFC Wimbledon,1333,0.0
-2016,1st Round Replays,,Swindon Town,1353,Eastleigh,1822,0.0
-2016,1st Round Replays,,Eastleigh,1822,Swindon Town,1353,1.0
-2016,1st Round Replays,,Bristol Rovers,1334,Crawley Town,1362,1.0
-2016,1st Round Replays,,Crawley Town,1362,Bristol Rovers,1334,0.0
-2016,1st Round Replays,,Crewe,1363,Cheltenham,1372,0.0
-2016,1st Round Replays,,Cheltenham,1372,Crewe,1363,1.0
-2016,1st Round Replays,,Barrow,1819,Taunton Town,4711,1.0
-2016,1st Round Replays,,Taunton Town,4711,Barrow,1819,0.0
-2016,1st Round Replays,,Newport County,1367,Alfreton Town,4677,1.0
-2016,1st Round Replays,,Alfreton Town,4677,Newport County,1367,0.0
-2016,1st Round Replays,,Rochdale,1339,Maidstone Utd,1825,1.0
-2016,1st Round Replays,,Maidstone Utd,1825,Rochdale,1339,0.0
-2016,1st Round Replays,,Notts County,1376,Boreham Wood,1830,1.0
-2016,1st Round Replays,,Boreham Wood,1830,Notts County,1376,0.0
-2016,1st Round Replays,,Coventry,1346,Morecambe,1375,1.0
-2016,1st Round Replays,,Morecambe,1375,Coventry,1346,0.0
-2016,1st Round Replays,,Fleetwood Town,1336,Southport,1826,1.0
-2016,1st Round Replays,,Southport,1826,Fleetwood Town,1336,0.0
-2016,1st Round Replays,,Brackley Town,4701,Gillingham,1347,1.0
-2016,1st Round Replays,,Gillingham,1347,Brackley Town,4701,0.0
-2016,1st Round Replays,,Dover,1829,Cambridge United,1370,0.0
-2016,1st Round Replays,,Cambridge United,1370,Dover,1829,1.0
+2016,1st Round Replays,1.0,Curzon Ashton,4703,Westfields,4712,1.0
+2016,1st Round Replays,1.0,Westfields,4712,Curzon Ashton,4703,0.0
+2016,1st Round Replays,1.0,Stourbridge,4710,Whitehawk,4713,1.0
+2016,1st Round Replays,1.0,Whitehawk,4713,Stourbridge,4710,0.0
+2016,1st Round Replays,1.0,FC Halifax Town,1841,Dagenham & Redbridge,1821,1.0
+2016,1st Round Replays,1.0,Dagenham & Redbridge,1821,FC Halifax Town,1841,0.0
+2016,1st Round Replays,1.0,Solihull Moors,1834,Yeovil Town,1377,1.0
+2016,1st Round Replays,1.0,Yeovil Town,1377,Solihull Moors,1834,0.0
+2016,1st Round Replays,1.0,AFC Wimbledon,1333,Bury,1344,1.0
+2016,1st Round Replays,1.0,Bury,1344,AFC Wimbledon,1333,0.0
+2016,1st Round Replays,1.0,Swindon Town,1353,Eastleigh,1822,0.0
+2016,1st Round Replays,1.0,Eastleigh,1822,Swindon Town,1353,1.0
+2016,1st Round Replays,1.0,Bristol Rovers,1334,Crawley Town,1362,1.0
+2016,1st Round Replays,1.0,Crawley Town,1362,Bristol Rovers,1334,0.0
+2016,1st Round Replays,1.0,Crewe,1363,Cheltenham,1372,0.0
+2016,1st Round Replays,1.0,Cheltenham,1372,Crewe,1363,1.0
+2016,1st Round Replays,1.0,Barrow,1819,Taunton Town,4711,1.0
+2016,1st Round Replays,1.0,Taunton Town,4711,Barrow,1819,0.0
+2016,1st Round Replays,1.0,Newport County,1367,Alfreton Town,4677,1.0
+2016,1st Round Replays,1.0,Alfreton Town,4677,Newport County,1367,0.0
+2016,1st Round Replays,1.0,Rochdale,1339,Maidstone Utd,1825,1.0
+2016,1st Round Replays,1.0,Maidstone Utd,1825,Rochdale,1339,0.0
+2016,1st Round Replays,1.0,Notts County,1376,Boreham Wood,1830,1.0
+2016,1st Round Replays,1.0,Boreham Wood,1830,Notts County,1376,0.0
+2016,1st Round Replays,1.0,Coventry,1346,Morecambe,1375,1.0
+2016,1st Round Replays,1.0,Morecambe,1375,Coventry,1346,0.0
+2016,1st Round Replays,1.0,Fleetwood Town,1336,Southport,1826,1.0
+2016,1st Round Replays,1.0,Southport,1826,Fleetwood Town,1336,0.0
+2016,1st Round Replays,1.0,Brackley Town,4701,Gillingham,1347,1.0
+2016,1st Round Replays,1.0,Gillingham,1347,Brackley Town,4701,0.0
+2016,1st Round Replays,1.0,Dover,1829,Cambridge United,1370,0.0
+2016,1st Round Replays,1.0,Cambridge United,1370,Dover,1829,1.0
 2016,1st Round,1.0,Millwall,58,Southend,1341,1.0
 2016,1st Round,1.0,Southend,1341,Millwall,58,0.0
 2016,1st Round,1.0,Eastleigh,1822,Swindon Town,1353,
@@ -8377,80 +8377,80 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2016,1st Round,1.0,Kidderminster Harriers,4695,Blackpool,1356,0.0
 2016,1st Round,1.0,Southport,1826,Fleetwood Town,1336,
 2016,1st Round,1.0,Fleetwood Town,1336,Southport,1826,
-2017,Quarter-finals,5.0,Swansea,76,Tottenham,47,0.0
-2017,Quarter-finals,5.0,Tottenham,47,Swansea,76,1.0
-2017,Quarter-finals,5.0,Manchester United,33,Brighton,51,1.0
-2017,Quarter-finals,5.0,Brighton,51,Manchester United,33,0.0
-2017,Quarter-finals,5.0,Wigan,61,Southampton,41,0.0
-2017,Quarter-finals,5.0,Southampton,41,Wigan,61,1.0
-2017,Quarter-finals,5.0,Leicester,46,Chelsea,49,0.0
-2017,Quarter-finals,5.0,Chelsea,49,Leicester,46,1.0
-2017,Semi-finals,6.0,Manchester United,33,Tottenham,47,1.0
-2017,Semi-finals,6.0,Tottenham,47,Manchester United,33,0.0
-2017,Semi-finals,6.0,Chelsea,49,Southampton,41,1.0
-2017,Semi-finals,6.0,Southampton,41,Chelsea,49,0.0
-2017,Final,7.0,Chelsea,49,Manchester United,33,1.0
-2017,Final,7.0,Manchester United,33,Chelsea,49,0.0
-2017,5th Round Replays,,Swansea,76,Sheffield Wednesday,74,1.0
-2017,5th Round Replays,,Sheffield Wednesday,74,Swansea,76,0.0
-2017,5th Round Replays,,Tottenham,47,Rochdale,1339,1.0
-2017,5th Round Replays,,Rochdale,1339,Tottenham,47,0.0
-2017,5th Round,,Leicester,46,Sheffield Utd,62,1.0
-2017,5th Round,,Sheffield Utd,62,Leicester,46,0.0
-2017,5th Round,,Chelsea,49,Hull City,64,1.0
-2017,5th Round,,Hull City,64,Chelsea,49,0.0
-2017,5th Round,,Sheffield Wednesday,74,Swansea,76,
-2017,5th Round,,Swansea,76,Sheffield Wednesday,74,
-2017,5th Round,,West Brom,60,Southampton,41,0.0
-2017,5th Round,,Southampton,41,West Brom,60,1.0
-2017,5th Round,,Brighton,51,Coventry,1346,1.0
-2017,5th Round,,Coventry,1346,Brighton,51,0.0
-2017,5th Round,,Huddersfield,37,Manchester United,33,0.0
-2017,5th Round,,Manchester United,33,Huddersfield,37,1.0
-2017,5th Round,,Rochdale,1339,Tottenham,47,
-2017,5th Round,,Tottenham,47,Rochdale,1339,
-2017,5th Round,,Wigan,61,Manchester City,50,1.0
-2017,5th Round,,Manchester City,50,Wigan,61,0.0
-2017,4th Round Replays,,Birmingham,54,Huddersfield,37,0.0
-2017,4th Round Replays,,Huddersfield,37,Birmingham,54,1.0
-2017,4th Round Replays,,Rochdale,1339,Millwall,58,1.0
-2017,4th Round Replays,,Millwall,58,Rochdale,1339,0.0
-2017,4th Round Replays,,Swansea,76,Notts County,1376,1.0
-2017,4th Round Replays,,Notts County,1376,Swansea,76,0.0
-2017,4th Round Replays,,Tottenham,47,Newport County,1367,1.0
-2017,4th Round Replays,,Newport County,1367,Tottenham,47,0.0
-2017,4th Round,,Sheffield Wednesday,74,Reading,53,1.0
-2017,4th Round,,Reading,53,Sheffield Wednesday,74,0.0
-2017,4th Round,,Yeovil Town,1377,Manchester United,33,0.0
-2017,4th Round,,Manchester United,33,Yeovil Town,1377,1.0
-2017,4th Round,,Peterborough,1350,Leicester,46,0.0
-2017,4th Round,,Leicester,46,Peterborough,1350,1.0
-2017,4th Round,,Huddersfield,37,Birmingham,54,
-2017,4th Round,,Birmingham,54,Huddersfield,37,
-2017,4th Round,,Notts County,1376,Swansea,76,
-2017,4th Round,,Swansea,76,Notts County,1376,
-2017,4th Round,,Milton Keynes Dons,1348,Coventry,1346,0.0
-2017,4th Round,,Coventry,1346,Milton Keynes Dons,1348,1.0
-2017,4th Round,,Millwall,58,Rochdale,1339,
-2017,4th Round,,Rochdale,1339,Millwall,58,
-2017,4th Round,,Southampton,41,Watford,38,1.0
-2017,4th Round,,Watford,38,Southampton,41,0.0
-2017,4th Round,,Middlesbrough,70,Brighton,51,0.0
-2017,4th Round,,Brighton,51,Middlesbrough,70,1.0
-2017,4th Round,,Wigan,61,West Ham,48,1.0
-2017,4th Round,,West Ham,48,Wigan,61,0.0
-2017,4th Round,,Hull City,64,Nottingham Forest,65,1.0
-2017,4th Round,,Nottingham Forest,65,Hull City,64,0.0
-2017,4th Round,,Sheffield Utd,62,Preston,59,1.0
-2017,4th Round,,Preston,59,Sheffield Utd,62,0.0
-2017,4th Round,,Newport County,1367,Tottenham,47,
-2017,4th Round,,Tottenham,47,Newport County,1367,
-2017,4th Round,,Liverpool,40,West Brom,60,0.0
-2017,4th Round,,West Brom,60,Liverpool,40,1.0
-2017,4th Round,,Chelsea,49,Newcastle,34,1.0
-2017,4th Round,,Newcastle,34,Chelsea,49,0.0
-2017,4th Round,,Cardiff,43,Manchester City,50,0.0
-2017,4th Round,,Manchester City,50,Cardiff,43,1.0
+2017,Quarter-finals,8.0,Swansea,76,Tottenham,47,0.0
+2017,Quarter-finals,8.0,Tottenham,47,Swansea,76,1.0
+2017,Quarter-finals,8.0,Manchester United,33,Brighton,51,1.0
+2017,Quarter-finals,8.0,Brighton,51,Manchester United,33,0.0
+2017,Quarter-finals,8.0,Wigan,61,Southampton,41,0.0
+2017,Quarter-finals,8.0,Southampton,41,Wigan,61,1.0
+2017,Quarter-finals,8.0,Leicester,46,Chelsea,49,0.0
+2017,Quarter-finals,8.0,Chelsea,49,Leicester,46,1.0
+2017,Semi-finals,9.0,Manchester United,33,Tottenham,47,1.0
+2017,Semi-finals,9.0,Tottenham,47,Manchester United,33,0.0
+2017,Semi-finals,9.0,Chelsea,49,Southampton,41,1.0
+2017,Semi-finals,9.0,Southampton,41,Chelsea,49,0.0
+2017,Final,10.0,Chelsea,49,Manchester United,33,1.0
+2017,Final,10.0,Manchester United,33,Chelsea,49,0.0
+2017,5th Round Replays,5.0,Swansea,76,Sheffield Wednesday,74,1.0
+2017,5th Round Replays,5.0,Sheffield Wednesday,74,Swansea,76,0.0
+2017,5th Round Replays,5.0,Tottenham,47,Rochdale,1339,1.0
+2017,5th Round Replays,5.0,Rochdale,1339,Tottenham,47,0.0
+2017,5th Round,5.0,Leicester,46,Sheffield Utd,62,1.0
+2017,5th Round,5.0,Sheffield Utd,62,Leicester,46,0.0
+2017,5th Round,5.0,Chelsea,49,Hull City,64,1.0
+2017,5th Round,5.0,Hull City,64,Chelsea,49,0.0
+2017,5th Round,5.0,Sheffield Wednesday,74,Swansea,76,
+2017,5th Round,5.0,Swansea,76,Sheffield Wednesday,74,
+2017,5th Round,5.0,West Brom,60,Southampton,41,0.0
+2017,5th Round,5.0,Southampton,41,West Brom,60,1.0
+2017,5th Round,5.0,Brighton,51,Coventry,1346,1.0
+2017,5th Round,5.0,Coventry,1346,Brighton,51,0.0
+2017,5th Round,5.0,Huddersfield,37,Manchester United,33,0.0
+2017,5th Round,5.0,Manchester United,33,Huddersfield,37,1.0
+2017,5th Round,5.0,Rochdale,1339,Tottenham,47,
+2017,5th Round,5.0,Tottenham,47,Rochdale,1339,
+2017,5th Round,5.0,Wigan,61,Manchester City,50,1.0
+2017,5th Round,5.0,Manchester City,50,Wigan,61,0.0
+2017,4th Round Replays,4.0,Birmingham,54,Huddersfield,37,0.0
+2017,4th Round Replays,4.0,Huddersfield,37,Birmingham,54,1.0
+2017,4th Round Replays,4.0,Rochdale,1339,Millwall,58,1.0
+2017,4th Round Replays,4.0,Millwall,58,Rochdale,1339,0.0
+2017,4th Round Replays,4.0,Swansea,76,Notts County,1376,1.0
+2017,4th Round Replays,4.0,Notts County,1376,Swansea,76,0.0
+2017,4th Round Replays,4.0,Tottenham,47,Newport County,1367,1.0
+2017,4th Round Replays,4.0,Newport County,1367,Tottenham,47,0.0
+2017,4th Round,4.0,Sheffield Wednesday,74,Reading,53,1.0
+2017,4th Round,4.0,Reading,53,Sheffield Wednesday,74,0.0
+2017,4th Round,4.0,Yeovil Town,1377,Manchester United,33,0.0
+2017,4th Round,4.0,Manchester United,33,Yeovil Town,1377,1.0
+2017,4th Round,4.0,Peterborough,1350,Leicester,46,0.0
+2017,4th Round,4.0,Leicester,46,Peterborough,1350,1.0
+2017,4th Round,4.0,Huddersfield,37,Birmingham,54,
+2017,4th Round,4.0,Birmingham,54,Huddersfield,37,
+2017,4th Round,4.0,Notts County,1376,Swansea,76,
+2017,4th Round,4.0,Swansea,76,Notts County,1376,
+2017,4th Round,4.0,Milton Keynes Dons,1348,Coventry,1346,0.0
+2017,4th Round,4.0,Coventry,1346,Milton Keynes Dons,1348,1.0
+2017,4th Round,4.0,Millwall,58,Rochdale,1339,
+2017,4th Round,4.0,Rochdale,1339,Millwall,58,
+2017,4th Round,4.0,Southampton,41,Watford,38,1.0
+2017,4th Round,4.0,Watford,38,Southampton,41,0.0
+2017,4th Round,4.0,Middlesbrough,70,Brighton,51,0.0
+2017,4th Round,4.0,Brighton,51,Middlesbrough,70,1.0
+2017,4th Round,4.0,Wigan,61,West Ham,48,1.0
+2017,4th Round,4.0,West Ham,48,Wigan,61,0.0
+2017,4th Round,4.0,Hull City,64,Nottingham Forest,65,1.0
+2017,4th Round,4.0,Nottingham Forest,65,Hull City,64,0.0
+2017,4th Round,4.0,Sheffield Utd,62,Preston,59,1.0
+2017,4th Round,4.0,Preston,59,Sheffield Utd,62,0.0
+2017,4th Round,4.0,Newport County,1367,Tottenham,47,
+2017,4th Round,4.0,Tottenham,47,Newport County,1367,
+2017,4th Round,4.0,Liverpool,40,West Brom,60,0.0
+2017,4th Round,4.0,West Brom,60,Liverpool,40,1.0
+2017,4th Round,4.0,Chelsea,49,Newcastle,34,1.0
+2017,4th Round,4.0,Newcastle,34,Chelsea,49,0.0
+2017,4th Round,4.0,Cardiff,43,Manchester City,50,0.0
+2017,4th Round,4.0,Manchester City,50,Cardiff,43,1.0
 2017,3rd Round Replays,,Leicester,46,Fleetwood Town,1336,1.0
 2017,3rd Round Replays,,Fleetwood Town,1336,Leicester,46,0.0
 2017,3rd Round Replays,,Mansfield Town,1374,Cardiff,43,0.0
@@ -8531,20 +8531,20 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2017,3rd Round,3.0,Arsenal,42,Nottingham Forest,65,0.0
 2017,3rd Round,3.0,Brighton,51,Crystal Palace,52,1.0
 2017,3rd Round,3.0,Crystal Palace,52,Brighton,51,0.0
-2017,2nd Round Replays,,Peterborough,1350,Woking,1836,1.0
-2017,2nd Round Replays,,Woking,1836,Peterborough,1350,0.0
-2017,2nd Round Replays,,Yeovil Town,1377,Port Vale,1351,1.0
-2017,2nd Round Replays,,Port Vale,1351,Yeovil Town,1377,0.0
-2017,2nd Round Replays,,Wigan,61,AFC Fylde,1839,1.0
-2017,2nd Round Replays,,AFC Fylde,1839,Wigan,61,0.0
-2017,2nd Round Replays,,Exeter City,1364,Forest Green,1378,1.0
-2017,2nd Round Replays,,Forest Green,1378,Exeter City,1364,0.0
-2017,2nd Round Replays,,Crewe,1363,Blackburn,67,0.0
-2017,2nd Round Replays,,Blackburn,67,Crewe,1363,1.0
-2017,2nd Round Replays,,Hereford,4692,Fleetwood Town,1336,0.0
-2017,2nd Round Replays,,Fleetwood Town,1336,Hereford,4692,1.0
-2017,2nd Round Replays,,Carlisle,1371,Gillingham,1347,1.0
-2017,2nd Round Replays,,Gillingham,1347,Carlisle,1371,0.0
+2017,2nd Round Replays,2.0,Peterborough,1350,Woking,1836,1.0
+2017,2nd Round Replays,2.0,Woking,1836,Peterborough,1350,0.0
+2017,2nd Round Replays,2.0,Yeovil Town,1377,Port Vale,1351,1.0
+2017,2nd Round Replays,2.0,Port Vale,1351,Yeovil Town,1377,0.0
+2017,2nd Round Replays,2.0,Wigan,61,AFC Fylde,1839,1.0
+2017,2nd Round Replays,2.0,AFC Fylde,1839,Wigan,61,0.0
+2017,2nd Round Replays,2.0,Exeter City,1364,Forest Green,1378,1.0
+2017,2nd Round Replays,2.0,Forest Green,1378,Exeter City,1364,0.0
+2017,2nd Round Replays,2.0,Crewe,1363,Blackburn,67,0.0
+2017,2nd Round Replays,2.0,Blackburn,67,Crewe,1363,1.0
+2017,2nd Round Replays,2.0,Hereford,4692,Fleetwood Town,1336,0.0
+2017,2nd Round Replays,2.0,Fleetwood Town,1336,Hereford,4692,1.0
+2017,2nd Round Replays,2.0,Carlisle,1371,Gillingham,1347,1.0
+2017,2nd Round Replays,2.0,Gillingham,1347,Carlisle,1371,0.0
 2017,2nd Round,2.0,AFC Fylde,1839,Wigan,61,
 2017,2nd Round,2.0,Wigan,61,AFC Fylde,1839,
 2017,2nd Round,2.0,Notts County,1376,Oxford City,4684,1.0
@@ -8585,16 +8585,16 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2017,2nd Round,2.0,Boreham Wood,1830,Coventry,1346,0.0
 2017,2nd Round,2.0,Slough Town,4685,Rochdale,1339,0.0
 2017,2nd Round,2.0,Rochdale,1339,Slough Town,4685,1.0
-2017,1st Round Replays,,Accrington ST,1360,Guiseley AFC,1824,0.0
-2017,1st Round Replays,,Guiseley AFC,1824,Accrington ST,1360,1.0
-2017,1st Round Replays,,Bury,1344,Woking,1836,0.0
-2017,1st Round Replays,,Woking,1836,Bury,1344,1.0
-2017,1st Round Replays,,Scunthorpe,1340,Northampton,1337,1.0
-2017,1st Round Replays,,Northampton,1337,Scunthorpe,1340,0.0
-2017,1st Round Replays,,Tranmere,1381,Peterborough,1350,0.0
-2017,1st Round Replays,,Peterborough,1350,Tranmere,1381,1.0
-2017,1st Round Replays,,Billericay Town,4678,Leatherhead,4696,0.0
-2017,1st Round Replays,,Leatherhead,4696,Billericay Town,4678,1.0
+2017,1st Round Replays,1.0,Accrington ST,1360,Guiseley AFC,1824,0.0
+2017,1st Round Replays,1.0,Guiseley AFC,1824,Accrington ST,1360,1.0
+2017,1st Round Replays,1.0,Bury,1344,Woking,1836,0.0
+2017,1st Round Replays,1.0,Woking,1836,Bury,1344,1.0
+2017,1st Round Replays,1.0,Scunthorpe,1340,Northampton,1337,1.0
+2017,1st Round Replays,1.0,Northampton,1337,Scunthorpe,1340,0.0
+2017,1st Round Replays,1.0,Tranmere,1381,Peterborough,1350,0.0
+2017,1st Round Replays,1.0,Peterborough,1350,Tranmere,1381,1.0
+2017,1st Round Replays,1.0,Billericay Town,4678,Leatherhead,4696,0.0
+2017,1st Round Replays,1.0,Leatherhead,4696,Billericay Town,4678,1.0
 2017,1st Round,1.0,Port Vale,1351,Oxford United,1338,1.0
 2017,1st Round,1.0,Oxford United,1338,Port Vale,1351,0.0
 2017,1st Round,1.0,Notts County,1376,Bristol Rovers,1334,1.0
@@ -8675,78 +8675,78 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2017,1st Round,1.0,Heybridge Swifts,4693,Exeter City,1364,0.0
 2017,1st Round,1.0,Chorley,4679,Fleetwood Town,1336,0.0
 2017,1st Round,1.0,Fleetwood Town,1336,Chorley,4679,1.0
-2018,Quarter-finals,5.0,Watford,38,Crystal Palace,52,1.0
-2018,Quarter-finals,5.0,Crystal Palace,52,Watford,38,0.0
-2018,Quarter-finals,5.0,Swansea,76,Manchester City,50,0.0
-2018,Quarter-finals,5.0,Manchester City,50,Swansea,76,1.0
-2018,Quarter-finals,5.0,Wolves,39,Manchester United,33,1.0
-2018,Quarter-finals,5.0,Manchester United,33,Wolves,39,0.0
-2018,Quarter-finals,5.0,Millwall,58,Brighton,51,0.0
-2018,Quarter-finals,5.0,Brighton,51,Millwall,58,1.0
-2018,Semi-finals,6.0,Manchester City,50,Brighton,51,1.0
-2018,Semi-finals,6.0,Brighton,51,Manchester City,50,0.0
-2018,Semi-finals,6.0,Watford,38,Wolves,39,1.0
-2018,Semi-finals,6.0,Wolves,39,Watford,38,0.0
-2018,Final,7.0,Manchester City,50,Watford,38,1.0
-2018,Final,7.0,Watford,38,Manchester City,50,0.0
-2018,5th Round,,QPR,72,Watford,38,0.0
-2018,5th Round,,Watford,38,QPR,72,1.0
-2018,5th Round,,Brighton,51,Derby,69,1.0
-2018,5th Round,,Derby,69,Brighton,51,0.0
-2018,5th Round,,AFC Wimbledon,1333,Millwall,58,0.0
-2018,5th Round,,Millwall,58,AFC Wimbledon,1333,1.0
-2018,5th Round,,Newport County,1367,Manchester City,50,0.0
-2018,5th Round,,Manchester City,50,Newport County,1367,1.0
-2018,5th Round,,Bristol City,56,Wolves,39,0.0
-2018,5th Round,,Wolves,39,Bristol City,56,1.0
-2018,5th Round,,Doncaster,1354,Crystal Palace,52,0.0
-2018,5th Round,,Crystal Palace,52,Doncaster,1354,1.0
-2018,5th Round,,Swansea,76,Brentford,55,1.0
-2018,5th Round,,Brentford,55,Swansea,76,0.0
-2018,5th Round,,Chelsea,49,Manchester United,33,0.0
-2018,5th Round,,Manchester United,33,Chelsea,49,1.0
-2018,4th Round Replays,,Newport County,1367,Middlesbrough,70,1.0
-2018,4th Round Replays,,Middlesbrough,70,Newport County,1367,0.0
-2018,4th Round Replays,,Wolves,39,Shrewsbury,1352,1.0
-2018,4th Round Replays,,Shrewsbury,1352,Wolves,39,0.0
-2018,4th Round Replays,,QPR,72,Portsmouth,1355,1.0
-2018,4th Round Replays,,Portsmouth,1355,QPR,72,0.0
-2018,4th Round Replays,,Brentford,55,Barnet,1369,1.0
-2018,4th Round Replays,,Barnet,1369,Brentford,55,0.0
-2018,4th Round Replays,,West Brom,60,Brighton,51,0.0
-2018,4th Round Replays,,Brighton,51,West Brom,60,1.0
-2018,4th Round,,Bristol City,56,Bolton,68,1.0
-2018,4th Round,,Bolton,68,Bristol City,56,0.0
-2018,4th Round,,Arsenal,42,Manchester United,33,0.0
-2018,4th Round,,Manchester United,33,Arsenal,42,1.0
-2018,4th Round,,Accrington ST,1360,Derby,69,0.0
-2018,4th Round,,Derby,69,Accrington ST,1360,1.0
-2018,4th Round,,Swansea,76,Gillingham,1347,1.0
-2018,4th Round,,Gillingham,1347,Swansea,76,0.0
-2018,4th Round,,Shrewsbury,1352,Wolves,39,
-2018,4th Round,,Wolves,39,Shrewsbury,1352,
-2018,4th Round,,Brighton,51,West Brom,60,
-2018,4th Round,,West Brom,60,Brighton,51,
-2018,4th Round,,Doncaster,1354,Oldham,1349,1.0
-2018,4th Round,,Oldham,1349,Doncaster,1354,0.0
-2018,4th Round,,Middlesbrough,70,Newport County,1367,
-2018,4th Round,,Newport County,1367,Middlesbrough,70,
-2018,4th Round,,Manchester City,50,Burnley,44,1.0
-2018,4th Round,,Burnley,44,Manchester City,50,0.0
-2018,4th Round,,Portsmouth,1355,QPR,72,
-2018,4th Round,,QPR,72,Portsmouth,1355,
-2018,4th Round,,Newcastle,34,Watford,38,0.0
-2018,4th Round,,Watford,38,Newcastle,34,1.0
-2018,4th Round,,Millwall,58,Everton,45,1.0
-2018,4th Round,,Everton,45,Millwall,58,0.0
-2018,4th Round,,AFC Wimbledon,1333,West Ham,48,1.0
-2018,4th Round,,West Ham,48,AFC Wimbledon,1333,0.0
-2018,4th Round,,Crystal Palace,52,Tottenham,47,1.0
-2018,4th Round,,Tottenham,47,Crystal Palace,52,0.0
-2018,4th Round,,Chelsea,49,Sheffield Wednesday,74,1.0
-2018,4th Round,,Sheffield Wednesday,74,Chelsea,49,0.0
-2018,4th Round,,Barnet,1369,Brentford,55,
-2018,4th Round,,Brentford,55,Barnet,1369,
+2018,Quarter-finals,8.0,Watford,38,Crystal Palace,52,1.0
+2018,Quarter-finals,8.0,Crystal Palace,52,Watford,38,0.0
+2018,Quarter-finals,8.0,Swansea,76,Manchester City,50,0.0
+2018,Quarter-finals,8.0,Manchester City,50,Swansea,76,1.0
+2018,Quarter-finals,8.0,Wolves,39,Manchester United,33,1.0
+2018,Quarter-finals,8.0,Manchester United,33,Wolves,39,0.0
+2018,Quarter-finals,8.0,Millwall,58,Brighton,51,0.0
+2018,Quarter-finals,8.0,Brighton,51,Millwall,58,1.0
+2018,Semi-finals,9.0,Manchester City,50,Brighton,51,1.0
+2018,Semi-finals,9.0,Brighton,51,Manchester City,50,0.0
+2018,Semi-finals,9.0,Watford,38,Wolves,39,1.0
+2018,Semi-finals,9.0,Wolves,39,Watford,38,0.0
+2018,Final,10.0,Manchester City,50,Watford,38,1.0
+2018,Final,10.0,Watford,38,Manchester City,50,0.0
+2018,5th Round,5.0,QPR,72,Watford,38,0.0
+2018,5th Round,5.0,Watford,38,QPR,72,1.0
+2018,5th Round,5.0,Brighton,51,Derby,69,1.0
+2018,5th Round,5.0,Derby,69,Brighton,51,0.0
+2018,5th Round,5.0,AFC Wimbledon,1333,Millwall,58,0.0
+2018,5th Round,5.0,Millwall,58,AFC Wimbledon,1333,1.0
+2018,5th Round,5.0,Newport County,1367,Manchester City,50,0.0
+2018,5th Round,5.0,Manchester City,50,Newport County,1367,1.0
+2018,5th Round,5.0,Bristol City,56,Wolves,39,0.0
+2018,5th Round,5.0,Wolves,39,Bristol City,56,1.0
+2018,5th Round,5.0,Doncaster,1354,Crystal Palace,52,0.0
+2018,5th Round,5.0,Crystal Palace,52,Doncaster,1354,1.0
+2018,5th Round,5.0,Swansea,76,Brentford,55,1.0
+2018,5th Round,5.0,Brentford,55,Swansea,76,0.0
+2018,5th Round,5.0,Chelsea,49,Manchester United,33,0.0
+2018,5th Round,5.0,Manchester United,33,Chelsea,49,1.0
+2018,4th Round Replays,4.0,Newport County,1367,Middlesbrough,70,1.0
+2018,4th Round Replays,4.0,Middlesbrough,70,Newport County,1367,0.0
+2018,4th Round Replays,4.0,Wolves,39,Shrewsbury,1352,1.0
+2018,4th Round Replays,4.0,Shrewsbury,1352,Wolves,39,0.0
+2018,4th Round Replays,4.0,QPR,72,Portsmouth,1355,1.0
+2018,4th Round Replays,4.0,Portsmouth,1355,QPR,72,0.0
+2018,4th Round Replays,4.0,Brentford,55,Barnet,1369,1.0
+2018,4th Round Replays,4.0,Barnet,1369,Brentford,55,0.0
+2018,4th Round Replays,4.0,West Brom,60,Brighton,51,0.0
+2018,4th Round Replays,4.0,Brighton,51,West Brom,60,1.0
+2018,4th Round,4.0,Bristol City,56,Bolton,68,1.0
+2018,4th Round,4.0,Bolton,68,Bristol City,56,0.0
+2018,4th Round,4.0,Arsenal,42,Manchester United,33,0.0
+2018,4th Round,4.0,Manchester United,33,Arsenal,42,1.0
+2018,4th Round,4.0,Accrington ST,1360,Derby,69,0.0
+2018,4th Round,4.0,Derby,69,Accrington ST,1360,1.0
+2018,4th Round,4.0,Swansea,76,Gillingham,1347,1.0
+2018,4th Round,4.0,Gillingham,1347,Swansea,76,0.0
+2018,4th Round,4.0,Shrewsbury,1352,Wolves,39,
+2018,4th Round,4.0,Wolves,39,Shrewsbury,1352,
+2018,4th Round,4.0,Brighton,51,West Brom,60,
+2018,4th Round,4.0,West Brom,60,Brighton,51,
+2018,4th Round,4.0,Doncaster,1354,Oldham,1349,1.0
+2018,4th Round,4.0,Oldham,1349,Doncaster,1354,0.0
+2018,4th Round,4.0,Middlesbrough,70,Newport County,1367,
+2018,4th Round,4.0,Newport County,1367,Middlesbrough,70,
+2018,4th Round,4.0,Manchester City,50,Burnley,44,1.0
+2018,4th Round,4.0,Burnley,44,Manchester City,50,0.0
+2018,4th Round,4.0,Portsmouth,1355,QPR,72,
+2018,4th Round,4.0,QPR,72,Portsmouth,1355,
+2018,4th Round,4.0,Newcastle,34,Watford,38,0.0
+2018,4th Round,4.0,Watford,38,Newcastle,34,1.0
+2018,4th Round,4.0,Millwall,58,Everton,45,1.0
+2018,4th Round,4.0,Everton,45,Millwall,58,0.0
+2018,4th Round,4.0,AFC Wimbledon,1333,West Ham,48,1.0
+2018,4th Round,4.0,West Ham,48,AFC Wimbledon,1333,0.0
+2018,4th Round,4.0,Crystal Palace,52,Tottenham,47,1.0
+2018,4th Round,4.0,Tottenham,47,Crystal Palace,52,0.0
+2018,4th Round,4.0,Chelsea,49,Sheffield Wednesday,74,1.0
+2018,4th Round,4.0,Sheffield Wednesday,74,Chelsea,49,0.0
+2018,4th Round,4.0,Barnet,1369,Brentford,55,
+2018,4th Round,4.0,Brentford,55,Barnet,1369,
 2018,3rd Round Replays,,Luton,1359,Sheffield Wednesday,74,0.0
 2018,3rd Round Replays,,Sheffield Wednesday,74,Luton,1359,1.0
 2018,3rd Round Replays,,Blackburn,67,Newcastle,34,0.0
@@ -8819,16 +8819,16 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2018,3rd Round,3.0,Leicester,46,Newport County,1367,0.0
 2018,3rd Round,3.0,Wolves,39,Liverpool,40,1.0
 2018,3rd Round,3.0,Liverpool,40,Wolves,39,0.0
-2018,2nd Round Replays,,Bradford,1343,Peterborough,1350,0.0
-2018,2nd Round Replays,,Peterborough,1350,Bradford,1343,1.0
-2018,2nd Round Replays,,Sunderland,746,Walsall,1342,0.0
-2018,2nd Round Replays,,Walsall,1342,Sunderland,746,1.0
-2018,2nd Round Replays,,Newport County,1367,Wrexham,1837,1.0
-2018,2nd Round Replays,,Wrexham,1837,Newport County,1367,0.0
-2018,2nd Round Replays,,Southport,1826,Tranmere,1381,0.0
-2018,2nd Round Replays,,Tranmere,1381,Southport,1826,1.0
-2018,2nd Round Replays,,Blackpool,1356,Solihull Moors,1834,1.0
-2018,2nd Round Replays,,Solihull Moors,1834,Blackpool,1356,0.0
+2018,2nd Round Replays,2.0,Bradford,1343,Peterborough,1350,0.0
+2018,2nd Round Replays,2.0,Peterborough,1350,Bradford,1343,1.0
+2018,2nd Round Replays,2.0,Sunderland,746,Walsall,1342,0.0
+2018,2nd Round Replays,2.0,Walsall,1342,Sunderland,746,1.0
+2018,2nd Round Replays,2.0,Newport County,1367,Wrexham,1837,1.0
+2018,2nd Round Replays,2.0,Wrexham,1837,Newport County,1367,0.0
+2018,2nd Round Replays,2.0,Southport,1826,Tranmere,1381,0.0
+2018,2nd Round Replays,2.0,Tranmere,1381,Southport,1826,1.0
+2018,2nd Round Replays,2.0,Blackpool,1356,Solihull Moors,1834,1.0
+2018,2nd Round Replays,2.0,Solihull Moors,1834,Blackpool,1356,0.0
 2018,2nd Round,2.0,Solihull Moors,1834,Blackpool,1356,
 2018,2nd Round,2.0,Blackpool,1356,Solihull Moors,1834,
 2018,2nd Round,2.0,FC Halifax Town,1841,AFC Wimbledon,1333,0.0
@@ -8869,32 +8869,32 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2018,2nd Round,2.0,Gillingham,1347,Slough Town,4685,1.0
 2018,2nd Round,2.0,Guiseley AFC,1824,Fleetwood Town,1336,0.0
 2018,2nd Round,2.0,Fleetwood Town,1336,Guiseley AFC,1824,1.0
-2018,1st Round Replays,,Cheltenham,1372,Ebbsfleet United,1840,1.0
-2018,1st Round Replays,,Ebbsfleet United,1840,Cheltenham,1372,0.0
-2018,1st Round Replays,,Bradford,1343,Aldershot Town,1818,1.0
-2018,1st Round Replays,,Aldershot Town,1818,Bradford,1343,0.0
-2018,1st Round Replays,,Billericay Town,4678,Chesterfield,1345,0.0
-2018,1st Round Replays,,Chesterfield,1345,Billericay Town,4678,1.0
-2018,1st Round Replays,,Forest Green,1378,Oxford United,1338,0.0
-2018,1st Round Replays,,Oxford United,1338,Forest Green,1378,1.0
-2018,1st Round Replays,,Oxford City,4684,Tranmere,1381,0.0
-2018,1st Round Replays,,Tranmere,1381,Oxford City,4684,1.0
-2018,1st Round Replays,,Slough Town,4685,Sutton Utd,1835,1.0
-2018,1st Round Replays,,Sutton Utd,1835,Slough Town,4685,0.0
-2018,1st Round Replays,,FC Halifax Town,1841,Morecambe,1375,1.0
-2018,1st Round Replays,,Morecambe,1375,FC Halifax Town,1841,0.0
-2018,1st Round Replays,,Crawley Town,1362,Southend,1341,0.0
-2018,1st Round Replays,,Southend,1341,Crawley Town,1362,1.0
-2018,1st Round Replays,,Doncaster,1354,Chorley,4679,1.0
-2018,1st Round Replays,,Chorley,4679,Doncaster,1354,0.0
-2018,1st Round Replays,,Charlton,1335,Mansfield Town,1374,1.0
-2018,1st Round Replays,,Mansfield Town,1374,Charlton,1335,0.0
-2018,1st Round Replays,,Hartlepool,1366,Gillingham,1347,0.0
-2018,1st Round Replays,,Gillingham,1347,Hartlepool,1366,1.0
-2018,1st Round Replays,,Salford City,1844,Shrewsbury,1352,0.0
-2018,1st Round Replays,,Shrewsbury,1352,Salford City,1844,1.0
-2018,1st Round Replays,,Bristol Rovers,1334,Barnet,1369,0.0
-2018,1st Round Replays,,Barnet,1369,Bristol Rovers,1334,1.0
+2018,1st Round Replays,1.0,Cheltenham,1372,Ebbsfleet United,1840,1.0
+2018,1st Round Replays,1.0,Ebbsfleet United,1840,Cheltenham,1372,0.0
+2018,1st Round Replays,1.0,Bradford,1343,Aldershot Town,1818,1.0
+2018,1st Round Replays,1.0,Aldershot Town,1818,Bradford,1343,0.0
+2018,1st Round Replays,1.0,Billericay Town,4678,Chesterfield,1345,0.0
+2018,1st Round Replays,1.0,Chesterfield,1345,Billericay Town,4678,1.0
+2018,1st Round Replays,1.0,Forest Green,1378,Oxford United,1338,0.0
+2018,1st Round Replays,1.0,Oxford United,1338,Forest Green,1378,1.0
+2018,1st Round Replays,1.0,Oxford City,4684,Tranmere,1381,0.0
+2018,1st Round Replays,1.0,Tranmere,1381,Oxford City,4684,1.0
+2018,1st Round Replays,1.0,Slough Town,4685,Sutton Utd,1835,1.0
+2018,1st Round Replays,1.0,Sutton Utd,1835,Slough Town,4685,0.0
+2018,1st Round Replays,1.0,FC Halifax Town,1841,Morecambe,1375,1.0
+2018,1st Round Replays,1.0,Morecambe,1375,FC Halifax Town,1841,0.0
+2018,1st Round Replays,1.0,Crawley Town,1362,Southend,1341,0.0
+2018,1st Round Replays,1.0,Southend,1341,Crawley Town,1362,1.0
+2018,1st Round Replays,1.0,Doncaster,1354,Chorley,4679,1.0
+2018,1st Round Replays,1.0,Chorley,4679,Doncaster,1354,0.0
+2018,1st Round Replays,1.0,Charlton,1335,Mansfield Town,1374,1.0
+2018,1st Round Replays,1.0,Mansfield Town,1374,Charlton,1335,0.0
+2018,1st Round Replays,1.0,Hartlepool,1366,Gillingham,1347,0.0
+2018,1st Round Replays,1.0,Gillingham,1347,Hartlepool,1366,1.0
+2018,1st Round Replays,1.0,Salford City,1844,Shrewsbury,1352,0.0
+2018,1st Round Replays,1.0,Shrewsbury,1352,Salford City,1844,1.0
+2018,1st Round Replays,1.0,Bristol Rovers,1334,Barnet,1369,0.0
+2018,1st Round Replays,1.0,Barnet,1369,Bristol Rovers,1334,1.0
 2018,1st Round,1.0,Haringey Borough,4681,AFC Wimbledon,1333,0.0
 2018,1st Round,1.0,AFC Wimbledon,1333,Haringey Borough,4681,1.0
 2018,1st Round,1.0,Maidenhead,1838,Portsmouth,1355,0.0
@@ -9067,34 +9067,34 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2019,2nd Round,2.0,Fleetwood Town,1336,Crawley Town,1362,1.0
 2019,2nd Round,2.0,Northampton,1337,Notts County,1376,1.0
 2019,2nd Round,2.0,Notts County,1376,Northampton,1337,0.0
-2019,1st Round Replays,,Gillingham,1347,Sunderland,746,1.0
-2019,1st Round Replays,,Sunderland,746,Gillingham,1347,0.0
-2019,1st Round Replays,,Exeter City,1364,Cambridge United,1370,1.0
-2019,1st Round Replays,,Cambridge United,1370,Exeter City,1364,0.0
-2019,1st Round Replays,,Eastleigh,1822,Stourbridge,4710,1.0
-2019,1st Round Replays,,Stourbridge,4710,Eastleigh,1822,0.0
-2019,1st Round Replays,,Burton Albion,748,Salford City,1844,1.0
-2019,1st Round Replays,,Salford City,1844,Burton Albion,748,0.0
-2019,1st Round Replays,,Doncaster,1354,AFC Wimbledon,1333,1.0
-2019,1st Round Replays,,AFC Wimbledon,1333,Doncaster,1354,0.0
-2019,1st Round Replays,,Bradford,1343,Shrewsbury,1352,0.0
-2019,1st Round Replays,,Shrewsbury,1352,Bradford,1343,1.0
-2019,1st Round Replays,,Newport County,1367,Grimsby,1365,1.0
-2019,1st Round Replays,,Grimsby,1365,Newport County,1367,0.0
-2019,1st Round Replays,,Swindon Town,1353,Cheltenham,1372,0.0
-2019,1st Round Replays,,Cheltenham,1372,Swindon Town,1353,1.0
-2019,1st Round Replays,,Rochdale,1339,Wrexham,1837,1.0
-2019,1st Round Replays,,Wrexham,1837,Rochdale,1339,0.0
-2019,1st Round Replays,,Peterborough,1350,Stevenage,1368,1.0
-2019,1st Round Replays,,Stevenage,1368,Peterborough,1350,0.0
-2019,1st Round Replays,,Bromley,1832,Bristol Rovers,1334,0.0
-2019,1st Round Replays,,Bristol Rovers,1334,Bromley,1832,1.0
-2019,1st Round Replays,,Lincoln,1379,Ipswich,57,0.0
-2019,1st Round Replays,,Ipswich,57,Lincoln,1379,1.0
-2019,1st Round Replays,,Darlington 1883,10157,Walsall,1342,0.0
-2019,1st Round Replays,,Walsall,1342,Darlington 1883,10157,1.0
-2019,1st Round Replays,,Wycombe,1358,Tranmere,1381,0.0
-2019,1st Round Replays,,Tranmere,1381,Wycombe,1358,1.0
+2019,1st Round Replays,1.0,Gillingham,1347,Sunderland,746,1.0
+2019,1st Round Replays,1.0,Sunderland,746,Gillingham,1347,0.0
+2019,1st Round Replays,1.0,Exeter City,1364,Cambridge United,1370,1.0
+2019,1st Round Replays,1.0,Cambridge United,1370,Exeter City,1364,0.0
+2019,1st Round Replays,1.0,Eastleigh,1822,Stourbridge,4710,1.0
+2019,1st Round Replays,1.0,Stourbridge,4710,Eastleigh,1822,0.0
+2019,1st Round Replays,1.0,Burton Albion,748,Salford City,1844,1.0
+2019,1st Round Replays,1.0,Salford City,1844,Burton Albion,748,0.0
+2019,1st Round Replays,1.0,Doncaster,1354,AFC Wimbledon,1333,1.0
+2019,1st Round Replays,1.0,AFC Wimbledon,1333,Doncaster,1354,0.0
+2019,1st Round Replays,1.0,Bradford,1343,Shrewsbury,1352,0.0
+2019,1st Round Replays,1.0,Shrewsbury,1352,Bradford,1343,1.0
+2019,1st Round Replays,1.0,Newport County,1367,Grimsby,1365,1.0
+2019,1st Round Replays,1.0,Grimsby,1365,Newport County,1367,0.0
+2019,1st Round Replays,1.0,Swindon Town,1353,Cheltenham,1372,0.0
+2019,1st Round Replays,1.0,Cheltenham,1372,Swindon Town,1353,1.0
+2019,1st Round Replays,1.0,Rochdale,1339,Wrexham,1837,1.0
+2019,1st Round Replays,1.0,Wrexham,1837,Rochdale,1339,0.0
+2019,1st Round Replays,1.0,Peterborough,1350,Stevenage,1368,1.0
+2019,1st Round Replays,1.0,Stevenage,1368,Peterborough,1350,0.0
+2019,1st Round Replays,1.0,Bromley,1832,Bristol Rovers,1334,0.0
+2019,1st Round Replays,1.0,Bristol Rovers,1334,Bromley,1832,1.0
+2019,1st Round Replays,1.0,Lincoln,1379,Ipswich,57,0.0
+2019,1st Round Replays,1.0,Ipswich,57,Lincoln,1379,1.0
+2019,1st Round Replays,1.0,Darlington 1883,10157,Walsall,1342,0.0
+2019,1st Round Replays,1.0,Walsall,1342,Darlington 1883,10157,1.0
+2019,1st Round Replays,1.0,Wycombe,1358,Tranmere,1381,0.0
+2019,1st Round Replays,1.0,Tranmere,1381,Wycombe,1358,1.0
 2019,4th Round Qualifying Replays,,Stourbridge,4710,Whitby Town,7757,1.0
 2019,4th Round Qualifying Replays,,Whitby Town,7757,Stourbridge,4710,0.0
 2019,4th Round Qualifying Replays,,Wrexham,1837,Chesterfield,1345,1.0
@@ -10581,10 +10581,10 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2019,2nd Round,2.0,Plymouth,1357,Bristol Rovers,1334,
 2019,2nd Round,2.0,Tranmere,1381,Chichester City,7628,1.0
 2019,2nd Round,2.0,Chichester City,7628,Tranmere,1381,0.0
-2019,2nd Round Replays,,Carlisle,1371,Forest Green,1378,1.0
-2019,2nd Round Replays,,Forest Green,1378,Carlisle,1371,0.0
-2019,2nd Round Replays,,Crewe,1363,Eastleigh,1822,1.0
-2019,2nd Round Replays,,Eastleigh,1822,Crewe,1363,0.0
+2019,2nd Round Replays,2.0,Carlisle,1371,Forest Green,1378,1.0
+2019,2nd Round Replays,2.0,Forest Green,1378,Carlisle,1371,0.0
+2019,2nd Round Replays,2.0,Crewe,1363,Eastleigh,1822,1.0
+2019,2nd Round Replays,2.0,Eastleigh,1822,Crewe,1363,0.0
 2019,3rd Round,3.0,QPR,72,Swansea,76,1.0
 2019,3rd Round,3.0,Swansea,76,QPR,72,0.0
 2019,3rd Round,3.0,Leicester,46,Wigan,61,1.0
@@ -10639,14 +10639,14 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2019,3rd Round,3.0,Portsmouth,1355,Fleetwood Town,1336,1.0
 2019,3rd Round,3.0,Sheffield Utd,62,AFC Fylde,1839,1.0
 2019,3rd Round,3.0,AFC Fylde,1839,Sheffield Utd,62,0.0
-2019,2nd Round Replays,,Ipswich,57,Coventry,1346,0.0
-2019,2nd Round Replays,,Coventry,1346,Ipswich,57,1.0
-2019,2nd Round Replays,,Hartlepool,1366,Exeter City,1364,1.0
-2019,2nd Round Replays,,Exeter City,1364,Hartlepool,1366,0.0
-2019,2nd Round Replays,,Boston United,8146,Rochdale,1339,0.0
-2019,2nd Round Replays,,Rochdale,1339,Boston United,8146,1.0
-2019,2nd Round Replays,,Plymouth,1357,Bristol Rovers,1334,0.0
-2019,2nd Round Replays,,Bristol Rovers,1334,Plymouth,1357,1.0
+2019,2nd Round Replays,2.0,Ipswich,57,Coventry,1346,0.0
+2019,2nd Round Replays,2.0,Coventry,1346,Ipswich,57,1.0
+2019,2nd Round Replays,2.0,Hartlepool,1366,Exeter City,1364,1.0
+2019,2nd Round Replays,2.0,Exeter City,1364,Hartlepool,1366,0.0
+2019,2nd Round Replays,2.0,Boston United,8146,Rochdale,1339,0.0
+2019,2nd Round Replays,2.0,Rochdale,1339,Boston United,8146,1.0
+2019,2nd Round Replays,2.0,Plymouth,1357,Bristol Rovers,1334,0.0
+2019,2nd Round Replays,2.0,Bristol Rovers,1334,Plymouth,1357,1.0
 2019,3rd Round,3.0,Cardiff,43,Carlisle,1371,
 2019,3rd Round,3.0,Carlisle,1371,Cardiff,43,
 2019,3rd Round,3.0,Oxford United,1338,Hartlepool,1366,1.0
@@ -10657,26 +10657,26 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2019,3rd Round,3.0,Newcastle,34,Rochdale,1339,
 2019,3rd Round,3.0,Bristol Rovers,1334,Coventry,1346,
 2019,3rd Round,3.0,Coventry,1346,Bristol Rovers,1334,
-2019,4th Round,,West Ham,48,West Brom,60,0.0
-2019,4th Round,,West Brom,60,West Ham,48,1.0
-2019,4th Round,,Burnley,44,Norwich,71,0.0
-2019,4th Round,,Norwich,71,Burnley,44,1.0
-2019,4th Round,,Manchester City,50,Fulham,36,1.0
-2019,4th Round,,Fulham,36,Manchester City,50,0.0
-2019,4th Round,,Portsmouth,1355,Barnsley,747,1.0
-2019,4th Round,,Barnsley,747,Portsmouth,1355,0.0
-2019,4th Round,,Hull City,64,Chelsea,49,0.0
-2019,4th Round,,Chelsea,49,Hull City,64,1.0
-2019,4th Round,,QPR,72,Sheffield Wednesday,74,0.0
-2019,4th Round,,Sheffield Wednesday,74,QPR,72,1.0
-2019,4th Round,,Bournemouth,35,Arsenal,42,0.0
-2019,4th Round,,Arsenal,42,Bournemouth,35,1.0
-2019,4th Round,,Northampton,1337,Derby,69,
-2019,4th Round,,Derby,69,Northampton,1337,
-2019,4th Round,,Brentford,55,Leicester,46,0.0
-2019,4th Round,,Leicester,46,Brentford,55,1.0
-2019,4th Round,,Millwall,58,Sheffield Utd,62,0.0
-2019,4th Round,,Sheffield Utd,62,Millwall,58,1.0
+2019,4th Round,4.0,West Ham,48,West Brom,60,0.0
+2019,4th Round,4.0,West Brom,60,West Ham,48,1.0
+2019,4th Round,4.0,Burnley,44,Norwich,71,0.0
+2019,4th Round,4.0,Norwich,71,Burnley,44,1.0
+2019,4th Round,4.0,Manchester City,50,Fulham,36,1.0
+2019,4th Round,4.0,Fulham,36,Manchester City,50,0.0
+2019,4th Round,4.0,Portsmouth,1355,Barnsley,747,1.0
+2019,4th Round,4.0,Barnsley,747,Portsmouth,1355,0.0
+2019,4th Round,4.0,Hull City,64,Chelsea,49,0.0
+2019,4th Round,4.0,Chelsea,49,Hull City,64,1.0
+2019,4th Round,4.0,QPR,72,Sheffield Wednesday,74,0.0
+2019,4th Round,4.0,Sheffield Wednesday,74,QPR,72,1.0
+2019,4th Round,4.0,Bournemouth,35,Arsenal,42,0.0
+2019,4th Round,4.0,Arsenal,42,Bournemouth,35,1.0
+2019,4th Round,4.0,Northampton,1337,Derby,69,
+2019,4th Round,4.0,Derby,69,Northampton,1337,
+2019,4th Round,4.0,Brentford,55,Leicester,46,0.0
+2019,4th Round,4.0,Leicester,46,Brentford,55,1.0
+2019,4th Round,4.0,Millwall,58,Sheffield Utd,62,0.0
+2019,4th Round,4.0,Sheffield Utd,62,Millwall,58,1.0
 2019,3rd Round Replays,,Manchester United,33,Wolves,39,1.0
 2019,3rd Round Replays,,Wolves,39,Manchester United,33,0.0
 2019,3rd Round Replays,,Newcastle,34,Rochdale,1339,1.0
@@ -10693,60 +10693,60 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2019,3rd Round Replays,,Middlesbrough,70,Tottenham,47,0.0
 2019,3rd Round Replays,,Carlisle,1371,Cardiff,43,0.0
 2019,3rd Round Replays,,Cardiff,43,Carlisle,1371,1.0
-2019,4th Round,,Reading,53,Cardiff,43,
-2019,4th Round,,Cardiff,43,Reading,53,
-2019,4th Round,,Coventry,1346,Birmingham,54,
-2019,4th Round,,Birmingham,54,Coventry,1346,
-2019,4th Round,,Newcastle,34,Oxford United,1338,
-2019,4th Round,,Oxford United,1338,Newcastle,34,
-2019,4th Round,,Southampton,41,Tottenham,47,
-2019,4th Round,,Tottenham,47,Southampton,41,
-2019,4th Round,,Shrewsbury,1352,Liverpool,40,
-2019,4th Round,,Liverpool,40,Shrewsbury,1352,
-2019,4th Round Replays,,Cardiff,43,Reading,53,0.0
-2019,4th Round Replays,,Reading,53,Cardiff,43,1.0
-2019,4th Round Replays,,Derby,69,Northampton,1337,1.0
-2019,4th Round Replays,,Northampton,1337,Derby,69,0.0
-2019,4th Round Replays,,Oxford United,1338,Newcastle,34,0.0
-2019,4th Round Replays,,Newcastle,34,Oxford United,1338,1.0
-2019,4th Round Replays,,Birmingham,54,Coventry,1346,1.0
-2019,4th Round Replays,,Coventry,1346,Birmingham,54,0.0
-2019,4th Round Replays,,Tottenham,47,Southampton,41,1.0
-2019,4th Round Replays,,Southampton,41,Tottenham,47,0.0
-2019,4th Round,,Tranmere,1381,Manchester United,33,0.0
-2019,4th Round,,Manchester United,33,Tranmere,1381,1.0
-2019,5th Round,,Sheffield Wednesday,74,Manchester City,50,0.0
-2019,5th Round,,Manchester City,50,Sheffield Wednesday,74,1.0
-2019,5th Round,,Portsmouth,1355,Arsenal,42,0.0
-2019,5th Round,,Arsenal,42,Portsmouth,1355,1.0
-2019,4th Round Replays,,Liverpool,40,Shrewsbury,1352,1.0
-2019,4th Round Replays,,Shrewsbury,1352,Liverpool,40,0.0
-2019,5th Round,,Chelsea,49,Liverpool,40,1.0
-2019,5th Round,,Liverpool,40,Chelsea,49,0.0
-2019,5th Round,,Reading,53,Sheffield Utd,62,0.0
-2019,5th Round,,Sheffield Utd,62,Reading,53,1.0
-2019,5th Round,,West Brom,60,Newcastle,34,0.0
-2019,5th Round,,Newcastle,34,West Brom,60,1.0
-2019,5th Round,,Leicester,46,Birmingham,54,1.0
-2019,5th Round,,Birmingham,54,Leicester,46,0.0
-2019,5th Round,,Tottenham,47,Norwich,71,0.0
-2019,5th Round,,Norwich,71,Tottenham,47,1.0
-2019,5th Round,,Derby,69,Manchester United,33,0.0
-2019,5th Round,,Manchester United,33,Derby,69,1.0
-2019,Quarter-finals,5.0,Sheffield Utd,62,Arsenal,42,0.0
-2019,Quarter-finals,5.0,Arsenal,42,Sheffield Utd,62,1.0
-2019,Quarter-finals,5.0,Newcastle,34,Manchester City,50,0.0
-2019,Quarter-finals,5.0,Manchester City,50,Newcastle,34,1.0
-2019,Quarter-finals,5.0,Norwich,71,Manchester United,33,0.0
-2019,Quarter-finals,5.0,Manchester United,33,Norwich,71,1.0
-2019,Quarter-finals,5.0,Leicester,46,Chelsea,49,0.0
-2019,Quarter-finals,5.0,Chelsea,49,Leicester,46,1.0
-2019,Semi-finals,6.0,Manchester United,33,Chelsea,49,0.0
-2019,Semi-finals,6.0,Chelsea,49,Manchester United,33,1.0
-2019,Semi-finals,6.0,Arsenal,42,Manchester City,50,1.0
-2019,Semi-finals,6.0,Manchester City,50,Arsenal,42,0.0
-2019,Final,7.0,Arsenal,42,Chelsea,49,1.0
-2019,Final,7.0,Chelsea,49,Arsenal,42,0.0
+2019,4th Round,4.0,Reading,53,Cardiff,43,
+2019,4th Round,4.0,Cardiff,43,Reading,53,
+2019,4th Round,4.0,Coventry,1346,Birmingham,54,
+2019,4th Round,4.0,Birmingham,54,Coventry,1346,
+2019,4th Round,4.0,Newcastle,34,Oxford United,1338,
+2019,4th Round,4.0,Oxford United,1338,Newcastle,34,
+2019,4th Round,4.0,Southampton,41,Tottenham,47,
+2019,4th Round,4.0,Tottenham,47,Southampton,41,
+2019,4th Round,4.0,Shrewsbury,1352,Liverpool,40,
+2019,4th Round,4.0,Liverpool,40,Shrewsbury,1352,
+2019,4th Round Replays,4.0,Cardiff,43,Reading,53,0.0
+2019,4th Round Replays,4.0,Reading,53,Cardiff,43,1.0
+2019,4th Round Replays,4.0,Derby,69,Northampton,1337,1.0
+2019,4th Round Replays,4.0,Northampton,1337,Derby,69,0.0
+2019,4th Round Replays,4.0,Oxford United,1338,Newcastle,34,0.0
+2019,4th Round Replays,4.0,Newcastle,34,Oxford United,1338,1.0
+2019,4th Round Replays,4.0,Birmingham,54,Coventry,1346,1.0
+2019,4th Round Replays,4.0,Coventry,1346,Birmingham,54,0.0
+2019,4th Round Replays,4.0,Tottenham,47,Southampton,41,1.0
+2019,4th Round Replays,4.0,Southampton,41,Tottenham,47,0.0
+2019,4th Round,4.0,Tranmere,1381,Manchester United,33,0.0
+2019,4th Round,4.0,Manchester United,33,Tranmere,1381,1.0
+2019,5th Round,5.0,Sheffield Wednesday,74,Manchester City,50,0.0
+2019,5th Round,5.0,Manchester City,50,Sheffield Wednesday,74,1.0
+2019,5th Round,5.0,Portsmouth,1355,Arsenal,42,0.0
+2019,5th Round,5.0,Arsenal,42,Portsmouth,1355,1.0
+2019,4th Round Replays,4.0,Liverpool,40,Shrewsbury,1352,1.0
+2019,4th Round Replays,4.0,Shrewsbury,1352,Liverpool,40,0.0
+2019,5th Round,5.0,Chelsea,49,Liverpool,40,1.0
+2019,5th Round,5.0,Liverpool,40,Chelsea,49,0.0
+2019,5th Round,5.0,Reading,53,Sheffield Utd,62,0.0
+2019,5th Round,5.0,Sheffield Utd,62,Reading,53,1.0
+2019,5th Round,5.0,West Brom,60,Newcastle,34,0.0
+2019,5th Round,5.0,Newcastle,34,West Brom,60,1.0
+2019,5th Round,5.0,Leicester,46,Birmingham,54,1.0
+2019,5th Round,5.0,Birmingham,54,Leicester,46,0.0
+2019,5th Round,5.0,Tottenham,47,Norwich,71,0.0
+2019,5th Round,5.0,Norwich,71,Tottenham,47,1.0
+2019,5th Round,5.0,Derby,69,Manchester United,33,0.0
+2019,5th Round,5.0,Manchester United,33,Derby,69,1.0
+2019,Quarter-finals,8.0,Sheffield Utd,62,Arsenal,42,0.0
+2019,Quarter-finals,8.0,Arsenal,42,Sheffield Utd,62,1.0
+2019,Quarter-finals,8.0,Newcastle,34,Manchester City,50,0.0
+2019,Quarter-finals,8.0,Manchester City,50,Newcastle,34,1.0
+2019,Quarter-finals,8.0,Norwich,71,Manchester United,33,0.0
+2019,Quarter-finals,8.0,Manchester United,33,Norwich,71,1.0
+2019,Quarter-finals,8.0,Leicester,46,Chelsea,49,0.0
+2019,Quarter-finals,8.0,Chelsea,49,Leicester,46,1.0
+2019,Semi-finals,9.0,Manchester United,33,Chelsea,49,0.0
+2019,Semi-finals,9.0,Chelsea,49,Manchester United,33,1.0
+2019,Semi-finals,9.0,Arsenal,42,Manchester City,50,1.0
+2019,Semi-finals,9.0,Manchester City,50,Arsenal,42,0.0
+2019,Final,10.0,Arsenal,42,Chelsea,49,1.0
+2019,Final,10.0,Chelsea,49,Arsenal,42,0.0
 2020,Extra Preliminary Round,,Penrith AFC,8896,Pickering Town,7246,1.0
 2020,Extra Preliminary Round,,Pickering Town,7246,Penrith AFC,8896,0.0
 2020,Extra Preliminary Round,,Northallerton Town,8883,Billingham Town,8706,0.0
@@ -12155,68 +12155,68 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2020,3rd Round,3.0,Millwall,58,Boreham Wood,1830,1.0
 2020,3rd Round,3.0,Burnley,44,Milton Keynes Dons,1348,1.0
 2020,3rd Round,3.0,Milton Keynes Dons,1348,Burnley,44,0.0
-2020,4th Round,,Brighton,51,Blackpool,1356,1.0
-2020,4th Round,,Blackpool,1356,Brighton,51,0.0
-2020,4th Round,,Wycombe,1358,Tottenham,47,0.0
-2020,4th Round,,Tottenham,47,Wycombe,1358,1.0
-2020,4th Round,,Fulham,36,Burnley,44,0.0
-2020,4th Round,,Burnley,44,Fulham,36,1.0
-2020,4th Round,,Sheffield Utd,62,Plymouth,1357,1.0
-2020,4th Round,,Plymouth,1357,Sheffield Utd,62,0.0
-2020,4th Round,,Chelsea,49,Luton,1359,1.0
-2020,4th Round,,Luton,1359,Chelsea,49,0.0
-2020,4th Round,,West Ham,48,Doncaster,1354,1.0
-2020,4th Round,,Doncaster,1354,West Ham,48,0.0
-2020,4th Round,,Brentford,55,Leicester,46,0.0
-2020,4th Round,,Leicester,46,Brentford,55,1.0
-2020,4th Round,,Everton,45,Sheffield Wednesday,74,1.0
-2020,4th Round,,Sheffield Wednesday,74,Everton,45,0.0
-2020,4th Round,,Cheltenham,1372,Manchester City,50,0.0
-2020,4th Round,,Manchester City,50,Cheltenham,1372,1.0
-2020,4th Round,,Bournemouth,35,Crawley Town,1362,1.0
-2020,4th Round,,Crawley Town,1362,Bournemouth,35,0.0
-2020,4th Round,,Swansea,76,Nottingham Forest,65,1.0
-2020,4th Round,,Nottingham Forest,65,Swansea,76,0.0
-2020,4th Round,,Manchester United,33,Liverpool,40,1.0
-2020,4th Round,,Liverpool,40,Manchester United,33,0.0
-2020,4th Round,,Barnsley,747,Norwich,71,1.0
-2020,4th Round,,Norwich,71,Barnsley,747,0.0
-2020,4th Round,,Chorley,4679,Wolves,39,0.0
-2020,4th Round,,Wolves,39,Chorley,4679,1.0
-2020,4th Round,,Millwall,58,Bristol City,56,0.0
-2020,4th Round,,Bristol City,56,Millwall,58,1.0
-2020,4th Round,,Southampton,41,Arsenal,42,1.0
-2020,4th Round,,Arsenal,42,Southampton,41,0.0
-2020,5th Round,,Manchester United,33,West Ham,48,1.0
-2020,5th Round,,West Ham,48,Manchester United,33,0.0
-2020,5th Round,,Sheffield Utd,62,Bristol City,56,1.0
-2020,5th Round,,Bristol City,56,Sheffield Utd,62,0.0
-2020,5th Round,,Wolves,39,Southampton,41,0.0
-2020,5th Round,,Southampton,41,Wolves,39,1.0
-2020,5th Round,,Barnsley,747,Chelsea,49,0.0
-2020,5th Round,,Chelsea,49,Barnsley,747,1.0
-2020,5th Round,,Swansea,76,Manchester City,50,0.0
-2020,5th Round,,Manchester City,50,Swansea,76,1.0
-2020,5th Round,,Leicester,46,Brighton,51,1.0
-2020,5th Round,,Brighton,51,Leicester,46,0.0
-2020,5th Round,,Everton,45,Tottenham,47,1.0
-2020,5th Round,,Tottenham,47,Everton,45,0.0
-2020,5th Round,,Burnley,44,Bournemouth,35,0.0
-2020,5th Round,,Bournemouth,35,Burnley,44,1.0
-2020,Quarter-finals,5.0,Everton,45,Manchester City,50,0.0
-2020,Quarter-finals,5.0,Manchester City,50,Everton,45,1.0
-2020,Quarter-finals,5.0,Bournemouth,35,Southampton,41,0.0
-2020,Quarter-finals,5.0,Southampton,41,Bournemouth,35,1.0
-2020,Quarter-finals,5.0,Leicester,46,Manchester United,33,1.0
-2020,Quarter-finals,5.0,Manchester United,33,Leicester,46,0.0
-2020,Quarter-finals,5.0,Chelsea,49,Sheffield Utd,62,1.0
-2020,Quarter-finals,5.0,Sheffield Utd,62,Chelsea,49,0.0
-2020,Semi-finals,6.0,Leicester,46,Southampton,41,1.0
-2020,Semi-finals,6.0,Southampton,41,Leicester,46,0.0
-2020,Semi-finals,6.0,Chelsea,49,Manchester City,50,1.0
-2020,Semi-finals,6.0,Manchester City,50,Chelsea,49,0.0
-2020,Final,7.0,Chelsea,49,Leicester,46,0.0
-2020,Final,7.0,Leicester,46,Chelsea,49,1.0
+2020,4th Round,4.0,Brighton,51,Blackpool,1356,1.0
+2020,4th Round,4.0,Blackpool,1356,Brighton,51,0.0
+2020,4th Round,4.0,Wycombe,1358,Tottenham,47,0.0
+2020,4th Round,4.0,Tottenham,47,Wycombe,1358,1.0
+2020,4th Round,4.0,Fulham,36,Burnley,44,0.0
+2020,4th Round,4.0,Burnley,44,Fulham,36,1.0
+2020,4th Round,4.0,Sheffield Utd,62,Plymouth,1357,1.0
+2020,4th Round,4.0,Plymouth,1357,Sheffield Utd,62,0.0
+2020,4th Round,4.0,Chelsea,49,Luton,1359,1.0
+2020,4th Round,4.0,Luton,1359,Chelsea,49,0.0
+2020,4th Round,4.0,West Ham,48,Doncaster,1354,1.0
+2020,4th Round,4.0,Doncaster,1354,West Ham,48,0.0
+2020,4th Round,4.0,Brentford,55,Leicester,46,0.0
+2020,4th Round,4.0,Leicester,46,Brentford,55,1.0
+2020,4th Round,4.0,Everton,45,Sheffield Wednesday,74,1.0
+2020,4th Round,4.0,Sheffield Wednesday,74,Everton,45,0.0
+2020,4th Round,4.0,Cheltenham,1372,Manchester City,50,0.0
+2020,4th Round,4.0,Manchester City,50,Cheltenham,1372,1.0
+2020,4th Round,4.0,Bournemouth,35,Crawley Town,1362,1.0
+2020,4th Round,4.0,Crawley Town,1362,Bournemouth,35,0.0
+2020,4th Round,4.0,Swansea,76,Nottingham Forest,65,1.0
+2020,4th Round,4.0,Nottingham Forest,65,Swansea,76,0.0
+2020,4th Round,4.0,Manchester United,33,Liverpool,40,1.0
+2020,4th Round,4.0,Liverpool,40,Manchester United,33,0.0
+2020,4th Round,4.0,Barnsley,747,Norwich,71,1.0
+2020,4th Round,4.0,Norwich,71,Barnsley,747,0.0
+2020,4th Round,4.0,Chorley,4679,Wolves,39,0.0
+2020,4th Round,4.0,Wolves,39,Chorley,4679,1.0
+2020,4th Round,4.0,Millwall,58,Bristol City,56,0.0
+2020,4th Round,4.0,Bristol City,56,Millwall,58,1.0
+2020,4th Round,4.0,Southampton,41,Arsenal,42,1.0
+2020,4th Round,4.0,Arsenal,42,Southampton,41,0.0
+2020,5th Round,5.0,Manchester United,33,West Ham,48,1.0
+2020,5th Round,5.0,West Ham,48,Manchester United,33,0.0
+2020,5th Round,5.0,Sheffield Utd,62,Bristol City,56,1.0
+2020,5th Round,5.0,Bristol City,56,Sheffield Utd,62,0.0
+2020,5th Round,5.0,Wolves,39,Southampton,41,0.0
+2020,5th Round,5.0,Southampton,41,Wolves,39,1.0
+2020,5th Round,5.0,Barnsley,747,Chelsea,49,0.0
+2020,5th Round,5.0,Chelsea,49,Barnsley,747,1.0
+2020,5th Round,5.0,Swansea,76,Manchester City,50,0.0
+2020,5th Round,5.0,Manchester City,50,Swansea,76,1.0
+2020,5th Round,5.0,Leicester,46,Brighton,51,1.0
+2020,5th Round,5.0,Brighton,51,Leicester,46,0.0
+2020,5th Round,5.0,Everton,45,Tottenham,47,1.0
+2020,5th Round,5.0,Tottenham,47,Everton,45,0.0
+2020,5th Round,5.0,Burnley,44,Bournemouth,35,0.0
+2020,5th Round,5.0,Bournemouth,35,Burnley,44,1.0
+2020,Quarter-finals,8.0,Everton,45,Manchester City,50,0.0
+2020,Quarter-finals,8.0,Manchester City,50,Everton,45,1.0
+2020,Quarter-finals,8.0,Bournemouth,35,Southampton,41,0.0
+2020,Quarter-finals,8.0,Southampton,41,Bournemouth,35,1.0
+2020,Quarter-finals,8.0,Leicester,46,Manchester United,33,1.0
+2020,Quarter-finals,8.0,Manchester United,33,Leicester,46,0.0
+2020,Quarter-finals,8.0,Chelsea,49,Sheffield Utd,62,1.0
+2020,Quarter-finals,8.0,Sheffield Utd,62,Chelsea,49,0.0
+2020,Semi-finals,9.0,Leicester,46,Southampton,41,1.0
+2020,Semi-finals,9.0,Southampton,41,Leicester,46,0.0
+2020,Semi-finals,9.0,Chelsea,49,Manchester City,50,1.0
+2020,Semi-finals,9.0,Manchester City,50,Chelsea,49,0.0
+2020,Final,10.0,Chelsea,49,Leicester,46,0.0
+2020,Final,10.0,Leicester,46,Chelsea,49,1.0
 2021,Preliminary Round,0.0,Marske United,7658,Pickering Town,7246,1.0
 2021,Preliminary Round,0.0,Pickering Town,7246,Marske United,7658,0.0
 2021,Preliminary Round,0.0,Stockton Town,8953,Ossett United,7662,1.0
@@ -13761,22 +13761,22 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2021,1st Round,1.0,Havant & Wville,1843,Charlton,1335,0.0
 2021,1st Round,1.0,Yate Town,7762,Yeovil Town,1377,0.0
 2021,1st Round,1.0,Yeovil Town,1377,Yate Town,7762,1.0
-2021,1st Round Replays,,Cheltenham,1372,Gillingham,1347,1.0
-2021,1st Round Replays,,Gillingham,1347,Cheltenham,1372,0.0
-2021,1st Round Replays,,Solihull Moors,1834,Wigan,61,0.0
-2021,1st Round Replays,,Wigan,61,Solihull Moors,1834,1.0
-2021,1st Round Replays,,Oldham,1349,Ipswich,57,0.0
-2021,1st Round Replays,,Ipswich,57,Oldham,1349,1.0
-2021,1st Round Replays,,Cambridge United,1370,Northampton,1337,1.0
-2021,1st Round Replays,,Northampton,1337,Cambridge United,1370,0.0
-2021,1st Round Replays,,Stevenage,1368,Milton Keynes Dons,1348,1.0
-2021,1st Round Replays,,Milton Keynes Dons,1348,Stevenage,1368,0.0
-2021,1st Round Replays,,Wycombe,1358,Hartlepool,1366,0.0
-2021,1st Round Replays,,Hartlepool,1366,Wycombe,1358,1.0
-2021,1st Round Replays,,Altrincham,4700,Gateshead,1823,0.0
-2021,1st Round Replays,,Gateshead,1823,Altrincham,4700,1.0
-2021,1st Round Replays,,Exeter City,1364,Bradford,1343,1.0
-2021,1st Round Replays,,Bradford,1343,Exeter City,1364,0.0
+2021,1st Round Replays,1.0,Cheltenham,1372,Gillingham,1347,1.0
+2021,1st Round Replays,1.0,Gillingham,1347,Cheltenham,1372,0.0
+2021,1st Round Replays,1.0,Solihull Moors,1834,Wigan,61,0.0
+2021,1st Round Replays,1.0,Wigan,61,Solihull Moors,1834,1.0
+2021,1st Round Replays,1.0,Oldham,1349,Ipswich,57,0.0
+2021,1st Round Replays,1.0,Ipswich,57,Oldham,1349,1.0
+2021,1st Round Replays,1.0,Cambridge United,1370,Northampton,1337,1.0
+2021,1st Round Replays,1.0,Northampton,1337,Cambridge United,1370,0.0
+2021,1st Round Replays,1.0,Stevenage,1368,Milton Keynes Dons,1348,1.0
+2021,1st Round Replays,1.0,Milton Keynes Dons,1348,Stevenage,1368,0.0
+2021,1st Round Replays,1.0,Wycombe,1358,Hartlepool,1366,0.0
+2021,1st Round Replays,1.0,Hartlepool,1366,Wycombe,1358,1.0
+2021,1st Round Replays,1.0,Altrincham,4700,Gateshead,1823,0.0
+2021,1st Round Replays,1.0,Gateshead,1823,Altrincham,4700,1.0
+2021,1st Round Replays,1.0,Exeter City,1364,Bradford,1343,1.0
+2021,1st Round Replays,1.0,Bradford,1343,Exeter City,1364,0.0
 2021,2nd Round,2.0,Burton Albion,748,Port Vale,1351,0.0
 2021,2nd Round,2.0,Port Vale,1351,Burton Albion,748,1.0
 2021,2nd Round,2.0,Buxton,7706,Morecambe,1375,0.0
@@ -13797,14 +13797,14 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2021,2nd Round,2.0,Chesterfield,1345,Salford City,1844,1.0
 2021,2nd Round,2.0,Portsmouth,1355,Harrogate Town,1842,0.0
 2021,2nd Round,2.0,Harrogate Town,1842,Portsmouth,1355,1.0
-2021,1st Round Replays,,Plymouth,1357,Sheffield Wednesday,74,1.0
-2021,1st Round Replays,,Sheffield Wednesday,74,Plymouth,1357,0.0
-2021,1st Round Replays,,Notts County,1376,Rochdale,1339,0.0
-2021,1st Round Replays,,Rochdale,1339,Notts County,1376,1.0
-2021,1st Round Replays,,Stockport County,4686,Bolton,68,1.0
-2021,1st Round Replays,,Bolton,68,Stockport County,4686,0.0
-2021,1st Round Replays,,Bristol Rovers,1334,Oxford United,1338,1.0
-2021,1st Round Replays,,Oxford United,1338,Bristol Rovers,1334,0.0
+2021,1st Round Replays,1.0,Plymouth,1357,Sheffield Wednesday,74,1.0
+2021,1st Round Replays,1.0,Sheffield Wednesday,74,Plymouth,1357,0.0
+2021,1st Round Replays,1.0,Notts County,1376,Rochdale,1339,0.0
+2021,1st Round Replays,1.0,Rochdale,1339,Notts County,1376,1.0
+2021,1st Round Replays,1.0,Stockport County,4686,Bolton,68,1.0
+2021,1st Round Replays,1.0,Bolton,68,Stockport County,4686,0.0
+2021,1st Round Replays,1.0,Bristol Rovers,1334,Oxford United,1338,1.0
+2021,1st Round Replays,1.0,Oxford United,1338,Bristol Rovers,1334,0.0
 2021,2nd Round,2.0,Gateshead,1823,Charlton,1335,0.0
 2021,2nd Round,2.0,Charlton,1335,Gateshead,1823,1.0
 2021,2nd Round,2.0,Bristol Rovers,1334,Sutton Utd,1835,1.0
@@ -13825,8 +13825,8 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2021,2nd Round,2.0,Wigan,61,Colchester,1361,1.0
 2021,2nd Round,2.0,Rotherham,73,Stockport County,4686,1.0
 2021,2nd Round,2.0,Stockport County,4686,Rotherham,73,0.0
-2021,2nd Round Replays,,Barrow,1819,Ipswich,57,1.0
-2021,2nd Round Replays,,Ipswich,57,Barrow,1819,0.0
+2021,2nd Round Replays,2.0,Barrow,1819,Ipswich,57,1.0
+2021,2nd Round Replays,2.0,Ipswich,57,Barrow,1819,0.0
 2021,3rd Round,3.0,Yeovil Town,1377,Bournemouth,35,0.0
 2021,3rd Round,3.0,Bournemouth,35,Yeovil Town,1377,1.0
 2021,3rd Round,3.0,Boreham Wood,1830,AFC Wimbledon,1333,1.0
@@ -13891,68 +13891,68 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2021,3rd Round,3.0,Arsenal,42,Nottingham Forest,65,0.0
 2021,3rd Round,3.0,Barnsley,747,Barrow,1819,1.0
 2021,3rd Round,3.0,Barrow,1819,Barnsley,747,0.0
-2021,4th Round,,Crystal Palace,52,Hartlepool,1366,1.0
-2021,4th Round,,Hartlepool,1366,Crystal Palace,52,0.0
-2021,4th Round,,Bournemouth,35,Boreham Wood,1830,0.0
-2021,4th Round,,Boreham Wood,1830,Bournemouth,35,1.0
-2021,4th Round,,Huddersfield,37,Barnsley,747,1.0
-2021,4th Round,,Barnsley,747,Huddersfield,37,0.0
-2021,4th Round,,Peterborough,1350,QPR,72,1.0
-2021,4th Round,,QPR,72,Peterborough,1350,0.0
-2021,4th Round,,Cambridge United,1370,Luton,1359,0.0
-2021,4th Round,,Luton,1359,Cambridge United,1370,1.0
-2021,4th Round,,Southampton,41,Coventry,1346,1.0
-2021,4th Round,,Coventry,1346,Southampton,41,0.0
-2021,4th Round,,Chelsea,49,Plymouth,1357,1.0
-2021,4th Round,,Plymouth,1357,Chelsea,49,0.0
-2021,4th Round,,Everton,45,Brentford,55,1.0
-2021,4th Round,,Brentford,55,Everton,45,0.0
-2021,4th Round,,Kidderminster Harriers,4695,West Ham,48,0.0
-2021,4th Round,,West Ham,48,Kidderminster Harriers,4695,1.0
-2021,4th Round,,Manchester United,33,Middlesbrough,70,0.0
-2021,4th Round,,Middlesbrough,70,Manchester United,33,1.0
-2021,4th Round,,Tottenham,47,Brighton,51,1.0
-2021,4th Round,,Brighton,51,Tottenham,47,0.0
-2021,4th Round,,Liverpool,40,Cardiff,43,1.0
-2021,4th Round,,Cardiff,43,Liverpool,40,0.0
-2021,4th Round,,Stoke City,75,Wigan,61,1.0
-2021,4th Round,,Wigan,61,Stoke City,75,0.0
-2021,4th Round,,Nottingham Forest,65,Leicester,46,1.0
-2021,4th Round,,Leicester,46,Nottingham Forest,65,0.0
-2021,4th Round,,Manchester City,50,Fulham,36,1.0
-2021,4th Round,,Fulham,36,Manchester City,50,0.0
-2021,4th Round,,Wolves,39,Norwich,71,0.0
-2021,4th Round,,Norwich,71,Wolves,39,1.0
-2021,5th Round,,Luton,1359,Chelsea,49,0.0
-2021,5th Round,,Chelsea,49,Luton,1359,1.0
-2021,5th Round,,Crystal Palace,52,Stoke City,75,1.0
-2021,5th Round,,Stoke City,75,Crystal Palace,52,0.0
-2021,5th Round,,Peterborough,1350,Manchester City,50,0.0
-2021,5th Round,,Manchester City,50,Peterborough,1350,1.0
-2021,5th Round,,Liverpool,40,Norwich,71,1.0
-2021,5th Round,,Norwich,71,Liverpool,40,0.0
-2021,5th Round,,Southampton,41,West Ham,48,1.0
-2021,5th Round,,West Ham,48,Southampton,41,0.0
-2021,5th Round,,Middlesbrough,70,Tottenham,47,1.0
-2021,5th Round,,Tottenham,47,Middlesbrough,70,0.0
-2021,5th Round,,Nottingham Forest,65,Huddersfield,37,1.0
-2021,5th Round,,Huddersfield,37,Nottingham Forest,65,0.0
-2021,5th Round,,Everton,45,Boreham Wood,1830,1.0
-2021,5th Round,,Boreham Wood,1830,Everton,45,0.0
-2021,Quarter-finals,5.0,Crystal Palace,52,Everton,45,1.0
-2021,Quarter-finals,5.0,Everton,45,Crystal Palace,52,0.0
-2021,Quarter-finals,5.0,Southampton,41,Manchester City,50,0.0
-2021,Quarter-finals,5.0,Manchester City,50,Southampton,41,1.0
-2021,Quarter-finals,5.0,Middlesbrough,70,Chelsea,49,0.0
-2021,Quarter-finals,5.0,Chelsea,49,Middlesbrough,70,1.0
-2021,Quarter-finals,5.0,Nottingham Forest,65,Liverpool,40,0.0
-2021,Quarter-finals,5.0,Liverpool,40,Nottingham Forest,65,1.0
-2021,Semi-finals,6.0,Manchester City,50,Liverpool,40,0.0
-2021,Semi-finals,6.0,Liverpool,40,Manchester City,50,1.0
-2021,Semi-finals,6.0,Chelsea,49,Crystal Palace,52,1.0
-2021,Semi-finals,6.0,Crystal Palace,52,Chelsea,49,0.0
-2021,Final,7.0,Chelsea,49,Liverpool,40,0.0
-2021,Final,7.0,Liverpool,40,Chelsea,49,1.0
+2021,4th Round,4.0,Crystal Palace,52,Hartlepool,1366,1.0
+2021,4th Round,4.0,Hartlepool,1366,Crystal Palace,52,0.0
+2021,4th Round,4.0,Bournemouth,35,Boreham Wood,1830,0.0
+2021,4th Round,4.0,Boreham Wood,1830,Bournemouth,35,1.0
+2021,4th Round,4.0,Huddersfield,37,Barnsley,747,1.0
+2021,4th Round,4.0,Barnsley,747,Huddersfield,37,0.0
+2021,4th Round,4.0,Peterborough,1350,QPR,72,1.0
+2021,4th Round,4.0,QPR,72,Peterborough,1350,0.0
+2021,4th Round,4.0,Cambridge United,1370,Luton,1359,0.0
+2021,4th Round,4.0,Luton,1359,Cambridge United,1370,1.0
+2021,4th Round,4.0,Southampton,41,Coventry,1346,1.0
+2021,4th Round,4.0,Coventry,1346,Southampton,41,0.0
+2021,4th Round,4.0,Chelsea,49,Plymouth,1357,1.0
+2021,4th Round,4.0,Plymouth,1357,Chelsea,49,0.0
+2021,4th Round,4.0,Everton,45,Brentford,55,1.0
+2021,4th Round,4.0,Brentford,55,Everton,45,0.0
+2021,4th Round,4.0,Kidderminster Harriers,4695,West Ham,48,0.0
+2021,4th Round,4.0,West Ham,48,Kidderminster Harriers,4695,1.0
+2021,4th Round,4.0,Manchester United,33,Middlesbrough,70,0.0
+2021,4th Round,4.0,Middlesbrough,70,Manchester United,33,1.0
+2021,4th Round,4.0,Tottenham,47,Brighton,51,1.0
+2021,4th Round,4.0,Brighton,51,Tottenham,47,0.0
+2021,4th Round,4.0,Liverpool,40,Cardiff,43,1.0
+2021,4th Round,4.0,Cardiff,43,Liverpool,40,0.0
+2021,4th Round,4.0,Stoke City,75,Wigan,61,1.0
+2021,4th Round,4.0,Wigan,61,Stoke City,75,0.0
+2021,4th Round,4.0,Nottingham Forest,65,Leicester,46,1.0
+2021,4th Round,4.0,Leicester,46,Nottingham Forest,65,0.0
+2021,4th Round,4.0,Manchester City,50,Fulham,36,1.0
+2021,4th Round,4.0,Fulham,36,Manchester City,50,0.0
+2021,4th Round,4.0,Wolves,39,Norwich,71,0.0
+2021,4th Round,4.0,Norwich,71,Wolves,39,1.0
+2021,5th Round,5.0,Luton,1359,Chelsea,49,0.0
+2021,5th Round,5.0,Chelsea,49,Luton,1359,1.0
+2021,5th Round,5.0,Crystal Palace,52,Stoke City,75,1.0
+2021,5th Round,5.0,Stoke City,75,Crystal Palace,52,0.0
+2021,5th Round,5.0,Peterborough,1350,Manchester City,50,0.0
+2021,5th Round,5.0,Manchester City,50,Peterborough,1350,1.0
+2021,5th Round,5.0,Liverpool,40,Norwich,71,1.0
+2021,5th Round,5.0,Norwich,71,Liverpool,40,0.0
+2021,5th Round,5.0,Southampton,41,West Ham,48,1.0
+2021,5th Round,5.0,West Ham,48,Southampton,41,0.0
+2021,5th Round,5.0,Middlesbrough,70,Tottenham,47,1.0
+2021,5th Round,5.0,Tottenham,47,Middlesbrough,70,0.0
+2021,5th Round,5.0,Nottingham Forest,65,Huddersfield,37,1.0
+2021,5th Round,5.0,Huddersfield,37,Nottingham Forest,65,0.0
+2021,5th Round,5.0,Everton,45,Boreham Wood,1830,1.0
+2021,5th Round,5.0,Boreham Wood,1830,Everton,45,0.0
+2021,Quarter-finals,8.0,Crystal Palace,52,Everton,45,1.0
+2021,Quarter-finals,8.0,Everton,45,Crystal Palace,52,0.0
+2021,Quarter-finals,8.0,Southampton,41,Manchester City,50,0.0
+2021,Quarter-finals,8.0,Manchester City,50,Southampton,41,1.0
+2021,Quarter-finals,8.0,Middlesbrough,70,Chelsea,49,0.0
+2021,Quarter-finals,8.0,Chelsea,49,Middlesbrough,70,1.0
+2021,Quarter-finals,8.0,Nottingham Forest,65,Liverpool,40,0.0
+2021,Quarter-finals,8.0,Liverpool,40,Nottingham Forest,65,1.0
+2021,Semi-finals,9.0,Manchester City,50,Liverpool,40,0.0
+2021,Semi-finals,9.0,Liverpool,40,Manchester City,50,1.0
+2021,Semi-finals,9.0,Chelsea,49,Crystal Palace,52,1.0
+2021,Semi-finals,9.0,Crystal Palace,52,Chelsea,49,0.0
+2021,Final,10.0,Chelsea,49,Liverpool,40,0.0
+2021,Final,10.0,Liverpool,40,Chelsea,49,1.0
 2022,Preliminary Round,0.0,Coleshill Town,7634,Chasetown,7626,0.0
 2022,Preliminary Round,0.0,Chasetown,7626,Coleshill Town,7634,1.0
 2022,Preliminary Round,0.0,Biggleswade,7618,Cambridge City,7218,1.0
@@ -15523,16 +15523,16 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2022,1st Round,1.0,Oldham,1349,Wrexham,1837,0.0
 2022,1st Round,1.0,Torquay,1827,Derby,69,
 2022,1st Round,1.0,Derby,69,Torquay,1827,
-2022,1st Round Replays,,Chelmsford City,4689,Barnet,1369,0.0
-2022,1st Round Replays,,Barnet,1369,Chelmsford City,4689,1.0
-2022,1st Round Replays,,Salford City,1844,Peterborough,1350,0.0
-2022,1st Round Replays,,Peterborough,1350,Salford City,1844,1.0
-2022,1st Round Replays,,Hartlepool,1366,Solihull Moors,1834,1.0
-2022,1st Round Replays,,Solihull Moors,1834,Hartlepool,1366,0.0
-2022,1st Round Replays,,Gillingham,1347,AFC Fylde,1839,1.0
-2022,1st Round Replays,,AFC Fylde,1839,Gillingham,1347,0.0
-2022,1st Round Replays,,AFC Wimbledon,1333,Weymouth,8665,1.0
-2022,1st Round Replays,,Weymouth,8665,AFC Wimbledon,1333,0.0
+2022,1st Round Replays,1.0,Chelmsford City,4689,Barnet,1369,0.0
+2022,1st Round Replays,1.0,Barnet,1369,Chelmsford City,4689,1.0
+2022,1st Round Replays,1.0,Salford City,1844,Peterborough,1350,0.0
+2022,1st Round Replays,1.0,Peterborough,1350,Salford City,1844,1.0
+2022,1st Round Replays,1.0,Hartlepool,1366,Solihull Moors,1834,1.0
+2022,1st Round Replays,1.0,Solihull Moors,1834,Hartlepool,1366,0.0
+2022,1st Round Replays,1.0,Gillingham,1347,AFC Fylde,1839,1.0
+2022,1st Round Replays,1.0,AFC Fylde,1839,Gillingham,1347,0.0
+2022,1st Round Replays,1.0,AFC Wimbledon,1333,Weymouth,8665,1.0
+2022,1st Round Replays,1.0,Weymouth,8665,AFC Wimbledon,1333,0.0
 2022,2nd Round,2.0,Wrexham,1837,Farnborough,7715,1.0
 2022,2nd Round,2.0,Farnborough,7715,Wrexham,1837,0.0
 2022,2nd Round,2.0,Ebbsfleet United,1840,Fleetwood Town,1336,0.0
@@ -15557,10 +15557,10 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2022,2nd Round,2.0,Chippenham Town,8147,Burton Albion,748,0.0
 2022,2nd Round,2.0,Walsall,1342,Carlisle,1371,1.0
 2022,2nd Round,2.0,Carlisle,1371,Walsall,1342,0.0
-2022,1st Round Replays,,Cambridge United,1370,Curzon Ashton,4703,1.0
-2022,1st Round Replays,,Curzon Ashton,4703,Cambridge United,1370,0.0
-2022,1st Round Replays,,Derby,69,Torquay,1827,1.0
-2022,1st Round Replays,,Torquay,1827,Derby,69,0.0
+2022,1st Round Replays,1.0,Cambridge United,1370,Curzon Ashton,4703,1.0
+2022,1st Round Replays,1.0,Curzon Ashton,4703,Cambridge United,1370,0.0
+2022,1st Round Replays,1.0,Derby,69,Torquay,1827,1.0
+2022,1st Round Replays,1.0,Torquay,1827,Derby,69,0.0
 2022,2nd Round,2.0,Accrington ST,1360,Barnet,1369,1.0
 2022,2nd Round,2.0,Barnet,1369,Accrington ST,1360,0.0
 2022,2nd Round,2.0,Dagenham & Redbridge,1821,Gillingham,1347,
@@ -15637,34 +15637,34 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2022,3rd Round,3.0,Watford,38,Reading,53,0.0
 2022,3rd Round,3.0,Ipswich,57,Rotherham,73,1.0
 2022,3rd Round,3.0,Rotherham,73,Ipswich,57,0.0
-2022,2nd Round Replays,,Stockport County,4686,Charlton,1335,1.0
-2022,2nd Round Replays,,Charlton,1335,Stockport County,4686,0.0
-2022,2nd Round Replays,,Gillingham,1347,Dagenham & Redbridge,1821,1.0
-2022,2nd Round Replays,,Dagenham & Redbridge,1821,Gillingham,1347,0.0
+2022,2nd Round Replays,2.0,Stockport County,4686,Charlton,1335,1.0
+2022,2nd Round Replays,2.0,Charlton,1335,Stockport County,4686,0.0
+2022,2nd Round Replays,2.0,Gillingham,1347,Dagenham & Redbridge,1821,1.0
+2022,2nd Round Replays,2.0,Dagenham & Redbridge,1821,Gillingham,1347,0.0
 2022,3rd Round,3.0,Gillingham,1347,Leicester,46,0.0
 2022,3rd Round,3.0,Leicester,46,Gillingham,1347,1.0
 2022,3rd Round,3.0,Stockport County,4686,Walsall,1342,0.0
 2022,3rd Round,3.0,Walsall,1342,Stockport County,4686,1.0
-2022,4th Round,,Southampton,41,Blackpool,1356,1.0
-2022,4th Round,,Blackpool,1356,Southampton,41,0.0
-2022,4th Round,,Wrexham,1837,Sheffield Utd,62,
-2022,4th Round,,Sheffield Utd,62,Wrexham,1837,
-2022,4th Round,,Preston,59,Tottenham,47,0.0
-2022,4th Round,,Tottenham,47,Preston,59,1.0
-2022,4th Round,,Ipswich,57,Burnley,44,
-2022,4th Round,,Burnley,44,Ipswich,57,
-2022,4th Round,,Manchester United,33,Reading,53,1.0
-2022,4th Round,,Reading,53,Manchester United,33,0.0
-2022,4th Round,,Derby,69,West Ham,48,0.0
-2022,4th Round,,West Ham,48,Derby,69,1.0
-2022,4th Round,,Walsall,1342,Leicester,46,0.0
-2022,4th Round,,Leicester,46,Walsall,1342,1.0
-2022,4th Round,,Sheffield Wednesday,74,Fleetwood Town,1336,
-2022,4th Round,,Fleetwood Town,1336,Sheffield Wednesday,74,
-2022,4th Round,,Fulham,36,Sunderland,746,
-2022,4th Round,,Sunderland,746,Fulham,36,
-2022,4th Round,,Stoke City,75,Stevenage,1368,1.0
-2022,4th Round,,Stevenage,1368,Stoke City,75,0.0
+2022,4th Round,4.0,Southampton,41,Blackpool,1356,1.0
+2022,4th Round,4.0,Blackpool,1356,Southampton,41,0.0
+2022,4th Round,4.0,Wrexham,1837,Sheffield Utd,62,
+2022,4th Round,4.0,Sheffield Utd,62,Wrexham,1837,
+2022,4th Round,4.0,Preston,59,Tottenham,47,0.0
+2022,4th Round,4.0,Tottenham,47,Preston,59,1.0
+2022,4th Round,4.0,Ipswich,57,Burnley,44,
+2022,4th Round,4.0,Burnley,44,Ipswich,57,
+2022,4th Round,4.0,Manchester United,33,Reading,53,1.0
+2022,4th Round,4.0,Reading,53,Manchester United,33,0.0
+2022,4th Round,4.0,Derby,69,West Ham,48,0.0
+2022,4th Round,4.0,West Ham,48,Derby,69,1.0
+2022,4th Round,4.0,Walsall,1342,Leicester,46,0.0
+2022,4th Round,4.0,Leicester,46,Walsall,1342,1.0
+2022,4th Round,4.0,Sheffield Wednesday,74,Fleetwood Town,1336,
+2022,4th Round,4.0,Fleetwood Town,1336,Sheffield Wednesday,74,
+2022,4th Round,4.0,Fulham,36,Sunderland,746,
+2022,4th Round,4.0,Sunderland,746,Fulham,36,
+2022,4th Round,4.0,Stoke City,75,Stevenage,1368,1.0
+2022,4th Round,4.0,Stevenage,1368,Stoke City,75,0.0
 2022,3rd Round Replays,,West Brom,60,Chesterfield,1345,1.0
 2022,3rd Round Replays,,Chesterfield,1345,West Brom,60,0.0
 2022,3rd Round Replays,,Accrington ST,1360,Boreham Wood,1830,1.0
@@ -15677,60 +15677,60 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2022,3rd Round Replays,,Cardiff,43,Leeds,63,0.0
 2022,3rd Round Replays,,Swansea,76,Bristol City,56,0.0
 2022,3rd Round Replays,,Bristol City,56,Swansea,76,1.0
-2022,4th Round,,Manchester City,50,Arsenal,42,1.0
-2022,4th Round,,Arsenal,42,Manchester City,50,0.0
-2022,4th Round,,Luton,1359,Grimsby,1365,
-2022,4th Round,,Grimsby,1365,Luton,1359,
-2022,4th Round,,Bristol City,56,West Brom,60,1.0
-2022,4th Round,,West Brom,60,Bristol City,56,0.0
-2022,4th Round,,Blackburn,67,Birmingham,54,
-2022,4th Round,,Birmingham,54,Blackburn,67,
-2022,4th Round,,Brighton,51,Liverpool,40,1.0
-2022,4th Round,,Liverpool,40,Brighton,51,0.0
-2022,4th Round,,Accrington ST,1360,Leeds,63,0.0
-2022,4th Round,,Leeds,63,Accrington ST,1360,1.0
-2022,5th Round,,Stoke City,75,Brighton,51,0.0
-2022,5th Round,,Brighton,51,Stoke City,75,1.0
-2022,5th Round,,Bristol City,56,Manchester City,50,0.0
-2022,5th Round,,Manchester City,50,Bristol City,56,1.0
-2022,5th Round,,Manchester United,33,West Ham,48,1.0
-2022,5th Round,,West Ham,48,Manchester United,33,0.0
-2022,4th Round Replays,,Birmingham,54,Blackburn,67,0.0
-2022,4th Round Replays,,Blackburn,67,Birmingham,54,1.0
-2022,4th Round Replays,,Burnley,44,Ipswich,57,1.0
-2022,4th Round Replays,,Ipswich,57,Burnley,44,0.0
-2022,4th Round Replays,,Grimsby,1365,Luton,1359,1.0
-2022,4th Round Replays,,Luton,1359,Grimsby,1365,0.0
-2022,4th Round Replays,,Fleetwood Town,1336,Sheffield Wednesday,74,1.0
-2022,4th Round Replays,,Sheffield Wednesday,74,Fleetwood Town,1336,0.0
-2022,4th Round Replays,,Sunderland,746,Fulham,36,0.0
-2022,4th Round Replays,,Fulham,36,Sunderland,746,1.0
-2022,4th Round Replays,,Sheffield Utd,62,Wrexham,1837,1.0
-2022,4th Round Replays,,Wrexham,1837,Sheffield Utd,62,0.0
-2022,5th Round,,Leicester,46,Blackburn,67,0.0
-2022,5th Round,,Blackburn,67,Leicester,46,1.0
-2022,5th Round,,Fulham,36,Leeds,63,1.0
-2022,5th Round,,Leeds,63,Fulham,36,0.0
-2022,5th Round,,Southampton,41,Grimsby,1365,0.0
-2022,5th Round,,Grimsby,1365,Southampton,41,1.0
-2022,5th Round,,Burnley,44,Fleetwood Town,1336,1.0
-2022,5th Round,,Fleetwood Town,1336,Burnley,44,0.0
-2022,5th Round,,Sheffield Utd,62,Tottenham,47,1.0
-2022,5th Round,,Tottenham,47,Sheffield Utd,62,0.0
-2022,Quarter-finals,5.0,Manchester City,50,Burnley,44,1.0
-2022,Quarter-finals,5.0,Burnley,44,Manchester City,50,0.0
-2022,Quarter-finals,5.0,Manchester United,33,Fulham,36,1.0
-2022,Quarter-finals,5.0,Fulham,36,Manchester United,33,0.0
-2022,Quarter-finals,5.0,Brighton,51,Grimsby,1365,1.0
-2022,Quarter-finals,5.0,Grimsby,1365,Brighton,51,0.0
-2022,Quarter-finals,5.0,Sheffield Utd,62,Blackburn,67,1.0
-2022,Quarter-finals,5.0,Blackburn,67,Sheffield Utd,62,0.0
-2022,Semi-finals,6.0,Brighton,51,Manchester United,33,0.0
-2022,Semi-finals,6.0,Manchester United,33,Brighton,51,1.0
-2022,Semi-finals,6.0,Manchester City,50,Sheffield Utd,62,1.0
-2022,Semi-finals,6.0,Sheffield Utd,62,Manchester City,50,0.0
-2022,Final,7.0,Manchester City,50,Manchester United,33,1.0
-2022,Final,7.0,Manchester United,33,Manchester City,50,0.0
+2022,4th Round,4.0,Manchester City,50,Arsenal,42,1.0
+2022,4th Round,4.0,Arsenal,42,Manchester City,50,0.0
+2022,4th Round,4.0,Luton,1359,Grimsby,1365,
+2022,4th Round,4.0,Grimsby,1365,Luton,1359,
+2022,4th Round,4.0,Bristol City,56,West Brom,60,1.0
+2022,4th Round,4.0,West Brom,60,Bristol City,56,0.0
+2022,4th Round,4.0,Blackburn,67,Birmingham,54,
+2022,4th Round,4.0,Birmingham,54,Blackburn,67,
+2022,4th Round,4.0,Brighton,51,Liverpool,40,1.0
+2022,4th Round,4.0,Liverpool,40,Brighton,51,0.0
+2022,4th Round,4.0,Accrington ST,1360,Leeds,63,0.0
+2022,4th Round,4.0,Leeds,63,Accrington ST,1360,1.0
+2022,5th Round,5.0,Stoke City,75,Brighton,51,0.0
+2022,5th Round,5.0,Brighton,51,Stoke City,75,1.0
+2022,5th Round,5.0,Bristol City,56,Manchester City,50,0.0
+2022,5th Round,5.0,Manchester City,50,Bristol City,56,1.0
+2022,5th Round,5.0,Manchester United,33,West Ham,48,1.0
+2022,5th Round,5.0,West Ham,48,Manchester United,33,0.0
+2022,4th Round Replays,4.0,Birmingham,54,Blackburn,67,0.0
+2022,4th Round Replays,4.0,Blackburn,67,Birmingham,54,1.0
+2022,4th Round Replays,4.0,Burnley,44,Ipswich,57,1.0
+2022,4th Round Replays,4.0,Ipswich,57,Burnley,44,0.0
+2022,4th Round Replays,4.0,Grimsby,1365,Luton,1359,1.0
+2022,4th Round Replays,4.0,Luton,1359,Grimsby,1365,0.0
+2022,4th Round Replays,4.0,Fleetwood Town,1336,Sheffield Wednesday,74,1.0
+2022,4th Round Replays,4.0,Sheffield Wednesday,74,Fleetwood Town,1336,0.0
+2022,4th Round Replays,4.0,Sunderland,746,Fulham,36,0.0
+2022,4th Round Replays,4.0,Fulham,36,Sunderland,746,1.0
+2022,4th Round Replays,4.0,Sheffield Utd,62,Wrexham,1837,1.0
+2022,4th Round Replays,4.0,Wrexham,1837,Sheffield Utd,62,0.0
+2022,5th Round,5.0,Leicester,46,Blackburn,67,0.0
+2022,5th Round,5.0,Blackburn,67,Leicester,46,1.0
+2022,5th Round,5.0,Fulham,36,Leeds,63,1.0
+2022,5th Round,5.0,Leeds,63,Fulham,36,0.0
+2022,5th Round,5.0,Southampton,41,Grimsby,1365,0.0
+2022,5th Round,5.0,Grimsby,1365,Southampton,41,1.0
+2022,5th Round,5.0,Burnley,44,Fleetwood Town,1336,1.0
+2022,5th Round,5.0,Fleetwood Town,1336,Burnley,44,0.0
+2022,5th Round,5.0,Sheffield Utd,62,Tottenham,47,1.0
+2022,5th Round,5.0,Tottenham,47,Sheffield Utd,62,0.0
+2022,Quarter-finals,8.0,Manchester City,50,Burnley,44,1.0
+2022,Quarter-finals,8.0,Burnley,44,Manchester City,50,0.0
+2022,Quarter-finals,8.0,Manchester United,33,Fulham,36,1.0
+2022,Quarter-finals,8.0,Fulham,36,Manchester United,33,0.0
+2022,Quarter-finals,8.0,Brighton,51,Grimsby,1365,1.0
+2022,Quarter-finals,8.0,Grimsby,1365,Brighton,51,0.0
+2022,Quarter-finals,8.0,Sheffield Utd,62,Blackburn,67,1.0
+2022,Quarter-finals,8.0,Blackburn,67,Sheffield Utd,62,0.0
+2022,Semi-finals,9.0,Brighton,51,Manchester United,33,0.0
+2022,Semi-finals,9.0,Manchester United,33,Brighton,51,1.0
+2022,Semi-finals,9.0,Manchester City,50,Sheffield Utd,62,1.0
+2022,Semi-finals,9.0,Sheffield Utd,62,Manchester City,50,0.0
+2022,Final,10.0,Manchester City,50,Manchester United,33,1.0
+2022,Final,10.0,Manchester United,33,Manchester City,50,0.0
 2023,Preliminary Round,0.0,Runcorn Linnets,7666,Stalybridge Celtic,7749,1.0
 2023,Preliminary Round,0.0,Stalybridge Celtic,7749,Runcorn Linnets,7666,0.0
 2023,Preliminary Round,0.0,Belper Town,7617,Leek Town,7239,0.0
@@ -17271,18 +17271,18 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2023,1st Round,1.0,Maidstone Utd,1825,Chesham United,4702,1.0
 2023,1st Round,1.0,Ramsgate,7665,Woking,1836,1.0
 2023,1st Round,1.0,Woking,1836,Ramsgate,7665,0.0
-2023,1st Round Replays,,Horsham,7723,Barnsley,747,0.0
-2023,1st Round Replays,,Barnsley,747,Horsham,7723,1.0
-2023,1st Round Replays,,York,1828,Chester,1820,1.0
-2023,1st Round Replays,,Chester,1820,York,1828,0.0
-2023,1st Round Replays,,Forest Green,1378,Scarborough Athletic,7745,1.0
-2023,1st Round Replays,,Scarborough Athletic,7745,Forest Green,1378,0.0
-2023,1st Round Replays,,Burton Albion,748,Port Vale,1351,0.0
-2023,1st Round Replays,,Port Vale,1351,Burton Albion,748,1.0
-2023,1st Round Replays,,Accrington ST,1360,Doncaster,1354,0.0
-2023,1st Round Replays,,Doncaster,1354,Accrington ST,1360,1.0
-2023,1st Round Replays,,Salford City,1844,Peterborough,1350,0.0
-2023,1st Round Replays,,Peterborough,1350,Salford City,1844,1.0
+2023,1st Round Replays,1.0,Horsham,7723,Barnsley,747,0.0
+2023,1st Round Replays,1.0,Barnsley,747,Horsham,7723,1.0
+2023,1st Round Replays,1.0,York,1828,Chester,1820,1.0
+2023,1st Round Replays,1.0,Chester,1820,York,1828,0.0
+2023,1st Round Replays,1.0,Forest Green,1378,Scarborough Athletic,7745,1.0
+2023,1st Round Replays,1.0,Scarborough Athletic,7745,Forest Green,1378,0.0
+2023,1st Round Replays,1.0,Burton Albion,748,Port Vale,1351,0.0
+2023,1st Round Replays,1.0,Port Vale,1351,Burton Albion,748,1.0
+2023,1st Round Replays,1.0,Accrington ST,1360,Doncaster,1354,0.0
+2023,1st Round Replays,1.0,Doncaster,1354,Accrington ST,1360,1.0
+2023,1st Round Replays,1.0,Salford City,1844,Peterborough,1350,0.0
+2023,1st Round Replays,1.0,Peterborough,1350,Salford City,1844,1.0
 2023,2nd Round,2.0,Maidstone Utd,1825,Barrow,1819,1.0
 2023,2nd Round,2.0,Barrow,1819,Maidstone Utd,1825,0.0
 2023,2nd Round,2.0,Wycombe,1358,Morecambe,1375,0.0
@@ -17307,12 +17307,12 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2023,2nd Round,2.0,Barnet,1369,Newport County,1367,
 2023,2nd Round,2.0,AFC Wimbledon,1333,Ramsgate,7665,1.0
 2023,2nd Round,2.0,Ramsgate,7665,AFC Wimbledon,1333,0.0
-2023,1st Round Replays,,Grimsby,1365,Slough Town,4685,1.0
-2023,1st Round Replays,,Slough Town,4685,Grimsby,1365,0.0
-2023,1st Round Replays,,Derby,69,Crewe,1363,0.0
-2023,1st Round Replays,,Crewe,1363,Derby,69,1.0
-2023,1st Round Replays,,Cray Valley PM,7636,Charlton,1335,0.0
-2023,1st Round Replays,,Charlton,1335,Cray Valley PM,7636,1.0
+2023,1st Round Replays,1.0,Grimsby,1365,Slough Town,4685,1.0
+2023,1st Round Replays,1.0,Slough Town,4685,Grimsby,1365,0.0
+2023,1st Round Replays,1.0,Derby,69,Crewe,1363,0.0
+2023,1st Round Replays,1.0,Crewe,1363,Derby,69,1.0
+2023,1st Round Replays,1.0,Cray Valley PM,7636,Charlton,1335,0.0
+2023,1st Round Replays,1.0,Charlton,1335,Cray Valley PM,7636,1.0
 2023,2nd Round,2.0,York,1828,Wigan,61,0.0
 2023,2nd Round,2.0,Wigan,61,York,1828,1.0
 2023,2nd Round,2.0,Blackpool,1356,Forest Green,1378,1.0
@@ -17329,10 +17329,10 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2023,2nd Round,2.0,Grimsby,1365,Oxford United,1338,0.0
 2023,2nd Round,2.0,Sutton Utd,1835,Horsham,7723,1.0
 2023,2nd Round,2.0,Horsham,7723,Sutton Utd,1835,0.0
-2023,2nd Round Replays,,Barnet,1369,Newport County,1367,0.0
-2023,2nd Round Replays,,Newport County,1367,Barnet,1369,1.0
-2023,2nd Round Replays,,Port Vale,1351,Stevenage,1368,0.0
-2023,2nd Round Replays,,Stevenage,1368,Port Vale,1351,1.0
+2023,2nd Round Replays,2.0,Barnet,1369,Newport County,1367,0.0
+2023,2nd Round Replays,2.0,Newport County,1367,Barnet,1369,1.0
+2023,2nd Round Replays,2.0,Port Vale,1351,Stevenage,1368,0.0
+2023,2nd Round Replays,2.0,Stevenage,1368,Port Vale,1351,1.0
 2023,3rd Round,3.0,Luton,1359,Bolton,68,
 2023,3rd Round,3.0,Bolton,68,Luton,1359,
 2023,3rd Round,3.0,Arsenal,42,Liverpool,40,0.0
@@ -17385,10 +17385,10 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2023,3rd Round,3.0,Birmingham,54,Hull City,64,
 2023,3rd Round,3.0,AFC Wimbledon,1333,Ipswich,57,0.0
 2023,3rd Round,3.0,Ipswich,57,AFC Wimbledon,1333,1.0
-2023,2nd Round Replays,,Walsall,1342,Alfreton Town,4677,1.0
-2023,2nd Round Replays,,Alfreton Town,4677,Walsall,1342,0.0
-2023,2nd Round Replays,,Stockport County,4686,Aldershot Town,1818,0.0
-2023,2nd Round Replays,,Aldershot Town,1818,Stockport County,4686,1.0
+2023,2nd Round Replays,2.0,Walsall,1342,Alfreton Town,4677,1.0
+2023,2nd Round Replays,2.0,Alfreton Town,4677,Walsall,1342,0.0
+2023,2nd Round Replays,2.0,Stockport County,4686,Aldershot Town,1818,0.0
+2023,2nd Round Replays,2.0,Aldershot Town,1818,Stockport County,4686,1.0
 2023,3rd Round,3.0,Maidstone Utd,1825,Stevenage,1368,1.0
 2023,3rd Round,3.0,Stevenage,1368,Maidstone Utd,1825,0.0
 2023,3rd Round,3.0,Norwich,71,Bristol Rovers,1334,
@@ -17417,69 +17417,69 @@ Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
 2023,3rd Round Replays,,Nottingham Forest,65,Blackpool,1356,1.0
 2023,3rd Round Replays,,Bristol City,56,West Ham,48,1.0
 2023,3rd Round Replays,,West Ham,48,Bristol City,56,0.0
-2023,4th Round,,Watford,38,Southampton,41,
-2023,4th Round,,Southampton,41,Watford,38,
-2023,4th Round,,Blackburn,67,Wrexham,1837,1.0
-2023,4th Round,,Wrexham,1837,Blackburn,67,0.0
-2023,4th Round,,Bournemouth,35,Swansea,76,1.0
-2023,4th Round,,Swansea,76,Bournemouth,35,0.0
-2023,4th Round,,Sheffield Wednesday,74,Coventry,1346,
-2023,4th Round,,Coventry,1346,Sheffield Wednesday,74,
-2023,4th Round,,Chelsea,49,Aston Villa,66,
-2023,4th Round,,Aston Villa,66,Chelsea,49,
-2023,4th Round,,Ipswich,57,Maidstone Utd,1825,0.0
-2023,4th Round,,Maidstone Utd,1825,Ipswich,57,1.0
-2023,4th Round,,Tottenham,47,Manchester City,50,0.0
-2023,4th Round,,Manchester City,50,Tottenham,47,1.0
-2023,4th Round,,Leeds,63,Plymouth,1357,
-2023,4th Round,,Plymouth,1357,Leeds,63,
-2023,4th Round,,Sheffield Utd,62,Brighton,51,0.0
-2023,4th Round,,Brighton,51,Sheffield Utd,62,1.0
-2023,4th Round,,Fulham,36,Newcastle,34,0.0
-2023,4th Round,,Newcastle,34,Fulham,36,1.0
-2023,4th Round,,Leicester,46,Birmingham,54,1.0
-2023,4th Round,,Birmingham,54,Leicester,46,0.0
-2023,4th Round,,West Brom,60,Wolves,39,0.0
-2023,4th Round,,Wolves,39,West Brom,60,1.0
-2023,4th Round,,Newport County,1367,Manchester United,33,0.0
-2023,4th Round,,Manchester United,33,Newport County,1367,1.0
-2023,4th Round,,Bristol City,56,Nottingham Forest,65,
-2023,4th Round,,Nottingham Forest,65,Bristol City,56,
-2023,4th Round,,Everton,45,Luton,1359,0.0
-2023,4th Round,,Luton,1359,Everton,45,1.0
-2023,4th Round,,Liverpool,40,Norwich,71,1.0
-2023,4th Round,,Norwich,71,Liverpool,40,0.0
-2023,4th Round Replays,,Nottingham Forest,65,Bristol City,56,1.0
-2023,4th Round Replays,,Bristol City,56,Nottingham Forest,65,0.0
-2023,5th Round,,Bournemouth,35,Leicester,46,0.0
-2023,5th Round,,Leicester,46,Bournemouth,35,1.0
-2023,5th Round,,Wolves,39,Brighton,51,1.0
-2023,5th Round,,Brighton,51,Wolves,39,0.0
-2023,5th Round,,Luton,1359,Manchester City,50,0.0
-2023,5th Round,,Manchester City,50,Luton,1359,1.0
-2023,4th Round Replays,,Coventry,1346,Sheffield Wednesday,74,1.0
-2023,4th Round Replays,,Sheffield Wednesday,74,Coventry,1346,0.0
-2023,4th Round Replays,,Plymouth,1357,Leeds,63,0.0
-2023,4th Round Replays,,Leeds,63,Plymouth,1357,1.0
-2023,4th Round Replays,,Southampton,41,Watford,38,1.0
-2023,4th Round Replays,,Watford,38,Southampton,41,0.0
-2023,4th Round Replays,,Aston Villa,66,Chelsea,49,0.0
-2023,4th Round Replays,,Chelsea,49,Aston Villa,66,1.0
-2023,5th Round,,Blackburn,67,Newcastle,34,0.0
-2023,5th Round,,Newcastle,34,Blackburn,67,1.0
-2023,5th Round,,Coventry,1346,Maidstone Utd,1825,1.0
-2023,5th Round,,Maidstone Utd,1825,Coventry,1346,0.0
-2023,5th Round,,Liverpool,40,Southampton,41,1.0
-2023,5th Round,,Southampton,41,Liverpool,40,0.0
-2023,5th Round,,Chelsea,49,Leeds,63,1.0
-2023,5th Round,,Leeds,63,Chelsea,49,0.0
-2023,5th Round,,Nottingham Forest,65,Manchester United,33,0.0
-2023,5th Round,,Manchester United,33,Nottingham Forest,65,1.0
-2023,Quarter-finals,5.0,Wolves,39,Coventry,1346,
-2023,Quarter-finals,5.0,Coventry,1346,Wolves,39,
-2023,Quarter-finals,5.0,Manchester City,50,Newcastle,34,
-2023,Quarter-finals,5.0,Newcastle,34,Manchester City,50,
-2023,Quarter-finals,5.0,Chelsea,49,Leicester,46,
-2023,Quarter-finals,5.0,Leicester,46,Chelsea,49,
-2023,Quarter-finals,5.0,Manchester United,33,Liverpool,40,
-2023,Quarter-finals,5.0,Liverpool,40,Manchester United,33,
+2023,4th Round,4.0,Watford,38,Southampton,41,
+2023,4th Round,4.0,Southampton,41,Watford,38,
+2023,4th Round,4.0,Blackburn,67,Wrexham,1837,1.0
+2023,4th Round,4.0,Wrexham,1837,Blackburn,67,0.0
+2023,4th Round,4.0,Bournemouth,35,Swansea,76,1.0
+2023,4th Round,4.0,Swansea,76,Bournemouth,35,0.0
+2023,4th Round,4.0,Sheffield Wednesday,74,Coventry,1346,
+2023,4th Round,4.0,Coventry,1346,Sheffield Wednesday,74,
+2023,4th Round,4.0,Chelsea,49,Aston Villa,66,
+2023,4th Round,4.0,Aston Villa,66,Chelsea,49,
+2023,4th Round,4.0,Ipswich,57,Maidstone Utd,1825,0.0
+2023,4th Round,4.0,Maidstone Utd,1825,Ipswich,57,1.0
+2023,4th Round,4.0,Tottenham,47,Manchester City,50,0.0
+2023,4th Round,4.0,Manchester City,50,Tottenham,47,1.0
+2023,4th Round,4.0,Leeds,63,Plymouth,1357,
+2023,4th Round,4.0,Plymouth,1357,Leeds,63,
+2023,4th Round,4.0,Sheffield Utd,62,Brighton,51,0.0
+2023,4th Round,4.0,Brighton,51,Sheffield Utd,62,1.0
+2023,4th Round,4.0,Fulham,36,Newcastle,34,0.0
+2023,4th Round,4.0,Newcastle,34,Fulham,36,1.0
+2023,4th Round,4.0,Leicester,46,Birmingham,54,1.0
+2023,4th Round,4.0,Birmingham,54,Leicester,46,0.0
+2023,4th Round,4.0,West Brom,60,Wolves,39,0.0
+2023,4th Round,4.0,Wolves,39,West Brom,60,1.0
+2023,4th Round,4.0,Newport County,1367,Manchester United,33,0.0
+2023,4th Round,4.0,Manchester United,33,Newport County,1367,1.0
+2023,4th Round,4.0,Bristol City,56,Nottingham Forest,65,
+2023,4th Round,4.0,Nottingham Forest,65,Bristol City,56,
+2023,4th Round,4.0,Everton,45,Luton,1359,0.0
+2023,4th Round,4.0,Luton,1359,Everton,45,1.0
+2023,4th Round,4.0,Liverpool,40,Norwich,71,1.0
+2023,4th Round,4.0,Norwich,71,Liverpool,40,0.0
+2023,4th Round Replays,4.0,Nottingham Forest,65,Bristol City,56,1.0
+2023,4th Round Replays,4.0,Bristol City,56,Nottingham Forest,65,0.0
+2023,5th Round,5.0,Bournemouth,35,Leicester,46,0.0
+2023,5th Round,5.0,Leicester,46,Bournemouth,35,1.0
+2023,5th Round,5.0,Wolves,39,Brighton,51,1.0
+2023,5th Round,5.0,Brighton,51,Wolves,39,0.0
+2023,5th Round,5.0,Luton,1359,Manchester City,50,0.0
+2023,5th Round,5.0,Manchester City,50,Luton,1359,1.0
+2023,4th Round Replays,4.0,Coventry,1346,Sheffield Wednesday,74,1.0
+2023,4th Round Replays,4.0,Sheffield Wednesday,74,Coventry,1346,0.0
+2023,4th Round Replays,4.0,Plymouth,1357,Leeds,63,0.0
+2023,4th Round Replays,4.0,Leeds,63,Plymouth,1357,1.0
+2023,4th Round Replays,4.0,Southampton,41,Watford,38,1.0
+2023,4th Round Replays,4.0,Watford,38,Southampton,41,0.0
+2023,4th Round Replays,4.0,Aston Villa,66,Chelsea,49,0.0
+2023,4th Round Replays,4.0,Chelsea,49,Aston Villa,66,1.0
+2023,5th Round,5.0,Blackburn,67,Newcastle,34,0.0
+2023,5th Round,5.0,Newcastle,34,Blackburn,67,1.0
+2023,5th Round,5.0,Coventry,1346,Maidstone Utd,1825,1.0
+2023,5th Round,5.0,Maidstone Utd,1825,Coventry,1346,0.0
+2023,5th Round,5.0,Liverpool,40,Southampton,41,1.0
+2023,5th Round,5.0,Southampton,41,Liverpool,40,0.0
+2023,5th Round,5.0,Chelsea,49,Leeds,63,1.0
+2023,5th Round,5.0,Leeds,63,Chelsea,49,0.0
+2023,5th Round,5.0,Nottingham Forest,65,Manchester United,33,0.0
+2023,5th Round,5.0,Manchester United,33,Nottingham Forest,65,1.0
+2023,Quarter-finals,8.0,Wolves,39,Coventry,1346,
+2023,Quarter-finals,8.0,Coventry,1346,Wolves,39,
+2023,Quarter-finals,8.0,Manchester City,50,Newcastle,34,
+2023,Quarter-finals,8.0,Newcastle,34,Manchester City,50,
+2023,Quarter-finals,8.0,Chelsea,49,Leicester,46,
+2023,Quarter-finals,8.0,Leicester,46,Chelsea,49,
+2023,Quarter-finals,8.0,Manchester United,33,Liverpool,40,
+2023,Quarter-finals,8.0,Liverpool,40,Manchester United,33,

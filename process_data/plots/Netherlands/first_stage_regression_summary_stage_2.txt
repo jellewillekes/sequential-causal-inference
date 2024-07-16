@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               Team_win   R-squared:                       0.172
+Model:                            OLS   Adj. R-squared:                  0.168
+Method:                 Least Squares   F-statistic:                     42.50
+Date:                Mon, 15 Jul 2024   Prob (F-statistic):           5.45e-10
+Time:                        22:07:45   Log-Likelihood:                -130.02
+No. Observations:                 206   AIC:                             264.0
+Df Residuals:                     204   BIC:                             270.7
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.5000      0.032     15.700      0.000       0.437       0.563
+Rank_diff      0.0074      0.001      6.519      0.000       0.005       0.010
+==============================================================================
+Omnibus:                     3841.394   Durbin-Watson:                   2.948
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               19.700
+Skew:                          -0.000   Prob(JB):                     5.27e-05
+Kurtosis:                       1.485   Cond. No.                         27.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
