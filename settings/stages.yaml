@@ -27,9 +27,10 @@ England:
 Germany:
   1st Round: 1
   2nd Round: 2
-  8th Finals: 3 # Assuming '8th Finals' is the same as 'Round of 16'
-  Round of 16: 3
-  Quarter-finals: 4
-  Semi-finals: 5
-  Final: 6
+  3rd Round: 3
+  8th Finals: 4 # Assuming '8th Finals' is the same as 'Round of 16'
+  Round of 16: 4
+  Quarter-finals: 5
+  Semi-finals: 6
+  Final: 7
 
