@@ -1,0 +1,393 @@
+League,Division,Year,Position,Team,Team_id,Points,Form,Played,Win,Draw,Lose,GoalsDiff,GoalsFor,GoalsAgainst,NationalRank
+Eredivisie,1,2017,1,PSV Eindhoven,197,61,WWWWW,23,20,1,2,37,60,23,1
+Eredivisie,1,2017,2,Ajax,194,54,WWWDW,23,17,3,3,44,65,21,2
+Eredivisie,1,2017,3,AZ Alkmaar,201,47,DWDWD,23,14,5,4,21,43,22,3
+Eredivisie,1,2017,4,Feyenoord,209,39,LWLWD,23,11,6,6,21,45,24,4
+Eredivisie,1,2017,5,PEC Zwolle,193,39,LWLLW,23,11,6,6,1,32,31,5
+Eredivisie,1,2017,6,Utrecht,207,38,WWDDD,23,10,8,5,1,34,33,6
+Eredivisie,1,2017,7,Vitesse,200,37,WLWWD,23,10,7,6,13,39,26,7
+Eredivisie,1,2017,8,ADO Den Haag,198,32,DWDLD,23,9,5,9,-4,29,33,8
+Eredivisie,1,2017,9,Heerenveen,210,31,DLWWD,23,8,7,8,-4,32,36,9
+Eredivisie,1,2017,10,VVV Venlo,204,30,DLWWD,23,7,9,7,-5,25,30,10
+Eredivisie,1,2017,11,Heracles,206,27,WLDDL,23,7,6,10,-16,33,49,11
+Eredivisie,1,2017,12,Excelsior,196,26,DLDLW,23,7,5,11,-7,27,34,12
+Eredivisie,1,2017,13,Groningen,202,23,DLLDD,23,5,8,10,-5,34,39,13
+Eredivisie,1,2017,14,Willem II,195,20,LWLLD,23,5,5,13,-14,31,45,14
+Eredivisie,1,2017,15,NAC Breda,203,20,DWLLL,23,5,5,13,-14,27,41,15
+Eredivisie,1,2017,16,Roda,414,17,DLDWD,23,4,5,14,-24,25,49,16
+Eredivisie,1,2017,17,Twente,415,16,LLLLD,23,4,4,15,-17,26,43,17
+Eredivisie,1,2017,18,Sparta Rotterdam,426,14,LLWLL,23,3,5,15,-28,18,46,18
+Eerste_Divisie,2,2017,1,NEC Nijmegen,413,49,WLWLL,24,15,4,5,27,57,30,19
+Eerste_Divisie,2,2017,2,Jong Ajax,425,49,DWWWL,24,15,4,5,25,60,35,20
+Eerste_Divisie,2,2017,3,Fortuna Sittard,205,44,LLLLW,24,14,2,8,22,54,32,21
+Eerste_Divisie,2,2017,4,Emmen,208,41,WWWWL,24,10,11,3,9,36,27,22
+Eerste_Divisie,2,2017,5,Telstar,427,41,DLWWD,24,11,8,5,2,47,45,23
+Eerste_Divisie,2,2017,6,Jong PSV,411,40,LWWWL,24,12,4,8,6,44,38,24
+Eerste_Divisie,2,2017,7,De Graafschap,199,38,WWWLL,24,10,8,6,22,49,27,25
+Eerste_Divisie,2,2017,8,Almere City FC,419,36,LLWWW,24,10,6,8,-1,46,47,26
+Eerste_Divisie,2,2017,9,FC OSS,423,36,WLLWW,24,10,6,8,-1,38,39,27
+Eerste_Divisie,2,2017,10,Den Bosch,421,35,WWLDL,24,9,8,7,11,43,32,28
+Eerste_Divisie,2,2017,11,Dordrecht,409,34,WWWWW,24,10,4,10,-12,38,50,29
+Eerste_Divisie,2,2017,12,Cambuur,420,32,LWWLW,24,9,5,10,-4,32,36,30
+Eerste_Divisie,2,2017,13,FC Eindhoven,422,31,LWLLW,24,9,4,11,-15,35,50,31
+Eerste_Divisie,2,2017,14,MVV,412,29,WLLLD,24,8,5,11,-3,34,37,32
+Eerste_Divisie,2,2017,15,FC Volendam,416,29,LWWWW,24,8,5,11,-5,35,40,33
+Eerste_Divisie,2,2017,16,GO Ahead Eagles,410,23,LLLWL,24,5,8,11,-8,35,43,34
+Eerste_Divisie,2,2017,17,Jong AZ,418,23,WWLDL,24,7,2,15,-15,33,48,35
+Eerste_Divisie,2,2017,18,Waalwijk,417,22,LLLLW,24,5,7,12,-17,26,43,36
+Eerste_Divisie,2,2017,19,Helmond Sport,424,19,LLLLW,24,4,7,13,-14,28,42,37
+Eerste_Divisie,2,2017,20,Jong Utrecht,428,13,WLLLL,24,3,4,17,-29,23,52,38
+Tweede_Divisie,3,2017,1,Katwijk,1237,48,WWWLW,20,16,0,4,26,44,18,39
+Tweede_Divisie,3,2017,2,Kozakken Boys,1242,42,WWWWW,20,13,3,4,27,48,21,40
+Tweede_Divisie,3,2017,3,HHC,1278,33,WWWWD,19,10,3,6,13,45,32,41
+Tweede_Divisie,3,2017,4,GVVV Veenendaal,1261,32,DDLLD,20,9,5,6,10,33,23,42
+Tweede_Divisie,3,2017,5,Barendrecht,1271,32,LWLWW,20,10,2,8,-2,37,39,43
+Tweede_Divisie,3,2017,6,Vvsb,1251,32,WWWWD,20,9,5,6,-3,29,32,44
+Tweede_Divisie,3,2017,7,Rijnsburgse Boys,1248,32,LLLDW,20,10,2,8,-6,33,39,45
+Tweede_Divisie,3,2017,8,FC Lienden,1283,30,WLWWL,19,9,3,7,-2,32,34,46
+Tweede_Divisie,3,2017,9,Koninklijke HFC,1246,29,LDWDW,19,8,5,6,13,34,21,47
+Tweede_Divisie,3,2017,10,Excelsior Maassluis,17129,28,LLDWD,20,7,7,6,6,27,21,48
+Tweede_Divisie,3,2017,11,FC Lisse,1257,28,WWDWL,20,8,4,8,1,33,32,49
+Tweede_Divisie,3,2017,12,Ijsselmeervogels,1280,26,WDLLL,20,7,5,8,4,30,26,50
+Tweede_Divisie,3,2017,13,De Treffers,1277,21,WLLLW,19,6,3,10,-7,29,36,51
+Tweede_Divisie,3,2017,14,Sparta Rotterdam II,10320,19,LWLLL,20,5,4,11,-10,34,44,52
+Tweede_Divisie,3,2017,15,ASV De Dijk,1260,18,LLLWL,19,6,0,13,-18,29,47,53
+Tweede_Divisie,3,2017,16,AFC Amsterdam,1252,18,LWWDL,20,5,3,12,-16,18,34,54
+Tweede_Divisie,3,2017,17,TEC,1255,17,LWLLL,20,5,2,13,-17,30,47,55
+Tweede_Divisie,3,2017,18,Achilles 29,806,16,LLLLL,19,5,2,12,-19,28,47,56
+Eredivisie,1,2018,1,Ajax,194,86,WWWWW,34,28,2,4,87,119,32,1
+Eredivisie,1,2018,2,PSV Eindhoven,197,83,WLWWW,34,26,5,3,72,98,26,2
+Eredivisie,1,2018,3,Feyenoord,209,65,WLWWW,34,20,5,9,34,75,41,3
+Eredivisie,1,2018,4,AZ Alkmaar,201,58,LWWLL,34,17,7,10,21,64,43,4
+Eredivisie,1,2018,5,Vitesse,200,53,WWLWD,34,14,11,9,19,70,51,5
+Eredivisie,1,2018,6,Utrecht,207,53,WLWLD,34,15,8,11,9,60,51,6
+Eredivisie,1,2018,7,Heracles,206,48,LLLWL,34,15,3,16,-7,61,68,7
+Eredivisie,1,2018,8,Groningen,202,45,LWLLD,34,13,6,15,-2,39,41,8
+Eredivisie,1,2018,9,ADO Den Haag,198,45,WWWLW,34,12,9,13,-5,58,63,9
+Eredivisie,1,2018,10,Willem II,195,44,LLLDW,34,13,5,16,-14,58,72,10
+Eredivisie,1,2018,11,Heerenveen,210,41,LWDLD,34,10,11,13,-9,64,73,11
+Eredivisie,1,2018,12,VVV Venlo,204,41,LWDWD,34,11,8,15,-16,47,63,12
+Eredivisie,1,2018,13,PEC Zwolle,193,39,DLWLL,34,11,6,17,-13,44,57,13
+Eredivisie,1,2018,14,Emmen,208,38,WWLWD,34,10,8,16,-31,41,72,14
+Eredivisie,1,2018,15,Fortuna Sittard,205,34,LLLWD,34,9,7,18,-30,50,80,15
+Eredivisie,1,2018,16,Excelsior,196,33,WWLDL,34,9,6,19,-33,46,79,16
+Eredivisie,1,2018,17,De Graafschap,199,29,LLWLL,34,8,5,21,-37,38,75,17
+Eredivisie,1,2018,18,NAC Breda,203,23,DLLLD,34,5,8,21,-45,29,74,18
+Eerste_Divisie,2,2018,1,Twente,415,80,,38,25,5,8,33,72,39,19
+Eerste_Divisie,2,2018,2,Sparta Rotterdam,426,69,,38,19,12,7,31,78,47,20
+Eerste_Divisie,2,2018,3,Jong PSV,411,63,,38,18,9,11,18,77,59,21
+Eerste_Divisie,2,2018,4,Den Bosch,421,63,,38,18,9,11,15,64,49,22
+Eerste_Divisie,2,2018,5,Go Ahead Eagles,410,63,,38,19,6,13,6,63,57,23
+Eerste_Divisie,2,2018,6,FC OSS,423,62,,38,18,8,12,8,48,40,24
+Eerste_Divisie,2,2018,7,Almere City FC,419,62,,38,19,5,14,-3,60,63,25
+Eerste_Divisie,2,2018,8,Waalwijk,417,59,,38,18,5,15,12,69,57,26
+Eerste_Divisie,2,2018,9,NEC Nijmegen,413,58,,38,16,10,12,13,73,60,27
+Eerste_Divisie,2,2018,10,Cambuur,420,58,,38,16,10,12,13,61,48,28
+Eerste_Divisie,2,2018,11,Jong Ajax,425,56,,38,16,8,14,14,81,67,29
+Eerste_Divisie,2,2018,12,MVV,412,54,,38,14,12,12,-4,49,53,30
+Eerste_Divisie,2,2018,13,Roda,414,53,,38,14,11,13,-2,57,59,31
+Eerste_Divisie,2,2018,14,FC Eindhoven,422,48,,38,13,9,16,4,52,48,32
+Eerste_Divisie,2,2018,15,Telstar,427,48,,38,14,6,18,-13,45,58,33
+Eerste_Divisie,2,2018,16,FC Volendam,416,41,,38,9,14,15,-16,46,62,34
+Eerste_Divisie,2,2018,17,Dordrecht,409,36,,38,9,9,20,-30,54,84,35
+Eerste_Divisie,2,2018,18,Jong AZ,418,33,,38,7,12,19,-21,46,67,36
+Eerste_Divisie,2,2018,19,Jong Utrecht,428,23,,38,5,8,25,-43,47,90,37
+Eerste_Divisie,2,2018,20,Helmond Sport,424,22,,38,4,10,24,-35,37,72,38
+Tweede_Divisie,3,2018,1,AFC Amsterdam,1252,71,LWLWW,34,22,5,7,42,85,43,39
+Tweede_Divisie,3,2018,2,Excelsior Maassluis,17129,63,LWWWW,34,19,6,9,31,69,38,40
+Tweede_Divisie,3,2018,3,Ijsselmeervogels,1280,63,WWLLL,34,19,6,9,18,70,52,41
+Tweede_Divisie,3,2018,4,Koninklijke HFC,1246,61,WWWLD,34,18,7,9,25,62,37,42
+Tweede_Divisie,3,2018,5,Katwijk,1237,55,LLLWD,34,15,10,9,12,51,39,43
+Tweede_Divisie,3,2018,6,HHC,1278,54,DLLLW,34,16,6,12,14,68,54,44
+Tweede_Divisie,3,2018,7,Kozakken Boys,1242,54,LLWDW,34,16,6,12,10,59,49,45
+Tweede_Divisie,3,2018,8,Vitesse II,10322,53,WWWWL,34,15,8,11,16,62,46,46
+Tweede_Divisie,3,2018,9,Spakenburg,1249,52,DLLLW,34,16,4,14,3,55,52,47
+Tweede_Divisie,3,2018,10,GVVV Veenendaal,1261,49,WLWLW,34,14,7,13,-3,61,64,48
+Tweede_Divisie,3,2018,11,De Treffers,1277,48,WWLWD,34,14,6,14,-1,47,48,49
+Tweede_Divisie,3,2018,12,Sparta Rotterdam II,10320,47,LWWWL,34,13,8,13,5,59,54,50
+Tweede_Divisie,3,2018,13,Rijnsburgse Boys,1248,47,LWWLW,34,14,5,15,-2,77,79,51
+Tweede_Divisie,3,2018,14,SVV Scheveningen,1250,43,WWWLL,34,12,7,15,-6,59,65,52
+Tweede_Divisie,3,2018,15,Vvsb,1251,30,WLWDL,34,8,6,20,-25,57,82,53
+Tweede_Divisie,3,2018,16,Almere City II,9130,28,WLLWL,34,8,4,22,-23,46,69,54
+Tweede_Divisie,3,2018,17,FC Lienden,1283,26,LLLWL,34,7,5,22,-53,42,95,55
+Tweede_Divisie,3,2018,18,Barendrecht,1271,19,LLLLD,34,5,4,25,-63,29,92,56
+Eredivisie,1,2019,1,Ajax,194,56,WLLWW,25,18,2,5,45,68,23,1
+Eredivisie,1,2019,2,AZ Alkmaar,201,56,WWWLW,25,18,2,5,37,54,17,2
+Eredivisie,1,2019,3,Feyenoord,209,50,WDWWW,25,14,8,3,15,50,35,3
+Eredivisie,1,2019,4,PSV Eindhoven,197,49,WDWWW,26,14,7,5,26,54,28,4
+Eredivisie,1,2019,5,Willem II,195,44,LWLDL,26,13,5,8,3,37,34,5
+Eredivisie,1,2019,6,Utrecht,207,41,WLWDD,25,12,5,8,16,50,34,6
+Eredivisie,1,2019,7,Vitesse,200,41,WLLWL,26,12,5,9,10,45,35,7
+Eredivisie,1,2019,8,Heracles,206,36,WDWLW,26,10,6,10,6,40,34,8
+Eredivisie,1,2019,9,Groningen,202,35,LLLWW,26,10,5,11,1,27,26,9
+Eredivisie,1,2019,10,Heerenveen,210,33,LWDLD,26,8,9,9,0,41,41,10
+Eredivisie,1,2019,11,Sparta Rotterdam,426,33,LWWLW,26,9,6,11,-4,41,45,11
+Eredivisie,1,2019,12,Emmen,208,32,WLWDW,26,9,5,12,-13,32,45,12
+Eredivisie,1,2019,13,VVV Venlo,204,28,LDWWD,26,8,4,14,-27,24,51,13
+Eredivisie,1,2019,14,Twente,415,27,LLLWL,26,7,6,13,-12,34,46,14
+Eredivisie,1,2019,15,PEC Zwolle,193,26,DWLLD,26,7,5,14,-18,37,55,15
+Eredivisie,1,2019,16,Fortuna Sittard,205,26,DDLDL,26,6,8,12,-23,29,52,16
+Eredivisie,1,2019,17,ADO Den Haag,198,19,LDDLL,26,4,7,15,-29,25,54,17
+Eredivisie,1,2019,18,Waalwijk,417,15,LWLLD,26,4,3,19,-33,27,60,18
+Eerste_Divisie,2,2019,1,Cambuur,420,66,WWWWW,29,21,3,5,43,68,25,19
+Eerste_Divisie,2,2019,2,De Graafschap,199,62,WWWWW,29,17,11,1,35,63,28,20
+Eerste_Divisie,2,2019,3,FC Volendam,416,55,WDLDD,29,16,7,6,15,57,42,21
+Eerste_Divisie,2,2019,4,Jong Ajax,425,54,LDWLL,29,16,6,7,25,72,47,22
+Eerste_Divisie,2,2019,5,NAC Breda,203,50,WDWWD,29,14,8,7,18,48,30,23
+Eerste_Divisie,2,2019,6,GO Ahead Eagles,410,48,LDWLW,29,12,12,5,8,49,41,24
+Eerste_Divisie,2,2019,7,Excelsior,196,47,WLWDW,29,13,8,8,10,65,55,25
+Eerste_Divisie,2,2019,8,NEC Nijmegen,413,45,WDLWW,29,12,9,8,14,51,37,26
+Eerste_Divisie,2,2019,9,Almere City FC,419,44,WLWLL,29,13,5,11,2,44,42,27
+Eerste_Divisie,2,2019,10,Telstar,427,44,WDWDL,29,12,8,9,-1,47,48,28
+Eerste_Divisie,2,2019,11,Den Bosch,421,38,LWLWW,29,10,11,8,7,56,49,29
+Eerste_Divisie,2,2019,12,Jong Utrecht,428,38,LLWLW,29,10,8,11,1,48,47,30
+Eerste_Divisie,2,2019,13,FC Eindhoven,422,34,DWWDL,29,9,7,13,-13,46,59,31
+Eerste_Divisie,2,2019,14,Jong AZ,418,28,LWLLD,29,7,7,15,-16,45,61,32
+Eerste_Divisie,2,2019,15,MVV,412,27,LLLWL,29,7,6,16,-16,37,53,33
+Eerste_Divisie,2,2019,16,FC OSS,423,25,DWDLD,29,6,7,16,-25,28,53,34
+Eerste_Divisie,2,2019,17,Roda,414,22,LWLLL,29,5,10,14,-16,36,52,35
+Eerste_Divisie,2,2019,18,Jong PSV,411,22,LLDDL,29,5,7,17,-22,34,56,36
+Eerste_Divisie,2,2019,19,Dordrecht,409,20,DLLWL,29,4,8,17,-32,34,66,37
+Eerste_Divisie,2,2019,20,Helmond Sport,424,17,DLLLL,29,3,8,18,-37,25,62,38
+Tweede_Divisie,3,2019,1,Katwijk,1237,49,WWWLD,24,15,4,5,22,48,26,39
+Tweede_Divisie,3,2019,2,HHC,1278,46,DLLWL,24,14,4,6,27,54,27,40
+Tweede_Divisie,3,2019,3,AFC Amsterdam,1252,45,LWWWW,24,13,6,5,17,50,33,41
+Tweede_Divisie,3,2019,4,Rijnsburgse Boys,1248,45,WWWLW,24,13,6,5,13,55,42,42
+Tweede_Divisie,3,2019,5,Ijsselmeervogels,1280,44,LLWDW,24,13,5,6,20,57,37,43
+Tweede_Divisie,3,2019,6,Kozakken Boys,1242,42,LDDWW,24,13,3,8,9,38,29,44
+Tweede_Divisie,3,2019,7,Spakenburg,1249,37,WDWLW,24,10,7,7,-7,37,44,45
+Tweede_Divisie,3,2019,8,Koninklijke HFC,1246,35,DLWLL,23,10,5,8,7,43,36,46
+Tweede_Divisie,3,2019,9,De Treffers,1277,35,LLWDD,24,9,8,7,6,42,36,47
+Tweede_Divisie,3,2019,10,Noordwijk,1247,32,DLWDL,24,8,8,8,3,47,44,48
+Tweede_Divisie,3,2019,11,Sparta Rotterdam II,10320,31,WDLLW,24,9,4,11,1,43,42,49
+Tweede_Divisie,3,2019,12,Excelsior Maassluis,17129,31,WWLWL,24,9,4,11,-11,36,47,50
+Tweede_Divisie,3,2019,13,GVVV Veenendaal,1261,30,LWLLL,24,9,3,12,-10,38,48,51
+Tweede_Divisie,3,2019,14,Quick Boys,1272,27,LDWDL,24,7,6,11,-7,25,32,52
+Tweede_Divisie,3,2019,15,SVV Scheveningen,1250,25,WWDLL,23,7,4,12,-12,24,36,53
+Tweede_Divisie,3,2019,16,TEC,1255,16,DDLLL,24,3,7,14,-23,17,40,54
+Tweede_Divisie,3,2019,17,Volendam II,10321,14,DDLLW,24,3,5,16,-21,40,61,55
+Tweede_Divisie,3,2019,18,ASWH,1254,14,DLLWL,24,3,5,16,-34,26,60,56
+Eredivisie,1,2020,1,Ajax,194,88,WWWWW,34,28,4,2,79,102,23,1
+Eredivisie,1,2020,2,PSV Eindhoven,197,72,DWWDW,34,21,9,4,39,74,35,2
+Eredivisie,1,2020,3,AZ Alkmaar,201,71,WDWWL,34,21,8,5,34,75,41,3
+Eredivisie,1,2020,4,Vitesse,200,61,LDLWD,34,18,7,9,14,52,38,4
+Eredivisie,1,2020,5,Feyenoord,209,59,WDLLD,34,16,11,7,28,64,36,5
+Eredivisie,1,2020,6,Utrecht,207,53,DDDWW,34,13,14,7,11,52,41,6
+Eredivisie,1,2020,7,Groningen,202,50,LDWLL,34,14,8,12,3,40,37,7
+Eredivisie,1,2020,8,Sparta Rotterdam,426,47,WDWWW,34,13,8,13,1,49,48,8
+Eredivisie,1,2020,9,Heracles,206,44,LDDWL,34,12,8,14,-11,42,53,9
+Eredivisie,1,2020,10,Twente,415,41,WLDLL,34,10,11,13,-2,48,50,10
+Eredivisie,1,2020,11,Fortuna Sittard,205,41,LDLWW,34,12,5,17,-8,50,58,11
+Eredivisie,1,2020,12,Heerenveen,210,39,LLDDL,34,9,12,13,-6,43,49,12
+Eredivisie,1,2020,13,PEC Zwolle,193,38,WLLLW,34,9,11,14,-9,44,53,13
+Eredivisie,1,2020,14,Willem II,195,31,WWLLW,34,8,7,19,-28,40,68,14
+Eredivisie,1,2020,15,Waalwijk,417,30,LWDLL,34,7,9,18,-22,33,55,15
+Eredivisie,1,2020,16,Emmen,208,30,WWLLW,34,7,9,18,-28,40,68,16
+Eredivisie,1,2020,17,VVV Venlo,204,23,LLDLL,34,6,5,23,-48,43,91,17
+Eredivisie,1,2020,18,ADO Den Haag,198,22,LLWWL,34,4,10,20,-47,29,76,18
+Eerste_Divisie,2,2020,1,Cambuur,420,92,WWDWW,38,29,5,4,73,109,36,19
+Eerste_Divisie,2,2020,2,GO Ahead Eagles,410,77,WWWWW,38,23,8,7,37,62,25,20
+Eerste_Divisie,2,2020,3,De Graafschap,199,77,DDDDW,38,23,8,7,20,67,47,21
+Eerste_Divisie,2,2020,4,Almere City FC,419,75,DWWDL,38,22,9,7,27,75,48,22
+Eerste_Divisie,2,2020,5,NAC Breda,203,73,LWWLD,38,22,7,9,34,75,41,23
+Eerste_Divisie,2,2020,6,FC Volendam,416,66,WWDWW,38,19,9,10,27,79,52,24
+Eerste_Divisie,2,2020,7,NEC Nijmegen,413,66,WLLWW,38,20,6,12,23,68,45,25
+Eerste_Divisie,2,2020,8,Roda,414,57,LWLLD,38,15,12,11,6,67,61,26
+Eerste_Divisie,2,2020,9,Excelsior,196,48,LLWWD,38,14,6,18,-1,65,66,27
+Eerste_Divisie,2,2020,10,FC OSS,423,47,WDDLD,38,13,8,17,-17,40,57,28
+Eerste_Divisie,2,2020,11,MVV,412,46,WLDWD,38,13,7,18,-22,50,72,29
+Eerste_Divisie,2,2020,12,Helmond Sport,424,45,DDLWL,38,11,12,15,-17,51,68,30
+Eerste_Divisie,2,2020,13,Telstar,427,41,LLDLD,38,10,11,17,-4,57,61,31
+Eerste_Divisie,2,2020,14,Jong PSV,411,40,DLDDL,38,10,10,18,-11,54,65,32
+Eerste_Divisie,2,2020,15,FC Eindhoven,422,40,DLWLW,38,10,10,18,-12,50,62,33
+Eerste_Divisie,2,2020,16,Jong Ajax,425,40,WDLLL,38,10,10,18,-16,55,71,34
+Eerste_Divisie,2,2020,17,Jong AZ,418,38,LWWLL,38,11,5,22,-36,56,92,35
+Eerste_Divisie,2,2020,18,Jong Utrecht,428,35,DLWLL,38,11,2,25,-24,53,77,36
+Eerste_Divisie,2,2020,19,Den Bosch,421,32,LWLWW,38,8,8,22,-26,59,85,37
+Eerste_Divisie,2,2020,20,Dordrecht,409,27,LLLLL,38,8,3,27,-61,36,97,38
+Tweede_Divisie,3,2020,1,AFC Amsterdam,1252,13,WWWWD,5,4,1,0,10,15,5,39
+Tweede_Divisie,3,2020,2,ASWH,1254,12,WLWWW,6,4,0,2,5,12,7,40
+Tweede_Divisie,3,2020,3,Spakenburg,1249,12,WWWDD,6,3,3,0,5,11,6,41
+Tweede_Divisie,3,2020,4,Quick Boys,1272,12,LWWWL,6,4,0,2,-1,7,8,42
+Tweede_Divisie,3,2020,5,Ijsselmeervogels,1280,9,LWLWW,5,3,0,2,-1,9,10,43
+Tweede_Divisie,3,2020,6,Rijnsburgse Boys,1248,8,WDDWL,5,2,2,1,4,10,6,44
+Tweede_Divisie,3,2020,7,Kozakken Boys,1242,8,LDWDW,5,2,2,1,2,12,10,45
+Tweede_Divisie,3,2020,8,Katwijk,1237,8,LDDWW,5,2,2,1,2,9,7,46
+Tweede_Divisie,3,2020,9,HHC,1278,8,WDLWL,6,2,2,2,0,7,7,47
+Tweede_Divisie,3,2020,10,Koninklijke HFC,1246,6,LLWW,4,2,0,2,1,6,5,48
+Tweede_Divisie,3,2020,11,Volendam II,10321,5,DWLLL,6,1,2,3,-4,9,13,49
+Tweede_Divisie,3,2020,12,GVVV Veenendaal,1261,5,WDLDL,6,1,2,3,-5,6,11,50
+Tweede_Divisie,3,2020,13,TEC,1255,4,WDLL,4,1,1,2,0,6,6,51
+Tweede_Divisie,3,2020,14,Excelsior Maassluis,17129,4,LLDWL,5,1,1,3,-4,6,10,52
+Tweede_Divisie,3,2020,15,Sparta Rotterdam II,10320,4,LDLDD,6,0,4,2,-3,6,9,53
+Tweede_Divisie,3,2020,16,SVV Scheveningen,1250,3,DLDD,4,0,3,1,-1,3,4,54
+Tweede_Divisie,3,2020,17,Noordwijk,1247,3,LDDLD,5,0,3,2,-3,7,10,55
+Tweede_Divisie,3,2020,18,De Treffers,1277,2,DLLLD,5,0,2,3,-7,2,9,56
+Eredivisie,1,2021,1,Ajax,194,83,DWDWW,34,26,5,3,79,98,19,1
+Eredivisie,1,2021,2,PSV Eindhoven,197,81,WWDWW,34,26,3,5,44,86,42,2
+Eredivisie,1,2021,3,Feyenoord,209,71,LWDWW,34,22,5,7,42,76,34,3
+Eredivisie,1,2021,4,Twente,415,68,WWLDW,34,20,8,6,18,55,37,4
+Eredivisie,1,2021,5,AZ Alkmaar,201,61,LDDDW,34,18,7,9,20,64,44,5
+Eredivisie,1,2021,6,Vitesse,200,51,DWLWL,34,15,6,13,-9,42,51,6
+Eredivisie,1,2021,7,Utrecht,207,47,LDDWL,34,12,11,11,5,51,46,7
+Eredivisie,1,2021,8,Heerenveen,210,41,WLWDL,34,11,8,15,-13,37,50,8
+Eredivisie,1,2021,9,Cambuur,420,39,WDDDL,34,11,6,17,-17,53,70,9
+Eredivisie,1,2021,10,Waalwijk,417,38,WWDWL,34,9,11,14,-11,40,51,10
+Eredivisie,1,2021,11,NEC Nijmegen,413,38,LLWLL,34,10,8,16,-14,38,52,11
+Eredivisie,1,2021,12,Groningen,202,36,LLLLL,34,9,9,16,-14,41,55,12
+Eredivisie,1,2021,13,GO Ahead Eagles,410,36,LLLLL,34,10,6,18,-14,37,51,13
+Eredivisie,1,2021,14,Sparta Rotterdam,426,35,WWWDL,34,8,11,15,-18,30,48,14
+Eredivisie,1,2021,15,Fortuna Sittard,205,35,WLWLW,34,10,5,19,-31,36,67,15
+Eredivisie,1,2021,16,Heracles,206,34,LLLDW,34,9,7,18,-16,33,49,16
+Eredivisie,1,2021,17,Willem II,195,33,WDWLW,34,9,6,19,-25,32,57,17
+Eredivisie,1,2021,18,PEC Zwolle,193,27,LLDLW,34,7,6,21,-26,26,52,18
+Eerste_Divisie,2,2021,1,Emmen,208,83,WLWWW,38,26,5,7,40,64,24,19
+Eerste_Divisie,2,2021,2,FC Volendam,416,75,DLWWW,38,21,12,5,28,81,53,20
+Eerste_Divisie,2,2021,3,FC Eindhoven,422,71,DWWLW,38,21,8,9,26,69,43,21
+Eerste_Divisie,2,2021,4,ADO Den Haag,198,67,LWDDW,38,22,7,9,23,76,53,22
+Eerste_Divisie,2,2021,5,Roda,414,66,WLLWD,38,18,12,8,27,77,50,23
+Eerste_Divisie,2,2021,6,Excelsior,196,66,DDDDL,38,19,9,10,25,82,57,24
+Eerste_Divisie,2,2021,7,Jong Ajax,425,63,DLWLD,38,18,9,11,19,82,63,25
+Eerste_Divisie,2,2021,8,NAC Breda,203,59,DWLWW,38,16,11,11,15,60,45,26
+Eerste_Divisie,2,2021,9,De Graafschap,199,56,DDWLL,38,15,11,12,9,52,43,27
+Eerste_Divisie,2,2021,10,VVV Venlo,204,48,WDLWL,38,14,6,18,-14,50,64,28
+Eerste_Divisie,2,2021,11,Den Bosch,421,47,DWLWW,38,14,5,19,-19,42,61,29
+Eerste_Divisie,2,2021,12,Jong PSV,411,44,DDDDW,38,11,11,16,-2,61,63,30
+Eerste_Divisie,2,2021,13,Jong AZ,418,42,WLDLL,38,12,6,20,-11,39,50,31
+Eerste_Divisie,2,2021,14,Almere City FC,419,41,LLWLL,38,11,8,19,-12,57,69,32
+Eerste_Divisie,2,2021,15,FC OSS,423,41,LLLWW,38,11,8,19,-14,48,62,33
+Eerste_Divisie,2,2021,16,MVV,412,40,WWDDL,38,12,4,22,-32,43,75,34
+Eerste_Divisie,2,2021,17,Dordrecht,409,39,DWWLL,38,10,9,19,-24,53,77,35
+Eerste_Divisie,2,2021,18,Jong Utrecht,428,38,LWDLW,38,11,5,22,-24,43,67,36
+Eerste_Divisie,2,2021,19,Telstar,427,35,LLLLW,38,8,11,19,-27,47,74,37
+Eerste_Divisie,2,2021,20,Helmond Sport,424,28,DWLLL,38,8,7,23,-33,39,72,38
+Tweede_Divisie,3,2021,1,Katwijk,1237,71,WLWLW,34,22,5,7,39,73,34,39
+Tweede_Divisie,3,2021,2,HHC,1278,62,WDWLW,34,19,5,10,15,58,43,40
+Tweede_Divisie,3,2021,3,Koninklijke HFC,1246,57,LWDLL,34,16,9,9,15,54,39,41
+Tweede_Divisie,3,2021,4,Rijnsburgse Boys,1248,55,LWLDW,34,17,4,13,20,63,43,42
+Tweede_Divisie,3,2021,5,Sparta Rotterdam II,10320,55,DLDLW,34,16,7,11,8,57,49,43
+Tweede_Divisie,3,2021,6,AFC Amsterdam,1252,54,WDWDD,34,15,9,10,12,61,49,44
+Tweede_Divisie,3,2021,7,Noordwijk,1247,54,WWLWD,34,16,6,12,7,53,46,45
+Tweede_Divisie,3,2021,8,SVV Scheveningen,1250,50,DWDWL,34,13,11,10,-1,43,44,46
+Tweede_Divisie,3,2021,9,Spakenburg,1249,49,WLDWD,34,14,7,13,2,64,62,47
+Tweede_Divisie,3,2021,10,Excelsior Maassluis,17129,47,LWLWL,34,14,5,15,-5,50,55,48
+Tweede_Divisie,3,2021,11,Volendam II,10321,45,WWWLW,34,14,3,17,1,66,65,49
+Tweede_Divisie,3,2021,12,Quick Boys,1272,44,LLLWL,34,12,8,14,-10,43,53,50
+Tweede_Divisie,3,2021,13,Ijsselmeervogels,1280,42,LWLLD,34,13,3,18,-4,44,48,51
+Tweede_Divisie,3,2021,14,TEC,1255,42,LDWWL,34,11,9,14,-19,44,63,52
+Tweede_Divisie,3,2021,15,De Treffers,1277,41,LDLWL,34,12,5,17,-13,38,51,53
+Tweede_Divisie,3,2021,16,Kozakken Boys,1242,35,DLWDW,34,8,11,15,-16,46,62,54
+Tweede_Divisie,3,2021,17,GVVV Veenendaal,1261,34,WLWLW,34,9,7,18,-9,45,54,55
+Tweede_Divisie,3,2021,18,ASWH,1254,21,DLLDL,34,5,6,23,-42,38,80,56
+Eredivisie,1,2022,1,Feyenoord,209,82,LWWWW,34,25,7,2,51,81,30,1
+Eredivisie,1,2022,2,PSV Eindhoven,197,75,WDWWW,34,23,6,5,49,89,40,2
+Eredivisie,1,2022,3,Ajax,194,69,LWWDL,34,20,9,5,48,86,38,3
+Eredivisie,1,2022,4,AZ Alkmaar,201,67,LWWDW,34,20,7,7,33,68,35,4
+Eredivisie,1,2022,5,Twente,415,64,WWWWD,34,18,10,6,39,66,27,5
+Eredivisie,1,2022,6,Sparta Rotterdam,426,59,WWLLD,34,17,8,9,23,60,37,6
+Eredivisie,1,2022,7,Utrecht,207,54,WLWWL,34,15,9,10,5,55,50,7
+Eredivisie,1,2022,8,Heerenveen,210,46,WDDWL,34,12,10,12,-6,44,50,8
+Eredivisie,1,2022,9,Waalwijk,417,41,LLLWL,34,11,8,15,-14,50,64,9
+Eredivisie,1,2022,10,Vitesse,200,40,WWWLD,34,10,10,14,-5,45,50,10
+Eredivisie,1,2022,11,GO Ahead Eagles,410,40,LWLDW,34,10,10,14,-10,46,56,11
+Eredivisie,1,2022,12,NEC Nijmegen,413,39,DLLLW,34,8,15,11,-3,42,45,12
+Eredivisie,1,2022,13,Fortuna Sittard,205,36,DLLWL,34,10,6,18,-23,39,62,13
+Eredivisie,1,2022,14,FC Volendam,416,36,WLWLW,34,10,6,18,-29,42,71,14
+Eredivisie,1,2022,15,Excelsior,196,32,LWDLD,34,9,5,20,-39,32,71,15
+Eredivisie,1,2022,16,Emmen,208,28,LLLLW,34,6,10,18,-32,33,65,16
+Eredivisie,1,2022,17,Cambuur,420,19,WLLLL,34,5,4,25,-43,26,69,17
+Eredivisie,1,2022,18,Groningen,202,18,LLLDL,34,4,6,24,-44,31,75,18
+Eerste_Divisie,2,2022,1,Heracles,206,85,WWWWW,38,27,4,7,61,103,42,19
+Eerste_Divisie,2,2022,2,PEC Zwolle,193,85,WWLWD,38,27,4,7,56,99,43,20
+Eerste_Divisie,2,2022,3,Almere City FC,419,70,WDLWD,38,21,7,10,17,58,41,21
+Eerste_Divisie,2,2022,4,Willem II,195,68,DWDWD,38,19,11,8,28,68,40,22
+Eerste_Divisie,2,2022,5,MVV,412,59,LWLLW,38,18,5,15,0,65,65,23
+Eerste_Divisie,2,2022,6,NAC Breda,203,59,LLWWD,38,18,5,15,0,64,64,24
+Eerste_Divisie,2,2022,7,VVV Venlo,204,58,DWDLL,38,16,10,12,5,56,51,25
+Eerste_Divisie,2,2022,8,FC Eindhoven,422,58,DLWWL,38,16,10,12,4,58,54,26
+Eerste_Divisie,2,2022,9,Telstar,427,53,WLDWW,38,14,11,13,-13,39,52,27
+Eerste_Divisie,2,2022,10,De Graafschap,199,52,WLWLL,38,15,7,16,10,64,54,28
+Eerste_Divisie,2,2022,11,Jong AZ,418,51,LWDWL,38,14,9,15,2,60,58,29
+Eerste_Divisie,2,2022,12,ADO Den Haag,198,51,WDLDW,38,13,12,13,-6,51,57,30
+Eerste_Divisie,2,2022,13,Jong Ajax,425,46,LLWWL,38,12,10,16,-3,69,72,31
+Eerste_Divisie,2,2022,14,Jong PSV,411,45,DLWLL,38,12,9,17,-4,59,63,32
+Eerste_Divisie,2,2022,15,Roda,414,43,DLLLL,38,12,7,19,-10,49,59,33
+Eerste_Divisie,2,2022,16,Helmond Sport,424,43,LWDDL,38,11,10,17,-18,39,57,34
+Eerste_Divisie,2,2022,17,FC OSS,423,37,DWDLL,38,10,7,21,-31,45,76,35
+Eerste_Divisie,2,2022,18,Dordrecht,409,35,DDLLW,38,9,8,21,-27,41,68,36
+Eerste_Divisie,2,2022,19,Den Bosch,421,35,LDDLW,38,10,5,23,-39,46,85,37
+Eerste_Divisie,2,2022,20,Jong Utrecht,428,28,DLDLW,38,7,7,24,-32,33,65,38
+Tweede_Divisie,3,2022,1,Katwijk,1237,71,WWWLD,34,22,5,7,38,74,36,39
+Tweede_Divisie,3,2022,2,Rijnsburgse Boys,1248,69,WLWWW,34,21,6,7,31,73,42,40
+Tweede_Divisie,3,2022,3,AFC Amsterdam,1252,69,DDWWD,34,20,9,5,29,60,31,41
+Tweede_Divisie,3,2022,4,HHC,1278,60,LDWWL,34,18,6,10,27,75,48,42
+Tweede_Divisie,3,2022,5,De Treffers,1277,60,WWDWW,34,18,6,10,21,66,45,43
+Tweede_Divisie,3,2022,6,Quick Boys,1272,56,LLLWW,34,17,5,12,24,72,48,44
+Tweede_Divisie,3,2022,7,Koninklijke HFC,1246,55,WWWWD,34,16,7,11,11,52,41,45
+Tweede_Divisie,3,2022,8,SVV Scheveningen,1250,45,WWDLD,34,12,9,13,-8,38,46,46
+Tweede_Divisie,3,2022,9,Noordwijk,1247,43,LLWLD,34,12,7,15,0,45,45,47
+Tweede_Divisie,3,2022,10,Sparta Rotterdam II,10320,43,WLLWW,34,12,7,15,-3,58,61,48
+Tweede_Divisie,3,2022,11,Spakenburg,1249,43,LDLLL,34,11,10,13,-5,50,55,49
+Tweede_Divisie,3,2022,12,FC Lisse,1257,42,LLLLD,34,10,12,12,-6,45,51,50
+Tweede_Divisie,3,2022,13,Kozakken Boys,1242,40,LLLLL,34,12,4,18,-8,50,58,51
+Tweede_Divisie,3,2022,14,Excelsior Maassluis,17129,39,DWWLL,34,10,9,15,-19,50,69,52
+Tweede_Divisie,3,2022,15,TEC,1255,39,LWDWD,34,10,9,15,-19,41,60,53
+Tweede_Divisie,3,2022,16,Ijsselmeervogels,1280,33,WLDLW,34,9,6,19,-20,51,71,54
+Tweede_Divisie,3,2022,17,Volendam II,10321,26,WWDDL,34,7,5,22,-37,45,82,55
+Tweede_Divisie,3,2022,18,OFC Oostzaan,1232,20,LDLLD,34,4,8,22,-56,33,89,56
+Eredivisie,1,2023,1,PSV Eindhoven,197,69,WDWWW,25,22,3,0,67,80,13,1
+Eredivisie,1,2023,2,Feyenoord,209,59,WDWWW,25,18,5,2,44,63,19,2
+Eredivisie,1,2023,3,Twente,415,53,WWWLW,25,16,5,4,25,49,24,3
+Eredivisie,1,2023,4,AZ Alkmaar,201,46,WDWWD,25,13,7,5,26,49,23,4
+Eredivisie,1,2023,5,Ajax,194,40,DWLDL,25,11,7,7,10,55,45,5
+Eredivisie,1,2023,6,NEC Nijmegen,413,39,WWWDL,25,10,9,6,11,50,39,6
+Eredivisie,1,2023,7,GO Ahead Eagles,410,37,LWLWD,25,10,7,8,5,38,33,7
+Eredivisie,1,2023,8,Utrecht,207,33,DLWWW,25,8,9,8,-3,30,33,8
+Eredivisie,1,2023,9,Heerenveen,210,31,LWWLW,25,9,4,12,-6,40,46,9
+Eredivisie,1,2023,10,Fortuna Sittard,205,31,DWWLL,25,8,7,10,-13,30,43,10
+Eredivisie,1,2023,11,Sparta Rotterdam,426,30,LDLWL,25,8,6,11,-5,31,36,11
+Eredivisie,1,2023,12,Almere City FC,419,29,DDLWD,25,7,8,10,-17,25,42,12
+Eredivisie,1,2023,13,PEC Zwolle,193,28,DLLLD,25,7,7,11,-11,33,44,13
+Eredivisie,1,2023,14,Heracles,206,23,LDLLW,25,6,5,14,-27,31,58,14
+Eredivisie,1,2023,15,Excelsior,196,21,LLLLL,25,4,9,12,-18,38,56,15
+Eredivisie,1,2023,16,Waalwijk,417,21,WLLLW,25,6,3,16,-19,23,42,16
+Eredivisie,1,2023,17,Vitesse,200,16,LLWDL,25,4,4,17,-32,20,52,17
+Eredivisie,1,2023,18,FC Volendam,416,14,DLLDL,25,3,5,17,-37,26,63,18
+Eerste_Divisie,2,2023,1,Willem II,195,60,WLLWW,29,18,6,5,31,58,27,19
+Eerste_Divisie,2,2023,2,Roda,414,55,DDWWW,29,15,10,4,25,50,25,20
+Eerste_Divisie,2,2023,3,ADO Den Haag,198,55,DDWDL,30,15,10,5,24,62,38,21
+Eerste_Divisie,2,2023,4,Groningen,202,54,WWWDW,29,16,6,7,28,53,25,22
+Eerste_Divisie,2,2023,5,Dordrecht,409,53,DWWWW,30,14,11,5,14,57,43,23
+Eerste_Divisie,2,2023,6,De Graafschap,199,52,LWWWL,30,16,4,10,5,44,39,24
+Eerste_Divisie,2,2023,7,NAC Breda,203,46,WWWLD,29,13,7,9,10,51,41,25
+Eerste_Divisie,2,2023,8,Jong AZ,418,43,LWDLD,30,12,7,11,-1,46,47,26
+Eerste_Divisie,2,2023,9,VVV Venlo,204,42,WDDLD,29,11,9,9,0,45,45,27
+Eerste_Divisie,2,2023,10,Helmond Sport,424,41,WWDDW,30,11,8,11,1,45,44,28
+Eerste_Divisie,2,2023,11,Cambuur,420,39,LLLWL,29,11,6,12,3,62,59,29
+Eerste_Divisie,2,2023,12,Emmen,208,39,LLWWL,29,11,6,12,-4,39,43,30
+Eerste_Divisie,2,2023,13,MVV,412,37,LLDDL,29,10,7,12,0,49,49,31
+Eerste_Divisie,2,2023,14,FC Eindhoven,422,37,WLDDL,30,8,13,9,-5,38,43,32
+Eerste_Divisie,2,2023,15,Jong Ajax,425,33,WLLLL,30,8,9,13,-8,44,52,33
+Eerste_Divisie,2,2023,16,Jong PSV,411,28,LLWLD,30,7,7,16,-19,46,65,34
+Eerste_Divisie,2,2023,17,FC OSS,423,26,WLLWW,30,8,2,20,-26,24,50,35
+Eerste_Divisie,2,2023,18,Telstar,427,24,LDWDW,29,6,6,17,-22,29,51,36
+Eerste_Divisie,2,2023,19,Den Bosch,421,23,WLLDL,29,5,8,16,-25,27,52,37
+Eerste_Divisie,2,2023,20,Jong Utrecht,428,23,LLLLW,30,5,8,17,-31,25,56,38
+Tweede_Divisie,3,2023,1,Spakenburg,1249,57,LWDDW,24,18,3,3,29,57,28,39
+Tweede_Divisie,3,2023,2,De Treffers,1277,49,LDWWW,24,15,4,5,16,48,32,40
+Tweede_Divisie,3,2023,3,Quick Boys,1272,46,WLWDD,24,14,4,6,18,51,33,41
+Tweede_Divisie,3,2023,4,Katwijk,1237,44,LWWDL,24,14,2,8,13,43,30,42
+Tweede_Divisie,3,2023,5,GVVV Veenendaal,1261,39,WLLDW,24,11,6,7,2,37,35,43
+Tweede_Divisie,3,2023,6,HHC,1278,38,WDWLW,24,11,5,8,12,36,24,44
+Tweede_Divisie,3,2023,7,ACV,3911,38,LLWLW,24,12,2,10,3,40,37,45
+Tweede_Divisie,3,2023,8,Almere City II,9130,36,LDWWL,24,10,6,8,7,41,34,46
+Tweede_Divisie,3,2023,9,AFC Amsterdam,1252,36,LWWLL,24,10,6,8,4,42,38,47
+Tweede_Divisie,3,2023,10,Koninklijke HFC,1246,35,WDWDW,24,9,8,7,7,42,35,48
+Tweede_Divisie,3,2023,11,Sparta Rotterdam II,10320,35,WWWLL,24,11,2,11,4,41,37,49
+Tweede_Divisie,3,2023,12,Rijnsburgse Boys,1248,34,WWLWW,24,10,4,10,1,38,37,50
+Tweede_Divisie,3,2023,13,Noordwijk,1247,29,WLLWL,24,6,11,7,1,32,31,51
+Tweede_Divisie,3,2023,14,ADO '20,3886,26,WLLWL,24,8,2,14,-15,26,41,52
+Tweede_Divisie,3,2023,15,SVV Scheveningen,1250,19,LLLLL,24,4,7,13,-22,28,50,53
+Tweede_Divisie,3,2023,16,Kozakken Boys,1242,16,DWWLL,24,3,7,14,-18,25,43,54
+Tweede_Divisie,3,2023,17,Excelsior Maassluis,17129,15,LLDLL,24,3,6,15,-23,27,50,55
+Tweede_Divisie,3,2023,18,FC Lisse,1257,11,LLDLL,24,2,5,17,-39,26,65,56

@@ -1,0 +1,4299 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "league": "81",
+        "season": "2014"
+    },
+    "errors": [],
+    "results": 63,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 559809,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-03-03T18:00:00+00:00",
+                "timestamp": 1425405600,
+                "periods": {
+                    "first": 1425405600,
+                    "second": 1425409200
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "8th Finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 745,
+                    "name": "FC Kaiserslautern",
+                    "logo": "https://media.api-sports.io/football/teams/745.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559810,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-03-03T18:00:00+00:00",
+                "timestamp": 1425405600,
+                "periods": {
+                    "first": 1425405600,
+                    "second": 1425409200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Scholz Arena",
+                    "city": "Aalen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "8th Finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 1327,
+                    "name": "VfR Aalen",
+                    "logo": "https://media.api-sports.io/football/teams/1327.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559811,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-03-03T19:30:00+00:00",
+                "timestamp": 1425411000,
+                "periods": {
+                    "first": 1425411000,
+                    "second": 1425414600
+                },
+                "venue": {
+                    "id": 716,
+                    "name": "Schwarzwald-Stadion",
+                    "city": "Freiburg im Breisgau"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "8th Finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559812,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-03-03T19:30:00+00:00",
+                "timestamp": 1425411000,
+                "periods": {
+                    "first": 1425411000,
+                    "second": 1425414600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion Dresden",
+                    "city": "Dresden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "8th Finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 183,
+                    "name": "Dynamo Dresden",
+                    "logo": "https://media.api-sports.io/football/teams/183.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559813,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-03-04T18:00:00+00:00",
+                "timestamp": 1425492000,
+                "periods": {
+                    "first": 1425492000,
+                    "second": 1425495600
+                },
+                "venue": {
+                    "id": 1619,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "8th Finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559814,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-03-04T18:00:00+00:00",
+                "timestamp": 1425492000,
+                "periods": {
+                    "first": 1425492000,
+                    "second": 1425495600
+                },
+                "venue": {
+                    "id": 697,
+                    "name": "Sch\u00fccoArena",
+                    "city": "Bielefeld"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "8th Finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559815,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-03-04T19:30:00+00:00",
+                "timestamp": 1425497400,
+                "periods": {
+                    "first": 1425497400,
+                    "second": 1425501000
+                },
+                "venue": {
+                    "id": 2710,
+                    "name": "Sparda-Bank-Hessen-Stadion",
+                    "city": "Offenbach"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "8th Finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 1628,
+                    "name": "Kickers Offenbach",
+                    "logo": "https://media.api-sports.io/football/teams/1628.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559816,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-03-04T19:30:00+00:00",
+                "timestamp": 1425497400,
+                "periods": {
+                    "first": 1425497400,
+                    "second": 1425501000
+                },
+                "venue": {
+                    "id": 700,
+                    "name": "Allianz-Arena",
+                    "city": "M\u00fcnchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "8th Finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 744,
+                    "name": "Eintracht Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/744.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559817,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-04-07T17:00:00+00:00",
+                "timestamp": 1428426000,
+                "periods": {
+                    "first": 1428426000,
+                    "second": 1428429600
+                },
+                "venue": {
+                    "id": 752,
+                    "name": "VOLKSWAGEN ARENA",
+                    "city": "Wolfsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559818,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-04-07T18:30:00+00:00",
+                "timestamp": 1428431400,
+                "periods": {
+                    "first": 1428431400,
+                    "second": 1428435000
+                },
+                "venue": {
+                    "id": 702,
+                    "name": "Signal-Iduna-Park",
+                    "city": "Dortmund"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559819,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-04-08T17:00:00+00:00",
+                "timestamp": 1428512400,
+                "periods": {
+                    "first": 1428512400,
+                    "second": 1428516000
+                },
+                "venue": {
+                    "id": 697,
+                    "name": "Sch\u00fccoArena",
+                    "city": "Bielefeld"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": 5,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559820,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-04-08T18:30:00+00:00",
+                "timestamp": 1428517800,
+                "periods": {
+                    "first": 1428517800,
+                    "second": 1428521400
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 3,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559821,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-04-28T18:30:00+00:00",
+                "timestamp": 1430245800,
+                "periods": {
+                    "first": 1430245800,
+                    "second": 1430249400
+                },
+                "venue": {
+                    "id": 700,
+                    "name": "Allianz-Arena",
+                    "city": "M\u00fcnchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": 0,
+                    "away": 2
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559822,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-04-29T18:30:00+00:00",
+                "timestamp": 1430332200,
+                "periods": {
+                    "first": 1430332200,
+                    "second": 1430335800
+                },
+                "venue": {
+                    "id": 697,
+                    "name": "Sch\u00fccoArena",
+                    "city": "Bielefeld"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559823,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-05-30T18:00:00+00:00",
+                "timestamp": 1433008800,
+                "periods": {
+                    "first": 1433008800,
+                    "second": 1433012400
+                },
+                "venue": {
+                    "id": 694,
+                    "name": "Olympiastadion Berlin",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Final"
+            },
+            "teams": {
+                "home": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559824,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-28T18:00:00+00:00",
+                "timestamp": 1414519200,
+                "periods": {
+                    "first": 1414519200,
+                    "second": 1414522800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion an der Gellertstra\u00dfe",
+                    "city": "Chemnitz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1328,
+                    "name": "Chemnitzer FC",
+                    "logo": "https://media.api-sports.io/football/teams/1328.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559825,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-28T18:00:00+00:00",
+                "timestamp": 1414519200,
+                "periods": {
+                    "first": 1414519200,
+                    "second": 1414522800
+                },
+                "venue": {
+                    "id": 697,
+                    "name": "Sch\u00fccoArena",
+                    "city": "Bielefeld"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 159,
+                    "name": "Hertha Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/159.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 2
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559826,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-28T18:00:00+00:00",
+                "timestamp": 1414519200,
+                "periods": {
+                    "first": 1414519200,
+                    "second": 1414522800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Scholz Arena",
+                    "city": "Aalen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1327,
+                    "name": "VfR Aalen",
+                    "logo": "https://media.api-sports.io/football/teams/1327.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 166,
+                    "name": "Hannover 96",
+                    "logo": "https://media.api-sports.io/football/teams/166.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559827,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-28T18:15:00+00:00",
+                "timestamp": 1414520100,
+                "periods": {
+                    "first": 1414520100,
+                    "second": 1414523700
+                },
+                "venue": {
+                    "id": 2710,
+                    "name": "Sparda-Bank-Hessen-Stadion",
+                    "city": "Offenbach"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1628,
+                    "name": "Kickers Offenbach",
+                    "logo": "https://media.api-sports.io/football/teams/1628.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 785,
+                    "name": "Karlsruher SC",
+                    "logo": "https://media.api-sports.io/football/teams/785.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559828,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-28T19:30:00+00:00",
+                "timestamp": 1414524600,
+                "periods": {
+                    "first": 1414524600,
+                    "second": 1414528200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Gl\u00fccksgas stadion",
+                    "city": "Dresden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 183,
+                    "name": "Dynamo Dresden",
+                    "logo": "https://media.api-sports.io/football/teams/183.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559829,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-28T19:30:00+00:00",
+                "timestamp": 1414524600,
+                "periods": {
+                    "first": 1414524600,
+                    "second": 1414528200
+                },
+                "venue": {
+                    "id": 730,
+                    "name": "Schauinsland-Reisen-Arena",
+                    "city": "Duisburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 187,
+                    "name": "MSV Duisburg",
+                    "logo": "https://media.api-sports.io/football/teams/187.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 1,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559830,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-28T19:30:00+00:00",
+                "timestamp": 1414524600,
+                "periods": {
+                    "first": 1414524600,
+                    "second": 1414528200
+                },
+                "venue": {
+                    "id": 728,
+                    "name": "Fritz-Walter-Stadion",
+                    "city": "Kaiserslautern"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 745,
+                    "name": "FC Kaiserslautern",
+                    "logo": "https://media.api-sports.io/football/teams/745.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 178,
+                    "name": "SpVgg Greuther Furth",
+                    "logo": "https://media.api-sports.io/football/teams/178.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559831,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-28T19:30:00+00:00",
+                "timestamp": 1414524600,
+                "periods": {
+                    "first": 1414524600,
+                    "second": 1414528200
+                },
+                "venue": {
+                    "id": 745,
+                    "name": "Millerntor-Stadion",
+                    "city": "Hamburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559832,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-29T18:00:00+00:00",
+                "timestamp": 1414605600,
+                "periods": {
+                    "first": 1414605600,
+                    "second": 1414609200
+                },
+                "venue": {
+                    "id": 733,
+                    "name": "MDCC-Arena",
+                    "city": "Magdeburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 179,
+                    "name": "FC Magdeburg",
+                    "logo": "https://media.api-sports.io/football/teams/179.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559833,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-29T18:00:00+00:00",
+                "timestamp": 1414605600,
+                "periods": {
+                    "first": 1414605600,
+                    "second": 1414609200
+                },
+                "venue": {
+                    "id": 757,
+                    "name": "flyeralarm-Arena",
+                    "city": "W\u00fcrzburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 784,
+                    "name": "FC Wurzburger Kickers",
+                    "logo": "https://media.api-sports.io/football/teams/784.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 744,
+                    "name": "Eintracht Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/744.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559834,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-29T18:00:00+00:00",
+                "timestamp": 1414605600,
+                "periods": {
+                    "first": 1414605600,
+                    "second": 1414609200
+                },
+                "venue": {
+                    "id": 700,
+                    "name": "Allianz-Arena",
+                    "city": "M\u00fcnchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 786,
+                    "name": "TSV 1860 Munich",
+                    "logo": "https://media.api-sports.io/football/teams/786.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559835,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-29T18:00:00+00:00",
+                "timestamp": 1414605600,
+                "periods": {
+                    "first": 1414605600,
+                    "second": 1414609200
+                },
+                "venue": {
+                    "id": 1619,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 190,
+                    "name": "Erzgebirge AUE",
+                    "logo": "https://media.api-sports.io/football/teams/190.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559836,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-29T19:30:00+00:00",
+                "timestamp": 1414611000,
+                "periods": {
+                    "first": 1414611000,
+                    "second": 1414614600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Imtech Arena",
+                    "city": "Hamburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 175,
+                    "name": "Hamburger SV",
+                    "logo": "https://media.api-sports.io/football/teams/175.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559837,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-29T19:30:00+00:00",
+                "timestamp": 1414611000,
+                "periods": {
+                    "first": 1414611000,
+                    "second": 1414614600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Wirsol Rhein-Neckar-Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1332,
+                    "name": "FSV Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/1332.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559838,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-29T19:30:00+00:00",
+                "timestamp": 1414611000,
+                "periods": {
+                    "first": 1414611000,
+                    "second": 1414614600
+                },
+                "venue": {
+                    "id": 752,
+                    "name": "VOLKSWAGEN ARENA",
+                    "city": "Wolfsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 180,
+                    "name": "FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559839,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-10-29T19:30:00+00:00",
+                "timestamp": 1414611000,
+                "periods": {
+                    "first": 1414611000,
+                    "second": 1414614600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Commerzbank-Arena",
+                    "city": "Frankfurt am Main"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559840,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-15T17:00:00+00:00",
+                "timestamp": 1408122000,
+                "periods": {
+                    "first": 1408122000,
+                    "second": 1408125600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion an der Gellertstra\u00dfe",
+                    "city": "Chemnitz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1328,
+                    "name": "Chemnitzer FC",
+                    "logo": "https://media.api-sports.io/football/teams/1328.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 8,
+                "away": 8
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": 5,
+                    "away": 5
+                },
+                "penalty": {
+                    "home": 5,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559841,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-15T17:00:00+00:00",
+                "timestamp": 1408122000,
+                "periods": {
+                    "first": 1408122000,
+                    "second": 1408125600
+                },
+                "venue": {
+                    "id": 2728,
+                    "name": "Stadion am Bruchweg",
+                    "city": "Mainz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 13933,
+                    "name": "Alemannia Waldalgesheim",
+                    "logo": "https://media.api-sports.io/football/teams/13933.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 6
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 6
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559842,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-15T18:00:00+00:00",
+                "timestamp": 1408125600,
+                "periods": {
+                    "first": 1408125600,
+                    "second": 1408129200
+                },
+                "venue": {
+                    "id": 730,
+                    "name": "Schauinsland-Reisen-Arena",
+                    "city": "Duisburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 187,
+                    "name": "MSV Duisburg",
+                    "logo": "https://media.api-sports.io/football/teams/187.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559843,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "rewirpowerSTADION",
+                    "city": "Bochum"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559844,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": 750,
+                    "name": "Mercedes-Benz-Arena",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12868,
+                    "name": "Stuttgarter Kickers",
+                    "logo": "https://media.api-sports.io/football/teams/12868.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559845,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": 2715,
+                    "name": "Waldstadion Homburg",
+                    "city": "Homburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1634,
+                    "name": "FC 08 Homburg",
+                    "logo": "https://media.api-sports.io/football/teams/1634.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559846,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": 1727,
+                    "name": "Sportpark H\u00f6henberg",
+                    "city": "K\u00f6ln"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1620,
+                    "name": "FC Viktoria Koln",
+                    "logo": "https://media.api-sports.io/football/teams/1620.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 159,
+                    "name": "Hertha Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/159.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559847,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "FC-Astoria-Stadion",
+                    "city": "Walldorf"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1626,
+                    "name": "FC Astoria Walldorf",
+                    "logo": "https://media.api-sports.io/football/teams/1626.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 166,
+                    "name": "Hannover 96",
+                    "logo": "https://media.api-sports.io/football/teams/166.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559848,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": 6461,
+                    "name": "Stadion Vogelgesang",
+                    "city": "Rathenow"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9356,
+                    "name": "Optik Rathenow",
+                    "logo": "https://media.api-sports.io/football/teams/9356.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559849,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": 2727,
+                    "name": "Weserstadion Platz 11",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1630,
+                    "name": "Bremer Sv",
+                    "logo": "https://media.api-sports.io/football/teams/1630.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 744,
+                    "name": "Eintracht Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/744.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559850,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": 6464,
+                    "name": "Kaiserstuhlstadion",
+                    "city": "Bahlingen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 13936,
+                    "name": "Waldkirch",
+                    "logo": "https://media.api-sports.io/football/teams/13936.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 178,
+                    "name": "SpVgg Greuther Furth",
+                    "logo": "https://media.api-sports.io/football/teams/178.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559851,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T13:30:00+00:00",
+                "timestamp": 1408195800,
+                "periods": {
+                    "first": 1408195800,
+                    "second": 1408199400
+                },
+                "venue": {
+                    "id": 708,
+                    "name": "Eintracht-Stadion",
+                    "city": "Braunschweig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12766,
+                    "name": "FT Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/12766.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559852,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T16:00:00+00:00",
+                "timestamp": 1408204800,
+                "periods": {
+                    "first": 1408204800,
+                    "second": 1408208400
+                },
+                "venue": {
+                    "id": 753,
+                    "name": "BRITA-Arena",
+                    "city": "Wiesbaden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1319,
+                    "name": "SV Wehen",
+                    "logo": "https://media.api-sports.io/football/teams/1319.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 745,
+                    "name": "FC Kaiserslautern",
+                    "logo": "https://media.api-sports.io/football/teams/745.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 3,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559853,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T18:30:00+00:00",
+                "timestamp": 1408213800,
+                "periods": {
+                    "first": 1408213800,
+                    "second": 1408217400
+                },
+                "venue": {
+                    "id": 701,
+                    "name": "Friedrich-Ludwig-Jahn-Sportpark",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 4266,
+                    "name": "Viktoria Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/4266.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559854,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T18:30:00+00:00",
+                "timestamp": 1408213800,
+                "periods": {
+                    "first": 1408213800,
+                    "second": 1408217400
+                },
+                "venue": {
+                    "id": 8634,
+                    "name": "Leimbachstadion",
+                    "city": "Siegen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 13935,
+                    "name": "Sportfreunde Siegen",
+                    "logo": "https://media.api-sports.io/football/teams/13935.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1332,
+                    "name": "FSV Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/1332.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 3,
+                    "away": 3
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559855,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T12:30:00+00:00",
+                "timestamp": 1408278600,
+                "periods": {
+                    "first": 1408278600,
+                    "second": 1408282200
+                },
+                "venue": {
+                    "id": 725,
+                    "name": "Holstein-Stadion",
+                    "city": "Kiel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 786,
+                    "name": "TSV 1860 Munich",
+                    "logo": "https://media.api-sports.io/football/teams/786.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559856,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T12:30:00+00:00",
+                "timestamp": 1408278600,
+                "periods": {
+                    "first": 1408278600,
+                    "second": 1408282200
+                },
+                "venue": {
+                    "id": 747,
+                    "name": "Donaustadion",
+                    "city": "Ulm"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9330,
+                    "name": "Illertissen",
+                    "logo": "https://media.api-sports.io/football/teams/9330.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559857,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T12:30:00+00:00",
+                "timestamp": 1408278600,
+                "periods": {
+                    "first": 1408278600,
+                    "second": 1408282200
+                },
+                "venue": {
+                    "id": 8231,
+                    "name": "Stadion Hoheluft",
+                    "city": "Hamburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12828,
+                    "name": "Paloma",
+                    "logo": "https://media.api-sports.io/football/teams/12828.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 9
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 7
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 9
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559858,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T12:30:00+00:00",
+                "timestamp": 1408278600,
+                "periods": {
+                    "first": 1408278600,
+                    "second": 1408282200
+                },
+                "venue": {
+                    "id": 6452,
+                    "name": "Sportplatz Waldsportst\u00e4tten",
+                    "city": "Rehden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9345,
+                    "name": "Schwarz-Wei\u00df Rehden",
+                    "logo": "https://media.api-sports.io/football/teams/9345.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1327,
+                    "name": "VfR Aalen",
+                    "logo": "https://media.api-sports.io/football/teams/1327.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": 3,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559859,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T12:30:00+00:00",
+                "timestamp": 1408278600,
+                "periods": {
+                    "first": 1408278600,
+                    "second": 1408282200
+                },
+                "venue": {
+                    "id": 704,
+                    "name": "Ernst-Abbe-Sportfeld",
+                    "city": "Jena"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1325,
+                    "name": "Carl Zeiss Jena",
+                    "logo": "https://media.api-sports.io/football/teams/1325.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 190,
+                    "name": "Erzgebirge AUE",
+                    "logo": "https://media.api-sports.io/football/teams/190.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559860,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T14:00:00+00:00",
+                "timestamp": 1408284000,
+                "periods": {
+                    "first": 1408284000,
+                    "second": 1408287600
+                },
+                "venue": {
+                    "id": 737,
+                    "name": "Preu\u00dfen-Stadion",
+                    "city": "M\u00fcnster"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1313,
+                    "name": "Preussen Munster",
+                    "logo": "https://media.api-sports.io/football/teams/1313.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559861,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T14:00:00+00:00",
+                "timestamp": 1408284000,
+                "periods": {
+                    "first": 1408284000,
+                    "second": 1408287600
+                },
+                "venue": {
+                    "id": 697,
+                    "name": "Sch\u00fccoArena",
+                    "city": "Bielefeld"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 189,
+                    "name": "SV Sandhausen",
+                    "logo": "https://media.api-sports.io/football/teams/189.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559862,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T14:00:00+00:00",
+                "timestamp": 1408284000,
+                "periods": {
+                    "first": 1408284000,
+                    "second": 1408287600
+                },
+                "venue": {
+                    "id": 2707,
+                    "name": "Moselstadion",
+                    "city": "Trier"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1627,
+                    "name": "Eintracht Trier",
+                    "logo": "https://media.api-sports.io/football/teams/1627.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559863,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T14:00:00+00:00",
+                "timestamp": 1408284000,
+                "periods": {
+                    "first": 1408284000,
+                    "second": 1408287600
+                },
+                "venue": {
+                    "id": 8633,
+                    "name": "Ligaplatz am Jahnstadion",
+                    "city": "Neubrandenburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 13934,
+                    "name": "Neubrandenburg 04",
+                    "logo": "https://media.api-sports.io/football/teams/13934.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 785,
+                    "name": "Karlsruher SC",
+                    "logo": "https://media.api-sports.io/football/teams/785.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559864,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T14:00:00+00:00",
+                "timestamp": 1408284000,
+                "periods": {
+                    "first": 1408284000,
+                    "second": 1408287600
+                },
+                "venue": {
+                    "id": 757,
+                    "name": "flyeralarm-Arena",
+                    "city": "W\u00fcrzburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 784,
+                    "name": "FC Wurzburger Kickers",
+                    "logo": "https://media.api-sports.io/football/teams/784.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 158,
+                    "name": "Fortuna Dusseldorf",
+                    "logo": "https://media.api-sports.io/football/teams/158.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559865,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T16:30:00+00:00",
+                "timestamp": 1408293000,
+                "periods": {
+                    "first": 1408293000,
+                    "second": 1408296600
+                },
+                "venue": {
+                    "id": 1619,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559866,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T16:30:00+00:00",
+                "timestamp": 1408293000,
+                "periods": {
+                    "first": 1408293000,
+                    "second": 1408296600
+                },
+                "venue": {
+                    "id": 733,
+                    "name": "MDCC-Arena",
+                    "city": "Magdeburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 179,
+                    "name": "FC Magdeburg",
+                    "logo": "https://media.api-sports.io/football/teams/179.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559867,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-17T18:30:00+00:00",
+                "timestamp": 1408300200,
+                "periods": {
+                    "first": 1408300200,
+                    "second": 1408303800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion am B\u00f6llenfalltor",
+                    "city": "Darmstadt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 181,
+                    "name": "SV Darmstadt 98",
+                    "logo": "https://media.api-sports.io/football/teams/181.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559868,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-18T16:30:00+00:00",
+                "timestamp": 1408379400,
+                "periods": {
+                    "first": 1408379400,
+                    "second": 1408383000
+                },
+                "venue": {
+                    "id": 723,
+                    "name": "Voith-Arena",
+                    "city": "Heidenheim an der Brenz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 180,
+                    "name": "FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559869,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-18T16:30:00+00:00",
+                "timestamp": 1408379400,
+                "periods": {
+                    "first": 1408379400,
+                    "second": 1408383000
+                },
+                "venue": {
+                    "id": 711,
+                    "name": "Stadion der Freundschaft",
+                    "city": "Cottbus"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1320,
+                    "name": "Energie Cottbus",
+                    "logo": "https://media.api-sports.io/football/teams/1320.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 175,
+                    "name": "Hamburger SV",
+                    "logo": "https://media.api-sports.io/football/teams/175.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": 1,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559870,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-18T16:30:00+00:00",
+                "timestamp": 1408379400,
+                "periods": {
+                    "first": 1408379400,
+                    "second": 1408383000
+                },
+                "venue": {
+                    "id": 2710,
+                    "name": "Sparda-Bank-Hessen-Stadion",
+                    "city": "Offenbach"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1628,
+                    "name": "Kickers Offenbach",
+                    "logo": "https://media.api-sports.io/football/teams/1628.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 184,
+                    "name": "FC Ingolstadt 04",
+                    "logo": "https://media.api-sports.io/football/teams/184.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 2
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 559871,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-18T18:30:00+00:00",
+                "timestamp": 1408386600,
+                "periods": {
+                    "first": 1408386600,
+                    "second": 1408390200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Gl\u00fccksgas stadion",
+                    "city": "Dresden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 183,
+                    "name": "Dynamo Dresden",
+                    "logo": "https://media.api-sports.io/football/teams/183.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

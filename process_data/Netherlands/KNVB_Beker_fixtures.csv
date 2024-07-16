@@ -1,0 +1,1603 @@
+Year,Round,Stage,Team_name,Team_id,Opponent_name,Opponent_id,Team_win
+2016,Final,6.0,AZ Alkmaar,201,Vitesse,200,0.0
+2016,Final,6.0,Vitesse,200,AZ Alkmaar,201,1.0
+2016,Semi-finals,5.0,AZ Alkmaar,201,Cambuur,420,1.0
+2016,Semi-finals,5.0,Cambuur,420,AZ Alkmaar,201,0.0
+2016,Semi-finals,5.0,Sparta Rotterdam,426,Vitesse,200,0.0
+2016,Semi-finals,5.0,Vitesse,200,Sparta Rotterdam,426,1.0
+2016,Quarter-finals,4.0,Vitesse,200,Feyenoord,209,1.0
+2016,Quarter-finals,4.0,Feyenoord,209,Vitesse,200,0.0
+2016,Quarter-finals,4.0,AZ Alkmaar,201,Heerenveen,210,1.0
+2016,Quarter-finals,4.0,Heerenveen,210,AZ Alkmaar,201,0.0
+2016,Quarter-finals,4.0,Utrecht,207,Cambuur,420,0.0
+2016,Quarter-finals,4.0,Cambuur,420,Utrecht,207,1.0
+2016,Quarter-finals,4.0,FC Volendam,416,Sparta Rotterdam,426,0.0
+2016,Quarter-finals,4.0,Sparta Rotterdam,426,FC Volendam,416,1.0
+2016,8th Finals,3.0,Heracles,206,Sparta Rotterdam,426,0.0
+2016,8th Finals,3.0,Sparta Rotterdam,426,Heracles,206,1.0
+2016,8th Finals,3.0,Cambuur,420,Ajax,194,1.0
+2016,8th Finals,3.0,Ajax,194,Cambuur,420,0.0
+2016,8th Finals,3.0,Feyenoord,209,ADO Den Haag,198,1.0
+2016,8th Finals,3.0,ADO Den Haag,198,Feyenoord,209,0.0
+2016,8th Finals,3.0,AZ Alkmaar,201,ASWH,1254,1.0
+2016,8th Finals,3.0,ASWH,1254,AZ Alkmaar,201,0.0
+2016,8th Finals,3.0,Vitesse,200,Jodan Boys,1289,1.0
+2016,8th Finals,3.0,Jodan Boys,1289,Vitesse,200,0.0
+2016,8th Finals,3.0,PEC Zwolle,193,Utrecht,207,0.0
+2016,8th Finals,3.0,Utrecht,207,PEC Zwolle,193,1.0
+2016,8th Finals,3.0,Ijsselmeervogels,1280,Heerenveen,210,0.0
+2016,8th Finals,3.0,Heerenveen,210,Ijsselmeervogels,1280,1.0
+2016,8th Finals,3.0,FC Volendam,416,Vvsb,1251,1.0
+2016,8th Finals,3.0,Vvsb,1251,FC Volendam,416,0.0
+2016,2nd Round,2.0,FC Eindhoven,422,Heerenveen,210,0.0
+2016,2nd Round,2.0,Heerenveen,210,FC Eindhoven,422,1.0
+2016,2nd Round,2.0,PEC Zwolle,193,VVV Venlo,204,1.0
+2016,2nd Round,2.0,VVV Venlo,204,PEC Zwolle,193,0.0
+2016,2nd Round,2.0,Feyenoord,209,Excelsior,196,1.0
+2016,2nd Round,2.0,Excelsior,196,Feyenoord,209,0.0
+2016,2nd Round,2.0,AZ Alkmaar,201,Emmen,208,1.0
+2016,2nd Round,2.0,Emmen,208,AZ Alkmaar,201,0.0
+2016,2nd Round,2.0,Heracles,206,UNA,1284,1.0
+2016,2nd Round,2.0,UNA,1284,Heracles,206,0.0
+2016,2nd Round,2.0,Ijsselmeervogels,1280,Koninklijke HFC,1246,1.0
+2016,2nd Round,2.0,Koninklijke HFC,1246,Ijsselmeervogels,1280,0.0
+2016,2nd Round,2.0,Utrecht,207,Groningen,202,1.0
+2016,2nd Round,2.0,Groningen,202,Utrecht,207,0.0
+2016,2nd Round,2.0,Vitesse,200,Waalwijk,417,1.0
+2016,2nd Round,2.0,Waalwijk,417,Vitesse,200,0.0
+2016,2nd Round,2.0,Kozakken Boys,1242,Ajax,194,0.0
+2016,2nd Round,2.0,Ajax,194,Kozakken Boys,1242,1.0
+2016,2nd Round,2.0,Sparta Rotterdam,426,PSV Eindhoven,197,1.0
+2016,2nd Round,2.0,PSV Eindhoven,197,Sparta Rotterdam,426,0.0
+2016,2nd Round,2.0,ADO Den Haag,198,Telstar,427,1.0
+2016,2nd Round,2.0,Telstar,427,ADO Den Haag,198,0.0
+2016,2nd Round,2.0,FC Volendam,416,Almere City FC,419,1.0
+2016,2nd Round,2.0,Almere City FC,419,FC Volendam,416,0.0
+2016,2nd Round,2.0,GO Ahead Eagles,410,Jodan Boys,1289,0.0
+2016,2nd Round,2.0,Jodan Boys,1289,GO Ahead Eagles,410,1.0
+2016,2nd Round,2.0,Spakenburg,1249,ASWH,1254,0.0
+2016,2nd Round,2.0,ASWH,1254,Spakenburg,1249,1.0
+2016,2nd Round,2.0,TEC,1255,Cambuur,420,0.0
+2016,2nd Round,2.0,Cambuur,420,TEC,1255,1.0
+2016,2nd Round,2.0,Vvsb,1251,Katwijk,1237,1.0
+2016,2nd Round,2.0,Katwijk,1237,Vvsb,1251,0.0
+2016,1st Round,1.0,Feyenoord,209,FC OSS,423,1.0
+2016,1st Round,1.0,FC OSS,423,Feyenoord,209,0.0
+2016,1st Round,1.0,ASV De Dijk,1260,Vitesse,200,0.0
+2016,1st Round,1.0,Vitesse,200,ASV De Dijk,1260,1.0
+2016,1st Round,1.0,Hsc 21,1281,TEC,1255,0.0
+2016,1st Round,1.0,TEC,1255,Hsc 21,1281,1.0
+2016,1st Round,1.0,Twente,415,Utrecht,207,0.0
+2016,1st Round,1.0,Utrecht,207,Twente,415,1.0
+2016,1st Round,1.0,Ajax,194,Willem II,195,1.0
+2016,1st Round,1.0,Willem II,195,Ajax,194,0.0
+2016,1st Round,1.0,Achilles Veen,1282,Vvsb,1251,0.0
+2016,1st Round,1.0,Vvsb,1251,Achilles Veen,1282,1.0
+2016,1st Round,1.0,De Treffers,1277,ASWH,1254,0.0
+2016,1st Round,1.0,ASWH,1254,De Treffers,1277,1.0
+2016,1st Round,1.0,DVS 33 Ermelo,1244,PEC Zwolle,193,0.0
+2016,1st Round,1.0,PEC Zwolle,193,DVS 33 Ermelo,1244,1.0
+2016,1st Round,1.0,Excelsior,196,Heracles,206,0.0
+2016,1st Round,1.0,Heracles,206,Excelsior,196,1.0
+2016,1st Round,1.0,FC Lienden,1283,AZ Alkmaar,201,0.0
+2016,1st Round,1.0,AZ Alkmaar,201,FC Lienden,1283,1.0
+2016,1st Round,1.0,Katwijk,1237,Harkemase Boys,1258,1.0
+2016,1st Round,1.0,Harkemase Boys,1258,Katwijk,1237,0.0
+2016,1st Round,1.0,Koninklijke HFC,1246,OJC Rosmalen,1241,1.0
+2016,1st Round,1.0,OJC Rosmalen,1241,Koninklijke HFC,1246,0.0
+2016,1st Round,1.0,NEC Nijmegen,413,ADO Den Haag,198,0.0
+2016,1st Round,1.0,ADO Den Haag,198,NEC Nijmegen,413,1.0
+2016,1st Round,1.0,Spakenburg,1249,Fortuna Sittard,205,1.0
+2016,1st Round,1.0,Fortuna Sittard,205,Spakenburg,1249,0.0
+2016,1st Round,1.0,Sparta Rotterdam,426,Dordrecht,409,1.0
+2016,1st Round,1.0,Dordrecht,409,Sparta Rotterdam,426,0.0
+2016,1st Round,1.0,UNA,1284,Huizen,1290,1.0
+2016,1st Round,1.0,Huizen,1290,UNA,1284,0.0
+2016,1st Round,1.0,PSV Eindhoven,197,Roda,414,1.0
+2016,1st Round,1.0,Roda,414,PSV Eindhoven,197,0.0
+2016,1st Round,1.0,Dongen,1285,GO Ahead Eagles,410,0.0
+2016,1st Round,1.0,GO Ahead Eagles,410,Dongen,1285,1.0
+2016,1st Round,1.0,Heerenveen,210,De Graafschap,199,1.0
+2016,1st Round,1.0,De Graafschap,199,Heerenveen,210,0.0
+2016,1st Round,1.0,Barendrecht,1271,Excelsior,196,0.0
+2016,1st Round,1.0,Excelsior,196,Barendrecht,1271,1.0
+2016,1st Round,1.0,Den Bosch,421,FC Eindhoven,422,0.0
+2016,1st Round,1.0,FC Eindhoven,422,Den Bosch,421,1.0
+2016,1st Round,1.0,EVV,1286,Waalwijk,417,0.0
+2016,1st Round,1.0,Waalwijk,417,EVV,1286,1.0
+2016,1st Round,1.0,FC Volendam,416,MVV,412,1.0
+2016,1st Round,1.0,MVV,412,FC Volendam,416,0.0
+2016,1st Round,1.0,HHC,1278,Jodan Boys,1289,0.0
+2016,1st Round,1.0,Jodan Boys,1289,HHC,1278,1.0
+2016,1st Round,1.0,Ijsselmeervogels,1280,Achilles 29,806,1.0
+2016,1st Round,1.0,Achilles 29,806,Ijsselmeervogels,1280,0.0
+2016,1st Round,1.0,Kozakken Boys,1242,Helmond Sport,424,1.0
+2016,1st Round,1.0,Helmond Sport,424,Kozakken Boys,1242,0.0
+2016,1st Round,1.0,JVC Cuijk,1287,Telstar,427,0.0
+2016,1st Round,1.0,Telstar,427,JVC Cuijk,1287,1.0
+2016,1st Round,1.0,NAC Breda,203,VVV Venlo,204,0.0
+2016,1st Round,1.0,VVV Venlo,204,NAC Breda,203,1.0
+2016,1st Round,1.0,Capelle,1270,Groningen,202,0.0
+2016,1st Round,1.0,Groningen,202,Capelle,1270,1.0
+2016,1st Round,1.0,Rijnsburgse Boys,1248,Almere City FC,419,0.0
+2016,1st Round,1.0,Almere City FC,419,Rijnsburgse Boys,1248,1.0
+2016,1st Round,1.0,Rijnvogels,1288,Cambuur,420,0.0
+2016,1st Round,1.0,Cambuur,420,Rijnvogels,1288,1.0
+2016,1st Round,1.0,SVV Scheveningen,1250,Emmen,208,0.0
+2016,1st Round,1.0,Emmen,208,SVV Scheveningen,1250,1.0
+2016,2nd Preliminary Round,,Quick Boys,1272,Ijsselmeervogels,1280,0.0
+2016,2nd Preliminary Round,,Ijsselmeervogels,1280,Quick Boys,1272,1.0
+2016,2nd Preliminary Round,,AFC Amsterdam,1252,Kozakken Boys,1242,0.0
+2016,2nd Preliminary Round,,Kozakken Boys,1242,AFC Amsterdam,1252,1.0
+2016,2nd Preliminary Round,,AFC '34,3924,Rijnvogels,1288,0.0
+2016,2nd Preliminary Round,,Rijnvogels,1288,AFC '34,3924,1.0
+2016,2nd Preliminary Round,,Dongen,1285,OFC Oostzaan,1232,1.0
+2016,2nd Preliminary Round,,OFC Oostzaan,1232,Dongen,1285,0.0
+2016,2nd Preliminary Round,,Magreb '90,3918,Harkemase Boys,1258,0.0
+2016,2nd Preliminary Round,,Harkemase Boys,1258,Magreb '90,3918,1.0
+2016,2nd Preliminary Round,,SVV Scheveningen,1250,GVVV Veenendaal,1261,1.0
+2016,2nd Preliminary Round,,GVVV Veenendaal,1261,SVV Scheveningen,1250,0.0
+2016,2nd Preliminary Round,,Quick '20,3899,JVC Cuijk,1287,0.0
+2016,2nd Preliminary Round,,JVC Cuijk,1287,Quick '20,3899,1.0
+2016,2nd Preliminary Round,,Vvsb,1251,Hercules,1264,1.0
+2016,2nd Preliminary Round,,Hercules,1264,Vvsb,1251,0.0
+2016,2nd Preliminary Round,,DVS 33 Ermelo,1244,AZSV,3925,1.0
+2016,2nd Preliminary Round,,AZSV,3925,DVS 33 Ermelo,1244,0.0
+2016,2nd Preliminary Round,,Schaesberg,3937,Hsc 21,1281,0.0
+2016,2nd Preliminary Round,,Hsc 21,1281,Schaesberg,3937,1.0
+2016,2nd Preliminary Round,,UNA,1284,HSV ODIN 59,1245,1.0
+2016,2nd Preliminary Round,,HSV ODIN 59,1245,UNA,1284,0.0
+2016,2nd Preliminary Round,,Halsteren,3928,Capelle,1270,0.0
+2016,2nd Preliminary Round,,Capelle,1270,Halsteren,3928,1.0
+2016,2nd Preliminary Round,,HBS,3893,Achilles Veen,1282,0.0
+2016,2nd Preliminary Round,,Achilles Veen,1282,HBS,3893,1.0
+2016,2nd Preliminary Round,,HV & CV Quick,3894,EVV,1286,0.0
+2016,2nd Preliminary Round,,EVV,1286,HV & CV Quick,3894,1.0
+2016,2nd Preliminary Round,,Barendrecht,1271,Juliana '31,3929,1.0
+2016,2nd Preliminary Round,,Juliana '31,3929,Barendrecht,1271,0.0
+2016,2nd Preliminary Round,,RVVH,3935,ASWH,1254,0.0
+2016,2nd Preliminary Round,,ASWH,1254,RVVH,3935,1.0
+2016,2nd Preliminary Round,,Jodan Boys,1289,SVZW,3936,1.0
+2016,2nd Preliminary Round,,SVZW,3936,Jodan Boys,1289,0.0
+2016,2nd Preliminary Round,,UDI '19,3938,Rijnsburgse Boys,1248,0.0
+2016,2nd Preliminary Round,,Rijnsburgse Boys,1248,UDI '19,3938,1.0
+2016,2nd Preliminary Round,,OJC Rosmalen,1241,VV Groningen,3939,1.0
+2016,2nd Preliminary Round,,VV Groningen,3939,OJC Rosmalen,1241,0.0
+2016,2nd Preliminary Round,,ONS Sneek,1256,ASV De Dijk,1260,0.0
+2016,2nd Preliminary Round,,ASV De Dijk,1260,ONS Sneek,1256,1.0
+2016,2nd Preliminary Round,,Huizen,1290,Westlandia,1243,1.0
+2016,2nd Preliminary Round,,Westlandia,1243,Huizen,1290,0.0
+2016,1st Preliminary Round,,Staphorst,1239,AZSV,3925,0.0
+2016,1st Preliminary Round,,AZSV,3925,Staphorst,1239,1.0
+2016,1st Preliminary Round,,AFC '34,3924,Bennekom,3927,1.0
+2016,1st Preliminary Round,,Bennekom,3927,AFC '34,3924,0.0
+2016,1st Preliminary Round,,OFC Oostzaan,1232,Flevo Boys,3891,1.0
+2016,1st Preliminary Round,,Flevo Boys,3891,OFC Oostzaan,1232,0.0
+2016,1st Preliminary Round,,WV-HEDW,3940,Quick '20,3899,0.0
+2016,1st Preliminary Round,,Quick '20,3899,WV-HEDW,3940,1.0
+2016,1st Preliminary Round,,RKVV Velsen,3933,VV Groningen,3939,0.0
+2016,1st Preliminary Round,,VV Groningen,3939,RKVV Velsen,3933,1.0
+2016,1st Preliminary Round,,FC Lisse,1257,ASV De Dijk,1260,0.0
+2016,1st Preliminary Round,,ASV De Dijk,1260,FC Lisse,1257,1.0
+2016,1st Preliminary Round,,Schaesberg,3937,Kloetinge,3930,1.0
+2016,1st Preliminary Round,,Kloetinge,3930,Schaesberg,3937,0.0
+2016,1st Preliminary Round,,HV & CV Quick,3894,Oranje Wit,3932,1.0
+2016,1st Preliminary Round,,Oranje Wit,3932,HV & CV Quick,3894,0.0
+2016,1st Preliminary Round,,ASWH,1254,Chevremont,3916,1.0
+2016,1st Preliminary Round,,Chevremont,3916,ASWH,1254,0.0
+2016,1st Preliminary Round,,Avanti '31,3926,SVZW,3936,0.0
+2016,1st Preliminary Round,,SVZW,3936,Avanti '31,3926,1.0
+2016,1st Preliminary Round,,Be Quick 1887,3914,RVVH,3935,0.0
+2016,1st Preliminary Round,,RVVH,3935,Be Quick 1887,3914,1.0
+2016,1st Preliminary Round,,Groene Ster,1236,Rijnvogels,1288,0.0
+2016,1st Preliminary Round,,Rijnvogels,1288,Groene Ster,1236,1.0
+2016,1st Preliminary Round,,Jodan Boys,1289,Avv Swift,1269,1.0
+2016,1st Preliminary Round,,Avv Swift,1269,Jodan Boys,1289,0.0
+2016,1st Preliminary Round,,Noordwijk,1247,UDI '19,3938,0.0
+2016,1st Preliminary Round,,UDI '19,3938,Noordwijk,1247,1.0
+2016,1st Preliminary Round,,OJC Rosmalen,1241,Oranje Nassau,3931,1.0
+2016,1st Preliminary Round,,Oranje Nassau,3931,OJC Rosmalen,1241,0.0
+2016,1st Preliminary Round,,RKZVC,3934,Achilles Veen,1282,0.0
+2016,1st Preliminary Round,,Achilles Veen,1282,RKZVC,3934,1.0
+2016,1st Preliminary Round,,SteDoCo,3905,Huizen,1290,0.0
+2016,1st Preliminary Round,,Huizen,1290,SteDoCo,3905,1.0
+2016,1st Preliminary Round,,VVOG,3907,Halsteren,3928,0.0
+2016,1st Preliminary Round,,Halsteren,3928,VVOG,3907,1.0
+2017,Final,6.0,AZ Alkmaar,201,Feyenoord,209,0.0
+2017,Final,6.0,Feyenoord,209,AZ Alkmaar,201,1.0
+2017,Semi-finals,5.0,Feyenoord,209,Willem II,195,1.0
+2017,Semi-finals,5.0,Willem II,195,Feyenoord,209,0.0
+2017,Semi-finals,5.0,AZ Alkmaar,201,Twente,415,1.0
+2017,Semi-finals,5.0,Twente,415,AZ Alkmaar,201,0.0
+2017,Quarter-finals,4.0,Willem II,195,Roda,414,1.0
+2017,Quarter-finals,4.0,Roda,414,Willem II,195,0.0
+2017,Quarter-finals,4.0,Feyenoord,209,PSV Eindhoven,197,1.0
+2017,Quarter-finals,4.0,PSV Eindhoven,197,Feyenoord,209,0.0
+2017,Quarter-finals,4.0,AZ Alkmaar,201,PEC Zwolle,193,1.0
+2017,Quarter-finals,4.0,PEC Zwolle,193,AZ Alkmaar,201,0.0
+2017,Quarter-finals,4.0,Twente,415,Cambuur,420,1.0
+2017,Quarter-finals,4.0,Cambuur,420,Twente,415,0.0
+2017,8th Finals,3.0,Feyenoord,209,Heracles,206,1.0
+2017,8th Finals,3.0,Heracles,206,Feyenoord,209,0.0
+2017,8th Finals,3.0,Vvsb,1251,Roda,414,0.0
+2017,8th Finals,3.0,Roda,414,Vvsb,1251,1.0
+2017,8th Finals,3.0,Twente,415,Ajax,194,1.0
+2017,8th Finals,3.0,Ajax,194,Twente,415,0.0
+2017,8th Finals,3.0,Fortuna Sittard,205,AZ Alkmaar,201,0.0
+2017,8th Finals,3.0,AZ Alkmaar,201,Fortuna Sittard,205,1.0
+2017,8th Finals,3.0,PSV Eindhoven,197,VVV Venlo,204,1.0
+2017,8th Finals,3.0,VVV Venlo,204,PSV Eindhoven,197,0.0
+2017,8th Finals,3.0,Willem II,195,Waalwijk,417,1.0
+2017,8th Finals,3.0,Waalwijk,417,Willem II,195,0.0
+2017,8th Finals,3.0,Cambuur,420,GVVV Veenendaal,1261,1.0
+2017,8th Finals,3.0,GVVV Veenendaal,1261,Cambuur,420,0.0
+2017,8th Finals,3.0,PEC Zwolle,193,NEC Nijmegen,413,1.0
+2017,8th Finals,3.0,NEC Nijmegen,413,PEC Zwolle,193,0.0
+2017,2nd Round,2.0,Almere City FC,419,AZ Alkmaar,201,0.0
+2017,2nd Round,2.0,AZ Alkmaar,201,Almere City FC,419,1.0
+2017,2nd Round,2.0,FC Volendam,416,PSV Eindhoven,197,0.0
+2017,2nd Round,2.0,PSV Eindhoven,197,FC Volendam,416,1.0
+2017,2nd Round,2.0,Feyenoord,209,Avv Swift,1269,1.0
+2017,2nd Round,2.0,Avv Swift,1269,Feyenoord,209,0.0
+2017,2nd Round,2.0,Roda,414,Groningen,202,1.0
+2017,2nd Round,2.0,Groningen,202,Roda,414,0.0
+2017,2nd Round,2.0,Willem II,195,Heerenveen,210,1.0
+2017,2nd Round,2.0,Heerenveen,210,Willem II,195,0.0
+2017,2nd Round,2.0,ASV De Dijk,1260,Ajax,194,0.0
+2017,2nd Round,2.0,Ajax,194,ASV De Dijk,1260,1.0
+2017,2nd Round,2.0,Heracles,206,Hoek,1276,1.0
+2017,2nd Round,2.0,Hoek,1276,Heracles,206,0.0
+2017,2nd Round,2.0,VVV Venlo,204,Utrecht,207,1.0
+2017,2nd Round,2.0,Utrecht,207,VVV Venlo,204,0.0
+2017,2nd Round,2.0,Twente,415,FC Eindhoven,422,1.0
+2017,2nd Round,2.0,FC Eindhoven,422,Twente,415,0.0
+2017,2nd Round,2.0,Den Bosch,421,Cambuur,420,0.0
+2017,2nd Round,2.0,Cambuur,420,Den Bosch,421,1.0
+2017,2nd Round,2.0,Fortuna Sittard,205,GO Ahead Eagles,410,1.0
+2017,2nd Round,2.0,GO Ahead Eagles,410,Fortuna Sittard,205,0.0
+2017,2nd Round,2.0,GVVV Veenendaal,1261,Koninklijke HFC,1246,1.0
+2017,2nd Round,2.0,Koninklijke HFC,1246,GVVV Veenendaal,1261,0.0
+2017,2nd Round,2.0,Katwijk,1237,Vvsb,1251,0.0
+2017,2nd Round,2.0,Vvsb,1251,Katwijk,1237,1.0
+2017,2nd Round,2.0,PEC Zwolle,193,Kozakken Boys,1242,1.0
+2017,2nd Round,2.0,Kozakken Boys,1242,PEC Zwolle,193,0.0
+2017,2nd Round,2.0,Waalwijk,417,De Treffers,1277,1.0
+2017,2nd Round,2.0,De Treffers,1277,Waalwijk,417,0.0
+2017,2nd Round,2.0,NEC Nijmegen,413,Achilles 29,806,1.0
+2017,2nd Round,2.0,Achilles 29,806,NEC Nijmegen,413,0.0
+2017,1st Round,1.0,FC Lisse,1257,Hoek,1276,1.0
+2017,1st Round,1.0,Hoek,1276,FC Lisse,1257,0.0
+2017,1st Round,1.0,SDC Putten,1262,PSV Eindhoven,197,0.0
+2017,1st Round,1.0,PSV Eindhoven,197,SDC Putten,1262,1.0
+2017,1st Round,1.0,Blauw Geel,1263,VVV Venlo,204,0.0
+2017,1st Round,1.0,VVV Venlo,204,Blauw Geel,1263,1.0
+2017,1st Round,1.0,Hercules,1264,Groningen,202,0.0
+2017,1st Round,1.0,Groningen,202,Hercules,1264,1.0
+2017,1st Round,1.0,Vv De Meern,1265,PEC Zwolle,193,0.0
+2017,1st Round,1.0,PEC Zwolle,193,Vv De Meern,1265,1.0
+2017,1st Round,1.0,Feyenoord,209,ADO Den Haag,198,1.0
+2017,1st Round,1.0,ADO Den Haag,198,Feyenoord,209,0.0
+2017,1st Round,1.0,Achilles 29,806,NAC Breda,203,1.0
+2017,1st Round,1.0,NAC Breda,203,Achilles 29,806,0.0
+2017,1st Round,1.0,Ajax Amateurs,1266,Utrecht,207,0.0
+2017,1st Round,1.0,Utrecht,207,Ajax Amateurs,1266,1.0
+2017,1st Round,1.0,ASV De Dijk,1260,HHC,1278,1.0
+2017,1st Round,1.0,HHC,1278,ASV De Dijk,1260,0.0
+2017,1st Round,1.0,Csv Apeldoorn,1267,Willem II,195,0.0
+2017,1st Round,1.0,Willem II,195,Csv Apeldoorn,1267,1.0
+2017,1st Round,1.0,Excelsior,196,Heerenveen,210,0.0
+2017,1st Round,1.0,Heerenveen,210,Excelsior,196,1.0
+2017,1st Round,1.0,Katwijk,1237,Ter Leede,1279,1.0
+2017,1st Round,1.0,Ter Leede,1279,Katwijk,1237,0.0
+2017,1st Round,1.0,ONS Sneek,1256,Twente,415,0.0
+2017,1st Round,1.0,Twente,415,ONS Sneek,1256,1.0
+2017,1st Round,1.0,Staphorst,1239,Koninklijke HFC,1246,0.0
+2017,1st Round,1.0,Koninklijke HFC,1246,Staphorst,1239,1.0
+2017,1st Round,1.0,Vvsb,1251,Telstar,427,1.0
+2017,1st Round,1.0,Telstar,427,Vvsb,1251,0.0
+2017,1st Round,1.0,SVV Scheveningen,1250,Ajax,194,0.0
+2017,1st Round,1.0,Ajax,194,SVV Scheveningen,1250,1.0
+2017,1st Round,1.0,Avv Swift,1269,Vitesse,200,1.0
+2017,1st Round,1.0,Vitesse,200,Avv Swift,1269,0.0
+2017,1st Round,1.0,Capelle,1270,Roda,414,0.0
+2017,1st Round,1.0,Roda,414,Capelle,1270,1.0
+2017,1st Round,1.0,MVV,412,AZ Alkmaar,201,0.0
+2017,1st Round,1.0,AZ Alkmaar,201,MVV,412,1.0
+2017,1st Round,1.0,Barendrecht,1271,GO Ahead Eagles,410,0.0
+2017,1st Round,1.0,GO Ahead Eagles,410,Barendrecht,1271,1.0
+2017,1st Round,1.0,Emmen,208,NEC Nijmegen,413,0.0
+2017,1st Round,1.0,NEC Nijmegen,413,Emmen,208,1.0
+2017,1st Round,1.0,FC OSS,423,Almere City FC,419,0.0
+2017,1st Round,1.0,Almere City FC,419,FC OSS,423,1.0
+2017,1st Round,1.0,GVVV Veenendaal,1261,Dordrecht,409,1.0
+2017,1st Round,1.0,Dordrecht,409,GVVV Veenendaal,1261,0.0
+2017,1st Round,1.0,Helmond Sport,424,Cambuur,420,0.0
+2017,1st Round,1.0,Cambuur,420,Helmond Sport,424,1.0
+2017,1st Round,1.0,Kozakken Boys,1242,De Graafschap,199,1.0
+2017,1st Round,1.0,De Graafschap,199,Kozakken Boys,1242,0.0
+2017,1st Round,1.0,Noordwijk,1247,Fortuna Sittard,205,0.0
+2017,1st Round,1.0,Fortuna Sittard,205,Noordwijk,1247,1.0
+2017,1st Round,1.0,Quick Boys,1272,FC Volendam,416,0.0
+2017,1st Round,1.0,FC Volendam,416,Quick Boys,1272,1.0
+2017,1st Round,1.0,Rijnsburgse Boys,1248,Heracles,206,0.0
+2017,1st Round,1.0,Heracles,206,Rijnsburgse Boys,1248,1.0
+2017,1st Round,1.0,SC Genemuiden,1273,De Treffers,1277,0.0
+2017,1st Round,1.0,De Treffers,1277,SC Genemuiden,1273,1.0
+2017,1st Round,1.0,Sparta Nijkerk,1274,FC Eindhoven,422,0.0
+2017,1st Round,1.0,FC Eindhoven,422,Sparta Nijkerk,1274,1.0
+2017,1st Round,1.0,Waalwijk,417,Sparta Rotterdam,426,1.0
+2017,1st Round,1.0,Sparta Rotterdam,426,Waalwijk,417,0.0
+2017,1st Round,1.0,Zwaluwen,1275,Den Bosch,421,0.0
+2017,1st Round,1.0,Den Bosch,421,Zwaluwen,1275,1.0
+2017,1st Preliminary Round,,Buitenpost,3915,ZSV,3923,1.0
+2017,1st Preliminary Round,,ZSV,3923,Buitenpost,3915,0.0
+2017,1st Preliminary Round,,VVOG,3907,Gemert,1230,1.0
+2017,1st Preliminary Round,,Gemert,1230,VVOG,3907,0.0
+2017,1st Preliminary Round,,Capelle,1270,RKSV Nuenen,3921,1.0
+2017,1st Preliminary Round,,RKSV Nuenen,3921,Capelle,1270,0.0
+2017,1st Preliminary Round,,Ter Leede,1279,DHC Delft,3917,1.0
+2017,1st Preliminary Round,,DHC Delft,3917,Ter Leede,1279,0.0
+2017,1st Preliminary Round,,Dongen,1285,Dovo,1234,1.0
+2017,1st Preliminary Round,,Dovo,1234,Dongen,1285,0.0
+2017,1st Preliminary Round,,ACV,3911,Hercules,1264,0.0
+2017,1st Preliminary Round,,Hercules,1264,ACV,3911,1.0
+2017,1st Preliminary Round,,Ajax Amateurs,1266,OJC Rosmalen,1241,1.0
+2017,1st Preliminary Round,,OJC Rosmalen,1241,Ajax Amateurs,1266,0.0
+2017,1st Preliminary Round,,Sparta Nijkerk,1274,Purmersteijn,3920,1.0
+2017,1st Preliminary Round,,Purmersteijn,3920,Sparta Nijkerk,1274,0.0
+2017,1st Preliminary Round,,ADO '20,3886,Spakenburg,1249,0.0
+2017,1st Preliminary Round,,Spakenburg,1249,ADO '20,3886,1.0
+2017,1st Preliminary Round,,Chevremont,3916,Avv Swift,1269,0.0
+2017,1st Preliminary Round,,Avv Swift,1269,Chevremont,3916,1.0
+2017,1st Preliminary Round,,BVV Den Bosch,3913,Staphorst,1239,0.0
+2017,1st Preliminary Round,,Staphorst,1239,BVV Den Bosch,3913,1.0
+2017,1st Preliminary Round,,JVC Cuijk,1287,SDC Putten,1262,0.0
+2017,1st Preliminary Round,,SDC Putten,1262,JVC Cuijk,1287,1.0
+2017,1st Preliminary Round,,Groene Ster,1236,SVV Scheveningen,1250,0.0
+2017,1st Preliminary Round,,SVV Scheveningen,1250,Groene Ster,1236,1.0
+2017,1st Preliminary Round,,EVV,1286,Olde Veste '54,3919,1.0
+2017,1st Preliminary Round,,Olde Veste '54,3919,EVV,1286,0.0
+2017,2nd Preliminary Round,,DVS 33 Ermelo,1244,Quick Boys,1272,0.0
+2017,2nd Preliminary Round,,Quick Boys,1272,DVS 33 Ermelo,1244,1.0
+2017,2nd Preliminary Round,,ASWH,1254,Hoek,1276,0.0
+2017,2nd Preliminary Round,,Hoek,1276,ASWH,1254,1.0
+2017,2nd Preliminary Round,,Achilles 29,806,OFC Oostzaan,1232,1.0
+2017,2nd Preliminary Round,,OFC Oostzaan,1232,Achilles 29,806,0.0
+2017,2nd Preliminary Round,,TEC,1255,Rijnsburgse Boys,1248,0.0
+2017,2nd Preliminary Round,,Rijnsburgse Boys,1248,TEC,1255,1.0
+2017,2nd Preliminary Round,,Koninklijke HFC,1246,Westlandia,1243,1.0
+2017,2nd Preliminary Round,,Westlandia,1243,Koninklijke HFC,1246,0.0
+2017,2nd Preliminary Round,,AFC Amsterdam,1252,ASV De Dijk,1260,0.0
+2017,2nd Preliminary Round,,ASV De Dijk,1260,AFC Amsterdam,1252,1.0
+2017,2nd Preliminary Round,,SVV Scheveningen,1250,Spijkenisse,3922,1.0
+2017,2nd Preliminary Round,,Spijkenisse,3922,SVV Scheveningen,1250,0.0
+2017,2nd Preliminary Round,,Hsc 21,1281,Zwaluwen,1275,0.0
+2017,2nd Preliminary Round,,Zwaluwen,1275,Hsc 21,1281,1.0
+2017,2nd Preliminary Round,,Harkemase Boys,1258,Sparta Nijkerk,1274,0.0
+2017,2nd Preliminary Round,,Sparta Nijkerk,1274,Harkemase Boys,1258,1.0
+2017,2nd Preliminary Round,,Barendrecht,1271,VVOG,3907,1.0
+2017,2nd Preliminary Round,,VVOG,3907,Barendrecht,1271,0.0
+2017,2nd Preliminary Round,,Blauw Geel,1263,Spakenburg,1249,1.0
+2017,2nd Preliminary Round,,Spakenburg,1249,Blauw Geel,1263,0.0
+2017,2nd Preliminary Round,,DFS,1259,ONS Sneek,1256,0.0
+2017,2nd Preliminary Round,,ONS Sneek,1256,DFS,1259,1.0
+2017,2nd Preliminary Round,,Capelle,1270,Altius,3912,1.0
+2017,2nd Preliminary Round,,Altius,3912,Capelle,1270,0.0
+2017,2nd Preliminary Round,,Hercules,1264,Dongen,1285,1.0
+2017,2nd Preliminary Round,,Dongen,1285,Hercules,1264,0.0
+2017,2nd Preliminary Round,,Avv Swift,1269,HBS,3893,1.0
+2017,2nd Preliminary Round,,HBS,3893,Avv Swift,1269,0.0
+2017,2nd Preliminary Round,,FC Lienden,1283,HHC,1278,0.0
+2017,2nd Preliminary Round,,HHC,1278,FC Lienden,1283,1.0
+2017,2nd Preliminary Round,,Vvsb,1251,EVV,1286,1.0
+2017,2nd Preliminary Round,,EVV,1286,Vvsb,1251,0.0
+2017,2nd Preliminary Round,,Excelsior,196,FC Lisse,1257,0.0
+2017,2nd Preliminary Round,,FC Lisse,1257,Excelsior,196,1.0
+2017,2nd Preliminary Round,,Vv De Meern,1265,Vlissingen,3908,1.0
+2017,2nd Preliminary Round,,Vlissingen,3908,Vv De Meern,1265,0.0
+2017,2nd Preliminary Round,,GVVV Veenendaal,1261,Magreb '90,3918,1.0
+2017,2nd Preliminary Round,,Magreb '90,3918,GVVV Veenendaal,1261,0.0
+2017,2nd Preliminary Round,,Noordwijk,1247,Ijsselmeervogels,1280,1.0
+2017,2nd Preliminary Round,,Ijsselmeervogels,1280,Noordwijk,1247,0.0
+2017,2nd Preliminary Round,,Quick '20,3899,Csv Apeldoorn,1267,0.0
+2017,2nd Preliminary Round,,Csv Apeldoorn,1267,Quick '20,3899,1.0
+2017,2nd Preliminary Round,,UNA,1284,Staphorst,1239,0.0
+2017,2nd Preliminary Round,,Staphorst,1239,UNA,1284,1.0
+2017,2nd Preliminary Round,,Ajax Amateurs,1266,Be Quick 1887,3914,1.0
+2017,2nd Preliminary Round,,Be Quick 1887,3914,Ajax Amateurs,1266,0.0
+2017,2nd Preliminary Round,,HV & CV Quick,3894,Ter Leede,1279,0.0
+2017,2nd Preliminary Round,,Ter Leede,1279,HV & CV Quick,3894,1.0
+2017,2nd Preliminary Round,,HSV ODIN 59,1245,SDC Putten,1262,0.0
+2017,2nd Preliminary Round,,SDC Putten,1262,HSV ODIN 59,1245,1.0
+2017,2nd Preliminary Round,,Buitenpost,3915,SC Genemuiden,1273,0.0
+2017,2nd Preliminary Round,,SC Genemuiden,1273,Buitenpost,3915,1.0
+2018,1st Round,1.0,Gemert,1230,Feyenoord,209,0.0
+2018,1st Round,1.0,Feyenoord,209,Gemert,1230,1.0
+2018,1st Round,1.0,Utrecht,207,MVV,412,1.0
+2018,1st Round,1.0,MVV,412,Utrecht,207,0.0
+2018,1st Round,1.0,Groningen,202,Twente,415,0.0
+2018,1st Round,1.0,Twente,415,Groningen,202,1.0
+2018,1st Round,1.0,Alcides,1231,AZ Alkmaar,201,0.0
+2018,1st Round,1.0,AZ Alkmaar,201,Alcides,1231,1.0
+2018,1st Round,1.0,OFC Oostzaan,1232,Emmen,208,0.0
+2018,1st Round,1.0,Emmen,208,OFC Oostzaan,1232,1.0
+2018,1st Round,1.0,HVV Te Werve,1233,Ajax,194,0.0
+2018,1st Round,1.0,Ajax,194,HVV Te Werve,1233,1.0
+2018,1st Round,1.0,Dovo,1234,URK,1253,0.0
+2018,1st Round,1.0,URK,1253,Dovo,1234,1.0
+2018,1st Round,1.0,Eemdijk,1235,ASWH,1254,0.0
+2018,1st Round,1.0,ASWH,1254,Eemdijk,1235,1.0
+2018,1st Round,1.0,Groene Ster,1236,TEC,1255,1.0
+2018,1st Round,1.0,TEC,1255,Groene Ster,1236,0.0
+2018,1st Round,1.0,Katwijk,1237,Heerenveen,210,0.0
+2018,1st Round,1.0,Heerenveen,210,Katwijk,1237,1.0
+2018,1st Round,1.0,RKAV Volendam,1238,Vitesse,200,0.0
+2018,1st Round,1.0,Vitesse,200,RKAV Volendam,1238,1.0
+2018,1st Round,1.0,Staphorst,1239,PEC Zwolle,193,0.0
+2018,1st Round,1.0,PEC Zwolle,193,Staphorst,1239,1.0
+2018,1st Round,1.0,Excelsior,196,PSV Eindhoven,197,0.0
+2018,1st Round,1.0,PSV Eindhoven,197,Excelsior,196,1.0
+2018,1st Round,1.0,OJC Rosmalen,1241,ADO Den Haag,198,0.0
+2018,1st Round,1.0,ADO Den Haag,198,OJC Rosmalen,1241,1.0
+2018,1st Round,1.0,Excelsior,196,NEC Nijmegen,413,0.0
+2018,1st Round,1.0,NEC Nijmegen,413,Excelsior,196,1.0
+2018,1st Round,1.0,Kozakken Boys,1242,ONS Sneek,1256,1.0
+2018,1st Round,1.0,ONS Sneek,1256,Kozakken Boys,1242,0.0
+2018,1st Round,1.0,Westlandia,1243,VVV Venlo,204,0.0
+2018,1st Round,1.0,VVV Venlo,204,Westlandia,1243,1.0
+2018,1st Round,1.0,Almere City FC,419,Dordrecht,409,1.0
+2018,1st Round,1.0,Dordrecht,409,Almere City FC,419,0.0
+2018,1st Round,1.0,Den Bosch,421,Heracles,206,0.0
+2018,1st Round,1.0,Heracles,206,Den Bosch,421,1.0
+2018,1st Round,1.0,DVS 33 Ermelo,1244,Roda,414,0.0
+2018,1st Round,1.0,Roda,414,DVS 33 Ermelo,1244,1.0
+2018,1st Round,1.0,FC Volendam,416,Willem II,195,0.0
+2018,1st Round,1.0,Willem II,195,FC Volendam,416,1.0
+2018,1st Round,1.0,GO Ahead Eagles,410,FC Eindhoven,422,1.0
+2018,1st Round,1.0,FC Eindhoven,422,GO Ahead Eagles,410,0.0
+2018,1st Round,1.0,Helmond Sport,424,Fortuna Sittard,205,0.0
+2018,1st Round,1.0,Fortuna Sittard,205,Helmond Sport,424,1.0
+2018,1st Round,1.0,HSV ODIN 59,1245,FC Lisse,1257,1.0
+2018,1st Round,1.0,FC Lisse,1257,HSV ODIN 59,1245,0.0
+2018,1st Round,1.0,Koninklijke HFC,1246,Harkemase Boys,1258,1.0
+2018,1st Round,1.0,Harkemase Boys,1258,Koninklijke HFC,1246,0.0
+2018,1st Round,1.0,Noordwijk,1247,Sparta Rotterdam,426,1.0
+2018,1st Round,1.0,Sparta Rotterdam,426,Noordwijk,1247,0.0
+2018,1st Round,1.0,Rijnsburgse Boys,1248,FC OSS,423,0.0
+2018,1st Round,1.0,FC OSS,423,Rijnsburgse Boys,1248,1.0
+2018,1st Round,1.0,Spakenburg,1249,DFS,1259,1.0
+2018,1st Round,1.0,DFS,1259,Spakenburg,1249,0.0
+2018,1st Round,1.0,SVV Scheveningen,1250,Cambuur,420,0.0
+2018,1st Round,1.0,Cambuur,420,SVV Scheveningen,1250,1.0
+2018,1st Round,1.0,Vvsb,1251,De Graafschap,199,0.0
+2018,1st Round,1.0,De Graafschap,199,Vvsb,1251,1.0
+2018,1st Round,1.0,Waalwijk,417,NAC Breda,203,1.0
+2018,1st Round,1.0,NAC Breda,203,Waalwijk,417,0.0
+2018,1st Round,1.0,AFC Amsterdam,1252,Telstar,427,1.0
+2018,1st Round,1.0,Telstar,427,AFC Amsterdam,1252,0.0
+2018,2nd Round,2.0,PSV Eindhoven,197,Waalwijk,417,0.0
+2018,2nd Round,2.0,Waalwijk,417,PSV Eindhoven,197,1.0
+2018,2nd Round,2.0,AFC Amsterdam,1252,FC OSS,423,1.0
+2018,2nd Round,2.0,FC OSS,423,AFC Amsterdam,1252,0.0
+2018,2nd Round,2.0,Cambuur,420,Koninklijke HFC,1246,1.0
+2018,2nd Round,2.0,Koninklijke HFC,1246,Cambuur,420,0.0
+2018,2nd Round,2.0,Kozakken Boys,1242,Almere City FC,419,1.0
+2018,2nd Round,2.0,Almere City FC,419,Kozakken Boys,1242,0.0
+2018,2nd Round,2.0,Twente,415,Noordwijk,1247,1.0
+2018,2nd Round,2.0,Noordwijk,1247,Twente,415,0.0
+2018,2nd Round,2.0,URK,1253,Roda,414,0.0
+2018,2nd Round,2.0,Roda,414,URK,1253,1.0
+2018,2nd Round,2.0,De Graafschap,199,PEC Zwolle,193,0.0
+2018,2nd Round,2.0,PEC Zwolle,193,De Graafschap,199,1.0
+2018,2nd Round,2.0,Heracles,206,Vitesse,200,0.0
+2018,2nd Round,2.0,Vitesse,200,Heracles,206,1.0
+2018,2nd Round,2.0,AZ Alkmaar,201,VVV Venlo,204,1.0
+2018,2nd Round,2.0,VVV Venlo,204,AZ Alkmaar,201,0.0
+2018,2nd Round,2.0,Emmen,208,HSV ODIN 59,1245,0.0
+2018,2nd Round,2.0,HSV ODIN 59,1245,Emmen,208,1.0
+2018,2nd Round,2.0,Groene Ster,1236,Heerenveen,210,0.0
+2018,2nd Round,2.0,Heerenveen,210,Groene Ster,1236,1.0
+2018,2nd Round,2.0,Utrecht,207,ASWH,1254,1.0
+2018,2nd Round,2.0,ASWH,1254,Utrecht,207,0.0
+2018,2nd Round,2.0,Willem II,195,Spakenburg,1249,1.0
+2018,2nd Round,2.0,Spakenburg,1249,Willem II,195,0.0
+2018,2nd Round,2.0,Ajax,194,GO Ahead Eagles,410,1.0
+2018,2nd Round,2.0,GO Ahead Eagles,410,Ajax,194,0.0
+2018,2nd Round,2.0,NEC Nijmegen,413,Fortuna Sittard,205,0.0
+2018,2nd Round,2.0,Fortuna Sittard,205,NEC Nijmegen,413,1.0
+2018,2nd Round,2.0,Feyenoord,209,ADO Den Haag,198,1.0
+2018,2nd Round,2.0,ADO Den Haag,198,Feyenoord,209,0.0
+2018,8th Finals,3.0,Willem II,195,AFC Amsterdam,1252,1.0
+2018,8th Finals,3.0,AFC Amsterdam,1252,Willem II,195,0.0
+2018,8th Finals,3.0,Twente,415,Waalwijk,417,1.0
+2018,8th Finals,3.0,Waalwijk,417,Twente,415,0.0
+2018,8th Finals,3.0,AZ Alkmaar,201,PEC Zwolle,193,1.0
+2018,8th Finals,3.0,PEC Zwolle,193,AZ Alkmaar,201,0.0
+2018,8th Finals,3.0,HSV ODIN 59,1245,Heerenveen,210,0.0
+2018,8th Finals,3.0,Heerenveen,210,HSV ODIN 59,1245,1.0
+2018,8th Finals,3.0,Fortuna Sittard,205,Cambuur,420,1.0
+2018,8th Finals,3.0,Cambuur,420,Fortuna Sittard,205,0.0
+2018,8th Finals,3.0,Roda,414,Ajax,194,0.0
+2018,8th Finals,3.0,Ajax,194,Roda,414,1.0
+2018,8th Finals,3.0,Kozakken Boys,1242,Vitesse,200,0.0
+2018,8th Finals,3.0,Vitesse,200,Kozakken Boys,1242,1.0
+2018,8th Finals,3.0,Feyenoord,209,Utrecht,207,1.0
+2018,8th Finals,3.0,Utrecht,207,Feyenoord,209,0.0
+2018,Quarter-finals,4.0,AZ Alkmaar,201,Vitesse,200,1.0
+2018,Quarter-finals,4.0,Vitesse,200,AZ Alkmaar,201,0.0
+2018,Quarter-finals,4.0,Twente,415,Willem II,195,0.0
+2018,Quarter-finals,4.0,Willem II,195,Twente,415,1.0
+2018,Quarter-finals,4.0,Feyenoord,209,Fortuna Sittard,205,1.0
+2018,Quarter-finals,4.0,Fortuna Sittard,205,Feyenoord,209,0.0
+2018,Quarter-finals,4.0,Ajax,194,Heerenveen,210,1.0
+2018,Quarter-finals,4.0,Heerenveen,210,Ajax,194,0.0
+2018,Semi-finals,5.0,Feyenoord,209,Ajax,194,0.0
+2018,Semi-finals,5.0,Ajax,194,Feyenoord,209,1.0
+2018,Semi-finals,5.0,Willem II,195,AZ Alkmaar,201,1.0
+2018,Semi-finals,5.0,AZ Alkmaar,201,Willem II,195,0.0
+2018,Final,6.0,Willem II,195,Ajax,194,0.0
+2018,Final,6.0,Ajax,194,Willem II,195,1.0
+2018,1st Preliminary Round,,ASWH,1254,MASV,3896,1.0
+2018,1st Preliminary Round,,MASV,3896,ASWH,1254,0.0
+2018,1st Preliminary Round,,FC 's-Gravenzande,3890,HV & CV Quick,3894,1.0
+2018,1st Preliminary Round,,HV & CV Quick,3894,FC 's-Gravenzande,3890,0.0
+2018,1st Preliminary Round,,Eemdijk,1235,Vlissingen,3908,1.0
+2018,1st Preliminary Round,,Vlissingen,3908,Eemdijk,1235,0.0
+2018,1st Preliminary Round,,Alverna,3887,HSV ODIN 59,1245,0.0
+2018,1st Preliminary Round,,HSV ODIN 59,1245,Alverna,3887,1.0
+2018,1st Preliminary Round,,EVV,1286,Brielle,3888,1.0
+2018,1st Preliminary Round,,Brielle,3888,EVV,1286,0.0
+2018,1st Preliminary Round,,GOES,3892,Staphorst,1239,0.0
+2018,1st Preliminary Round,,Staphorst,1239,GOES,3892,1.0
+2018,1st Preliminary Round,,Harkemase Boys,1258,ASV De Dijk,1260,1.0
+2018,1st Preliminary Round,,ASV De Dijk,1260,Harkemase Boys,1258,0.0
+2018,1st Preliminary Round,,Hoek,1276,ADO '20,3886,1.0
+2018,1st Preliminary Round,,ADO '20,3886,Hoek,1276,0.0
+2018,1st Preliminary Round,,OSS '20,3898,Noordwijk,1247,0.0
+2018,1st Preliminary Round,,Noordwijk,1247,OSS '20,3898,1.0
+2018,1st Preliminary Round,,Quick '20,3899,DVS 33 Ermelo,1244,0.0
+2018,1st Preliminary Round,,DVS 33 Ermelo,1244,Quick '20,3899,1.0
+2018,1st Preliminary Round,,Sportlust '46,3904,HBS,3893,0.0
+2018,1st Preliminary Round,,HBS,3893,Sportlust '46,3904,1.0
+2018,1st Preliminary Round,,SteDoCo,3905,RKSV Cluzona,3901,1.0
+2018,1st Preliminary Round,,RKSV Cluzona,3901,SteDoCo,3905,0.0
+2018,1st Preliminary Round,,URK,1253,SDO,3902,1.0
+2018,1st Preliminary Round,,SDO,3902,URK,1253,0.0
+2018,1st Preliminary Round,,Zaanlandia,3910,Achilles 29,806,0.0
+2018,1st Preliminary Round,,Achilles 29,806,Zaanlandia,3910,1.0
+2018,1st Preliminary Round,,JOS Watergraafsmeer,3895,Westlandia,1243,0.0
+2018,1st Preliminary Round,,Westlandia,1243,JOS Watergraafsmeer,3895,1.0
+2018,1st Preliminary Round,,RKSV Bekkerveld,3900,Hercules,1264,0.0
+2018,1st Preliminary Round,,Hercules,1264,RKSV Bekkerveld,3900,1.0
+2018,2nd Preliminary Round,,DFS,1259,Barendrecht,1271,1.0
+2018,2nd Preliminary Round,,Barendrecht,1271,DFS,1259,0.0
+2018,2nd Preliminary Round,,Dovo,1234,Quick Boys,1272,1.0
+2018,2nd Preliminary Round,,Quick Boys,1272,Dovo,1234,0.0
+2018,2nd Preliminary Round,,DZC '68,3889,SVV Scheveningen,1250,0.0
+2018,2nd Preliminary Round,,SVV Scheveningen,1250,DZC '68,3889,1.0
+2018,2nd Preliminary Round,,Rijnsburgse Boys,1248,Ajax Amateurs,1266,1.0
+2018,2nd Preliminary Round,,Ajax Amateurs,1266,Rijnsburgse Boys,1248,0.0
+2018,2nd Preliminary Round,,Spakenburg,1249,Wittenhorst,3909,1.0
+2018,2nd Preliminary Round,,Wittenhorst,3909,Spakenburg,1249,0.0
+2018,2nd Preliminary Round,,JVC Cuijk,1287,Koninklijke HFC,1246,0.0
+2018,2nd Preliminary Round,,Koninklijke HFC,1246,JVC Cuijk,1287,1.0
+2018,2nd Preliminary Round,,Alcides,1231,VVOG,3907,1.0
+2018,2nd Preliminary Round,,VVOG,3907,Alcides,1231,0.0
+2018,2nd Preliminary Round,,FC 's-Gravenzande,3890,Excelsior,196,0.0
+2018,2nd Preliminary Round,,Excelsior,196,FC 's-Gravenzande,3890,1.0
+2018,2nd Preliminary Round,,GVVV Veenendaal,1261,TEC,1255,0.0
+2018,2nd Preliminary Round,,TEC,1255,GVVV Veenendaal,1261,1.0
+2018,2nd Preliminary Round,,Ijsselmeervogels,1280,Noordwijk,1247,0.0
+2018,2nd Preliminary Round,,Noordwijk,1247,Ijsselmeervogels,1280,1.0
+2018,2nd Preliminary Round,,Hercules,1264,ASWH,1254,0.0
+2018,2nd Preliminary Round,,ASWH,1254,Hercules,1264,1.0
+2018,2nd Preliminary Round,,Uno Animo,3906,Vvsb,1251,0.0
+2018,2nd Preliminary Round,,Vvsb,1251,Uno Animo,3906,1.0
+2018,2nd Preliminary Round,,HSV ODIN 59,1245,Dongen,1285,1.0
+2018,2nd Preliminary Round,,Dongen,1285,HSV ODIN 59,1245,0.0
+2018,2nd Preliminary Round,,Blauw Geel,1263,URK,1253,0.0
+2018,2nd Preliminary Round,,URK,1253,Blauw Geel,1263,1.0
+2018,2nd Preliminary Round,,De Treffers,1277,DVS 33 Ermelo,1244,0.0
+2018,2nd Preliminary Round,,DVS 33 Ermelo,1244,De Treffers,1277,1.0
+2018,2nd Preliminary Round,,Gemert,1230,Hoek,1276,1.0
+2018,2nd Preliminary Round,,Hoek,1276,Gemert,1230,0.0
+2018,2nd Preliminary Round,,Groene Ster,1236,FC Lienden,1283,1.0
+2018,2nd Preliminary Round,,FC Lienden,1283,Groene Ster,1236,0.0
+2018,2nd Preliminary Round,,HHC,1278,OFC Oostzaan,1232,0.0
+2018,2nd Preliminary Round,,OFC Oostzaan,1232,HHC,1278,1.0
+2018,2nd Preliminary Round,,Westlandia,1243,SteDoCo,3905,1.0
+2018,2nd Preliminary Round,,SteDoCo,3905,Westlandia,1243,0.0
+2018,2nd Preliminary Round,,OJC Rosmalen,1241,Flevo Boys,3891,1.0
+2018,2nd Preliminary Round,,Flevo Boys,3891,OJC Rosmalen,1241,0.0
+2018,2nd Preliminary Round,,HBS,3893,ONS Sneek,1256,0.0
+2018,2nd Preliminary Round,,ONS Sneek,1256,HBS,3893,1.0
+2018,2nd Preliminary Round,,UNA,1284,Eemdijk,1235,0.0
+2018,2nd Preliminary Round,,Eemdijk,1235,UNA,1284,1.0
+2018,2nd Preliminary Round,,RKAV Volendam,1238,EVV,1286,1.0
+2018,2nd Preliminary Round,,EVV,1286,RKAV Volendam,1238,0.0
+2018,2nd Preliminary Round,,Achilles 29,806,Harkemase Boys,1258,0.0
+2018,2nd Preliminary Round,,Harkemase Boys,1258,Achilles 29,806,1.0
+2018,2nd Preliminary Round,,Staphorst,1239,Hsc 21,1281,1.0
+2018,2nd Preliminary Round,,Hsc 21,1281,Staphorst,1239,0.0
+2018,2nd Preliminary Round,,SJC Noordwijk,3903,FC Lisse,1257,0.0
+2018,2nd Preliminary Round,,FC Lisse,1257,SJC Noordwijk,3903,1.0
+2018,2nd Preliminary Round,,HVV Te Werve,1233,Marvilde,3897,1.0
+2018,2nd Preliminary Round,,Marvilde,3897,HVV Te Werve,1233,0.0
+2019,1st Preliminary Round,,Hsc 21,1281,SteDoCo,3905,0.0
+2019,1st Preliminary Round,,SteDoCo,3905,Hsc 21,1281,1.0
+2019,1st Preliminary Round,,Dovo,1234,OFC Oostzaan,1232,0.0
+2019,1st Preliminary Round,,OFC Oostzaan,1232,Dovo,1234,1.0
+2019,1st Preliminary Round,,Huizen,1290,GOES,3892,0.0
+2019,1st Preliminary Round,,GOES,3892,Huizen,1290,1.0
+2019,1st Preliminary Round,,HSV ODIN 59,1245,Gemert,1230,1.0
+2019,1st Preliminary Round,,Gemert,1230,HSV ODIN 59,1245,0.0
+2019,1st Preliminary Round,,Achilles Veen,1282,Hercules,1264,1.0
+2019,1st Preliminary Round,,Hercules,1264,Achilles Veen,1282,0.0
+2019,1st Preliminary Round,,DVS 33 Ermelo,1244,HV & CV Quick,3894,0.0
+2019,1st Preliminary Round,,HV & CV Quick,3894,DVS 33 Ermelo,1244,1.0
+2019,1st Preliminary Round,,Barendrecht,1271,Wittenhorst,3909,1.0
+2019,1st Preliminary Round,,Wittenhorst,3909,Barendrecht,1271,0.0
+2019,1st Preliminary Round,,ADO '20,3886,ONS Sneek,1256,1.0
+2019,1st Preliminary Round,,ONS Sneek,1256,ADO '20,3886,0.0
+2019,1st Preliminary Round,,Vvsb,1251,Harkemase Boys,1258,0.0
+2019,1st Preliminary Round,,Harkemase Boys,1258,Vvsb,1251,1.0
+2019,1st Preliminary Round,,Rijnvogels,1288,OSS '20,3898,0.0
+2019,1st Preliminary Round,,OSS '20,3898,Rijnvogels,1288,1.0
+2019,1st Preliminary Round,,Kloetinge,3930,FC Lienden,1283,1.0
+2019,1st Preliminary Round,,FC Lienden,1283,Kloetinge,3930,0.0
+2019,1st Preliminary Round,,Sparta Nijkerk,1274,UNA,1284,1.0
+2019,1st Preliminary Round,,UNA,1284,Sparta Nijkerk,1274,0.0
+2019,1st Preliminary Round,,FC Lisse,1257,Ajax Amateurs,1266,0.0
+2019,1st Preliminary Round,,Ajax Amateurs,1266,FC Lisse,1257,1.0
+2019,1st Preliminary Round,,Hoogland,6266,Jodan Boys,1289,0.0
+2019,1st Preliminary Round,,Jodan Boys,1289,Hoogland,6266,1.0
+2019,1st Preliminary Round,,Ter Leede,1279,Fortuna Wormerveer,6264,0.0
+2019,1st Preliminary Round,,Fortuna Wormerveer,6264,Ter Leede,1279,1.0
+2019,1st Preliminary Round,,VVOG,3907,Minor,6268,1.0
+2019,1st Preliminary Round,,Minor,6268,VVOG,3907,0.0
+2019,1st Preliminary Round,,Vroomshoopse Boys,6274,EVV,1286,0.0
+2019,1st Preliminary Round,,EVV,1286,Vroomshoopse Boys,6274,1.0
+2019,1st Preliminary Round,,FC 's-Gravenzande,3890,Heeze,6265,1.0
+2019,1st Preliminary Round,,Heeze,6265,FC 's-Gravenzande,3890,0.0
+2019,1st Preliminary Round,,VEV '67,6273,Silvolde,6270,0.0
+2019,1st Preliminary Round,,Silvolde,6270,VEV '67,6273,1.0
+2019,1st Preliminary Round,,Excelsior '31,6263,DEM,6260,1.0
+2019,1st Preliminary Round,,DEM,6260,Excelsior '31,6263,0.0
+2019,1st Preliminary Round,,SDO,3902,ARC,6259,1.0
+2019,1st Preliminary Round,,ARC,6259,SDO,3902,0.0
+2019,1st Preliminary Round,,ROHDA Raalte,6269,DUNO,6261,0.0
+2019,1st Preliminary Round,,DUNO,6261,ROHDA Raalte,6269,1.0
+2019,1st Preliminary Round,,Westlandia,1243,Zuidvogels,6276,1.0
+2019,1st Preliminary Round,,Zuidvogels,6276,Westlandia,1243,0.0
+2019,1st Preliminary Round,,Drachtster Boys,6262,Dongen,1285,0.0
+2019,1st Preliminary Round,,Dongen,1285,Drachtster Boys,6262,1.0
+2019,1st Preliminary Round,,Mierlo-Hout,6267,Flevo Boys,3891,0.0
+2019,1st Preliminary Round,,Flevo Boys,3891,Mierlo-Hout,6267,1.0
+2019,1st Preliminary Round,,Groene Ster,1236,Winsum,6275,1.0
+2019,1st Preliminary Round,,Winsum,6275,Groene Ster,1236,0.0
+2019,1st Preliminary Round,,TOP Oss Amateurs,6272,Hoek,1276,0.0
+2019,1st Preliminary Round,,Hoek,1276,TOP Oss Amateurs,6272,1.0
+2019,1st Preliminary Round,,Blauw Geel,1263,Sliedrecht,6271,1.0
+2019,1st Preliminary Round,,Sliedrecht,6271,Blauw Geel,1263,0.0
+2019,1st Round,1.0,FC 's-Gravenzande,3890,SteDoCo,3905,0.0
+2019,1st Round,1.0,SteDoCo,3905,FC 's-Gravenzande,3890,1.0
+2019,1st Round,1.0,Excelsior,196,Heerenveen,210,0.0
+2019,1st Round,1.0,Heerenveen,210,Excelsior,196,1.0
+2019,1st Round,1.0,Dordrecht,409,MVV,412,1.0
+2019,1st Round,1.0,MVV,412,Dordrecht,409,0.0
+2019,1st Round,1.0,Heracles,206,Waalwijk,417,1.0
+2019,1st Round,1.0,Waalwijk,417,Heracles,206,0.0
+2019,1st Round,1.0,Ijsselmeervogels,1280,Den Bosch,421,1.0
+2019,1st Round,1.0,Den Bosch,421,Ijsselmeervogels,1280,0.0
+2019,1st Round,1.0,Koninklijke HFC,1246,Telstar,427,0.0
+2019,1st Round,1.0,Telstar,427,Koninklijke HFC,1246,1.0
+2019,1st Round,1.0,Hoek,1276,PEC Zwolle,193,0.0
+2019,1st Round,1.0,PEC Zwolle,193,Hoek,1276,1.0
+2019,1st Round,1.0,Almere City FC,419,GO Ahead Eagles,410,0.0
+2019,1st Round,1.0,GO Ahead Eagles,410,Almere City FC,419,1.0
+2019,1st Round,1.0,Vitesse,200,De Graafschap,199,1.0
+2019,1st Round,1.0,De Graafschap,199,Vitesse,200,0.0
+2019,1st Round,1.0,Fortuna Sittard,205,ADO Den Haag,198,1.0
+2019,1st Round,1.0,ADO Den Haag,198,Fortuna Sittard,205,0.0
+2019,1st Round,1.0,Sparta Rotterdam,426,FC Volendam,416,1.0
+2019,1st Round,1.0,FC Volendam,416,Sparta Rotterdam,426,0.0
+2019,1st Round,1.0,Excelsior,196,NEC Nijmegen,413,1.0
+2019,1st Round,1.0,NEC Nijmegen,413,Excelsior,196,0.0
+2019,1st Round,1.0,NAC Breda,203,Emmen,208,1.0
+2019,1st Round,1.0,Emmen,208,NAC Breda,203,0.0
+2019,2nd Preliminary Round,,Blauw Geel,1263,De Treffers,1277,0.0
+2019,2nd Preliminary Round,,De Treffers,1277,Blauw Geel,1263,1.0
+2019,2nd Preliminary Round,,Westlandia,1243,OFC Oostzaan,1232,0.0
+2019,2nd Preliminary Round,,OFC Oostzaan,1232,Westlandia,1243,1.0
+2019,2nd Preliminary Round,,Spakenburg,1249,SDO,3902,1.0
+2019,2nd Preliminary Round,,SDO,3902,Spakenburg,1249,0.0
+2019,2nd Preliminary Round,,Quick Boys,1272,Katwijk,1237,0.0
+2019,2nd Preliminary Round,,Katwijk,1237,Quick Boys,1272,1.0
+2019,2nd Preliminary Round,,OSS '20,3898,Jodan Boys,1289,1.0
+2019,2nd Preliminary Round,,Jodan Boys,1289,OSS '20,3898,0.0
+2019,2nd Preliminary Round,,Groene Ster,1236,Kloetinge,3930,1.0
+2019,2nd Preliminary Round,,Kloetinge,3930,Groene Ster,1236,0.0
+2019,2nd Preliminary Round,,Achilles Veen,1282,HHC,1278,1.0
+2019,2nd Preliminary Round,,HHC,1278,Achilles Veen,1282,0.0
+2019,2nd Preliminary Round,,Dongen,1285,Excelsior '31,6263,0.0
+2019,2nd Preliminary Round,,Excelsior '31,6263,Dongen,1285,1.0
+2019,2nd Preliminary Round,,VVOG,3907,Ajax Amateurs,1266,0.0
+2019,2nd Preliminary Round,,Ajax Amateurs,1266,VVOG,3907,1.0
+2019,2nd Preliminary Round,,GVVV Veenendaal,1261,Kozakken Boys,1242,1.0
+2019,2nd Preliminary Round,,Kozakken Boys,1242,GVVV Veenendaal,1261,0.0
+2019,2nd Preliminary Round,,DUNO,6261,HV & CV Quick,3894,0.0
+2019,2nd Preliminary Round,,HV & CV Quick,3894,DUNO,6261,1.0
+2019,2nd Preliminary Round,,ASWH,1254,TEC,1255,1.0
+2019,2nd Preliminary Round,,TEC,1255,ASWH,1254,0.0
+2019,2nd Preliminary Round,,EVV,1286,Flevo Boys,3891,0.0
+2019,2nd Preliminary Round,,Flevo Boys,3891,EVV,1286,1.0
+2019,2nd Preliminary Round,,SVV Scheveningen,1250,Harkemase Boys,1258,0.0
+2019,2nd Preliminary Round,,Harkemase Boys,1258,SVV Scheveningen,1250,1.0
+2019,2nd Preliminary Round,,ADO '20,3886,Fortuna Wormerveer,6264,0.0
+2019,2nd Preliminary Round,,Fortuna Wormerveer,6264,ADO '20,3886,1.0
+2019,2nd Preliminary Round,,HSV ODIN 59,1245,Barendrecht,1271,1.0
+2019,2nd Preliminary Round,,Barendrecht,1271,HSV ODIN 59,1245,0.0
+2019,2nd Preliminary Round,,Noordwijk,1247,Rijnsburgse Boys,1248,0.0
+2019,2nd Preliminary Round,,Rijnsburgse Boys,1248,Noordwijk,1247,1.0
+2019,2nd Preliminary Round,,Silvolde,6270,GOES,3892,0.0
+2019,2nd Preliminary Round,,GOES,3892,Silvolde,6270,1.0
+2019,1st Round,1.0,GOES,3892,Cambuur,420,0.0
+2019,1st Round,1.0,Cambuur,420,GOES,3892,1.0
+2019,1st Round,1.0,Flevo Boys,3891,Katwijk,1237,0.0
+2019,1st Round,1.0,Katwijk,1237,Flevo Boys,3891,1.0
+2019,1st Round,1.0,GVVV Veenendaal,1261,Helmond Sport,424,1.0
+2019,1st Round,1.0,Helmond Sport,424,GVVV Veenendaal,1261,0.0
+2019,1st Round,1.0,Achilles Veen,1282,Roda,414,0.0
+2019,1st Round,1.0,Roda,414,Achilles Veen,1282,1.0
+2019,1st Round,1.0,Rijnsburgse Boys,1248,FC Eindhoven,422,0.0
+2019,1st Round,1.0,FC Eindhoven,422,Rijnsburgse Boys,1248,1.0
+2019,1st Round,1.0,OSS '20,3898,FC OSS,423,0.0
+2019,1st Round,1.0,FC OSS,423,OSS '20,3898,1.0
+2019,1st Round,1.0,Groene Ster,1236,VVV Venlo,204,1.0
+2019,1st Round,1.0,VVV Venlo,204,Groene Ster,1236,0.0
+2019,1st Round,1.0,HV & CV Quick,3894,Willem II,195,0.0
+2019,1st Round,1.0,Willem II,195,HV & CV Quick,3894,1.0
+2019,1st Round,1.0,Sparta Nijkerk,1274,Fortuna Wormerveer,6264,1.0
+2019,1st Round,1.0,Fortuna Wormerveer,6264,Sparta Nijkerk,1274,0.0
+2019,1st Round,1.0,Spakenburg,1249,ASWH,1254,1.0
+2019,1st Round,1.0,ASWH,1254,Spakenburg,1249,0.0
+2019,1st Round,1.0,Ajax Amateurs,1266,OFC Oostzaan,1232,0.0
+2019,1st Round,1.0,OFC Oostzaan,1232,Ajax Amateurs,1266,1.0
+2019,1st Round,1.0,AFC Amsterdam,1252,HSV ODIN 59,1245,0.0
+2019,1st Round,1.0,HSV ODIN 59,1245,AFC Amsterdam,1252,1.0
+2019,1st Round,1.0,Harkemase Boys,1258,Groningen,202,0.0
+2019,1st Round,1.0,Groningen,202,Harkemase Boys,1258,1.0
+2019,1st Round,1.0,De Treffers,1277,Twente,415,0.0
+2019,1st Round,1.0,Twente,415,De Treffers,1277,1.0
+2019,1st Round,1.0,Excelsior '31,6263,Utrecht,207,0.0
+2019,1st Round,1.0,Utrecht,207,Excelsior '31,6263,1.0
+2019,2nd Round,2.0,Ijsselmeervogels,1280,SteDoCo,3905,1.0
+2019,2nd Round,2.0,SteDoCo,3905,Ijsselmeervogels,1280,0.0
+2019,2nd Round,2.0,Heracles,206,Dordrecht,409,1.0
+2019,2nd Round,2.0,Dordrecht,409,Heracles,206,0.0
+2019,2nd Round,2.0,Telstar,427,Ajax,194,0.0
+2019,2nd Round,2.0,Ajax,194,Telstar,427,1.0
+2019,2nd Round,2.0,Heerenveen,210,Roda,414,1.0
+2019,2nd Round,2.0,Roda,414,Heerenveen,210,0.0
+2019,2nd Round,2.0,Vitesse,200,HSV ODIN 59,1245,1.0
+2019,2nd Round,2.0,HSV ODIN 59,1245,Vitesse,200,0.0
+2019,2nd Round,2.0,OFC Oostzaan,1232,Spakenburg,1249,0.0
+2019,2nd Round,2.0,Spakenburg,1249,OFC Oostzaan,1232,1.0
+2019,2nd Round,2.0,Cambuur,420,Feyenoord,209,0.0
+2019,2nd Round,2.0,Feyenoord,209,Cambuur,420,1.0
+2019,2nd Round,2.0,AZ Alkmaar,201,Groene Ster,1236,1.0
+2019,2nd Round,2.0,Groene Ster,1236,AZ Alkmaar,201,0.0
+2019,2nd Round,2.0,Willem II,195,Sparta Rotterdam,426,1.0
+2019,2nd Round,2.0,Sparta Rotterdam,426,Willem II,195,0.0
+2019,2nd Round,2.0,Twente,415,GO Ahead Eagles,410,0.0
+2019,2nd Round,2.0,GO Ahead Eagles,410,Twente,415,1.0
+2019,2nd Round,2.0,Katwijk,1237,FC OSS,423,0.0
+2019,2nd Round,2.0,FC OSS,423,Katwijk,1237,1.0
+2019,2nd Round,2.0,Groningen,202,Utrecht,207,0.0
+2019,2nd Round,2.0,Utrecht,207,Groningen,202,1.0
+2019,2nd Round,2.0,Fortuna Sittard,205,PEC Zwolle,193,1.0
+2019,2nd Round,2.0,PEC Zwolle,193,Fortuna Sittard,205,0.0
+2019,2nd Round,2.0,GVVV Veenendaal,1261,PSV Eindhoven,197,0.0
+2019,2nd Round,2.0,PSV Eindhoven,197,GVVV Veenendaal,1261,1.0
+2019,2nd Round,2.0,Excelsior,196,FC Eindhoven,422,0.0
+2019,2nd Round,2.0,FC Eindhoven,422,Excelsior,196,1.0
+2019,2nd Round,2.0,Sparta Nijkerk,1274,NAC Breda,203,0.0
+2019,2nd Round,2.0,NAC Breda,203,Sparta Nijkerk,1274,1.0
+2019,8th Finals,3.0,Fortuna Sittard,205,Feyenoord,209,0.0
+2019,8th Finals,3.0,Feyenoord,209,Fortuna Sittard,205,1.0
+2019,8th Finals,3.0,Heracles,206,Vitesse,200,0.0
+2019,8th Finals,3.0,Vitesse,200,Heracles,206,1.0
+2019,8th Finals,3.0,FC Eindhoven,422,Utrecht,207,0.0
+2019,8th Finals,3.0,Utrecht,207,FC Eindhoven,422,1.0
+2019,8th Finals,3.0,Ajax,194,Spakenburg,1249,1.0
+2019,8th Finals,3.0,Spakenburg,1249,Ajax,194,0.0
+2019,8th Finals,3.0,Heerenveen,210,Willem II,195,1.0
+2019,8th Finals,3.0,Willem II,195,Heerenveen,210,0.0
+2019,8th Finals,3.0,Ijsselmeervogels,1280,GO Ahead Eagles,410,0.0
+2019,8th Finals,3.0,GO Ahead Eagles,410,Ijsselmeervogels,1280,1.0
+2019,8th Finals,3.0,FC OSS,423,AZ Alkmaar,201,0.0
+2019,8th Finals,3.0,AZ Alkmaar,201,FC OSS,423,1.0
+2019,8th Finals,3.0,NAC Breda,203,PSV Eindhoven,197,1.0
+2019,8th Finals,3.0,PSV Eindhoven,197,NAC Breda,203,0.0
+2019,Quarter-finals,4.0,GO Ahead Eagles,410,Utrecht,207,0.0
+2019,Quarter-finals,4.0,Utrecht,207,GO Ahead Eagles,410,1.0
+2019,Quarter-finals,4.0,Vitesse,200,Ajax,194,0.0
+2019,Quarter-finals,4.0,Ajax,194,Vitesse,200,1.0
+2019,Quarter-finals,4.0,AZ Alkmaar,201,NAC Breda,203,0.0
+2019,Quarter-finals,4.0,NAC Breda,203,AZ Alkmaar,201,1.0
+2019,Quarter-finals,4.0,Heerenveen,210,Feyenoord,209,0.0
+2019,Quarter-finals,4.0,Feyenoord,209,Heerenveen,210,1.0
+2019,Semi-finals,5.0,Feyenoord,209,NAC Breda,203,1.0
+2019,Semi-finals,5.0,NAC Breda,203,Feyenoord,209,0.0
+2019,Semi-finals,5.0,Utrecht,207,Ajax,194,1.0
+2019,Semi-finals,5.0,Ajax,194,Utrecht,207,0.0
+2019,Final,6.0,Utrecht,207,Feyenoord,209,
+2019,Final,6.0,Feyenoord,209,Utrecht,207,
+2020,2nd Preliminary Round,,HHC,1278,GVVV Veenendaal,1261,1.0
+2020,2nd Preliminary Round,,GVVV Veenendaal,1261,HHC,1278,0.0
+2020,2nd Preliminary Round,,Spakenburg,1249,AFC Amsterdam,1252,0.0
+2020,2nd Preliminary Round,,AFC Amsterdam,1252,Spakenburg,1249,1.0
+2020,1st Preliminary Round,,VVOG,3907,DEM,6260,0.0
+2020,1st Preliminary Round,,DEM,6260,VVOG,3907,1.0
+2020,1st Preliminary Round,,RKSV Cluzona,3901,Sparta Nijkerk,1274,0.0
+2020,1st Preliminary Round,,Sparta Nijkerk,1274,RKSV Cluzona,3901,1.0
+2020,1st Preliminary Round,,Ter Leede,1279,Hoogezand,14236,1.0
+2020,1st Preliminary Round,,Hoogezand,14236,Ter Leede,1279,0.0
+2020,1st Preliminary Round,,ACV,3911,Gemert,1230,0.0
+2020,1st Preliminary Round,,Gemert,1230,ACV,3911,1.0
+2020,1st Preliminary Round,,Harkemase Boys,1258,Hercules,1264,1.0
+2020,1st Preliminary Round,,Hercules,1264,Harkemase Boys,1258,0.0
+2020,1st Preliminary Round,,Hoogeveen,14235,Dovo,1234,
+2020,1st Preliminary Round,,Dovo,1234,Hoogeveen,14235,
+2020,1st Preliminary Round,,DVS 33 Ermelo,1244,Dongen,1285,1.0
+2020,1st Preliminary Round,,Dongen,1285,DVS 33 Ermelo,1244,0.0
+2020,1st Preliminary Round,,Staphorst,1239,Hsc 21,1281,1.0
+2020,1st Preliminary Round,,Hsc 21,1281,Staphorst,1239,0.0
+2020,1st Preliminary Round,,AFC II,14226,GVV Unitas,14233,0.0
+2020,1st Preliminary Round,,GVV Unitas,14233,AFC II,14226,1.0
+2020,1st Preliminary Round,,Barendrecht,1271,Erp,14232,1.0
+2020,1st Preliminary Round,,Erp,14232,Barendrecht,1271,0.0
+2020,1st Preliminary Round,,Capelle,1270,Hoogland,6266,1.0
+2020,1st Preliminary Round,,Hoogland,6266,Capelle,1270,0.0
+2020,1st Preliminary Round,,VV Scherpenzeel,14241,Groene Ster,1236,0.0
+2020,1st Preliminary Round,,Groene Ster,1236,VV Scherpenzeel,14241,1.0
+2020,1st Preliminary Round,,SVC '08,14239,HV & CV Quick,3894,0.0
+2020,1st Preliminary Round,,HV & CV Quick,3894,SVC '08,14239,1.0
+2020,1st Preliminary Round,,Rijnvogels,1288,JOS Watergraafsmeer,3895,
+2020,1st Preliminary Round,,JOS Watergraafsmeer,3895,Rijnvogels,1288,
+2020,1st Preliminary Round,,DWOW,14230,Buitenpost,3915,0.0
+2020,1st Preliminary Round,,Buitenpost,3915,DWOW,14230,1.0
+2020,1st Preliminary Round,,FC Lisse,1257,Blauw Geel,1263,1.0
+2020,1st Preliminary Round,,Blauw Geel,1263,FC Lisse,1257,0.0
+2020,1st Preliminary Round,,Hoek,1276,OFC Oostzaan,1232,0.0
+2020,1st Preliminary Round,,OFC Oostzaan,1232,Hoek,1276,1.0
+2020,1st Preliminary Round,,SteDoCo,3905,Den Hoorn,14231,1.0
+2020,1st Preliminary Round,,Den Hoorn,14231,SteDoCo,3905,0.0
+2020,1st Preliminary Round,,Sliedrecht,6271,Vvsb,1251,
+2020,1st Preliminary Round,,Vvsb,1251,Sliedrecht,6271,
+2020,1st Preliminary Round,,DTS Ede,14229,RKVV Best Vooruit,14238,1.0
+2020,1st Preliminary Round,,RKVV Best Vooruit,14238,DTS Ede,14229,0.0
+2020,1st Preliminary Round,,DUNO,6261,UNA,1284,0.0
+2020,1st Preliminary Round,,UNA,1284,DUNO,6261,1.0
+2020,1st Preliminary Round,,AWC,14227,HSV ODIN 59,1245,0.0
+2020,1st Preliminary Round,,HSV ODIN 59,1245,AWC,14227,1.0
+2020,1st Preliminary Round,,DOS Kampen,14228,EVV,1286,1.0
+2020,1st Preliminary Round,,EVV,1286,DOS Kampen,14228,0.0
+2020,1st Preliminary Round,,Excelsior '31,6263,Susteren,14240,1.0
+2020,1st Preliminary Round,,Susteren,14240,Excelsior '31,6263,0.0
+2020,1st Preliminary Round,,GOES,3892,Sportlust '46,3904,1.0
+2020,1st Preliminary Round,,Sportlust '46,3904,GOES,3892,0.0
+2020,1st Preliminary Round,,Hollandia,14234,Flevo Boys,3891,0.0
+2020,1st Preliminary Round,,Flevo Boys,3891,Hollandia,14234,1.0
+2020,1st Preliminary Round,,OSS '20,3898,Ajax Amateurs,1266,1.0
+2020,1st Preliminary Round,,Ajax Amateurs,1266,OSS '20,3898,0.0
+2020,1st Preliminary Round,,Achilles Veen,1282,NWC,14237,1.0
+2020,1st Preliminary Round,,NWC,14237,Achilles Veen,1282,0.0
+2020,1st Preliminary Round,,Westlandia,1243,Venray,14242,1.0
+2020,1st Preliminary Round,,Venray,14242,Westlandia,1243,0.0
+2020,1st Preliminary Round,,Roda '46 (Zat),14431,ADO '20,3886,
+2020,1st Preliminary Round,,ADO '20,3886,Roda '46 (Zat),14431,
+2020,2nd Preliminary Round,,GOES,3892,HSV ODIN 59,1245,
+2020,2nd Preliminary Round,,HSV ODIN 59,1245,GOES,3892,
+2020,2nd Preliminary Round,,Buitenpost,3915,Capelle,1270,
+2020,2nd Preliminary Round,,Capelle,1270,Buitenpost,3915,
+2020,2nd Preliminary Round,,FC Lisse,1257,SteDoCo,3905,0.0
+2020,2nd Preliminary Round,,SteDoCo,3905,FC Lisse,1257,1.0
+2020,2nd Preliminary Round,,Dovo,1234,DVS 33 Ermelo,1244,0.0
+2020,2nd Preliminary Round,,DVS 33 Ermelo,1244,Dovo,1234,1.0
+2020,2nd Preliminary Round,,Noordwijk,1247,Sliedrecht,6271,0.0
+2020,2nd Preliminary Round,,Sliedrecht,6271,Noordwijk,1247,1.0
+2020,2nd Preliminary Round,,Staphorst,1239,ASWH,1254,1.0
+2020,2nd Preliminary Round,,ASWH,1254,Staphorst,1239,0.0
+2020,2nd Preliminary Round,,Quick Boys,1272,Roda '46 (Zat),14431,1.0
+2020,2nd Preliminary Round,,Roda '46 (Zat),14431,Quick Boys,1272,0.0
+2020,2nd Preliminary Round,,De Treffers,1277,Barendrecht,1271,0.0
+2020,2nd Preliminary Round,,Barendrecht,1271,De Treffers,1277,1.0
+2020,2nd Preliminary Round,,Excelsior,196,Ter Leede,1279,1.0
+2020,2nd Preliminary Round,,Ter Leede,1279,Excelsior,196,0.0
+2020,2nd Preliminary Round,,Harkemase Boys,1258,Flevo Boys,3891,1.0
+2020,2nd Preliminary Round,,Flevo Boys,3891,Harkemase Boys,1258,0.0
+2020,2nd Preliminary Round,,Sparta Nijkerk,1274,Rijnsburgse Boys,1248,0.0
+2020,2nd Preliminary Round,,Rijnsburgse Boys,1248,Sparta Nijkerk,1274,1.0
+2020,2nd Preliminary Round,,OFC Oostzaan,1232,DOS Kampen,14228,1.0
+2020,2nd Preliminary Round,,DOS Kampen,14228,OFC Oostzaan,1232,0.0
+2020,2nd Preliminary Round,,Rijnvogels,1288,UNA,1284,0.0
+2020,2nd Preliminary Round,,UNA,1284,Rijnvogels,1288,1.0
+2020,2nd Preliminary Round,,Kozakken Boys,1242,DEM,6260,1.0
+2020,2nd Preliminary Round,,DEM,6260,Kozakken Boys,1242,0.0
+2020,2nd Preliminary Round,,Achilles Veen,1282,Gemert,1230,1.0
+2020,2nd Preliminary Round,,Gemert,1230,Achilles Veen,1282,0.0
+2020,2nd Preliminary Round,,Koninklijke HFC,1246,OSS '20,3898,0.0
+2020,2nd Preliminary Round,,OSS '20,3898,Koninklijke HFC,1246,1.0
+2020,2nd Preliminary Round,,DTS Ede,14229,GVV Unitas,14233,1.0
+2020,2nd Preliminary Round,,GVV Unitas,14233,DTS Ede,14229,0.0
+2020,2nd Preliminary Round,,Excelsior '31,6263,Groene Ster,1236,0.0
+2020,2nd Preliminary Round,,Groene Ster,1236,Excelsior '31,6263,1.0
+2020,2nd Preliminary Round,,Westlandia,1243,SVV Scheveningen,1250,
+2020,2nd Preliminary Round,,SVV Scheveningen,1250,Westlandia,1243,
+2020,1st Round,1.0,HV & CV Quick,3894,NEC Nijmegen,413,
+2020,1st Round,1.0,NEC Nijmegen,413,HV & CV Quick,3894,
+2020,1st Round,1.0,Excelsior,196,Helmond Sport,424,1.0
+2020,1st Round,1.0,Helmond Sport,424,Excelsior,196,0.0
+2020,1st Round,1.0,VVV Venlo,204,Den Bosch,421,1.0
+2020,1st Round,1.0,Den Bosch,421,VVV Venlo,204,0.0
+2020,1st Round,1.0,Emmen,208,FC Eindhoven,422,1.0
+2020,1st Round,1.0,FC Eindhoven,422,Emmen,208,0.0
+2020,1st Round,1.0,Heracles,206,Telstar,427,1.0
+2020,1st Round,1.0,Telstar,427,Heracles,206,0.0
+2020,1st Round,1.0,Heerenveen,210,FC OSS,423,1.0
+2020,1st Round,1.0,FC OSS,423,Heerenveen,210,0.0
+2020,1st Round,1.0,Roda,414,Fortuna Sittard,205,0.0
+2020,1st Round,1.0,Fortuna Sittard,205,Roda,414,1.0
+2020,1st Round,1.0,Dordrecht,409,Utrecht,207,0.0
+2020,1st Round,1.0,Utrecht,207,Dordrecht,409,1.0
+2020,1st Round,1.0,Waalwijk,417,Cambuur,420,0.0
+2020,1st Round,1.0,Cambuur,420,Waalwijk,417,1.0
+2020,1st Round,1.0,ADO Den Haag,198,Sparta Rotterdam,426,1.0
+2020,1st Round,1.0,Sparta Rotterdam,426,ADO Den Haag,198,0.0
+2020,1st Round,1.0,Twente,415,De Graafschap,199,0.0
+2020,1st Round,1.0,De Graafschap,199,Twente,415,1.0
+2020,1st Round,1.0,TEC,1255,Groningen,202,
+2020,1st Round,1.0,Groningen,202,TEC,1255,
+2020,1st Round,1.0,GO Ahead Eagles,410,NAC Breda,203,1.0
+2020,1st Round,1.0,NAC Breda,203,GO Ahead Eagles,410,0.0
+2020,1st Round,1.0,SVV Scheveningen,1250,Almere City FC,419,
+2020,1st Round,1.0,Almere City FC,419,SVV Scheveningen,1250,
+2020,1st Round,1.0,Capelle,1270,AFC Amsterdam,1252,
+2020,1st Round,1.0,AFC Amsterdam,1252,Capelle,1270,
+2020,1st Round,1.0,DVS 33 Ermelo,1244,Willem II,195,
+2020,1st Round,1.0,Willem II,195,DVS 33 Ermelo,1244,
+2020,1st Round,1.0,Rijnsburgse Boys,1248,Excelsior,196,
+2020,1st Round,1.0,Excelsior,196,Rijnsburgse Boys,1248,
+2020,1st Round,1.0,Kozakken Boys,1242,Harkemase Boys,1258,
+2020,1st Round,1.0,Harkemase Boys,1258,Kozakken Boys,1242,
+2020,1st Round,1.0,OFC Oostzaan,1232,MVV,412,
+2020,1st Round,1.0,MVV,412,OFC Oostzaan,1232,
+2020,1st Round,1.0,HSV ODIN 59,1245,FC Volendam,416,
+2020,1st Round,1.0,FC Volendam,416,HSV ODIN 59,1245,
+2020,1st Round,1.0,HHC,1278,Vitesse,200,
+2020,1st Round,1.0,Vitesse,200,HHC,1278,
+2020,1st Round,1.0,OSS '20,3898,Katwijk,1237,
+2020,1st Round,1.0,Katwijk,1237,OSS '20,3898,
+2020,1st Round,1.0,Staphorst,1239,PEC Zwolle,193,
+2020,1st Round,1.0,PEC Zwolle,193,Staphorst,1239,
+2020,1st Round,1.0,Westlandia,1243,SteDoCo,3905,
+2020,1st Round,1.0,SteDoCo,3905,Westlandia,1243,
+2020,1st Round,1.0,UNA,1284,Groene Ster,1236,
+2020,1st Round,1.0,Groene Ster,1236,UNA,1284,
+2020,1st Round,1.0,Sliedrecht,6271,Ijsselmeervogels,1280,
+2020,1st Round,1.0,Ijsselmeervogels,1280,Sliedrecht,6271,
+2020,1st Round,1.0,Barendrecht,1271,Achilles Veen,1282,
+2020,1st Round,1.0,Achilles Veen,1282,Barendrecht,1271,
+2020,1st Round,1.0,DTS Ede,14229,Quick Boys,1272,
+2020,1st Round,1.0,Quick Boys,1272,DTS Ede,14229,
+2020,2nd Round,2.0,Ajax,194,Utrecht,207,1.0
+2020,2nd Round,2.0,Utrecht,207,Ajax,194,0.0
+2020,2nd Round,2.0,Almere City FC,419,VVV Venlo,204,0.0
+2020,2nd Round,2.0,VVV Venlo,204,Almere City FC,419,1.0
+2020,2nd Round,2.0,Emmen,208,Groningen,202,1.0
+2020,2nd Round,2.0,Groningen,202,Emmen,208,0.0
+2020,2nd Round,2.0,Willem II,195,Vitesse,200,0.0
+2020,2nd Round,2.0,Vitesse,200,Willem II,195,1.0
+2020,2nd Round,2.0,De Graafschap,199,PSV Eindhoven,197,0.0
+2020,2nd Round,2.0,PSV Eindhoven,197,De Graafschap,199,1.0
+2020,2nd Round,2.0,Cambuur,420,GO Ahead Eagles,410,0.0
+2020,2nd Round,2.0,GO Ahead Eagles,410,Cambuur,420,1.0
+2020,2nd Round,2.0,Excelsior,196,PEC Zwolle,193,1.0
+2020,2nd Round,2.0,PEC Zwolle,193,Excelsior,196,0.0
+2020,Round of 16,3.0,FC Volendam,416,PSV Eindhoven,197,0.0
+2020,Round of 16,3.0,PSV Eindhoven,197,FC Volendam,416,1.0
+2020,Round of 16,3.0,Vitesse,200,ADO Den Haag,198,1.0
+2020,Round of 16,3.0,ADO Den Haag,198,Vitesse,200,0.0
+2020,Round of 16,3.0,AZ Alkmaar,201,Ajax,194,0.0
+2020,Round of 16,3.0,Ajax,194,AZ Alkmaar,201,1.0
+2020,Round of 16,3.0,NEC Nijmegen,413,Fortuna Sittard,205,1.0
+2020,Round of 16,3.0,Fortuna Sittard,205,NEC Nijmegen,413,0.0
+2020,Round of 16,3.0,Feyenoord,209,Heracles,206,1.0
+2020,Round of 16,3.0,Heracles,206,Feyenoord,209,0.0
+2020,Round of 16,3.0,MVV,412,Excelsior,196,0.0
+2020,Round of 16,3.0,Excelsior,196,MVV,412,1.0
+2020,Round of 16,3.0,Emmen,208,Heerenveen,210,0.0
+2020,Round of 16,3.0,Heerenveen,210,Emmen,208,1.0
+2020,Round of 16,3.0,VVV Venlo,204,GO Ahead Eagles,410,1.0
+2020,Round of 16,3.0,GO Ahead Eagles,410,VVV Venlo,204,0.0
+2020,Quarter-finals,4.0,Excelsior,196,Vitesse,200,0.0
+2020,Quarter-finals,4.0,Vitesse,200,Excelsior,196,1.0
+2020,Quarter-finals,4.0,Ajax,194,PSV Eindhoven,197,1.0
+2020,Quarter-finals,4.0,PSV Eindhoven,197,Ajax,194,0.0
+2020,Quarter-finals,4.0,NEC Nijmegen,413,VVV Venlo,204,0.0
+2020,Quarter-finals,4.0,VVV Venlo,204,NEC Nijmegen,413,1.0
+2020,Quarter-finals,4.0,Heerenveen,210,Feyenoord,209,1.0
+2020,Quarter-finals,4.0,Feyenoord,209,Heerenveen,210,0.0
+2020,Semi-finals,5.0,Vitesse,200,VVV Venlo,204,1.0
+2020,Semi-finals,5.0,VVV Venlo,204,Vitesse,200,0.0
+2020,Semi-finals,5.0,Heerenveen,210,Ajax,194,0.0
+2020,Semi-finals,5.0,Ajax,194,Heerenveen,210,1.0
+2020,Final,6.0,Ajax,194,Vitesse,200,1.0
+2020,Final,6.0,Vitesse,200,Ajax,194,0.0
+2021,1st Preliminary Round,,Blauw Geel,1263,FC Lisse,1257,0.0
+2021,1st Preliminary Round,,FC Lisse,1257,Blauw Geel,1263,1.0
+2021,1st Preliminary Round,,Hollandia,14234,ACV,3911,0.0
+2021,1st Preliminary Round,,ACV,3911,Hollandia,14234,1.0
+2021,1st Preliminary Round,,Hsc 21,1281,Excelsior '31,6263,
+2021,1st Preliminary Round,,Excelsior '31,6263,Hsc 21,1281,
+2021,1st Preliminary Round,,Ajax Amateurs,1266,EVV,1286,1.0
+2021,1st Preliminary Round,,EVV,1286,Ajax Amateurs,1266,0.0
+2021,1st Preliminary Round,,JOS Watergraafsmeer,3895,Ter Leede,1279,0.0
+2021,1st Preliminary Round,,Ter Leede,1279,JOS Watergraafsmeer,3895,1.0
+2021,1st Preliminary Round,,DEM,6260,Sparta Nijkerk,1274,
+2021,1st Preliminary Round,,Sparta Nijkerk,1274,DEM,6260,
+2021,2nd Preliminary Round,,Barendrecht,1271,SVV Scheveningen,1250,1.0
+2021,2nd Preliminary Round,,SVV Scheveningen,1250,Barendrecht,1271,0.0
+2021,2nd Preliminary Round,,Hoek,1276,SteDoCo,3905,0.0
+2021,2nd Preliminary Round,,SteDoCo,3905,Hoek,1276,1.0
+2021,2nd Preliminary Round,,Spakenburg,1249,UNA,1284,1.0
+2021,2nd Preliminary Round,,UNA,1284,Spakenburg,1249,0.0
+2021,2nd Preliminary Round,,OFC Oostzaan,1232,Excelsior Maassluis,17129,0.0
+2021,2nd Preliminary Round,,Excelsior Maassluis,17129,OFC Oostzaan,1232,1.0
+2021,2nd Preliminary Round,,GVVV Veenendaal,1261,VVOG,3907,1.0
+2021,2nd Preliminary Round,,VVOG,3907,GVVV Veenendaal,1261,0.0
+2021,2nd Preliminary Round,,Staphorst,1239,Dongen,1285,1.0
+2021,2nd Preliminary Round,,Dongen,1285,Staphorst,1239,0.0
+2021,2nd Preliminary Round,,ASWH,1254,HV & CV Quick,3894,1.0
+2021,2nd Preliminary Round,,HV & CV Quick,3894,ASWH,1254,0.0
+2021,2nd Preliminary Round,,ADO '20,3886,Koninklijke HFC,1246,1.0
+2021,2nd Preliminary Round,,Koninklijke HFC,1246,ADO '20,3886,0.0
+2021,2nd Preliminary Round,,Ajax Amateurs,1266,Vvsb,1251,1.0
+2021,2nd Preliminary Round,,Vvsb,1251,Ajax Amateurs,1266,0.0
+2021,2nd Preliminary Round,,Hercules,1264,ACV,3911,
+2021,2nd Preliminary Round,,ACV,3911,Hercules,1264,
+2021,2nd Preliminary Round,,Achilles Veen,1282,DTS Ede,14229,1.0
+2021,2nd Preliminary Round,,DTS Ede,14229,Achilles Veen,1282,0.0
+2021,2nd Preliminary Round,,Hoogland,6266,Westlandia,1243,0.0
+2021,2nd Preliminary Round,,Westlandia,1243,Hoogland,6266,1.0
+2021,2nd Preliminary Round,,GOES,3892,Dovo,1234,0.0
+2021,2nd Preliminary Round,,Dovo,1234,GOES,3892,1.0
+2021,2nd Preliminary Round,,DVS 33 Ermelo,1244,Noordwijk,1247,
+2021,2nd Preliminary Round,,Noordwijk,1247,DVS 33 Ermelo,1244,
+2021,2nd Preliminary Round,,Kozakken Boys,1242,Groene Ster,1236,1.0
+2021,2nd Preliminary Round,,Groene Ster,1236,Kozakken Boys,1242,0.0
+2021,2nd Preliminary Round,,FC Lisse,1257,AFC Amsterdam,1252,0.0
+2021,2nd Preliminary Round,,AFC Amsterdam,1252,FC Lisse,1257,1.0
+2021,2nd Preliminary Round,,GVV Unitas,14233,Ter Leede,1279,1.0
+2021,2nd Preliminary Round,,Ter Leede,1279,GVV Unitas,14233,0.0
+2021,2nd Preliminary Round,,Gemert,1230,TEC,1255,1.0
+2021,2nd Preliminary Round,,TEC,1255,Gemert,1230,0.0
+2021,2nd Preliminary Round,,Ijsselmeervogels,1280,Sportlust '46,3904,1.0
+2021,2nd Preliminary Round,,Sportlust '46,3904,Ijsselmeervogels,1280,0.0
+2021,2nd Preliminary Round,,Sparta Nijkerk,1274,Sliedrecht,6271,1.0
+2021,2nd Preliminary Round,,Sliedrecht,6271,Sparta Nijkerk,1274,0.0
+2021,2nd Preliminary Round,,Katwijk,1237,Harkemase Boys,1258,0.0
+2021,2nd Preliminary Round,,Harkemase Boys,1258,Katwijk,1237,1.0
+2021,2nd Preliminary Round,,OSS '20,3898,Hsc 21,1281,1.0
+2021,2nd Preliminary Round,,Hsc 21,1281,OSS '20,3898,0.0
+2021,2nd Preliminary Round,,Quick Boys,1272,Rijnsburgse Boys,1248,0.0
+2021,2nd Preliminary Round,,Rijnsburgse Boys,1248,Quick Boys,1272,1.0
+2021,2nd Preliminary Round,,HHC,1278,Capelle,1270,0.0
+2021,2nd Preliminary Round,,Capelle,1270,HHC,1278,1.0
+2021,2nd Preliminary Round,,HSV ODIN 59,1245,De Treffers,1277,0.0
+2021,2nd Preliminary Round,,De Treffers,1277,HSV ODIN 59,1245,1.0
+2021,1st Round,1.0,NAC Breda,203,VVV Venlo,204,1.0
+2021,1st Round,1.0,VVV Venlo,204,NAC Breda,203,0.0
+2021,1st Round,1.0,Waalwijk,417,Willem II,195,1.0
+2021,1st Round,1.0,Willem II,195,Waalwijk,417,0.0
+2021,1st Round,1.0,Ajax Amateurs,1266,Cambuur,420,0.0
+2021,1st Round,1.0,Cambuur,420,Ajax Amateurs,1266,1.0
+2021,1st Round,1.0,Westlandia,1243,Excelsior Maassluis,17129,0.0
+2021,1st Round,1.0,Excelsior Maassluis,17129,Westlandia,1243,1.0
+2021,1st Round,1.0,Kozakken Boys,1242,Telstar,427,0.0
+2021,1st Round,1.0,Telstar,427,Kozakken Boys,1242,1.0
+2021,1st Round,1.0,FC Volendam,416,Emmen,208,0.0
+2021,1st Round,1.0,Emmen,208,FC Volendam,416,1.0
+2021,1st Round,1.0,Almere City FC,419,GO Ahead Eagles,410,0.0
+2021,1st Round,1.0,GO Ahead Eagles,410,Almere City FC,419,1.0
+2021,1st Round,1.0,Sparta Nijkerk,1274,ADO Den Haag,198,0.0
+2021,1st Round,1.0,ADO Den Haag,198,Sparta Nijkerk,1274,1.0
+2021,1st Round,1.0,Harkemase Boys,1258,Dovo,1234,1.0
+2021,1st Round,1.0,Dovo,1234,Harkemase Boys,1258,0.0
+2021,1st Round,1.0,ACV,3911,MVV,412,0.0
+2021,1st Round,1.0,MVV,412,ACV,3911,1.0
+2021,1st Round,1.0,ASWH,1254,Heracles,206,0.0
+2021,1st Round,1.0,Heracles,206,ASWH,1254,1.0
+2021,1st Round,1.0,ADO '20,3886,Barendrecht,1271,0.0
+2021,1st Round,1.0,Barendrecht,1271,ADO '20,3886,1.0
+2021,1st Round,1.0,Capelle,1270,NEC Nijmegen,413,0.0
+2021,1st Round,1.0,NEC Nijmegen,413,Capelle,1270,1.0
+2021,1st Round,1.0,Ijsselmeervogels,1280,Excelsior,196,0.0
+2021,1st Round,1.0,Excelsior,196,Ijsselmeervogels,1280,1.0
+2021,1st Round,1.0,Spakenburg,1249,Dordrecht,409,1.0
+2021,1st Round,1.0,Dordrecht,409,Spakenburg,1249,0.0
+2021,1st Round,1.0,AFC Amsterdam,1252,Heerenveen,210,0.0
+2021,1st Round,1.0,Heerenveen,210,AFC Amsterdam,1252,1.0
+2021,1st Round,1.0,Groningen,202,Helmond Sport,424,1.0
+2021,1st Round,1.0,Helmond Sport,424,Groningen,202,0.0
+2021,1st Round,1.0,OSS '20,3898,Twente,415,0.0
+2021,1st Round,1.0,Twente,415,OSS '20,3898,1.0
+2021,1st Round,1.0,GVVV Veenendaal,1261,Sparta Rotterdam,426,0.0
+2021,1st Round,1.0,Sparta Rotterdam,426,GVVV Veenendaal,1261,1.0
+2021,1st Round,1.0,De Treffers,1277,Rijnsburgse Boys,1248,1.0
+2021,1st Round,1.0,Rijnsburgse Boys,1248,De Treffers,1277,0.0
+2021,1st Round,1.0,Fortuna Sittard,205,FC OSS,423,1.0
+2021,1st Round,1.0,FC OSS,423,Fortuna Sittard,205,0.0
+2021,1st Round,1.0,SteDoCo,3905,Utrecht,207,0.0
+2021,1st Round,1.0,Utrecht,207,SteDoCo,3905,1.0
+2021,1st Round,1.0,PEC Zwolle,193,De Graafschap,199,1.0
+2021,1st Round,1.0,De Graafschap,199,PEC Zwolle,193,0.0
+2021,1st Round,1.0,Roda,414,Den Bosch,421,1.0
+2021,1st Round,1.0,Den Bosch,421,Roda,414,0.0
+2021,1st Round,1.0,Achilles Veen,1282,GVV Unitas,14233,1.0
+2021,1st Round,1.0,GVV Unitas,14233,Achilles Veen,1282,0.0
+2021,1st Round,1.0,Staphorst,1239,Gemert,1230,0.0
+2021,1st Round,1.0,Gemert,1230,Staphorst,1239,1.0
+2021,1st Round,1.0,DVS 33 Ermelo,1244,FC Eindhoven,422,1.0
+2021,1st Round,1.0,FC Eindhoven,422,DVS 33 Ermelo,1244,0.0
+2021,2nd Round,2.0,Cambuur,420,NEC Nijmegen,413,0.0
+2021,2nd Round,2.0,NEC Nijmegen,413,Cambuur,420,1.0
+2021,2nd Round,2.0,Achilles Veen,1282,DVS 33 Ermelo,1244,0.0
+2021,2nd Round,2.0,DVS 33 Ermelo,1244,Achilles Veen,1282,1.0
+2021,2nd Round,2.0,Harkemase Boys,1258,Waalwijk,417,0.0
+2021,2nd Round,2.0,Waalwijk,417,Harkemase Boys,1258,1.0
+2021,2nd Round,2.0,Twente,415,Feyenoord,209,1.0
+2021,2nd Round,2.0,Feyenoord,209,Twente,415,0.0
+2021,2nd Round,2.0,Excelsior,196,Groningen,202,0.0
+2021,2nd Round,2.0,Groningen,202,Excelsior,196,1.0
+2021,2nd Round,2.0,GO Ahead Eagles,410,Roda,414,1.0
+2021,2nd Round,2.0,Roda,414,GO Ahead Eagles,410,0.0
+2021,2nd Round,2.0,Emmen,208,Excelsior Maassluis,17129,0.0
+2021,2nd Round,2.0,Excelsior Maassluis,17129,Emmen,208,1.0
+2021,2nd Round,2.0,PSV Eindhoven,197,Fortuna Sittard,205,1.0
+2021,2nd Round,2.0,Fortuna Sittard,205,PSV Eindhoven,197,0.0
+2021,2nd Round,2.0,AZ Alkmaar,201,Heracles,206,1.0
+2021,2nd Round,2.0,Heracles,206,AZ Alkmaar,201,0.0
+2021,2nd Round,2.0,ADO Den Haag,198,Gemert,1230,1.0
+2021,2nd Round,2.0,Gemert,1230,ADO Den Haag,198,0.0
+2021,2nd Round,2.0,PEC Zwolle,193,MVV,412,1.0
+2021,2nd Round,2.0,MVV,412,PEC Zwolle,193,0.0
+2021,2nd Round,2.0,Ajax,194,Barendrecht,1271,1.0
+2021,2nd Round,2.0,Barendrecht,1271,Ajax,194,0.0
+2021,2nd Round,2.0,Telstar,427,Spakenburg,1249,1.0
+2021,2nd Round,2.0,Spakenburg,1249,Telstar,427,0.0
+2021,2nd Round,2.0,NAC Breda,203,Utrecht,207,1.0
+2021,2nd Round,2.0,Utrecht,207,NAC Breda,203,0.0
+2021,2nd Round,2.0,Vitesse,200,Sparta Rotterdam,426,1.0
+2021,2nd Round,2.0,Sparta Rotterdam,426,Vitesse,200,0.0
+2021,2nd Round,2.0,Heerenveen,210,De Treffers,1277,1.0
+2021,2nd Round,2.0,De Treffers,1277,Heerenveen,210,0.0
+2021,Round of 16,3.0,NAC Breda,203,PEC Zwolle,193,1.0
+2021,Round of 16,3.0,PEC Zwolle,193,NAC Breda,203,0.0
+2021,Round of 16,3.0,Twente,415,AZ Alkmaar,201,0.0
+2021,Round of 16,3.0,AZ Alkmaar,201,Twente,415,1.0
+2021,Round of 16,3.0,Ajax,194,Excelsior Maassluis,17129,1.0
+2021,Round of 16,3.0,Excelsior Maassluis,17129,Ajax,194,0.0
+2021,Round of 16,3.0,Waalwijk,417,ADO Den Haag,198,1.0
+2021,Round of 16,3.0,ADO Den Haag,198,Waalwijk,417,0.0
+2021,Round of 16,3.0,PSV Eindhoven,197,Telstar,427,1.0
+2021,Round of 16,3.0,Telstar,427,PSV Eindhoven,197,0.0
+2021,Round of 16,3.0,Heerenveen,210,GO Ahead Eagles,410,0.0
+2021,Round of 16,3.0,GO Ahead Eagles,410,Heerenveen,210,1.0
+2021,Round of 16,3.0,Vitesse,200,DVS 33 Ermelo,1244,1.0
+2021,Round of 16,3.0,DVS 33 Ermelo,1244,Vitesse,200,0.0
+2021,Round of 16,3.0,Groningen,202,NEC Nijmegen,413,0.0
+2021,Round of 16,3.0,NEC Nijmegen,413,Groningen,202,1.0
+2021,Quarter-finals,4.0,PSV Eindhoven,197,NAC Breda,203,1.0
+2021,Quarter-finals,4.0,NAC Breda,203,PSV Eindhoven,197,0.0
+2021,Quarter-finals,4.0,Waalwijk,417,AZ Alkmaar,201,0.0
+2021,Quarter-finals,4.0,AZ Alkmaar,201,Waalwijk,417,1.0
+2021,Quarter-finals,4.0,Ajax,194,Vitesse,200,1.0
+2021,Quarter-finals,4.0,Vitesse,200,Ajax,194,0.0
+2021,Quarter-finals,4.0,NEC Nijmegen,413,GO Ahead Eagles,410,0.0
+2021,Quarter-finals,4.0,GO Ahead Eagles,410,NEC Nijmegen,413,1.0
+2021,Semi-finals,5.0,AZ Alkmaar,201,Ajax,194,0.0
+2021,Semi-finals,5.0,Ajax,194,AZ Alkmaar,201,1.0
+2021,Semi-finals,5.0,GO Ahead Eagles,410,PSV Eindhoven,197,0.0
+2021,Semi-finals,5.0,PSV Eindhoven,197,GO Ahead Eagles,410,1.0
+2021,Final,6.0,PSV Eindhoven,197,Ajax,194,1.0
+2021,Final,6.0,Ajax,194,PSV Eindhoven,197,0.0
+2022,1st Preliminary Round,,Staphorst,1239,TOGB,19739,1.0
+2022,1st Preliminary Round,,TOGB,19739,Staphorst,1239,0.0
+2022,1st Preliminary Round,,Hercules,1264,Ter Leede,1279,1.0
+2022,1st Preliminary Round,,Ter Leede,1279,Hercules,1264,0.0
+2022,1st Preliminary Round,,JOS Watergraafsmeer,3895,Hoek,1276,0.0
+2022,1st Preliminary Round,,Hoek,1276,JOS Watergraafsmeer,3895,1.0
+2022,1st Preliminary Round,,OJC Rosmalen,1241,Sportlust '46,3904,0.0
+2022,1st Preliminary Round,,Sportlust '46,3904,OJC Rosmalen,1241,1.0
+2022,1st Preliminary Round,,Groene Ster,1236,Barendrecht,1271,1.0
+2022,1st Preliminary Round,,Barendrecht,1271,Groene Ster,1236,0.0
+2022,1st Preliminary Round,,ADO '20,3886,VVOG,3907,1.0
+2022,1st Preliminary Round,,VVOG,3907,ADO '20,3886,0.0
+2022,2nd Preliminary Round,,Dovo,1234,Spakenburg,1249,0.0
+2022,2nd Preliminary Round,,Spakenburg,1249,Dovo,1234,1.0
+2022,2nd Preliminary Round,,Ijsselmeervogels,1280,Hoek,1276,0.0
+2022,2nd Preliminary Round,,Hoek,1276,Ijsselmeervogels,1280,1.0
+2022,2nd Preliminary Round,,FC Lisse,1257,DVS 33 Ermelo,1244,0.0
+2022,2nd Preliminary Round,,DVS 33 Ermelo,1244,FC Lisse,1257,1.0
+2022,2nd Preliminary Round,,Quick Boys,1272,Sportlust '46,3904,0.0
+2022,2nd Preliminary Round,,Sportlust '46,3904,Quick Boys,1272,1.0
+2022,2nd Preliminary Round,,Rijnvogels,1288,ACV,3911,1.0
+2022,2nd Preliminary Round,,ACV,3911,Rijnvogels,1288,0.0
+2022,2nd Preliminary Round,,SVV Scheveningen,1250,Harkemase Boys,1258,
+2022,2nd Preliminary Round,,Harkemase Boys,1258,SVV Scheveningen,1250,
+2022,2nd Preliminary Round,,ASWH,1254,Kozakken Boys,1242,0.0
+2022,2nd Preliminary Round,,Kozakken Boys,1242,ASWH,1254,1.0
+2022,2nd Preliminary Round,,De Treffers,1277,Noordwijk,1247,1.0
+2022,2nd Preliminary Round,,Noordwijk,1247,De Treffers,1277,0.0
+2022,2nd Preliminary Round,,GVVV Veenendaal,1261,Sparta Nijkerk,1274,1.0
+2022,2nd Preliminary Round,,Sparta Nijkerk,1274,GVVV Veenendaal,1261,0.0
+2022,2nd Preliminary Round,,AFC Amsterdam,1252,Staphorst,1239,
+2022,2nd Preliminary Round,,Staphorst,1239,AFC Amsterdam,1252,
+2022,2nd Preliminary Round,,Excelsior Maassluis,17129,Hercules,1264,0.0
+2022,2nd Preliminary Round,,Hercules,1264,Excelsior Maassluis,17129,1.0
+2022,2nd Preliminary Round,,ADO '20,3886,Vvsb,1251,1.0
+2022,2nd Preliminary Round,,Vvsb,1251,ADO '20,3886,0.0
+2022,2nd Preliminary Round,,OFC Oostzaan,1232,UDI '19,3938,1.0
+2022,2nd Preliminary Round,,UDI '19,3938,OFC Oostzaan,1232,0.0
+2022,2nd Preliminary Round,,Blauw Geel,1263,Baronie,14631,1.0
+2022,2nd Preliminary Round,,Baronie,14631,Blauw Geel,1263,0.0
+2022,2nd Preliminary Round,,TEC,1255,UNA,1284,1.0
+2022,2nd Preliminary Round,,UNA,1284,TEC,1255,0.0
+2022,2nd Preliminary Round,,SteDoCo,3905,Dongen,1285,0.0
+2022,2nd Preliminary Round,,Dongen,1285,SteDoCo,3905,1.0
+2022,2nd Preliminary Round,,Gemert,1230,URK,1253,0.0
+2022,2nd Preliminary Round,,URK,1253,Gemert,1230,1.0
+2022,2nd Preliminary Round,,GVV Unitas,14233,DEM,6260,0.0
+2022,2nd Preliminary Round,,DEM,6260,GVV Unitas,14233,1.0
+2022,2nd Preliminary Round,,OSS '20,3898,Excelsior '31,6263,0.0
+2022,2nd Preliminary Round,,Excelsior '31,6263,OSS '20,3898,1.0
+2022,2nd Preliminary Round,,Groene Ster,1236,HV & CV Quick,3894,0.0
+2022,2nd Preliminary Round,,HV & CV Quick,3894,Groene Ster,1236,1.0
+2022,2nd Preliminary Round,,Hsc 21,1281,RKAV Volendam,1238,
+2022,2nd Preliminary Round,,RKAV Volendam,1238,Hsc 21,1281,
+2022,1st Round,1.0,Sportlust '46,3904,Utrecht,207,0.0
+2022,1st Round,1.0,Utrecht,207,Sportlust '46,3904,1.0
+2022,1st Round,1.0,Dordrecht,409,Groningen,202,0.0
+2022,1st Round,1.0,Groningen,202,Dordrecht,409,1.0
+2022,1st Round,1.0,Koninklijke HFC,1246,Telstar,427,0.0
+2022,1st Round,1.0,Telstar,427,Koninklijke HFC,1246,1.0
+2022,1st Round,1.0,RKAV Volendam,1238,HV & CV Quick,3894,0.0
+2022,1st Round,1.0,HV & CV Quick,3894,RKAV Volendam,1238,1.0
+2022,1st Round,1.0,Spakenburg,1249,TEC,1255,1.0
+2022,1st Round,1.0,TEC,1255,Spakenburg,1249,0.0
+2022,1st Round,1.0,HHC,1278,PEC Zwolle,193,0.0
+2022,1st Round,1.0,PEC Zwolle,193,HHC,1278,1.0
+2022,1st Round,1.0,GVVV Veenendaal,1261,Den Bosch,421,0.0
+2022,1st Round,1.0,Den Bosch,421,GVVV Veenendaal,1261,1.0
+2022,1st Round,1.0,De Treffers,1277,Waalwijk,417,1.0
+2022,1st Round,1.0,Waalwijk,417,De Treffers,1277,0.0
+2022,1st Round,1.0,Hercules,1264,NAC Breda,203,0.0
+2022,1st Round,1.0,NAC Breda,203,Hercules,1264,1.0
+2022,1st Round,1.0,Kozakken Boys,1242,Vitesse,200,1.0
+2022,1st Round,1.0,Vitesse,200,Kozakken Boys,1242,0.0
+2022,1st Round,1.0,Rijnsburgse Boys,1248,De Graafschap,199,0.0
+2022,1st Round,1.0,De Graafschap,199,Rijnsburgse Boys,1248,1.0
+2022,1st Round,1.0,Dongen,1285,VVV Venlo,204,0.0
+2022,1st Round,1.0,VVV Venlo,204,Dongen,1285,1.0
+2022,1st Round,1.0,Harkemase Boys,1258,FC Volendam,416,0.0
+2022,1st Round,1.0,FC Volendam,416,Harkemase Boys,1258,1.0
+2022,1st Round,1.0,Hoek,1276,Heerenveen,210,0.0
+2022,1st Round,1.0,Heerenveen,210,Hoek,1276,1.0
+2022,1st Round,1.0,Katwijk,1237,DVS 33 Ermelo,1244,1.0
+2022,1st Round,1.0,DVS 33 Ermelo,1244,Katwijk,1237,0.0
+2022,1st Round,1.0,GO Ahead Eagles,410,Helmond Sport,424,1.0
+2022,1st Round,1.0,Helmond Sport,424,GO Ahead Eagles,410,0.0
+2022,1st Round,1.0,OFC Oostzaan,1232,Sparta Rotterdam,426,0.0
+2022,1st Round,1.0,Sparta Rotterdam,426,OFC Oostzaan,1232,1.0
+2022,1st Round,1.0,ADO '20,3886,Emmen,208,0.0
+2022,1st Round,1.0,Emmen,208,ADO '20,3886,1.0
+2022,1st Round,1.0,Roda,414,Heracles,206,0.0
+2022,1st Round,1.0,Heracles,206,Roda,414,1.0
+2022,1st Round,1.0,Rijnvogels,1288,Cambuur,420,0.0
+2022,1st Round,1.0,Cambuur,420,Rijnvogels,1288,1.0
+2022,1st Round,1.0,Excelsior '31,6263,ADO Den Haag,198,0.0
+2022,1st Round,1.0,ADO Den Haag,198,Excelsior '31,6263,1.0
+2022,1st Round,1.0,DEM,6260,Blauw Geel,1263,0.0
+2022,1st Round,1.0,Blauw Geel,1263,DEM,6260,1.0
+2022,1st Round,1.0,NEC Nijmegen,413,Fortuna Sittard,205,1.0
+2022,1st Round,1.0,Fortuna Sittard,205,NEC Nijmegen,413,0.0
+2022,1st Round,1.0,URK,1253,Staphorst,1239,1.0
+2022,1st Round,1.0,Staphorst,1239,URK,1253,0.0
+2022,1st Round,1.0,Almere City FC,419,FC OSS,423,1.0
+2022,1st Round,1.0,FC OSS,423,Almere City FC,419,0.0
+2022,1st Round,1.0,Excelsior,196,MVV,412,1.0
+2022,1st Round,1.0,MVV,412,Excelsior,196,0.0
+2022,1st Round,1.0,FC Eindhoven,422,Willem II,195,1.0
+2022,1st Round,1.0,Willem II,195,FC Eindhoven,422,0.0
+2022,2nd Round,2.0,Kozakken Boys,1242,ADO Den Haag,198,0.0
+2022,2nd Round,2.0,ADO Den Haag,198,Kozakken Boys,1242,1.0
+2022,2nd Round,2.0,HV & CV Quick,3894,De Graafschap,199,0.0
+2022,2nd Round,2.0,De Graafschap,199,HV & CV Quick,3894,1.0
+2022,2nd Round,2.0,URK,1253,Katwijk,1237,0.0
+2022,2nd Round,2.0,Katwijk,1237,URK,1253,1.0
+2022,2nd Round,2.0,VVV Venlo,204,Emmen,208,0.0
+2022,2nd Round,2.0,Emmen,208,VVV Venlo,204,1.0
+2022,2nd Round,2.0,Blauw Geel,1263,Utrecht,207,0.0
+2022,2nd Round,2.0,Utrecht,207,Blauw Geel,1263,1.0
+2022,2nd Round,2.0,Groningen,202,Spakenburg,1249,0.0
+2022,2nd Round,2.0,Spakenburg,1249,Groningen,202,1.0
+2022,2nd Round,2.0,Almere City FC,419,NEC Nijmegen,413,0.0
+2022,2nd Round,2.0,NEC Nijmegen,413,Almere City FC,419,1.0
+2022,2nd Round,2.0,De Treffers,1277,Cambuur,420,1.0
+2022,2nd Round,2.0,Cambuur,420,De Treffers,1277,0.0
+2022,2nd Round,2.0,Heracles,206,GO Ahead Eagles,410,0.0
+2022,2nd Round,2.0,GO Ahead Eagles,410,Heracles,206,1.0
+2022,2nd Round,2.0,Den Bosch,421,Ajax,194,0.0
+2022,2nd Round,2.0,Ajax,194,Den Bosch,421,1.0
+2022,2nd Round,2.0,Excelsior,196,AZ Alkmaar,201,0.0
+2022,2nd Round,2.0,AZ Alkmaar,201,Excelsior,196,1.0
+2022,2nd Round,2.0,Twente,415,Telstar,427,1.0
+2022,2nd Round,2.0,Telstar,427,Twente,415,0.0
+2022,2nd Round,2.0,NAC Breda,203,FC Eindhoven,422,1.0
+2022,2nd Round,2.0,FC Eindhoven,422,NAC Breda,203,0.0
+2022,2nd Round,2.0,Sparta Rotterdam,426,PSV Eindhoven,197,0.0
+2022,2nd Round,2.0,PSV Eindhoven,197,Sparta Rotterdam,426,1.0
+2022,2nd Round,2.0,Feyenoord,209,PEC Zwolle,193,1.0
+2022,2nd Round,2.0,PEC Zwolle,193,Feyenoord,209,0.0
+2022,2nd Round,2.0,Heerenveen,210,FC Volendam,416,1.0
+2022,2nd Round,2.0,FC Volendam,416,Heerenveen,210,0.0
+2022,Round of 16,3.0,PSV Eindhoven,197,Emmen,208,1.0
+2022,Round of 16,3.0,Emmen,208,PSV Eindhoven,197,0.0
+2022,Round of 16,3.0,NAC Breda,203,Heerenveen,210,0.0
+2022,Round of 16,3.0,Heerenveen,210,NAC Breda,203,1.0
+2022,Round of 16,3.0,Twente,415,Ajax,194,0.0
+2022,Round of 16,3.0,Ajax,194,Twente,415,1.0
+2022,Round of 16,3.0,Feyenoord,209,NEC Nijmegen,413,1.0
+2022,Round of 16,3.0,NEC Nijmegen,413,Feyenoord,209,0.0
+2022,Round of 16,3.0,ADO Den Haag,198,GO Ahead Eagles,410,1.0
+2022,Round of 16,3.0,GO Ahead Eagles,410,ADO Den Haag,198,0.0
+2022,Round of 16,3.0,Spakenburg,1249,Katwijk,1237,1.0
+2022,Round of 16,3.0,Katwijk,1237,Spakenburg,1249,0.0
+2022,Round of 16,3.0,AZ Alkmaar,201,Utrecht,207,0.0
+2022,Round of 16,3.0,Utrecht,207,AZ Alkmaar,201,1.0
+2022,Round of 16,3.0,De Graafschap,199,De Treffers,1277,1.0
+2022,Round of 16,3.0,De Treffers,1277,De Graafschap,199,0.0
+2022,Quarter-finals,4.0,Heerenveen,210,Feyenoord,209,0.0
+2022,Quarter-finals,4.0,Feyenoord,209,Heerenveen,210,1.0
+2022,Quarter-finals,4.0,De Graafschap,199,Ajax,194,0.0
+2022,Quarter-finals,4.0,Ajax,194,De Graafschap,199,1.0
+2022,Quarter-finals,4.0,PSV Eindhoven,197,ADO Den Haag,198,1.0
+2022,Quarter-finals,4.0,ADO Den Haag,198,PSV Eindhoven,197,0.0
+2022,Quarter-finals,4.0,Utrecht,207,Spakenburg,1249,0.0
+2022,Quarter-finals,4.0,Spakenburg,1249,Utrecht,207,1.0
+2022,Semi-finals,5.0,Feyenoord,209,Ajax,194,0.0
+2022,Semi-finals,5.0,Ajax,194,Feyenoord,209,1.0
+2022,Semi-finals,5.0,Spakenburg,1249,PSV Eindhoven,197,0.0
+2022,Semi-finals,5.0,PSV Eindhoven,197,Spakenburg,1249,1.0
+2022,Final,6.0,Ajax,194,PSV Eindhoven,197,0.0
+2022,Final,6.0,PSV Eindhoven,197,Ajax,194,1.0
+2023,1st Preliminary Round,,Blauw Geel,1263,SVOD '22,21642,1.0
+2023,1st Preliminary Round,,SVOD '22,21642,Blauw Geel,1263,0.0
+2023,1st Preliminary Round,,AGB,21633,Olde Veste '54,3919,0.0
+2023,1st Preliminary Round,,Olde Veste '54,3919,AGB,21633,1.0
+2023,1st Preliminary Round,,RKSV Nuenen,3921,Chevremont,3916,1.0
+2023,1st Preliminary Round,,Chevremont,3916,RKSV Nuenen,3921,0.0
+2023,1st Preliminary Round,,DVS 33 Ermelo,1244,URK,1253,1.0
+2023,1st Preliminary Round,,URK,1253,DVS 33 Ermelo,1244,0.0
+2023,1st Preliminary Round,,SJC Noordwijk,3903,Bon Boys,21636,1.0
+2023,1st Preliminary Round,,Bon Boys,21636,SJC Noordwijk,3903,0.0
+2023,1st Preliminary Round,,AWC,14227,Staphorst,1239,0.0
+2023,1st Preliminary Round,,Staphorst,1239,AWC,14227,1.0
+2023,1st Preliminary Round,,Eemdijk,1235,Bunde,21637,1.0
+2023,1st Preliminary Round,,Bunde,21637,Eemdijk,1235,0.0
+2023,1st Preliminary Round,,Zwaluw VFC,21645,VV Scherpenzeel,14241,0.0
+2023,1st Preliminary Round,,VV Scherpenzeel,14241,Zwaluw VFC,21645,1.0
+2023,1st Preliminary Round,,Avanti '31,3926,Meerssen,14508,0.0
+2023,1st Preliminary Round,,Meerssen,14508,Avanti '31,3926,1.0
+2023,1st Preliminary Round,,Jubbega,21640,UNA,1284,0.0
+2023,1st Preliminary Round,,UNA,1284,Jubbega,21640,1.0
+2023,1st Preliminary Round,,Hsc 21,1281,Harkemase Boys,1258,0.0
+2023,1st Preliminary Round,,Harkemase Boys,1258,Hsc 21,1281,1.0
+2023,1st Preliminary Round,,Kampong,21421,Gemert,1230,0.0
+2023,1st Preliminary Round,,Gemert,1230,Kampong,21421,1.0
+2023,1st Preliminary Round,,Kloetinge,3930,BOL,21634,1.0
+2023,1st Preliminary Round,,BOL,21634,Kloetinge,3930,0.0
+2023,1st Preliminary Round,,Sparta Nijkerk,1274,ONS Sneek,1256,1.0
+2023,1st Preliminary Round,,ONS Sneek,1256,Sparta Nijkerk,1274,0.0
+2023,1st Preliminary Round,,Westlandia,1243,HV & CV Quick,3894,1.0
+2023,1st Preliminary Round,,HV & CV Quick,3894,Westlandia,1243,0.0
+2023,1st Preliminary Round,,Nieuwkoop,21641,RKAV Volendam,1238,0.0
+2023,1st Preliminary Round,,RKAV Volendam,1238,Nieuwkoop,21641,1.0
+2023,1st Preliminary Round,,Barendrecht,1271,SC Genemuiden,1273,1.0
+2023,1st Preliminary Round,,SC Genemuiden,1273,Barendrecht,1271,0.0
+2023,1st Preliminary Round,,TEC,1255,Dovo,1234,
+2023,1st Preliminary Round,,Dovo,1234,TEC,1255,
+2023,1st Preliminary Round,,Hoek,1276,SteDoCo,3905,1.0
+2023,1st Preliminary Round,,SteDoCo,3905,Hoek,1276,0.0
+2023,1st Preliminary Round,,Baronie,14631,Hoogeveen,14235,0.0
+2023,1st Preliminary Round,,Hoogeveen,14235,Baronie,14631,1.0
+2023,1st Preliminary Round,,Csv Apeldoorn,1267,HSV ODIN 59,1245,1.0
+2023,1st Preliminary Round,,HSV ODIN 59,1245,Csv Apeldoorn,1267,0.0
+2023,1st Preliminary Round,,GVV Unitas,14233,Blauw Wit '34,21635,1.0
+2023,1st Preliminary Round,,Blauw Wit '34,21635,GVV Unitas,14233,0.0
+2023,1st Preliminary Round,,Purmersteijn,3920,Sportlust '46,3904,0.0
+2023,1st Preliminary Round,,Sportlust '46,3904,Purmersteijn,3920,1.0
+2023,1st Preliminary Round,,Veensche Boys,21643,HVCH,21639,0.0
+2023,1st Preliminary Round,,HVCH,21639,Veensche Boys,21643,1.0
+2023,1st Preliminary Round,,Vvsb,1251,Rijnvogels,1288,
+2023,1st Preliminary Round,,Rijnvogels,1288,Vvsb,1251,
+2023,1st Preliminary Round,,Hercules,1264,Berkum,21509,1.0
+2023,1st Preliminary Round,,Berkum,21509,Hercules,1264,0.0
+2023,1st Preliminary Round,,Ijsselmeervogels,1280,TOGB,19739,1.0
+2023,1st Preliminary Round,,TOGB,19739,Ijsselmeervogels,1280,0.0
+2023,1st Preliminary Round,,DEM,6260,XerxesDZB (Zat),21644,1.0
+2023,1st Preliminary Round,,XerxesDZB (Zat),21644,DEM,6260,0.0
+2023,1st Preliminary Round,,OJC Rosmalen,1241,OSS '20,3898,1.0
+2023,1st Preliminary Round,,OSS '20,3898,OJC Rosmalen,1241,0.0
+2023,1st Preliminary Round,,Groene Ster,1236,Groen Wit '62,21638,1.0
+2023,1st Preliminary Round,,Groen Wit '62,21638,Groene Ster,1236,0.0
+2023,2nd Preliminary Round,,SVV Scheveningen,1250,Hoek,1276,1.0
+2023,2nd Preliminary Round,,Hoek,1276,SVV Scheveningen,1250,0.0
+2023,2nd Preliminary Round,,DVS 33 Ermelo,1244,Ijsselmeervogels,1280,0.0
+2023,2nd Preliminary Round,,Ijsselmeervogels,1280,DVS 33 Ermelo,1244,1.0
+2023,2nd Preliminary Round,,Sparta Nijkerk,1274,GVV Unitas,14233,1.0
+2023,2nd Preliminary Round,,GVV Unitas,14233,Sparta Nijkerk,1274,0.0
+2023,2nd Preliminary Round,,Olde Veste '54,3919,Noordwijk,1247,0.0
+2023,2nd Preliminary Round,,Noordwijk,1247,Olde Veste '54,3919,1.0
+2023,2nd Preliminary Round,,Eemdijk,1235,Harkemase Boys,1258,1.0
+2023,2nd Preliminary Round,,Harkemase Boys,1258,Eemdijk,1235,0.0
+2023,2nd Preliminary Round,,RKSV Nuenen,3921,Excelsior Maassluis,17129,0.0
+2023,2nd Preliminary Round,,Excelsior Maassluis,17129,RKSV Nuenen,3921,1.0
+2023,2nd Preliminary Round,,Groene Ster,1236,Kozakken Boys,1242,1.0
+2023,2nd Preliminary Round,,Kozakken Boys,1242,Groene Ster,1236,0.0
+2023,2nd Preliminary Round,,ADO '20,3886,Quick Boys,1272,0.0
+2023,2nd Preliminary Round,,Quick Boys,1272,ADO '20,3886,1.0
+2023,2nd Preliminary Round,,Csv Apeldoorn,1267,OJC Rosmalen,1241,0.0
+2023,2nd Preliminary Round,,OJC Rosmalen,1241,Csv Apeldoorn,1267,1.0
+2023,2nd Preliminary Round,,TEC,1255,Meerssen,14508,1.0
+2023,2nd Preliminary Round,,Meerssen,14508,TEC,1255,0.0
+2023,2nd Preliminary Round,,SJC Noordwijk,3903,Gemert,1230,1.0
+2023,2nd Preliminary Round,,Gemert,1230,SJC Noordwijk,3903,0.0
+2023,2nd Preliminary Round,,GVVV Veenendaal,1261,Barendrecht,1271,1.0
+2023,2nd Preliminary Round,,Barendrecht,1271,GVVV Veenendaal,1261,0.0
+2023,2nd Preliminary Round,,Vvsb,1251,UNA,1284,0.0
+2023,2nd Preliminary Round,,UNA,1284,Vvsb,1251,1.0
+2023,2nd Preliminary Round,,Hoogeveen,14235,Staphorst,1239,1.0
+2023,2nd Preliminary Round,,Staphorst,1239,Hoogeveen,14235,0.0
+2023,2nd Preliminary Round,,Kloetinge,3930,Koninklijke HFC,1246,0.0
+2023,2nd Preliminary Round,,Koninklijke HFC,1246,Kloetinge,3930,1.0
+2023,2nd Preliminary Round,,Spakenburg,1249,VV Scherpenzeel,14241,1.0
+2023,2nd Preliminary Round,,VV Scherpenzeel,14241,Spakenburg,1249,0.0
+2023,2nd Preliminary Round,,DEM,6260,Sportlust '46,3904,1.0
+2023,2nd Preliminary Round,,Sportlust '46,3904,DEM,6260,0.0
+2023,2nd Preliminary Round,,RKAV Volendam,1238,Westlandia,1243,1.0
+2023,2nd Preliminary Round,,Westlandia,1243,RKAV Volendam,1238,0.0
+2023,2nd Preliminary Round,,FC Lisse,1257,Blauw Geel,1263,1.0
+2023,2nd Preliminary Round,,Blauw Geel,1263,FC Lisse,1257,0.0
+2023,2nd Preliminary Round,,HVCH,21639,De Treffers,1277,0.0
+2023,2nd Preliminary Round,,De Treffers,1277,HVCH,21639,1.0
+2023,2nd Preliminary Round,,ACV,3911,Hercules,1264,0.0
+2023,2nd Preliminary Round,,Hercules,1264,ACV,3911,1.0
+2023,1st Round,1.0,NEC Nijmegen,413,Roda,414,1.0
+2023,1st Round,1.0,Roda,414,NEC Nijmegen,413,0.0
+2023,1st Round,1.0,De Treffers,1277,UNA,1284,1.0
+2023,1st Round,1.0,UNA,1284,De Treffers,1277,0.0
+2023,1st Round,1.0,Rijnsburgse Boys,1248,Groningen,202,0.0
+2023,1st Round,1.0,Groningen,202,Rijnsburgse Boys,1248,1.0
+2023,1st Round,1.0,Den Bosch,421,Excelsior,196,0.0
+2023,1st Round,1.0,Excelsior,196,Den Bosch,421,1.0
+2023,1st Round,1.0,Spakenburg,1249,Helmond Sport,424,1.0
+2023,1st Round,1.0,Helmond Sport,424,Spakenburg,1249,0.0
+2023,1st Round,1.0,Utrecht,207,Waalwijk,417,1.0
+2023,1st Round,1.0,Waalwijk,417,Utrecht,207,0.0
+2023,1st Round,1.0,Koninklijke HFC,1246,GO Ahead Eagles,410,0.0
+2023,1st Round,1.0,GO Ahead Eagles,410,Koninklijke HFC,1246,1.0
+2023,1st Round,1.0,OJC Rosmalen,1241,Almere City FC,419,0.0
+2023,1st Round,1.0,Almere City FC,419,OJC Rosmalen,1241,1.0
+2023,1st Round,1.0,SVV Scheveningen,1250,Hercules,1264,0.0
+2023,1st Round,1.0,Hercules,1264,SVV Scheveningen,1250,1.0
+2023,1st Round,1.0,HHC,1278,Heracles,206,1.0
+2023,1st Round,1.0,Heracles,206,HHC,1278,0.0
+2023,1st Round,1.0,Ijsselmeervogels,1280,Sparta Rotterdam,426,0.0
+2023,1st Round,1.0,Sparta Rotterdam,426,Ijsselmeervogels,1280,1.0
+2023,1st Round,1.0,DEM,6260,Hoogeveen,14235,1.0
+2023,1st Round,1.0,Hoogeveen,14235,DEM,6260,0.0
+2023,1st Round,1.0,Noordwijk,1247,ADO Den Haag,198,0.0
+2023,1st Round,1.0,ADO Den Haag,198,Noordwijk,1247,1.0
+2023,1st Round,1.0,De Graafschap,199,Emmen,208,1.0
+2023,1st Round,1.0,Emmen,208,De Graafschap,199,0.0
+2023,1st Round,1.0,Groene Ster,1236,Vitesse,200,0.0
+2023,1st Round,1.0,Vitesse,200,Groene Ster,1236,1.0
+2023,1st Round,1.0,Excelsior Maassluis,17129,FC Volendam,416,1.0
+2023,1st Round,1.0,FC Volendam,416,Excelsior Maassluis,17129,0.0
+2023,1st Round,1.0,Cambuur,420,MVV,412,1.0
+2023,1st Round,1.0,MVV,412,Cambuur,420,0.0
+2023,1st Round,1.0,FC OSS,423,FC Eindhoven,422,0.0
+2023,1st Round,1.0,FC Eindhoven,422,FC OSS,423,1.0
+2023,1st Round,1.0,Sparta Nijkerk,1274,Fortuna Sittard,205,0.0
+2023,1st Round,1.0,Fortuna Sittard,205,Sparta Nijkerk,1274,1.0
+2023,1st Round,1.0,SJC Noordwijk,3903,Willem II,195,0.0
+2023,1st Round,1.0,Willem II,195,SJC Noordwijk,3903,1.0
+2023,1st Round,1.0,AFC Amsterdam,1252,PEC Zwolle,193,1.0
+2023,1st Round,1.0,PEC Zwolle,193,AFC Amsterdam,1252,0.0
+2023,1st Round,1.0,GVVV Veenendaal,1261,Telstar,427,1.0
+2023,1st Round,1.0,Telstar,427,GVVV Veenendaal,1261,0.0
+2023,1st Round,1.0,Heerenveen,210,VVV Venlo,204,1.0
+2023,1st Round,1.0,VVV Venlo,204,Heerenveen,210,0.0
+2023,1st Round,1.0,Quick Boys,1272,NAC Breda,203,1.0
+2023,1st Round,1.0,NAC Breda,203,Quick Boys,1272,0.0
+2023,1st Round,1.0,RKAV Volendam,1238,Eemdijk,1235,1.0
+2023,1st Round,1.0,Eemdijk,1235,RKAV Volendam,1238,0.0
+2023,1st Round,1.0,FC Lisse,1257,Dordrecht,409,0.0
+2023,1st Round,1.0,Dordrecht,409,FC Lisse,1257,1.0
+2023,1st Round,1.0,Katwijk,1237,TEC,1255,1.0
+2023,1st Round,1.0,TEC,1255,Katwijk,1237,0.0
+2023,2nd Round,2.0,Feyenoord,209,Utrecht,207,1.0
+2023,2nd Round,2.0,Utrecht,207,Feyenoord,209,0.0
+2023,2nd Round,2.0,HHC,1278,AZ Alkmaar,201,0.0
+2023,2nd Round,2.0,AZ Alkmaar,201,HHC,1278,1.0
+2023,2nd Round,2.0,Hercules,1264,Ajax,194,1.0
+2023,2nd Round,2.0,Ajax,194,Hercules,1264,0.0
+2023,2nd Round,2.0,Dordrecht,409,Cambuur,420,0.0
+2023,2nd Round,2.0,Cambuur,420,Dordrecht,409,1.0
+2023,2nd Round,2.0,Quick Boys,1272,De Graafschap,199,1.0
+2023,2nd Round,2.0,De Graafschap,199,Quick Boys,1272,0.0
+2023,2nd Round,2.0,FC Eindhoven,422,Fortuna Sittard,205,0.0
+2023,2nd Round,2.0,Fortuna Sittard,205,FC Eindhoven,422,1.0
+2023,2nd Round,2.0,Spakenburg,1249,Excelsior,196,0.0
+2023,2nd Round,2.0,Excelsior,196,Spakenburg,1249,1.0
+2023,2nd Round,2.0,GVVV Veenendaal,1261,NEC Nijmegen,413,0.0
+2023,2nd Round,2.0,NEC Nijmegen,413,GVVV Veenendaal,1261,1.0
+2023,2nd Round,2.0,Willem II,195,Groningen,202,0.0
+2023,2nd Round,2.0,Groningen,202,Willem II,195,1.0
+2023,2nd Round,2.0,RKAV Volendam,1238,AFC Amsterdam,1252,0.0
+2023,2nd Round,2.0,AFC Amsterdam,1252,RKAV Volendam,1238,1.0
+2023,2nd Round,2.0,GO Ahead Eagles,410,De Treffers,1277,1.0
+2023,2nd Round,2.0,De Treffers,1277,GO Ahead Eagles,410,0.0
+2023,2nd Round,2.0,PSV Eindhoven,197,Twente,415,1.0
+2023,2nd Round,2.0,Twente,415,PSV Eindhoven,197,0.0
+2023,2nd Round,2.0,Katwijk,1237,Almere City FC,419,0.0
+2023,2nd Round,2.0,Almere City FC,419,Katwijk,1237,1.0
+2023,2nd Round,2.0,Vitesse,200,Heerenveen,210,1.0
+2023,2nd Round,2.0,Heerenveen,210,Vitesse,200,0.0
+2023,2nd Round,2.0,ADO Den Haag,198,Sparta Rotterdam,426,1.0
+2023,2nd Round,2.0,Sparta Rotterdam,426,ADO Den Haag,198,0.0
+2023,2nd Round,2.0,DEM,6260,Excelsior Maassluis,17129,0.0
+2023,2nd Round,2.0,Excelsior Maassluis,17129,DEM,6260,1.0
+2023,Round of 16,3.0,Hercules,1264,Cambuur,420,0.0
+2023,Round of 16,3.0,Cambuur,420,Hercules,1264,1.0
+2023,Round of 16,3.0,AZ Alkmaar,201,Quick Boys,1272,1.0
+2023,Round of 16,3.0,Quick Boys,1272,AZ Alkmaar,201,0.0
+2023,Round of 16,3.0,Excelsior Maassluis,17129,ADO Den Haag,198,0.0
+2023,Round of 16,3.0,ADO Den Haag,198,Excelsior Maassluis,17129,1.0
+2023,Round of 16,3.0,Vitesse,200,AFC Amsterdam,1252,1.0
+2023,Round of 16,3.0,AFC Amsterdam,1252,Vitesse,200,0.0
+2023,Round of 16,3.0,NEC Nijmegen,413,GO Ahead Eagles,410,1.0
+2023,Round of 16,3.0,GO Ahead Eagles,410,NEC Nijmegen,413,0.0
+2023,Round of 16,3.0,Almere City FC,419,Fortuna Sittard,205,0.0
+2023,Round of 16,3.0,Fortuna Sittard,205,Almere City FC,419,1.0
+2023,Round of 16,3.0,Excelsior,196,Groningen,202,0.0
+2023,Round of 16,3.0,Groningen,202,Excelsior,196,1.0
+2023,Round of 16,3.0,Feyenoord,209,PSV Eindhoven,197,1.0
+2023,Round of 16,3.0,PSV Eindhoven,197,Feyenoord,209,0.0
+2023,Quarter-finals,4.0,NEC Nijmegen,413,ADO Den Haag,198,1.0
+2023,Quarter-finals,4.0,ADO Den Haag,198,NEC Nijmegen,413,0.0
+2023,Quarter-finals,4.0,Groningen,202,Fortuna Sittard,205,1.0
+2023,Quarter-finals,4.0,Fortuna Sittard,205,Groningen,202,0.0
+2023,Quarter-finals,4.0,Cambuur,420,Vitesse,200,1.0
+2023,Quarter-finals,4.0,Vitesse,200,Cambuur,420,0.0
+2023,Quarter-finals,4.0,Feyenoord,209,AZ Alkmaar,201,1.0
+2023,Quarter-finals,4.0,AZ Alkmaar,201,Feyenoord,209,0.0
+2023,Semi-finals,5.0,Feyenoord,209,Groningen,202,1.0
+2023,Semi-finals,5.0,Groningen,202,Feyenoord,209,0.0
+2023,Semi-finals,5.0,Cambuur,420,NEC Nijmegen,413,0.0
+2023,Semi-finals,5.0,NEC Nijmegen,413,Cambuur,420,1.0
+2023,Final,6.0,Feyenoord,209,NEC Nijmegen,413,
+2023,Final,6.0,NEC Nijmegen,413,Feyenoord,209,

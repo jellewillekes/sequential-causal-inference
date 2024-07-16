@@ -1,0 +1,25 @@
+Netherlands:
+  Eredivisie:
+    id: 88
+    division: 1
+    season_start: 2017
+    season_end: 2023
+    data_types: [ standings, fixtures ]
+  Eerste_Divisie:
+    id: 89
+    division: 2
+    season_start: 2017
+    season_end: 2023
+    data_types: [ standings, fixtures ]
+  Tweede_Divisie:
+    id: 492
+    division: 3
+    season_start: 2017
+    season_end: 2023
+    data_types: [ standings, fixtures ]
+  KNVB_Beker:
+    id: 90
+    division: NaN
+    season_start: 2017
+    season_end: 2023
+    data_types: [ fixtures ]

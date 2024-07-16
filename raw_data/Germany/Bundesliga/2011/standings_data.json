@@ -1,0 +1,839 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "78",
+        "season": "2011"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2011,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 165,
+                                "name": "Borussia Dortmund",
+                                "logo": "https://media.api-sports.io/football/teams/165.png"
+                            },
+                            "points": 81,
+                            "goalsDiff": 55,
+                            "group": "Bundesliga",
+                            "form": "WWWWW",
+                            "status": null,
+                            "description": "UEFA Champions League",
+                            "all": {
+                                "played": 34,
+                                "win": 25,
+                                "draw": 6,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 80,
+                                    "against": 25
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 14,
+                                "draw": 2,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 12
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 13
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 157,
+                                "name": "Bayern Munich",
+                                "logo": "https://media.api-sports.io/football/teams/157.png"
+                            },
+                            "points": 73,
+                            "goalsDiff": 55,
+                            "group": "Bundesliga",
+                            "form": "WWWDL",
+                            "status": null,
+                            "description": "UEFA Champions League",
+                            "all": {
+                                "played": 34,
+                                "win": 23,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 77,
+                                    "against": 22
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 14,
+                                "draw": 1,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 6
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 174,
+                                "name": "FC Schalke 04",
+                                "logo": "https://media.api-sports.io/football/teams/174.png"
+                            },
+                            "points": 64,
+                            "goalsDiff": 30,
+                            "group": "Bundesliga",
+                            "form": "WWDLL",
+                            "status": null,
+                            "description": "UEFA Champions League",
+                            "all": {
+                                "played": 34,
+                                "win": 20,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 74,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 13,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 163,
+                                "name": "Borussia Monchengladbach",
+                                "logo": "https://media.api-sports.io/football/teams/163.png"
+                            },
+                            "points": 60,
+                            "goalsDiff": 25,
+                            "group": "Bundesliga",
+                            "form": "WDLWD",
+                            "status": null,
+                            "description": "UEFA Champions League Qualifiers",
+                            "all": {
+                                "played": 34,
+                                "win": 17,
+                                "draw": 9,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 24
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 10
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 168,
+                                "name": "Bayer Leverkusen",
+                                "logo": "https://media.api-sports.io/football/teams/168.png"
+                            },
+                            "points": 54,
+                            "goalsDiff": 8,
+                            "group": "Bundesliga",
+                            "form": "WWWDW",
+                            "status": null,
+                            "description": "UEFA Europa League",
+                            "all": {
+                                "played": 34,
+                                "win": 15,
+                                "draw": 9,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 52,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 172,
+                                "name": "VfB Stuttgart",
+                                "logo": "https://media.api-sports.io/football/teams/172.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": 17,
+                            "group": "Bundesliga",
+                            "form": "WLDWW",
+                            "status": null,
+                            "description": "UEFA Europa League",
+                            "all": {
+                                "played": 34,
+                                "win": 15,
+                                "draw": 8,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 63,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 166,
+                                "name": "Hannover 96",
+                                "logo": "https://media.api-sports.io/football/teams/166.png"
+                            },
+                            "points": 48,
+                            "goalsDiff": -4,
+                            "group": "Bundesliga",
+                            "form": "WLDLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 12,
+                                "draw": 12,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 7,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 161,
+                                "name": "VfL Wolfsburg",
+                                "logo": "https://media.api-sports.io/football/teams/161.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -13,
+                            "group": "Bundesliga",
+                            "form": "LWDLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 13,
+                                "draw": 5,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 38
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 162,
+                                "name": "Werder Bremen",
+                                "logo": "https://media.api-sports.io/football/teams/162.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": -9,
+                            "group": "Bundesliga",
+                            "form": "LLLLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 11,
+                                "draw": 9,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 58
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 35
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 171,
+                                "name": "FC Nurnberg",
+                                "logo": "https://media.api-sports.io/football/teams/171.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": -11,
+                            "group": "Bundesliga",
+                            "form": "LWDWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 12,
+                                "draw": 6,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 167,
+                                "name": "1899 Hoffenheim",
+                                "logo": "https://media.api-sports.io/football/teams/167.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -6,
+                            "group": "Bundesliga",
+                            "form": "LLLDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 11,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 9,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 160,
+                                "name": "SC Freiburg",
+                                "logo": "https://media.api-sports.io/football/teams/160.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -16,
+                            "group": "Bundesliga",
+                            "form": "LWDDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 10,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 61
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 41
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 164,
+                                "name": "FSV Mainz 05",
+                                "logo": "https://media.api-sports.io/football/teams/164.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": -4,
+                            "group": "Bundesliga",
+                            "form": "LDDDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 9,
+                                "draw": 12,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 9,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 170,
+                                "name": "FC Augsburg",
+                                "logo": "https://media.api-sports.io/football/teams/170.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": -13,
+                            "group": "Bundesliga",
+                            "form": "WDDWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 8,
+                                "draw": 14,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 7,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 175,
+                                "name": "Hamburger SV",
+                                "logo": "https://media.api-sports.io/football/teams/175.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -22,
+                            "group": "Bundesliga",
+                            "form": "LDDWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 8,
+                                "draw": 12,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 57
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 159,
+                                "name": "Hertha Berlin",
+                                "logo": "https://media.api-sports.io/football/teams/159.png"
+                            },
+                            "points": 31,
+                            "goalsDiff": -26,
+                            "group": "Bundesliga",
+                            "form": "WLLDL",
+                            "status": null,
+                            "description": "Relegation Play-off",
+                            "all": {
+                                "played": 34,
+                                "win": 7,
+                                "draw": 10,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 64
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 35
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 192,
+                                "name": "FC Koln",
+                                "logo": "https://media.api-sports.io/football/teams/192.png"
+                            },
+                            "points": 30,
+                            "goalsDiff": -36,
+                            "group": "Bundesliga",
+                            "form": "LLDLL",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 34,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 75
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 29
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 46
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 745,
+                                "name": "FC Kaiserslautern",
+                                "logo": "https://media.api-sports.io/football/teams/745.png"
+                            },
+                            "points": 23,
+                            "goalsDiff": -30,
+                            "group": "Bundesliga",
+                            "form": "LLWLL",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 34,
+                                "win": 4,
+                                "draw": 11,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 28
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

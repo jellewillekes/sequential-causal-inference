@@ -1,4 +1,36 @@
-Premier League: 39
-Championship: 40
-League One: 41
-League Two: 42
+England:
+  Premier_League:
+    id: 39
+    division: 1
+    season_start: 2011
+    season_end: 2023
+    data_types: [standings, fixtures]
+  Championship:
+    id: 40
+    division: 2
+    season_start: 2011
+    season_end: 2023
+    data_types: [standings, fixtures]
+  League_One:
+    id: 41
+    division: 3
+    season_start: 2011
+    season_end: 2023
+    data_types: [standings, fixtures]
+  League_Two:
+    id: 42
+    division: 4
+    season_start: 2011
+    season_end: 2023
+    data_types: [standings, fixtures]
+  FA_Cup:
+    id: 45
+    season_start: 2011
+    season_end: 2023
+    data_types: [fixtures]
+  League_Cup:
+    id: 48
+    season_start: 2011
+    season_end: 2023
+    data_types: [fixtures]
+

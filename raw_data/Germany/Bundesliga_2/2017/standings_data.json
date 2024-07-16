@@ -1,0 +1,839 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "79",
+        "season": "2017"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 79,
+                "name": "2. Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/79.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 158,
+                                "name": "Fortuna Dusseldorf",
+                                "logo": "https://media.api-sports.io/football/teams/158.png"
+                            },
+                            "points": 43,
+                            "goalsDiff": 9,
+                            "group": "2. Bundesliga",
+                            "form": "LWWWW",
+                            "status": null,
+                            "description": "Promotion",
+                            "all": {
+                                "played": 22,
+                                "win": 13,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 25
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 12
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 171,
+                                "name": "FC Nurnberg",
+                                "logo": "https://media.api-sports.io/football/teams/171.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": 17,
+                            "group": "2. Bundesliga",
+                            "form": "DWWDD",
+                            "status": null,
+                            "description": "Promotion",
+                            "all": {
+                                "played": 22,
+                                "win": 12,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 26
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 12
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 191,
+                                "name": "Holstein Kiel",
+                                "logo": "https://media.api-sports.io/football/teams/191.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": 12,
+                            "group": "2. Bundesliga",
+                            "form": "LDDDL",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 22,
+                                "win": 9,
+                                "draw": 9,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 29
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 187,
+                                "name": "MSV Duisburg",
+                                "logo": "https://media.api-sports.io/football/teams/187.png"
+                            },
+                            "points": 34,
+                            "goalsDiff": 2,
+                            "group": "2. Bundesliga",
+                            "form": "DWDWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 32
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 184,
+                                "name": "FC Ingolstadt 04",
+                                "logo": "https://media.api-sports.io/football/teams/184.png"
+                            },
+                            "points": 33,
+                            "goalsDiff": 9,
+                            "group": "2. Bundesliga",
+                            "form": "DWLDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 9,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 23
+                                }
+                            },
+                            "home": {
+                                "played": 10,
+                                "win": 4,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 12
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 177,
+                                "name": "Jahn Regensburg",
+                                "logo": "https://media.api-sports.io/football/teams/177.png"
+                            },
+                            "points": 33,
+                            "goalsDiff": 5,
+                            "group": "2. Bundesliga",
+                            "form": "WDWDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 30
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 7,
+                                "draw": 0,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 10,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 189,
+                                "name": "SV Sandhausen",
+                                "logo": "https://media.api-sports.io/football/teams/189.png"
+                            },
+                            "points": 32,
+                            "goalsDiff": 6,
+                            "group": "2. Bundesliga",
+                            "form": "DLWDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 19
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 8
+                                }
+                            },
+                            "away": {
+                                "played": 10,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 11
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 182,
+                                "name": "Union Berlin",
+                                "logo": "https://media.api-sports.io/football/teams/182.png"
+                            },
+                            "points": 31,
+                            "goalsDiff": 8,
+                            "group": "2. Bundesliga",
+                            "form": "WDLDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 31
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 17
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 188,
+                                "name": "Arminia Bielefeld",
+                                "logo": "https://media.api-sports.io/football/teams/188.png"
+                            },
+                            "points": 31,
+                            "goalsDiff": 2,
+                            "group": "2. Bundesliga",
+                            "form": "DDWDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 32
+                                }
+                            },
+                            "home": {
+                                "played": 10,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 180,
+                                "name": "FC Heidenheim",
+                                "logo": "https://media.api-sports.io/football/teams/180.png"
+                            },
+                            "points": 29,
+                            "goalsDiff": -6,
+                            "group": "2. Bundesliga",
+                            "form": "LWDWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 39
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 6,
+                                "draw": 1,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 186,
+                                "name": "FC St. Pauli",
+                                "logo": "https://media.api-sports.io/football/teams/186.png"
+                            },
+                            "points": 28,
+                            "goalsDiff": -12,
+                            "group": "2. Bundesliga",
+                            "form": "DLLWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 5,
+                                "draw": 1,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 744,
+                                "name": "Eintracht Braunschweig",
+                                "logo": "https://media.api-sports.io/football/teams/744.png"
+                            },
+                            "points": 26,
+                            "goalsDiff": 2,
+                            "group": "2. Bundesliga",
+                            "form": "DLWLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 5,
+                                "draw": 11,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 24
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 12
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 2,
+                                "draw": 7,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 12
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 183,
+                                "name": "Dynamo Dresden",
+                                "logo": "https://media.api-sports.io/football/teams/183.png"
+                            },
+                            "points": 26,
+                            "goalsDiff": -4,
+                            "group": "2. Bundesliga",
+                            "form": "LWLLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 33
+                                }
+                            },
+                            "home": {
+                                "played": 10,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 12,
+                                "win": 4,
+                                "draw": 2,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 176,
+                                "name": "VfL BOCHUM",
+                                "logo": "https://media.api-sports.io/football/teams/176.png"
+                            },
+                            "points": 26,
+                            "goalsDiff": -7,
+                            "group": "2. Bundesliga",
+                            "form": "WLLLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 27
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 5,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 7,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 190,
+                                "name": "Erzgebirge AUE",
+                                "logo": "https://media.api-sports.io/football/teams/190.png"
+                            },
+                            "points": 24,
+                            "goalsDiff": -13,
+                            "group": "2. Bundesliga",
+                            "form": "DLLLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 22,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 10,
+                                "win": 2,
+                                "draw": 2,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 178,
+                                "name": "SpVgg Greuther Furth",
+                                "logo": "https://media.api-sports.io/football/teams/178.png"
+                            },
+                            "points": 23,
+                            "goalsDiff": -11,
+                            "group": "2. Bundesliga",
+                            "form": "WLDDD",
+                            "status": null,
+                            "description": "Relegation Play-off",
+                            "all": {
+                                "played": 22,
+                                "win": 6,
+                                "draw": 5,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 33
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 10
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 0,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 6,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 181,
+                                "name": "SV Darmstadt 98",
+                                "logo": "https://media.api-sports.io/football/teams/181.png"
+                            },
+                            "points": 22,
+                            "goalsDiff": -4,
+                            "group": "2. Bundesliga",
+                            "form": "LLWDL",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 21,
+                                "win": 5,
+                                "draw": 7,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 10,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 11,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 17
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 745,
+                                "name": "FC Kaiserslautern",
+                                "logo": "https://media.api-sports.io/football/teams/745.png"
+                            },
+                            "points": 18,
+                            "goalsDiff": -15,
+                            "group": "2. Bundesliga",
+                            "form": "WWLDD",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 21,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 35
+                                }
+                            },
+                            "home": {
+                                "played": 11,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 10,
+                                "win": 2,
+                                "draw": 1,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

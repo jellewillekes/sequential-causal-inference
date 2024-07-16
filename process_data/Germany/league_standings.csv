@@ -1,0 +1,747 @@
+League,Division,Year,Position,Team,Team_id,Points,Form,Played,Win,Draw,Lose,GoalsDiff,GoalsFor,GoalsAgainst,NationalRank
+Bundesliga,1,2010,1,Borussia Dortmund,165,75,WLWLW,34,23,6,5,45,67,22,1
+Bundesliga,1,2010,2,Bayer Leverkusen,168,68,WDLWL,34,20,8,6,20,64,44,2
+Bundesliga,1,2010,3,Bayern Munich,157,65,WWWDW,34,19,8,7,41,81,40,3
+Bundesliga,1,2010,4,Hannover 96,166,60,WLLWD,34,19,3,12,4,49,45,4
+Bundesliga,1,2010,5,FSV Mainz 05,164,58,WWWDW,34,18,4,12,13,52,39,5
+Bundesliga,1,2010,6,FC Nurnberg,171,47,LLLDW,34,13,8,13,2,47,45,6
+Bundesliga,1,2010,7,FC Kaiserslautern,745,46,WWWWL,34,13,7,14,-3,48,51,7
+Bundesliga,1,2010,8,Hamburger SV,175,45,DDLLD,34,12,9,13,-6,46,52,8
+Bundesliga,1,2010,9,SC Freiburg,160,44,LLWLL,34,13,5,16,-9,41,50,9
+Bundesliga,1,2010,10,FC Koln,192,44,WWWLL,34,13,5,16,-15,47,62,10
+Bundesliga,1,2010,11,1899 Hoffenheim,167,43,LWLLW,34,11,10,13,0,50,50,11
+Bundesliga,1,2010,12,VfB Stuttgart,172,42,LWWWW,34,12,6,16,1,60,59,12
+Bundesliga,1,2010,13,Werder Bremen,162,41,LWLWD,34,10,11,13,-14,47,61,13
+Bundesliga,1,2010,14,FC Schalke 04,174,40,LLLLD,34,11,7,16,-6,38,44,14
+Bundesliga,1,2010,15,VfL Wolfsburg,161,38,WLWWD,34,9,11,14,-5,43,48,15
+Bundesliga,1,2010,16,Borussia Monchengladbach,163,36,DWWWL,34,10,6,18,-17,48,65,16
+Bundesliga,1,2010,17,Eintracht Frankfurt,169,34,LLLDL,34,9,7,18,-18,31,49,17
+Bundesliga,1,2010,18,FC St. Pauli,186,29,LLLLD,34,8,5,21,-33,35,68,18
+Bundesliga,1,2011,1,Borussia Dortmund,165,81,WWWWW,34,25,6,3,55,80,25,1
+Bundesliga,1,2011,2,Bayern Munich,157,73,WWWDL,34,23,4,7,55,77,22,2
+Bundesliga,1,2011,3,FC Schalke 04,174,64,WWDLL,34,20,4,10,30,74,44,3
+Bundesliga,1,2011,4,Borussia Monchengladbach,163,60,WDLWD,34,17,9,8,25,49,24,4
+Bundesliga,1,2011,5,Bayer Leverkusen,168,54,WWWDW,34,15,9,10,8,52,44,5
+Bundesliga,1,2011,6,VfB Stuttgart,172,53,WLDWW,34,15,8,11,17,63,46,6
+Bundesliga,1,2011,7,Hannover 96,166,48,WLDLW,34,12,12,10,-4,41,45,7
+Bundesliga,1,2011,8,VfL Wolfsburg,161,44,LWDLL,34,13,5,16,-13,47,60,8
+Bundesliga,1,2011,9,Werder Bremen,162,42,LLLLD,34,11,9,14,-9,49,58,9
+Bundesliga,1,2011,10,FC Nurnberg,171,42,LWDWW,34,12,6,16,-11,38,49,10
+Bundesliga,1,2011,11,1899 Hoffenheim,167,41,LLLDW,34,10,11,13,-6,41,47,11
+Bundesliga,1,2011,12,SC Freiburg,160,40,LWDDW,34,10,10,14,-16,45,61,12
+Bundesliga,1,2011,13,FSV Mainz 05,164,39,LDDDW,34,9,12,13,-4,47,51,13
+Bundesliga,1,2011,14,FC Augsburg,170,38,WDDWL,34,8,14,12,-13,36,49,14
+Bundesliga,1,2011,15,Hamburger SV,175,36,LDDWL,34,8,12,14,-22,35,57,15
+Bundesliga,1,2011,16,Hertha Berlin,159,31,WLLDL,34,7,10,17,-26,38,64,16
+Bundesliga,1,2011,17,FC Koln,192,30,LLDLL,34,8,6,20,-36,39,75,17
+Bundesliga,1,2011,18,FC Kaiserslautern,745,23,LLWLL,34,4,11,19,-30,24,54,18
+Bundesliga_2,2,2011,1,SpVgg Greuther Furth,178,70,DDDWD,34,20,10,4,46,73,27,19
+Bundesliga_2,2,2011,2,Eintracht Frankfurt,169,68,LLWWD,34,20,8,6,43,76,33,20
+Bundesliga_2,2,2011,3,Fortuna Dusseldorf,158,62,DDWLW,34,16,14,4,29,64,35,21
+Bundesliga_2,2,2011,4,FC St. Pauli,186,62,WLWLW,34,18,8,8,25,59,34,22
+Bundesliga_2,2,2011,5,SC Paderborn 07,185,61,LWLWW,34,17,10,7,9,51,42,23
+Bundesliga_2,2,2011,6,TSV 1860 Munich,786,57,LWWDW,34,17,6,11,16,62,46,24
+Bundesliga_2,2,2011,7,Union Berlin,182,48,LWLWL,34,14,6,14,-3,55,58,25
+Bundesliga_2,2,2011,8,Eintracht Braunschweig,744,45,WLDLD,34,10,15,9,2,37,35,26
+Bundesliga_2,2,2011,9,Dynamo Dresden,183,45,DWDWL,34,12,9,13,-2,50,52,27
+Bundesliga_2,2,2011,10,MSV Duisburg,187,39,DWDWL,34,10,9,15,-5,42,47,28
+Bundesliga_2,2,2011,11,VfL BOCHUM,176,37,LWDDL,34,10,7,17,-14,41,55,29
+Bundesliga_2,2,2011,12,FC Ingolstadt 04,184,37,LWLWD,34,8,13,13,-15,43,58,30
+Bundesliga_2,2,2011,13,FSV Frankfurt,1332,35,DLDWL,34,7,14,13,-16,43,59,31
+Bundesliga_2,2,2011,14,Energie Cottbus,1320,35,WLDLL,34,8,11,15,-19,30,49,32
+Bundesliga_2,2,2011,15,Erzgebirge AUE,190,35,WLDLL,34,8,11,15,-24,31,55,33
+Bundesliga_2,2,2011,16,Karlsruher SC,785,33,WLWLW,34,9,6,19,-26,34,60,34
+Bundesliga_2,2,2011,17,Alemannia Aachen,4259,31,WWLLW,34,6,13,15,-17,30,47,35
+Bundesliga_2,2,2011,18,Hansa Rostock,1321,27,DLLLW,34,5,12,17,-29,34,63,36
+Bundesliga_3,3,2011,1,SV Sandhausen,189,66,LLWWL,38,19,9,10,15,57,42,37
+Bundesliga_3,3,2011,2,VfR Aalen,1327,64,LDWLW,38,18,10,10,8,50,42,38
+Bundesliga_3,3,2011,3,Jahn Regensburg,177,61,DWWWL,38,16,13,9,14,55,41,39
+Bundesliga_3,3,2011,4,FC Heidenheim,180,60,WWDDL,38,16,12,10,12,48,36,40
+Bundesliga_3,3,2011,5,Rot-weiss Erfurt,1329,59,WWWLW,38,15,14,9,13,54,41,41
+Bundesliga_3,3,2011,6,Wacker Burghausen,9337,57,WLLDW,38,13,18,7,8,55,47,42
+Bundesliga_3,3,2011,7,VfL Osnabruck,1324,55,WWLWW,38,14,13,11,11,46,35,43
+Bundesliga_3,3,2011,8,Kickers Offenbach,1628,55,LLWWW,38,15,10,13,8,49,41,44
+Bundesliga_3,3,2011,9,Chemnitzer FC,1328,55,LLLDL,38,15,10,13,4,47,43,45
+Bundesliga_3,3,2011,10,FC Saarbrucken,1639,54,WWDLW,38,13,15,10,10,61,51,46
+Bundesliga_3,3,2011,11,Stuttgart II,12867,50,DDWLW,38,12,14,12,-3,44,47,47
+Bundesliga_3,3,2011,12,Preussen Munster,1313,50,WLLWL,38,12,14,12,-4,40,44,48
+Bundesliga_3,3,2011,13,Arminia Bielefeld,188,50,WLWWW,38,12,14,12,-6,51,57,49
+Bundesliga_3,3,2011,14,SV Darmstadt 98,181,49,DWWLD,38,12,13,13,4,51,47,50
+Bundesliga_3,3,2011,15,SpVgg Unterhaching,1314,44,LWLLD,38,12,8,18,4,63,59,51
+Bundesliga_3,3,2011,16,SV Wehen,1319,44,DLWDD,38,10,14,14,-8,40,48,52
+Bundesliga_3,3,2011,17,SV Babelsberg 03,1622,44,DWLWL,38,11,11,16,-15,44,59,53
+Bundesliga_3,3,2011,18,Carl Zeiss Jena,1325,39,DWLWL,38,9,12,17,-20,39,59,54
+Bundesliga_3,3,2011,19,Rot-weiss Oberhausen,1658,38,LLLLD,38,8,14,16,-14,33,47,55
+Bundesliga_3,3,2011,20,Werder Bremen II,1330,22,LLLLL,38,4,10,24,-41,29,70,56
+Bundesliga,1,2012,1,Bayern Munich,157,91,WWDWW,34,29,4,1,80,98,18,1
+Bundesliga,1,2012,2,Borussia Dortmund,165,66,LDDWW,34,19,9,6,39,81,42,2
+Bundesliga,1,2012,3,Bayer Leverkusen,168,65,WWWWW,34,19,8,7,26,65,39,3
+Bundesliga,1,2012,4,FC Schalke 04,174,55,WLWWL,34,16,7,11,8,58,50,4
+Bundesliga,1,2012,5,SC Freiburg,160,51,LWWLL,34,14,9,11,5,45,40,5
+Bundesliga,1,2012,6,Eintracht Frankfurt,169,51,DDWDW,34,14,9,11,3,49,46,6
+Bundesliga,1,2012,7,Hamburger SV,175,48,LWDLW,34,14,6,14,-11,42,53,7
+Bundesliga,1,2012,8,Borussia Monchengladbach,163,47,LWLLW,34,12,11,11,-4,45,49,8
+Bundesliga,1,2012,9,Hannover 96,166,45,WLDWL,34,13,6,15,-2,60,62,9
+Bundesliga,1,2012,10,FC Nurnberg,171,44,WWLLL,34,11,11,12,-8,39,47,10
+Bundesliga,1,2012,11,VfL Wolfsburg,161,43,DDDWW,34,10,13,11,-5,47,52,11
+Bundesliga,1,2012,12,VfB Stuttgart,172,43,DWLLW,34,12,7,15,-18,37,55,12
+Bundesliga,1,2012,13,FSV Mainz 05,164,42,DLDDL,34,10,12,12,-2,42,44,13
+Bundesliga,1,2012,14,Werder Bremen,162,34,LDDLL,34,8,10,16,-16,50,66,14
+Bundesliga,1,2012,15,FC Augsburg,170,33,WLLWL,34,8,9,17,-18,33,51,15
+Bundesliga,1,2012,16,1899 Hoffenheim,167,31,WLDWL,34,8,7,19,-25,42,67,16
+Bundesliga,1,2012,17,Fortuna Dusseldorf,158,30,LLLLL,34,7,9,18,-18,39,57,17
+Bundesliga,1,2012,18,SpVgg Greuther Furth,178,21,LLWLW,34,4,9,21,-34,26,60,18
+Bundesliga_2,2,2012,1,Hertha Berlin,159,76,DWWWW,34,22,10,2,37,65,28,19
+Bundesliga_2,2,2012,2,Eintracht Braunschweig,744,67,DLDWD,34,19,10,5,18,52,34,20
+Bundesliga_2,2,2012,3,FC Kaiserslautern,745,58,LWWLW,34,15,13,6,22,55,33,21
+Bundesliga_2,2,2012,4,FSV Frankfurt,1332,54,DWLWW,34,16,6,12,10,55,45,22
+Bundesliga_2,2,2012,5,FC Koln,192,54,WLLDD,34,14,12,8,10,43,33,23
+Bundesliga_2,2,2012,6,TSV 1860 Munich,786,49,WLWDL,34,12,13,9,8,39,31,24
+Bundesliga_2,2,2012,7,Union Berlin,182,49,WWLWL,34,13,10,11,1,50,49,25
+Bundesliga_2,2,2012,8,Energie Cottbus,1320,48,DWDWL,34,12,12,10,5,41,36,26
+Bundesliga_2,2,2012,9,VfR Aalen,1327,46,LWWDW,34,12,10,12,1,40,39,27
+Bundesliga_2,2,2012,10,FC St. Pauli,186,43,WWDLL,34,11,10,13,-3,44,47,28
+Bundesliga_2,2,2012,11,MSV Duisburg,187,43,WLDDD,34,11,10,13,-12,37,49,29
+Bundesliga_2,2,2012,12,SC Paderborn 07,185,42,LWLDL,34,11,9,14,0,45,45,30
+Bundesliga_2,2,2012,13,FC Ingolstadt 04,184,42,LWLLW,34,10,12,12,-7,36,43,31
+Bundesliga_2,2,2012,14,VfL BOCHUM,176,38,LLWWW,34,10,8,16,-12,40,52,32
+Bundesliga_2,2,2012,15,Erzgebirge AUE,190,37,WLLDD,34,9,10,15,-7,39,46,33
+Bundesliga_2,2,2012,16,Dynamo Dresden,183,37,WLWLW,34,9,10,15,-14,35,49,34
+Bundesliga_2,2,2012,17,SV Sandhausen,189,26,LLWLL,34,6,8,20,-28,38,66,35
+Bundesliga_2,2,2012,18,Jahn Regensburg,177,19,LLLLL,34,4,7,23,-29,36,65,36
+Bundesliga_3,3,2012,1,Karlsruher SC,785,79,WDWWL,38,23,10,5,42,69,27,37
+Bundesliga_3,3,2012,2,Arminia Bielefeld,188,76,LWWWL,38,22,10,6,27,59,32,38
+Bundesliga_3,3,2012,3,VfL Osnabruck,1324,73,WLWWW,38,22,7,9,29,64,35,39
+Bundesliga_3,3,2012,4,Preussen Munster,1313,72,WLLDW,38,20,12,6,30,63,33,40
+Bundesliga_3,3,2012,5,FC Heidenheim,180,72,DWDWW,38,21,9,8,22,69,47,41
+Bundesliga_3,3,2012,6,Chemnitzer FC,1328,55,WDLLW,38,15,10,13,9,56,47,42
+Bundesliga_3,3,2012,7,SV Wehen,1319,51,LLWWW,38,11,18,9,0,51,51,43
+Bundesliga_3,3,2012,8,Wacker Burghausen,9337,51,WWLWD,38,14,9,15,0,45,45,44
+Bundesliga_3,3,2012,9,SpVgg Unterhaching,1314,51,LWLLD,38,14,9,15,-7,48,55,45
+Bundesliga_3,3,2012,10,Hallescher FC,1316,46,WDWLL,38,12,10,16,-13,37,50,46
+Bundesliga_3,3,2012,11,FC Saarbrucken,1639,45,LLLDW,38,12,9,17,-10,52,62,47
+Bundesliga_3,3,2012,12,Hansa Rostock,1321,44,DDDDW,38,11,11,16,-13,39,52,48
+Bundesliga_3,3,2012,13,Rot-weiss Erfurt,1329,44,DLLWD,38,11,11,16,-14,44,58,49
+Bundesliga_3,3,2012,14,Stuttgart II,12867,43,LLLLD,38,11,10,17,-7,35,42,50
+Bundesliga_3,3,2012,15,Kickers Offenbach,1628,42,DWDLL,38,11,11,16,-3,41,44,51
+Bundesliga_3,3,2012,16,Borussia Dortmund II,9367,41,WDWDD,38,9,14,15,-19,39,58,52
+Bundesliga_3,3,2012,17,Stuttgarter Kickers,12868,40,DDWWD,38,10,10,18,-9,39,48,53
+Bundesliga_3,3,2012,18,SV Darmstadt 98,181,38,DWLWL,38,8,14,16,-14,32,46,54
+Bundesliga_3,3,2012,19,SV Babelsberg 03,1622,37,LLWDL,38,9,10,19,-22,32,54,55
+Bundesliga_3,3,2012,20,Alemannia Aachen,4259,26,LWLLL,38,7,10,21,-28,40,68,56
+Bundesliga,1,2013,1,Bayern Munich,157,90,WWWWL,34,29,3,2,71,94,23,1
+Bundesliga,1,2013,2,Borussia Dortmund,165,71,WWDWW,34,22,5,7,42,80,38,2
+Bundesliga,1,2013,3,FC Schalke 04,174,64,WWLLW,34,19,7,8,20,63,43,3
+Bundesliga,1,2013,4,Bayer Leverkusen,168,61,WWDWW,34,19,4,11,19,60,41,4
+Bundesliga,1,2013,5,VfL Wolfsburg,161,60,WWDWW,34,18,6,10,13,63,50,5
+Bundesliga,1,2013,6,Borussia Monchengladbach,163,55,LWWLD,34,16,7,11,16,59,43,6
+Bundesliga,1,2013,7,FSV Mainz 05,164,53,WLWLW,34,16,5,13,-2,52,54,7
+Bundesliga,1,2013,8,FC Augsburg,170,52,WWWDL,34,15,7,12,0,47,47,8
+Bundesliga,1,2013,9,1899 Hoffenheim,167,44,WLDLW,34,11,11,12,2,72,70,9
+Bundesliga,1,2013,10,Hannover 96,166,42,WWDWW,34,12,6,16,-13,46,59,10
+Bundesliga,1,2013,11,Hertha Berlin,159,41,LLWDL,34,11,8,15,-8,40,48,11
+Bundesliga,1,2013,12,Werder Bremen,162,39,LWLWL,34,10,9,15,-24,42,66,12
+Bundesliga,1,2013,13,Eintracht Frankfurt,169,36,LLDLL,34,9,9,16,-17,40,57,13
+Bundesliga,1,2013,14,SC Freiburg,160,36,LLDWW,34,9,9,16,-18,43,61,14
+Bundesliga,1,2013,15,VfB Stuttgart,172,32,LLDWD,34,8,8,18,-13,49,62,15
+Bundesliga,1,2013,16,Hamburger SV,175,27,LLLLL,34,7,6,21,-24,51,75,16
+Bundesliga,1,2013,17,FC Nurnberg,171,26,LLLLL,34,5,11,18,-33,37,70,17
+Bundesliga,1,2013,18,Eintracht Braunschweig,744,25,LLLLL,34,6,7,21,-31,29,60,18
+Bundesliga_2,2,2013,1,FC Koln,192,68,LWDWW,34,19,11,4,33,53,20,19
+Bundesliga_2,2,2013,2,SC Paderborn 07,185,62,WWWDW,34,18,8,8,15,63,48,20
+Bundesliga_2,2,2013,3,SpVgg Greuther Furth,178,60,WWLDW,34,17,9,8,26,64,38,21
+Bundesliga_2,2,2013,4,FC Kaiserslautern,745,54,LWDWW,34,15,9,10,16,55,39,22
+Bundesliga_2,2,2013,5,Karlsruher SC,785,50,LDDWD,34,12,14,8,13,47,34,23
+Bundesliga_2,2,2013,6,Fortuna Dusseldorf,158,50,WDWWW,34,13,11,10,1,45,44,24
+Bundesliga_2,2,2013,7,TSV 1860 Munich,786,48,DWWWL,34,13,9,12,-3,38,41,25
+Bundesliga_2,2,2013,8,FC St. Pauli,186,48,DLLDL,34,13,9,12,-5,44,49,26
+Bundesliga_2,2,2013,9,Union Berlin,182,44,DLDLL,34,11,11,12,1,48,47,27
+Bundesliga_2,2,2013,10,FC Ingolstadt 04,184,44,WWDDL,34,11,11,12,1,34,33,28
+Bundesliga_2,2,2013,11,VfR Aalen,1327,44,LWWDL,34,11,11,12,-3,36,39,29
+Bundesliga_2,2,2013,12,SV Sandhausen,189,44,LLLLW,34,12,8,14,-6,29,35,30
+Bundesliga_2,2,2013,13,FSV Frankfurt,1332,41,WDWLL,34,11,8,15,-5,46,51,31
+Bundesliga_2,2,2013,14,Erzgebirge AUE,190,41,DLLWL,34,11,8,15,-12,42,54,32
+Bundesliga_2,2,2013,15,VfL BOCHUM,176,40,WLLLW,34,11,7,16,-13,30,43,33
+Bundesliga_2,2,2013,16,Arminia Bielefeld,188,35,WDWLD,34,9,8,17,-18,40,58,34
+Bundesliga_2,2,2013,17,Dynamo Dresden,183,32,LLDLW,34,5,17,12,-17,36,53,35
+Bundesliga_2,2,2013,18,Energie Cottbus,1320,25,LLLDL,34,6,7,21,-24,35,59,36
+Bundesliga_3,3,2013,1,FC Heidenheim,180,79,WLLDW,38,23,10,5,34,59,25,37
+Bundesliga_3,3,2013,2,RB Leipzig,173,79,WWWWD,38,24,7,7,31,65,34,38
+Bundesliga_3,3,2013,3,SV Darmstadt 98,181,72,LWWLW,38,21,9,8,29,58,29,39
+Bundesliga_3,3,2013,4,SV Wehen,1319,56,DLWWL,38,15,11,12,-1,43,44,40
+Bundesliga_3,3,2013,5,VfL Osnabruck,1324,55,DWLLW,38,15,10,13,11,50,39,41
+Bundesliga_3,3,2013,6,Preussen Munster,1313,53,WLDWW,38,13,14,11,5,55,50,42
+Bundesliga_3,3,2013,7,MSV Duisburg,187,52,LLDWL,38,13,13,12,0,43,43,43
+Bundesliga_3,3,2013,8,Stuttgarter Kickers,12868,51,LLDDW,38,13,12,13,-1,45,46,44
+Bundesliga_3,3,2013,9,Hallescher FC,1316,51,LWDDL,38,14,9,15,-5,50,55,45
+Bundesliga_3,3,2013,10,Rot-weiss Erfurt,1329,50,WDLWL,38,14,8,16,4,53,49,46
+Bundesliga_3,3,2013,11,Jahn Regensburg,177,49,DDDDW,38,12,13,13,0,51,51,47
+Bundesliga_3,3,2013,12,Chemnitzer FC,1328,49,DDWLW,38,12,13,13,-3,43,46,48
+Bundesliga_3,3,2013,13,Hansa Rostock,1321,49,DDLWL,38,13,10,15,-10,45,55,49
+Bundesliga_3,3,2013,14,Borussia Dortmund II,9367,46,WDLLD,38,12,10,16,-8,47,55,50
+Bundesliga_3,3,2013,15,Stuttgart II,12867,46,DDWWL,38,12,10,16,-9,45,54,51
+Bundesliga_3,3,2013,16,Holstein Kiel,191,45,WDLDL,38,10,15,13,4,42,38,52
+Bundesliga_3,3,2013,17,SpVgg Unterhaching,1314,43,LWWLW,38,11,10,17,-15,50,65,53
+Bundesliga_3,3,2013,18,SV Elversberg,1660,40,LDDDL,38,10,10,18,-22,32,54,54
+Bundesliga_3,3,2013,19,Wacker Burghausen,9337,37,WWDLL,38,9,10,19,-19,39,58,55
+Bundesliga_3,3,2013,20,FC Saarbrucken,1639,32,LLDLW,38,8,8,22,-25,38,63,56
+Bundesliga,1,2014,1,Bayern Munich,157,79,WLLLW,34,25,4,5,62,80,18,1
+Bundesliga,1,2014,2,VfL Wolfsburg,161,69,DWWDL,34,20,9,5,34,72,38,2
+Bundesliga,1,2014,3,Borussia Monchengladbach,163,66,LWWWW,34,19,9,6,27,53,26,3
+Bundesliga,1,2014,4,Bayer Leverkusen,168,61,LWLWD,34,17,10,7,25,62,37,4
+Bundesliga,1,2014,5,FC Augsburg,170,49,WLWDL,34,15,4,15,0,43,43,5
+Bundesliga,1,2014,6,FC Schalke 04,174,48,LWLWL,34,13,9,12,2,42,40,6
+Bundesliga,1,2014,7,Borussia Dortmund,165,46,WLWDW,34,13,7,14,5,47,42,7
+Bundesliga,1,2014,8,1899 Hoffenheim,167,44,WLLDW,34,12,8,14,-6,49,55,8
+Bundesliga,1,2014,9,Eintracht Frankfurt,169,43,WDWLL,34,11,10,13,-6,56,62,9
+Bundesliga,1,2014,10,Werder Bremen,162,43,LLDWD,34,11,10,13,-15,50,65,10
+Bundesliga,1,2014,11,FSV Mainz 05,164,40,LWLLW,34,9,13,12,-2,45,47,11
+Bundesliga,1,2014,12,FC Koln,192,40,DLWDD,34,9,13,12,-6,34,40,12
+Bundesliga,1,2014,13,Hannover 96,166,37,WWDDL,34,9,10,15,-16,40,56,13
+Bundesliga,1,2014,14,VfB Stuttgart,172,36,WWWLD,34,9,9,16,-18,42,60,14
+Bundesliga,1,2014,15,Hertha Berlin,159,35,LDLLL,34,9,8,17,-16,36,52,15
+Bundesliga,1,2014,16,Hamburger SV,175,35,WLDWW,34,9,8,17,-25,25,50,16
+Bundesliga,1,2014,17,SC Freiburg,160,34,LWDLD,34,7,13,14,-11,36,47,17
+Bundesliga,1,2014,18,SC Paderborn 07,185,31,LLLWD,34,7,10,17,-34,31,65,18
+Bundesliga_2,2,2014,1,FC Ingolstadt 04,184,64,DWLDD,34,17,13,4,21,53,32,19
+Bundesliga_2,2,2014,2,SV Darmstadt 98,181,59,WLWWL,34,15,14,5,18,44,26,20
+Bundesliga_2,2,2014,3,Karlsruher SC,785,58,WWLLW,34,15,13,6,20,46,26,21
+Bundesliga_2,2,2014,4,FC Kaiserslautern,745,56,DDLLW,34,14,14,6,14,45,31,22
+Bundesliga_2,2,2014,5,RB Leipzig,173,50,WLLLW,34,13,11,10,8,39,31,23
+Bundesliga_2,2,2014,6,Eintracht Braunschweig,744,50,LLLWW,34,15,5,14,3,44,41,24
+Bundesliga_2,2,2014,7,Union Berlin,182,47,WWLWD,34,12,11,11,-5,46,51,25
+Bundesliga_2,2,2014,8,FC Heidenheim,180,46,DWWDW,34,12,10,12,5,49,44,26
+Bundesliga_2,2,2014,9,FC Nurnberg,171,45,WLWDW,34,13,6,15,-5,42,47,27
+Bundesliga_2,2,2014,10,Fortuna Dusseldorf,158,44,LWLLD,34,11,11,12,-4,48,52,28
+Bundesliga_2,2,2014,11,VfL BOCHUM,176,42,DLWWL,34,9,15,10,-2,53,55,29
+Bundesliga_2,2,2014,12,SV Sandhausen,189,39,DLWDL,34,10,12,12,-5,32,37,30
+Bundesliga_2,2,2014,13,FSV Frankfurt,1332,39,WLLLD,34,10,9,15,-12,41,53,31
+Bundesliga_2,2,2014,14,SpVgg Greuther Furth,178,37,LWLWL,34,8,13,13,-8,34,42,32
+Bundesliga_2,2,2014,15,FC St. Pauli,186,37,LWWWL,34,10,7,17,-11,40,51,33
+Bundesliga_2,2,2014,16,TSV 1860 Munich,786,36,LWWLD,34,9,9,16,-10,41,51,34
+Bundesliga_2,2,2014,17,Erzgebirge AUE,190,36,DDWWL,34,9,9,16,-15,32,47,35
+Bundesliga_2,2,2014,18,VfR Aalen,1327,31,LLWLD,34,7,12,15,-12,34,46,36
+Bundesliga_3,3,2014,1,Arminia Bielefeld,188,74,WDDDW,38,22,8,8,34,75,41,37
+Bundesliga_3,3,2014,2,MSV Duisburg,187,71,LWWWW,38,20,11,7,23,63,40,38
+Bundesliga_3,3,2014,3,Holstein Kiel,191,67,LLWDW,38,18,13,7,23,53,30,39
+Bundesliga_3,3,2014,4,Stuttgarter Kickers,12868,65,WDWLL,38,18,11,9,14,61,47,40
+Bundesliga_3,3,2014,5,Chemnitzer FC,1328,59,DWWWL,38,17,8,13,8,44,36,41
+Bundesliga_3,3,2014,6,Dynamo Dresden,183,56,WWWWL,38,16,8,14,4,52,48,42
+Bundesliga_3,3,2014,7,Energie Cottbus,1320,56,LWLDW,38,15,11,12,0,50,50,43
+Bundesliga_3,3,2014,8,Preussen Munster,1313,54,LLLLW,38,15,9,14,4,53,49,44
+Bundesliga_3,3,2014,9,SV Wehen,1319,53,WLDLW,38,15,8,15,10,54,44,45
+Bundesliga_3,3,2014,10,Hallescher FC,1316,53,LLLWL,38,15,8,15,-2,51,53,46
+Bundesliga_3,3,2014,11,VfL Osnabruck,1324,52,WDDWL,38,14,10,14,-2,49,51,47
+Bundesliga_3,3,2014,12,Rot-weiss Erfurt,1329,51,WDLDL,38,14,9,15,-7,47,54,48
+Bundesliga_3,3,2014,13,Stuttgart II,12867,47,WDWLL,38,13,8,17,-9,48,57,49
+Bundesliga_3,3,2014,14,Fortuna Koln,1326,46,LWLDL,38,12,10,16,-9,38,47,50
+Bundesliga_3,3,2014,15,SG Sonnenhof Grossaspach,1317,46,LLWLW,38,12,10,16,-21,39,60,51
+Bundesliga_3,3,2014,16,FSV Mainz 05 II,1331,42,DWDWD,38,10,12,16,-9,43,52,52
+Bundesliga_3,3,2014,17,Hansa Rostock,1321,41,LLLLW,38,11,8,19,-14,54,68,53
+Bundesliga_3,3,2014,18,Borussia Dortmund II,9367,39,WLWWL,38,8,15,15,-10,41,51,54
+Bundesliga_3,3,2014,19,SpVgg Unterhaching,1314,39,LWLDW,38,11,8,19,-16,51,67,55
+Bundesliga_3,3,2014,20,Jahn Regensburg,177,31,WDLLD,38,8,7,23,-21,44,65,56
+Bundesliga,1,2015,1,Bayern Munich,157,88,WWDWW,34,28,4,2,63,80,17,1
+Bundesliga,1,2015,2,Borussia Dortmund,165,78,DLWWW,34,24,6,4,48,82,34,2
+Bundesliga,1,2015,3,Bayer Leverkusen,168,60,WLWWW,34,18,6,10,16,56,40,3
+Bundesliga,1,2015,4,Borussia Monchengladbach,163,55,WWDWL,34,17,4,13,17,67,50,4
+Bundesliga,1,2015,5,FC Schalke 04,174,52,WDWLL,34,15,7,12,2,51,49,5
+Bundesliga,1,2015,6,FSV Mainz 05,164,50,DWDLL,34,14,8,12,4,46,42,6
+Bundesliga,1,2015,7,Hertha Berlin,159,50,DLLLL,34,14,8,12,0,42,42,7
+Bundesliga,1,2015,8,VfL Wolfsburg,161,45,WWLLL,34,12,9,13,-2,47,49,8
+Bundesliga,1,2015,9,FC Koln,192,43,DDDWW,34,10,13,11,-4,38,42,9
+Bundesliga,1,2015,10,Hamburger SV,175,41,WLDWL,34,11,8,15,-6,40,46,10
+Bundesliga,1,2015,11,FC Ingolstadt 04,184,40,LLLDL,34,10,10,14,-9,33,42,11
+Bundesliga,1,2015,12,FC Augsburg,170,38,LDDWW,34,9,11,14,-10,42,52,12
+Bundesliga,1,2015,13,Werder Bremen,162,38,WDWLW,34,10,8,16,-15,50,65,13
+Bundesliga,1,2015,14,SV Darmstadt 98,181,38,LWLLW,34,9,11,14,-15,38,53,14
+Bundesliga,1,2015,15,1899 Hoffenheim,167,37,LLWLW,34,9,10,15,-15,39,54,15
+Bundesliga,1,2015,16,Eintracht Frankfurt,169,36,LWWWL,34,9,9,16,-18,34,52,16
+Bundesliga,1,2015,17,VfB Stuttgart,172,33,LLLLL,34,9,6,19,-25,50,75,17
+Bundesliga,1,2015,18,Hannover 96,166,25,LWLDW,34,7,4,23,-31,31,62,18
+Bundesliga_2,2,2015,1,SC Freiburg,160,72,LWWWD,34,22,6,6,36,75,39,19
+Bundesliga_2,2,2015,2,RB Leipzig,173,67,LWDDL,34,20,7,7,22,54,32,20
+Bundesliga_2,2,2015,3,FC Nurnberg,171,65,WWLWL,34,19,8,7,27,68,41,21
+Bundesliga_2,2,2015,4,FC St. Pauli,186,53,WLLDW,34,15,8,11,6,45,39,22
+Bundesliga_2,2,2015,5,VfL BOCHUM,176,51,WLLDL,34,13,12,9,16,56,40,23
+Bundesliga_2,2,2015,6,Union Berlin,182,49,WLWLW,34,13,10,11,6,56,50,24
+Bundesliga_2,2,2015,7,Karlsruher SC,785,47,DLWDW,34,12,11,11,-2,35,37,25
+Bundesliga_2,2,2015,8,Eintracht Braunschweig,744,46,LWWLD,34,12,10,12,6,44,38,26
+Bundesliga_2,2,2015,9,SpVgg Greuther Furth,178,46,WLLLW,34,13,7,14,-6,49,55,27
+Bundesliga_2,2,2015,10,FC Kaiserslautern,745,45,LWWDW,34,12,9,13,2,49,47,28
+Bundesliga_2,2,2015,11,FC Heidenheim,180,45,LLWDL,34,11,12,11,2,42,40,29
+Bundesliga_2,2,2015,12,Arminia Bielefeld,188,42,DWDWL,34,8,18,8,-1,38,39,30
+Bundesliga_2,2,2015,13,SV Sandhausen,189,40,LDLWW,34,12,7,15,-10,40,50,31
+Bundesliga_2,2,2015,14,Fortuna Dusseldorf,158,35,WWLDL,34,9,8,17,-15,32,47,32
+Bundesliga_2,2,2015,15,TSV 1860 Munich,786,34,LWWWL,34,8,10,16,-14,32,46,33
+Bundesliga_2,2,2015,16,MSV Duisburg,187,32,WDWLW,34,7,11,16,-22,32,54,34
+Bundesliga_2,2,2015,17,FSV Frankfurt,1332,32,WLLLL,34,8,8,18,-26,33,59,35
+Bundesliga_2,2,2015,18,SC Paderborn 07,185,28,LLLDW,34,6,10,18,-27,28,55,36
+Bundesliga_3,3,2015,1,Dynamo Dresden,183,78,WWDWD,38,21,15,2,40,75,35,37
+Bundesliga_3,3,2015,2,Erzgebirge AUE,190,70,WWDWL,38,19,13,6,21,42,21,38
+Bundesliga_3,3,2015,3,FC Wurzburger Kickers,784,64,WDWWW,38,16,16,6,18,43,25,39
+Bundesliga_3,3,2015,4,FC Magdeburg,179,56,LWWWD,38,14,14,10,12,49,37,40
+Bundesliga_3,3,2015,5,VfL Osnabruck,1324,56,LLWLD,38,14,14,10,5,46,41,41
+Bundesliga_3,3,2015,6,Chemnitzer FC,1328,55,WWWLW,38,15,10,13,6,52,46,42
+Bundesliga_3,3,2015,7,SG Sonnenhof Grossaspach,1317,54,LLLDW,38,14,12,12,11,58,47,43
+Bundesliga_3,3,2015,8,Rot-weiss Erfurt,1329,50,WLLWW,38,14,8,16,-3,47,50,44
+Bundesliga_3,3,2015,9,Preussen Munster,1313,49,LLWLD,38,12,13,13,2,43,41,45
+Bundesliga_3,3,2015,10,Hansa Rostock,1321,49,WLWLW,38,12,13,13,-6,42,48,46
+Bundesliga_3,3,2015,11,Fortuna Koln,1326,49,WLLWL,38,14,7,17,-13,56,69,47
+Bundesliga_3,3,2015,12,FSV Mainz 05 II,1331,48,WWLLD,38,12,12,14,1,48,47,48
+Bundesliga_3,3,2015,13,Hallescher FC,1316,48,LWLWW,38,13,9,16,0,48,48,49
+Bundesliga_3,3,2015,14,Holstein Kiel,191,48,LDWDD,38,12,12,14,-3,44,47,50
+Bundesliga_3,3,2015,15,VfR Aalen,1327,44,LLWLL,38,10,14,14,-5,35,40,51
+Bundesliga_3,3,2015,16,SV Wehen,1319,43,WWLLW,38,9,16,13,-13,35,48,52
+Bundesliga_3,3,2015,17,Werder Bremen II,1330,43,WWLLL,38,11,10,17,-14,42,56,53
+Bundesliga_3,3,2015,18,Stuttgarter Kickers,12868,43,LLWWL,38,11,10,17,-14,38,52,54
+Bundesliga_3,3,2015,19,Energie Cottbus,1320,41,LWLWL,38,9,14,15,-20,32,52,55
+Bundesliga_3,3,2015,20,Stuttgart II,12867,31,LLLLL,38,7,10,21,-25,38,63,56
+Bundesliga,1,2016,1,Bayern Munich,157,82,WWWWD,34,25,7,2,67,89,22,1
+Bundesliga,1,2016,2,RB Leipzig,173,67,DLWDD,34,20,7,7,27,66,39,2
+Bundesliga,1,2016,3,Borussia Dortmund,165,64,WDWDW,34,18,10,6,32,72,40,3
+Bundesliga,1,2016,4,1899 Hoffenheim,167,62,DWLWD,34,16,14,4,27,64,37,4
+Bundesliga,1,2016,5,FC Koln,192,49,WDWDD,34,12,13,9,9,51,42,5
+Bundesliga,1,2016,6,Hertha Berlin,159,49,LWLLW,34,15,4,15,-4,43,47,6
+Bundesliga,1,2016,7,SC Freiburg,160,48,LDWLW,34,14,6,14,-18,42,60,7
+Bundesliga,1,2016,8,Werder Bremen,162,45,LLLWW,34,13,6,15,-3,61,64,8
+Bundesliga,1,2016,9,Borussia Monchengladbach,163,45,DDDWL,34,12,9,13,-4,45,49,9
+Bundesliga,1,2016,10,FC Schalke 04,174,43,DDLWD,34,11,10,13,5,45,40,10
+Bundesliga,1,2016,11,Eintracht Frankfurt,169,42,DLLLW,34,11,9,14,-7,36,43,11
+Bundesliga,1,2016,12,Bayer Leverkusen,168,41,WDDLL,34,11,8,15,-2,53,55,12
+Bundesliga,1,2016,13,FC Augsburg,170,38,DDDWL,34,9,11,14,-16,35,51,13
+Bundesliga,1,2016,14,Hamburger SV,175,38,WDDLL,34,10,8,16,-28,33,61,14
+Bundesliga,1,2016,15,FSV Mainz 05,164,37,LWDLD,34,10,7,17,-11,44,55,15
+Bundesliga,1,2016,16,VfL Wolfsburg,161,37,LDWLL,34,10,7,17,-18,34,52,16
+Bundesliga,1,2016,17,FC Ingolstadt 04,184,32,DDDDL,34,8,8,18,-21,36,57,17
+Bundesliga,1,2016,18,SV Darmstadt 98,181,25,DLLWW,34,7,4,23,-35,28,63,18
+Bundesliga_2,2,2016,1,VfB Stuttgart,172,69,WLWWW,34,21,6,7,26,63,37,19
+Bundesliga_2,2,2016,2,Hannover 96,166,67,DWWWD,34,19,10,5,19,51,32,20
+Bundesliga_2,2,2016,3,Eintracht Braunschweig,744,66,WLWWW,34,19,9,6,14,50,36,21
+Bundesliga_2,2,2016,4,Union Berlin,182,60,WLLWL,34,18,6,10,12,51,39,22
+Bundesliga_2,2,2016,5,Dynamo Dresden,183,50,DWLLL,34,13,11,10,7,53,46,23
+Bundesliga_2,2,2016,6,FC Heidenheim,180,46,WWLLD,34,12,10,12,4,43,39,24
+Bundesliga_2,2,2016,7,FC St. Pauli,186,45,WDWWW,34,12,9,13,4,39,35,25
+Bundesliga_2,2,2016,8,SpVgg Greuther Furth,178,45,LDLDW,34,12,9,13,-7,33,40,26
+Bundesliga_2,2,2016,9,VfL BOCHUM,176,44,LWDWL,34,10,14,10,-5,42,47,27
+Bundesliga_2,2,2016,10,SV Sandhausen,189,42,DWLLW,34,10,12,12,5,41,36,28
+Bundesliga_2,2,2016,11,Fortuna Dusseldorf,158,42,WWDLL,34,10,12,12,-2,37,39,29
+Bundesliga_2,2,2016,12,FC Nurnberg,171,42,LLWLD,34,12,6,16,-6,46,52,30
+Bundesliga_2,2,2016,13,FC Kaiserslautern,745,41,WLLWW,34,10,11,13,-4,29,33,31
+Bundesliga_2,2,2016,14,Erzgebirge AUE,190,39,LWLWD,34,10,9,15,-15,37,52,32
+Bundesliga_2,2,2016,15,Arminia Bielefeld,188,37,DWDDD,34,8,13,13,-4,50,54,33
+Bundesliga_2,2,2016,16,TSV 1860 Munich,786,36,LLWLL,34,10,6,18,-10,37,47,34
+Bundesliga_2,2,2016,17,FC Wurzburger Kickers,784,34,LLDLD,34,7,13,14,-9,32,41,35
+Bundesliga_2,2,2016,18,Karlsruher SC,785,25,LLWLL,34,5,10,19,-29,27,56,36
+Bundesliga_3,3,2016,1,MSV Duisburg,187,68,WWDLW,38,18,14,6,20,52,32,37
+Bundesliga_3,3,2016,2,Holstein Kiel,191,67,WWWWW,38,18,13,7,34,59,25,38
+Bundesliga_3,3,2016,3,Jahn Regensburg,177,63,WWWLD,38,18,9,11,12,62,50,39
+Bundesliga_3,3,2016,4,FC Magdeburg,179,61,WDDDW,38,16,13,9,17,53,36,40
+Bundesliga_3,3,2016,5,FSV Zwickau,1315,56,LWDLW,38,16,8,14,-7,47,54,41
+Bundesliga_3,3,2016,6,VfL Osnabruck,1324,54,DLLDW,38,15,9,14,3,46,43,42
+Bundesliga_3,3,2016,7,SV Wehen,1319,53,WWDWD,38,14,11,13,3,45,42,43
+Bundesliga_3,3,2016,8,Chemnitzer FC,1328,52,WLLDL,38,14,10,14,3,54,51,44
+Bundesliga_3,3,2016,9,Preussen Munster,1313,51,LLWWD,38,15,6,17,6,49,43,45
+Bundesliga_3,3,2016,10,SG Sonnenhof Grossaspach,1317,51,LLDDL,38,14,9,15,0,48,48,46
+Bundesliga_3,3,2016,11,VfR Aalen,1327,48,LDLWL,38,14,15,9,16,52,36,47
+Bundesliga_3,3,2016,12,Sportfreunde Lotte,1323,48,LDDDL,38,13,9,16,-1,46,47,48
+Bundesliga_3,3,2016,13,Hallescher FC,1316,48,LLDDL,38,10,18,10,-5,34,39,49
+Bundesliga_3,3,2016,14,Rot-weiss Erfurt,1329,47,WWLDD,38,12,11,15,-13,34,47,50
+Bundesliga_3,3,2016,15,Hansa Rostock,1321,46,LLLLW,38,10,16,12,-2,44,46,51
+Bundesliga_3,3,2016,16,Fortuna Koln,1326,46,LLWLL,38,12,10,16,-22,37,59,52
+Bundesliga_3,3,2016,17,Werder Bremen II,1330,45,WWDDL,38,12,9,17,-16,32,48,53
+Bundesliga_3,3,2016,18,SC Paderborn 07,185,44,DWDWW,38,12,8,18,-19,38,57,54
+Bundesliga_3,3,2016,19,FSV Mainz 05 II,1331,40,WDWWW,38,11,7,20,-17,41,58,55
+Bundesliga_3,3,2016,20,FSV Frankfurt,1332,25,LLDLL,38,7,13,18,-12,38,50,56
+Bundesliga,1,2017,1,Bayern Munich,157,84,LWWWW,34,27,3,4,64,92,28,1
+Bundesliga,1,2017,2,FC Schalke 04,174,63,WWDDW,34,18,9,7,16,53,37,2
+Bundesliga,1,2017,3,1899 Hoffenheim,167,55,WLWWW,34,15,10,9,18,66,48,3
+Bundesliga,1,2017,4,Borussia Dortmund,165,55,LLDWL,34,15,10,9,17,64,47,4
+Bundesliga,1,2017,5,Bayer Leverkusen,168,55,WDLLW,34,15,10,9,14,58,44,5
+Bundesliga,1,2017,6,RB Leipzig,173,53,WWLLD,34,15,8,11,4,57,53,6
+Bundesliga,1,2017,7,VfB Stuttgart,172,51,WWWWD,34,15,6,13,0,36,36,7
+Bundesliga,1,2017,8,Eintracht Frankfurt,169,49,LWLLL,34,14,7,13,0,45,45,8
+Bundesliga,1,2017,9,Borussia Monchengladbach,163,47,LWDWL,34,13,8,13,-5,47,52,9
+Bundesliga,1,2017,10,Hertha Berlin,159,43,LLDWW,34,10,13,11,-3,43,46,10
+Bundesliga,1,2017,11,Werder Bremen,162,42,WDDLD,34,10,12,12,-3,37,40,11
+Bundesliga,1,2017,12,FC Augsburg,170,41,LLDWD,34,10,11,13,-3,43,46,12
+Bundesliga,1,2017,13,Hannover 96,166,39,LWLLD,34,10,9,15,-10,44,54,13
+Bundesliga,1,2017,14,FSV Mainz 05,164,36,LWWLW,34,9,9,16,-14,38,52,14
+Bundesliga,1,2017,15,SC Freiburg,160,36,WLWLL,34,8,12,14,-24,32,56,15
+Bundesliga,1,2017,16,VfL Wolfsburg,161,33,WLLLD,34,6,15,13,-12,36,48,16
+Bundesliga,1,2017,17,Hamburger SV,175,31,WLWWL,34,8,7,19,-24,29,53,17
+Bundesliga,1,2017,18,FC Koln,192,22,LLLDL,34,5,7,22,-35,35,70,18
+Bundesliga_2,2,2017,1,Fortuna Dusseldorf,158,43,LWWWW,22,13,4,5,9,34,25,19
+Bundesliga_2,2,2017,2,FC Nurnberg,171,41,DWWDD,22,12,5,5,17,43,26,20
+Bundesliga_2,2,2017,3,Holstein Kiel,191,36,LDDDL,22,9,9,4,12,41,29,21
+Bundesliga_2,2,2017,4,MSV Duisburg,187,34,DWDWW,22,9,7,6,2,34,32,22
+Bundesliga_2,2,2017,5,FC Ingolstadt 04,184,33,DWLDW,22,9,6,7,9,32,23,23
+Bundesliga_2,2,2017,6,Jahn Regensburg,177,33,WDWDW,22,10,3,9,5,35,30,24
+Bundesliga_2,2,2017,7,SV Sandhausen,189,32,DLWDW,22,9,5,8,6,25,19,25
+Bundesliga_2,2,2017,8,Union Berlin,182,31,WDLDL,22,8,7,7,8,39,31,26
+Bundesliga_2,2,2017,9,Arminia Bielefeld,188,31,DDWDL,22,8,7,7,2,34,32,27
+Bundesliga_2,2,2017,10,FC Heidenheim,180,29,LWDWD,22,8,5,9,-6,33,39,28
+Bundesliga_2,2,2017,11,FC St. Pauli,186,28,DLLWW,22,7,7,8,-12,22,34,29
+Bundesliga_2,2,2017,12,Eintracht Braunschweig,744,26,DLWLL,22,5,11,6,2,26,24,30
+Bundesliga_2,2,2017,13,Dynamo Dresden,183,26,LWLLL,22,7,5,10,-4,29,33,31
+Bundesliga_2,2,2017,14,VfL BOCHUM,176,26,WLLLL,22,7,5,10,-7,20,27,32
+Bundesliga_2,2,2017,15,Erzgebirge AUE,190,24,DLLLD,22,6,6,10,-13,21,34,33
+Bundesliga_2,2,2017,16,SpVgg Greuther Furth,178,23,WLDDD,22,6,5,11,-11,22,33,34
+Bundesliga_2,2,2017,17,SV Darmstadt 98,181,22,LLWDL,21,5,7,9,-4,31,35,35
+Bundesliga_2,2,2017,18,FC Kaiserslautern,745,18,WWLDD,21,4,6,11,-15,20,35,36
+Bundesliga_3,3,2017,1,SC Paderborn 07,185,51,LDWWD,24,16,3,5,29,55,26,37
+Bundesliga_3,3,2017,2,FC Magdeburg,179,50,WLDLW,24,16,2,6,15,38,23,38
+Bundesliga_3,3,2017,3,SV Wehen,1319,44,DDWWL,24,13,5,6,28,49,21,39
+Bundesliga_3,3,2017,4,Hansa Rostock,1321,43,WWWLW,23,13,4,6,14,35,21,40
+Bundesliga_3,3,2017,5,Karlsruher SC,785,41,DWDWW,24,11,8,5,7,26,19,41
+Bundesliga_3,3,2017,6,Fortuna Koln,1326,38,LDDWD,24,10,8,6,8,36,28,42
+Bundesliga_3,3,2017,7,SpVgg Unterhaching,1314,36,DDLLW,24,11,3,10,-1,35,36,43
+Bundesliga_3,3,2017,8,SV Meppen,1318,35,WLDWL,24,9,8,7,-1,28,29,44
+Bundesliga_3,3,2017,9,VfR Aalen,1327,34,WLWLD,24,9,7,8,3,35,32,45
+Bundesliga_3,3,2017,10,FC Wurzburger Kickers,784,34,LWLWW,24,10,4,10,-3,32,35,46
+Bundesliga_3,3,2017,11,SG Sonnenhof Grossaspach,1317,32,LDLLW,23,9,5,9,-4,31,35,47
+Bundesliga_3,3,2017,12,Hallescher FC,1316,29,DWLWD,24,7,8,9,-1,33,34,48
+Bundesliga_3,3,2017,13,Sportfreunde Lotte,1323,29,DWLWW,24,8,5,11,-5,29,34,49
+Bundesliga_3,3,2017,14,Carl Zeiss Jena,1325,28,DLWLW,24,7,7,10,-6,27,33,50
+Bundesliga_3,3,2017,15,Preussen Munster,1313,27,LWWWL,24,7,6,11,-6,29,35,51
+Bundesliga_3,3,2017,16,FSV Zwickau,1315,27,LWWLW,24,7,6,11,-9,25,34,52
+Bundesliga_3,3,2017,17,VfL Osnabruck,1324,26,DWLDL,24,6,8,10,-8,30,38,53
+Bundesliga_3,3,2017,18,Chemnitzer FC,1328,19,LWLLL,24,5,4,15,-18,30,48,54
+Bundesliga_3,3,2017,19,Werder Bremen II,1330,18,DLLLL,24,3,9,12,-18,22,40,55
+Bundesliga_3,3,2017,20,Rot-weiss Erfurt,1329,18,WLLLW,24,4,6,14,-24,15,39,56
+Bundesliga,1,2018,1,Bayern Munich,157,78,WDWDW,34,24,6,4,56,88,32,1
+Bundesliga,1,2018,2,Borussia Dortmund,165,76,WWDLW,34,23,7,4,37,81,44,2
+Bundesliga,1,2018,3,RB Leipzig,173,66,LDDWW,34,19,9,6,34,63,29,3
+Bundesliga,1,2018,4,Bayer Leverkusen,168,58,WDWWW,34,18,4,12,17,69,52,4
+Bundesliga,1,2018,5,Borussia Monchengladbach,163,55,LWDLL,34,16,7,11,13,55,42,5
+Bundesliga,1,2018,6,VfL Wolfsburg,161,55,WLWWD,34,16,7,11,12,62,50,6
+Bundesliga,1,2018,7,Eintracht Frankfurt,169,54,LLLDD,34,15,9,10,12,60,48,7
+Bundesliga,1,2018,8,Werder Bremen,162,53,WWDLL,34,14,11,9,9,58,49,8
+Bundesliga,1,2018,9,1899 Hoffenheim,167,51,LLDLW,34,13,12,9,18,70,52,9
+Bundesliga,1,2018,10,Fortuna Dusseldorf,158,44,WLDWL,34,13,5,16,-16,49,65,10
+Bundesliga,1,2018,11,Hertha Berlin,159,43,LWWDD,34,11,10,13,-8,49,57,11
+Bundesliga,1,2018,12,FSV Mainz 05,164,43,WWDLW,34,12,7,15,-11,46,57,12
+Bundesliga,1,2018,13,SC Freiburg,160,36,WLDLL,34,8,12,14,-15,46,61,13
+Bundesliga,1,2018,14,FC Schalke 04,174,33,DDDWL,34,8,9,17,-18,37,55,14
+Bundesliga,1,2018,15,FC Augsburg,170,32,LLDLW,34,8,8,18,-20,51,71,15
+Bundesliga,1,2018,16,VfB Stuttgart,172,28,DWLWL,34,7,7,20,-38,32,70,16
+Bundesliga,1,2018,17,Hannover 96,166,21,LWLWD,34,5,6,23,-40,31,71,17
+Bundesliga,1,2018,18,FC Nurnberg,171,19,LLLDL,34,3,10,21,-42,26,68,18
+Bundesliga_2,2,2018,1,FC Koln,192,63,DLWLL,34,19,6,9,37,84,47,19
+Bundesliga_2,2,2018,2,SC Paderborn 07,185,57,LWLWW,34,16,9,9,26,76,50,20
+Bundesliga_2,2,2018,3,Union Berlin,182,57,DWLWD,34,14,15,5,21,54,33,21
+Bundesliga_2,2,2018,4,Hamburger SV,175,56,WLLLD,34,16,8,10,3,45,42,22
+Bundesliga_2,2,2018,5,FC Heidenheim,180,55,WWLLW,34,15,10,9,10,55,45,23
+Bundesliga_2,2,2018,6,Holstein Kiel,191,49,LWLLL,34,13,10,11,9,60,51,24
+Bundesliga_2,2,2018,7,Arminia Bielefeld,188,49,WWWDL,34,13,10,11,2,52,50,25
+Bundesliga_2,2,2018,8,Jahn Regensburg,177,49,DWLLW,34,12,13,9,1,55,54,26
+Bundesliga_2,2,2018,9,FC St. Pauli,186,49,LDLWL,34,14,7,13,-7,46,53,27
+Bundesliga_2,2,2018,10,SV Darmstadt 98,181,46,WLWWD,34,13,7,14,-8,45,53,28
+Bundesliga_2,2,2018,11,VfL BOCHUM,176,44,DDWLD,34,11,11,12,-1,49,50,29
+Bundesliga_2,2,2018,12,Dynamo Dresden,183,42,WLWLW,34,11,9,14,-7,41,48,30
+Bundesliga_2,2,2018,13,SpVgg Greuther Furth,178,42,WDLLD,34,10,12,12,-19,37,56,31
+Bundesliga_2,2,2018,14,Erzgebirge AUE,190,40,LDWWD,34,11,7,16,-4,43,47,32
+Bundesliga_2,2,2018,15,SV Sandhausen,189,38,DLWWD,34,9,11,14,-7,45,52,33
+Bundesliga_2,2,2018,16,FC Ingolstadt 04,184,35,LWWWW,34,9,8,17,-12,43,55,34
+Bundesliga_2,2,2018,17,FC Magdeburg,179,31,DLLWL,34,6,13,15,-18,35,53,35
+Bundesliga_2,2,2018,18,MSV Duisburg,187,28,LLWDD,34,6,10,18,-26,39,65,36
+Bundesliga_3,3,2018,1,VfL Osnabruck,1324,76,LLLWW,38,22,10,6,25,56,31,37
+Bundesliga_3,3,2018,2,Karlsruher SC,785,71,LWWWW,38,20,11,7,26,64,38,38
+Bundesliga_3,3,2018,3,SV Wehen,1319,70,WWWWL,38,22,4,12,24,71,47,39
+Bundesliga_3,3,2018,4,Hallescher FC,1316,66,WWLDW,38,19,9,10,13,47,34,40
+Bundesliga_3,3,2018,5,FC Wurzburger Kickers,784,57,WWWWL,38,16,9,13,11,56,45,41
+Bundesliga_3,3,2018,6,Hansa Rostock,1321,55,DDWDW,38,14,13,11,1,47,46,42
+Bundesliga_3,3,2018,7,FSV Zwickau,1315,52,WLWLW,38,14,10,14,2,49,47,43
+Bundesliga_3,3,2018,8,Preussen Munster,1313,52,LLWDW,38,15,7,16,-2,48,50,44
+Bundesliga_3,3,2018,9,FC Kaiserslautern,745,51,WLWLL,38,13,12,13,-2,49,51,45
+Bundesliga_3,3,2018,10,SpVgg Unterhaching,1314,48,WWLLD,38,11,15,12,7,53,46,46
+Bundesliga_3,3,2018,11,KFC Uerdingen 05,1322,48,LDLWL,38,14,6,18,-15,47,62,47
+Bundesliga_3,3,2018,12,TSV 1860 Munich,786,47,LWLLL,38,12,11,15,-4,48,52,48
+Bundesliga_3,3,2018,13,SV Meppen,1318,47,LLDWL,38,13,8,17,-5,48,53,49
+Bundesliga_3,3,2018,14,Carl Zeiss Jena,1325,46,WWLWW,38,11,13,14,-9,48,57,50
+Bundesliga_3,3,2018,15,SG Sonnenhof Grossaspach,1317,45,WWLDL,38,9,18,11,-1,38,39,51
+Bundesliga_3,3,2018,16,Eintracht Braunschweig,744,45,DLWDW,38,10,15,13,-6,48,54,52
+Bundesliga_3,3,2018,17,Energie Cottbus,1320,45,DWWLW,38,12,9,17,-7,51,58,53
+Bundesliga_3,3,2018,18,Sportfreunde Lotte,1323,40,LLLDL,38,9,13,16,-15,31,46,54
+Bundesliga_3,3,2018,19,Fortuna Koln,1326,39,LLDLD,38,9,12,17,-26,38,64,55
+Bundesliga_3,3,2018,20,VfR Aalen,1327,31,DLLLL,38,6,13,19,-17,45,62,56
+Bundesliga,1,2019,1,Bayern Munich,157,82,WWWWW,34,26,4,4,68,100,32,1
+Bundesliga,1,2019,2,Borussia Dortmund,165,69,LWLWW,34,21,6,7,43,84,41,2
+Bundesliga,1,2019,3,RB Leipzig,173,66,WLDWD,34,18,12,4,44,81,37,3
+Bundesliga,1,2019,4,Borussia Monchengladbach,163,65,WWWLL,34,20,5,9,26,66,40,4
+Bundesliga,1,2019,5,Bayer Leverkusen,168,63,WLWDL,34,19,6,9,17,61,44,5
+Bundesliga,1,2019,6,1899 Hoffenheim,167,52,WWWLD,34,15,7,12,0,53,53,6
+Bundesliga,1,2019,7,VfL Wolfsburg,161,49,LWLDW,34,13,10,11,2,48,46,7
+Bundesliga,1,2019,8,SC Freiburg,160,48,WLWDW,34,13,9,12,1,48,47,8
+Bundesliga,1,2019,9,Eintracht Frankfurt,169,45,WDWWL,34,13,6,15,-1,59,60,9
+Bundesliga,1,2019,10,Hertha Berlin,159,41,LWLLL,34,11,8,15,-11,48,59,10
+Bundesliga,1,2019,11,Union Berlin,182,41,WLWWD,34,12,5,17,-17,41,58,11
+Bundesliga,1,2019,12,FC Schalke 04,174,39,LLLDD,34,9,12,13,-20,38,58,12
+Bundesliga,1,2019,13,FSV Mainz 05,164,37,LWWLW,34,11,4,19,-21,44,65,13
+Bundesliga,1,2019,14,FC Koln,192,36,LDLLD,34,10,6,18,-18,51,69,14
+Bundesliga,1,2019,15,FC Augsburg,170,36,LDLWD,34,9,9,16,-18,45,63,15
+Bundesliga,1,2019,16,Werder Bremen,162,31,WLLWL,34,8,7,19,-27,42,69,16
+Bundesliga,1,2019,17,Fortuna Dusseldorf,158,30,LDDLD,34,6,12,16,-31,36,67,17
+Bundesliga,1,2019,18,SC Paderborn 07,185,20,LLLLD,34,4,8,22,-37,37,74,18
+Bundesliga_2,2,2019,1,Arminia Bielefeld,188,68,WDWWD,34,18,14,2,35,65,30,19
+Bundesliga_2,2,2019,2,VfB Stuttgart,172,58,LWWLD,34,17,7,10,21,62,41,20
+Bundesliga_2,2,2019,3,FC Heidenheim,180,55,LWDWL,34,15,10,9,9,45,36,21
+Bundesliga_2,2,2019,4,Hamburger SV,175,54,LLDWD,34,14,12,8,16,62,46,22
+Bundesliga_2,2,2019,5,SV Darmstadt 98,181,52,WWLWL,34,13,13,8,5,48,43,23
+Bundesliga_2,2,2019,6,Hannover 96,166,48,WLWLW,34,13,9,12,5,54,49,24
+Bundesliga_2,2,2019,7,Erzgebirge AUE,190,47,WWLLW,34,13,8,13,-2,46,48,25
+Bundesliga_2,2,2019,8,VfL BOCHUM,176,46,LDWWW,34,11,13,10,2,53,51,26
+Bundesliga_2,2,2019,9,SpVgg Greuther Furth,178,44,LDDWD,34,11,11,12,1,46,45,27
+Bundesliga_2,2,2019,10,SV Sandhausen,189,43,WLLDW,34,10,13,11,-2,43,45,28
+Bundesliga_2,2,2019,11,Holstein Kiel,191,43,DLWLD,34,11,10,13,-3,53,56,29
+Bundesliga_2,2,2019,12,Jahn Regensburg,177,43,LDWLW,34,11,10,13,-6,50,56,30
+Bundesliga_2,2,2019,13,VfL Osnabruck,1324,40,DWDLD,34,9,13,12,-2,46,48,31
+Bundesliga_2,2,2019,14,FC St. Pauli,186,39,LDLWL,34,9,12,13,-9,41,50,32
+Bundesliga_2,2,2019,15,Karlsruher SC,785,37,WDLWL,34,8,13,13,-11,45,56,33
+Bundesliga_2,2,2019,16,FC Nurnberg,171,37,DLWLD,34,8,13,13,-13,45,58,34
+Bundesliga_2,2,2019,17,SV Wehen,1319,34,WLLWL,34,9,7,18,-20,45,65,35
+Bundesliga_2,2,2019,18,Dynamo Dresden,183,32,DWLLL,34,8,8,18,-26,32,58,36
+Bundesliga_3,3,2019,1,Bayern München II,4674,65,LDWWD,38,19,8,11,16,76,60,37
+Bundesliga_3,3,2019,2,FC Wurzburger Kickers,784,64,DLWWW,38,19,7,12,11,71,60,38
+Bundesliga_3,3,2019,3,Eintracht Braunschweig,744,64,LWLWW,38,18,10,10,11,64,53,39
+Bundesliga_3,3,2019,4,FC Ingolstadt 04,184,63,WLWWW,38,17,12,9,21,61,40,40
+Bundesliga_3,3,2019,5,MSV Duisburg,187,62,WDDLD,38,17,11,10,20,68,48,41
+Bundesliga_3,3,2019,6,Hansa Rostock,1321,59,LWLDD,38,17,8,13,11,54,43,42
+Bundesliga_3,3,2019,7,SV Meppen,1318,58,WWLWW,38,16,10,12,12,69,57,43
+Bundesliga_3,3,2019,8,TSV 1860 Munich,786,58,LWWLW,38,16,10,12,9,63,54,44
+Bundesliga_3,3,2019,9,Waldhof Mannheim,4268,56,DLDLW,38,13,17,8,5,52,47,45
+Bundesliga_3,3,2019,10,FC Kaiserslautern,745,55,WDWDW,38,14,13,11,5,59,54,46
+Bundesliga_3,3,2019,11,SpVgg Unterhaching,1314,51,LDLDL,38,12,15,11,-3,50,53,47
+Bundesliga_3,3,2019,12,FC Viktoria Koln,1620,51,DWLWW,38,14,9,15,-6,65,71,48
+Bundesliga_3,3,2019,13,KFC Uerdingen 05,1322,48,DLDLL,38,12,12,14,-14,40,54,49
+Bundesliga_3,3,2019,14,FC Magdeburg,179,47,DWLDD,38,10,17,11,7,49,42,50
+Bundesliga_3,3,2019,15,Hallescher FC,1316,46,DDDWL,38,12,10,16,-2,64,66,51
+Bundesliga_3,3,2019,16,FSV Zwickau,1315,44,DWWLL,38,11,11,16,-5,56,61,52
+Bundesliga_3,3,2019,17,Chemnitzer FC,1328,44,WLDLL,38,11,11,16,-6,54,60,53
+Bundesliga_3,3,2019,18,Preussen Munster,1313,40,DLDWL,38,9,13,16,-13,49,62,54
+Bundesliga_3,3,2019,19,SG Sonnenhof Grossaspach,1317,32,LLWLL,38,8,8,22,-34,33,67,55
+Bundesliga_3,3,2019,20,Carl Zeiss Jena,1325,23,WDLLL,38,5,8,25,-45,40,85,56
+Bundesliga,1,2020,1,Bayern Munich,157,78,WDWLW,34,24,6,4,55,99,44,1
+Bundesliga,1,2020,2,RB Leipzig,173,65,LDLWL,34,19,8,7,28,60,32,2
+Bundesliga,1,2020,3,Borussia Dortmund,165,64,WWWWW,34,20,4,10,29,75,46,3
+Bundesliga,1,2020,4,VfL Wolfsburg,161,61,LDWLW,34,17,10,7,24,61,37,4
+Bundesliga,1,2020,5,Eintracht Frankfurt,169,60,WLDLW,34,16,12,6,16,69,53,5
+Bundesliga,1,2020,6,Bayer Leverkusen,168,52,LDDWL,34,14,10,10,14,53,39,6
+Bundesliga,1,2020,7,Union Berlin,182,50,WDLWL,34,12,14,8,7,50,43,7
+Bundesliga,1,2020,8,Borussia Monchengladbach,163,49,WLLWL,34,13,10,11,8,64,56,8
+Bundesliga,1,2020,9,VfB Stuttgart,172,45,LWWLL,34,12,9,13,1,56,55,9
+Bundesliga,1,2020,10,SC Freiburg,160,45,LDWLD,34,12,9,13,0,52,52,10
+Bundesliga,1,2020,11,1899 Hoffenheim,167,43,WDWDW,34,11,10,13,-2,52,54,11
+Bundesliga,1,2020,12,FSV Mainz 05,164,39,WLDDW,34,10,9,15,-17,39,56,12
+Bundesliga,1,2020,13,FC Augsburg,170,36,LWLLL,34,10,6,18,-18,36,54,13
+Bundesliga,1,2020,14,Hertha Berlin,159,35,LDWDW,34,8,11,15,-11,41,52,14
+Bundesliga,1,2020,15,Arminia Bielefeld,188,35,WDDLW,34,9,8,17,-26,26,52,15
+Bundesliga,1,2020,16,FC Koln,192,33,WDLWW,34,8,9,17,-26,34,60,16
+Bundesliga,1,2020,17,Werder Bremen,162,31,LLDLL,34,7,10,17,-21,36,57,17
+Bundesliga,1,2020,18,FC Schalke 04,174,16,LWLLL,34,3,7,24,-61,25,86,18
+Bundesliga_2,2,2020,1,VfL BOCHUM,176,67,WDWLW,34,21,4,9,27,66,39,19
+Bundesliga_2,2,2020,2,SpVgg Greuther Furth,178,64,WWDWL,34,18,10,6,25,69,44,20
+Bundesliga_2,2,2020,3,Holstein Kiel,191,62,LLWWW,34,18,8,8,22,57,35,21
+Bundesliga_2,2,2020,4,Hamburger SV,175,58,WLWDD,34,16,10,8,27,71,44,22
+Bundesliga_2,2,2020,5,Fortuna Dusseldorf,158,56,LWDWL,34,16,8,10,9,55,46,23
+Bundesliga_2,2,2020,6,Karlsruher SC,785,52,WWDLD,34,14,10,10,7,51,44,24
+Bundesliga_2,2,2020,7,SV Darmstadt 98,181,51,WWWWW,34,15,6,13,8,63,55,25
+Bundesliga_2,2,2020,8,FC Heidenheim,180,51,LLWLL,34,15,6,13,0,49,49,26
+Bundesliga_2,2,2020,9,SC Paderborn 07,185,47,DLWWD,34,12,11,11,8,53,45,27
+Bundesliga_2,2,2020,10,FC St. Pauli,186,47,LLLWL,34,13,8,13,-5,51,56,28
+Bundesliga_2,2,2020,11,FC Nurnberg,171,44,WDLDW,34,11,11,12,-5,46,51,29
+Bundesliga_2,2,2020,12,Erzgebirge AUE,190,44,WLLDW,34,12,8,14,-9,44,53,30
+Bundesliga_2,2,2020,13,Hannover 96,166,42,LWLLL,34,12,6,16,2,53,51,31
+Bundesliga_2,2,2020,14,Jahn Regensburg,177,38,WLLLD,34,9,11,14,-13,37,50,32
+Bundesliga_2,2,2020,15,SV Sandhausen,189,34,LWLLL,34,10,4,20,-19,41,60,33
+Bundesliga_2,2,2020,16,VfL Osnabruck,1324,33,LWWLD,34,9,6,19,-23,35,58,34
+Bundesliga_2,2,2020,17,Eintracht Braunschweig,744,31,LLDLL,34,7,10,17,-29,30,59,35
+Bundesliga_2,2,2020,18,FC Wurzburger Kickers,784,25,DWLDL,34,6,7,21,-32,37,69,36
+Bundesliga_3,3,2020,1,Dynamo Dresden,183,75,WWWDW,38,23,6,9,32,61,29,37
+Bundesliga_3,3,2020,2,Hansa Rostock,1321,71,DWDDW,38,20,11,7,19,52,33,38
+Bundesliga_3,3,2020,3,FC Ingolstadt 04,184,71,WWDDW,38,20,11,7,16,56,40,39
+Bundesliga_3,3,2020,4,TSV 1860 Munich,786,66,LDDWW,38,18,12,8,34,69,35,40
+Bundesliga_3,3,2020,5,FC Saarbrucken,1639,59,LWDLW,38,16,11,11,15,66,51,41
+Bundesliga_3,3,2020,6,SV Wehen,1319,56,LLDWL,38,15,11,12,4,57,53,42
+Bundesliga_3,3,2020,7,Verl,4265,55,DLWDD,38,14,13,11,11,66,55,43
+Bundesliga_3,3,2020,8,Waldhof Mannheim,4268,52,DWWWL,38,13,13,12,-5,50,55,44
+Bundesliga_3,3,2020,9,Hallescher FC,1316,52,WWLWW,38,14,10,14,-7,51,58,45
+Bundesliga_3,3,2020,10,FSV Zwickau,1315,51,WWDDL,38,13,12,13,1,46,45,46
+Bundesliga_3,3,2020,11,FC Magdeburg,179,51,DLWWW,38,14,9,15,-3,42,45,47
+Bundesliga_3,3,2020,12,FC Viktoria Koln,1620,51,DDLDD,38,13,12,13,-7,52,59,48
+Bundesliga_3,3,2020,13,Türkgücü-Ataspor,9335,47,DLLLL,38,12,11,15,-10,45,55,49
+Bundesliga_3,3,2020,14,FC Kaiserslautern,745,43,DDWLW,38,8,19,11,-5,47,52,50
+Bundesliga_3,3,2020,15,MSV Duisburg,187,43,LLLDL,38,11,10,17,-15,52,67,51
+Bundesliga_3,3,2020,16,KFC Uerdingen 05,1322,41,DWLDL,38,11,11,16,-12,38,50,52
+Bundesliga_3,3,2020,17,SV Meppen,1318,41,WLLDL,38,12,5,21,-24,37,61,53
+Bundesliga_3,3,2020,18,Bayern München II,4674,37,LDLDL,38,8,13,17,-11,47,58,54
+Bundesliga_3,3,2020,19,VfB Lubeck,1625,35,DLWLL,38,8,11,19,-16,41,57,55
+Bundesliga_3,3,2020,20,SpVgg Unterhaching,1314,32,DLWLL,38,9,5,24,-17,40,57,56
+Bundesliga,1,2021,1,Bayern Munich,157,77,DDLWW,34,24,5,5,60,97,37,1
+Bundesliga,1,2021,2,Borussia Dortmund,165,69,WWLLW,34,22,3,9,33,85,52,2
+Bundesliga,1,2021,3,Bayer Leverkusen,168,64,WWWWL,34,19,7,8,33,80,47,3
+Bundesliga,1,2021,4,RB Leipzig,173,58,DWLLW,34,17,7,10,35,72,37,4
+Bundesliga,1,2021,5,Union Berlin,182,57,WWDWW,34,16,9,9,6,50,44,5
+Bundesliga,1,2021,6,SC Freiburg,160,55,LLWDW,34,15,10,9,12,58,46,6
+Bundesliga,1,2021,7,FC Koln,192,52,LLWWW,34,14,10,10,3,52,49,7
+Bundesliga,1,2021,8,FSV Mainz 05,164,46,DWWLD,34,13,7,14,5,50,45,8
+Bundesliga,1,2021,9,1899 Hoffenheim,167,46,LLLDD,34,13,7,14,-2,58,60,9
+Bundesliga,1,2021,10,Borussia Monchengladbach,163,45,WDWDL,34,12,9,13,-7,54,61,10
+Bundesliga,1,2021,11,Eintracht Frankfurt,169,42,DDLDL,34,10,12,12,-4,45,49,11
+Bundesliga,1,2021,12,VfL Wolfsburg,161,42,DWDWL,34,12,6,16,-11,43,54,12
+Bundesliga,1,2021,13,VfL BOCHUM,176,42,LWWLL,34,12,6,16,-14,38,52,13
+Bundesliga,1,2021,14,FC Augsburg,170,38,WLLWL,34,10,8,16,-17,39,56,14
+Bundesliga,1,2021,15,VfB Stuttgart,172,33,WDDLD,34,7,12,15,-18,41,59,15
+Bundesliga,1,2021,16,Hertha Berlin,159,33,LLDWW,34,9,6,19,-34,37,71,16
+Bundesliga,1,2021,17,Arminia Bielefeld,188,28,DLDLL,34,5,13,16,-26,27,53,17
+Bundesliga,1,2021,18,SpVgg Greuther Furth,178,18,LLDLD,34,3,9,22,-54,28,82,18
+Bundesliga_2,2,2021,1,FC Schalke 04,174,65,WWWLW,34,20,5,9,28,72,44,19
+Bundesliga_2,2,2021,2,Werder Bremen,162,63,WWLWD,34,18,9,7,22,65,43,20
+Bundesliga_2,2,2021,3,Hamburger SV,175,60,WWWWW,34,16,12,6,32,67,35,21
+Bundesliga_2,2,2021,4,SV Darmstadt 98,181,60,WLWWL,34,18,6,10,25,71,46,22
+Bundesliga_2,2,2021,5,FC St. Pauli,186,57,WLDLD,34,16,9,9,15,61,46,23
+Bundesliga_2,2,2021,6,FC Heidenheim,180,52,WWLDL,34,15,7,12,-2,43,45,24
+Bundesliga_2,2,2021,7,SC Paderborn 07,185,51,LWDWW,34,13,12,9,12,56,44,25
+Bundesliga_2,2,2021,8,FC Nurnberg,171,51,LLDLD,34,14,9,11,0,49,49,26
+Bundesliga_2,2,2021,9,Holstein Kiel,191,45,LWWDD,34,12,9,13,-8,46,54,27
+Bundesliga_2,2,2021,10,Fortuna Dusseldorf,158,44,LWWDD,34,11,11,12,3,45,42,28
+Bundesliga_2,2,2021,11,Hannover 96,166,42,WLWLD,34,11,9,14,-14,35,49,29
+Bundesliga_2,2,2021,12,Karlsruher SC,785,41,LDLDL,34,9,14,11,-1,54,55,30
+Bundesliga_2,2,2021,13,Hansa Rostock,1321,41,LDDDD,34,10,11,13,-11,41,52,31
+Bundesliga_2,2,2021,14,SV Sandhausen,189,41,WLLWD,34,10,11,13,-12,42,54,32
+Bundesliga_2,2,2021,15,Jahn Regensburg,177,40,LLDLD,34,10,10,14,-1,50,51,33
+Bundesliga_2,2,2021,16,Dynamo Dresden,183,32,LDDDD,34,7,11,16,-13,33,46,34
+Bundesliga_2,2,2021,17,Erzgebirge AUE,190,26,WLLDW,34,6,8,20,-40,32,72,35
+Bundesliga_2,2,2021,18,FC Ingolstadt 04,184,21,LDLDL,34,4,9,21,-35,30,65,36
+Bundesliga_3,3,2021,1,FC Magdeburg,179,78,WWLWW,36,24,6,6,44,83,39,37
+Bundesliga_3,3,2021,2,Eintracht Braunschweig,744,64,LLWWW,36,18,10,8,25,61,36,38
+Bundesliga_3,3,2021,3,FC Kaiserslautern,745,63,LLLWW,36,18,9,9,29,56,27,39
+Bundesliga_3,3,2021,4,TSV 1860 Munich,786,61,WLWWL,36,17,10,9,17,67,50,40
+Bundesliga_3,3,2021,5,Waldhof Mannheim,4268,60,WDWWL,36,16,12,8,18,58,40,41
+Bundesliga_3,3,2021,6,VfL Osnabruck,1324,58,LWLLD,36,16,10,10,8,56,48,42
+Bundesliga_3,3,2021,7,FC Saarbrucken,1639,53,DDLLL,36,14,11,11,6,50,44,43
+Bundesliga_3,3,2021,8,SV Wehen,1319,51,DDLWL,36,14,9,13,5,49,44,44
+Bundesliga_3,3,2021,9,Borussia Dortmund II,9367,49,LLWDD,36,14,7,15,3,51,48,45
+Bundesliga_3,3,2021,10,FSV Zwickau,1315,47,WDLWW,36,11,14,11,2,46,44,46
+Bundesliga_3,3,2021,11,Freiburg II,9363,47,DLWLW,36,12,11,13,-8,34,42,47
+Bundesliga_3,3,2021,12,SV Meppen,1318,47,WWLDD,36,13,8,15,-13,47,60,48
+Bundesliga_3,3,2021,13,FC Viktoria Koln,1620,45,WWDDL,36,12,9,15,-13,39,52,49
+Bundesliga_3,3,2021,14,Hallescher FC,1316,43,DWDDD,36,10,13,13,-2,46,48,50
+Bundesliga_3,3,2021,15,MSV Duisburg,187,42,DWLLW,36,13,3,20,-25,46,71,51
+Bundesliga_3,3,2021,16,Verl,4265,40,DWWWL,36,10,10,16,-10,56,66,52
+Bundesliga_3,3,2021,17,Viktoria Berlin,4266,37,LWLLW,36,10,7,19,-18,44,62,53
+Bundesliga_3,3,2021,18,FC Wurzburger Kickers,784,30,LLWWL,36,7,9,20,-25,34,59,54
+Bundesliga_3,3,2021,19,Havelse,9342,23,LLLWD,36,5,8,23,-43,28,71,55
+Bundesliga_3,3,2021,20,Türkgücü-Ataspor,9335,0,,0,0,0,0,0,0,0,56
+Bundesliga,1,2022,1,Bayern Munich,157,71,WLWWW,34,21,8,5,54,92,38,1
+Bundesliga,1,2022,2,Borussia Dortmund,165,71,DWWWD,34,22,5,7,39,83,44,2
+Bundesliga,1,2022,3,RB Leipzig,173,66,WWWWW,34,20,6,8,23,64,41,3
+Bundesliga,1,2022,4,Union Berlin,182,62,WLWLD,34,18,8,8,13,51,38,4
+Bundesliga,1,2022,5,SC Freiburg,160,59,LWLLW,34,17,8,9,7,51,44,5
+Bundesliga,1,2022,6,Bayer Leverkusen,168,50,LDDLD,34,14,8,12,8,57,49,6
+Bundesliga,1,2022,7,Eintracht Frankfurt,169,50,WDWLD,34,13,11,10,6,58,52,7
+Bundesliga,1,2022,8,VfL Wolfsburg,161,49,LLWLW,34,13,10,11,9,57,48,8
+Bundesliga,1,2022,9,FSV Mainz 05,164,46,DLLLL,34,12,10,12,-1,54,55,9
+Bundesliga,1,2022,10,Borussia Monchengladbach,163,43,WDLWL,34,11,10,13,-3,52,55,10
+Bundesliga,1,2022,11,FC Koln,192,42,LDWWL,34,10,12,12,-5,49,54,11
+Bundesliga,1,2022,12,1899 Hoffenheim,167,36,DWLWL,34,10,6,18,-9,48,57,12
+Bundesliga,1,2022,13,Werder Bremen,162,36,LDLLL,34,10,6,18,-13,51,64,13
+Bundesliga,1,2022,14,VfL BOCHUM,176,35,WDWLD,34,10,5,19,-32,40,72,14
+Bundesliga,1,2022,15,FC Augsburg,170,34,LLLWD,34,9,7,18,-21,42,63,15
+Bundesliga,1,2022,16,VfB Stuttgart,172,33,DWDLW,34,7,12,15,-12,45,57,16
+Bundesliga,1,2022,17,FC Schalke 04,174,31,LDLWW,34,7,10,17,-36,35,71,17
+Bundesliga,1,2022,18,Hertha Berlin,159,29,WDLWL,34,7,8,19,-27,42,69,18
+Bundesliga_2,2,2022,1,FC Heidenheim,180,67,WWLDW,34,19,10,5,31,67,36,19
+Bundesliga_2,2,2022,2,SV Darmstadt 98,181,67,LWLLW,34,20,7,7,17,50,33,20
+Bundesliga_2,2,2022,3,Hamburger SV,175,66,WWWDL,34,20,6,8,25,70,45,21
+Bundesliga_2,2,2022,4,Fortuna Dusseldorf,158,58,WDDWW,34,17,7,10,17,60,43,22
+Bundesliga_2,2,2022,5,FC St. Pauli,186,58,DWDWW,34,16,10,8,16,55,39,23
+Bundesliga_2,2,2022,6,SC Paderborn 07,185,55,LDWDW,34,16,7,11,24,68,44,24
+Bundesliga_2,2,2022,7,Karlsruher SC,785,46,DWLWL,34,13,7,14,3,56,53,25
+Bundesliga_2,2,2022,8,Holstein Kiel,191,46,WLWLL,34,12,10,12,-3,58,61,26
+Bundesliga_2,2,2022,9,FC Kaiserslautern,745,45,LLLDL,34,11,12,11,-1,47,48,27
+Bundesliga_2,2,2022,10,Hannover 96,166,44,LDWLW,34,12,8,14,-5,50,55,28
+Bundesliga_2,2,2022,11,FC Magdeburg,179,43,WLDDW,34,12,7,15,-7,48,55,29
+Bundesliga_2,2,2022,12,SpVgg Greuther Furth,178,41,WLDDL,34,10,11,13,-3,47,50,30
+Bundesliga_2,2,2022,13,Hansa Rostock,1321,41,WDWWW,34,12,5,17,-16,32,48,31
+Bundesliga_2,2,2022,14,FC Nurnberg,171,39,WDDDL,34,10,9,15,-17,32,49,32
+Bundesliga_2,2,2022,15,Eintracht Braunschweig,744,36,LLDWL,34,9,9,16,-17,42,59,33
+Bundesliga_2,2,2022,16,Arminia Bielefeld,188,34,LDWDL,34,9,7,18,-12,50,62,34
+Bundesliga_2,2,2022,17,Jahn Regensburg,177,31,LWLLL,34,8,7,19,-24,34,58,35
+Bundesliga_2,2,2022,18,SV Sandhausen,189,28,LLLLW,34,7,7,20,-28,35,63,36
+Bundesliga_3,3,2022,1,SV Elversberg,1660,74,WDLWL,38,22,8,8,40,80,40,37
+Bundesliga_3,3,2022,2,Freiburg II,9363,73,WWWLD,38,21,10,7,20,54,34,38
+Bundesliga_3,3,2022,3,VfL Osnabruck,1324,70,WWDWW,38,21,7,10,21,70,49,39
+Bundesliga_3,3,2022,4,SV Wehen,1319,70,WDWLL,38,21,7,10,20,71,51,40
+Bundesliga_3,3,2022,5,FC Saarbrücken,1639,69,WDWWW,38,20,9,9,25,64,39,41
+Bundesliga_3,3,2022,6,Dynamo Dresden,183,69,WLWWD,38,20,9,9,21,65,44,42
+Bundesliga_3,3,2022,7,Waldhof Mannheim,4268,60,WLLLW,38,19,3,16,-2,63,65,43
+Bundesliga_3,3,2022,8,TSV 1860 Munich,786,57,DWDWL,38,16,9,13,9,61,52,44
+Bundesliga_3,3,2022,9,FC Viktoria Koln,1620,55,LLWDD,38,14,13,11,5,58,53,45
+Bundesliga_3,3,2022,10,Verl,4265,49,DLLLL,38,13,10,15,2,60,58,46
+Bundesliga_3,3,2022,11,FC Ingolstadt 04,184,47,LWWLW,38,14,5,19,-2,54,56,47
+Bundesliga_3,3,2022,12,MSV Duisburg,187,46,LDLWW,38,11,13,14,-4,54,58,48
+Bundesliga_3,3,2022,13,Borussia Dortmund II,9367,45,LWDDW,38,13,6,19,-2,47,49,49
+Bundesliga_3,3,2022,14,Erzgebirge AUE,190,45,DLDLD,38,12,9,17,-13,49,62,50
+Bundesliga_3,3,2022,15,Rot-weiss Essen,1621,42,DLDLD,38,9,15,14,-13,43,56,51
+Bundesliga_3,3,2022,16,Hallescher FC,1316,41,LWLWL,38,10,11,17,-11,49,60,52
+Bundesliga_3,3,2022,17,SV Meppen,1318,37,LWDWW,38,8,13,17,-22,43,65,53
+Bundesliga_3,3,2022,18,VfB Oldenburg,9347,35,LLWLD,38,9,8,21,-22,42,64,54
+Bundesliga_3,3,2022,19,FSV Zwickau,1315,35,DWLWL,38,9,8,21,-30,42,72,55
+Bundesliga_3,3,2022,20,Bayreuth,9325,32,DLLLL,38,9,5,24,-42,39,81,56
+Bundesliga,1,2023,1,Bayer Leverkusen,168,67,WWWWW,25,21,4,0,47,63,16,1
+Bundesliga,1,2023,2,Bayern Munich,157,57,WDWLL,25,18,3,4,44,73,29,2
+Bundesliga,1,2023,3,VfB Stuttgart,172,53,WWDWW,25,17,2,6,26,57,31,3
+Bundesliga,1,2023,4,Borussia Dortmund,165,47,WWLDW,25,13,8,4,19,50,31,4
+Bundesliga,1,2023,5,RB Leipzig,173,46,WWLWD,25,14,4,7,24,55,31,5
+Bundesliga,1,2023,6,Eintracht Frankfurt,169,40,WWDDD,25,10,10,5,9,41,32,6
+Bundesliga,1,2023,7,1899 Hoffenheim,167,33,LWWLD,25,9,6,10,-3,44,47,7
+Bundesliga,1,2023,8,SC Freiburg,160,33,WDLDL,25,9,6,10,-11,34,45,8
+Bundesliga,1,2023,9,FC Augsburg,170,32,WWWLD,25,8,8,9,-1,40,41,9
+Bundesliga,1,2023,10,Werder Bremen,162,30,LLDWL,25,8,6,11,-5,34,39,10
+Bundesliga,1,2023,11,FC Heidenheim,180,28,LLDLW,25,7,7,11,-9,34,43,11
+Bundesliga,1,2023,12,Borussia Monchengladbach,163,27,DDWLD,25,6,9,10,-4,45,49,12
+Bundesliga,1,2023,13,VfL Wolfsburg,161,25,LLDDL,25,6,7,12,-11,30,41,13
+Bundesliga,1,2023,14,Union Berlin,182,25,LLDWW,25,7,4,14,-18,23,41,14
+Bundesliga,1,2023,15,Vfl Bochum,176,25,LLLWD,25,5,10,10,-22,30,52,15
+Bundesliga,1,2023,16,1.FC Köln,192,18,DLDLD,25,3,9,13,-23,19,42,16
+Bundesliga,1,2023,17,FSV Mainz 05,164,16,LDLWL,25,2,10,13,-26,20,46,17
+Bundesliga,1,2023,18,SV Darmstadt 98,181,13,LLDLD,25,2,7,16,-36,24,60,18
+Bundesliga_2,2,2023,1,FC St. Pauli,186,51,WLWWL,25,14,9,2,21,46,25,19
+Bundesliga_2,2,2023,2,Holstein Kiel,191,46,WDLWW,25,14,4,7,13,47,34,20
+Bundesliga_2,2,2023,3,Hamburger SV,175,41,LLWDL,25,12,5,8,10,47,37,21
+Bundesliga_2,2,2023,4,Fortuna Dusseldorf,158,40,WDWDD,25,11,7,7,18,52,34,22
+Bundesliga_2,2,2023,5,Hannover 96,166,39,DDLWW,25,10,9,6,12,46,34,23
+Bundesliga_2,2,2023,6,SC Paderborn 07,185,39,DDWLW,25,11,6,8,-2,39,41,24
+Bundesliga_2,2,2023,7,SpVgg Greuther Furth,178,38,LLWLL,25,11,5,9,0,37,37,25
+Bundesliga_2,2,2023,8,FC Nurnberg,171,36,WWLDD,25,10,6,9,-8,35,43,26
+Bundesliga_2,2,2023,9,Karlsruher SC,785,35,LWWDL,25,9,8,8,7,48,41,27
+Bundesliga_2,2,2023,10,SV Elversberg,1660,35,WLLWD,25,10,5,10,-2,39,41,28
+Bundesliga_2,2,2023,11,Hertha Berlin,159,34,LDDWW,25,9,7,9,4,45,41,29
+Bundesliga_2,2,2023,12,FC Magdeburg,179,31,LDWLW,25,8,7,10,4,38,34,30
+Bundesliga_2,2,2023,13,SV Wehen,1319,31,DWLLD,25,8,7,10,-1,30,31,31
+Bundesliga_2,2,2023,14,FC Schalke 04,174,30,DWLWL,25,9,3,13,-9,40,49,32
+Bundesliga_2,2,2023,15,FC Kaiserslautern,745,28,WWLDL,25,8,4,13,-9,41,50,33
+Bundesliga_2,2,2023,16,Hansa Rostock,1321,25,WLLDD,25,7,4,14,-18,23,41,34
+Bundesliga_2,2,2023,17,Eintracht Braunschweig,744,24,LLDLW,25,7,3,15,-15,23,38,35
+Bundesliga_2,2,2023,18,VfL Osnabruck,1324,18,LWWLD,25,3,9,13,-25,24,49,36
+Bundesliga_3,3,2023,1,SSV ULM 1846,1652,55,DWWDW,30,16,7,7,16,48,32,37
+Bundesliga_3,3,2023,2,Dynamo Dresden,183,54,DWLDL,30,17,3,10,19,49,30,38
+Bundesliga_3,3,2023,3,Jahn Regensburg,177,54,LDLDL,30,15,9,6,9,42,33,39
+Bundesliga_3,3,2023,4,Preussen Munster,1313,52,WWWWW,30,14,10,6,15,53,38,40
+Bundesliga_3,3,2023,5,SV Sandhausen,189,48,WLWLW,30,13,9,8,6,43,37,41
+Bundesliga_3,3,2023,6,Rot-weiss Essen,1621,47,WDLDL,30,14,5,11,1,45,44,42
+Bundesliga_3,3,2023,7,SpVgg Unterhaching,1314,46,LWWLW,29,13,7,9,8,39,31,43
+Bundesliga_3,3,2023,8,Borussia Dortmund II,9367,45,LLLWW,30,12,9,9,2,43,41,44
+Bundesliga_3,3,2023,9,Erzgebirge AUE,190,45,WLLDW,30,12,9,9,1,37,36,45
+Bundesliga_3,3,2023,10,FC Saarbrücken,1639,43,LWDDW,29,10,13,6,13,45,32,46
+Bundesliga_3,3,2023,11,FC Ingolstadt 04,184,41,LDLDL,30,11,8,11,8,50,42,47
+Bundesliga_3,3,2023,12,Verl,4265,41,WDDLL,30,11,8,11,1,46,45,48
+Bundesliga_3,3,2023,13,FC Viktoria Koln,1620,39,LDWWL,30,10,9,11,-4,47,51,49
+Bundesliga_3,3,2023,14,TSV 1860 Munich,786,38,LLLWW,30,11,5,14,1,33,32,50
+Bundesliga_3,3,2023,15,Arminia Bielefeld,188,33,LWDDL,30,8,9,13,-3,40,43,51
+Bundesliga_3,3,2023,16,Hallescher FC,1316,32,DLWWL,30,9,5,16,-13,45,58,52
+Bundesliga_3,3,2023,17,Waldhof Mannheim,4268,31,WDWLL,30,8,7,15,-13,36,49,53
+Bundesliga_3,3,2023,18,MSV Duisburg,187,29,WLWLW,30,7,8,15,-13,31,44,54
+Bundesliga_3,3,2023,19,VfB Lubeck,1625,26,WLDLL,30,5,11,14,-28,27,55,55
+Bundesliga_3,3,2023,20,Freiburg II,9363,20,DWLWW,30,5,5,20,-26,28,54,56
