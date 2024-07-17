@@ -26,9 +26,12 @@ def load_league_mappings(country):
     return league_mappings.get(country)
 
 
-if __name__ == "__main__":
-    country = 'Germany'
+def load_csv_data(country, file_name):
+    file_path = os.path.join(get_project_root(), 'financial_data', country, file_name)
+    return pd.read_csv(file_path)
 
+
+def request_financial_data(country):
     mappings = load_mappings_from_yaml(os.path.join('settings', f'mapping_{country.lower()}.yaml'))
 
     data_seasons = []
@@ -47,8 +50,19 @@ if __name__ == "__main__":
 
     financial_data = pd.concat(data_seasons, ignore_index=True)
 
+    return financial_data
+
+
+if __name__ == "__main__":
+    country = 'Germany'
+
+    financial_data = load_csv_data(country, 'league_financial_data.csv')
+
+    # Example usage
+    # financial_data = request_financial_data(country)
+
     # Save financial_data to CSV in the Germany folder under financial_data
-    output_path = os.path.join(get_project_root(), 'financial_data', 'Germany', 'league_financial_data.csv')
+    output_path = os.path.join(get_project_root(), 'process_data', country, 'league_financial_data.csv')
     financial_data.to_csv(output_path, index=False)
 
     print(financial_data.head())

@@ -82,8 +82,8 @@ class CupAnalysis:
 
 # Usage example
 if __name__ == "__main__":
-    country = 'Netherlands'
-    cup = 'KNVB_Beker'
+    country = 'Germany'
+    cup = 'DFB_Pokal'
     season_start = 2011
     season_end = 2023
 
