@@ -43,7 +43,6 @@ class LeagueAnalysis:
             'Team': entry['team']['name'],
             'Team_id': entry['team']['id'],
             'Points': entry['points'],
-            'Form': entry['form'],
             'Played': entry['all']['played'],
             'Win': entry['all']['win'],
             'Draw': entry['all']['draw'],
@@ -141,10 +140,10 @@ def run_analysis(country):
     analysis = LeagueAnalysis(country)
     fixtures_final = analysis.compile_fixtures()
     # print('test')
-    # standings_final = analysis.compile_standings()
+    standings_final = analysis.compile_standings()
     # print(standings_final[['Year', 'Division', 'Position', 'Team', 'NationalRank']].head(5))
 
 
 if __name__ == "__main__":
-    country = 'Germany'
+    country = 'England'
     run_analysis(country)

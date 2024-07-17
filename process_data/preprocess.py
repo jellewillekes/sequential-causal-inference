@@ -12,17 +12,20 @@ import statsmodels.api as sm
 
 project_root = get_project_root()
 
+
 # Ensure plots directory exists
 def ensure_country_plots_dir(country):
     country_plots_dir = os.path.join("plots", country)
     os.makedirs(country_plots_dir, exist_ok=True)
     return country_plots_dir
 
+
 # Function for loading data
 def load_csv_data(country, file_name):
     project_root = get_project_root()
     file_path = os.path.join(project_root, 'process_data', country, file_name)
     return pd.read_csv(file_path)
+
 
 def preprocess_data(fixtures_df, standings_df):
     # Filter and preprocess data
