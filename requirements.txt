@@ -5,3 +5,9 @@ statsmodels
 matplotlib
 
 seaborn
+
+geopy
+
+requests
+
+beautifulsoup4
