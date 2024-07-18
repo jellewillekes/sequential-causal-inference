@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from raw_data.loader import get_project_root
 
-from fuzzywuzzy import process
+from fuzzywuzzy import process, fuzz
 
 
 # Ensure plots directory exists
@@ -106,13 +106,23 @@ def preprocess_data(country, cup):
     financial_df = load_csv_data(country, f'league_financial_data.csv')
 
     def get_best_match(row, choices):
-        match, score, x = process.extractOne(row['Team_name'], choices)
-        return match if score >= 80 else None
+        match, score, index = process.extractOne(row['Team_name'], choices)
+        if score >= 70.5:
+            return match, score
+        else:
+            return None, None
 
-    match_df['best_match'] = match_df.apply(get_best_match, axis=1, choices=financial_df['team_name'])
+    # Apply the get_best_match function and split the result into two columns
+    match_df[['best_match', 'match_ratio']] = match_df.apply(lambda row: get_best_match(row, financial_df['team_name']), axis=1, result_type='expand')
 
-    merged = pd.merge(match_df, financial_df, left_on='best_match', right_on='team_name', suffixes=('_match', '_fin'), how='left')
-    return match_df
+    # Filter out rows where match_ratio is None
+    match_df = match_df[match_df['match_ratio'].notna()]
+
+    # Merge the dataframes on 'Year' and 'best_match'
+    merged = pd.merge(match_df, financial_df, left_on=['Year', 'best_match'], right_on=['year', 'team_name'],
+                      suffixes=('_match', '_fin'), how='left')
+
+    return merged
 
 
 if __name__ == "__main__":
