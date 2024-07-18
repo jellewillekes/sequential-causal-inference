@@ -2,6 +2,8 @@ import os
 import pandas as pd
 from raw_data.loader import get_project_root
 
+from fuzzywuzzy import process
+
 
 # Ensure plots directory exists
 def ensure_country_plots_dir(country):
@@ -23,7 +25,7 @@ def preprocess_match_data(fixtures_df, standings_df):
 
     # Merge operations
     stages_df = (fixtures_df[fixtures_df['Year'] > 2011]
-                 .merge(standings_df[['PrevYear', 'Team_id', 'NationalRank']],
+                 .merge(standings_df[['Division', 'PrevYear', 'Team_id', 'NationalRank']],
                         left_on=['Year', 'Opponent_id'],
                         right_on=['PrevYear', 'Team_id'],
                         how='left',
@@ -103,6 +105,13 @@ def preprocess_data(country, cup):
 
     financial_df = load_csv_data(country, f'league_financial_data.csv')
 
+    def get_best_match(row, choices):
+        match, score, x = process.extractOne(row['Team_name'], choices)
+        return match if score >= 80 else None
+
+    match_df['best_match'] = match_df.apply(get_best_match, axis=1, choices=financial_df['team_name'])
+
+    merged = pd.merge(match_df, financial_df, left_on='best_match', right_on='team_name', suffixes=('_match', '_fin'), how='left')
     return match_df
 
 
