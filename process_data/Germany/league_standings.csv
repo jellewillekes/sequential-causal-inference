@@ -1,4 +1,4 @@
-League,Division,Year,Position,Team,Team_id,Points,Played,Win,Draw,Lose,GoalsDiff,GoalsFor,GoalsAgainst,NationalRank
+league,division,year,position,team_name,team_id,points,played,win,draw,lose,goals_diff,goals_for,goals_against,national_rank
 Bundesliga,1,2010,1,Borussia Dortmund,165,75,34,23,6,5,45,67,22,1
 Bundesliga,1,2010,2,Bayer Leverkusen,168,68,34,20,8,6,20,64,44,2
 Bundesliga,1,2010,3,Bayern Munich,157,65,34,19,8,7,41,81,40,3

@@ -21,13 +21,13 @@ class DistanceAnalysis:
         return fixtures_with_distances
 
     def calculate_distances(self, fixtures):
-        unique_combinations = (fixtures[['Team_name', 'Opponent_name']]
+        unique_combinations = (fixtures[['team_name', 'opponent_name']]
                                .drop_duplicates()
                                .assign(
-            Pair=lambda df: df.apply(lambda row: tuple(sorted([row['Team_name'], row['Opponent_name']])), axis=1))
+            Pair=lambda df: df.apply(lambda row: tuple(sorted([row['team_name'], row['opponent_name']])), axis=1))
                                .drop_duplicates(subset=['Pair'])
                                .drop(columns=['Pair'])
-                               .sort_values(by=['Team_name', 'Opponent_name'])
+                               .sort_values(by=['team_name', 'opponent_name'])
                                .reset_index(drop=True))
 
         unique_combinations['Distance'] = None
@@ -35,8 +35,8 @@ class DistanceAnalysis:
         for i, row in unique_combinations.iterrows():
             print(f'Processing row {i+1}/{len(unique_combinations)}')
             try:
-                distance = calculate_distance(row['Team_name'], row['Opponent_name'], self.country)
-                unique_combinations.at[i, 'Distance'] = distance
+                distance = calculate_distance(row['team_name'], row['opponent_name'], self.country)
+                unique_combinations.at[i, 'distance'] = distance
             except Exception as e:
                 print(f"Error calculating distance for index {i}: {e}")
                 # Save progress to CSV before retrying

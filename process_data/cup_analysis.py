@@ -58,19 +58,19 @@ class CupAnalysis:
         venue_name = fixture['fixture']['venue']['name']
 
         return {
-            'Year': season,
-            'Round': round_name,
-            'Stage': stage_number,
-            'Fixture_id': fixture['fixture']['id'],
-            'Fixture_date': fixture['fixture']['date'],
-            'Team_name': fixture['teams'][team_key]['name'],
-            'Team_id': fixture['teams'][team_key]['id'],
-            'Opponent_name': fixture['teams'][opponent_key]['name'],
-            'Opponent_id': fixture['teams'][opponent_key]['id'],
-            'Team_win': team_win,
-            'Team_home': team_type,
-            'Match_length': fixture['fixture']['status']['elapsed'],
-            'Match_location': venue_name,
+            'year': season,
+            'round': round_name,
+            'stage': stage_number,
+            'fixture_id': fixture['fixture']['id'],
+            'fixture_date': fixture['fixture']['date'],
+            'team_name': fixture['teams'][team_key]['name'],
+            'team_id': fixture['teams'][team_key]['id'],
+            'opponent_name': fixture['teams'][opponent_key]['name'],
+            'opponent_id': fixture['teams'][opponent_key]['id'],
+            'team_win': team_win,
+            'team_home': team_type,
+            'fixture_length': fixture['fixture']['status']['elapsed'],
+            'fixture_location': venue_name,
         }
 
     def save_to_csv(self, df):

@@ -56,10 +56,10 @@ def request_financial_data(country):
 if __name__ == "__main__":
     country = 'Germany'
 
-    financial_data = load_csv_data(country, 'league_financial_data.csv')
+    # financial_data = load_csv_data(country, 'league_financial_data.csv')
 
     # Example usage
-    # financial_data = request_financial_data(country)
+    financial_data = request_financial_data(country)
 
     # Save financial_data to CSV in the Germany folder under financial_data
     output_path = os.path.join(get_project_root(), 'process_data', country, 'league_financial_data.csv')

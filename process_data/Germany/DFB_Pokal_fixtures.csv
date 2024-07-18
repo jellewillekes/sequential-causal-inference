@@ -1,18 +1,18 @@
-Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponent_id,Team_win,Team_home,Match_length,Match_location
-2011,Quarter-finals,5,559998,2012-02-07T19:30:00+00:00,Holstein Kiel,191,Borussia Dortmund,165,0.0,home,90.0,Holstein-Stadion
-2011,Quarter-finals,5,559998,2012-02-07T19:30:00+00:00,Borussia Dortmund,165,Holstein Kiel,191,1.0,away,90.0,Holstein-Stadion
-2011,Quarter-finals,5,559999,2012-02-08T18:00:00+00:00,1899 Hoffenheim,167,SpVgg Greuther Furth,178,0.0,home,90.0,Wirsol Rhein-Neckar-Arena
-2011,Quarter-finals,5,559999,2012-02-08T18:00:00+00:00,SpVgg Greuther Furth,178,1899 Hoffenheim,167,1.0,away,90.0,Wirsol Rhein-Neckar-Arena
-2011,Quarter-finals,5,560000,2012-02-08T18:00:00+00:00,Hertha Berlin,159,Borussia Monchengladbach,163,0.0,home,120.0,Olympiastadion Berlin
-2011,Quarter-finals,5,560000,2012-02-08T18:00:00+00:00,Borussia Monchengladbach,163,Hertha Berlin,159,1.0,away,120.0,Olympiastadion Berlin
-2011,Quarter-finals,5,560001,2012-02-08T19:30:00+00:00,VfB Stuttgart,172,Bayern Munich,157,0.0,home,90.0,Mercedes-Benz-Arena
-2011,Quarter-finals,5,560001,2012-02-08T19:30:00+00:00,Bayern Munich,157,VfB Stuttgart,172,1.0,away,90.0,Mercedes-Benz-Arena
-2011,Semi-finals,6,560002,2012-03-20T19:30:00+00:00,SpVgg Greuther Furth,178,Borussia Dortmund,165,0.0,home,120.0,Trolli ARENA
-2011,Semi-finals,6,560002,2012-03-20T19:30:00+00:00,Borussia Dortmund,165,SpVgg Greuther Furth,178,1.0,away,120.0,Trolli ARENA
-2011,Semi-finals,6,560003,2012-03-21T19:30:00+00:00,Borussia Monchengladbach,163,Bayern Munich,157,0.0,home,120.0,Stadion im BORUSSIA-PARK
-2011,Semi-finals,6,560003,2012-03-21T19:30:00+00:00,Bayern Munich,157,Borussia Monchengladbach,163,1.0,away,120.0,Stadion im BORUSSIA-PARK
-2011,Final,7,560004,2012-05-12T18:00:00+00:00,Borussia Dortmund,165,Bayern Munich,157,1.0,home,90.0,Olympiastadion Berlin
-2011,Final,7,560004,2012-05-12T18:00:00+00:00,Bayern Munich,157,Borussia Dortmund,165,0.0,away,90.0,Olympiastadion Berlin
+year,round,stage,fixture_id,fixture_date,team_name,team_id,opponent_name,opponent_id,team_win,team_home,fixture_length,fixture_location
+2011,Quarter-finals,4,559998,2012-02-07T19:30:00+00:00,Holstein Kiel,191,Borussia Dortmund,165,0.0,home,90.0,Holstein-Stadion
+2011,Quarter-finals,4,559998,2012-02-07T19:30:00+00:00,Borussia Dortmund,165,Holstein Kiel,191,1.0,away,90.0,Holstein-Stadion
+2011,Quarter-finals,4,559999,2012-02-08T18:00:00+00:00,1899 Hoffenheim,167,SpVgg Greuther Furth,178,0.0,home,90.0,Wirsol Rhein-Neckar-Arena
+2011,Quarter-finals,4,559999,2012-02-08T18:00:00+00:00,SpVgg Greuther Furth,178,1899 Hoffenheim,167,1.0,away,90.0,Wirsol Rhein-Neckar-Arena
+2011,Quarter-finals,4,560000,2012-02-08T18:00:00+00:00,Hertha Berlin,159,Borussia Monchengladbach,163,0.0,home,120.0,Olympiastadion Berlin
+2011,Quarter-finals,4,560000,2012-02-08T18:00:00+00:00,Borussia Monchengladbach,163,Hertha Berlin,159,1.0,away,120.0,Olympiastadion Berlin
+2011,Quarter-finals,4,560001,2012-02-08T19:30:00+00:00,VfB Stuttgart,172,Bayern Munich,157,0.0,home,90.0,Mercedes-Benz-Arena
+2011,Quarter-finals,4,560001,2012-02-08T19:30:00+00:00,Bayern Munich,157,VfB Stuttgart,172,1.0,away,90.0,Mercedes-Benz-Arena
+2011,Semi-finals,5,560002,2012-03-20T19:30:00+00:00,SpVgg Greuther Furth,178,Borussia Dortmund,165,0.0,home,120.0,Trolli ARENA
+2011,Semi-finals,5,560002,2012-03-20T19:30:00+00:00,Borussia Dortmund,165,SpVgg Greuther Furth,178,1.0,away,120.0,Trolli ARENA
+2011,Semi-finals,5,560003,2012-03-21T19:30:00+00:00,Borussia Monchengladbach,163,Bayern Munich,157,0.0,home,120.0,Stadion im BORUSSIA-PARK
+2011,Semi-finals,5,560003,2012-03-21T19:30:00+00:00,Bayern Munich,157,Borussia Monchengladbach,163,1.0,away,120.0,Stadion im BORUSSIA-PARK
+2011,Final,6,560004,2012-05-12T18:00:00+00:00,Borussia Dortmund,165,Bayern Munich,157,1.0,home,90.0,Olympiastadion Berlin
+2011,Final,6,560004,2012-05-12T18:00:00+00:00,Bayern Munich,157,Borussia Dortmund,165,0.0,away,90.0,Olympiastadion Berlin
 2011,3rd Round,3,560005,2011-12-20T18:00:00+00:00,Vfl Bochum,176,Bayern Munich,157,0.0,home,90.0,rewirpowerSTADION
 2011,3rd Round,3,560005,2011-12-20T18:00:00+00:00,Bayern Munich,157,Vfl Bochum,176,1.0,away,90.0,rewirpowerSTADION
 2011,3rd Round,3,560006,2011-12-20T18:00:00+00:00,FC Nurnberg,171,SpVgg Greuther Furth,178,0.0,home,90.0,easyCredit-Stadion
@@ -125,36 +125,36 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2011,1st Round,1,560059,2011-07-31T15:30:00+00:00,1.FC Köln,192,Wiedenbrück,12897,1.0,away,90.0,Heidewaldstadion
 2011,1st Round,1,560060,2011-08-01T18:30:00+00:00,Eintracht Braunschweig,744,Bayern Munich,157,0.0,home,90.0,Eintracht-Stadion
 2011,1st Round,1,560060,2011-08-01T18:30:00+00:00,Bayern Munich,157,Eintracht Braunschweig,744,1.0,away,90.0,Eintracht-Stadion
-2012,8th Finals,4,559935,2012-12-18T18:00:00+00:00,Karlsruher SC,785,SC Freiburg,160,0.0,home,90.0,Wildparkstadion
-2012,8th Finals,4,559935,2012-12-18T18:00:00+00:00,SC Freiburg,160,Karlsruher SC,785,1.0,away,90.0,Wildparkstadion
-2012,8th Finals,4,559936,2012-12-18T18:00:00+00:00,FC Schalke 04,174,FSV Mainz 05,164,0.0,home,90.0,Veltins-Arena
-2012,8th Finals,4,559936,2012-12-18T18:00:00+00:00,FSV Mainz 05,164,FC Schalke 04,174,1.0,away,90.0,Veltins-Arena
-2012,8th Finals,4,559937,2012-12-18T19:30:00+00:00,Kickers Offenbach,1628,Fortuna Dusseldorf,158,1.0,home,90.0,Sparda-Bank-Hessen-Stadion
-2012,8th Finals,4,559937,2012-12-18T19:30:00+00:00,Fortuna Dusseldorf,158,Kickers Offenbach,1628,0.0,away,90.0,Sparda-Bank-Hessen-Stadion
-2012,8th Finals,4,559938,2012-12-18T19:30:00+00:00,FC Augsburg,170,Bayern Munich,157,0.0,home,90.0,SGL Arena
-2012,8th Finals,4,559938,2012-12-18T19:30:00+00:00,Bayern Munich,157,FC Augsburg,170,1.0,away,90.0,SGL Arena
-2012,8th Finals,4,559939,2012-12-19T18:00:00+00:00,VfL Wolfsburg,161,Bayer Leverkusen,168,1.0,home,90.0,VOLKSWAGEN ARENA
-2012,8th Finals,4,559939,2012-12-19T18:00:00+00:00,Bayer Leverkusen,168,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
-2012,8th Finals,4,559940,2012-12-19T18:00:00+00:00,Vfl Bochum,176,TSV 1860 Munich,786,1.0,home,90.0,rewirpowerSTADION
-2012,8th Finals,4,559940,2012-12-19T18:00:00+00:00,TSV 1860 Munich,786,Vfl Bochum,176,0.0,away,90.0,rewirpowerSTADION
-2012,8th Finals,4,559941,2012-12-19T19:30:00+00:00,Borussia Dortmund,165,Hannover 96,166,1.0,home,90.0,Signal-Iduna-Park
-2012,8th Finals,4,559941,2012-12-19T19:30:00+00:00,Hannover 96,166,Borussia Dortmund,165,0.0,away,90.0,Signal-Iduna-Park
-2012,8th Finals,4,559942,2012-12-19T19:30:00+00:00,VfB Stuttgart,172,1.FC Köln,192,1.0,home,90.0,Mercedes-Benz-Arena
-2012,8th Finals,4,559942,2012-12-19T19:30:00+00:00,1.FC Köln,192,VfB Stuttgart,172,0.0,away,90.0,Mercedes-Benz-Arena
-2012,Quarter-finals,5,559943,2013-02-26T18:00:00+00:00,FSV Mainz 05,164,SC Freiburg,160,0.0,home,120.0,Coface Arena
-2012,Quarter-finals,5,559943,2013-02-26T18:00:00+00:00,SC Freiburg,160,FSV Mainz 05,164,1.0,away,120.0,Coface Arena
-2012,Quarter-finals,5,559944,2013-02-26T19:30:00+00:00,Kickers Offenbach,1628,VfL Wolfsburg,161,0.0,home,90.0,Sparda-Bank-Hessen-Stadion
-2012,Quarter-finals,5,559944,2013-02-26T19:30:00+00:00,VfL Wolfsburg,161,Kickers Offenbach,1628,1.0,away,90.0,Sparda-Bank-Hessen-Stadion
-2012,Quarter-finals,5,559945,2013-02-27T18:00:00+00:00,VfB Stuttgart,172,Vfl Bochum,176,1.0,home,90.0,Mercedes-Benz-Arena
-2012,Quarter-finals,5,559945,2013-02-27T18:00:00+00:00,Vfl Bochum,176,VfB Stuttgart,172,0.0,away,90.0,Mercedes-Benz-Arena
-2012,Quarter-finals,5,559946,2013-02-27T19:30:00+00:00,Bayern Munich,157,Borussia Dortmund,165,1.0,home,90.0,Allianz-Arena
-2012,Quarter-finals,5,559946,2013-02-27T19:30:00+00:00,Borussia Dortmund,165,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
-2012,Semi-finals,6,559947,2013-04-16T18:30:00+00:00,Bayern Munich,157,VfL Wolfsburg,161,1.0,home,90.0,Allianz-Arena
-2012,Semi-finals,6,559947,2013-04-16T18:30:00+00:00,VfL Wolfsburg,161,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
-2012,Semi-finals,6,559948,2013-04-17T18:30:00+00:00,VfB Stuttgart,172,SC Freiburg,160,1.0,home,90.0,Mercedes-Benz-Arena
-2012,Semi-finals,6,559948,2013-04-17T18:30:00+00:00,SC Freiburg,160,VfB Stuttgart,172,0.0,away,90.0,Mercedes-Benz-Arena
-2012,Final,7,559949,2013-06-01T18:00:00+00:00,Bayern Munich,157,VfB Stuttgart,172,1.0,home,90.0,Olympiastadion Berlin
-2012,Final,7,559949,2013-06-01T18:00:00+00:00,VfB Stuttgart,172,Bayern Munich,157,0.0,away,90.0,Olympiastadion Berlin
+2012,8th Finals,3,559935,2012-12-18T18:00:00+00:00,Karlsruher SC,785,SC Freiburg,160,0.0,home,90.0,Wildparkstadion
+2012,8th Finals,3,559935,2012-12-18T18:00:00+00:00,SC Freiburg,160,Karlsruher SC,785,1.0,away,90.0,Wildparkstadion
+2012,8th Finals,3,559936,2012-12-18T18:00:00+00:00,FC Schalke 04,174,FSV Mainz 05,164,0.0,home,90.0,Veltins-Arena
+2012,8th Finals,3,559936,2012-12-18T18:00:00+00:00,FSV Mainz 05,164,FC Schalke 04,174,1.0,away,90.0,Veltins-Arena
+2012,8th Finals,3,559937,2012-12-18T19:30:00+00:00,Kickers Offenbach,1628,Fortuna Dusseldorf,158,1.0,home,90.0,Sparda-Bank-Hessen-Stadion
+2012,8th Finals,3,559937,2012-12-18T19:30:00+00:00,Fortuna Dusseldorf,158,Kickers Offenbach,1628,0.0,away,90.0,Sparda-Bank-Hessen-Stadion
+2012,8th Finals,3,559938,2012-12-18T19:30:00+00:00,FC Augsburg,170,Bayern Munich,157,0.0,home,90.0,SGL Arena
+2012,8th Finals,3,559938,2012-12-18T19:30:00+00:00,Bayern Munich,157,FC Augsburg,170,1.0,away,90.0,SGL Arena
+2012,8th Finals,3,559939,2012-12-19T18:00:00+00:00,VfL Wolfsburg,161,Bayer Leverkusen,168,1.0,home,90.0,VOLKSWAGEN ARENA
+2012,8th Finals,3,559939,2012-12-19T18:00:00+00:00,Bayer Leverkusen,168,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
+2012,8th Finals,3,559940,2012-12-19T18:00:00+00:00,Vfl Bochum,176,TSV 1860 Munich,786,1.0,home,90.0,rewirpowerSTADION
+2012,8th Finals,3,559940,2012-12-19T18:00:00+00:00,TSV 1860 Munich,786,Vfl Bochum,176,0.0,away,90.0,rewirpowerSTADION
+2012,8th Finals,3,559941,2012-12-19T19:30:00+00:00,Borussia Dortmund,165,Hannover 96,166,1.0,home,90.0,Signal-Iduna-Park
+2012,8th Finals,3,559941,2012-12-19T19:30:00+00:00,Hannover 96,166,Borussia Dortmund,165,0.0,away,90.0,Signal-Iduna-Park
+2012,8th Finals,3,559942,2012-12-19T19:30:00+00:00,VfB Stuttgart,172,1.FC Köln,192,1.0,home,90.0,Mercedes-Benz-Arena
+2012,8th Finals,3,559942,2012-12-19T19:30:00+00:00,1.FC Köln,192,VfB Stuttgart,172,0.0,away,90.0,Mercedes-Benz-Arena
+2012,Quarter-finals,4,559943,2013-02-26T18:00:00+00:00,FSV Mainz 05,164,SC Freiburg,160,0.0,home,120.0,Coface Arena
+2012,Quarter-finals,4,559943,2013-02-26T18:00:00+00:00,SC Freiburg,160,FSV Mainz 05,164,1.0,away,120.0,Coface Arena
+2012,Quarter-finals,4,559944,2013-02-26T19:30:00+00:00,Kickers Offenbach,1628,VfL Wolfsburg,161,0.0,home,90.0,Sparda-Bank-Hessen-Stadion
+2012,Quarter-finals,4,559944,2013-02-26T19:30:00+00:00,VfL Wolfsburg,161,Kickers Offenbach,1628,1.0,away,90.0,Sparda-Bank-Hessen-Stadion
+2012,Quarter-finals,4,559945,2013-02-27T18:00:00+00:00,VfB Stuttgart,172,Vfl Bochum,176,1.0,home,90.0,Mercedes-Benz-Arena
+2012,Quarter-finals,4,559945,2013-02-27T18:00:00+00:00,Vfl Bochum,176,VfB Stuttgart,172,0.0,away,90.0,Mercedes-Benz-Arena
+2012,Quarter-finals,4,559946,2013-02-27T19:30:00+00:00,Bayern Munich,157,Borussia Dortmund,165,1.0,home,90.0,Allianz-Arena
+2012,Quarter-finals,4,559946,2013-02-27T19:30:00+00:00,Borussia Dortmund,165,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
+2012,Semi-finals,5,559947,2013-04-16T18:30:00+00:00,Bayern Munich,157,VfL Wolfsburg,161,1.0,home,90.0,Allianz-Arena
+2012,Semi-finals,5,559947,2013-04-16T18:30:00+00:00,VfL Wolfsburg,161,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
+2012,Semi-finals,5,559948,2013-04-17T18:30:00+00:00,VfB Stuttgart,172,SC Freiburg,160,1.0,home,90.0,Mercedes-Benz-Arena
+2012,Semi-finals,5,559948,2013-04-17T18:30:00+00:00,SC Freiburg,160,VfB Stuttgart,172,0.0,away,90.0,Mercedes-Benz-Arena
+2012,Final,6,559949,2013-06-01T18:00:00+00:00,Bayern Munich,157,VfB Stuttgart,172,1.0,home,90.0,Olympiastadion Berlin
+2012,Final,6,559949,2013-06-01T18:00:00+00:00,VfB Stuttgart,172,Bayern Munich,157,0.0,away,90.0,Olympiastadion Berlin
 2012,2nd Round,2,559950,2012-10-30T18:00:00+00:00,BAK '07,9351,TSV 1860 Munich,786,0.0,home,90.0,Friedrich-Ludwig-Jahn-Sportpark
 2012,2nd Round,2,559950,2012-10-30T18:00:00+00:00,TSV 1860 Munich,786,BAK '07,9351,1.0,away,90.0,Friedrich-Ludwig-Jahn-Sportpark
 2012,2nd Round,2,559951,2012-10-30T18:00:00+00:00,Preussen Munster,1313,FC Augsburg,170,0.0,home,90.0,Preußen-Stadion
@@ -251,36 +251,36 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2012,1st Round,1,559996,2012-08-20T16:30:00+00:00,Dynamo Dresden,183,Chemnitzer FC,1328,1.0,away,90.0,Stadion an der Gellertstraße
 2012,1st Round,1,559997,2012-08-20T18:30:00+00:00,Jahn Regensburg,177,Bayern Munich,157,0.0,home,90.0,Städtisches Jahnstadion
 2012,1st Round,1,559997,2012-08-20T18:30:00+00:00,Bayern Munich,157,Jahn Regensburg,177,1.0,away,90.0,Städtisches Jahnstadion
-2013,8th Finals,4,559872,2013-12-03T18:00:00+00:00,Union Berlin,182,FC Kaiserslautern,745,0.0,home,90.0,Stadion An der Alten Försterei
-2013,8th Finals,4,559872,2013-12-03T18:00:00+00:00,FC Kaiserslautern,745,Union Berlin,182,1.0,away,90.0,Stadion An der Alten Försterei
-2013,8th Finals,4,559873,2013-12-03T18:00:00+00:00,Hamburger SV,175,1.FC Köln,192,1.0,home,90.0,Imtech Arena
-2013,8th Finals,4,559873,2013-12-03T18:00:00+00:00,1.FC Köln,192,Hamburger SV,175,0.0,away,90.0,Imtech Arena
-2013,8th Finals,4,559874,2013-12-03T19:30:00+00:00,FC Schalke 04,174,1899 Hoffenheim,167,0.0,home,90.0,Veltins-Arena
-2013,8th Finals,4,559874,2013-12-03T19:30:00+00:00,1899 Hoffenheim,167,FC Schalke 04,174,1.0,away,90.0,Veltins-Arena
-2013,8th Finals,4,559875,2013-12-03T19:30:00+00:00,FC Saarbrucken,1639,Borussia Dortmund,165,0.0,home,90.0,Stadion Ludwigspark
-2013,8th Finals,4,559875,2013-12-03T19:30:00+00:00,Borussia Dortmund,165,FC Saarbrucken,1639,1.0,away,90.0,Stadion Ludwigspark
-2013,8th Finals,4,559876,2013-12-04T18:00:00+00:00,SC Freiburg,160,Bayer Leverkusen,168,0.0,home,90.0,MAGE SOLAR Stadion
-2013,8th Finals,4,559876,2013-12-04T18:00:00+00:00,Bayer Leverkusen,168,SC Freiburg,160,1.0,away,90.0,MAGE SOLAR Stadion
-2013,8th Finals,4,559877,2013-12-04T18:00:00+00:00,VfL Wolfsburg,161,FC Ingolstadt 04,184,1.0,home,90.0,VOLKSWAGEN ARENA
-2013,8th Finals,4,559877,2013-12-04T18:00:00+00:00,FC Ingolstadt 04,184,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
-2013,8th Finals,4,559878,2013-12-04T19:30:00+00:00,Eintracht Frankfurt,169,SV Sandhausen,189,1.0,home,90.0,Commerzbank-Arena
-2013,8th Finals,4,559878,2013-12-04T19:30:00+00:00,SV Sandhausen,189,Eintracht Frankfurt,169,0.0,away,90.0,Commerzbank-Arena
-2013,8th Finals,4,559879,2013-12-04T19:30:00+00:00,FC Augsburg,170,Bayern Munich,157,0.0,home,90.0,SGL arena
-2013,8th Finals,4,559879,2013-12-04T19:30:00+00:00,Bayern Munich,157,FC Augsburg,170,1.0,away,90.0,SGL arena
-2013,Quarter-finals,5,559880,2014-02-11T19:45:00+00:00,Eintracht Frankfurt,169,Borussia Dortmund,165,0.0,home,90.0,Commerzbank-Arena
-2013,Quarter-finals,5,559880,2014-02-11T19:45:00+00:00,Borussia Dortmund,165,Eintracht Frankfurt,169,1.0,away,90.0,Commerzbank-Arena
-2013,Quarter-finals,5,559881,2014-02-12T18:00:00+00:00,1899 Hoffenheim,167,VfL Wolfsburg,161,0.0,home,90.0,Wirsol Rhein-Neckar-Arena
-2013,Quarter-finals,5,559881,2014-02-12T18:00:00+00:00,VfL Wolfsburg,161,1899 Hoffenheim,167,1.0,away,90.0,Wirsol Rhein-Neckar-Arena
-2013,Quarter-finals,5,559882,2014-02-12T18:00:00+00:00,Bayer Leverkusen,168,FC Kaiserslautern,745,0.0,home,120.0,BayArena
-2013,Quarter-finals,5,559882,2014-02-12T18:00:00+00:00,FC Kaiserslautern,745,Bayer Leverkusen,168,1.0,away,120.0,BayArena
-2013,Quarter-finals,5,559883,2014-02-12T19:30:00+00:00,Hamburger SV,175,Bayern Munich,157,0.0,home,90.0,Imtech Arena
-2013,Quarter-finals,5,559883,2014-02-12T19:30:00+00:00,Bayern Munich,157,Hamburger SV,175,1.0,away,90.0,Imtech Arena
-2013,Semi-finals,6,559884,2014-04-15T18:30:00+00:00,Borussia Dortmund,165,VfL Wolfsburg,161,1.0,home,90.0,Signal-Iduna-Park
-2013,Semi-finals,6,559884,2014-04-15T18:30:00+00:00,VfL Wolfsburg,161,Borussia Dortmund,165,0.0,away,90.0,Signal-Iduna-Park
-2013,Semi-finals,6,559885,2014-04-16T18:30:00+00:00,Bayern Munich,157,FC Kaiserslautern,745,1.0,home,90.0,Allianz-Arena
-2013,Semi-finals,6,559885,2014-04-16T18:30:00+00:00,FC Kaiserslautern,745,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
-2013,Final,7,559886,2014-05-17T18:00:00+00:00,Borussia Dortmund,165,Bayern Munich,157,0.0,home,120.0,Olympiastadion Berlin
-2013,Final,7,559886,2014-05-17T18:00:00+00:00,Bayern Munich,157,Borussia Dortmund,165,1.0,away,120.0,Olympiastadion Berlin
+2013,8th Finals,3,559872,2013-12-03T18:00:00+00:00,Union Berlin,182,FC Kaiserslautern,745,0.0,home,90.0,Stadion An der Alten Försterei
+2013,8th Finals,3,559872,2013-12-03T18:00:00+00:00,FC Kaiserslautern,745,Union Berlin,182,1.0,away,90.0,Stadion An der Alten Försterei
+2013,8th Finals,3,559873,2013-12-03T18:00:00+00:00,Hamburger SV,175,1.FC Köln,192,1.0,home,90.0,Imtech Arena
+2013,8th Finals,3,559873,2013-12-03T18:00:00+00:00,1.FC Köln,192,Hamburger SV,175,0.0,away,90.0,Imtech Arena
+2013,8th Finals,3,559874,2013-12-03T19:30:00+00:00,FC Schalke 04,174,1899 Hoffenheim,167,0.0,home,90.0,Veltins-Arena
+2013,8th Finals,3,559874,2013-12-03T19:30:00+00:00,1899 Hoffenheim,167,FC Schalke 04,174,1.0,away,90.0,Veltins-Arena
+2013,8th Finals,3,559875,2013-12-03T19:30:00+00:00,FC Saarbrucken,1639,Borussia Dortmund,165,0.0,home,90.0,Stadion Ludwigspark
+2013,8th Finals,3,559875,2013-12-03T19:30:00+00:00,Borussia Dortmund,165,FC Saarbrucken,1639,1.0,away,90.0,Stadion Ludwigspark
+2013,8th Finals,3,559876,2013-12-04T18:00:00+00:00,SC Freiburg,160,Bayer Leverkusen,168,0.0,home,90.0,MAGE SOLAR Stadion
+2013,8th Finals,3,559876,2013-12-04T18:00:00+00:00,Bayer Leverkusen,168,SC Freiburg,160,1.0,away,90.0,MAGE SOLAR Stadion
+2013,8th Finals,3,559877,2013-12-04T18:00:00+00:00,VfL Wolfsburg,161,FC Ingolstadt 04,184,1.0,home,90.0,VOLKSWAGEN ARENA
+2013,8th Finals,3,559877,2013-12-04T18:00:00+00:00,FC Ingolstadt 04,184,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
+2013,8th Finals,3,559878,2013-12-04T19:30:00+00:00,Eintracht Frankfurt,169,SV Sandhausen,189,1.0,home,90.0,Commerzbank-Arena
+2013,8th Finals,3,559878,2013-12-04T19:30:00+00:00,SV Sandhausen,189,Eintracht Frankfurt,169,0.0,away,90.0,Commerzbank-Arena
+2013,8th Finals,3,559879,2013-12-04T19:30:00+00:00,FC Augsburg,170,Bayern Munich,157,0.0,home,90.0,SGL arena
+2013,8th Finals,3,559879,2013-12-04T19:30:00+00:00,Bayern Munich,157,FC Augsburg,170,1.0,away,90.0,SGL arena
+2013,Quarter-finals,4,559880,2014-02-11T19:45:00+00:00,Eintracht Frankfurt,169,Borussia Dortmund,165,0.0,home,90.0,Commerzbank-Arena
+2013,Quarter-finals,4,559880,2014-02-11T19:45:00+00:00,Borussia Dortmund,165,Eintracht Frankfurt,169,1.0,away,90.0,Commerzbank-Arena
+2013,Quarter-finals,4,559881,2014-02-12T18:00:00+00:00,1899 Hoffenheim,167,VfL Wolfsburg,161,0.0,home,90.0,Wirsol Rhein-Neckar-Arena
+2013,Quarter-finals,4,559881,2014-02-12T18:00:00+00:00,VfL Wolfsburg,161,1899 Hoffenheim,167,1.0,away,90.0,Wirsol Rhein-Neckar-Arena
+2013,Quarter-finals,4,559882,2014-02-12T18:00:00+00:00,Bayer Leverkusen,168,FC Kaiserslautern,745,0.0,home,120.0,BayArena
+2013,Quarter-finals,4,559882,2014-02-12T18:00:00+00:00,FC Kaiserslautern,745,Bayer Leverkusen,168,1.0,away,120.0,BayArena
+2013,Quarter-finals,4,559883,2014-02-12T19:30:00+00:00,Hamburger SV,175,Bayern Munich,157,0.0,home,90.0,Imtech Arena
+2013,Quarter-finals,4,559883,2014-02-12T19:30:00+00:00,Bayern Munich,157,Hamburger SV,175,1.0,away,90.0,Imtech Arena
+2013,Semi-finals,5,559884,2014-04-15T18:30:00+00:00,Borussia Dortmund,165,VfL Wolfsburg,161,1.0,home,90.0,Signal-Iduna-Park
+2013,Semi-finals,5,559884,2014-04-15T18:30:00+00:00,VfL Wolfsburg,161,Borussia Dortmund,165,0.0,away,90.0,Signal-Iduna-Park
+2013,Semi-finals,5,559885,2014-04-16T18:30:00+00:00,Bayern Munich,157,FC Kaiserslautern,745,1.0,home,90.0,Allianz-Arena
+2013,Semi-finals,5,559885,2014-04-16T18:30:00+00:00,FC Kaiserslautern,745,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
+2013,Final,6,559886,2014-05-17T18:00:00+00:00,Borussia Dortmund,165,Bayern Munich,157,0.0,home,120.0,Olympiastadion Berlin
+2013,Final,6,559886,2014-05-17T18:00:00+00:00,Bayern Munich,157,Borussia Dortmund,165,1.0,away,120.0,Olympiastadion Berlin
 2013,2nd Round,2,559887,2013-09-24T17:00:00+00:00,Preussen Munster,1313,FC Augsburg,170,0.0,home,90.0,Preußen-Stadion
 2013,2nd Round,2,559887,2013-09-24T17:00:00+00:00,FC Augsburg,170,Preussen Munster,1313,1.0,away,90.0,Preußen-Stadion
 2013,2nd Round,2,559888,2013-09-24T17:00:00+00:00,Wiedenbrück,12897,SV Sandhausen,189,0.0,home,90.0,Heidewaldstadion
@@ -377,36 +377,36 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2013,1st Round,1,559933,2013-08-05T16:30:00+00:00,FC Schalke 04,174,FC Nottingen,1638,1.0,away,90.0,Wildparkstadion
 2013,1st Round,1,559934,2013-08-05T18:30:00+00:00,Schwarz-Weiß Rehden,9345,Bayern Munich,157,0.0,home,90.0,osnatel-ARENA
 2013,1st Round,1,559934,2013-08-05T18:30:00+00:00,Bayern Munich,157,Schwarz-Weiß Rehden,9345,1.0,away,90.0,osnatel-ARENA
-2014,8th Finals,4,559809,2015-03-03T18:00:00+00:00,Bayer Leverkusen,168,FC Kaiserslautern,745,1.0,home,120.0,BayArena
-2014,8th Finals,4,559809,2015-03-03T18:00:00+00:00,FC Kaiserslautern,745,Bayer Leverkusen,168,0.0,away,120.0,BayArena
-2014,8th Finals,4,559810,2015-03-03T18:00:00+00:00,VfR Aalen,1327,1899 Hoffenheim,167,0.0,home,90.0,Scholz Arena
-2014,8th Finals,4,559810,2015-03-03T18:00:00+00:00,1899 Hoffenheim,167,VfR Aalen,1327,1.0,away,90.0,Scholz Arena
-2014,8th Finals,4,559811,2015-03-03T19:30:00+00:00,SC Freiburg,160,1.FC Köln,192,1.0,home,90.0,Schwarzwald-Stadion
-2014,8th Finals,4,559811,2015-03-03T19:30:00+00:00,1.FC Köln,192,SC Freiburg,160,0.0,away,90.0,Schwarzwald-Stadion
-2014,8th Finals,4,559812,2015-03-03T19:30:00+00:00,Dynamo Dresden,183,Borussia Dortmund,165,0.0,home,90.0,Stadion Dresden
-2014,8th Finals,4,559812,2015-03-03T19:30:00+00:00,Borussia Dortmund,165,Dynamo Dresden,183,1.0,away,90.0,Stadion Dresden
-2014,8th Finals,4,559813,2015-03-04T18:00:00+00:00,RB Leipzig,173,VfL Wolfsburg,161,0.0,home,90.0,Red Bull Arena
-2014,8th Finals,4,559813,2015-03-04T18:00:00+00:00,VfL Wolfsburg,161,RB Leipzig,173,1.0,away,90.0,Red Bull Arena
-2014,8th Finals,4,559814,2015-03-04T18:00:00+00:00,Arminia Bielefeld,188,Werder Bremen,162,1.0,home,90.0,SchücoArena
-2014,8th Finals,4,559814,2015-03-04T18:00:00+00:00,Werder Bremen,162,Arminia Bielefeld,188,0.0,away,90.0,SchücoArena
-2014,8th Finals,4,559815,2015-03-04T19:30:00+00:00,Kickers Offenbach,1628,Borussia Monchengladbach,163,0.0,home,90.0,Sparda-Bank-Hessen-Stadion
-2014,8th Finals,4,559815,2015-03-04T19:30:00+00:00,Borussia Monchengladbach,163,Kickers Offenbach,1628,1.0,away,90.0,Sparda-Bank-Hessen-Stadion
-2014,8th Finals,4,559816,2015-03-04T19:30:00+00:00,Bayern Munich,157,Eintracht Braunschweig,744,1.0,home,90.0,Allianz-Arena
-2014,8th Finals,4,559816,2015-03-04T19:30:00+00:00,Eintracht Braunschweig,744,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
-2014,Quarter-finals,5,559817,2015-04-07T17:00:00+00:00,VfL Wolfsburg,161,SC Freiburg,160,1.0,home,90.0,VOLKSWAGEN ARENA
-2014,Quarter-finals,5,559817,2015-04-07T17:00:00+00:00,SC Freiburg,160,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
-2014,Quarter-finals,5,559818,2015-04-07T18:30:00+00:00,Borussia Dortmund,165,1899 Hoffenheim,167,1.0,home,120.0,Signal-Iduna-Park
-2014,Quarter-finals,5,559818,2015-04-07T18:30:00+00:00,1899 Hoffenheim,167,Borussia Dortmund,165,0.0,away,120.0,Signal-Iduna-Park
-2014,Quarter-finals,5,559819,2015-04-08T17:00:00+00:00,Arminia Bielefeld,188,Borussia Monchengladbach,163,1.0,home,120.0,SchücoArena
-2014,Quarter-finals,5,559819,2015-04-08T17:00:00+00:00,Borussia Monchengladbach,163,Arminia Bielefeld,188,0.0,away,120.0,SchücoArena
-2014,Quarter-finals,5,559820,2015-04-08T18:30:00+00:00,Bayer Leverkusen,168,Bayern Munich,157,0.0,home,120.0,BayArena
-2014,Quarter-finals,5,559820,2015-04-08T18:30:00+00:00,Bayern Munich,157,Bayer Leverkusen,168,1.0,away,120.0,BayArena
-2014,Semi-finals,6,559821,2015-04-28T18:30:00+00:00,Bayern Munich,157,Borussia Dortmund,165,0.0,home,120.0,Allianz-Arena
-2014,Semi-finals,6,559821,2015-04-28T18:30:00+00:00,Borussia Dortmund,165,Bayern Munich,157,1.0,away,120.0,Allianz-Arena
-2014,Semi-finals,6,559822,2015-04-29T18:30:00+00:00,Arminia Bielefeld,188,VfL Wolfsburg,161,0.0,home,90.0,SchücoArena
-2014,Semi-finals,6,559822,2015-04-29T18:30:00+00:00,VfL Wolfsburg,161,Arminia Bielefeld,188,1.0,away,90.0,SchücoArena
-2014,Final,7,559823,2015-05-30T18:00:00+00:00,Borussia Dortmund,165,VfL Wolfsburg,161,0.0,home,90.0,Olympiastadion Berlin
-2014,Final,7,559823,2015-05-30T18:00:00+00:00,VfL Wolfsburg,161,Borussia Dortmund,165,1.0,away,90.0,Olympiastadion Berlin
+2014,8th Finals,3,559809,2015-03-03T18:00:00+00:00,Bayer Leverkusen,168,FC Kaiserslautern,745,1.0,home,120.0,BayArena
+2014,8th Finals,3,559809,2015-03-03T18:00:00+00:00,FC Kaiserslautern,745,Bayer Leverkusen,168,0.0,away,120.0,BayArena
+2014,8th Finals,3,559810,2015-03-03T18:00:00+00:00,VfR Aalen,1327,1899 Hoffenheim,167,0.0,home,90.0,Scholz Arena
+2014,8th Finals,3,559810,2015-03-03T18:00:00+00:00,1899 Hoffenheim,167,VfR Aalen,1327,1.0,away,90.0,Scholz Arena
+2014,8th Finals,3,559811,2015-03-03T19:30:00+00:00,SC Freiburg,160,1.FC Köln,192,1.0,home,90.0,Schwarzwald-Stadion
+2014,8th Finals,3,559811,2015-03-03T19:30:00+00:00,1.FC Köln,192,SC Freiburg,160,0.0,away,90.0,Schwarzwald-Stadion
+2014,8th Finals,3,559812,2015-03-03T19:30:00+00:00,Dynamo Dresden,183,Borussia Dortmund,165,0.0,home,90.0,Stadion Dresden
+2014,8th Finals,3,559812,2015-03-03T19:30:00+00:00,Borussia Dortmund,165,Dynamo Dresden,183,1.0,away,90.0,Stadion Dresden
+2014,8th Finals,3,559813,2015-03-04T18:00:00+00:00,RB Leipzig,173,VfL Wolfsburg,161,0.0,home,90.0,Red Bull Arena
+2014,8th Finals,3,559813,2015-03-04T18:00:00+00:00,VfL Wolfsburg,161,RB Leipzig,173,1.0,away,90.0,Red Bull Arena
+2014,8th Finals,3,559814,2015-03-04T18:00:00+00:00,Arminia Bielefeld,188,Werder Bremen,162,1.0,home,90.0,SchücoArena
+2014,8th Finals,3,559814,2015-03-04T18:00:00+00:00,Werder Bremen,162,Arminia Bielefeld,188,0.0,away,90.0,SchücoArena
+2014,8th Finals,3,559815,2015-03-04T19:30:00+00:00,Kickers Offenbach,1628,Borussia Monchengladbach,163,0.0,home,90.0,Sparda-Bank-Hessen-Stadion
+2014,8th Finals,3,559815,2015-03-04T19:30:00+00:00,Borussia Monchengladbach,163,Kickers Offenbach,1628,1.0,away,90.0,Sparda-Bank-Hessen-Stadion
+2014,8th Finals,3,559816,2015-03-04T19:30:00+00:00,Bayern Munich,157,Eintracht Braunschweig,744,1.0,home,90.0,Allianz-Arena
+2014,8th Finals,3,559816,2015-03-04T19:30:00+00:00,Eintracht Braunschweig,744,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
+2014,Quarter-finals,4,559817,2015-04-07T17:00:00+00:00,VfL Wolfsburg,161,SC Freiburg,160,1.0,home,90.0,VOLKSWAGEN ARENA
+2014,Quarter-finals,4,559817,2015-04-07T17:00:00+00:00,SC Freiburg,160,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
+2014,Quarter-finals,4,559818,2015-04-07T18:30:00+00:00,Borussia Dortmund,165,1899 Hoffenheim,167,1.0,home,120.0,Signal-Iduna-Park
+2014,Quarter-finals,4,559818,2015-04-07T18:30:00+00:00,1899 Hoffenheim,167,Borussia Dortmund,165,0.0,away,120.0,Signal-Iduna-Park
+2014,Quarter-finals,4,559819,2015-04-08T17:00:00+00:00,Arminia Bielefeld,188,Borussia Monchengladbach,163,1.0,home,120.0,SchücoArena
+2014,Quarter-finals,4,559819,2015-04-08T17:00:00+00:00,Borussia Monchengladbach,163,Arminia Bielefeld,188,0.0,away,120.0,SchücoArena
+2014,Quarter-finals,4,559820,2015-04-08T18:30:00+00:00,Bayer Leverkusen,168,Bayern Munich,157,0.0,home,120.0,BayArena
+2014,Quarter-finals,4,559820,2015-04-08T18:30:00+00:00,Bayern Munich,157,Bayer Leverkusen,168,1.0,away,120.0,BayArena
+2014,Semi-finals,5,559821,2015-04-28T18:30:00+00:00,Bayern Munich,157,Borussia Dortmund,165,0.0,home,120.0,Allianz-Arena
+2014,Semi-finals,5,559821,2015-04-28T18:30:00+00:00,Borussia Dortmund,165,Bayern Munich,157,1.0,away,120.0,Allianz-Arena
+2014,Semi-finals,5,559822,2015-04-29T18:30:00+00:00,Arminia Bielefeld,188,VfL Wolfsburg,161,0.0,home,90.0,SchücoArena
+2014,Semi-finals,5,559822,2015-04-29T18:30:00+00:00,VfL Wolfsburg,161,Arminia Bielefeld,188,1.0,away,90.0,SchücoArena
+2014,Final,6,559823,2015-05-30T18:00:00+00:00,Borussia Dortmund,165,VfL Wolfsburg,161,0.0,home,90.0,Olympiastadion Berlin
+2014,Final,6,559823,2015-05-30T18:00:00+00:00,VfL Wolfsburg,161,Borussia Dortmund,165,1.0,away,90.0,Olympiastadion Berlin
 2014,2nd Round,2,559824,2014-10-28T18:00:00+00:00,Chemnitzer FC,1328,Werder Bremen,162,0.0,home,90.0,Stadion an der Gellertstraße
 2014,2nd Round,2,559824,2014-10-28T18:00:00+00:00,Werder Bremen,162,Chemnitzer FC,1328,1.0,away,90.0,Stadion an der Gellertstraße
 2014,2nd Round,2,559825,2014-10-28T18:00:00+00:00,Arminia Bielefeld,188,Hertha Berlin,159,1.0,home,120.0,SchücoArena
@@ -503,20 +503,20 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2014,1st Round,1,559870,2014-08-18T16:30:00+00:00,FC Ingolstadt 04,184,Kickers Offenbach,1628,0.0,away,120.0,Sparda-Bank-Hessen-Stadion
 2014,1st Round,1,559871,2014-08-18T18:30:00+00:00,Dynamo Dresden,183,FC Schalke 04,174,1.0,home,90.0,Glücksgas stadion
 2014,1st Round,1,559871,2014-08-18T18:30:00+00:00,FC Schalke 04,174,Dynamo Dresden,183,0.0,away,90.0,Glücksgas stadion
-2015,Quarter-finals,5,559746,2016-02-09T18:00:00+00:00,Bayer Leverkusen,168,Werder Bremen,162,0.0,home,90.0,BayArena
-2015,Quarter-finals,5,559746,2016-02-09T18:00:00+00:00,Werder Bremen,162,Bayer Leverkusen,168,1.0,away,90.0,BayArena
-2015,Quarter-finals,5,559747,2016-02-09T19:30:00+00:00,VfB Stuttgart,172,Borussia Dortmund,165,0.0,home,90.0,Mercedes-Benz-Arena
-2015,Quarter-finals,5,559747,2016-02-09T19:30:00+00:00,Borussia Dortmund,165,VfB Stuttgart,172,1.0,away,90.0,Mercedes-Benz-Arena
-2015,Quarter-finals,5,559748,2016-02-10T18:00:00+00:00,FC Heidenheim,180,Hertha Berlin,159,0.0,home,90.0,Voith-Arena
-2015,Quarter-finals,5,559748,2016-02-10T18:00:00+00:00,Hertha Berlin,159,FC Heidenheim,180,1.0,away,90.0,Voith-Arena
-2015,Quarter-finals,5,559749,2016-02-10T19:30:00+00:00,Vfl Bochum,176,Bayern Munich,157,0.0,home,90.0,rewirpowerSTADION
-2015,Quarter-finals,5,559749,2016-02-10T19:30:00+00:00,Bayern Munich,157,Vfl Bochum,176,1.0,away,90.0,rewirpowerSTADION
-2015,Semi-finals,6,559750,2016-04-19T18:30:00+00:00,Bayern Munich,157,Werder Bremen,162,1.0,home,90.0,Allianz-Arena
-2015,Semi-finals,6,559750,2016-04-19T18:30:00+00:00,Werder Bremen,162,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
-2015,Semi-finals,6,559751,2016-04-20T18:30:00+00:00,Hertha Berlin,159,Borussia Dortmund,165,0.0,home,90.0,Olympiastadion Berlin
-2015,Semi-finals,6,559751,2016-04-20T18:30:00+00:00,Borussia Dortmund,165,Hertha Berlin,159,1.0,away,90.0,Olympiastadion Berlin
-2015,Final,7,559752,2016-05-21T18:00:00+00:00,Bayern Munich,157,Borussia Dortmund,165,1.0,home,120.0,Olympiastadion Berlin
-2015,Final,7,559752,2016-05-21T18:00:00+00:00,Borussia Dortmund,165,Bayern Munich,157,0.0,away,120.0,Olympiastadion Berlin
+2015,Quarter-finals,4,559746,2016-02-09T18:00:00+00:00,Bayer Leverkusen,168,Werder Bremen,162,0.0,home,90.0,BayArena
+2015,Quarter-finals,4,559746,2016-02-09T18:00:00+00:00,Werder Bremen,162,Bayer Leverkusen,168,1.0,away,90.0,BayArena
+2015,Quarter-finals,4,559747,2016-02-09T19:30:00+00:00,VfB Stuttgart,172,Borussia Dortmund,165,0.0,home,90.0,Mercedes-Benz-Arena
+2015,Quarter-finals,4,559747,2016-02-09T19:30:00+00:00,Borussia Dortmund,165,VfB Stuttgart,172,1.0,away,90.0,Mercedes-Benz-Arena
+2015,Quarter-finals,4,559748,2016-02-10T18:00:00+00:00,FC Heidenheim,180,Hertha Berlin,159,0.0,home,90.0,Voith-Arena
+2015,Quarter-finals,4,559748,2016-02-10T18:00:00+00:00,Hertha Berlin,159,FC Heidenheim,180,1.0,away,90.0,Voith-Arena
+2015,Quarter-finals,4,559749,2016-02-10T19:30:00+00:00,Vfl Bochum,176,Bayern Munich,157,0.0,home,90.0,rewirpowerSTADION
+2015,Quarter-finals,4,559749,2016-02-10T19:30:00+00:00,Bayern Munich,157,Vfl Bochum,176,1.0,away,90.0,rewirpowerSTADION
+2015,Semi-finals,5,559750,2016-04-19T18:30:00+00:00,Bayern Munich,157,Werder Bremen,162,1.0,home,90.0,Allianz-Arena
+2015,Semi-finals,5,559750,2016-04-19T18:30:00+00:00,Werder Bremen,162,Bayern Munich,157,0.0,away,90.0,Allianz-Arena
+2015,Semi-finals,5,559751,2016-04-20T18:30:00+00:00,Hertha Berlin,159,Borussia Dortmund,165,0.0,home,90.0,Olympiastadion Berlin
+2015,Semi-finals,5,559751,2016-04-20T18:30:00+00:00,Borussia Dortmund,165,Hertha Berlin,159,1.0,away,90.0,Olympiastadion Berlin
+2015,Final,6,559752,2016-05-21T18:00:00+00:00,Bayern Munich,157,Borussia Dortmund,165,1.0,home,120.0,Olympiastadion Berlin
+2015,Final,6,559752,2016-05-21T18:00:00+00:00,Borussia Dortmund,165,Bayern Munich,157,0.0,away,120.0,Olympiastadion Berlin
 2015,3rd Round,3,559753,2015-12-15T18:00:00+00:00,SpVgg Unterhaching,1314,Bayer Leverkusen,168,0.0,home,90.0,Alpenbauer Sportpark
 2015,3rd Round,3,559753,2015-12-15T18:00:00+00:00,Bayer Leverkusen,168,SpVgg Unterhaching,1314,1.0,away,90.0,Alpenbauer Sportpark
 2015,3rd Round,3,559754,2015-12-15T18:15:00+00:00,Borussia Monchengladbach,163,Werder Bremen,162,0.0,home,90.0,Stadion im BORUSSIA-PARK
@@ -655,20 +655,20 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2016,1st Round,1,57347,2016-08-19T18:45:00+00:00,FC Augsburg,170,FV Ravensburg,1624,1.0,away,90.0,ALNO-Arena
 2016,1st Round,1,57348,2016-08-19T18:45:00+00:00,VfB Lubeck,1625,FC St. Pauli,186,0.0,home,90.0,Stadion Lohmühle
 2016,1st Round,1,57348,2016-08-19T18:45:00+00:00,FC St. Pauli,186,VfB Lubeck,1625,1.0,away,90.0,Stadion Lohmühle
-2016,Final,7,57349,2017-05-27T18:00:00+00:00,Eintracht Frankfurt,169,Borussia Dortmund,165,0.0,home,90.0,Olympiastadion
-2016,Final,7,57349,2017-05-27T18:00:00+00:00,Borussia Dortmund,165,Eintracht Frankfurt,169,1.0,away,90.0,Olympiastadion
-2016,Semi-finals,6,57350,2017-04-26T18:45:00+00:00,Bayern Munich,157,Borussia Dortmund,165,0.0,home,90.0,Allianz Arena
-2016,Semi-finals,6,57350,2017-04-26T18:45:00+00:00,Borussia Dortmund,165,Bayern Munich,157,1.0,away,90.0,Allianz Arena
-2016,Semi-finals,6,57351,2017-04-25T18:45:00+00:00,Borussia Monchengladbach,163,Eintracht Frankfurt,169,0.0,home,120.0,Borussia-Park
-2016,Semi-finals,6,57351,2017-04-25T18:45:00+00:00,Eintracht Frankfurt,169,Borussia Monchengladbach,163,1.0,away,120.0,Borussia-Park
-2016,Quarter-finals,5,57352,2017-03-14T17:30:00+00:00,Sportfreunde Lotte,1323,Borussia Dortmund,165,0.0,home,90.0,Stadion an der Bremer Brücke
-2016,Quarter-finals,5,57352,2017-03-14T17:30:00+00:00,Borussia Dortmund,165,Sportfreunde Lotte,1323,1.0,away,90.0,Stadion an der Bremer Brücke
-2016,Quarter-finals,5,57353,2017-03-01T19:45:00+00:00,Bayern Munich,157,FC Schalke 04,174,1.0,home,90.0,Allianz Arena
-2016,Quarter-finals,5,57353,2017-03-01T19:45:00+00:00,FC Schalke 04,174,Bayern Munich,157,0.0,away,90.0,Allianz Arena
-2016,Quarter-finals,5,57354,2017-03-01T17:30:00+00:00,Hamburger SV,175,Borussia Monchengladbach,163,0.0,home,90.0,Volksparkstadion
-2016,Quarter-finals,5,57354,2017-03-01T17:30:00+00:00,Borussia Monchengladbach,163,Hamburger SV,175,1.0,away,90.0,Volksparkstadion
-2016,Quarter-finals,5,57355,2017-02-28T17:30:00+00:00,Eintracht Frankfurt,169,Arminia Bielefeld,188,1.0,home,90.0,Commerzbank-Arena
-2016,Quarter-finals,5,57355,2017-02-28T17:30:00+00:00,Arminia Bielefeld,188,Eintracht Frankfurt,169,0.0,away,90.0,Commerzbank-Arena
+2016,Final,6,57349,2017-05-27T18:00:00+00:00,Eintracht Frankfurt,169,Borussia Dortmund,165,0.0,home,90.0,Olympiastadion
+2016,Final,6,57349,2017-05-27T18:00:00+00:00,Borussia Dortmund,165,Eintracht Frankfurt,169,1.0,away,90.0,Olympiastadion
+2016,Semi-finals,5,57350,2017-04-26T18:45:00+00:00,Bayern Munich,157,Borussia Dortmund,165,0.0,home,90.0,Allianz Arena
+2016,Semi-finals,5,57350,2017-04-26T18:45:00+00:00,Borussia Dortmund,165,Bayern Munich,157,1.0,away,90.0,Allianz Arena
+2016,Semi-finals,5,57351,2017-04-25T18:45:00+00:00,Borussia Monchengladbach,163,Eintracht Frankfurt,169,0.0,home,120.0,Borussia-Park
+2016,Semi-finals,5,57351,2017-04-25T18:45:00+00:00,Eintracht Frankfurt,169,Borussia Monchengladbach,163,1.0,away,120.0,Borussia-Park
+2016,Quarter-finals,4,57352,2017-03-14T17:30:00+00:00,Sportfreunde Lotte,1323,Borussia Dortmund,165,0.0,home,90.0,Stadion an der Bremer Brücke
+2016,Quarter-finals,4,57352,2017-03-14T17:30:00+00:00,Borussia Dortmund,165,Sportfreunde Lotte,1323,1.0,away,90.0,Stadion an der Bremer Brücke
+2016,Quarter-finals,4,57353,2017-03-01T19:45:00+00:00,Bayern Munich,157,FC Schalke 04,174,1.0,home,90.0,Allianz Arena
+2016,Quarter-finals,4,57353,2017-03-01T19:45:00+00:00,FC Schalke 04,174,Bayern Munich,157,0.0,away,90.0,Allianz Arena
+2016,Quarter-finals,4,57354,2017-03-01T17:30:00+00:00,Hamburger SV,175,Borussia Monchengladbach,163,0.0,home,90.0,Volksparkstadion
+2016,Quarter-finals,4,57354,2017-03-01T17:30:00+00:00,Borussia Monchengladbach,163,Hamburger SV,175,1.0,away,90.0,Volksparkstadion
+2016,Quarter-finals,4,57355,2017-02-28T17:30:00+00:00,Eintracht Frankfurt,169,Arminia Bielefeld,188,1.0,home,90.0,Commerzbank-Arena
+2016,Quarter-finals,4,57355,2017-02-28T17:30:00+00:00,Arminia Bielefeld,188,Eintracht Frankfurt,169,0.0,away,90.0,Commerzbank-Arena
 2016,3rd Round,3,57356,2017-02-08T19:45:00+00:00,Borussia Dortmund,165,Hertha Berlin,159,1.0,home,120.0,Signal Iduna Park
 2016,3rd Round,3,57356,2017-02-08T19:45:00+00:00,Hertha Berlin,159,Borussia Dortmund,165,0.0,away,120.0,Signal Iduna Park
 2016,3rd Round,3,57357,2017-02-08T19:45:00+00:00,Hannover 96,166,Eintracht Frankfurt,169,0.0,home,90.0,HDI Arena
@@ -755,20 +755,20 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2016,1st Round,1,57397,2016-08-20T16:30:00+00:00,VfB Stuttgart,172,FC 08 Homburg,1634,1.0,away,90.0,Waldstadion
 2016,1st Round,1,57398,2016-08-20T16:30:00+00:00,Hansa Rostock,1321,Fortuna Dusseldorf,158,0.0,home,90.0,Ostseestadion
 2016,1st Round,1,57398,2016-08-20T16:30:00+00:00,Fortuna Dusseldorf,158,Hansa Rostock,1321,1.0,away,90.0,Ostseestadion
-2017,Final,7,57399,2018-05-19T18:00:00+00:00,Bayern Munich,157,Eintracht Frankfurt,169,0.0,home,90.0,Olympiastadion Berlin (Berlin)
-2017,Final,7,57399,2018-05-19T18:00:00+00:00,Eintracht Frankfurt,169,Bayern Munich,157,1.0,away,90.0,Olympiastadion Berlin (Berlin)
-2017,Semi-finals,6,57400,2018-04-18T18:45:00+00:00,FC Schalke 04,174,Eintracht Frankfurt,169,0.0,home,90.0,VELTINS-Arena (Gelsenkirchen)
-2017,Semi-finals,6,57400,2018-04-18T18:45:00+00:00,Eintracht Frankfurt,169,FC Schalke 04,174,1.0,away,90.0,VELTINS-Arena (Gelsenkirchen)
-2017,Semi-finals,6,57401,2018-04-17T18:45:00+00:00,Bayer Leverkusen,168,Bayern Munich,157,0.0,home,90.0,BayArena (Leverkusen)
-2017,Semi-finals,6,57401,2018-04-17T18:45:00+00:00,Bayern Munich,157,Bayer Leverkusen,168,1.0,away,90.0,BayArena (Leverkusen)
-2017,Quarter-finals,5,57402,2018-02-07T19:45:00+00:00,FC Schalke 04,174,VfL Wolfsburg,161,1.0,home,90.0,VELTINS-Arena (Gelsenkirchen)
-2017,Quarter-finals,5,57402,2018-02-07T19:45:00+00:00,VfL Wolfsburg,161,FC Schalke 04,174,0.0,away,90.0,VELTINS-Arena (Gelsenkirchen)
-2017,Quarter-finals,5,57403,2018-02-07T17:30:00+00:00,Eintracht Frankfurt,169,FSV Mainz 05,164,1.0,home,90.0,Commerzbank-Arena (Frankfurt am Main)
-2017,Quarter-finals,5,57403,2018-02-07T17:30:00+00:00,FSV Mainz 05,164,Eintracht Frankfurt,169,0.0,away,90.0,Commerzbank-Arena (Frankfurt am Main)
-2017,Quarter-finals,5,57404,2018-02-06T19:45:00+00:00,Bayer Leverkusen,168,Werder Bremen,162,1.0,home,120.0,BayArena (Leverkusen)
-2017,Quarter-finals,5,57404,2018-02-06T19:45:00+00:00,Werder Bremen,162,Bayer Leverkusen,168,0.0,away,120.0,BayArena (Leverkusen)
-2017,Quarter-finals,5,57405,2018-02-06T17:30:00+00:00,SC Paderborn 07,185,Bayern Munich,157,0.0,home,90.0,Benteler-Arena (Paderborn)
-2017,Quarter-finals,5,57405,2018-02-06T17:30:00+00:00,Bayern Munich,157,SC Paderborn 07,185,1.0,away,90.0,Benteler-Arena (Paderborn)
+2017,Final,6,57399,2018-05-19T18:00:00+00:00,Bayern Munich,157,Eintracht Frankfurt,169,0.0,home,90.0,Olympiastadion Berlin (Berlin)
+2017,Final,6,57399,2018-05-19T18:00:00+00:00,Eintracht Frankfurt,169,Bayern Munich,157,1.0,away,90.0,Olympiastadion Berlin (Berlin)
+2017,Semi-finals,5,57400,2018-04-18T18:45:00+00:00,FC Schalke 04,174,Eintracht Frankfurt,169,0.0,home,90.0,VELTINS-Arena (Gelsenkirchen)
+2017,Semi-finals,5,57400,2018-04-18T18:45:00+00:00,Eintracht Frankfurt,169,FC Schalke 04,174,1.0,away,90.0,VELTINS-Arena (Gelsenkirchen)
+2017,Semi-finals,5,57401,2018-04-17T18:45:00+00:00,Bayer Leverkusen,168,Bayern Munich,157,0.0,home,90.0,BayArena (Leverkusen)
+2017,Semi-finals,5,57401,2018-04-17T18:45:00+00:00,Bayern Munich,157,Bayer Leverkusen,168,1.0,away,90.0,BayArena (Leverkusen)
+2017,Quarter-finals,4,57402,2018-02-07T19:45:00+00:00,FC Schalke 04,174,VfL Wolfsburg,161,1.0,home,90.0,VELTINS-Arena (Gelsenkirchen)
+2017,Quarter-finals,4,57402,2018-02-07T19:45:00+00:00,VfL Wolfsburg,161,FC Schalke 04,174,0.0,away,90.0,VELTINS-Arena (Gelsenkirchen)
+2017,Quarter-finals,4,57403,2018-02-07T17:30:00+00:00,Eintracht Frankfurt,169,FSV Mainz 05,164,1.0,home,90.0,Commerzbank-Arena (Frankfurt am Main)
+2017,Quarter-finals,4,57403,2018-02-07T17:30:00+00:00,FSV Mainz 05,164,Eintracht Frankfurt,169,0.0,away,90.0,Commerzbank-Arena (Frankfurt am Main)
+2017,Quarter-finals,4,57404,2018-02-06T19:45:00+00:00,Bayer Leverkusen,168,Werder Bremen,162,1.0,home,120.0,BayArena (Leverkusen)
+2017,Quarter-finals,4,57404,2018-02-06T19:45:00+00:00,Werder Bremen,162,Bayer Leverkusen,168,0.0,away,120.0,BayArena (Leverkusen)
+2017,Quarter-finals,4,57405,2018-02-06T17:30:00+00:00,SC Paderborn 07,185,Bayern Munich,157,0.0,home,90.0,Benteler-Arena (Paderborn)
+2017,Quarter-finals,4,57405,2018-02-06T17:30:00+00:00,Bayern Munich,157,SC Paderborn 07,185,1.0,away,90.0,Benteler-Arena (Paderborn)
 2017,3rd Round,3,57406,2017-12-20T19:45:00+00:00,Bayern Munich,157,Borussia Dortmund,165,1.0,home,90.0,Allianz Arena (München)
 2017,3rd Round,3,57406,2017-12-20T19:45:00+00:00,Borussia Dortmund,165,Bayern Munich,157,0.0,away,90.0,Allianz Arena (München)
 2017,3rd Round,3,57407,2017-12-20T19:45:00+00:00,FC Heidenheim,180,Eintracht Frankfurt,169,0.0,home,120.0,Voith-Arena (Heidenheim an der Brenz)
@@ -993,20 +993,20 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2018,3rd Round,3,57516,2019-02-06T19:45:00+00:00,Fortuna Dusseldorf,158,FC Schalke 04,174,0.0,away,90.0,VELTINS-Arena
 2018,3rd Round,3,57517,2019-02-06T19:45:00+00:00,Hertha Berlin,159,Bayern Munich,157,0.0,home,120.0,Olympiastadion
 2018,3rd Round,3,57517,2019-02-06T19:45:00+00:00,Bayern Munich,157,Hertha Berlin,159,1.0,away,120.0,Olympiastadion
-2018,Quarter-finals,5,107271,2019-04-02T16:30:00+00:00,SC Paderborn 07,185,Hamburger SV,175,0.0,home,90.0,Benteler-Arena
-2018,Quarter-finals,5,107271,2019-04-02T16:30:00+00:00,Hamburger SV,175,SC Paderborn 07,185,1.0,away,90.0,Benteler-Arena
-2018,Quarter-finals,5,107272,2019-04-02T18:45:00+00:00,FC Augsburg,170,RB Leipzig,173,0.0,home,120.0,WWK Arena
-2018,Quarter-finals,5,107272,2019-04-02T18:45:00+00:00,RB Leipzig,173,FC Augsburg,170,1.0,away,120.0,WWK Arena
-2018,Quarter-finals,5,107273,2019-04-03T16:30:00+00:00,Bayern Munich,157,FC Heidenheim,180,1.0,home,90.0,Allianz Arena
-2018,Quarter-finals,5,107273,2019-04-03T16:30:00+00:00,FC Heidenheim,180,Bayern Munich,157,0.0,away,90.0,Allianz Arena
-2018,Quarter-finals,5,107274,2019-04-03T18:45:00+00:00,FC Schalke 04,174,Werder Bremen,162,0.0,home,90.0,VELTINS-Arena
-2018,Quarter-finals,5,107274,2019-04-03T18:45:00+00:00,Werder Bremen,162,FC Schalke 04,174,1.0,away,90.0,VELTINS-Arena
-2018,Semi-finals,6,108265,2019-04-23T18:45:00+00:00,Hamburger SV,175,RB Leipzig,173,0.0,home,90.0,Volksparkstadion
-2018,Semi-finals,6,108265,2019-04-23T18:45:00+00:00,RB Leipzig,173,Hamburger SV,175,1.0,away,90.0,Volksparkstadion
-2018,Semi-finals,6,108266,2019-04-24T18:45:00+00:00,Werder Bremen,162,Bayern Munich,157,0.0,home,90.0,Weser-Stadion
-2018,Semi-finals,6,108266,2019-04-24T18:45:00+00:00,Bayern Munich,157,Werder Bremen,162,1.0,away,90.0,Weser-Stadion
-2018,Final,7,113989,2019-05-25T18:00:00+00:00,RB Leipzig,173,Bayern Munich,157,0.0,home,90.0,Olympiastadion
-2018,Final,7,113989,2019-05-25T18:00:00+00:00,Bayern Munich,157,RB Leipzig,173,1.0,away,90.0,Olympiastadion
+2018,Quarter-finals,4,107271,2019-04-02T16:30:00+00:00,SC Paderborn 07,185,Hamburger SV,175,0.0,home,90.0,Benteler-Arena
+2018,Quarter-finals,4,107271,2019-04-02T16:30:00+00:00,Hamburger SV,175,SC Paderborn 07,185,1.0,away,90.0,Benteler-Arena
+2018,Quarter-finals,4,107272,2019-04-02T18:45:00+00:00,FC Augsburg,170,RB Leipzig,173,0.0,home,120.0,WWK Arena
+2018,Quarter-finals,4,107272,2019-04-02T18:45:00+00:00,RB Leipzig,173,FC Augsburg,170,1.0,away,120.0,WWK Arena
+2018,Quarter-finals,4,107273,2019-04-03T16:30:00+00:00,Bayern Munich,157,FC Heidenheim,180,1.0,home,90.0,Allianz Arena
+2018,Quarter-finals,4,107273,2019-04-03T16:30:00+00:00,FC Heidenheim,180,Bayern Munich,157,0.0,away,90.0,Allianz Arena
+2018,Quarter-finals,4,107274,2019-04-03T18:45:00+00:00,FC Schalke 04,174,Werder Bremen,162,0.0,home,90.0,VELTINS-Arena
+2018,Quarter-finals,4,107274,2019-04-03T18:45:00+00:00,Werder Bremen,162,FC Schalke 04,174,1.0,away,90.0,VELTINS-Arena
+2018,Semi-finals,5,108265,2019-04-23T18:45:00+00:00,Hamburger SV,175,RB Leipzig,173,0.0,home,90.0,Volksparkstadion
+2018,Semi-finals,5,108265,2019-04-23T18:45:00+00:00,RB Leipzig,173,Hamburger SV,175,1.0,away,90.0,Volksparkstadion
+2018,Semi-finals,5,108266,2019-04-24T18:45:00+00:00,Werder Bremen,162,Bayern Munich,157,0.0,home,90.0,Weser-Stadion
+2018,Semi-finals,5,108266,2019-04-24T18:45:00+00:00,Bayern Munich,157,Werder Bremen,162,1.0,away,90.0,Weser-Stadion
+2018,Final,6,113989,2019-05-25T18:00:00+00:00,RB Leipzig,173,Bayern Munich,157,0.0,home,90.0,Olympiastadion
+2018,Final,6,113989,2019-05-25T18:00:00+00:00,Bayern Munich,157,RB Leipzig,173,1.0,away,90.0,Olympiastadion
 2019,1st Round,1,169038,2019-08-10T16:30:00+00:00,FC Wurzburger Kickers,784,1899 Hoffenheim,167,0.0,home,120.0,flyeralarm-Arena
 2019,1st Round,1,169038,2019-08-10T16:30:00+00:00,1899 Hoffenheim,167,FC Wurzburger Kickers,784,1.0,away,120.0,flyeralarm-Arena
 2019,1st Round,1,169039,2019-08-11T13:30:00+00:00,Salmrohr,4264,Holstein Kiel,191,0.0,home,90.0,Salmtalstadion
@@ -1119,20 +1119,20 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2019,3rd Round,3,250171,2020-02-05T17:30:00+00:00,Union Berlin,182,Verl,4265,1.0,away,90.0,SPORTCLUB Arena
 2019,3rd Round,3,313878,2020-02-04T19:45:00+00:00,FC Schalke 04,174,Hertha Berlin,159,1.0,home,120.0,VELTINS-Arena
 2019,3rd Round,3,313878,2020-02-04T19:45:00+00:00,Hertha Berlin,159,FC Schalke 04,174,0.0,away,120.0,VELTINS-Arena
-2019,Quarter-finals,5,324067,2020-03-03T17:30:00+00:00,FC Saarbrucken,1639,Fortuna Dusseldorf,158,1.0,home,120.0,Hermann-Neuberger-Stadion
-2019,Quarter-finals,5,324067,2020-03-03T17:30:00+00:00,Fortuna Dusseldorf,158,FC Saarbrucken,1639,0.0,away,120.0,Hermann-Neuberger-Stadion
-2019,Quarter-finals,5,324068,2020-03-03T19:45:00+00:00,FC Schalke 04,174,Bayern Munich,157,0.0,home,90.0,VELTINS-Arena
-2019,Quarter-finals,5,324068,2020-03-03T19:45:00+00:00,Bayern Munich,157,FC Schalke 04,174,1.0,away,90.0,VELTINS-Arena
-2019,Quarter-finals,5,324069,2020-03-04T17:30:00+00:00,Bayer Leverkusen,168,Union Berlin,182,1.0,home,90.0,BayArena
-2019,Quarter-finals,5,324069,2020-03-04T17:30:00+00:00,Union Berlin,182,Bayer Leverkusen,168,0.0,away,90.0,BayArena
-2019,Quarter-finals,5,324070,2020-03-04T19:45:00+00:00,Eintracht Frankfurt,169,Werder Bremen,162,1.0,home,90.0,Commerzbank-Arena
-2019,Quarter-finals,5,324070,2020-03-04T19:45:00+00:00,Werder Bremen,162,Eintracht Frankfurt,169,0.0,away,90.0,Commerzbank-Arena
-2019,Semi-finals,6,354883,2020-06-09T18:45:00+00:00,FC Saarbrucken,1639,Bayer Leverkusen,168,0.0,home,90.0,Hermann-Neuberger-Stadion
-2019,Semi-finals,6,354883,2020-06-09T18:45:00+00:00,Bayer Leverkusen,168,FC Saarbrucken,1639,1.0,away,90.0,Hermann-Neuberger-Stadion
-2019,Semi-finals,6,354884,2020-06-10T18:45:00+00:00,Bayern Munich,157,Eintracht Frankfurt,169,1.0,home,90.0,Allianz Arena
-2019,Semi-finals,6,354884,2020-06-10T18:45:00+00:00,Eintracht Frankfurt,169,Bayern Munich,157,0.0,away,90.0,Allianz Arena
-2019,Final,7,564163,2020-07-04T18:00:00+00:00,Bayer Leverkusen,168,Bayern Munich,157,0.0,home,90.0,Olympiastadion Berlin
-2019,Final,7,564163,2020-07-04T18:00:00+00:00,Bayern Munich,157,Bayer Leverkusen,168,1.0,away,90.0,Olympiastadion Berlin
+2019,Quarter-finals,4,324067,2020-03-03T17:30:00+00:00,FC Saarbrucken,1639,Fortuna Dusseldorf,158,1.0,home,120.0,Hermann-Neuberger-Stadion
+2019,Quarter-finals,4,324067,2020-03-03T17:30:00+00:00,Fortuna Dusseldorf,158,FC Saarbrucken,1639,0.0,away,120.0,Hermann-Neuberger-Stadion
+2019,Quarter-finals,4,324068,2020-03-03T19:45:00+00:00,FC Schalke 04,174,Bayern Munich,157,0.0,home,90.0,VELTINS-Arena
+2019,Quarter-finals,4,324068,2020-03-03T19:45:00+00:00,Bayern Munich,157,FC Schalke 04,174,1.0,away,90.0,VELTINS-Arena
+2019,Quarter-finals,4,324069,2020-03-04T17:30:00+00:00,Bayer Leverkusen,168,Union Berlin,182,1.0,home,90.0,BayArena
+2019,Quarter-finals,4,324069,2020-03-04T17:30:00+00:00,Union Berlin,182,Bayer Leverkusen,168,0.0,away,90.0,BayArena
+2019,Quarter-finals,4,324070,2020-03-04T19:45:00+00:00,Eintracht Frankfurt,169,Werder Bremen,162,1.0,home,90.0,Commerzbank-Arena
+2019,Quarter-finals,4,324070,2020-03-04T19:45:00+00:00,Werder Bremen,162,Eintracht Frankfurt,169,0.0,away,90.0,Commerzbank-Arena
+2019,Semi-finals,5,354883,2020-06-09T18:45:00+00:00,FC Saarbrucken,1639,Bayer Leverkusen,168,0.0,home,90.0,Hermann-Neuberger-Stadion
+2019,Semi-finals,5,354883,2020-06-09T18:45:00+00:00,Bayer Leverkusen,168,FC Saarbrucken,1639,1.0,away,90.0,Hermann-Neuberger-Stadion
+2019,Semi-finals,5,354884,2020-06-10T18:45:00+00:00,Bayern Munich,157,Eintracht Frankfurt,169,1.0,home,90.0,Allianz Arena
+2019,Semi-finals,5,354884,2020-06-10T18:45:00+00:00,Eintracht Frankfurt,169,Bayern Munich,157,0.0,away,90.0,Allianz Arena
+2019,Final,6,564163,2020-07-04T18:00:00+00:00,Bayer Leverkusen,168,Bayern Munich,157,0.0,home,90.0,Olympiastadion Berlin
+2019,Final,6,564163,2020-07-04T18:00:00+00:00,Bayern Munich,157,Bayer Leverkusen,168,1.0,away,90.0,Olympiastadion Berlin
 2020,1st Round,1,574014,2020-09-12T13:30:00+00:00,FC Nurnberg,171,RB Leipzig,173,0.0,home,90.0,Max-Morlock-Stadion
 2020,1st Round,1,574014,2020-09-12T13:30:00+00:00,RB Leipzig,173,FC Nurnberg,171,1.0,away,90.0,Max-Morlock-Stadion
 2020,1st Round,1,574015,2020-09-13T16:30:00+00:00,SV Wehen,1319,FC Heidenheim,180,1.0,home,90.0,BRITA-Arena
@@ -1229,36 +1229,36 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2020,2nd Round,2,646344,2020-12-22T19:45:00+00:00,SV Darmstadt 98,181,Dynamo Dresden,183,1.0,away,90.0,Rudolf-Harbig-Stadion
 2020,2nd Round,2,646345,2020-12-23T17:30:00+00:00,Rot-weiss Essen,1621,Fortuna Dusseldorf,158,1.0,home,90.0,Stadion Essen
 2020,2nd Round,2,646345,2020-12-23T17:30:00+00:00,Fortuna Dusseldorf,158,Rot-weiss Essen,1621,0.0,away,90.0,Stadion Essen
-2020,Round of 16,4,655483,2021-02-02T19:45:00+00:00,Borussia Dortmund,165,SC Paderborn 07,185,1.0,home,120.0,Signal-Iduna-Park
-2020,Round of 16,4,655483,2021-02-02T19:45:00+00:00,SC Paderborn 07,185,Borussia Dortmund,165,0.0,away,120.0,Signal-Iduna-Park
-2020,Round of 16,4,655484,2021-02-03T17:30:00+00:00,RB Leipzig,173,Vfl Bochum,176,1.0,home,90.0,Red Bull Arena
-2020,Round of 16,4,655484,2021-02-03T17:30:00+00:00,Vfl Bochum,176,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
-2020,Round of 16,4,655485,2021-02-03T19:45:00+00:00,Jahn Regensburg,177,1.FC Köln,192,1.0,home,120.0,Jahnstadion Regensburg
-2020,Round of 16,4,655485,2021-02-03T19:45:00+00:00,1.FC Köln,192,Jahn Regensburg,177,0.0,away,120.0,Jahnstadion Regensburg
-2020,Round of 16,4,655486,2021-02-02T19:45:00+00:00,Werder Bremen,162,SpVgg Greuther Furth,178,1.0,home,90.0,wohninvest WESERSTADION
-2020,Round of 16,4,655486,2021-02-02T19:45:00+00:00,SpVgg Greuther Furth,178,Werder Bremen,162,0.0,away,90.0,wohninvest WESERSTADION
-2020,Round of 16,4,655487,2021-02-03T19:45:00+00:00,VfB Stuttgart,172,Borussia Monchengladbach,163,0.0,home,90.0,Mercedes-Benz-Arena
-2020,Round of 16,4,655487,2021-02-03T19:45:00+00:00,Borussia Monchengladbach,163,VfB Stuttgart,172,1.0,away,90.0,Mercedes-Benz-Arena
-2020,Round of 16,4,655488,2021-02-03T17:30:00+00:00,VfL Wolfsburg,161,FC Schalke 04,174,1.0,home,90.0,VOLKSWAGEN ARENA
-2020,Round of 16,4,655488,2021-02-03T17:30:00+00:00,FC Schalke 04,174,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
-2020,Round of 16,4,663694,2021-02-02T17:30:00+00:00,Rot-weiss Essen,1621,Bayer Leverkusen,168,1.0,home,120.0,Stadion Essen
-2020,Round of 16,4,663694,2021-02-02T17:30:00+00:00,Bayer Leverkusen,168,Rot-weiss Essen,1621,0.0,away,120.0,Stadion Essen
-2020,Round of 16,4,663695,2021-02-02T17:30:00+00:00,Holstein Kiel,191,SV Darmstadt 98,181,1.0,home,120.0,Holstein-Stadion
-2020,Round of 16,4,663695,2021-02-02T17:30:00+00:00,SV Darmstadt 98,181,Holstein Kiel,191,0.0,away,120.0,Holstein-Stadion
-2020,Quarter-finals,5,675014,2021-03-02T19:45:00+00:00,Borussia Monchengladbach,163,Borussia Dortmund,165,0.0,home,90.0,Stadion im BORUSSIA-PARK
-2020,Quarter-finals,5,675014,2021-03-02T19:45:00+00:00,Borussia Dortmund,165,Borussia Monchengladbach,163,1.0,away,90.0,Stadion im BORUSSIA-PARK
-2020,Quarter-finals,5,675015,2021-03-03T17:30:00+00:00,Rot-weiss Essen,1621,Holstein Kiel,191,0.0,home,90.0,Stadion Essen
-2020,Quarter-finals,5,675015,2021-03-03T17:30:00+00:00,Holstein Kiel,191,Rot-weiss Essen,1621,1.0,away,90.0,Stadion Essen
-2020,Quarter-finals,5,675016,2021-04-07T16:30:00+00:00,Jahn Regensburg,177,Werder Bremen,162,0.0,home,90.0,Jahnstadion Regensburg
-2020,Quarter-finals,5,675016,2021-04-07T16:30:00+00:00,Werder Bremen,162,Jahn Regensburg,177,1.0,away,90.0,Jahnstadion Regensburg
-2020,Quarter-finals,5,675017,2021-03-03T19:45:00+00:00,RB Leipzig,173,VfL Wolfsburg,161,1.0,home,90.0,Red Bull Arena
-2020,Quarter-finals,5,675017,2021-03-03T19:45:00+00:00,VfL Wolfsburg,161,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
-2020,Semi-finals,6,682740,2021-05-01T18:30:00+00:00,Borussia Dortmund,165,Holstein Kiel,191,1.0,home,90.0,Signal-Iduna-Park
-2020,Semi-finals,6,682740,2021-05-01T18:30:00+00:00,Holstein Kiel,191,Borussia Dortmund,165,0.0,away,90.0,Signal-Iduna-Park
-2020,Semi-finals,6,700143,2021-04-30T18:30:00+00:00,Werder Bremen,162,RB Leipzig,173,0.0,home,120.0,wohninvest WESERSTADION
-2020,Semi-finals,6,700143,2021-04-30T18:30:00+00:00,RB Leipzig,173,Werder Bremen,162,1.0,away,120.0,wohninvest WESERSTADION
-2020,Final,7,700980,2021-05-13T18:45:00+00:00,RB Leipzig,173,Borussia Dortmund,165,0.0,home,90.0,Olympiastadion Berlin
-2020,Final,7,700980,2021-05-13T18:45:00+00:00,Borussia Dortmund,165,RB Leipzig,173,1.0,away,90.0,Olympiastadion Berlin
+2020,Round of 16,3,655483,2021-02-02T19:45:00+00:00,Borussia Dortmund,165,SC Paderborn 07,185,1.0,home,120.0,Signal-Iduna-Park
+2020,Round of 16,3,655483,2021-02-02T19:45:00+00:00,SC Paderborn 07,185,Borussia Dortmund,165,0.0,away,120.0,Signal-Iduna-Park
+2020,Round of 16,3,655484,2021-02-03T17:30:00+00:00,RB Leipzig,173,Vfl Bochum,176,1.0,home,90.0,Red Bull Arena
+2020,Round of 16,3,655484,2021-02-03T17:30:00+00:00,Vfl Bochum,176,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
+2020,Round of 16,3,655485,2021-02-03T19:45:00+00:00,Jahn Regensburg,177,1.FC Köln,192,1.0,home,120.0,Jahnstadion Regensburg
+2020,Round of 16,3,655485,2021-02-03T19:45:00+00:00,1.FC Köln,192,Jahn Regensburg,177,0.0,away,120.0,Jahnstadion Regensburg
+2020,Round of 16,3,655486,2021-02-02T19:45:00+00:00,Werder Bremen,162,SpVgg Greuther Furth,178,1.0,home,90.0,wohninvest WESERSTADION
+2020,Round of 16,3,655486,2021-02-02T19:45:00+00:00,SpVgg Greuther Furth,178,Werder Bremen,162,0.0,away,90.0,wohninvest WESERSTADION
+2020,Round of 16,3,655487,2021-02-03T19:45:00+00:00,VfB Stuttgart,172,Borussia Monchengladbach,163,0.0,home,90.0,Mercedes-Benz-Arena
+2020,Round of 16,3,655487,2021-02-03T19:45:00+00:00,Borussia Monchengladbach,163,VfB Stuttgart,172,1.0,away,90.0,Mercedes-Benz-Arena
+2020,Round of 16,3,655488,2021-02-03T17:30:00+00:00,VfL Wolfsburg,161,FC Schalke 04,174,1.0,home,90.0,VOLKSWAGEN ARENA
+2020,Round of 16,3,655488,2021-02-03T17:30:00+00:00,FC Schalke 04,174,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
+2020,Round of 16,3,663694,2021-02-02T17:30:00+00:00,Rot-weiss Essen,1621,Bayer Leverkusen,168,1.0,home,120.0,Stadion Essen
+2020,Round of 16,3,663694,2021-02-02T17:30:00+00:00,Bayer Leverkusen,168,Rot-weiss Essen,1621,0.0,away,120.0,Stadion Essen
+2020,Round of 16,3,663695,2021-02-02T17:30:00+00:00,Holstein Kiel,191,SV Darmstadt 98,181,1.0,home,120.0,Holstein-Stadion
+2020,Round of 16,3,663695,2021-02-02T17:30:00+00:00,SV Darmstadt 98,181,Holstein Kiel,191,0.0,away,120.0,Holstein-Stadion
+2020,Quarter-finals,4,675014,2021-03-02T19:45:00+00:00,Borussia Monchengladbach,163,Borussia Dortmund,165,0.0,home,90.0,Stadion im BORUSSIA-PARK
+2020,Quarter-finals,4,675014,2021-03-02T19:45:00+00:00,Borussia Dortmund,165,Borussia Monchengladbach,163,1.0,away,90.0,Stadion im BORUSSIA-PARK
+2020,Quarter-finals,4,675015,2021-03-03T17:30:00+00:00,Rot-weiss Essen,1621,Holstein Kiel,191,0.0,home,90.0,Stadion Essen
+2020,Quarter-finals,4,675015,2021-03-03T17:30:00+00:00,Holstein Kiel,191,Rot-weiss Essen,1621,1.0,away,90.0,Stadion Essen
+2020,Quarter-finals,4,675016,2021-04-07T16:30:00+00:00,Jahn Regensburg,177,Werder Bremen,162,0.0,home,90.0,Jahnstadion Regensburg
+2020,Quarter-finals,4,675016,2021-04-07T16:30:00+00:00,Werder Bremen,162,Jahn Regensburg,177,1.0,away,90.0,Jahnstadion Regensburg
+2020,Quarter-finals,4,675017,2021-03-03T19:45:00+00:00,RB Leipzig,173,VfL Wolfsburg,161,1.0,home,90.0,Red Bull Arena
+2020,Quarter-finals,4,675017,2021-03-03T19:45:00+00:00,VfL Wolfsburg,161,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
+2020,Semi-finals,5,682740,2021-05-01T18:30:00+00:00,Borussia Dortmund,165,Holstein Kiel,191,1.0,home,90.0,Signal-Iduna-Park
+2020,Semi-finals,5,682740,2021-05-01T18:30:00+00:00,Holstein Kiel,191,Borussia Dortmund,165,0.0,away,90.0,Signal-Iduna-Park
+2020,Semi-finals,5,700143,2021-04-30T18:30:00+00:00,Werder Bremen,162,RB Leipzig,173,0.0,home,120.0,wohninvest WESERSTADION
+2020,Semi-finals,5,700143,2021-04-30T18:30:00+00:00,RB Leipzig,173,Werder Bremen,162,1.0,away,120.0,wohninvest WESERSTADION
+2020,Final,6,700980,2021-05-13T18:45:00+00:00,RB Leipzig,173,Borussia Dortmund,165,0.0,home,90.0,Olympiastadion Berlin
+2020,Final,6,700980,2021-05-13T18:45:00+00:00,Borussia Dortmund,165,RB Leipzig,173,1.0,away,90.0,Olympiastadion Berlin
 2021,1st Round,1,723337,2021-08-08T16:30:00+00:00,Eintracht Braunschweig,744,Hamburger SV,175,0.0,home,90.0,Eintracht-Stadion
 2021,1st Round,1,723337,2021-08-08T16:30:00+00:00,Hamburger SV,175,Eintracht Braunschweig,744,1.0,away,90.0,Eintracht-Stadion
 2021,1st Round,1,723338,2021-08-09T16:30:00+00:00,FC Ingolstadt 04,184,Erzgebirge AUE,190,1.0,home,90.0,Audi-Sportpark
@@ -1355,36 +1355,36 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2021,2nd Round,2,788050,2021-10-26T18:00:00+00:00,FC Ingolstadt 04,184,Borussia Dortmund,165,0.0,away,90.0,Signal-Iduna-Park
 2021,2nd Round,2,788051,2021-10-27T16:30:00+00:00,Bayer Leverkusen,168,Karlsruher SC,785,0.0,home,90.0,BayArena
 2021,2nd Round,2,788051,2021-10-27T16:30:00+00:00,Karlsruher SC,785,Bayer Leverkusen,168,1.0,away,90.0,BayArena
-2021,Round of 16,4,810118,2022-01-19T19:45:00+00:00,1899 Hoffenheim,167,SC Freiburg,160,0.0,home,90.0,PreZero Arena
-2021,Round of 16,4,810118,2022-01-19T19:45:00+00:00,SC Freiburg,160,1899 Hoffenheim,167,1.0,away,90.0,PreZero Arena
-2021,Round of 16,4,810119,2022-01-18T19:45:00+00:00,FC St. Pauli,186,Borussia Dortmund,165,1.0,home,90.0,Millerntor-Stadion
-2021,Round of 16,4,810119,2022-01-18T19:45:00+00:00,Borussia Dortmund,165,FC St. Pauli,186,0.0,away,90.0,Millerntor-Stadion
-2021,Round of 16,4,810120,2022-01-18T17:30:00+00:00,TSV 1860 Munich,786,Karlsruher SC,785,0.0,home,90.0,Städtisches Stadion an der Grünwalder Straße
-2021,Round of 16,4,810120,2022-01-18T17:30:00+00:00,Karlsruher SC,785,TSV 1860 Munich,786,1.0,away,90.0,Städtisches Stadion an der Grünwalder Straße
-2021,Round of 16,4,810121,2022-01-19T17:30:00+00:00,Hannover 96,166,Borussia Monchengladbach,163,1.0,home,90.0,HDI-Arena
-2021,Round of 16,4,810121,2022-01-19T17:30:00+00:00,Borussia Monchengladbach,163,Hannover 96,166,0.0,away,90.0,HDI-Arena
-2021,Round of 16,4,810122,2022-01-19T19:45:00+00:00,Hertha Berlin,159,Union Berlin,182,0.0,home,90.0,Olympiastadion Berlin
-2021,Round of 16,4,810122,2022-01-19T19:45:00+00:00,Union Berlin,182,Hertha Berlin,159,1.0,away,90.0,Olympiastadion Berlin
-2021,Round of 16,4,810123,2022-01-18T17:30:00+00:00,1.FC Köln,192,Hamburger SV,175,0.0,home,120.0,RheinEnergieStadion
-2021,Round of 16,4,810123,2022-01-18T17:30:00+00:00,Hamburger SV,175,1.FC Köln,192,1.0,away,120.0,RheinEnergieStadion
-2021,Round of 16,4,810124,2022-01-19T17:30:00+00:00,RB Leipzig,173,Hansa Rostock,1321,1.0,home,90.0,Red Bull Arena
-2021,Round of 16,4,810124,2022-01-19T17:30:00+00:00,Hansa Rostock,1321,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
-2021,Round of 16,4,810125,2022-01-18T19:45:00+00:00,Vfl Bochum,176,FSV Mainz 05,164,1.0,home,90.0,Vonovia Ruhrstadion
-2021,Round of 16,4,810125,2022-01-18T19:45:00+00:00,FSV Mainz 05,164,Vfl Bochum,176,0.0,away,90.0,Vonovia Ruhrstadion
-2021,Quarter-finals,5,832027,2022-03-01T19:45:00+00:00,Union Berlin,182,FC St. Pauli,186,1.0,home,90.0,Stadion An der Alten Försterei
-2021,Quarter-finals,5,832027,2022-03-01T19:45:00+00:00,FC St. Pauli,186,Union Berlin,182,0.0,away,90.0,Stadion An der Alten Försterei
-2021,Quarter-finals,5,832028,2022-03-02T17:30:00+00:00,Hamburger SV,175,Karlsruher SC,785,1.0,home,120.0,Volksparkstadion
-2021,Quarter-finals,5,832028,2022-03-02T17:30:00+00:00,Karlsruher SC,785,Hamburger SV,175,0.0,away,120.0,Volksparkstadion
-2021,Quarter-finals,5,832029,2022-03-02T17:30:00+00:00,Hannover 96,166,RB Leipzig,173,0.0,home,90.0,HDI-Arena
-2021,Quarter-finals,5,832029,2022-03-02T17:30:00+00:00,RB Leipzig,173,Hannover 96,166,1.0,away,90.0,HDI-Arena
-2021,Quarter-finals,5,832030,2022-03-02T19:45:00+00:00,Vfl Bochum,176,SC Freiburg,160,0.0,home,120.0,Vonovia Ruhrstadion
-2021,Quarter-finals,5,832030,2022-03-02T19:45:00+00:00,SC Freiburg,160,Vfl Bochum,176,1.0,away,120.0,Vonovia Ruhrstadion
-2021,Semi-finals,6,847641,2022-04-19T18:45:00+00:00,Hamburger SV,175,SC Freiburg,160,0.0,home,90.0,Volksparkstadion
-2021,Semi-finals,6,847641,2022-04-19T18:45:00+00:00,SC Freiburg,160,Hamburger SV,175,1.0,away,90.0,Volksparkstadion
-2021,Semi-finals,6,847642,2022-04-20T18:45:00+00:00,RB Leipzig,173,Union Berlin,182,1.0,home,90.0,Red Bull Arena
-2021,Semi-finals,6,847642,2022-04-20T18:45:00+00:00,Union Berlin,182,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
-2021,Final,7,858630,2022-05-21T18:00:00+00:00,SC Freiburg,160,RB Leipzig,173,0.0,home,120.0,Olympiastadion Berlin
-2021,Final,7,858630,2022-05-21T18:00:00+00:00,RB Leipzig,173,SC Freiburg,160,1.0,away,120.0,Olympiastadion Berlin
+2021,Round of 16,3,810118,2022-01-19T19:45:00+00:00,1899 Hoffenheim,167,SC Freiburg,160,0.0,home,90.0,PreZero Arena
+2021,Round of 16,3,810118,2022-01-19T19:45:00+00:00,SC Freiburg,160,1899 Hoffenheim,167,1.0,away,90.0,PreZero Arena
+2021,Round of 16,3,810119,2022-01-18T19:45:00+00:00,FC St. Pauli,186,Borussia Dortmund,165,1.0,home,90.0,Millerntor-Stadion
+2021,Round of 16,3,810119,2022-01-18T19:45:00+00:00,Borussia Dortmund,165,FC St. Pauli,186,0.0,away,90.0,Millerntor-Stadion
+2021,Round of 16,3,810120,2022-01-18T17:30:00+00:00,TSV 1860 Munich,786,Karlsruher SC,785,0.0,home,90.0,Städtisches Stadion an der Grünwalder Straße
+2021,Round of 16,3,810120,2022-01-18T17:30:00+00:00,Karlsruher SC,785,TSV 1860 Munich,786,1.0,away,90.0,Städtisches Stadion an der Grünwalder Straße
+2021,Round of 16,3,810121,2022-01-19T17:30:00+00:00,Hannover 96,166,Borussia Monchengladbach,163,1.0,home,90.0,HDI-Arena
+2021,Round of 16,3,810121,2022-01-19T17:30:00+00:00,Borussia Monchengladbach,163,Hannover 96,166,0.0,away,90.0,HDI-Arena
+2021,Round of 16,3,810122,2022-01-19T19:45:00+00:00,Hertha Berlin,159,Union Berlin,182,0.0,home,90.0,Olympiastadion Berlin
+2021,Round of 16,3,810122,2022-01-19T19:45:00+00:00,Union Berlin,182,Hertha Berlin,159,1.0,away,90.0,Olympiastadion Berlin
+2021,Round of 16,3,810123,2022-01-18T17:30:00+00:00,1.FC Köln,192,Hamburger SV,175,0.0,home,120.0,RheinEnergieStadion
+2021,Round of 16,3,810123,2022-01-18T17:30:00+00:00,Hamburger SV,175,1.FC Köln,192,1.0,away,120.0,RheinEnergieStadion
+2021,Round of 16,3,810124,2022-01-19T17:30:00+00:00,RB Leipzig,173,Hansa Rostock,1321,1.0,home,90.0,Red Bull Arena
+2021,Round of 16,3,810124,2022-01-19T17:30:00+00:00,Hansa Rostock,1321,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
+2021,Round of 16,3,810125,2022-01-18T19:45:00+00:00,Vfl Bochum,176,FSV Mainz 05,164,1.0,home,90.0,Vonovia Ruhrstadion
+2021,Round of 16,3,810125,2022-01-18T19:45:00+00:00,FSV Mainz 05,164,Vfl Bochum,176,0.0,away,90.0,Vonovia Ruhrstadion
+2021,Quarter-finals,4,832027,2022-03-01T19:45:00+00:00,Union Berlin,182,FC St. Pauli,186,1.0,home,90.0,Stadion An der Alten Försterei
+2021,Quarter-finals,4,832027,2022-03-01T19:45:00+00:00,FC St. Pauli,186,Union Berlin,182,0.0,away,90.0,Stadion An der Alten Försterei
+2021,Quarter-finals,4,832028,2022-03-02T17:30:00+00:00,Hamburger SV,175,Karlsruher SC,785,1.0,home,120.0,Volksparkstadion
+2021,Quarter-finals,4,832028,2022-03-02T17:30:00+00:00,Karlsruher SC,785,Hamburger SV,175,0.0,away,120.0,Volksparkstadion
+2021,Quarter-finals,4,832029,2022-03-02T17:30:00+00:00,Hannover 96,166,RB Leipzig,173,0.0,home,90.0,HDI-Arena
+2021,Quarter-finals,4,832029,2022-03-02T17:30:00+00:00,RB Leipzig,173,Hannover 96,166,1.0,away,90.0,HDI-Arena
+2021,Quarter-finals,4,832030,2022-03-02T19:45:00+00:00,Vfl Bochum,176,SC Freiburg,160,0.0,home,120.0,Vonovia Ruhrstadion
+2021,Quarter-finals,4,832030,2022-03-02T19:45:00+00:00,SC Freiburg,160,Vfl Bochum,176,1.0,away,120.0,Vonovia Ruhrstadion
+2021,Semi-finals,5,847641,2022-04-19T18:45:00+00:00,Hamburger SV,175,SC Freiburg,160,0.0,home,90.0,Volksparkstadion
+2021,Semi-finals,5,847641,2022-04-19T18:45:00+00:00,SC Freiburg,160,Hamburger SV,175,1.0,away,90.0,Volksparkstadion
+2021,Semi-finals,5,847642,2022-04-20T18:45:00+00:00,RB Leipzig,173,Union Berlin,182,1.0,home,90.0,Red Bull Arena
+2021,Semi-finals,5,847642,2022-04-20T18:45:00+00:00,Union Berlin,182,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
+2021,Final,6,858630,2022-05-21T18:00:00+00:00,SC Freiburg,160,RB Leipzig,173,0.0,home,120.0,Olympiastadion Berlin
+2021,Final,6,858630,2022-05-21T18:00:00+00:00,RB Leipzig,173,SC Freiburg,160,1.0,away,120.0,Olympiastadion Berlin
 2022,1st Round,1,864317,2022-07-30T13:31:00+00:00,Jahn Regensburg,177,1.FC Köln,192,1.0,home,120.0,Jahnstadion Regensburg
 2022,1st Round,1,864317,2022-07-30T13:31:00+00:00,1.FC Köln,192,Jahn Regensburg,177,0.0,away,120.0,Jahnstadion Regensburg
 2022,1st Round,1,864318,2022-07-31T13:31:00+00:00,FV Engers 07,12767,Arminia Bielefeld,188,0.0,home,90.0,Stadion Oberwerth
@@ -1481,36 +1481,36 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2022,2nd Round,2,958532,2022-10-19T18:45:00+00:00,Fortuna Dusseldorf,158,Jahn Regensburg,177,1.0,away,90.0,Jahnstadion Regensburg
 2022,2nd Round,2,958533,2022-10-18T18:45:00+00:00,SV Darmstadt 98,181,Borussia Monchengladbach,163,1.0,home,90.0,Merck-Stadion am Böllenfalltor
 2022,2nd Round,2,958533,2022-10-18T18:45:00+00:00,Borussia Monchengladbach,163,SV Darmstadt 98,181,0.0,away,90.0,Merck-Stadion am Böllenfalltor
-2022,Round of 16,4,968254,2023-02-07T17:00:00+00:00,SV Sandhausen,189,SC Freiburg,160,0.0,home,90.0,BWT-Stadion am Hardtwald
-2022,Round of 16,4,968254,2023-02-07T17:00:00+00:00,SC Freiburg,160,SV Sandhausen,189,1.0,away,90.0,BWT-Stadion am Hardtwald
-2022,Round of 16,4,968255,2023-01-31T17:00:00+00:00,SC Paderborn 07,185,VfB Stuttgart,172,0.0,home,90.0,Home Deluxe Arena
-2022,Round of 16,4,968255,2023-01-31T17:00:00+00:00,VfB Stuttgart,172,SC Paderborn 07,185,1.0,away,90.0,Home Deluxe Arena
-2022,Round of 16,4,968256,2023-01-31T19:45:00+00:00,Union Berlin,182,VfL Wolfsburg,161,1.0,home,90.0,Stadion An der Alten Försterei
-2022,Round of 16,4,968256,2023-01-31T19:45:00+00:00,VfL Wolfsburg,161,Union Berlin,182,0.0,away,90.0,Stadion An der Alten Försterei
-2022,Round of 16,4,968257,2023-02-07T19:45:00+00:00,Eintracht Frankfurt,169,SV Darmstadt 98,181,1.0,home,90.0,Deutsche Bank Park
-2022,Round of 16,4,968257,2023-02-07T19:45:00+00:00,SV Darmstadt 98,181,Eintracht Frankfurt,169,0.0,away,90.0,Deutsche Bank Park
-2022,Round of 16,4,968258,2023-02-08T19:45:00+00:00,Vfl Bochum,176,Borussia Dortmund,165,0.0,home,90.0,Vonovia Ruhrstadion
-2022,Round of 16,4,968258,2023-02-08T19:45:00+00:00,Borussia Dortmund,165,Vfl Bochum,176,1.0,away,90.0,Vonovia Ruhrstadion
-2022,Round of 16,4,968259,2023-02-01T19:45:00+00:00,FSV Mainz 05,164,Bayern Munich,157,0.0,home,90.0,MEWA ARENA
-2022,Round of 16,4,968259,2023-02-01T19:45:00+00:00,Bayern Munich,157,FSV Mainz 05,164,1.0,away,90.0,MEWA ARENA
-2022,Round of 16,4,968260,2023-02-01T17:00:00+00:00,RB Leipzig,173,1899 Hoffenheim,167,1.0,home,90.0,Red Bull Arena
-2022,Round of 16,4,968260,2023-02-01T17:00:00+00:00,1899 Hoffenheim,167,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
-2022,Round of 16,4,968261,2023-02-08T17:00:00+00:00,FC Nurnberg,171,Fortuna Dusseldorf,158,1.0,home,120.0,Max-Morlock-Stadion
-2022,Round of 16,4,968261,2023-02-08T17:00:00+00:00,Fortuna Dusseldorf,158,FC Nurnberg,171,0.0,away,120.0,Max-Morlock-Stadion
-2022,Quarter-finals,5,1008958,2023-04-05T18:45:00+00:00,RB Leipzig,173,Borussia Dortmund,165,1.0,home,90.0,Red Bull Arena
-2022,Quarter-finals,5,1008958,2023-04-05T18:45:00+00:00,Borussia Dortmund,165,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
-2022,Quarter-finals,5,1008959,2023-04-05T16:00:00+00:00,FC Nurnberg,171,VfB Stuttgart,172,0.0,home,90.0,Max-Morlock-Stadion
-2022,Quarter-finals,5,1008959,2023-04-05T16:00:00+00:00,VfB Stuttgart,172,FC Nurnberg,171,1.0,away,90.0,Max-Morlock-Stadion
-2022,Quarter-finals,5,1008960,2023-04-04T16:00:00+00:00,Eintracht Frankfurt,169,Union Berlin,182,1.0,home,90.0,Deutsche Bank Park
-2022,Quarter-finals,5,1008960,2023-04-04T16:00:00+00:00,Union Berlin,182,Eintracht Frankfurt,169,0.0,away,90.0,Deutsche Bank Park
-2022,Quarter-finals,5,1008961,2023-04-04T18:45:00+00:00,Bayern Munich,157,SC Freiburg,160,0.0,home,90.0,Allianz Arena
-2022,Quarter-finals,5,1008961,2023-04-04T18:45:00+00:00,SC Freiburg,160,Bayern Munich,157,1.0,away,90.0,Allianz Arena
-2022,Semi-finals,6,1021522,2023-05-02T18:45:00+00:00,SC Freiburg,160,RB Leipzig,173,0.0,home,90.0,Europa-Park Stadion
-2022,Semi-finals,6,1021522,2023-05-02T18:45:00+00:00,RB Leipzig,173,SC Freiburg,160,1.0,away,90.0,Europa-Park Stadion
-2022,Semi-finals,6,1021523,2023-05-03T18:45:00+00:00,VfB Stuttgart,172,Eintracht Frankfurt,169,0.0,home,90.0,Mercedes-Benz-Arena
-2022,Semi-finals,6,1021523,2023-05-03T18:45:00+00:00,Eintracht Frankfurt,169,VfB Stuttgart,172,1.0,away,90.0,Mercedes-Benz-Arena
-2022,Final,7,1025223,2023-06-03T18:00:00+00:00,RB Leipzig,173,Eintracht Frankfurt,169,1.0,home,90.0,Olympiastadion Berlin
-2022,Final,7,1025223,2023-06-03T18:00:00+00:00,Eintracht Frankfurt,169,RB Leipzig,173,0.0,away,90.0,Olympiastadion Berlin
+2022,Round of 16,3,968254,2023-02-07T17:00:00+00:00,SV Sandhausen,189,SC Freiburg,160,0.0,home,90.0,BWT-Stadion am Hardtwald
+2022,Round of 16,3,968254,2023-02-07T17:00:00+00:00,SC Freiburg,160,SV Sandhausen,189,1.0,away,90.0,BWT-Stadion am Hardtwald
+2022,Round of 16,3,968255,2023-01-31T17:00:00+00:00,SC Paderborn 07,185,VfB Stuttgart,172,0.0,home,90.0,Home Deluxe Arena
+2022,Round of 16,3,968255,2023-01-31T17:00:00+00:00,VfB Stuttgart,172,SC Paderborn 07,185,1.0,away,90.0,Home Deluxe Arena
+2022,Round of 16,3,968256,2023-01-31T19:45:00+00:00,Union Berlin,182,VfL Wolfsburg,161,1.0,home,90.0,Stadion An der Alten Försterei
+2022,Round of 16,3,968256,2023-01-31T19:45:00+00:00,VfL Wolfsburg,161,Union Berlin,182,0.0,away,90.0,Stadion An der Alten Försterei
+2022,Round of 16,3,968257,2023-02-07T19:45:00+00:00,Eintracht Frankfurt,169,SV Darmstadt 98,181,1.0,home,90.0,Deutsche Bank Park
+2022,Round of 16,3,968257,2023-02-07T19:45:00+00:00,SV Darmstadt 98,181,Eintracht Frankfurt,169,0.0,away,90.0,Deutsche Bank Park
+2022,Round of 16,3,968258,2023-02-08T19:45:00+00:00,Vfl Bochum,176,Borussia Dortmund,165,0.0,home,90.0,Vonovia Ruhrstadion
+2022,Round of 16,3,968258,2023-02-08T19:45:00+00:00,Borussia Dortmund,165,Vfl Bochum,176,1.0,away,90.0,Vonovia Ruhrstadion
+2022,Round of 16,3,968259,2023-02-01T19:45:00+00:00,FSV Mainz 05,164,Bayern Munich,157,0.0,home,90.0,MEWA ARENA
+2022,Round of 16,3,968259,2023-02-01T19:45:00+00:00,Bayern Munich,157,FSV Mainz 05,164,1.0,away,90.0,MEWA ARENA
+2022,Round of 16,3,968260,2023-02-01T17:00:00+00:00,RB Leipzig,173,1899 Hoffenheim,167,1.0,home,90.0,Red Bull Arena
+2022,Round of 16,3,968260,2023-02-01T17:00:00+00:00,1899 Hoffenheim,167,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
+2022,Round of 16,3,968261,2023-02-08T17:00:00+00:00,FC Nurnberg,171,Fortuna Dusseldorf,158,1.0,home,120.0,Max-Morlock-Stadion
+2022,Round of 16,3,968261,2023-02-08T17:00:00+00:00,Fortuna Dusseldorf,158,FC Nurnberg,171,0.0,away,120.0,Max-Morlock-Stadion
+2022,Quarter-finals,4,1008958,2023-04-05T18:45:00+00:00,RB Leipzig,173,Borussia Dortmund,165,1.0,home,90.0,Red Bull Arena
+2022,Quarter-finals,4,1008958,2023-04-05T18:45:00+00:00,Borussia Dortmund,165,RB Leipzig,173,0.0,away,90.0,Red Bull Arena
+2022,Quarter-finals,4,1008959,2023-04-05T16:00:00+00:00,FC Nurnberg,171,VfB Stuttgart,172,0.0,home,90.0,Max-Morlock-Stadion
+2022,Quarter-finals,4,1008959,2023-04-05T16:00:00+00:00,VfB Stuttgart,172,FC Nurnberg,171,1.0,away,90.0,Max-Morlock-Stadion
+2022,Quarter-finals,4,1008960,2023-04-04T16:00:00+00:00,Eintracht Frankfurt,169,Union Berlin,182,1.0,home,90.0,Deutsche Bank Park
+2022,Quarter-finals,4,1008960,2023-04-04T16:00:00+00:00,Union Berlin,182,Eintracht Frankfurt,169,0.0,away,90.0,Deutsche Bank Park
+2022,Quarter-finals,4,1008961,2023-04-04T18:45:00+00:00,Bayern Munich,157,SC Freiburg,160,0.0,home,90.0,Allianz Arena
+2022,Quarter-finals,4,1008961,2023-04-04T18:45:00+00:00,SC Freiburg,160,Bayern Munich,157,1.0,away,90.0,Allianz Arena
+2022,Semi-finals,5,1021522,2023-05-02T18:45:00+00:00,SC Freiburg,160,RB Leipzig,173,0.0,home,90.0,Europa-Park Stadion
+2022,Semi-finals,5,1021522,2023-05-02T18:45:00+00:00,RB Leipzig,173,SC Freiburg,160,1.0,away,90.0,Europa-Park Stadion
+2022,Semi-finals,5,1021523,2023-05-03T18:45:00+00:00,VfB Stuttgart,172,Eintracht Frankfurt,169,0.0,home,90.0,Mercedes-Benz-Arena
+2022,Semi-finals,5,1021523,2023-05-03T18:45:00+00:00,Eintracht Frankfurt,169,VfB Stuttgart,172,1.0,away,90.0,Mercedes-Benz-Arena
+2022,Final,6,1025223,2023-06-03T18:00:00+00:00,RB Leipzig,173,Eintracht Frankfurt,169,1.0,home,90.0,Olympiastadion Berlin
+2022,Final,6,1025223,2023-06-03T18:00:00+00:00,Eintracht Frankfurt,169,RB Leipzig,173,0.0,away,90.0,Olympiastadion Berlin
 2023,1st Round,1,1036568,2023-08-14T16:00:00+00:00,FC 08 Homburg,1634,SV Darmstadt 98,181,1.0,home,90.0,Waldstadion Homburg
 2023,1st Round,1,1036568,2023-08-14T16:00:00+00:00,SV Darmstadt 98,181,FC 08 Homburg,1634,0.0,away,90.0,Waldstadion Homburg
 2023,1st Round,1,1036569,2023-08-12T16:00:00+00:00,Hallescher FC,1316,SpVgg Greuther Furth,178,0.0,home,90.0,Leuna Chemie Stadion
@@ -1607,31 +1607,31 @@ Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponen
 2023,2nd Round,2,1136770,2023-10-31T17:00:00+00:00,RB Leipzig,173,VfL Wolfsburg,161,0.0,away,90.0,VOLKSWAGEN ARENA
 2023,2nd Round,2,1136771,2023-10-31T19:45:00+00:00,FC Kaiserslautern,745,1.FC Köln,192,1.0,home,90.0,Fritz-Walter-Stadion
 2023,2nd Round,2,1136771,2023-10-31T19:45:00+00:00,1.FC Köln,192,FC Kaiserslautern,745,0.0,away,90.0,Fritz-Walter-Stadion
-2023,Round of 16,4,1141474,2023-12-06T19:45:00+00:00,VfB Stuttgart,172,Borussia Dortmund,165,1.0,home,90.0,MHP Arena
-2023,Round of 16,4,1141474,2023-12-06T19:45:00+00:00,Borussia Dortmund,165,VfB Stuttgart,172,0.0,away,90.0,MHP Arena
-2023,Round of 16,4,1141475,2023-12-06T17:00:00+00:00,FC Saarbrücken,1639,Eintracht Frankfurt,169,1.0,home,90.0,Stadion Ludwigspark
-2023,Round of 16,4,1141475,2023-12-06T17:00:00+00:00,Eintracht Frankfurt,169,FC Saarbrücken,1639,0.0,away,90.0,Stadion Ludwigspark
-2023,Round of 16,4,1141476,2023-12-05T19:45:00+00:00,Borussia Monchengladbach,163,VfL Wolfsburg,161,1.0,home,120.0,Stadion im BORUSSIA-PARK
-2023,Round of 16,4,1141476,2023-12-05T19:45:00+00:00,VfL Wolfsburg,161,Borussia Monchengladbach,163,0.0,away,120.0,Stadion im BORUSSIA-PARK
-2023,Round of 16,4,1141477,2023-12-06T19:45:00+00:00,Hertha Berlin,159,Hamburger SV,175,1.0,home,120.0,Olympiastadion Berlin
-2023,Round of 16,4,1141477,2023-12-06T19:45:00+00:00,Hamburger SV,175,Hertha Berlin,159,0.0,away,120.0,Olympiastadion Berlin
-2023,Round of 16,4,1141478,2023-12-05T19:45:00+00:00,FC 08 Homburg,1634,FC St. Pauli,186,0.0,home,90.0,Waldstadion Homburg
-2023,Round of 16,4,1141478,2023-12-05T19:45:00+00:00,FC St. Pauli,186,FC 08 Homburg,1634,1.0,away,90.0,Waldstadion Homburg
-2023,Round of 16,4,1141479,2023-12-06T17:00:00+00:00,Bayer Leverkusen,168,SC Paderborn 07,185,1.0,home,90.0,BayArena
-2023,Round of 16,4,1141479,2023-12-06T17:00:00+00:00,SC Paderborn 07,185,Bayer Leverkusen,168,0.0,away,90.0,BayArena
-2023,Round of 16,4,1141480,2023-12-05T17:00:00+00:00,FC Kaiserslautern,745,FC Nurnberg,171,1.0,home,90.0,Fritz-Walter-Stadion
-2023,Round of 16,4,1141480,2023-12-05T17:00:00+00:00,FC Nurnberg,171,FC Kaiserslautern,745,0.0,away,90.0,Fritz-Walter-Stadion
-2023,Round of 16,4,1141481,2023-12-05T17:00:00+00:00,FC Magdeburg,179,Fortuna Dusseldorf,158,0.0,home,90.0,MDCC-Arena
-2023,Round of 16,4,1141481,2023-12-05T17:00:00+00:00,Fortuna Dusseldorf,158,FC Magdeburg,179,1.0,away,90.0,MDCC-Arena
-2023,Quarter-finals,5,1147021,2024-03-12T19:30:00+00:00,FC Saarbrücken,1639,Borussia Monchengladbach,163,1.0,home,90.0,Stadion Ludwigspark
-2023,Quarter-finals,5,1147021,2024-03-12T19:30:00+00:00,Borussia Monchengladbach,163,FC Saarbrücken,1639,0.0,away,90.0,Stadion Ludwigspark
-2023,Quarter-finals,5,1147022,2024-01-31T19:45:00+00:00,Hertha Berlin,159,FC Kaiserslautern,745,0.0,home,90.0,Olympiastadion Berlin
-2023,Quarter-finals,5,1147022,2024-01-31T19:45:00+00:00,FC Kaiserslautern,745,Hertha Berlin,159,1.0,away,90.0,Olympiastadion Berlin
-2023,Quarter-finals,5,1147023,2024-02-06T19:45:00+00:00,Bayer Leverkusen,168,VfB Stuttgart,172,1.0,home,90.0,BayArena
-2023,Quarter-finals,5,1147023,2024-02-06T19:45:00+00:00,VfB Stuttgart,172,Bayer Leverkusen,168,0.0,away,90.0,BayArena
-2023,Quarter-finals,5,1147024,2024-01-30T19:45:00+00:00,FC St. Pauli,186,Fortuna Dusseldorf,158,0.0,home,120.0,Millerntor-Stadion
-2023,Quarter-finals,5,1147024,2024-01-30T19:45:00+00:00,Fortuna Dusseldorf,158,FC St. Pauli,186,1.0,away,120.0,Millerntor-Stadion
-2023,Semi-finals,6,1173883,2024-04-03T18:45:00+00:00,Bayer Leverkusen,168,Fortuna Dusseldorf,158,,home,,BayArena
-2023,Semi-finals,6,1173883,2024-04-03T18:45:00+00:00,Fortuna Dusseldorf,158,Bayer Leverkusen,168,,away,,BayArena
-2023,Semi-finals,6,1184565,2024-04-02T18:45:00+00:00,FC Saarbrücken,1639,FC Kaiserslautern,745,,home,,Stadion Ludwigspark
-2023,Semi-finals,6,1184565,2024-04-02T18:45:00+00:00,FC Kaiserslautern,745,FC Saarbrücken,1639,,away,,Stadion Ludwigspark
+2023,Round of 16,3,1141474,2023-12-06T19:45:00+00:00,VfB Stuttgart,172,Borussia Dortmund,165,1.0,home,90.0,MHP Arena
+2023,Round of 16,3,1141474,2023-12-06T19:45:00+00:00,Borussia Dortmund,165,VfB Stuttgart,172,0.0,away,90.0,MHP Arena
+2023,Round of 16,3,1141475,2023-12-06T17:00:00+00:00,FC Saarbrücken,1639,Eintracht Frankfurt,169,1.0,home,90.0,Stadion Ludwigspark
+2023,Round of 16,3,1141475,2023-12-06T17:00:00+00:00,Eintracht Frankfurt,169,FC Saarbrücken,1639,0.0,away,90.0,Stadion Ludwigspark
+2023,Round of 16,3,1141476,2023-12-05T19:45:00+00:00,Borussia Monchengladbach,163,VfL Wolfsburg,161,1.0,home,120.0,Stadion im BORUSSIA-PARK
+2023,Round of 16,3,1141476,2023-12-05T19:45:00+00:00,VfL Wolfsburg,161,Borussia Monchengladbach,163,0.0,away,120.0,Stadion im BORUSSIA-PARK
+2023,Round of 16,3,1141477,2023-12-06T19:45:00+00:00,Hertha Berlin,159,Hamburger SV,175,1.0,home,120.0,Olympiastadion Berlin
+2023,Round of 16,3,1141477,2023-12-06T19:45:00+00:00,Hamburger SV,175,Hertha Berlin,159,0.0,away,120.0,Olympiastadion Berlin
+2023,Round of 16,3,1141478,2023-12-05T19:45:00+00:00,FC 08 Homburg,1634,FC St. Pauli,186,0.0,home,90.0,Waldstadion Homburg
+2023,Round of 16,3,1141478,2023-12-05T19:45:00+00:00,FC St. Pauli,186,FC 08 Homburg,1634,1.0,away,90.0,Waldstadion Homburg
+2023,Round of 16,3,1141479,2023-12-06T17:00:00+00:00,Bayer Leverkusen,168,SC Paderborn 07,185,1.0,home,90.0,BayArena
+2023,Round of 16,3,1141479,2023-12-06T17:00:00+00:00,SC Paderborn 07,185,Bayer Leverkusen,168,0.0,away,90.0,BayArena
+2023,Round of 16,3,1141480,2023-12-05T17:00:00+00:00,FC Kaiserslautern,745,FC Nurnberg,171,1.0,home,90.0,Fritz-Walter-Stadion
+2023,Round of 16,3,1141480,2023-12-05T17:00:00+00:00,FC Nurnberg,171,FC Kaiserslautern,745,0.0,away,90.0,Fritz-Walter-Stadion
+2023,Round of 16,3,1141481,2023-12-05T17:00:00+00:00,FC Magdeburg,179,Fortuna Dusseldorf,158,0.0,home,90.0,MDCC-Arena
+2023,Round of 16,3,1141481,2023-12-05T17:00:00+00:00,Fortuna Dusseldorf,158,FC Magdeburg,179,1.0,away,90.0,MDCC-Arena
+2023,Quarter-finals,4,1147021,2024-03-12T19:30:00+00:00,FC Saarbrücken,1639,Borussia Monchengladbach,163,1.0,home,90.0,Stadion Ludwigspark
+2023,Quarter-finals,4,1147021,2024-03-12T19:30:00+00:00,Borussia Monchengladbach,163,FC Saarbrücken,1639,0.0,away,90.0,Stadion Ludwigspark
+2023,Quarter-finals,4,1147022,2024-01-31T19:45:00+00:00,Hertha Berlin,159,FC Kaiserslautern,745,0.0,home,90.0,Olympiastadion Berlin
+2023,Quarter-finals,4,1147022,2024-01-31T19:45:00+00:00,FC Kaiserslautern,745,Hertha Berlin,159,1.0,away,90.0,Olympiastadion Berlin
+2023,Quarter-finals,4,1147023,2024-02-06T19:45:00+00:00,Bayer Leverkusen,168,VfB Stuttgart,172,1.0,home,90.0,BayArena
+2023,Quarter-finals,4,1147023,2024-02-06T19:45:00+00:00,VfB Stuttgart,172,Bayer Leverkusen,168,0.0,away,90.0,BayArena
+2023,Quarter-finals,4,1147024,2024-01-30T19:45:00+00:00,FC St. Pauli,186,Fortuna Dusseldorf,158,0.0,home,120.0,Millerntor-Stadion
+2023,Quarter-finals,4,1147024,2024-01-30T19:45:00+00:00,Fortuna Dusseldorf,158,FC St. Pauli,186,1.0,away,120.0,Millerntor-Stadion
+2023,Semi-finals,5,1173883,2024-04-03T18:45:00+00:00,Bayer Leverkusen,168,Fortuna Dusseldorf,158,,home,,BayArena
+2023,Semi-finals,5,1173883,2024-04-03T18:45:00+00:00,Fortuna Dusseldorf,158,Bayer Leverkusen,168,,away,,BayArena
+2023,Semi-finals,5,1184565,2024-04-02T18:45:00+00:00,FC Saarbrücken,1639,FC Kaiserslautern,745,,home,,Stadion Ludwigspark
+2023,Semi-finals,5,1184565,2024-04-02T18:45:00+00:00,FC Kaiserslautern,745,FC Saarbrücken,1639,,away,,Stadion Ludwigspark
