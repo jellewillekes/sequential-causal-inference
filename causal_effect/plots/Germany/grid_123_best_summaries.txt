@@ -1,0 +1,378 @@
+Stage: 1
+First-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               team_win   R-squared:                       0.273
+Model:                            OLS   Adj. R-squared:                  0.268
+Method:                 Least Squares   F-statistic:                     51.30
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           3.68e-28
+Time:                        00:15:19   Log-Likelihood:                -208.98
+No. Observations:                 413   AIC:                             426.0
+Df Residuals:                     409   BIC:                             442.0
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           0.5417      0.170      3.186      0.002       0.207       0.876
+rank_diff       0.0058      0.001     10.180      0.000       0.005       0.007
+team_size      -0.0020      0.005     -0.392      0.695      -0.012       0.008
+total_value     0.0003      0.000      2.317      0.021    4.89e-05       0.001
+==============================================================================
+Omnibus:                       17.825   Durbin-Watson:                   2.640
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               15.175
+Skew:                          -0.394   Prob(JB):                     0.000507
+Kurtosis:                       2.488   Cond. No.                     1.62e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.62e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Second-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              team_rank   R-squared:                       0.691
+Model:                            OLS   Adj. R-squared:                  0.688
+Method:                 Least Squares   F-statistic:                     304.2
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):          9.08e-104
+Time:                        00:15:19   Log-Likelihood:                -1444.9
+No. Observations:                 413   AIC:                             2898.
+Df Residuals:                     409   BIC:                             2914.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          43.7899      3.575     12.248      0.000      36.762      50.818
+D_hat         -35.5165      1.958    -18.136      0.000     -39.366     -31.667
+team_size       0.1850      0.102      1.822      0.069      -0.015       0.385
+total_value    -0.0295      0.003     -9.569      0.000      -0.036      -0.023
+==============================================================================
+Omnibus:                        6.287   Durbin-Watson:                   2.059
+Prob(Omnibus):                  0.043   Jarque-Bera (JB):                4.020
+Skew:                           0.031   Prob(JB):                        0.134
+Kurtosis:                       2.521   Cond. No.                     1.72e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.72e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Stage: 2
+First-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               team_win   R-squared:                       0.179
+Model:                            OLS   Adj. R-squared:                  0.170
+Method:                 Least Squares   F-statistic:                     19.74
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           1.33e-11
+Time:                        00:15:19   Log-Likelihood:                -172.01
+No. Observations:                 275   AIC:                             352.0
+Df Residuals:                     271   BIC:                             366.5
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           0.7365      0.237      3.106      0.002       0.270       1.203
+rank_diff       0.0065      0.001      5.426      0.000       0.004       0.009
+team_size      -0.0094      0.007     -1.322      0.187      -0.023       0.005
+total_value     0.0005      0.000      3.191      0.002       0.000       0.001
+==============================================================================
+Omnibus:                      495.340   Durbin-Watson:                   2.596
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               20.966
+Skew:                          -0.025   Prob(JB):                     2.80e-05
+Kurtosis:                       1.648   Cond. No.                     1.93e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.93e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Second-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              team_rank   R-squared:                       0.584
+Model:                            OLS   Adj. R-squared:                  0.579
+Method:                 Least Squares   F-statistic:                     126.6
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           2.73e-51
+Time:                        00:15:19   Log-Likelihood:                -964.66
+No. Observations:                 275   AIC:                             1937.
+Df Residuals:                     271   BIC:                             1952.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          34.5794      4.702      7.354      0.000      25.321      43.837
+D_hat         -26.4372      3.291     -8.033      0.000     -32.916     -19.958
+team_size       0.0519      0.128      0.406      0.685      -0.200       0.303
+total_value    -0.0267      0.004     -6.801      0.000      -0.034      -0.019
+==============================================================================
+Omnibus:                        9.871   Durbin-Watson:                   1.848
+Prob(Omnibus):                  0.007   Jarque-Bera (JB):               10.297
+Skew:                           0.474   Prob(JB):                      0.00581
+Kurtosis:                       2.974   Cond. No.                     2.29e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.29e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Stage: 3
+First-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               team_win   R-squared:                       0.157
+Model:                            OLS   Adj. R-squared:                  0.139
+Method:                 Least Squares   F-statistic:                     8.724
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           2.39e-05
+Time:                        00:15:19   Log-Likelihood:                -92.865
+No. Observations:                 145   AIC:                             193.7
+Df Residuals:                     141   BIC:                             205.6
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           0.7824      0.354      2.209      0.029       0.082       1.483
+rank_diff       0.0059      0.002      2.808      0.006       0.002       0.010
+team_size      -0.0123      0.011     -1.168      0.245      -0.033       0.009
+total_value     0.0006      0.000      2.866      0.005       0.000       0.001
+==============================================================================
+Omnibus:                      128.289   Durbin-Watson:                   2.628
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               10.883
+Skew:                           0.069   Prob(JB):                      0.00433
+Kurtosis:                       1.665   Cond. No.                     2.51e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.51e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Second-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              team_rank   R-squared:                       0.564
+Model:                            OLS   Adj. R-squared:                  0.555
+Method:                 Least Squares   F-statistic:                     60.90
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           2.58e-25
+Time:                        00:15:19   Log-Likelihood:                -504.09
+No. Observations:                 145   AIC:                             1016.
+Df Residuals:                     141   BIC:                             1028.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          35.9626      7.813      4.603      0.000      20.518      51.408
+D_hat         -30.4870      6.072     -5.021      0.000     -42.491     -18.483
+team_size      -0.0955      0.199     -0.481      0.632      -0.488       0.297
+total_value    -0.0164      0.006     -2.822      0.005      -0.028      -0.005
+==============================================================================
+Omnibus:                       17.795   Durbin-Watson:                   2.098
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               20.532
+Skew:                           0.818   Prob(JB):                     3.48e-05
+Kurtosis:                       3.849   Cond. No.                     3.75e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.75e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Stage: 4
+First-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               team_win   R-squared:                       0.269
+Model:                            OLS   Adj. R-squared:                  0.237
+Method:                 Least Squares   F-statistic:                     8.235
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           9.65e-05
+Time:                        00:15:19   Log-Likelihood:                -40.325
+No. Observations:                  71   AIC:                             88.65
+Df Residuals:                      67   BIC:                             97.70
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           0.8522      0.498      1.710      0.092      -0.143       1.847
+rank_diff       0.0077      0.003      2.865      0.006       0.002       0.013
+team_size      -0.0158      0.015     -1.073      0.287      -0.045       0.014
+total_value     0.0007      0.000      2.758      0.007       0.000       0.001
+==============================================================================
+Omnibus:                       12.358   Durbin-Watson:                   2.406
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):                3.611
+Skew:                          -0.116   Prob(JB):                        0.164
+Kurtosis:                       1.920   Cond. No.                     3.21e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.21e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Second-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              team_rank   R-squared:                       0.551
+Model:                            OLS   Adj. R-squared:                  0.531
+Method:                 Least Squares   F-statistic:                     27.38
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           1.13e-11
+Time:                        00:15:19   Log-Likelihood:                -237.95
+No. Observations:                  71   AIC:                             483.9
+Df Residuals:                      67   BIC:                             492.9
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          21.1231      9.055      2.333      0.023       3.050      39.197
+D_hat         -17.4466      5.645     -3.091      0.003     -28.713      -6.180
+team_size       0.0845      0.250      0.338      0.736      -0.414       0.583
+total_value    -0.0155      0.006     -2.428      0.018      -0.028      -0.003
+==============================================================================
+Omnibus:                       26.791   Durbin-Watson:                   1.708
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               49.815
+Skew:                           1.338   Prob(JB):                     1.52e-11
+Kurtosis:                       6.111   Cond. No.                     3.81e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.81e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Stage: 5
+First-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               team_win   R-squared:                       0.375
+Model:                            OLS   Adj. R-squared:                  0.318
+Method:                 Least Squares   F-statistic:                     6.586
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):            0.00130
+Time:                        00:15:19   Log-Likelihood:                -17.500
+No. Observations:                  37   AIC:                             43.00
+Df Residuals:                      33   BIC:                             49.44
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          -0.0513      0.734     -0.070      0.945      -1.545       1.442
+rank_diff       0.0119      0.005      2.578      0.015       0.003       0.021
+team_size       0.0109      0.022      0.495      0.624      -0.034       0.056
+total_value     0.0007      0.000      2.114      0.042    2.63e-05       0.001
+==============================================================================
+Omnibus:                        4.328   Durbin-Watson:                   3.207
+Prob(Omnibus):                  0.115   Jarque-Bera (JB):                1.763
+Skew:                          -0.079   Prob(JB):                        0.414
+Kurtosis:                       1.943   Cond. No.                     4.42e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 4.42e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Second-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              team_rank   R-squared:                       0.641
+Model:                            OLS   Adj. R-squared:                  0.608
+Method:                 Least Squares   F-statistic:                     19.62
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           1.76e-07
+Time:                        00:15:19   Log-Likelihood:                -101.90
+No. Observations:                  37   AIC:                             211.8
+Df Residuals:                      33   BIC:                             218.2
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          -2.3886      7.155     -0.334      0.741     -16.945      12.168
+D_hat          -5.5555      3.796     -1.464      0.153     -13.278       2.167
+team_size       0.5195      0.211      2.459      0.019       0.090       0.949
+total_value    -0.0147      0.005     -2.921      0.006      -0.025      -0.004
+==============================================================================
+Omnibus:                        4.006   Durbin-Watson:                   1.505
+Prob(Omnibus):                  0.135   Jarque-Bera (JB):                3.090
+Skew:                           0.704   Prob(JB):                        0.213
+Kurtosis:                       3.157   Cond. No.                     4.42e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 4.42e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Stage: 6
+First-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               team_win   R-squared:                       0.254
+Model:                            OLS   Adj. R-squared:                  0.130
+Method:                 Least Squares   F-statistic:                     2.047
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):              0.143
+Time:                        00:15:19   Log-Likelihood:                -12.738
+No. Observations:                  22   AIC:                             33.48
+Df Residuals:                      18   BIC:                             37.84
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           1.3006      1.215      1.071      0.298      -1.251       3.852
+rank_diff       0.0309      0.021      1.501      0.151      -0.012       0.074
+team_size      -0.0267      0.038     -0.710      0.487      -0.106       0.052
+total_value     0.0002      0.001      0.287      0.777      -0.001       0.002
+==============================================================================
+Omnibus:                        0.857   Durbin-Watson:                   3.279
+Prob(Omnibus):                  0.652   Jarque-Bera (JB):                0.769
+Skew:                           0.177   Prob(JB):                        0.681
+Kurtosis:                       2.155   Cond. No.                     5.74e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.74e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Second-stage Regression Summary:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              team_rank   R-squared:                       0.749
+Model:                            OLS   Adj. R-squared:                  0.707
+Method:                 Least Squares   F-statistic:                     17.89
+Date:                Tue, 23 Jul 2024   Prob (F-statistic):           1.23e-05
+Time:                        00:15:19   Log-Likelihood:                -41.631
+No. Observations:                  22   AIC:                             91.26
+Df Residuals:                      18   BIC:                             95.63
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const          -4.8166      5.661     -0.851      0.406     -16.709       7.076
+D_hat          -0.4713      2.478     -0.190      0.851      -5.677       4.734
+team_size       0.4284      0.166      2.574      0.019       0.079       0.778
+total_value    -0.0120      0.003     -4.289      0.000      -0.018      -0.006
+==============================================================================
+Omnibus:                        0.432   Durbin-Watson:                   2.066
+Prob(Omnibus):                  0.806   Jarque-Bera (JB):                0.480
+Skew:                           0.284   Prob(JB):                        0.787
+Kurtosis:                       2.551   Cond. No.                     7.47e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 7.47e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

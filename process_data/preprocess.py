@@ -194,6 +194,12 @@ def preprocess_data(country, cup):
     financial_df = load_csv_data(country, f'league_financial_data.csv')
     match_df = merge_financial_data(match_df, financial_df)
 
+    # Convert `team_home` to a binary variable
+    match_df['team_home'] = match_df['team_home'].apply(lambda x: 1 if x == 'home' else 0)
+
+    # Convert `fixture_length` to a binary variable
+    match_df['extra_time'] = match_df['fixture_length'].apply(lambda x: 1 if x > 90 else 0)
+
     return match_df
 
 

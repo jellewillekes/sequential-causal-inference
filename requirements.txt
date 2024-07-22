@@ -16,3 +16,5 @@ fuzzywuzzy
 python-Levenshtein
 
 scikit-learn
+
+pyyaml
