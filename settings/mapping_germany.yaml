@@ -5,21 +5,21 @@ Germany:
     season_start: 2010
     season_end: 2023
     data_types: [standings, fixtures]
-    transfermarkt_name: bundesliga
+    transfermarkt_name: [bundesliga, L1]
   Bundesliga_2:
     id: 79
     division: 2
     season_start: 2010
     season_end: 2023
     data_types: [standings, fixtures]
-    transfermarkt_name: 2-bundesliga
+    transfermarkt_name: [2-bundesliga, L2]
   Bundesliga_3:
     id: 80
     division: 3
     season_start: 2010
     season_end: 2023
     data_types: [standings, fixtures]
-    transfermarkt_name: 3-liga
+    transfermarkt_name: [3-liga, L3]
   DFB_Pokal:
     id: 81
     division: NaN

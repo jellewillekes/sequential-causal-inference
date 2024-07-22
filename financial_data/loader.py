@@ -45,7 +45,7 @@ def request_financial_data(country):
         if transfermarkt_name != 'none':
             for season in range(start, end):
                 print(f"Processing {league_name} for the {season} season.")
-                data_season = scrape_league_data(league_name=league_name, league_id=transfermarkt_name, year=season)
+                data_season = scrape_league_data(league_name=league_name, transfermarkt_name=transfermarkt_name, year=season)
                 data_seasons.append(data_season)
 
     financial_data = pd.concat(data_seasons, ignore_index=True)

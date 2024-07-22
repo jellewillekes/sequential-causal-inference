@@ -1,4 +1,4 @@
-Team_name,Opponent_name,Distance
+team_name,opponent_name,distance
 1.FC Köln,VfL Osnabruck,173
 1860 Rosenheim,VfR Aalen,188
 1899 Hoffenheim,1.FC Köln,229
@@ -19,7 +19,7 @@ Arminia Bielefeld,Borussia Monchengladbach,175
 Arminia Bielefeld,Eintracht Braunschweig,136
 Arminia Bielefeld,FC Nurnberg,339
 Arminia Bielefeld,FC Schalke 04,117
-Arminia Bielefeld,Fortuna Dusseldorf,150
+Arminia Bielefeld,Fortuna Dusseldorf,151
 Arminia Bielefeld,Hamburger SV,489
 Arminia Bielefeld,Hertha Berlin,323
 Arminia Bielefeld,MSV Duisburg,147
@@ -61,7 +61,7 @@ Bayern Munich,Eintracht Frankfurt,298
 Bayern Munich,FC Heidenheim,117
 Bayern Munich,FC Ingolstadt 04,66
 Bayern Munich,FC Kaiserslautern,310
-Bayern Munich,FC Schalke 04,494
+Bayern Munich,FC Schalke 04,495
 Bayern Munich,Hannover 96,484
 Bayern Munich,SC Freiburg,272
 Bayern Munich,SV Darmstadt 98,282
@@ -89,10 +89,10 @@ Borussia Monchengladbach,VfL Wolfsburg,331
 Borussia Monchengladbach,Werder Bremen,266
 Bremer Sv,Bayern Munich,579
 Bremer Sv,Eintracht Braunschweig,147
-Bremer Sv,Eintracht Frankfurt,336
+Bremer Sv,Eintracht Frankfurt,329
 Bremer Sv,FC Schalke 04,207
 Bremer Sv,SV Darmstadt 98,356
-CFR Pforzheim,Bayer Leverkusen,267
+CFR Pforzheim,Bayer Leverkusen,266
 Carl Zeiss Jena,1.FC Köln,329
 Carl Zeiss Jena,Bayer Leverkusen,323
 Carl Zeiss Jena,Bayern Munich,306
@@ -113,7 +113,7 @@ Chemnitzer FC,Union Berlin,129
 Chemnitzer FC,Werder Bremen,362
 Dynamo Dresden,Arminia Bielefeld,380
 Dynamo Dresden,Bayer Leverkusen,478
-Dynamo Dresden,FC Schalke 04,474
+Dynamo Dresden,FC Schalke 04,475
 Dynamo Dresden,FC St. Pauli,387
 Dynamo Dresden,Hamburger SV,336
 Dynamo Dresden,RB Leipzig,110
@@ -132,19 +132,19 @@ Eintracht Braunschweig,Hamburger SV,466
 Eintracht Braunschweig,Hertha Berlin,187
 Eintracht Braunschweig,SC Freiburg,514
 Eintracht Braunschweig,VfL Wolfsburg,25
-Eintracht Celle,FC Augsburg,252
-Eintracht Frankfurt,Arminia Bielefeld,217
-Eintracht Frankfurt,Borussia Dortmund,136
-Eintracht Frankfurt,Borussia Monchengladbach,198
+Eintracht Celle,FC Augsburg,377
+Eintracht Frankfurt,Arminia Bielefeld,210
+Eintracht Frankfurt,Borussia Dortmund,128
+Eintracht Frankfurt,Borussia Monchengladbach,199
 Eintracht Frankfurt,FC Ingolstadt 04,248
-Eintracht Frankfurt,FC Kaiserslautern,94
-Eintracht Frankfurt,FSV Mainz 05,30
-Eintracht Frankfurt,RB Leipzig,297
-Eintracht Frankfurt,SV Darmstadt 98,21
-Eintracht Frankfurt,SV Sandhausen,82
-Eintracht Frankfurt,Union Berlin,434
-Eintracht Frankfurt,Vfl Bochum,188
-Eintracht Frankfurt,Werder Bremen,334
+Eintracht Frankfurt,FC Kaiserslautern,103
+Eintracht Frankfurt,FSV Mainz 05,38
+Eintracht Frankfurt,RB Leipzig,288
+Eintracht Frankfurt,SV Darmstadt 98,28
+Eintracht Frankfurt,SV Sandhausen,89
+Eintracht Frankfurt,Union Berlin,425
+Eintracht Frankfurt,Vfl Bochum,185
+Eintracht Frankfurt,Werder Bremen,327
 Eintracht Norderstedt,Bayer Leverkusen,359
 Eintracht Norderstedt,Hannover 96,146
 Eintracht Norderstedt,SpVgg Greuther Furth,470
@@ -161,7 +161,7 @@ Energie Cottbus,SC Freiburg,624
 Energie Cottbus,SC Paderborn 07,388
 Energie Cottbus,VfB Stuttgart,491
 Energie Cottbus,Werder Bremen,402
-Erzgebirge AUE,Eintracht Frankfurt,294
+Erzgebirge AUE,Eintracht Frankfurt,287
 Erzgebirge AUE,FC Heidenheim,284
 Erzgebirge AUE,FC Nurnberg,172
 Erzgebirge AUE,SpVgg Greuther Furth,173
@@ -185,15 +185,15 @@ FC Augsburg,FSV Mainz 05,265
 FC Gutersloh,Holstein Kiel,294
 FC Heidenheim,Bayer Leverkusen,346
 FC Heidenheim,Borussia Monchengladbach,385
-FC Heidenheim,Eintracht Frankfurt,190
+FC Heidenheim,Eintracht Frankfurt,192
 FC Heidenheim,Hertha Berlin,481
-FC Heidenheim,TSV 1860 Munich,123
+FC Heidenheim,TSV 1860 Munich,122
 FC Heidenheim,Union Berlin,486
-FC Heidenheim,Vfl Bochum,377
+FC Heidenheim,Vfl Bochum,378
 FC Heidenheim,Werder Bremen,498
 FC Ingolstadt 04,Erzgebirge AUE,225
 FC Ingolstadt 04,FC Nurnberg,78
-FC Ingolstadt 04,Fortuna Dusseldorf,428
+FC Ingolstadt 04,Fortuna Dusseldorf,429
 FC Ingolstadt 04,SV Darmstadt 98,236
 FC Kaiserslautern,1.FC Köln,174
 FC Kaiserslautern,1899 Hoffenheim,80
@@ -208,19 +208,19 @@ FC Kaiserslautern,VfB Stuttgart,128
 FC Lok Stendal,Arminia Bielefeld,234
 FC Magdeburg,Bayer Leverkusen,345
 FC Magdeburg,Borussia Dortmund,214
-FC Magdeburg,Eintracht Frankfurt,311
+FC Magdeburg,Eintracht Frankfurt,302
 FC Magdeburg,Energie Cottbus,190
 FC Magdeburg,FC Augsburg,422
 FC Magdeburg,FC St. Pauli,194
 FC Magdeburg,Fortuna Dusseldorf,348
 FC Magdeburg,SC Freiburg,533
-FC Magdeburg,SV Darmstadt 98,327
+FC Magdeburg,SV Darmstadt 98,325
 FC Nottingen,Bayern Munich,234
 FC Nottingen,FC Schalke 04,312
 FC Nottingen,Hannover 96,392
 FC Nottingen,Vfl Bochum,302
 FC Nurnberg,FC Schalke 04,373
-FC Nurnberg,Fortuna Dusseldorf,373
+FC Nurnberg,Fortuna Dusseldorf,366
 FC Nurnberg,Hertha Berlin,373
 FC Nurnberg,RB Leipzig,229
 FC Nurnberg,SpVgg Greuther Furth,12
@@ -233,7 +233,7 @@ FC Saarbrucken,Bayer Leverkusen,199
 FC Saarbrucken,Borussia Dortmund,264
 FC Saarbrucken,Erzgebirge AUE,436
 FC Saarbrucken,FC Schalke 04,259
-FC Saarbrucken,Fortuna Dusseldorf,226
+FC Saarbrucken,Fortuna Dusseldorf,222
 FC Saarbrucken,Jahn Regensburg,372
 FC Saarbrucken,Karlsruher SC,106
 FC Saarbrucken,SC Paderborn 07,303
@@ -248,7 +248,7 @@ FC Schalke 04,1.FC Köln,73
 FC Schalke 04,1899 Hoffenheim,284
 FC Schalke 04,Eintracht Frankfurt,197
 FC Schalke 04,FSV Mainz 05,192
-FC Schalke 04,Fortuna Dusseldorf,40
+FC Schalke 04,Fortuna Dusseldorf,41
 FC Schalke 04,Hertha Berlin,437
 FC Schalke 04,SV Sandhausen,272
 FC Schalke 04,VfL Wolfsburg,275
@@ -260,7 +260,7 @@ FC St. Pauli,Borussia Dortmund,264
 FC St. Pauli,Borussia Monchengladbach,357
 FC St. Pauli,Eintracht Frankfurt,390
 FC St. Pauli,FC Schalke 04,297
-FC St. Pauli,Fortuna Dusseldorf,337
+FC St. Pauli,Fortuna Dusseldorf,336
 FC St. Pauli,Hertha Berlin,248
 FC Viktoria Koln,1899 Hoffenheim,223
 FC Viktoria Koln,Bayer Leverkusen,14
@@ -273,10 +273,10 @@ FC Viktoria Koln,Union Berlin,484
 FC Viktoria Koln,Werder Bremen,271
 FC Wurzburger Kickers,1899 Hoffenheim,98
 FC Wurzburger Kickers,Eintracht Braunschweig,281
-FC Wurzburger Kickers,Fortuna Dusseldorf,280
+FC Wurzburger Kickers,Fortuna Dusseldorf,273
 FC Wurzburger Kickers,Hannover 96,288
 FC Wurzburger Kickers,SC Freiburg,250
-FC Wurzburger Kickers,TSV 1860 Munich,223
+FC Wurzburger Kickers,TSV 1860 Munich,222
 FC Wurzburger Kickers,Werder Bremen,372
 FSV Frankfurt,FC Ingolstadt 04,248
 FSV Frankfurt,Hansa Rostock,497
@@ -286,7 +286,7 @@ FSV Mainz 05,Arminia Bielefeld,226
 FSV Mainz 05,Bayern Munich,314
 FSV Mainz 05,Erzgebirge AUE,324
 FSV Mainz 05,SC Freiburg,225
-FSV Mainz 05,TSV 1860 Munich,322
+FSV Mainz 05,TSV 1860 Munich,321
 FSV Mainz 05,VfB Stuttgart,151
 FSV Mainz 05,Vfl Bochum,182
 FSV Zwickau,Hamburger SV,283
@@ -295,10 +295,10 @@ FV Engers 07,Arminia Bielefeld,191
 FV Engers 07,Vfl Bochum,122
 FV Ravensburg,FC Augsburg,116
 Falkensee-Finkenkrug,VfB Stuttgart,499
-Fortuna Dusseldorf,Borussia Dortmund,148
-Fortuna Dusseldorf,Borussia Monchengladbach,22
-Fortuna Dusseldorf,Erzgebirge AUE,425
-Fortuna Dusseldorf,TSV 1860 Munich,495
+Fortuna Dusseldorf,Borussia Dortmund,142
+Fortuna Dusseldorf,Borussia Monchengladbach,27
+Fortuna Dusseldorf,Erzgebirge AUE,418
+Fortuna Dusseldorf,TSV 1860 Munich,487
 Fortuna Koln,FSV Mainz 05,137
 Germania Egestorf,1899 Hoffenheim,240
 Germania Halberstadt,SC Freiburg,490
@@ -320,33 +320,33 @@ Hamburger SV,RB Leipzig,350
 Hamburger SV,SC Freiburg,307
 Hamburger SV,SpVgg Greuther Furth,162
 Hannover 96,Borussia Monchengladbach,263
-Hannover 96,Dynamo Dresden,314
+Hannover 96,Dynamo Dresden,320
 Hannover 96,Eintracht Frankfurt,259
 Hannover 96,FSV Mainz 05,284
-Hannover 96,Fortuna Dusseldorf,241
+Hannover 96,Fortuna Dusseldorf,238
 Hannover 96,RB Leipzig,213
 Hannover 96,Werder Bremen,98
 Hansa Rostock,FC Heidenheim,618
 Hansa Rostock,FC Kaiserslautern,596
 Hansa Rostock,FC Nurnberg,521
-Hansa Rostock,Fortuna Dusseldorf,479
+Hansa Rostock,Fortuna Dusseldorf,478
 Hansa Rostock,Hertha Berlin,191
 Hansa Rostock,VfB Stuttgart,621
 Hansa Rostock,Vfl Bochum,435
 Havelse,FC Nurnberg,347
 Havelse,FSV Mainz 05,284
 Havelse,Vfl Bochum,192
-Hennef 05,TSV 1860 Munich,430
+Hennef 05,TSV 1860 Munich,429
 Hertha Berlin,1.FC Köln,473
 Hertha Berlin,Bayern Munich,498
 Hertha Berlin,Borussia Dortmund,331
 Hertha Berlin,Borussia Monchengladbach,491
-Hertha Berlin,Dynamo Dresden,168
+Hertha Berlin,Dynamo Dresden,174
 Hertha Berlin,FC Kaiserslautern,514
 Hertha Berlin,FSV Mainz 05,447
 Hertha Berlin,Hamburger SV,487
 Hertha Berlin,Union Berlin,23
-Hessen Kassel,Fortuna Dusseldorf,193
+Hessen Kassel,Fortuna Dusseldorf,188
 Hessen Kassel,Hannover 96,119
 Holstein Kiel,Bayern Munich,691
 Holstein Kiel,Borussia Dortmund,350
@@ -357,22 +357,22 @@ Holstein Kiel,FC Magdeburg,264
 Holstein Kiel,FSV Mainz 05,499
 Holstein Kiel,MSV Duisburg,401
 Holstein Kiel,SC Freiburg,723
-Holstein Kiel,SV Darmstadt 98,506
+Holstein Kiel,SV Darmstadt 98,505
 Holstein Kiel,TSV 1860 Munich,700
 Holstein Kiel,VfB Stuttgart,618
 Illertissen,Eintracht Frankfurt,235
 Illertissen,FC Heidenheim,50
-Illertissen,Fortuna Dusseldorf,416
+Illertissen,Fortuna Dusseldorf,409
 Illertissen,Werder Bremen,546
 Jahn Regensburg,1.FC Köln,427
 Jahn Regensburg,Bayern Munich,100
 Jahn Regensburg,Borussia Monchengladbach,469
 Jahn Regensburg,FC Heidenheim,147
 Jahn Regensburg,FC Magdeburg,349
-Jahn Regensburg,Fortuna Dusseldorf,457
+Jahn Regensburg,Fortuna Dusseldorf,450
 Jahn Regensburg,Hansa Rostock,565
 Jahn Regensburg,Hertha Berlin,399
-Jahn Regensburg,SV Darmstadt 98,267
+Jahn Regensburg,SV Darmstadt 98,265
 Jahn Regensburg,Union Berlin,398
 Jahn Regensburg,Werder Bremen,506
 KFC Uerdingen 05,Borussia Dortmund,154
@@ -384,12 +384,12 @@ Karlsruher SC,Hamburger SV,280
 Karlsruher SC,Hannover 96,385
 Karlsruher SC,MSV Duisburg,287
 Karlsruher SC,SC Freiburg,121
-Karlsruher SC,Union Berlin,527
+Karlsruher SC,Union Berlin,528
 Karlsruher SC,VfL Wolfsburg,416
 Kickers Emden,FSV Frankfurt,377
 Kickers Offenbach,Borussia Monchengladbach,203
 Kickers Offenbach,FC Ingolstadt 04,244
-Kickers Offenbach,Fortuna Dusseldorf,193
+Kickers Offenbach,Fortuna Dusseldorf,186
 Kickers Offenbach,Hannover 96,262
 Kickers Offenbach,Karlsruher SC,123
 Kickers Offenbach,SpVgg Greuther Furth,174
@@ -398,7 +398,7 @@ Kickers Offenbach,VfL Wolfsburg,296
 Leher,1.FC Köln,281
 Lippstadt 08,Bayer Leverkusen,119
 Lokomotive Leipzig,Bayer Leverkusen,385
-Lokomotive Leipzig,Eintracht Frankfurt,296
+Lokomotive Leipzig,Eintracht Frankfurt,305
 Luneburger SK Hansa,FSV Mainz 05,355
 MSV Duisburg,1.FC Köln,53
 MSV Duisburg,1899 Hoffenheim,277
@@ -446,12 +446,12 @@ RB Leipzig,Vfl Bochum,355
 Reutlingen,Eintracht Braunschweig,433
 Reutlingen,Karlsruher SC,83
 Rostocker FC,FC Heidenheim,616
-Rot Weiss Ahlen,SC Paderborn 07,458
+Rot Weiss Ahlen,SC Paderborn 07,482
 Rot-weiss Erfurt,1899 Hoffenheim,244
 Rot-weiss Essen,Arminia Bielefeld,121
 Rot-weiss Essen,Bayer Leverkusen,48
 Rot-weiss Essen,Borussia Monchengladbach,54
-Rot-weiss Essen,Fortuna Dusseldorf,32
+Rot-weiss Essen,Fortuna Dusseldorf,31
 Rot-weiss Essen,Hamburger SV,505
 Rot-weiss Essen,Hertha Berlin,439
 Rot-weiss Essen,Holstein Kiel,381
@@ -476,24 +476,24 @@ SC Paderborn 07,SV Sandhausen,266
 SC Paderborn 07,VfB Stuttgart,327
 SC Paderborn 07,Vfl Bochum,106
 SC Paderborn 07,Werder Bremen,149
-SF Baumberg,FC Ingolstadt 04,605
+SF Baumberg,FC Ingolstadt 04,384
 SG Sonnenhof Grossaspach,FSV Frankfurt,137
 SG Wattenscheid 09,FC Heidenheim,380
 SSV Jeddeloh,FC Heidenheim,517
-SSV ULM 1846,Eintracht Frankfurt,214
+SSV ULM 1846,Eintracht Frankfurt,210
 SSV ULM 1846,Erzgebirge AUE,313
 SSV ULM 1846,FC Heidenheim,31
 SSV ULM 1846,FC Nurnberg,141
 SSV ULM 1846,FC Schalke 04,410
-SSV ULM 1846,Fortuna Dusseldorf,396
+SSV ULM 1846,Fortuna Dusseldorf,389
 SV Babelsberg 03,MSV Duisburg,453
 SV Babelsberg 03,RB Leipzig,128
 SV Babelsberg 03,SC Freiburg,615
 SV Babelsberg 03,SpVgg Greuther Furth,354
 SV Darmstadt 98,Borussia Monchengladbach,213
-SV Darmstadt 98,FC Schalke 04,219
-SV Darmstadt 98,Hannover 96,289
-SV Darmstadt 98,Hertha Berlin,435
+SV Darmstadt 98,FC Schalke 04,218
+SV Darmstadt 98,Hannover 96,287
+SV Darmstadt 98,Hertha Berlin,433
 SV Darmstadt 98,Karlsruher SC,96
 SV Darmstadt 98,VfL Wolfsburg,322
 SV Drochtersen/assel,Bayern Munich,633
@@ -512,7 +512,7 @@ SV Meppen,1.FC Köln,201
 SV Meppen,Hertha Berlin,403
 SV Rodinghausen,1899 Hoffenheim,331
 SV Rodinghausen,Bayern Munich,501
-SV Rodinghausen,Dynamo Dresden,385
+SV Rodinghausen,Dynamo Dresden,391
 SV Rodinghausen,SC Paderborn 07,59
 SV Sandhausen,Bayer Leverkusen,222
 SV Sandhausen,Borussia Dortmund,217
@@ -555,7 +555,7 @@ SpVgg Unterhaching,FC Augsburg,63
 SpVgg Unterhaching,FC Heidenheim,128
 SpVgg Unterhaching,FC Ingolstadt 04,79
 SpVgg Unterhaching,FSV Mainz 05,327
-SpVgg Unterhaching,Fortuna Dusseldorf,500
+SpVgg Unterhaching,Fortuna Dusseldorf,492
 SpVgg Unterhaching,RB Leipzig,368
 SpVgg Unterhaching,SC Freiburg,277
 SpVgg Unterhaching,Vfl Bochum,495
@@ -568,13 +568,13 @@ Sportfreunde Lotte,Werder Bremen,108
 Sportfreunde Siegen,FSV Frankfurt,95
 Straelen,FC St. Pauli,344
 Stuttgarter Kickers,Borussia Dortmund,284
-Stuttgarter Kickers,Eintracht Frankfurt,159
+Stuttgarter Kickers,Eintracht Frankfurt,153
 Stuttgarter Kickers,SpVgg Greuther Furth,158
 Stuttgarter Kickers,VfL Wolfsburg,428
 Sv Morlautern,SpVgg Greuther Furth,234
 TSV 1860 Munich,1899 Hoffenheim,239
 TSV 1860 Munich,Borussia Dortmund,404
-TSV 1860 Munich,Eintracht Frankfurt,306
+TSV 1860 Munich,Eintracht Frankfurt,305
 TSV 1860 Munich,FC Ingolstadt 04,74
 TSV 1860 Munich,FC Schalke 04,503
 TSV 1860 Munich,Karlsruher SC,254
@@ -588,12 +588,12 @@ Teutonia Ottensen,RB Leipzig,232
 Todesfelde,VfL Osnabruck,229
 TuS Erndtebruck,Eintracht Frankfurt,100
 TuS Erndtebruck,Hamburger SV,411
-TuS Erndtebruck,SV Darmstadt 98,127
-TuS Koblenz,Dynamo Dresden,443
+TuS Erndtebruck,SV Darmstadt 98,126
+TuS Koblenz,Dynamo Dresden,446
 TuS RW Koblenz,FC Kaiserslautern,102
-TuS RW Koblenz,Fortuna Dusseldorf,118
+TuS RW Koblenz,Fortuna Dusseldorf,111
 TuS RW Koblenz,Jahn Regensburg,357
-Tus Dassendorf,Dynamo Dresden,357
+Tus Dassendorf,Dynamo Dresden,363
 Tus Dassendorf,MSV Duisburg,342
 Türkgücü-Ataspor,Union Berlin,502
 Union Berlin,FC Kaiserslautern,527

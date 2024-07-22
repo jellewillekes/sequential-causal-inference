@@ -4,6 +4,7 @@ from raw_data.loader import get_project_root, load_stages
 from distance_data.distance import calculate_distance
 import time
 
+
 class DistanceAnalysis:
     def __init__(self, country, cup):
         self.country = country
@@ -24,16 +25,16 @@ class DistanceAnalysis:
         unique_combinations = (fixtures[['team_name', 'opponent_name']]
                                .drop_duplicates()
                                .assign(
-            Pair=lambda df: df.apply(lambda row: tuple(sorted([row['team_name'], row['opponent_name']])), axis=1))
-                               .drop_duplicates(subset=['Pair'])
-                               .drop(columns=['Pair'])
+            pair=lambda df: df.apply(lambda row: tuple(sorted([row['team_name'], row['opponent_name']])), axis=1))
+                               .drop_duplicates(subset=['pair'])
+                               .drop(columns=['pair'])
                                .sort_values(by=['team_name', 'opponent_name'])
                                .reset_index(drop=True))
 
-        unique_combinations['Distance'] = None
+        unique_combinations['distance'] = None
 
         for i, row in unique_combinations.iterrows():
-            print(f'Processing row {i+1}/{len(unique_combinations)}')
+            print(f'Processing row {i + 1}/{len(unique_combinations)}')
             try:
                 distance = calculate_distance(row['team_name'], row['opponent_name'], self.country)
                 unique_combinations.at[i, 'distance'] = distance

@@ -4,13 +4,28 @@ from bs4 import BeautifulSoup
 import re
 import time
 
-def clean_value(value):
-    value = value.replace('€', '').replace('bn', '000000000').replace('m', '000000').replace('k', '000')
-    return float(re.sub(r'[^\d.]', '', value))
 
-def scrape_league_data(league_name, league_id, year, retries=3, delay=5):
+def clean_value(value):
+    # Remove currency symbols
+    value = value.replace('€', '')
+
+    # Check if the value contains 'bn', 'm', or 'k' and convert to millions
+    if 'bn' in value:
+        num_value = float(value.replace('bn', '')) * 1000
+    elif 'm' in value:
+        num_value = float(value.replace('m', ''))
+    elif 'k' in value:
+        num_value = float(value.replace('k', '')) / 1000
+    else:
+        num_value = float(value)
+
+    return num_value
+
+
+def scrape_league_data(league_name, transfermarkt_name, year, retries=3, delay=5):
     # Construct the URL based on the league and year
-    url = f'https://www.transfermarkt.com/{league_id}/startseite/wettbewerb/L1/plus/?saison_id={year}'
+    url = f'https://www.transfermarkt.com/{transfermarkt_name[0]}/startseite/wettbewerb/' \
+          f'{transfermarkt_name[1]}/plus/?saison_id={year}'
 
     # Define headers to mimic a browser request
     headers = {
@@ -61,8 +76,10 @@ def scrape_league_data(league_name, league_id, year, retries=3, delay=5):
 
                 df.drop(['Club'], axis=1, inplace=True)
 
-                df.columns = ['team_name', 'team_size', 'mean_age', 'foreigners', 'mean_value', 'total_value', 'year', 'league']
-                df = df[['year', 'league', 'team_name', 'team_size', 'mean_age', 'foreigners', 'mean_value', 'total_value']]
+                df.columns = ['team_name', 'team_size', 'mean_age', 'foreigners', 'mean_value', 'total_value', 'year',
+                              'league']
+                df = df[
+                    ['year', 'league', 'team_name', 'team_size', 'mean_age', 'foreigners', 'mean_value', 'total_value']]
 
                 return df
 
