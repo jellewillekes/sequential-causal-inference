@@ -10,7 +10,7 @@ project_root = get_project_root()
 
 # Ensure plots directory exists
 def ensure_country_plots_dir(country):
-    country_plots_dir = os.path.join("plots", country)
+    country_plots_dir = os.path.join("../eda/plots", country)
     os.makedirs(country_plots_dir, exist_ok=True)
     return country_plots_dir
 

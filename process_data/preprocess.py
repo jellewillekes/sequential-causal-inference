@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import numpy as np
 from raw_data.loader import get_project_root
 
 from fuzzywuzzy import process, fuzz
@@ -45,14 +46,14 @@ def preprocess_match_data(fixtures_df, standings_df):
 
     # Merge operations
     stages_df = (fixtures_df[fixtures_df['year'] > 2010]
-                 .merge(standings_df[['division', 'prev_year', 'team_id', 'national_rank']],
+                 .merge(standings_df[['prev_year', 'team_id', 'national_rank']],
                         left_on=['year', 'opponent_id'],
                         right_on=['prev_year', 'team_id'],
                         how='left',
                         suffixes=('', '_opponent'))
                  .rename(columns={'national_rank': 'opponent_rank_prev'})
                  .drop(columns=['prev_year', 'team_id_opponent'])
-                 .merge(standings_df[['prev_year', 'team_id', 'national_rank']],
+                 .merge(standings_df[['prev_year', 'division', 'team_id', 'national_rank']],
                         left_on=['year', 'team_id'],
                         right_on=['prev_year', 'team_id'],
                         how='left')
@@ -69,7 +70,7 @@ def preprocess_match_data(fixtures_df, standings_df):
 
     # Handle missing values and create new columns
     stages_df = (stages_df
-                 .assign(Rank_diff=lambda df: df['opponent_rank_prev'] - df['team_rank_prev'],
+                 .assign(rank_diff=lambda df: df['opponent_rank_prev'] - df['team_rank_prev'],
                          const=1)
                  .dropna(subset=['stage'])
                  .assign(stage=lambda df: df['stage'].astype(int))
