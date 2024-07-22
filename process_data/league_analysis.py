@@ -36,36 +36,35 @@ class LeagueAnalysis:
 
     def process_standings_data(self, entry, league, division, season):
         return {
-            'League': league,
-            'Division': division,
-            'Year': season,
-            'Position': entry['rank'],
-            'Team': entry['team']['name'],
-            'Team_id': entry['team']['id'],
-            'Points': entry['points'],
-            'Form': entry['form'],
-            'Played': entry['all']['played'],
-            'Win': entry['all']['win'],
-            'Draw': entry['all']['draw'],
-            'Lose': entry['all']['lose'],
-            'GoalsDiff': entry['goalsDiff'],
-            'GoalsFor': entry['all']['goals']['for'],
-            'GoalsAgainst': entry['all']['goals']['against'],
+            'league': league,
+            'division': division,
+            'year': season,
+            'position': entry['rank'],
+            'team_name': entry['team']['name'],
+            'team_id': entry['team']['id'],
+            'points': entry['points'],
+            'played': entry['all']['played'],
+            'win': entry['all']['win'],
+            'draw': entry['all']['draw'],
+            'lose': entry['all']['lose'],
+            'goals_diff': entry['goalsDiff'],
+            'goals_for': entry['all']['goals']['for'],
+            'goals_against': entry['all']['goals']['against'],
         }
 
     def calculate_national_rank(self, df):
-        df = df.sort_values(by=['Year', 'Division', 'Position'])
+        df = df.sort_values(by=['year', 'division', 'position'])
         offsets = self.calculate_offsets(df)
-        df['NationalRank'] = df.apply(lambda row: row['Position'] + offsets[(row['Year'], row['Division'])], axis=1)
-        return df.sort_values(by=['Year', 'NationalRank']).reset_index(drop=True)
+        df['national_rank'] = df.apply(lambda row: row['position'] + offsets[(row['year'], row['division'])], axis=1)
+        return df.sort_values(by=['year', 'national_rank']).reset_index(drop=True)
 
     def calculate_offsets(self, df):
         offsets = {}
-        for Year in df['Year'].unique():
+        for Year in df['year'].unique():
             max_position = 0
-            for division in sorted(df[df['Year'] == Year]['Division'].unique()):
+            for division in sorted(df[df['year'] == Year]['division'].unique()):
                 offsets[(Year, division)] = max_position
-                max_position += df[(df['Year'] == Year) & (df['Division'] == division)]['Position'].max()
+                max_position += df[(df['year'] == Year) & (df['division'] == division)]['position'].max()
         return offsets
 
     def save_to_csv(self, df, filename):
@@ -88,7 +87,7 @@ class LeagueAnalysis:
         df_fixtures = pd.DataFrame(all_fixtures)
 
         def add_team_points(df):
-            df['Team_points'] = df['Team_win'].apply(lambda x: 3 if x == 1 else (1 if pd.isna(x) else 0))
+            df['team_points'] = df['team_win'].apply(lambda x: 3 if x == 1 else (1 if pd.isna(x) else 0))
             return df
 
         df_fixtures = add_team_points(df_fixtures)
@@ -123,17 +122,17 @@ class LeagueAnalysis:
         opponent_key = 'away' if team_type == 'home' else 'home'
 
         return {
-            'Year': season,
-            'Date': fixture['fixture']['date'],
-            'Round': round_name,
-            'City': fixture['fixture']['venue']['city'],
-            'Team_name': fixture['teams'][team_key]['name'],
-            'Team_id': fixture['teams'][team_key]['id'],
-            'Opponent_name': fixture['teams'][opponent_key]['name'],
-            'Opponent_id': fixture['teams'][opponent_key]['id'],
-            'Team_win': team_win,
-            'Team_goals': fixture['goals'][team_key],
-            'Opponent_goals': fixture['goals'][opponent_key],
+            'year': season,
+            'fixture_date': fixture['fixture']['date'],
+            'round': round_name,
+            'fixture_location': fixture['fixture']['venue']['city'],
+            'team_name': fixture['teams'][team_key]['name'],
+            'team_id': fixture['teams'][team_key]['id'],
+            'opponent_name': fixture['teams'][opponent_key]['name'],
+            'opponent_id': fixture['teams'][opponent_key]['id'],
+            'team_win': team_win,
+            'team_goals': fixture['goals'][team_key],
+            'opponent_goals': fixture['goals'][opponent_key],
         }
 
 
@@ -141,7 +140,7 @@ def run_analysis(country):
     analysis = LeagueAnalysis(country)
     fixtures_final = analysis.compile_fixtures()
     # print('test')
-    # standings_final = analysis.compile_standings()
+    standings_final = analysis.compile_standings()
     # print(standings_final[['Year', 'Division', 'Position', 'Team', 'NationalRank']].head(5))
 
 

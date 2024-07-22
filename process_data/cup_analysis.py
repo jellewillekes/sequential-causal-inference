@@ -3,6 +3,8 @@ import os
 import json
 import pandas as pd
 
+from distance_data.distance import calculate_distance
+
 
 class CupAnalysis:
     def __init__(self, country, cup):
@@ -53,15 +55,22 @@ class CupAnalysis:
         team_key = 'home' if team_type == 'home' else 'away'
         opponent_key = 'away' if team_type == 'home' else 'home'
 
+        venue_name = fixture['fixture']['venue']['name']
+
         return {
-            'Year': season,
-            'Round': round_name,
-            'Stage': stage_number,
-            'Team_name': fixture['teams'][team_key]['name'],
-            'Team_id': fixture['teams'][team_key]['id'],
-            'Opponent_name': fixture['teams'][opponent_key]['name'],
-            'Opponent_id': fixture['teams'][opponent_key]['id'],
-            'Team_win': team_win
+            'year': season,
+            'round': round_name,
+            'stage': stage_number,
+            'fixture_id': fixture['fixture']['id'],
+            'fixture_date': fixture['fixture']['date'],
+            'team_name': fixture['teams'][team_key]['name'],
+            'team_id': fixture['teams'][team_key]['id'],
+            'opponent_name': fixture['teams'][opponent_key]['name'],
+            'opponent_id': fixture['teams'][opponent_key]['id'],
+            'team_win': team_win,
+            'team_home': team_type,
+            'fixture_length': fixture['fixture']['status']['elapsed'],
+            'fixture_location': venue_name,
         }
 
     def save_to_csv(self, df):

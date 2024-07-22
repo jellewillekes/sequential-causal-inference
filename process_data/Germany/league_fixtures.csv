@@ -1,4 +1,4 @@
-Year,Date,Round,City,Team_name,Team_id,Opponent_name,Opponent_id,Team_win,Team_goals,Opponent_goals,Team_points
+year,fixture_date,round,fixture_location,team_name,team_id,opponent_name,opponent_id,team_win,team_goals,opponent_goals,team_points
 2010,2010-08-20T18:30:00+00:00,Regular Season - 1,,Bayern Munich,157,VfL Wolfsburg,161,1.0,2.0,1.0,3
 2010,2010-08-20T18:30:00+00:00,Regular Season - 1,,VfL Wolfsburg,161,Bayern Munich,157,0.0,1.0,2.0,0
 2010,2010-08-21T13:30:00+00:00,Regular Season - 1,,1899 Hoffenheim,167,Werder Bremen,162,1.0,4.0,1.0,3

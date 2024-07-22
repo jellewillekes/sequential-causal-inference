@@ -5,3 +5,12 @@ statsmodels
 matplotlib
 
 seaborn
+
+geopy
+
+requests
+
+beautifulsoup4
+
+fuzzywuzzy
+python-Levenshtein
