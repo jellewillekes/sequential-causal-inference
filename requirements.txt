@@ -14,3 +14,7 @@ beautifulsoup4
 
 fuzzywuzzy
 python-Levenshtein
+
+scikit-learn
+
+pyyaml
