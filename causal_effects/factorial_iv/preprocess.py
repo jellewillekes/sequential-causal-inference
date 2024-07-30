@@ -8,7 +8,7 @@ project_root = get_project_root()
 
 
 def load_processed_data(country, cup):
-    file_path = os.path.join(project_root, 'process_data', country, f'{cup}_processed.csv')
+    file_path = os.path.join(project_root, 'data/process_data', country, f'{cup}_processed.csv')
     return pd.read_csv(file_path)
 
 
@@ -78,6 +78,10 @@ if __name__ == "__main__":
     # Preprocess the data
     preprocessed_df = preprocess_data(stages_df, outcome_var, treatment_var, instrument_var, round_specific_controls,
                                       season_specific_controls, num_rounds)
+
+    nan_rows = preprocessed_df[preprocessed_df.isnull().any(axis=1)]
+    print(nan_rows)
+    preprocessed_df = preprocessed_df.dropna()
 
     # Save the preprocessed data to a CSV file
     output_path = os.path.join(project_root, 'causal_effects/factorial_iv', country, f'{cup}_preprocessed.csv')

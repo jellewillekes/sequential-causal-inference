@@ -1,6 +1,19 @@
+# Set the working directory
+setwd("C:/Users/JelleWillekes/Documents/GitHub/causal-inference/causal_effects/factorial_iv")
+
+# Check the working directory to ensure it's correctly set
+print(getwd())
+
+# Verify that the file exists in the specified location
+file_path <- "Germany/DFB_Pokal_preprocessed.csv"
+if (!file.exists(file_path)) {
+  stop(paste("File does not exist:", file_path))
+}
+
 # Load necessary libraries
 library(factiv)
 library(here)
+library(dplyr)
 
 # Function to get the project root
 get_project_root <- function() {
@@ -20,8 +33,8 @@ num_rounds <- 6  # Adjust based on the number of rounds in the competition
 # Get the project root
 project_root <- get_project_root()
 
-# Define the file path
-file_path <- file.path(project_root, "causal_effects", "factorial_iv", country, paste0(cup, "_preprocessed.csv"))
+# Define the file path using the project root
+file_path <- file.path(project_root, "Germany", paste0(cup, "_preprocessed.csv"))
 
 # Load the preprocessed data
 data <- read.csv(file_path)
@@ -56,15 +69,6 @@ available_round_control_vars <- intersect(round_control_vars, colnames(data))
 
 # Create the formula string
 formula_string <- paste(outcome_var, "~", paste(available_treatment_vars, collapse = " + "), "|", paste(available_instrument_vars, collapse = " + "))
-
-# Add control variables to the formula string if any
-if (length(season_specific_controls) > 0 || length(available_round_control_vars) > 0) {
-  control_vars <- c(available_round_control_vars, season_specific_controls)
-  control_formula <- paste(control_vars, collapse = " + ")
-  formula_string <- paste(formula_string, "+", control_formula)
-}
-
-# Convert the formula string to a formula object
 formula <- as.formula(formula_string)
 
 print("Formula for analysis:")
@@ -76,15 +80,7 @@ missing_values <- sapply(data[, all_vars, drop = FALSE], function(x) sum(is.na(x
 print(missing_values)
 
 # Remove rows with missing values in any of the relevant columns
-data_clean <- data[complete.cases(data[, c(outcome_var, available_treatment_vars, available_instrument_vars, control_vars)]), ]
-
-# Inspect and print rows with any missing values
-print("Rows with missing values in the cleaned data:")
-missing_rows <- data_clean[!complete.cases(data_clean), ]
-print(missing_rows)
-
-# Remove columns not used in the formula
-data_clean <- data_clean[, c(outcome_var, available_treatment_vars, available_instrument_vars, control_vars)]
+data_clean <- data[complete.cases(data[, c(outcome_var, available_treatment_vars, available_instrument_vars, round_control_vars, season_specific_controls)]), ]
 
 # Inspect the dimensions of the outcome, treatment, and instrument matrices after cleaning
 print("Dimensions of outcome, treatment, and instrument matrices after cleaning:")
@@ -121,7 +117,17 @@ result <- iv_factorial(formula, data = data_clean)
 summary(result)
 
 # Save the results to a file
-result_path <- file.path(project_root, "causal_effects", "factorial_iv", country, paste0(cup, "_factorial_iv_results.txt"))
+result_path <- file.path(project_root, paste0(cup, "_factorial_iv_results.txt"))
 sink(result_path)
 print(summary(result))
 sink()
+
+# Add compliance profile analysis separately
+cov_prof <- compliance_profile(
+  ~ win_round1 + win_round2 + win_round3 + win_round4 + win_round5 + win_round6 | 
+    rank_opponent_round1 + rank_opponent_round2 + rank_opponent_round3 + rank_opponent_round4 + rank_opponent_round5 + rank_opponent_round6 |
+    team_home_round1 + team_home_round2 + team_home_round3 + team_home_round4 + team_home_round5 + team_home_round6 + team_size,
+  data = data_clean
+)
+
+print(cov_prof)
