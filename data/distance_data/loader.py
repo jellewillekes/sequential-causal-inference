@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from raw_data.loader import get_project_root, load_stages
+from raw_data.loader import project_root, load_stages
 from data.distance_data.distance import calculate_distance
 import time
 
@@ -9,7 +9,7 @@ class DistanceAnalysis:
     def __init__(self, country, cup):
         self.country = country
         self.cup = cup
-        self.project_root = get_project_root()
+        self.project_root = project_root()
         self.stages = load_stages(country)
 
     def process_cup_fixtures(self):

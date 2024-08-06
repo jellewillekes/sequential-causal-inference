@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import numpy as np
-from raw_data.loader import get_project_root
+from raw_data.loader import project_root
 from statsmodels.sandbox.regression.gmm import IV2SLS
 from statsmodels.api import OLS
 from statsmodels.stats.outliers_influence import variance_inflation_factor
@@ -10,7 +10,7 @@ from statsmodels.tools.tools import add_constant
 
 # Function for loading data
 def load_csv_data(country, file_name):
-    project_root = get_project_root()
+    project_root = project_root()
     file_path = os.path.join(project_root, 'process_data', country, file_name)
     return pd.read_csv(file_path)
 

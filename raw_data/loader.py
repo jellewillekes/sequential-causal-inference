@@ -1,35 +1,11 @@
-import os
 import http.client
 import json
 import time
-import yaml
+
+from utils.load import *
 
 
-def get_project_root():
-    return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-
-def load_mappings_from_yaml(filename):
-    file_path = os.path.join(get_project_root(), filename)
-    with open(file_path, 'r') as file:
-        mappings = yaml.safe_load(file)
-    return mappings
-
-
-def load_league_mappings(country):
-    with open(os.path.join(get_project_root(), 'settings', f'mapping_{country.lower()}.yaml'), 'r') as file:
-        league_mappings = yaml.safe_load(file)
-    return league_mappings.get(country)
-
-
-def load_stages(country):
-    # Load the stage order from the YAML file
-    with open(os.path.join(get_project_root(), 'settings', 'stages.yaml'), 'r') as file:
-        stages_data = yaml.safe_load(file)
-    return stages_data.get(country)
-
-
-def request_data(league_name, league_id, season, request_counter, start_time):
+def request_data(league_name, league_id, season, request_counter, start_time, api_key):
     if request_counter >= 10:
         elapsed_time = time.time() - start_time
         if elapsed_time < 60:
@@ -39,7 +15,7 @@ def request_data(league_name, league_id, season, request_counter, start_time):
         start_time = time.time()
 
     # Adjusted to use the project root for directory paths
-    directory_path = os.path.join(get_project_root(), 'raw_data', league_name, season)
+    directory_path = os.path.join(project_root(), 'raw_data', league_name, season)
     file_path = os.path.join(directory_path, 'league_data.json')
 
     if os.path.isfile(file_path):
@@ -50,7 +26,7 @@ def request_data(league_name, league_id, season, request_counter, start_time):
         conn = http.client.HTTPSConnection("v3.football.api-sports.io")
         headers = {
             'x-rapidapi-host': "v3.football.api-sports.io",
-            'x-rapidapi-key': "483cf201220068a29dbebab0fed58226"  # Replace with your actual API key
+            'x-rapidapi-key': "483cf201220068a29dbebab0fed58226"
         }
         conn.request("GET", f"/standings?league={league_id}&season={season}", headers=headers)
         res = conn.getresponse()
@@ -71,6 +47,8 @@ def request_data(league_name, league_id, season, request_counter, start_time):
 if __name__ == "__main__":
     mappings = load_mappings_from_yaml(os.path.join('settings', 'mapping_england.yaml'))
 
+    api_key = load_api_key(os.path.join(project_root(), 'credentials', 'api_key.txt'))
+
     request_counter = 0
     start_time = time.time()
 
@@ -79,6 +57,6 @@ if __name__ == "__main__":
             if league_name in mappings:
                 print(f"Processing {league_name} for the {season} season.")
                 result, request_counter, start_time = request_data(league_name, str(league_id), str(season),
-                                                                   request_counter, start_time)
+                                                                   request_counter, start_time, api_key)
             else:
                 print(f"League not found in the mappings: {league_name}")
