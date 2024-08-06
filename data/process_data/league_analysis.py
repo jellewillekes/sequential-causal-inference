@@ -68,14 +68,14 @@ class LeagueAnalysis:
         return offsets
 
     def save_to_csv(self, df, filename):
-        save_path = os.path.join(self.project_root, 'process_data', self.country, filename)
+        save_path = os.path.join(self.project_root, 'data', 'process_data', self.country, filename)
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         df.to_csv(save_path, index=False)
 
     def compile_fixtures(self):
         all_fixtures = []
         for league, details in self.leagues.items():
-            if 'fixtures' in details['data_types']:
+            if 'fixtures' in details['data_types'] and details['division'] != 'NaN':
                 for season in range(details['season_start'], details['season_end'] + 1):
                     standings_path = os.path.join(self.project_root, 'raw_data', self.country, league, str(season),
                                                   'fixtures_data.json')
@@ -87,7 +87,7 @@ class LeagueAnalysis:
         df_fixtures = pd.DataFrame(all_fixtures)
 
         def add_team_points(df):
-            df['team_points'] = df['team_win'].apply(lambda x: 3 if x == 1 else (1 if pd.isna(x) else 0))
+            df['team_points_match'] = df['team_win'].apply(lambda x: 3 if x == 1 else (1 if pd.isna(x) else 0))
             return df
 
         df_fixtures = add_team_points(df_fixtures)
@@ -124,6 +124,7 @@ class LeagueAnalysis:
         return {
             'year': season,
             'fixture_date': fixture['fixture']['date'],
+            'league': fixture['league']['name'],
             'round': round_name,
             'fixture_location': fixture['fixture']['venue']['city'],
             'team_name': fixture['teams'][team_key]['name'],
