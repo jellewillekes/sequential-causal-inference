@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 import numpy as np
+import re
+
 from raw_data.loader import get_project_root
 
 from fuzzywuzzy import process, fuzz
@@ -39,27 +41,27 @@ def set_non_league_rank(df, divisions=4):
     return df
 
 
-def preprocess_match_data(fixtures_df, standings_df):
+def merge_standings_data(cup_fixtures, league_standings):
     # Filter and preprocess data
-    standings_df = standings_df[standings_df['year'] > 2010].copy()
-    standings_df['prev_year'] = standings_df['year'] + 1
+    league_standings = league_standings[league_standings['year'] > 2010].copy()
+    league_standings['prev_year'] = league_standings['year'] + 1
 
     # Merge operations
-    stages_df = (fixtures_df[fixtures_df['year'] > 2010]
-                 .merge(standings_df[['prev_year', 'team_id', 'national_rank']],
+    stages_df = (cup_fixtures[cup_fixtures['year'] > 2010]
+                 .merge(league_standings[['prev_year', 'team_id', 'national_rank']],
                         left_on=['year', 'opponent_id'],
                         right_on=['prev_year', 'team_id'],
                         how='left',
                         suffixes=('', '_opponent'))
                  .rename(columns={'national_rank': 'opponent_rank_prev'})
                  .drop(columns=['prev_year', 'team_id_opponent'])
-                 .merge(standings_df[['prev_year', 'division', 'team_id', 'national_rank']],
+                 .merge(league_standings[['prev_year', 'division', 'team_id', 'national_rank']],
                         left_on=['year', 'team_id'],
                         right_on=['prev_year', 'team_id'],
                         how='left')
                  .rename(columns={'national_rank': 'team_rank_prev'})
                  .drop(columns=['prev_year'])
-                 .merge(standings_df[['year', 'team_id', 'national_rank']],
+                 .merge(league_standings[['year', 'team_id', 'national_rank']],
                         left_on=['year', 'team_id'],
                         right_on=['year', 'team_id'],
                         how='left')
@@ -79,13 +81,55 @@ def preprocess_match_data(fixtures_df, standings_df):
                  )
 
     # Add maximum stage reached by each team in each year
-    max_stage_df = fixtures_df.groupby(['year', 'team_id'])['stage'].max().reset_index()
+    max_stage_df = cup_fixtures.groupby(['year', 'team_id'])['stage'].max().reset_index()
     max_stage_df.rename(columns={'stage': 'team_max_stage'}, inplace=True)
 
     # Merge max stage information into stages_df
     stages_df = pd.merge(stages_df, max_stage_df, on=['year', 'team_id'], how='left')
 
     return stages_df
+
+
+def merge_next_fixture_data(match_df, league_fixtures):
+    # Ensure fixture_date columns are in datetime format
+    match_df['fixture_date'] = pd.to_datetime(match_df['fixture_date'])
+    league_fixtures['fixture_date'] = pd.to_datetime(league_fixtures['fixture_date'])
+
+    # Sort both dataframes by team_id and fixture_date
+    match_df = match_df.sort_values(by=['team_id', 'fixture_date']).reset_index(drop=True)
+    league_fixtures = league_fixtures.sort_values(by=['team_id', 'fixture_date']).reset_index(drop=True)
+
+    # Create a list to store the result rows
+    result_rows = []
+
+    for index, row in match_df.iterrows():
+        team_id = row['team_id']
+        fixture_date = row['fixture_date']
+
+        # Find the next match in league_fixtures for the same team after the current fixture_date
+        next_matches = league_fixtures[
+            (league_fixtures['team_id'] == team_id) & (league_fixtures['fixture_date'] > fixture_date)]
+
+        if not next_matches.empty:
+            next_match = next_matches.iloc[0]
+            next_fixture_date = next_match['fixture_date']
+            next_opponent_name = next_match['opponent_name']
+            next_fixture_days = (next_fixture_date - fixture_date).days
+            next_team_win = next_match['team_win']
+            next_team_points = next_match['team_points_match']
+
+            result_rows.append({
+                **row,
+                'next_fixture_date': next_fixture_date,
+                'next_opponent_name': next_opponent_name,
+                'next_fixture_days': next_fixture_days,
+                'next_team_win': next_team_win,
+                'next_team_points': next_team_points
+            })
+
+    result = pd.DataFrame(result_rows)
+
+    return result
 
 
 def merge_distance_data(match_df, distances_df):
@@ -186,14 +230,15 @@ def merge_financial_data(match_df, financial_df):
 
 
 def preprocess_data(country, cup):
-    fixtures_df = load_csv_data(country, f'{cup}_fixtures.csv')
-    standings_df = load_csv_data(country, 'league_standings.csv')
-    match_df = preprocess_match_data(fixtures_df, standings_df)
-
+    cup_fixtures = load_csv_data(country, f'{cup}_fixtures.csv')
+    league_standings = load_csv_data(country, 'league_standings.csv')
+    league_fixtures = load_csv_data(country, 'league_fixtures.csv')
     distances_df = load_csv_data(country, f'{cup}_distances.csv')
-    match_df = merge_distance_data(match_df, distances_df)
-
     financial_df = load_csv_data(country, f'league_financial_data.csv')
+
+    match_df = merge_standings_data(cup_fixtures, league_standings)
+    match_df = merge_next_fixture_data(match_df, league_fixtures)
+    match_df = merge_distance_data(match_df, distances_df)
     match_df = merge_financial_data(match_df, financial_df)
 
     # Convert `team_home` to a binary variable
