@@ -1,13 +1,13 @@
 import os
 import json
 import pandas as pd
-from raw_data.loader import get_project_root, load_league_mappings
+from utils.load import project_root, load_league_mappings
 
 
 class LeagueAnalysis:
     def __init__(self, country):
         self.country = country
-        self.project_root = get_project_root()
+        self.project_root = project_root()
         self.leagues = load_league_mappings(country)
 
     def compile_standings(self):

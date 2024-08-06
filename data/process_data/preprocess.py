@@ -1,29 +1,8 @@
 import os
 import pandas as pd
-import numpy as np
-import re
-
-from raw_data.loader import get_project_root
-
-from fuzzywuzzy import process, fuzz
 import Levenshtein
 
-
-def get_project_root():
-    return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-
-# Ensure plots directory exists
-def ensure_country_plots_dir(country):
-    country_plots_dir = os.path.join("plots", country)
-    os.makedirs(country_plots_dir, exist_ok=True)
-    return country_plots_dir
-
-
-# Function for loading data
-def load_csv_data(country, file_name):
-    file_path = os.path.join(get_project_root(), 'process_data', country, file_name)
-    return pd.read_csv(file_path)
+from utils.load import project_root, load_csv
 
 
 def set_non_league_rank(df, divisions=4):
@@ -91,7 +70,6 @@ def merge_standings_data(cup_fixtures, league_standings):
 
 
 def merge_next_fixture_data(match_df, league_fixtures):
-    # Ensure fixture_date columns are in datetime format
     match_df['fixture_date'] = pd.to_datetime(match_df['fixture_date'])
     league_fixtures['fixture_date'] = pd.to_datetime(league_fixtures['fixture_date'])
 
@@ -99,7 +77,6 @@ def merge_next_fixture_data(match_df, league_fixtures):
     match_df = match_df.sort_values(by=['team_id', 'fixture_date']).reset_index(drop=True)
     league_fixtures = league_fixtures.sort_values(by=['team_id', 'fixture_date']).reset_index(drop=True)
 
-    # Create a list to store the result rows
     result_rows = []
 
     for index, row in match_df.iterrows():
@@ -139,7 +116,7 @@ def merge_distance_data(match_df, distances_df):
     # Filter rows where team_home is 'away'
     away_matches = match_df[match_df['team_home'] == 'away']
 
-    # Create a dictionary for faster lookup of distances
+    # Use dict for faster lookup
     distance_dict = {}
     for index, row in distances_df.iterrows():
         team1, team2, distance = row['team_name'], row['opponent_name'], row['distance']
@@ -147,16 +124,13 @@ def merge_distance_data(match_df, distances_df):
         distance_dict[(team1, team2)] = distance
         distance_dict[(team2, team1)] = distance
 
-    # Define a function to lookup distance
     def lookup_distance(row):
         team = row['team_name']
         opponent = row['opponent_name']
         return distance_dict.get((team, opponent), None)
 
-    # Apply the function to the away_matches dataframe
+    # Apply the function to away_matches
     away_matches['distance'] = away_matches.apply(lookup_distance, axis=1)
-
-    # Update the original match_df with the distances found for away matches
     match_df.update(away_matches[['distance']])
 
     return match_df
@@ -177,7 +151,6 @@ def merge_financial_data(match_df, financial_df):
         team_name = row['team_name']
         base_name, suffix = get_base_name(team_name)
 
-        # Filter choices to those with matching suffix
         if suffix:
             filtered_choices = [choice for choice in choices
                                 if suffix in choice
@@ -198,12 +171,11 @@ def merge_financial_data(match_df, financial_df):
                 best_match = choice
                 best_score = score
 
-        if best_score >= 0.76:  # Adjust the threshold if needed
+        if best_score >= 0.76:  # Check if threshold is sufficient per country
             return best_match, best_score
         else:
             return None, None
 
-    # Apply the get_best_match function and split the result into two columns
     match_df[['best_match', 'match_ratio']] = match_df.apply(lambda row: get_best_match(row, financial_df['team_name']),
                                                              axis=1,
                                                              result_type='expand')
@@ -211,7 +183,7 @@ def merge_financial_data(match_df, financial_df):
     # Filter out rows where match_ratio is None
     match_df = match_df[match_df['match_ratio'].notna()]
 
-    # Merge the dataframes on 'Year' and 'best_match'
+    # Merge the dataframes on 'year' and 'best_match'
     merged = pd.merge(
         match_df,
         financial_df,
@@ -230,11 +202,11 @@ def merge_financial_data(match_df, financial_df):
 
 
 def preprocess_data(country, cup):
-    cup_fixtures = load_csv_data(country, f'{cup}_fixtures.csv')
-    league_standings = load_csv_data(country, 'league_standings.csv')
-    league_fixtures = load_csv_data(country, 'league_fixtures.csv')
-    distances_df = load_csv_data(country, f'{cup}_distances.csv')
-    financial_df = load_csv_data(country, f'league_financial_data.csv')
+    cup_fixtures = load_csv(os.path.join(project_root(), 'data', 'process_data', country, f'{cup}_fixtures.csv'))
+    league_standings = load_csv(os.path.join(project_root(), 'data', 'process_data', country, 'league_standings.csv'))
+    league_fixtures = load_csv(os.path.join(project_root(), 'data', 'process_data', country, 'league_fixtures.csv'))
+    distances_df = load_csv(os.path.join(project_root(), 'data', 'process_data', country, f'{cup}_distances.csv'))
+    financial_df = load_csv(os.path.join(project_root(), 'data', 'process_data', country, 'league_financial_data.csv'))
 
     match_df = merge_standings_data(cup_fixtures, league_standings)
     match_df = merge_next_fixture_data(match_df, league_fixtures)
@@ -257,7 +229,7 @@ def check_names(df):
     tricky_score = name_matches[name_matches['match_ratio'] < 0.90]
     tricky_score = tricky_score.sort_values(by=['team_name', 'best_match'])
 
-    # Drop duplicates considering the specified columns: team_name, best_match, match_ratio, and team_name_fin
+    # Drop duplicates
     tricky_score = tricky_score.drop_duplicates(subset=['team_name', 'best_match', 'match_ratio', 'team_name_fin'])
 
     print(tricky_score.head())
@@ -269,6 +241,5 @@ if __name__ == "__main__":
 
     stages_df = preprocess_data(country, cup)
 
-    # Save the processed DataFrame
-    output_path = os.path.join(get_project_root(), 'process_data', country, f'{cup}_processed.csv')
+    output_path = os.path.join(project_root(), 'data', 'process_data', country, f'{cup}_processed.csv')
     stages_df.to_csv(output_path, index=False)

@@ -2,9 +2,9 @@ import os
 import pandas as pd
 import numpy as np
 from data.process_data.imputation import impute_data
-from raw_data.loader import get_project_root
+from raw_data.loader import project_root
 
-project_root = get_project_root()
+project_root = project_root()
 
 
 def load_processed_data(country, cup):
