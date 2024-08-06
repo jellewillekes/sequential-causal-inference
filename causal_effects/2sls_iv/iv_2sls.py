@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 
+<<<<<<< Updated upstream
 from raw_data.loader import get_project_root
 from data.process_data.imputation import impute_data
 
@@ -12,6 +13,14 @@ project_root = get_project_root()
 def load_processed_data(country, cup):
     project_root = get_project_root()
     file_path = os.path.join(project_root, 'data/process_data', country, f'{cup}_processed.csv')
+=======
+from utils.load import project_root
+from data.process_data.imputation import impute_data
+
+
+def load_processed_data(country, cup):
+    file_path = os.path.join(project_root(), 'data/process_data', country, f'{cup}_processed.csv')
+>>>>>>> Stashed changes
     return pd.read_csv(file_path)
 
 

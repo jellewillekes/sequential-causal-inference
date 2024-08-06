@@ -70,6 +70,7 @@ def merge_standings_data(cup_fixtures, league_standings):
 
     stages_df = set_non_league_rank(stages_df)
 
+<<<<<<< Updated upstream
     # Handle missing values and create new columns
     stages_df = (stages_df
                  .assign(rank_diff=lambda df: df['opponent_rank_prev'] - df['team_rank_prev'],
@@ -79,6 +80,15 @@ def merge_standings_data(cup_fixtures, league_standings):
                  .query('2012 <= year <= 2022')
                  .assign(team_better=lambda df: (df['team_rank'] < df['opponent_rank_prev']).astype(int))
                  )
+=======
+    merged_cup_fixtures = (merged_cup_fixtures
+                           .assign(rank_diff=lambda df: df['opponent_rank_prev'] - df['team_rank_prev'],
+                                   team_rank_diff=lambda df: df['team_rank'] - df['team_rank_prev'])
+                           .dropna(subset=['stage'])
+                           .assign(stage=lambda df: df['stage'].astype(int))
+                           .query('2012 <= year <= 2022')
+                           .assign(team_better=lambda df: (df['team_rank'] < df['opponent_rank_prev']).astype(int)))
+>>>>>>> Stashed changes
 
     # Add maximum stage reached by each team in each year
     max_stage_df = cup_fixtures.groupby(['year', 'team_id'])['stage'].max().reset_index()
