@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to contribute to existing models by developing and integrating methodologies for sequential causal inference, particularly focusing on sequential treatments and randomization while addressing both linear and nonlinear relationships between the treatment variable and the outcome variable. By combining the Factorial IV framework and Causal Random Forests, we aim to provide robust and flexible tools for sequential causal inference. As a practical application, we analyze the causal effects of participating in domestic cup competitions on a team's performance in the league and in subsequent matches.
+This project aims to contribute to existing models by developing and integrating methodologies for sequential causal inference, particularly focusing on sequential treatments and randomization while addressing both linear and nonlinear relationships between the treatment variable and the outcome variable. By combining the Factorial IV framework and Causal Random Forests, we aim to provide robust and flexible tools for sequential causal inference. As a practical application, we analyze the causal effects of participating in domestic cup competitions on a team's performance in the league and in subsequent fixtures.
 
 ## Analysis Components
 
@@ -30,7 +30,7 @@ To determine the impact of playing in domestic cup competitions on both long-ter
 ### 2. Factorial IV Framework for Sequential Treatment and Randomization
 
 **Objective:**
-To utilize the factorial IV approach for sequential treatments, accounting for noncompliance in a setup where the treatment is the outcome of matches in each round.
+To utilize the factorial IV approach for sequential treatments, accounting for noncompliance in a setup where the treatment is the outcome of fixtures in each round.
 
 **Key Components:**
 - **Treatment Assignment (Z1, Z2):** Rank difference and binary indicator of opponent faced in each round.
@@ -110,7 +110,7 @@ These commands will handle all necessary steps:
 - **Analyze Cup Data**: Processes cup competition data.
 - **Analyze League Data**: Processes league standings and fixtures data.
 - **Load Financial Data**: Gathers financial information of the teams.
-- **Calculate Distances**: Computes travel distances for matches.
-- **Combine Data**: Merges all data sources into a comprehensive dataset ready for analysis.
+- **Calculate Distances**: Computes travel distances for fixtures.
+- **Combine Data**: Merges all data sources into a dataset ready for analysis.
 
 
