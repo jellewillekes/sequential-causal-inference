@@ -1,0 +1,929 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "89",
+        "season": "2018"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2018,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 415,
+                                "name": "Twente",
+                                "logo": "https://media.api-sports.io/football/teams/415.png"
+                            },
+                            "points": 80,
+                            "goalsDiff": 33,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 25,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 72,
+                                    "against": 39
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 426,
+                                "name": "Sparta Rotterdam",
+                                "logo": "https://media.api-sports.io/football/teams/426.png"
+                            },
+                            "points": 69,
+                            "goalsDiff": 31,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 19,
+                                "draw": 12,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 78,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 411,
+                                "name": "Jong PSV",
+                                "logo": "https://media.api-sports.io/football/teams/411.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 18,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 18,
+                                "draw": 9,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 77,
+                                    "against": 59
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 421,
+                                "name": "Den Bosch",
+                                "logo": "https://media.api-sports.io/football/teams/421.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 15,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 18,
+                                "draw": 9,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 64,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 410,
+                                "name": "Go Ahead Eagles",
+                                "logo": "https://media.api-sports.io/football/teams/410.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 6,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 19,
+                                "draw": 6,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 63,
+                                    "against": 57
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 423,
+                                "name": "FC OSS",
+                                "logo": "https://media.api-sports.io/football/teams/423.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": 8,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 18,
+                                "draw": 8,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 40
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 419,
+                                "name": "Almere City FC",
+                                "logo": "https://media.api-sports.io/football/teams/419.png"
+                            },
+                            "points": 62,
+                            "goalsDiff": -3,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 19,
+                                "draw": 5,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 60,
+                                    "against": 63
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 417,
+                                "name": "Waalwijk",
+                                "logo": "https://media.api-sports.io/football/teams/417.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 12,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 18,
+                                "draw": 5,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 69,
+                                    "against": 57
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 413,
+                                "name": "NEC Nijmegen",
+                                "logo": "https://media.api-sports.io/football/teams/413.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": 13,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 16,
+                                "draw": 10,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 73,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 420,
+                                "name": "Cambuur",
+                                "logo": "https://media.api-sports.io/football/teams/420.png"
+                            },
+                            "points": 58,
+                            "goalsDiff": 13,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 16,
+                                "draw": 10,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 61,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 425,
+                                "name": "Jong Ajax",
+                                "logo": "https://media.api-sports.io/football/teams/425.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": 14,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 16,
+                                "draw": 8,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 81,
+                                    "against": 67
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 412,
+                                "name": "MVV",
+                                "logo": "https://media.api-sports.io/football/teams/412.png"
+                            },
+                            "points": 54,
+                            "goalsDiff": -4,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 12,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 414,
+                                "name": "Roda",
+                                "logo": "https://media.api-sports.io/football/teams/414.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": -2,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 11,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 57,
+                                    "against": 59
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 422,
+                                "name": "FC Eindhoven",
+                                "logo": "https://media.api-sports.io/football/teams/422.png"
+                            },
+                            "points": 48,
+                            "goalsDiff": 4,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 9,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 52,
+                                    "against": 48
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 427,
+                                "name": "Telstar",
+                                "logo": "https://media.api-sports.io/football/teams/427.png"
+                            },
+                            "points": 48,
+                            "goalsDiff": -13,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 6,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 58
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 416,
+                                "name": "FC Volendam",
+                                "logo": "https://media.api-sports.io/football/teams/416.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -16,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 9,
+                                "draw": 14,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 62
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 409,
+                                "name": "Dordrecht",
+                                "logo": "https://media.api-sports.io/football/teams/409.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -30,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 9,
+                                "draw": 9,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 54,
+                                    "against": 84
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 418,
+                                "name": "Jong AZ",
+                                "logo": "https://media.api-sports.io/football/teams/418.png"
+                            },
+                            "points": 33,
+                            "goalsDiff": -21,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 7,
+                                "draw": 12,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 67
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 428,
+                                "name": "Jong Utrecht",
+                                "logo": "https://media.api-sports.io/football/teams/428.png"
+                            },
+                            "points": 23,
+                            "goalsDiff": -43,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 25,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 90
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 424,
+                                "name": "Helmond Sport",
+                                "logo": "https://media.api-sports.io/football/teams/424.png"
+                            },
+                            "points": 22,
+                            "goalsDiff": -35,
+                            "group": null,
+                            "form": null,
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 4,
+                                "draw": 10,
+                                "lose": 24,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 72
+                                }
+                            },
+                            "home": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "away": {
+                                "played": null,
+                                "win": null,
+                                "draw": null,
+                                "lose": null,
+                                "goals": {
+                                    "for": null,
+                                    "against": null
+                                }
+                            },
+                            "update": "2019-05-03T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

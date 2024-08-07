@@ -1,0 +1,929 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "89",
+        "season": "2023"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 89,
+                "name": "Eerste Divisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/89.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2023,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 195,
+                                "name": "Willem II",
+                                "logo": "https://media.api-sports.io/football/teams/195.png"
+                            },
+                            "points": 60,
+                            "goalsDiff": 31,
+                            "group": "Eerste Divisie",
+                            "form": "WLLWW",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 29,
+                                "win": 18,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 58,
+                                    "against": 27
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 11,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 7,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 10
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 414,
+                                "name": "Roda",
+                                "logo": "https://media.api-sports.io/football/teams/414.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": 25,
+                            "group": "Eerste Divisie",
+                            "form": "DDWWW",
+                            "status": "same",
+                            "description": "Promotion",
+                            "all": {
+                                "played": 29,
+                                "win": 15,
+                                "draw": 10,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 25
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 11,
+                                "draw": 3,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 198,
+                                "name": "ADO Den Haag",
+                                "logo": "https://media.api-sports.io/football/teams/198.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": 24,
+                            "group": "Eerste Divisie",
+                            "form": "DDWDL",
+                            "status": "same",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 30,
+                                "win": 15,
+                                "draw": 10,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 62,
+                                    "against": 38
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 202,
+                                "name": "Groningen",
+                                "logo": "https://media.api-sports.io/football/teams/202.png"
+                            },
+                            "points": 54,
+                            "goalsDiff": 28,
+                            "group": "Eerste Divisie",
+                            "form": "WWWDW",
+                            "status": "up",
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 29,
+                                "win": 16,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 53,
+                                    "against": 25
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 409,
+                                "name": "Dordrecht",
+                                "logo": "https://media.api-sports.io/football/teams/409.png"
+                            },
+                            "points": 53,
+                            "goalsDiff": 14,
+                            "group": "Eerste Divisie",
+                            "form": "DWWWW",
+                            "status": "down",
+                            "description": "Possible Promotion Play-off",
+                            "all": {
+                                "played": 30,
+                                "win": 14,
+                                "draw": 11,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 57,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 199,
+                                "name": "De Graafschap",
+                                "logo": "https://media.api-sports.io/football/teams/199.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": 5,
+                            "group": "Eerste Divisie",
+                            "form": "LWWWL",
+                            "status": "down",
+                            "description": "Possible Promotion Play-off",
+                            "all": {
+                                "played": 30,
+                                "win": 16,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 39
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 8,
+                                "draw": 1,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 203,
+                                "name": "NAC Breda",
+                                "logo": "https://media.api-sports.io/football/teams/203.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": 10,
+                            "group": "Eerste Divisie",
+                            "form": "WWWLD",
+                            "status": "same",
+                            "description": "Possible Promotion Play-off",
+                            "all": {
+                                "played": 29,
+                                "win": 13,
+                                "draw": 7,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 51,
+                                    "against": 41
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 418,
+                                "name": "Jong AZ",
+                                "logo": "https://media.api-sports.io/football/teams/418.png"
+                            },
+                            "points": 43,
+                            "goalsDiff": -1,
+                            "group": "Eerste Divisie",
+                            "form": "LWDLD",
+                            "status": "same",
+                            "description": "Possible Promotion Play-off",
+                            "all": {
+                                "played": 30,
+                                "win": 12,
+                                "draw": 7,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 9,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 204,
+                                "name": "VVV Venlo",
+                                "logo": "https://media.api-sports.io/football/teams/204.png"
+                            },
+                            "points": 42,
+                            "goalsDiff": 0,
+                            "group": "Eerste Divisie",
+                            "form": "WDDLD",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 29,
+                                "win": 11,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 3,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 424,
+                                "name": "Helmond Sport",
+                                "logo": "https://media.api-sports.io/football/teams/424.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": 1,
+                            "group": "Eerste Divisie",
+                            "form": "WWDDW",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 11,
+                                "draw": 8,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 420,
+                                "name": "Cambuur",
+                                "logo": "https://media.api-sports.io/football/teams/420.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": 3,
+                            "group": "Eerste Divisie",
+                            "form": "LLLWL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 29,
+                                "win": 11,
+                                "draw": 6,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 62,
+                                    "against": 59
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 31
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 208,
+                                "name": "Emmen",
+                                "logo": "https://media.api-sports.io/football/teams/208.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": -4,
+                            "group": "Eerste Divisie",
+                            "form": "LLWWL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 29,
+                                "win": 11,
+                                "draw": 6,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 412,
+                                "name": "MVV",
+                                "logo": "https://media.api-sports.io/football/teams/412.png"
+                            },
+                            "points": 37,
+                            "goalsDiff": 0,
+                            "group": "Eerste Divisie",
+                            "form": "LLDDL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 29,
+                                "win": 10,
+                                "draw": 7,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 422,
+                                "name": "FC Eindhoven",
+                                "logo": "https://media.api-sports.io/football/teams/422.png"
+                            },
+                            "points": 37,
+                            "goalsDiff": -5,
+                            "group": "Eerste Divisie",
+                            "form": "WLDDL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 8,
+                                "draw": 13,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 3,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 425,
+                                "name": "Jong Ajax",
+                                "logo": "https://media.api-sports.io/football/teams/425.png"
+                            },
+                            "points": 33,
+                            "goalsDiff": -8,
+                            "group": "Eerste Divisie",
+                            "form": "WLLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 8,
+                                "draw": 9,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 411,
+                                "name": "Jong PSV",
+                                "logo": "https://media.api-sports.io/football/teams/411.png"
+                            },
+                            "points": 28,
+                            "goalsDiff": -19,
+                            "group": "Eerste Divisie",
+                            "form": "LLWLD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 65
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 35
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 423,
+                                "name": "FC OSS",
+                                "logo": "https://media.api-sports.io/football/teams/423.png"
+                            },
+                            "points": 26,
+                            "goalsDiff": -26,
+                            "group": "Eerste Divisie",
+                            "form": "WLLWW",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 20,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 5,
+                                "draw": 0,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 427,
+                                "name": "Telstar",
+                                "logo": "https://media.api-sports.io/football/teams/427.png"
+                            },
+                            "points": 24,
+                            "goalsDiff": -22,
+                            "group": "Eerste Divisie",
+                            "form": "LDWDW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 29,
+                                "win": 6,
+                                "draw": 6,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 2,
+                                "draw": 2,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 421,
+                                "name": "Den Bosch",
+                                "logo": "https://media.api-sports.io/football/teams/421.png"
+                            },
+                            "points": 23,
+                            "goalsDiff": -25,
+                            "group": "Eerste Divisie",
+                            "form": "WLLDL",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 29,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 3,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 428,
+                                "name": "Jong Utrecht",
+                                "logo": "https://media.api-sports.io/football/teams/428.png"
+                            },
+                            "points": 23,
+                            "goalsDiff": -31,
+                            "group": "Eerste Divisie",
+                            "form": "LLLLW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 30,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 1,
+                                "draw": 3,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 40
+                                }
+                            },
+                            "update": "2024-03-12T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

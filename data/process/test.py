@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import numpy as np
-from raw_data.loader import project_root
+from raw.loader import project_root
 from statsmodels.sandbox.regression.gmm import IV2SLS
 from statsmodels.api import OLS
 from statsmodels.stats.outliers_influence import variance_inflation_factor

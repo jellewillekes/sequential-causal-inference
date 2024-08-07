@@ -36,7 +36,7 @@ def request_data(country, league_name, league_id, season, request_counter, start
         start_time = time.time()
 
     # Adjusted to use the project root for directory paths
-    directory_path = os.path.join(get_project_root(), 'raw_data', country, league_name, str(season))
+    directory_path = os.path.join(get_project_root(), 'raw', country, league_name, str(season))
     file_path = os.path.join(directory_path, 'injuries_data.json')
 
     if os.path.isfile(file_path):

@@ -1,0 +1,1109 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "41",
+        "season": "2017"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 41,
+                "name": "League One",
+                "country": "England",
+                "logo": "https://media.api-sports.io/football/leagues/41.png",
+                "flag": "https://media.api-sports.io/flags/gb.svg",
+                "season": 2017,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 1352,
+                                "name": "Shrewsbury",
+                                "logo": "https://media.api-sports.io/football/teams/1352.png"
+                            },
+                            "points": 64,
+                            "goalsDiff": 18,
+                            "group": "League One: Regular Season",
+                            "form": "WLWWD",
+                            "status": null,
+                            "description": "Promotion",
+                            "all": {
+                                "played": 31,
+                                "win": 19,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 24
+                                }
+                            },
+                            "home": {
+                                "played": 14,
+                                "win": 10,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 8
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 61,
+                                "name": "Wigan",
+                                "logo": "https://media.api-sports.io/football/teams/61.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 38,
+                            "group": "League One: Regular Season",
+                            "form": "LLWWD",
+                            "status": null,
+                            "description": "Promotion",
+                            "all": {
+                                "played": 30,
+                                "win": 19,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 18
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 6
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 10,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 33,
+                                    "against": 12
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 67,
+                                "name": "Blackburn",
+                                "logo": "https://media.api-sports.io/football/teams/67.png"
+                            },
+                            "points": 63,
+                            "goalsDiff": 26,
+                            "group": "League One: Regular Season",
+                            "form": "WDLWD",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 32,
+                                "win": 18,
+                                "draw": 9,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 58,
+                                    "against": 32
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 73,
+                                "name": "Rotherham",
+                                "logo": "https://media.api-sports.io/football/teams/73.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": 17,
+                            "group": "League One: Regular Season",
+                            "form": "WWWWW",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 32,
+                                "win": 17,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 38
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 11,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 1340,
+                                "name": "Scunthorpe",
+                                "logo": "https://media.api-sports.io/football/teams/1340.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": 12,
+                            "group": "League One: Regular Season",
+                            "form": "DLWLD",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 33,
+                                "win": 15,
+                                "draw": 10,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 36
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 1343,
+                                "name": "Bradford",
+                                "logo": "https://media.api-sports.io/football/teams/1343.png"
+                            },
+                            "points": 50,
+                            "goalsDiff": -2,
+                            "group": "League One: Regular Season",
+                            "form": "DDLLL",
+                            "status": null,
+                            "description": "Promotion Play-off",
+                            "all": {
+                                "played": 33,
+                                "win": 15,
+                                "draw": 5,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 1335,
+                                "name": "Charlton",
+                                "logo": "https://media.api-sports.io/football/teams/1335.png"
+                            },
+                            "points": 48,
+                            "goalsDiff": 3,
+                            "group": "League One: Regular Season",
+                            "form": "DDLWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 31,
+                                "win": 13,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 38
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 14,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 1357,
+                                "name": "Plymouth",
+                                "logo": "https://media.api-sports.io/football/teams/1357.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -1,
+                            "group": "League One: Regular Season",
+                            "form": "WWWWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 13,
+                                "draw": 8,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 6,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 16
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 1355,
+                                "name": "Portsmouth",
+                                "logo": "https://media.api-sports.io/football/teams/1355.png"
+                            },
+                            "points": 46,
+                            "goalsDiff": 1,
+                            "group": "League One: Regular Season",
+                            "form": "LWDLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 14,
+                                "draw": 4,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 38
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 14
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 1,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 1350,
+                                "name": "Peterborough",
+                                "logo": "https://media.api-sports.io/football/teams/1350.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": 8,
+                            "group": "League One: Regular Season",
+                            "form": "DDLWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 31,
+                                "win": 12,
+                                "draw": 9,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 41
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 8,
+                                "draw": 2,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 1334,
+                                "name": "Bristol Rovers",
+                                "logo": "https://media.api-sports.io/football/teams/1334.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": -2,
+                            "group": "League One: Regular Season",
+                            "form": "WWLWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 14,
+                                "draw": 3,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 10,
+                                "draw": 0,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 4,
+                                "draw": 3,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 27
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 1347,
+                                "name": "Gillingham",
+                                "logo": "https://media.api-sports.io/football/teams/1347.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": 1,
+                            "group": "League One: Regular Season",
+                            "form": "WDLWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 11,
+                                "draw": 11,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 36
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 4,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 18
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 1338,
+                                "name": "Oxford United",
+                                "logo": "https://media.api-sports.io/football/teams/1338.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -1,
+                            "group": "League One: Regular Season",
+                            "form": "LLWLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 11,
+                                "draw": 8,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 6,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 1341,
+                                "name": "Southend",
+                                "logo": "https://media.api-sports.io/football/teams/1341.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": -11,
+                            "group": "League One: Regular Season",
+                            "form": "DWWWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 11,
+                                "draw": 8,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 8,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 1342,
+                                "name": "Walsall",
+                                "logo": "https://media.api-sports.io/football/teams/1342.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -3,
+                            "group": "League One: Regular Season",
+                            "form": "WDWLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 31,
+                                "win": 10,
+                                "draw": 10,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 45
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 1354,
+                                "name": "Doncaster",
+                                "logo": "https://media.api-sports.io/football/teams/1354.png"
+                            },
+                            "points": 39,
+                            "goalsDiff": -3,
+                            "group": "League One: Regular Season",
+                            "form": "LDDLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 9,
+                                "draw": 12,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 1356,
+                                "name": "Blackpool",
+                                "logo": "https://media.api-sports.io/football/teams/1356.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": -4,
+                            "group": "League One: Regular Season",
+                            "form": "WDDLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 32,
+                                "win": 9,
+                                "draw": 11,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 43
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 6,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 20
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 1336,
+                                "name": "Fleetwood Town",
+                                "logo": "https://media.api-sports.io/football/teams/1336.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -7,
+                            "group": "League One: Regular Season",
+                            "form": "LLLLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 31,
+                                "win": 10,
+                                "draw": 6,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 15,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 23
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 1349,
+                                "name": "Oldham",
+                                "logo": "https://media.api-sports.io/football/teams/1349.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -12,
+                            "group": "League One: Regular Season",
+                            "form": "WDWLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 9,
+                                "draw": 9,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 58
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 1337,
+                                "name": "Northampton",
+                                "logo": "https://media.api-sports.io/football/teams/1337.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -22,
+                            "group": "League One: Regular Season",
+                            "form": "LWLDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 33,
+                                "win": 10,
+                                "draw": 6,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 21,
+                            "team": {
+                                "id": 1333,
+                                "name": "AFC Wimbledon",
+                                "logo": "https://media.api-sports.io/football/teams/1333.png"
+                            },
+                            "points": 34,
+                            "goalsDiff": -10,
+                            "group": "League One: Regular Season",
+                            "form": "LLLLW",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 32,
+                                "win": 9,
+                                "draw": 7,
+                                "lose": 16,
+                                "goals": {
+                                    "for": 32,
+                                    "against": 42
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 22,
+                            "team": {
+                                "id": 1348,
+                                "name": "Milton Keynes Dons",
+                                "logo": "https://media.api-sports.io/football/teams/1348.png"
+                            },
+                            "points": 30,
+                            "goalsDiff": -14,
+                            "group": "League One: Regular Season",
+                            "form": "LLLLD",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 31,
+                                "win": 7,
+                                "draw": 9,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 15,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 26
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 23,
+                            "team": {
+                                "id": 1344,
+                                "name": "Bury",
+                                "logo": "https://media.api-sports.io/football/teams/1344.png"
+                            },
+                            "points": 26,
+                            "goalsDiff": -21,
+                            "group": "League One: Regular Season",
+                            "form": "DDWDW",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 32,
+                                "win": 6,
+                                "draw": 8,
+                                "lose": 18,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 47
+                                }
+                            },
+                            "home": {
+                                "played": 16,
+                                "win": 5,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 1,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 24,
+                            "team": {
+                                "id": 1339,
+                                "name": "Rochdale",
+                                "logo": "https://media.api-sports.io/football/teams/1339.png"
+                            },
+                            "points": 25,
+                            "goalsDiff": -11,
+                            "group": "League One: Regular Season",
+                            "form": "LWLLL",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 28,
+                                "win": 5,
+                                "draw": 10,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 40
+                                }
+                            },
+                            "home": {
+                                "played": 12,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 11
+                                }
+                            },
+                            "away": {
+                                "played": 16,
+                                "win": 1,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

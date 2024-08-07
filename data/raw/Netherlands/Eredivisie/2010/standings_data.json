@@ -1,0 +1,839 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "88",
+        "season": "2010"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 88,
+                "name": "Eredivisie",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/88.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2010,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 194,
+                                "name": "Ajax",
+                                "logo": "https://media.api-sports.io/football/teams/194.png"
+                            },
+                            "points": 73,
+                            "goalsDiff": 42,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "WWWWW",
+                            "status": null,
+                            "description": "UEFA Champions League",
+                            "all": {
+                                "played": 34,
+                                "win": 22,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 72,
+                                    "against": 30
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 13,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 9
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 415,
+                                "name": "Twente",
+                                "logo": "https://media.api-sports.io/football/teams/415.png"
+                            },
+                            "points": 71,
+                            "goalsDiff": 31,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "LWWDD",
+                            "status": null,
+                            "description": "UEFA Champions League Qualifiers",
+                            "all": {
+                                "played": 34,
+                                "win": 21,
+                                "draw": 8,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 12,
+                                "draw": 4,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 13
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 4,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 21
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 197,
+                                "name": "PSV Eindhoven",
+                                "logo": "https://media.api-sports.io/football/teams/197.png"
+                            },
+                            "points": 69,
+                            "goalsDiff": 45,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "DWLWD",
+                            "status": null,
+                            "description": "UEFA Europa League",
+                            "all": {
+                                "played": 34,
+                                "win": 20,
+                                "draw": 9,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 79,
+                                    "against": 34
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 12,
+                                "draw": 3,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 49,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 6,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 19
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 201,
+                                "name": "AZ Alkmaar",
+                                "logo": "https://media.api-sports.io/football/teams/201.png"
+                            },
+                            "points": 59,
+                            "goalsDiff": 11,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "LWLWD",
+                            "status": null,
+                            "description": "UEFA Europa League",
+                            "all": {
+                                "played": 34,
+                                "win": 17,
+                                "draw": 8,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 44
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 202,
+                                "name": "Groningen",
+                                "logo": "https://media.api-sports.io/football/teams/202.png"
+                            },
+                            "points": 57,
+                            "goalsDiff": 13,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "DWWLL",
+                            "status": null,
+                            "description": "UEFA Europa League Play-off",
+                            "all": {
+                                "played": 34,
+                                "win": 17,
+                                "draw": 6,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 12,
+                                "draw": 2,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 4,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 414,
+                                "name": "Roda",
+                                "logo": "https://media.api-sports.io/football/teams/414.png"
+                            },
+                            "points": 55,
+                            "goalsDiff": 15,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "DLWWD",
+                            "status": null,
+                            "description": "UEFA Europa League Play-off",
+                            "all": {
+                                "played": 34,
+                                "win": 14,
+                                "draw": 13,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 50
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 9,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 4,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 198,
+                                "name": "ADO Den Haag",
+                                "logo": "https://media.api-sports.io/football/teams/198.png"
+                            },
+                            "points": 54,
+                            "goalsDiff": 8,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "LLLLW",
+                            "status": null,
+                            "description": "UEFA Europa League Play-off",
+                            "all": {
+                                "played": 34,
+                                "win": 16,
+                                "draw": 6,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 63,
+                                    "against": 55
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 206,
+                                "name": "Heracles",
+                                "logo": "https://media.api-sports.io/football/teams/206.png"
+                            },
+                            "points": 49,
+                            "goalsDiff": 9,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "WWWLW",
+                            "status": null,
+                            "description": "UEFA Europa League Play-off",
+                            "all": {
+                                "played": 34,
+                                "win": 14,
+                                "draw": 7,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 11,
+                                "draw": 4,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 39
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 207,
+                                "name": "Utrecht",
+                                "logo": "https://media.api-sports.io/football/teams/207.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": 4,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "WLWLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 13,
+                                "draw": 8,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 209,
+                                "name": "Feyenoord",
+                                "logo": "https://media.api-sports.io/football/teams/209.png"
+                            },
+                            "points": 44,
+                            "goalsDiff": -1,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "DLWWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 12,
+                                "draw": 8,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 53,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 38
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 413,
+                                "name": "NEC Nijmegen",
+                                "logo": "https://media.api-sports.io/football/teams/413.png"
+                            },
+                            "points": 43,
+                            "goalsDiff": 1,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "DWLLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 13,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 57,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 30,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 6,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 37
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 210,
+                                "name": "Heerenveen",
+                                "logo": "https://media.api-sports.io/football/teams/210.png"
+                            },
+                            "points": 41,
+                            "goalsDiff": 6,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "DLDWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 11,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 60,
+                                    "against": 54
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 23
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 8,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 31
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 203,
+                                "name": "NAC Breda",
+                                "logo": "https://media.api-sports.io/football/teams/203.png"
+                            },
+                            "points": 40,
+                            "goalsDiff": -16,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "WLLLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 12,
+                                "draw": 5,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 60
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 9,
+                                "draw": 2,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 21
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 39
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 199,
+                                "name": "De Graafschap",
+                                "logo": "https://media.api-sports.io/football/teams/199.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": -25,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "WLLDD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 9,
+                                "draw": 11,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 31,
+                                    "against": 56
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 200,
+                                "name": "Vitesse",
+                                "logo": "https://media.api-sports.io/football/teams/200.png"
+                            },
+                            "points": 35,
+                            "goalsDiff": -19,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "LLLWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 34,
+                                "win": 9,
+                                "draw": 8,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 61
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 39
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 196,
+                                "name": "Excelsior",
+                                "logo": "https://media.api-sports.io/football/teams/196.png"
+                            },
+                            "points": 35,
+                            "goalsDiff": -21,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "WWLWD",
+                            "status": null,
+                            "description": "Relegation Play-off",
+                            "all": {
+                                "played": 34,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 19,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 7,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 36
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 204,
+                                "name": "VVV Venlo",
+                                "logo": "https://media.api-sports.io/football/teams/204.png"
+                            },
+                            "points": 21,
+                            "goalsDiff": -42,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "LWDLL",
+                            "status": null,
+                            "description": "Relegation Play-off",
+                            "all": {
+                                "played": 34,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 25,
+                                "goals": {
+                                    "for": 34,
+                                    "against": 76
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 5,
+                                "draw": 2,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 35
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 1,
+                                "draw": 1,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 41
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 195,
+                                "name": "Willem II",
+                                "logo": "https://media.api-sports.io/football/teams/195.png"
+                            },
+                            "points": 15,
+                            "goalsDiff": -61,
+                            "group": "Eredivisie: Regular Season",
+                            "form": "LLWLL",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 34,
+                                "win": 3,
+                                "draw": 6,
+                                "lose": 25,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 98
+                                }
+                            },
+                            "home": {
+                                "played": 17,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 48
+                                }
+                            },
+                            "away": {
+                                "played": 17,
+                                "win": 0,
+                                "draw": 3,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 50
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

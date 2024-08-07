@@ -1,6 +1,9 @@
 # Ignore api key
 **/api_key.txt
 
+# Ignore styles
+utils/styles/
+
 # Ignore all .csv, .txt, and .png files
 *.txt
 *.png

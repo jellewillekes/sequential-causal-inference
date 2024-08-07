@@ -1,0 +1,5795 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "league": "90",
+        "season": "2022"
+    },
+    "errors": [],
+    "results": 85,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 923428,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2022-08-13T15:00:00+00:00",
+                "timestamp": 1660402800,
+                "periods": {
+                    "first": 1660402800,
+                    "second": 1660406400
+                },
+                "venue": {
+                    "id": 1148,
+                    "name": "Sportpark Het Noorderslag",
+                    "city": "Staphorst"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1239,
+                    "name": "Staphorst",
+                    "logo": "https://media.api-sports.io/football/teams/1239.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 19739,
+                    "name": "TOGB",
+                    "logo": "https://media.api-sports.io/football/teams/19739.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923429,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2022-08-13T15:00:00+00:00",
+                "timestamp": 1660402800,
+                "periods": {
+                    "first": 1660402800,
+                    "second": 1660406400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Voordorp",
+                    "city": "Utrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1264,
+                    "name": "Hercules",
+                    "logo": "https://media.api-sports.io/football/teams/1264.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1279,
+                    "name": "Ter Leede",
+                    "logo": "https://media.api-sports.io/football/teams/1279.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923430,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2022-08-13T15:00:00+00:00",
+                "timestamp": 1660402800,
+                "periods": {
+                    "first": 1660402800,
+                    "second": 1660406400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Drie Burg",
+                    "city": "Amsterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 3895,
+                    "name": "JOS Watergraafsmeer",
+                    "logo": "https://media.api-sports.io/football/teams/3895.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1276,
+                    "name": "Hoek",
+                    "logo": "https://media.api-sports.io/football/teams/1276.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923431,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2022-08-13T15:00:00+00:00",
+                "timestamp": 1660402800,
+                "periods": {
+                    "first": 1660402800,
+                    "second": 1660406400
+                },
+                "venue": {
+                    "id": 2872,
+                    "name": "Complex Groote Wielen",
+                    "city": "Rosmalen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1241,
+                    "name": "OJC Rosmalen",
+                    "logo": "https://media.api-sports.io/football/teams/1241.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 3904,
+                    "name": "Sportlust '46",
+                    "logo": "https://media.api-sports.io/football/teams/3904.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923432,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2022-08-13T15:00:00+00:00",
+                "timestamp": 1660402800,
+                "periods": {
+                    "first": 1660402800,
+                    "second": 1660406400
+                },
+                "venue": {
+                    "id": 2864,
+                    "name": "Sportpark Pronsenbroek",
+                    "city": "Heerlen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1236,
+                    "name": "Groene Ster",
+                    "logo": "https://media.api-sports.io/football/teams/1236.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1271,
+                    "name": "Barendrecht",
+                    "logo": "https://media.api-sports.io/football/teams/1271.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 923433,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2022-08-13T17:00:00+00:00",
+                "timestamp": 1660410000,
+                "periods": {
+                    "first": 1660410000,
+                    "second": 1660413600
+                },
+                "venue": {
+                    "id": 18900,
+                    "name": "Sportpark De Vlotter veld 1",
+                    "city": "Heemskerk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 3886,
+                    "name": "ADO '20",
+                    "logo": "https://media.api-sports.io/football/teams/3886.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 3907,
+                    "name": "VVOG",
+                    "logo": "https://media.api-sports.io/football/teams/3907.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942449,
+                "referee": "K. Puts",
+                "timezone": "UTC",
+                "date": "2022-09-20T18:00:00+00:00",
+                "timestamp": 1663696800,
+                "periods": {
+                    "first": 1663696800,
+                    "second": 1663700400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Panhuis",
+                    "city": "Veenendaal"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1234,
+                    "name": "Dovo",
+                    "logo": "https://media.api-sports.io/football/teams/1234.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1249,
+                    "name": "Spakenburg",
+                    "logo": "https://media.api-sports.io/football/teams/1249.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942450,
+                "referee": "N. Smit",
+                "timezone": "UTC",
+                "date": "2022-09-20T18:00:00+00:00",
+                "timestamp": 1663696800,
+                "periods": {
+                    "first": 1663696800,
+                    "second": 1663700400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark De Westmaat",
+                    "city": "Bunschoten"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1280,
+                    "name": "Ijsselmeervogels",
+                    "logo": "https://media.api-sports.io/football/teams/1280.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1276,
+                    "name": "Hoek",
+                    "logo": "https://media.api-sports.io/football/teams/1276.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": 0,
+                    "away": 1
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942451,
+                "referee": "W. Wiersma",
+                "timezone": "UTC",
+                "date": "2022-09-20T18:00:00+00:00",
+                "timestamp": 1663696800,
+                "periods": {
+                    "first": 1663696800,
+                    "second": 1663700400
+                },
+                "venue": {
+                    "id": 2879,
+                    "name": "Sportpark Ter Specke",
+                    "city": "Lisse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1257,
+                    "name": "FC Lisse",
+                    "logo": "https://media.api-sports.io/football/teams/1257.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1244,
+                    "name": "DVS 33 Ermelo",
+                    "logo": "https://media.api-sports.io/football/teams/1244.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942452,
+                "referee": "M. Vos",
+                "timezone": "UTC",
+                "date": "2022-09-20T18:00:00+00:00",
+                "timestamp": 1663696800,
+                "periods": {
+                    "first": 1663696800,
+                    "second": 1663700400
+                },
+                "venue": {
+                    "id": 2874,
+                    "name": "Sportpark Nieuw Zuid",
+                    "city": "Katwijk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1272,
+                    "name": "Quick Boys",
+                    "logo": "https://media.api-sports.io/football/teams/1272.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 3904,
+                    "name": "Sportlust '46",
+                    "logo": "https://media.api-sports.io/football/teams/3904.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942453,
+                "referee": "J. Rozendal",
+                "timezone": "UTC",
+                "date": "2022-09-20T18:00:00+00:00",
+                "timestamp": 1663696800,
+                "periods": {
+                    "first": 1663696800,
+                    "second": 1663700400
+                },
+                "venue": {
+                    "id": 2898,
+                    "name": "Sportpark De Kooltuin",
+                    "city": "Katwijk aan Zee"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1288,
+                    "name": "Rijnvogels",
+                    "logo": "https://media.api-sports.io/football/teams/1288.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 3911,
+                    "name": "ACV",
+                    "logo": "https://media.api-sports.io/football/teams/3911.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942454,
+                "referee": "M. Eijgelsheim",
+                "timezone": "UTC",
+                "date": "2022-09-20T18:00:00+00:00",
+                "timestamp": 1663696800,
+                "periods": {
+                    "first": 1663696800,
+                    "second": 1663700400
+                },
+                "venue": {
+                    "id": 1151,
+                    "name": "Sportpark Houtrust",
+                    "city": "Den Haag"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1250,
+                    "name": "SVV Scheveningen",
+                    "logo": "https://media.api-sports.io/football/teams/1250.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1258,
+                    "name": "Harkemase Boys",
+                    "logo": "https://media.api-sports.io/football/teams/1258.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942455,
+                "referee": "R. Vereijken",
+                "timezone": "UTC",
+                "date": "2022-09-20T18:00:00+00:00",
+                "timestamp": 1663696800,
+                "periods": {
+                    "first": 1663696800,
+                    "second": 1663700400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Schildman",
+                    "city": "Hendrik-Ido-Ambacht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1254,
+                    "name": "ASWH",
+                    "logo": "https://media.api-sports.io/football/teams/1254.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1242,
+                    "name": "Kozakken Boys",
+                    "logo": "https://media.api-sports.io/football/teams/1242.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942456,
+                "referee": "L. Timmer",
+                "timezone": "UTC",
+                "date": "2022-09-20T18:00:00+00:00",
+                "timestamp": 1663696800,
+                "periods": {
+                    "first": 1663696800,
+                    "second": 1663700400
+                },
+                "venue": {
+                    "id": 11890,
+                    "name": "Sportpark Zuid veld 1",
+                    "city": "Groesbeek"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1277,
+                    "name": "De Treffers",
+                    "logo": "https://media.api-sports.io/football/teams/1277.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1247,
+                    "name": "Noordwijk",
+                    "logo": "https://media.api-sports.io/football/teams/1247.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942457,
+                "referee": "T. Visser",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Panhuis",
+                    "city": "Veenendaal"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1261,
+                    "name": "GVVV Veenendaal",
+                    "logo": "https://media.api-sports.io/football/teams/1261.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1274,
+                    "name": "Sparta Nijkerk",
+                    "logo": "https://media.api-sports.io/football/teams/1274.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942458,
+                "referee": "T. Hardeman",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 1116,
+                    "name": "Sportpark Goed Genoeg",
+                    "city": "Amsterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1252,
+                    "name": "AFC Amsterdam",
+                    "logo": "https://media.api-sports.io/football/teams/1252.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1239,
+                    "name": "Staphorst",
+                    "logo": "https://media.api-sports.io/football/teams/1239.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942459,
+                "referee": "M. de Bruijn",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 2902,
+                    "name": "Sportpark Dijkpolder",
+                    "city": "Maassluis"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 17129,
+                    "name": "Excelsior Maassluis",
+                    "logo": "https://media.api-sports.io/football/teams/17129.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1264,
+                    "name": "Hercules",
+                    "logo": "https://media.api-sports.io/football/teams/1264.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942460,
+                "referee": "F. Lodeweeg",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 18900,
+                    "name": "Sportpark De Vlotter veld 1",
+                    "city": "Heemskerk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 3886,
+                    "name": "ADO '20",
+                    "logo": "https://media.api-sports.io/football/teams/3886.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1251,
+                    "name": "Vvsb",
+                    "logo": "https://media.api-sports.io/football/teams/1251.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942461,
+                "referee": "J. Aafouallah",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Oostzanerwerf veld 3-OSV",
+                    "city": "Amsterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1232,
+                    "name": "OFC Oostzaan",
+                    "logo": "https://media.api-sports.io/football/teams/1232.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 3938,
+                    "name": "UDI '19",
+                    "logo": "https://media.api-sports.io/football/teams/3938.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 6,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942462,
+                "referee": "R. Sturm",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 2894,
+                    "name": "Prins Willem Alexander Sportpark",
+                    "city": "Veghel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1263,
+                    "name": "Blauw Geel",
+                    "logo": "https://media.api-sports.io/football/teams/1263.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 14631,
+                    "name": "Baronie",
+                    "logo": "https://media.api-sports.io/football/teams/14631.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942463,
+                "referee": "S. Spaan",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 1789,
+                    "name": "Sportpark De Lok",
+                    "city": "Tiel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1255,
+                    "name": "TEC",
+                    "logo": "https://media.api-sports.io/football/teams/1255.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1284,
+                    "name": "UNA",
+                    "logo": "https://media.api-sports.io/football/teams/1284.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942464,
+                "referee": "T. Dogterom",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark SteDoCo",
+                    "city": "Hoornaar"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 3905,
+                    "name": "SteDoCo",
+                    "logo": "https://media.api-sports.io/football/teams/3905.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1285,
+                    "name": "Dongen",
+                    "logo": "https://media.api-sports.io/football/teams/1285.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942465,
+                "referee": "L. Tissingh",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 2863,
+                    "name": "Sportpark Molenbroek",
+                    "city": "Gemert"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1230,
+                    "name": "Gemert",
+                    "logo": "https://media.api-sports.io/football/teams/1230.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1253,
+                    "name": "URK",
+                    "logo": "https://media.api-sports.io/football/teams/1253.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942466,
+                "referee": "S. Janssen",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Molenvliet",
+                    "city": "Gorinchem"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 14233,
+                    "name": "GVV Unitas",
+                    "logo": "https://media.api-sports.io/football/teams/14233.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6260,
+                    "name": "DEM",
+                    "logo": "https://media.api-sports.io/football/teams/6260.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": 0,
+                    "away": 1
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942467,
+                "referee": "N. Boel",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 2958,
+                    "name": "Sportpark De Rusheuvel",
+                    "city": "Oss"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 3898,
+                    "name": "OSS '20",
+                    "logo": "https://media.api-sports.io/football/teams/3898.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 6263,
+                    "name": "Excelsior '31",
+                    "logo": "https://media.api-sports.io/football/teams/6263.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942468,
+                "referee": "D. Prick",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 2864,
+                    "name": "Sportpark Pronsenbroek",
+                    "city": "Heerlen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1236,
+                    "name": "Groene Ster",
+                    "logo": "https://media.api-sports.io/football/teams/1236.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 3894,
+                    "name": "HV & CV Quick",
+                    "logo": "https://media.api-sports.io/football/teams/3894.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 942469,
+                "referee": "J. Kuipers",
+                "timezone": "UTC",
+                "date": "2022-09-21T18:00:00+00:00",
+                "timestamp": 1663783200,
+                "periods": {
+                    "first": 1663783200,
+                    "second": 1663786800
+                },
+                "venue": {
+                    "id": 2900,
+                    "name": "Sportpark Groot Scholtenhagen",
+                    "city": "Haaksbergen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Preliminary Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1281,
+                    "name": "Hsc 21",
+                    "logo": "https://media.api-sports.io/football/teams/1281.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1238,
+                    "name": "RKAV Volendam",
+                    "logo": "https://media.api-sports.io/football/teams/1238.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962546,
+                "referee": "R. Dieperink",
+                "timezone": "UTC",
+                "date": "2022-10-20T16:45:00+00:00",
+                "timestamp": 1666284300,
+                "periods": {
+                    "first": 1666284300,
+                    "second": 1666287900
+                },
+                "venue": {
+                    "id": 2963,
+                    "name": "Sportpark Cromwijck",
+                    "city": "Woerden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 3904,
+                    "name": "Sportlust '46",
+                    "logo": "https://media.api-sports.io/football/teams/3904.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 207,
+                    "name": "Utrecht",
+                    "logo": "https://media.api-sports.io/football/teams/207.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962547,
+                "referee": "E. van de Graaf",
+                "timezone": "UTC",
+                "date": "2022-10-19T16:45:00+00:00",
+                "timestamp": 1666197900,
+                "periods": {
+                    "first": 1666197900,
+                    "second": 1666201500
+                },
+                "venue": {
+                    "id": 19213,
+                    "name": "Matchoholic Stadion",
+                    "city": "Dordrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 409,
+                    "name": "Dordrecht",
+                    "logo": "https://media.api-sports.io/football/teams/409.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 202,
+                    "name": "Groningen",
+                    "logo": "https://media.api-sports.io/football/teams/202.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962548,
+                "referee": "I. Oostrom",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:00:00+00:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": 2869,
+                    "name": "Sportpark Spanjaardslaan",
+                    "city": "Haarlem"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1246,
+                    "name": "Koninklijke HFC",
+                    "logo": "https://media.api-sports.io/football/teams/1246.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 427,
+                    "name": "Telstar",
+                    "logo": "https://media.api-sports.io/football/teams/427.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962549,
+                "referee": "W. Wiersma",
+                "timezone": "UTC",
+                "date": "2022-10-20T18:00:00+00:00",
+                "timestamp": 1666288800,
+                "periods": {
+                    "first": 1666288800,
+                    "second": 1666292400
+                },
+                "venue": {
+                    "id": 2875,
+                    "name": "KWABO-stadion",
+                    "city": "Volendam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1238,
+                    "name": "RKAV Volendam",
+                    "logo": "https://media.api-sports.io/football/teams/1238.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 3894,
+                    "name": "HV & CV Quick",
+                    "logo": "https://media.api-sports.io/football/teams/3894.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962550,
+                "referee": "M. Vos",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:00:00+00:00",
+                "timestamp": 1666202400,
+                "periods": {
+                    "first": 1666202400,
+                    "second": 1666206000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark De Westmaat",
+                    "city": "Bunschoten"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1249,
+                    "name": "Spakenburg",
+                    "logo": "https://media.api-sports.io/football/teams/1249.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1255,
+                    "name": "TEC",
+                    "logo": "https://media.api-sports.io/football/teams/1255.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962551,
+                "referee": "J. Kamphuis",
+                "timezone": "UTC",
+                "date": "2022-10-20T19:00:00+00:00",
+                "timestamp": 1666292400,
+                "periods": {
+                    "first": 1666292400,
+                    "second": 1666296000
+                },
+                "venue": {
+                    "id": 2865,
+                    "name": "Sportpark de Boshoek",
+                    "city": "Hardenberg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1278,
+                    "name": "HHC",
+                    "logo": "https://media.api-sports.io/football/teams/1278.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 193,
+                    "name": "PEC Zwolle",
+                    "logo": "https://media.api-sports.io/football/teams/193.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962552,
+                "referee": "A. Bos",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:00:00+00:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Panhuis",
+                    "city": "Veenendaal"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1261,
+                    "name": "GVVV Veenendaal",
+                    "logo": "https://media.api-sports.io/football/teams/1261.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 421,
+                    "name": "Den Bosch",
+                    "logo": "https://media.api-sports.io/football/teams/421.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962553,
+                "referee": "A. Lindhout",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:00:00+00:00",
+                "timestamp": 1666202400,
+                "periods": {
+                    "first": 1666202400,
+                    "second": 1666206000
+                },
+                "venue": {
+                    "id": 11890,
+                    "name": "Sportpark Zuid veld 1",
+                    "city": "Groesbeek"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1277,
+                    "name": "De Treffers",
+                    "logo": "https://media.api-sports.io/football/teams/1277.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 417,
+                    "name": "Waalwijk",
+                    "logo": "https://media.api-sports.io/football/teams/417.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962554,
+                "referee": "C. Ruperti",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:00:00+00:00",
+                "timestamp": 1666202400,
+                "periods": {
+                    "first": 1666202400,
+                    "second": 1666206000
+                },
+                "venue": {
+                    "id": 12600,
+                    "name": "Sportcomplex Zoudenbalch",
+                    "city": "Utrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1264,
+                    "name": "Hercules",
+                    "logo": "https://media.api-sports.io/football/teams/1264.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 203,
+                    "name": "NAC Breda",
+                    "logo": "https://media.api-sports.io/football/teams/203.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962555,
+                "referee": "M. Nagtegaal",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:00:00+00:00",
+                "timestamp": 1666202400,
+                "periods": {
+                    "first": 1666202400,
+                    "second": 1666206000
+                },
+                "venue": {
+                    "id": 2870,
+                    "name": "Sportpark De Zwaaier",
+                    "city": "Werkendam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1242,
+                    "name": "Kozakken Boys",
+                    "logo": "https://media.api-sports.io/football/teams/1242.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 200,
+                    "name": "Vitesse",
+                    "logo": "https://media.api-sports.io/football/teams/200.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 5,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962556,
+                "referee": "R. Vereijken",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:00:00+00:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": 2876,
+                    "name": "Sportpark Middelmors",
+                    "city": "Rijnsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1248,
+                    "name": "Rijnsburgse Boys",
+                    "logo": "https://media.api-sports.io/football/teams/1248.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 199,
+                    "name": "De Graafschap",
+                    "logo": "https://media.api-sports.io/football/teams/199.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962557,
+                "referee": "J. van der Laan",
+                "timezone": "UTC",
+                "date": "2022-10-20T18:00:00+00:00",
+                "timestamp": 1666288800,
+                "periods": {
+                    "first": 1666288800,
+                    "second": 1666292400
+                },
+                "venue": {
+                    "id": 2860,
+                    "name": "Sportpark De Biezen",
+                    "city": "Dongen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1285,
+                    "name": "Dongen",
+                    "logo": "https://media.api-sports.io/football/teams/1285.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 204,
+                    "name": "VVV Venlo",
+                    "logo": "https://media.api-sports.io/football/teams/204.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962558,
+                "referee": "J. Rozendal",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:00:00+00:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": 2866,
+                    "name": "Sportpark de Bosk",
+                    "city": "Harkema"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1258,
+                    "name": "Harkemase Boys",
+                    "logo": "https://media.api-sports.io/football/teams/1258.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 416,
+                    "name": "FC Volendam",
+                    "logo": "https://media.api-sports.io/football/teams/416.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962559,
+                "referee": "R. Martens",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:00:00+00:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": 2888,
+                    "name": "Sportpark Denoek",
+                    "city": "Hoek"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1276,
+                    "name": "Hoek",
+                    "logo": "https://media.api-sports.io/football/teams/1276.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 210,
+                    "name": "Heerenveen",
+                    "logo": "https://media.api-sports.io/football/teams/210.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962560,
+                "referee": "M. Eijgelsheim",
+                "timezone": "UTC",
+                "date": "2022-10-20T18:00:00+00:00",
+                "timestamp": 1666288800,
+                "periods": {
+                    "first": 1666288800,
+                    "second": 1666292400
+                },
+                "venue": {
+                    "id": 2868,
+                    "name": "Sportpark de Krom",
+                    "city": "Katwijk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1237,
+                    "name": "Katwijk",
+                    "logo": "https://media.api-sports.io/football/teams/1237.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1244,
+                    "name": "DVS 33 Ermelo",
+                    "logo": "https://media.api-sports.io/football/teams/1244.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962561,
+                "referee": "M. van den Kerkhof",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:00:00+00:00",
+                "timestamp": 1666202400,
+                "periods": {
+                    "first": 1666202400,
+                    "second": 1666206000
+                },
+                "venue": {
+                    "id": 1130,
+                    "name": "De Adelaarshorst",
+                    "city": "Deventer"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 410,
+                    "name": "GO Ahead Eagles",
+                    "logo": "https://media.api-sports.io/football/teams/410.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 424,
+                    "name": "Helmond Sport",
+                    "logo": "https://media.api-sports.io/football/teams/424.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962562,
+                "referee": "R. Gansner",
+                "timezone": "UTC",
+                "date": "2022-10-20T18:00:00+00:00",
+                "timestamp": 1666288800,
+                "periods": {
+                    "first": 1666288800,
+                    "second": 1666292400
+                },
+                "venue": {
+                    "id": 2977,
+                    "name": "Sportpark Purmersteijn",
+                    "city": "Purmerend"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1232,
+                    "name": "OFC Oostzaan",
+                    "logo": "https://media.api-sports.io/football/teams/1232.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 426,
+                    "name": "Sparta Rotterdam",
+                    "logo": "https://media.api-sports.io/football/teams/426.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962563,
+                "referee": "E. Blank",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:00:00+00:00",
+                "timestamp": 1666202400,
+                "periods": {
+                    "first": 1666202400,
+                    "second": 1666206000
+                },
+                "venue": {
+                    "id": 18900,
+                    "name": "Sportpark De Vlotter veld 1",
+                    "city": "Heemskerk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 3886,
+                    "name": "ADO '20",
+                    "logo": "https://media.api-sports.io/football/teams/3886.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 208,
+                    "name": "Emmen",
+                    "logo": "https://media.api-sports.io/football/teams/208.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962564,
+                "referee": "S. G\u00f6z\u00fcb\u00fcy\u00fck",
+                "timezone": "UTC",
+                "date": "2022-10-18T19:00:00+00:00",
+                "timestamp": 1666119600,
+                "periods": {
+                    "first": 1666119600,
+                    "second": 1666123200
+                },
+                "venue": {
+                    "id": 1146,
+                    "name": "Parkstad Limburg Stadion",
+                    "city": "Kerkrade"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 414,
+                    "name": "Roda",
+                    "logo": "https://media.api-sports.io/football/teams/414.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 206,
+                    "name": "Heracles",
+                    "logo": "https://media.api-sports.io/football/teams/206.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 6,
+                    "away": 7
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962565,
+                "referee": "S. Teuben",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:00:00+00:00",
+                "timestamp": 1666202400,
+                "periods": {
+                    "first": 1666202400,
+                    "second": 1666206000
+                },
+                "venue": {
+                    "id": 2868,
+                    "name": "Sportpark de Krom",
+                    "city": "Katwijk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1288,
+                    "name": "Rijnvogels",
+                    "logo": "https://media.api-sports.io/football/teams/1288.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 420,
+                    "name": "Cambuur",
+                    "logo": "https://media.api-sports.io/football/teams/420.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962566,
+                "referee": "M. Perez",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:00:00+00:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": 4638,
+                    "name": "Sportpark De Koerbelt",
+                    "city": "Rijssen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 6263,
+                    "name": "Excelsior '31",
+                    "logo": "https://media.api-sports.io/football/teams/6263.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 198,
+                    "name": "ADO Den Haag",
+                    "logo": "https://media.api-sports.io/football/teams/198.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962567,
+                "referee": "N. Smit",
+                "timezone": "UTC",
+                "date": "2022-10-20T18:00:00+00:00",
+                "timestamp": 1666288800,
+                "periods": {
+                    "first": 1666288800,
+                    "second": 1666292400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark Adrichem",
+                    "city": "Beverwijk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 6260,
+                    "name": "DEM",
+                    "logo": "https://media.api-sports.io/football/teams/6260.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1263,
+                    "name": "Blauw Geel",
+                    "logo": "https://media.api-sports.io/football/teams/1263.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962568,
+                "referee": "B. Nijhuis",
+                "timezone": "UTC",
+                "date": "2022-10-19T19:00:00+00:00",
+                "timestamp": 1666206000,
+                "periods": {
+                    "first": 1666206000,
+                    "second": 1666209600
+                },
+                "venue": {
+                    "id": 1140,
+                    "name": "Goffertstadion",
+                    "city": "Nijmegen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 413,
+                    "name": "NEC Nijmegen",
+                    "logo": "https://media.api-sports.io/football/teams/413.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 205,
+                    "name": "Fortuna Sittard",
+                    "logo": "https://media.api-sports.io/football/teams/205.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962569,
+                "referee": "L. Timmer",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:00:00+00:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": 1150,
+                    "name": "Sportpark De Vormt",
+                    "city": "Urk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1253,
+                    "name": "URK",
+                    "logo": "https://media.api-sports.io/football/teams/1253.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1239,
+                    "name": "Staphorst",
+                    "logo": "https://media.api-sports.io/football/teams/1239.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962570,
+                "referee": "D. Higler",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:00:00+00:00",
+                "timestamp": 1666116000,
+                "periods": {
+                    "first": 1666116000,
+                    "second": 1666119600
+                },
+                "venue": {
+                    "id": 1141,
+                    "name": "Yanmar Stadion",
+                    "city": "Almere"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 419,
+                    "name": "Almere City FC",
+                    "logo": "https://media.api-sports.io/football/teams/419.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 423,
+                    "name": "FC OSS",
+                    "logo": "https://media.api-sports.io/football/teams/423.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 962571,
+                "referee": "J. Manschot",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:00:00+00:00",
+                "timestamp": 1666202400,
+                "periods": {
+                    "first": 1666202400,
+                    "second": 1666206000
+                },
+                "venue": {
+                    "id": 2901,
+                    "name": "Van Donge & De Roo Stadion",
+                    "city": "Rotterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 196,
+                    "name": "Excelsior",
+                    "logo": "https://media.api-sports.io/football/teams/196.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 412,
+                    "name": "MVV",
+                    "logo": "https://media.api-sports.io/football/teams/412.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 963834,
+                "referee": "P. van Boekel",
+                "timezone": "UTC",
+                "date": "2022-10-18T16:45:00+00:00",
+                "timestamp": 1666111500,
+                "periods": {
+                    "first": 1666111500,
+                    "second": 1666115100
+                },
+                "venue": {
+                    "id": 1126,
+                    "name": "Jan Louwers Stadion",
+                    "city": "Eindhoven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 422,
+                    "name": "FC Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/422.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 195,
+                    "name": "Willem II",
+                    "logo": "https://media.api-sports.io/football/teams/195.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968098,
+                "referee": "R. Dieperink",
+                "timezone": "UTC",
+                "date": "2023-01-10T19:00:00+00:00",
+                "timestamp": 1673377200,
+                "periods": {
+                    "first": 1673377200,
+                    "second": 1673380800
+                },
+                "venue": {
+                    "id": 2870,
+                    "name": "Sportpark De Zwaaier",
+                    "city": "Werkendam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1242,
+                    "name": "Kozakken Boys",
+                    "logo": "https://media.api-sports.io/football/teams/1242.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 198,
+                    "name": "ADO Den Haag",
+                    "logo": "https://media.api-sports.io/football/teams/198.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968099,
+                "referee": "L. Gerrets",
+                "timezone": "UTC",
+                "date": "2023-01-10T19:00:00+00:00",
+                "timestamp": 1673377200,
+                "periods": {
+                    "first": 1673377200,
+                    "second": 1673380800
+                },
+                "venue": {
+                    "id": 2956,
+                    "name": "Sportpark Nieuw Hanenburg",
+                    "city": "Den Haag"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 3894,
+                    "name": "HV & CV Quick",
+                    "logo": "https://media.api-sports.io/football/teams/3894.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 199,
+                    "name": "De Graafschap",
+                    "logo": "https://media.api-sports.io/football/teams/199.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968100,
+                "referee": "R. Hensgens",
+                "timezone": "UTC",
+                "date": "2023-01-12T19:00:00+00:00",
+                "timestamp": 1673550000,
+                "periods": {
+                    "first": 1673550000,
+                    "second": 1673553600
+                },
+                "venue": {
+                    "id": 1150,
+                    "name": "Sportpark De Vormt",
+                    "city": "Urk"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1253,
+                    "name": "URK",
+                    "logo": "https://media.api-sports.io/football/teams/1253.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1237,
+                    "name": "Katwijk",
+                    "logo": "https://media.api-sports.io/football/teams/1237.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968101,
+                "referee": "M. Perez",
+                "timezone": "UTC",
+                "date": "2023-01-11T19:00:00+00:00",
+                "timestamp": 1673463600,
+                "periods": {
+                    "first": 1673463600,
+                    "second": 1673467200
+                },
+                "venue": {
+                    "id": 1158,
+                    "name": "Covebo Stadion - De Koel -",
+                    "city": "Venlo"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 204,
+                    "name": "VVV Venlo",
+                    "logo": "https://media.api-sports.io/football/teams/204.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 208,
+                    "name": "Emmen",
+                    "logo": "https://media.api-sports.io/football/teams/208.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968102,
+                "referee": "J. Kamphuis",
+                "timezone": "UTC",
+                "date": "2023-01-12T19:00:00+00:00",
+                "timestamp": 1673550000,
+                "periods": {
+                    "first": 1673550000,
+                    "second": 1673553600
+                },
+                "venue": {
+                    "id": 2894,
+                    "name": "Prins Willem Alexander Sportpark",
+                    "city": "Veghel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1263,
+                    "name": "Blauw Geel",
+                    "logo": "https://media.api-sports.io/football/teams/1263.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 207,
+                    "name": "Utrecht",
+                    "logo": "https://media.api-sports.io/football/teams/207.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968103,
+                "referee": "D. Makkelie",
+                "timezone": "UTC",
+                "date": "2023-01-12T19:00:00+00:00",
+                "timestamp": 1673550000,
+                "periods": {
+                    "first": 1673550000,
+                    "second": 1673553600
+                },
+                "venue": {
+                    "id": 12276,
+                    "name": "Euroborg",
+                    "city": "Groningen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 202,
+                    "name": "Groningen",
+                    "logo": "https://media.api-sports.io/football/teams/202.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1249,
+                    "name": "Spakenburg",
+                    "logo": "https://media.api-sports.io/football/teams/1249.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968104,
+                "referee": "M. Nagtegaal",
+                "timezone": "UTC",
+                "date": "2023-01-11T19:00:00+00:00",
+                "timestamp": 1673463600,
+                "periods": {
+                    "first": 1673463600,
+                    "second": 1673467200
+                },
+                "venue": {
+                    "id": 1141,
+                    "name": "Yanmar Stadion",
+                    "city": "Almere"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 419,
+                    "name": "Almere City FC",
+                    "logo": "https://media.api-sports.io/football/teams/419.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 413,
+                    "name": "NEC Nijmegen",
+                    "logo": "https://media.api-sports.io/football/teams/413.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968105,
+                "referee": "J. Kooij",
+                "timezone": "UTC",
+                "date": "2023-01-11T19:00:00+00:00",
+                "timestamp": 1673463600,
+                "periods": {
+                    "first": 1673463600,
+                    "second": 1673467200
+                },
+                "venue": {
+                    "id": 11890,
+                    "name": "Sportpark Zuid veld 1",
+                    "city": "Groesbeek"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1277,
+                    "name": "De Treffers",
+                    "logo": "https://media.api-sports.io/football/teams/1277.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 420,
+                    "name": "Cambuur",
+                    "logo": "https://media.api-sports.io/football/teams/420.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968106,
+                "referee": "J. van der Laan",
+                "timezone": "UTC",
+                "date": "2023-01-12T17:45:00+00:00",
+                "timestamp": 1673545500,
+                "periods": {
+                    "first": 1673545500,
+                    "second": 1673549100
+                },
+                "venue": {
+                    "id": 11906,
+                    "name": "Erve Asito",
+                    "city": "Almelo"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 206,
+                    "name": "Heracles",
+                    "logo": "https://media.api-sports.io/football/teams/206.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 410,
+                    "name": "GO Ahead Eagles",
+                    "logo": "https://media.api-sports.io/football/teams/410.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968107,
+                "referee": "E. van de Graaf",
+                "timezone": "UTC",
+                "date": "2023-01-11T20:00:00+00:00",
+                "timestamp": 1673467200,
+                "periods": {
+                    "first": 1673467200,
+                    "second": 1673470800
+                },
+                "venue": {
+                    "id": 1122,
+                    "name": "Stadion De Vliert",
+                    "city": "'s-Hertogenbosch"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 421,
+                    "name": "Den Bosch",
+                    "logo": "https://media.api-sports.io/football/teams/421.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 194,
+                    "name": "Ajax",
+                    "logo": "https://media.api-sports.io/football/teams/194.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968108,
+                "referee": "B. Nijhuis",
+                "timezone": "UTC",
+                "date": "2023-01-11T17:45:00+00:00",
+                "timestamp": 1673459100,
+                "periods": {
+                    "first": 1673459100,
+                    "second": 1673462700
+                },
+                "venue": {
+                    "id": 2901,
+                    "name": "Van Donge & De Roo Stadion",
+                    "city": "Rotterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 196,
+                    "name": "Excelsior",
+                    "logo": "https://media.api-sports.io/football/teams/196.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 201,
+                    "name": "AZ Alkmaar",
+                    "logo": "https://media.api-sports.io/football/teams/201.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968109,
+                "referee": "S. van der Eijk",
+                "timezone": "UTC",
+                "date": "2023-01-10T17:45:00+00:00",
+                "timestamp": 1673372700,
+                "periods": {
+                    "first": 1673372700,
+                    "second": 1673376300
+                },
+                "venue": {
+                    "id": 1153,
+                    "name": "De Grolsch Veste",
+                    "city": "Enschede"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 415,
+                    "name": "Twente",
+                    "logo": "https://media.api-sports.io/football/teams/415.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 427,
+                    "name": "Telstar",
+                    "logo": "https://media.api-sports.io/football/teams/427.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968110,
+                "referee": "J. Manschot",
+                "timezone": "UTC",
+                "date": "2023-01-10T19:00:00+00:00",
+                "timestamp": 1673377200,
+                "periods": {
+                    "first": 1673377200,
+                    "second": 1673380800
+                },
+                "venue": {
+                    "id": 1139,
+                    "name": "Rat Verlegh Stadion",
+                    "city": "Breda"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 203,
+                    "name": "NAC Breda",
+                    "logo": "https://media.api-sports.io/football/teams/203.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 422,
+                    "name": "FC Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/422.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968111,
+                "referee": "S. G\u00f6z\u00fcb\u00fcy\u00fck",
+                "timezone": "UTC",
+                "date": "2023-01-10T20:00:00+00:00",
+                "timestamp": 1673380800,
+                "periods": {
+                    "first": 1673380800,
+                    "second": 1673384400
+                },
+                "venue": {
+                    "id": 10505,
+                    "name": "Sparta-Stadion Het Kasteel",
+                    "city": "Rotterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 426,
+                    "name": "Sparta Rotterdam",
+                    "logo": "https://media.api-sports.io/football/teams/426.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 197,
+                    "name": "PSV Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/197.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968112,
+                "referee": "P. van Boekel",
+                "timezone": "UTC",
+                "date": "2023-01-12T20:00:00+00:00",
+                "timestamp": 1673553600,
+                "periods": {
+                    "first": 1673553600,
+                    "second": 1673557200
+                },
+                "venue": {
+                    "id": 1128,
+                    "name": "Stadion Feijenoord",
+                    "city": "Rotterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 193,
+                    "name": "PEC Zwolle",
+                    "logo": "https://media.api-sports.io/football/teams/193.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968113,
+                "referee": "I. Oostrom",
+                "timezone": "UTC",
+                "date": "2023-01-11T19:00:00+00:00",
+                "timestamp": 1673463600,
+                "periods": {
+                    "first": 1673463600,
+                    "second": 1673467200
+                },
+                "venue": {
+                    "id": 1132,
+                    "name": "Abe Lenstra Stadion",
+                    "city": "Heerenveen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 210,
+                    "name": "Heerenveen",
+                    "logo": "https://media.api-sports.io/football/teams/210.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 416,
+                    "name": "FC Volendam",
+                    "logo": "https://media.api-sports.io/football/teams/416.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 989518,
+                "referee": "I. Oostrom",
+                "timezone": "UTC",
+                "date": "2023-02-08T17:45:00+00:00",
+                "timestamp": 1675878300,
+                "periods": {
+                    "first": 1675878300,
+                    "second": 1675881900
+                },
+                "venue": {
+                    "id": 1143,
+                    "name": "Philips Stadion",
+                    "city": "Eindhoven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 197,
+                    "name": "PSV Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/197.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 208,
+                    "name": "Emmen",
+                    "logo": "https://media.api-sports.io/football/teams/208.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 989519,
+                "referee": "A. Bos",
+                "timezone": "UTC",
+                "date": "2023-02-07T20:00:00+00:00",
+                "timestamp": 1675800000,
+                "periods": {
+                    "first": 1675800000,
+                    "second": 1675803600
+                },
+                "venue": {
+                    "id": 1139,
+                    "name": "Rat Verlegh Stadion",
+                    "city": "Breda"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 203,
+                    "name": "NAC Breda",
+                    "logo": "https://media.api-sports.io/football/teams/203.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 210,
+                    "name": "Heerenveen",
+                    "logo": "https://media.api-sports.io/football/teams/210.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 989520,
+                "referee": "D. Makkelie",
+                "timezone": "UTC",
+                "date": "2023-02-09T17:45:00+00:00",
+                "timestamp": 1675964700,
+                "periods": {
+                    "first": 1675964700,
+                    "second": 1675968300
+                },
+                "venue": {
+                    "id": 1153,
+                    "name": "De Grolsch Veste",
+                    "city": "Enschede"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 415,
+                    "name": "Twente",
+                    "logo": "https://media.api-sports.io/football/teams/415.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 194,
+                    "name": "Ajax",
+                    "logo": "https://media.api-sports.io/football/teams/194.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 989521,
+                "referee": "R. Dieperink",
+                "timezone": "UTC",
+                "date": "2023-02-08T20:00:00+00:00",
+                "timestamp": 1675886400,
+                "periods": {
+                    "first": 1675886400,
+                    "second": 1675890000
+                },
+                "venue": {
+                    "id": 1128,
+                    "name": "Stadion Feijenoord",
+                    "city": "Rotterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 413,
+                    "name": "NEC Nijmegen",
+                    "logo": "https://media.api-sports.io/football/teams/413.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": 5,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 989522,
+                "referee": "E. van de Graaf",
+                "timezone": "UTC",
+                "date": "2023-02-09T20:00:00+00:00",
+                "timestamp": 1675972800,
+                "periods": {
+                    "first": 1675972800,
+                    "second": 1675976400
+                },
+                "venue": {
+                    "id": 19212,
+                    "name": "Bingoal Stadion",
+                    "city": "\u2018s-Gravenhage"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 198,
+                    "name": "ADO Den Haag",
+                    "logo": "https://media.api-sports.io/football/teams/198.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 410,
+                    "name": "GO Ahead Eagles",
+                    "logo": "https://media.api-sports.io/football/teams/410.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 989523,
+                "referee": "B. Nijhuis",
+                "timezone": "UTC",
+                "date": "2023-02-08T19:00:00+00:00",
+                "timestamp": 1675882800,
+                "periods": {
+                    "first": 1675882800,
+                    "second": 1675886400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark De Westmaat",
+                    "city": "Bunschoten"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 1249,
+                    "name": "Spakenburg",
+                    "logo": "https://media.api-sports.io/football/teams/1249.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1237,
+                    "name": "Katwijk",
+                    "logo": "https://media.api-sports.io/football/teams/1237.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 1
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 989524,
+                "referee": "J. Kamphuis",
+                "timezone": "UTC",
+                "date": "2023-02-07T17:45:00+00:00",
+                "timestamp": 1675791900,
+                "periods": {
+                    "first": 1675791900,
+                    "second": 1675795500
+                },
+                "venue": {
+                    "id": 1119,
+                    "name": "AFAS Stadion",
+                    "city": "Alkmaar"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 201,
+                    "name": "AZ Alkmaar",
+                    "logo": "https://media.api-sports.io/football/teams/201.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 207,
+                    "name": "Utrecht",
+                    "logo": "https://media.api-sports.io/football/teams/207.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 989525,
+                "referee": "S. van der Eijk",
+                "timezone": "UTC",
+                "date": "2023-02-07T19:00:00+00:00",
+                "timestamp": 1675796400,
+                "periods": {
+                    "first": 1675796400,
+                    "second": 1675800000
+                },
+                "venue": {
+                    "id": 1121,
+                    "name": "Stadion De Vijverberg",
+                    "city": "Doetinchem"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 199,
+                    "name": "De Graafschap",
+                    "logo": "https://media.api-sports.io/football/teams/199.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1277,
+                    "name": "De Treffers",
+                    "logo": "https://media.api-sports.io/football/teams/1277.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1004767,
+                "referee": "P. van Boekel",
+                "timezone": "UTC",
+                "date": "2023-03-01T19:00:00+00:00",
+                "timestamp": 1677697200,
+                "periods": {
+                    "first": 1677697200,
+                    "second": 1677700800
+                },
+                "venue": {
+                    "id": 1132,
+                    "name": "Abe Lenstra Stadion",
+                    "city": "Heerenveen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 210,
+                    "name": "Heerenveen",
+                    "logo": "https://media.api-sports.io/football/teams/210.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1004768,
+                "referee": "A. Lindhout",
+                "timezone": "UTC",
+                "date": "2023-03-02T20:00:00+00:00",
+                "timestamp": 1677787200,
+                "periods": {
+                    "first": 1677787200,
+                    "second": 1677790800
+                },
+                "venue": {
+                    "id": 1121,
+                    "name": "Stadion De Vijverberg",
+                    "city": "Doetinchem"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 199,
+                    "name": "De Graafschap",
+                    "logo": "https://media.api-sports.io/football/teams/199.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 194,
+                    "name": "Ajax",
+                    "logo": "https://media.api-sports.io/football/teams/194.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1004769,
+                "referee": "B. Nijhuis",
+                "timezone": "UTC",
+                "date": "2023-03-02T17:45:00+00:00",
+                "timestamp": 1677779100,
+                "periods": {
+                    "first": 1677779100,
+                    "second": 1677782700
+                },
+                "venue": {
+                    "id": 1143,
+                    "name": "Philips Stadion",
+                    "city": "Eindhoven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 197,
+                    "name": "PSV Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/197.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 198,
+                    "name": "ADO Den Haag",
+                    "logo": "https://media.api-sports.io/football/teams/198.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1004770,
+                "referee": "M. van den Kerkhof",
+                "timezone": "UTC",
+                "date": "2023-02-28T19:00:00+00:00",
+                "timestamp": 1677610800,
+                "periods": {
+                    "first": 1677610800,
+                    "second": 1677614400
+                },
+                "venue": {
+                    "id": 1154,
+                    "name": "Stadion Galgenwaard",
+                    "city": "Utrecht"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 207,
+                    "name": "Utrecht",
+                    "logo": "https://media.api-sports.io/football/teams/207.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1249,
+                    "name": "Spakenburg",
+                    "logo": "https://media.api-sports.io/football/teams/1249.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1012126,
+                "referee": "A. Lindhout",
+                "timezone": "UTC",
+                "date": "2023-04-05T18:00:00+00:00",
+                "timestamp": 1680717600,
+                "periods": {
+                    "first": 1680717600,
+                    "second": 1680721200
+                },
+                "venue": {
+                    "id": 1128,
+                    "name": "Stadion Feijenoord",
+                    "city": "Rotterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 194,
+                    "name": "Ajax",
+                    "logo": "https://media.api-sports.io/football/teams/194.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1012127,
+                "referee": "J. Manschot",
+                "timezone": "UTC",
+                "date": "2023-04-04T18:00:00+00:00",
+                "timestamp": 1680631200,
+                "periods": {
+                    "first": 1680631200,
+                    "second": 1680634800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportpark De Westmaat",
+                    "city": "Bunschoten"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 1249,
+                    "name": "Spakenburg",
+                    "logo": "https://media.api-sports.io/football/teams/1249.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 197,
+                    "name": "PSV Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/197.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1020792,
+                "referee": "D. Higler",
+                "timezone": "UTC",
+                "date": "2023-04-30T16:00:00+00:00",
+                "timestamp": 1682870400,
+                "periods": {
+                    "first": 1682870400,
+                    "second": 1682874000
+                },
+                "venue": {
+                    "id": 1128,
+                    "name": "Stadion Feijenoord",
+                    "city": "Rotterdam"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 90,
+                "name": "KNVB Beker",
+                "country": "Netherlands",
+                "logo": "https://media.api-sports.io/football/leagues/90.png",
+                "flag": "https://media.api-sports.io/flags/nl.svg",
+                "season": 2022,
+                "round": "Final"
+            },
+            "teams": {
+                "home": {
+                    "id": 194,
+                    "name": "Ajax",
+                    "logo": "https://media.api-sports.io/football/teams/194.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 197,
+                    "name": "PSV Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/197.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 2,
+                    "away": 3
+                }
+            }
+        }
+    ]
+}

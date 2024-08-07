@@ -1,0 +1,4299 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "league": "81",
+        "season": "2017"
+    },
+    "errors": [],
+    "results": 63,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 57399,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2018-05-19T18:00:00+00:00",
+                "timestamp": 1526752800,
+                "periods": {
+                    "first": 1526752800,
+                    "second": 1526756400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Olympiastadion Berlin (Berlin)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Final"
+            },
+            "teams": {
+                "home": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57400,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2018-04-18T18:45:00+00:00",
+                "timestamp": 1524077100,
+                "periods": {
+                    "first": 1524077100,
+                    "second": 1524080700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "VELTINS-Arena (Gelsenkirchen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57401,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2018-04-17T18:45:00+00:00",
+                "timestamp": 1523990700,
+                "periods": {
+                    "first": 1523990700,
+                    "second": 1523994300
+                },
+                "venue": {
+                    "id": null,
+                    "name": "BayArena (Leverkusen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 6
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 6
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57402,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2018-02-07T19:45:00+00:00",
+                "timestamp": 1518032700,
+                "periods": {
+                    "first": 1518032700,
+                    "second": 1518036300
+                },
+                "venue": {
+                    "id": null,
+                    "name": "VELTINS-Arena (Gelsenkirchen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57403,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2018-02-07T17:30:00+00:00",
+                "timestamp": 1518024600,
+                "periods": {
+                    "first": 1518024600,
+                    "second": 1518028200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Commerzbank-Arena (Frankfurt am Main)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57404,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2018-02-06T19:45:00+00:00",
+                "timestamp": 1517946300,
+                "periods": {
+                    "first": 1517946300,
+                    "second": 1517949900
+                },
+                "venue": {
+                    "id": null,
+                    "name": "BayArena (Leverkusen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 4,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57405,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2018-02-06T17:30:00+00:00",
+                "timestamp": 1517938200,
+                "periods": {
+                    "first": 1517938200,
+                    "second": 1517941800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Benteler-Arena (Paderborn)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 6
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 6
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57406,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2017-12-20T19:45:00+00:00",
+                "timestamp": 1513799100,
+                "periods": {
+                    "first": 1513799100,
+                    "second": 1513802700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Allianz Arena (M\u00fcnchen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "3rd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57407,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2017-12-20T19:45:00+00:00",
+                "timestamp": 1513799100,
+                "periods": {
+                    "first": 1513799100,
+                    "second": 1513802700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Voith-Arena (Heidenheim an der Brenz)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "3rd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 180,
+                    "name": "FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57408,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2017-12-20T17:30:00+00:00",
+                "timestamp": 1513791000,
+                "periods": {
+                    "first": 1513791000,
+                    "second": 1513794600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion im BORUSSIA-PARK (M\u00f6nchengladbach)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "3rd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57409,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2017-12-20T17:30:00+00:00",
+                "timestamp": 1513791000,
+                "periods": {
+                    "first": 1513791000,
+                    "second": 1513794600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weserstadion (Bremen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "3rd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57410,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2017-12-19T19:45:00+00:00",
+                "timestamp": 1513712700,
+                "periods": {
+                    "first": 1513712700,
+                    "second": 1513716300
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Max-Morlock-Stadion (N\u00fcrnberg)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "3rd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57411,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2017-12-19T19:45:00+00:00",
+                "timestamp": 1513712700,
+                "periods": {
+                    "first": 1513712700,
+                    "second": 1513716300
+                },
+                "venue": {
+                    "id": null,
+                    "name": "VELTINS-Arena (Gelsenkirchen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "3rd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57412,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2017-12-19T17:30:00+00:00",
+                "timestamp": 1513704600,
+                "periods": {
+                    "first": 1513704600,
+                    "second": 1513708200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "OPEL ARENA (Mainz)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "3rd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57413,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2017-12-19T17:30:00+00:00",
+                "timestamp": 1513704600,
+                "periods": {
+                    "first": 1513704600,
+                    "second": 1513708200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Benteler-Arena (Paderborn)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "3rd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 184,
+                    "name": "FC Ingolstadt 04",
+                    "logo": "https://media.api-sports.io/football/teams/184.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57414,
+                "referee": "Christian Dingert, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T18:45:00+00:00",
+                "timestamp": 1508957100,
+                "periods": {
+                    "first": 1508957100,
+                    "second": 1508960700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Continental Arena",
+                    "city": "Regensburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 177,
+                    "name": "Jahn Regensburg",
+                    "logo": "https://media.api-sports.io/football/teams/177.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 180,
+                    "name": "FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57415,
+                "referee": "Felix Zwayer, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T18:45:00+00:00",
+                "timestamp": 1508957100,
+                "periods": {
+                    "first": 1508957100,
+                    "second": 1508960700
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57416,
+                "referee": "Benjamin Brand, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T18:45:00+00:00",
+                "timestamp": 1508957100,
+                "periods": {
+                    "first": 1508957100,
+                    "second": 1508960700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Schwarzwald-Stadion",
+                    "city": "Freiburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 183,
+                    "name": "Dynamo Dresden",
+                    "logo": "https://media.api-sports.io/football/teams/183.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57417,
+                "referee": "Tobias Stieler, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T18:45:00+00:00",
+                "timestamp": 1508957100,
+                "periods": {
+                    "first": 1508957100,
+                    "second": 1508960700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weser-Stadion",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57418,
+                "referee": "Patrick Ittrich, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T16:30:00+00:00",
+                "timestamp": 1508949000,
+                "periods": {
+                    "first": 1508949000,
+                    "second": 1508952600
+                },
+                "venue": {
+                    "id": 728,
+                    "name": "Fritz-Walter-Stadion",
+                    "city": "Kaiserslautern"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 745,
+                    "name": "FC Kaiserslautern",
+                    "logo": "https://media.api-sports.io/football/teams/745.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57419,
+                "referee": "Marco Fritz, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T16:30:00+00:00",
+                "timestamp": 1508949000,
+                "periods": {
+                    "first": 1508949000,
+                    "second": 1508952600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Olympiastadion",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 159,
+                    "name": "Hertha Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/159.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57420,
+                "referee": "Bastian Dankert, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T16:30:00+00:00",
+                "timestamp": 1508949000,
+                "periods": {
+                    "first": 1508949000,
+                    "second": 1508952600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion an der Bremer Br\u00fccke",
+                    "city": "Osnabr\u00fcck"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1324,
+                    "name": "VfL Osnabruck",
+                    "logo": "https://media.api-sports.io/football/teams/1324.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57421,
+                "referee": "Felix Brych, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T16:30:00+00:00",
+                "timestamp": 1508949000,
+                "periods": {
+                    "first": 1508949000,
+                    "second": 1508952600
+                },
+                "venue": {
+                    "id": 752,
+                    "name": "Volkswagen Arena",
+                    "city": "Wolfsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 166,
+                    "name": "Hannover 96",
+                    "logo": "https://media.api-sports.io/football/teams/166.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57422,
+                "referee": "Daniel Siebert, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-24T18:45:00+00:00",
+                "timestamp": 1508870700,
+                "periods": {
+                    "first": 1508870700,
+                    "second": 1508874300
+                },
+                "venue": {
+                    "id": 733,
+                    "name": "MDCC-Arena",
+                    "city": "Magdeburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 179,
+                    "name": "FC Magdeburg",
+                    "logo": "https://media.api-sports.io/football/teams/179.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57423,
+                "referee": "Arne Aarnink, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-24T18:45:00+00:00",
+                "timestamp": 1508870700,
+                "periods": {
+                    "first": 1508870700,
+                    "second": 1508874300
+                },
+                "venue": {
+                    "id": 742,
+                    "name": "Willy-Sachs-Stadion",
+                    "city": "Schweinfurt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1635,
+                    "name": "FC Schweinfurt 05",
+                    "logo": "https://media.api-sports.io/football/teams/1635.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57424,
+                "referee": "Daniel Schlager, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-24T18:45:00+00:00",
+                "timestamp": 1508870700,
+                "periods": {
+                    "first": 1508870700,
+                    "second": 1508874300
+                },
+                "venue": {
+                    "id": 717,
+                    "name": "Opel Arena",
+                    "city": "Mainz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57425,
+                "referee": "Harm Osmers, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-24T18:45:00+00:00",
+                "timestamp": 1508870700,
+                "periods": {
+                    "first": 1508870700,
+                    "second": 1508874300
+                },
+                "venue": {
+                    "id": 718,
+                    "name": "Sportpark Ronhof Thomas Sommer",
+                    "city": "Furth"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 178,
+                    "name": "SpVgg Greuther Furth",
+                    "logo": "https://media.api-sports.io/football/teams/178.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 184,
+                    "name": "FC Ingolstadt 04",
+                    "logo": "https://media.api-sports.io/football/teams/184.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57426,
+                "referee": "Frank Willenborg, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-24T16:30:00+00:00",
+                "timestamp": 1508862600,
+                "periods": {
+                    "first": 1508862600,
+                    "second": 1508866200
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57427,
+                "referee": "Manuel Gr\u00e4fe, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-24T16:30:00+00:00",
+                "timestamp": 1508862600,
+                "periods": {
+                    "first": 1508862600,
+                    "second": 1508866200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Merkur Spielarena",
+                    "city": "Dusseldorf"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 158,
+                    "name": "Fortuna Dusseldorf",
+                    "logo": "https://media.api-sports.io/football/teams/158.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57428,
+                "referee": "Sascha Stegemann, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-24T16:30:00+00:00",
+                "timestamp": 1508862600,
+                "periods": {
+                    "first": 1508862600,
+                    "second": 1508866200
+                },
+                "venue": {
+                    "id": 736,
+                    "name": "Benteler-Arena",
+                    "city": "Paderborn"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57429,
+                "referee": "Sven Jablonski, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-24T16:30:00+00:00",
+                "timestamp": 1508862600,
+                "periods": {
+                    "first": 1508862600,
+                    "second": 1508866200
+                },
+                "venue": {
+                    "id": 753,
+                    "name": "Brita Arena",
+                    "city": "Wiesbaden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1319,
+                    "name": "SV Wehen",
+                    "logo": "https://media.api-sports.io/football/teams/1319.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57430,
+                "referee": "Robert Hartmann, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-14T18:45:00+00:00",
+                "timestamp": 1502736300,
+                "periods": {
+                    "first": 1502736300,
+                    "second": 1502739900
+                },
+                "venue": {
+                    "id": 722,
+                    "name": "Ostseestadion",
+                    "city": "Rostock"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1321,
+                    "name": "Hansa Rostock",
+                    "logo": "https://media.api-sports.io/football/teams/1321.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 159,
+                    "name": "Hertha Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/159.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57431,
+                "referee": "Arne Aarnink, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-14T16:30:00+00:00",
+                "timestamp": 1502728200,
+                "periods": {
+                    "first": 1502728200,
+                    "second": 1502731800
+                },
+                "venue": {
+                    "id": 701,
+                    "name": "Friedrich-Ludwig-Jahn Sportpark",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1636,
+                    "name": "BFC Dynamo",
+                    "logo": "https://media.api-sports.io/football/teams/1636.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57432,
+                "referee": "Christian Dingert, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-14T16:30:00+00:00",
+                "timestamp": 1502728200,
+                "periods": {
+                    "first": 1502728200,
+                    "second": 1502731800
+                },
+                "venue": {
+                    "id": 730,
+                    "name": "Schauinsland-Reisen-Arena",
+                    "city": "Duisburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 187,
+                    "name": "MSV Duisburg",
+                    "logo": "https://media.api-sports.io/football/teams/187.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57433,
+                "referee": "Sven Jablonski, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-14T16:30:00+00:00",
+                "timestamp": 1502728200,
+                "periods": {
+                    "first": 1502728200,
+                    "second": 1502731800
+                },
+                "venue": {
+                    "id": 736,
+                    "name": "Benteler-Arena",
+                    "city": "Paderborn"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57434,
+                "referee": "Benjamin Cortus, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T16:30:00+00:00",
+                "timestamp": 1502641800,
+                "periods": {
+                    "first": 1502641800,
+                    "second": 1502645400
+                },
+                "venue": {
+                    "id": 711,
+                    "name": "Stadion der Freundschaft",
+                    "city": "Cottbus"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1320,
+                    "name": "Energie Cottbus",
+                    "logo": "https://media.api-sports.io/football/teams/1320.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": 3,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57435,
+                "referee": "Guido Winkmann, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T16:30:00+00:00",
+                "timestamp": 1502641800,
+                "periods": {
+                    "first": 1502641800,
+                    "second": 1502645400
+                },
+                "venue": {
+                    "id": 733,
+                    "name": "MDCC-Arena",
+                    "city": "Magdeburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 179,
+                    "name": "FC Magdeburg",
+                    "logo": "https://media.api-sports.io/football/teams/179.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57436,
+                "referee": "Frank Willenborg, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T16:30:00+00:00",
+                "timestamp": 1502641800,
+                "periods": {
+                    "first": 1502641800,
+                    "second": 1502645400
+                },
+                "venue": {
+                    "id": 753,
+                    "name": "Brita Arena",
+                    "city": "Wiesbaden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1319,
+                    "name": "SV Wehen",
+                    "logo": "https://media.api-sports.io/football/teams/1319.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 190,
+                    "name": "Erzgebirge Aue",
+                    "logo": "https://media.api-sports.io/football/teams/190.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57437,
+                "referee": "Daniel Schlager, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": 2700,
+                    "name": "Sportpark Nord",
+                    "city": "Bonn"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1637,
+                    "name": "Bonner SC",
+                    "logo": "https://media.api-sports.io/football/teams/1637.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 166,
+                    "name": "Hannover 96",
+                    "logo": "https://media.api-sports.io/football/teams/166.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 6
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 6
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57438,
+                "referee": "Lasse Koslowski, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": 2702,
+                    "name": "Edmund-Plambeck-Stadion",
+                    "city": "Norderstedt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1631,
+                    "name": "Eintracht Norderstedt",
+                    "logo": "https://media.api-sports.io/football/teams/1631.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57439,
+                "referee": "Robert Schroder, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": 729,
+                    "name": "Wildparkstadion",
+                    "city": "Karlsruhe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1638,
+                    "name": "FC Nottingen",
+                    "logo": "https://media.api-sports.io/football/teams/1638.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57440,
+                "referee": "S\u00f6ren Storks, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": 2726,
+                    "name": "Hermann-Neuberger-Stadion",
+                    "city": "Volklingen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1639,
+                    "name": "FC Saarbrucken",
+                    "logo": "https://media.api-sports.io/football/teams/1639.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57441,
+                "referee": "Robert Kampka, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": 742,
+                    "name": "Willy-Sachs-Stadion",
+                    "city": "Schweinfurt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1635,
+                    "name": "FC Schweinfurt 05",
+                    "logo": "https://media.api-sports.io/football/teams/1635.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 189,
+                    "name": "SV Sandhausen",
+                    "logo": "https://media.api-sports.io/football/teams/189.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57442,
+                "referee": "Florian Badstubner, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Scholz Arena",
+                    "city": "Aalen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1640,
+                    "name": "Sportfreunde Dorfmerkingen",
+                    "logo": "https://media.api-sports.io/football/teams/1640.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57443,
+                "referee": "Robert Kempter, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": 6470,
+                    "name": "Sportpark Husterhohe",
+                    "city": "Pirmasens"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1641,
+                    "name": "Sv Morlautern",
+                    "logo": "https://media.api-sports.io/football/teams/1641.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 178,
+                    "name": "SpVgg Greuther Furth",
+                    "logo": "https://media.api-sports.io/football/teams/178.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57444,
+                "referee": "Tobias Stieler, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Gr\u00fcnwalder Stadion",
+                    "city": "M\u00fcnchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 786,
+                    "name": "TSV 1860 Munich",
+                    "logo": "https://media.api-sports.io/football/teams/786.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 184,
+                    "name": "FC Ingolstadt 04",
+                    "logo": "https://media.api-sports.io/football/teams/184.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57445,
+                "referee": "Deniz Aytekin, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-13T13:30:00+00:00",
+                "timestamp": 1502631000,
+                "periods": {
+                    "first": 1502631000,
+                    "second": 1502634600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion an der Bremer Br\u00fccke",
+                    "city": "Osnabr\u00fcck"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1324,
+                    "name": "VfL Osnabruck",
+                    "logo": "https://media.api-sports.io/football/teams/1324.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 175,
+                    "name": "Hamburger SV",
+                    "logo": "https://media.api-sports.io/football/teams/175.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57446,
+                "referee": "Sascha Stegemann, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T18:45:00+00:00",
+                "timestamp": 1502563500,
+                "periods": {
+                    "first": 1502563500,
+                    "second": 1502567100
+                },
+                "venue": {
+                    "id": 2710,
+                    "name": "Sparda-Bank-Hessen-Stadion",
+                    "city": "Offenbach"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 784,
+                    "name": "FC Wurzburger Kickers",
+                    "logo": "https://media.api-sports.io/football/teams/784.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57447,
+                "referee": "Harm Osmers, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T16:30:00+00:00",
+                "timestamp": 1502555400,
+                "periods": {
+                    "first": 1502555400,
+                    "second": 1502559000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sch\u00fcco-Arena",
+                    "city": "Bielefeld"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 158,
+                    "name": "Fortuna Dusseldorf",
+                    "logo": "https://media.api-sports.io/football/teams/158.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57448,
+                "referee": "Martin Petersen, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T16:30:00+00:00",
+                "timestamp": 1502555400,
+                "periods": {
+                    "first": 1502555400,
+                    "second": 1502559000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Continental Arena",
+                    "city": "Regensburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 177,
+                    "name": "Jahn Regensburg",
+                    "logo": "https://media.api-sports.io/football/teams/177.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 181,
+                    "name": "SV Darmstadt 98",
+                    "logo": "https://media.api-sports.io/football/teams/181.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57449,
+                "referee": "Daniel Siebert, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T16:30:00+00:00",
+                "timestamp": 1502555400,
+                "periods": {
+                    "first": 1502555400,
+                    "second": 1502559000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Steigerwald-Stadion",
+                    "city": "Erfurt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1329,
+                    "name": "Rot-weiss Erfurt",
+                    "logo": "https://media.api-sports.io/football/teams/1329.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57450,
+                "referee": "Bibiana Steinhaus, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T13:30:00+00:00",
+                "timestamp": 1502544600,
+                "periods": {
+                    "first": 1502544600,
+                    "second": 1502548200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion an der Gellertstra\u00dfe",
+                    "city": "Chemnitz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1328,
+                    "name": "Chemnitzer FC",
+                    "logo": "https://media.api-sports.io/football/teams/1328.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57451,
+                "referee": "Christian Dietz, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T13:30:00+00:00",
+                "timestamp": 1502544600,
+                "periods": {
+                    "first": 1502544600,
+                    "second": 1502548200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Schwarzwald-Stadion",
+                    "city": "Freiburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1642,
+                    "name": "FC Rielasingen-Arlen",
+                    "logo": "https://media.api-sports.io/football/teams/1642.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57452,
+                "referee": "Christof Gunsch, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T13:30:00+00:00",
+                "timestamp": 1502544600,
+                "periods": {
+                    "first": 1502544600,
+                    "second": 1502548200
+                },
+                "venue": {
+                    "id": 2703,
+                    "name": "Friedensstadion",
+                    "city": "Halberstadt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1643,
+                    "name": "Germania Halberstadt",
+                    "logo": "https://media.api-sports.io/football/teams/1643.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57453,
+                "referee": "Rene Rohde, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T13:30:00+00:00",
+                "timestamp": 1502544600,
+                "periods": {
+                    "first": 1502544600,
+                    "second": 1502548200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Nordsee-Stadion",
+                    "city": "Bremerhaven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1644,
+                    "name": "Leher",
+                    "logo": "https://media.api-sports.io/football/teams/1644.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57454,
+                "referee": "Sven Jablonski, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T13:30:00+00:00",
+                "timestamp": 1502544600,
+                "periods": {
+                    "first": 1502544600,
+                    "second": 1502548200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Sportanlage S\u00fclzwiesen",
+                    "city": "Luneburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1645,
+                    "name": "Luneburger SK Hansa",
+                    "logo": "https://media.api-sports.io/football/teams/1645.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57455,
+                "referee": "Timo Gerach, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T13:30:00+00:00",
+                "timestamp": 1502544600,
+                "periods": {
+                    "first": 1502544600,
+                    "second": 1502548200
+                },
+                "venue": {
+                    "id": 749,
+                    "name": "Alpenbauer Sportpark",
+                    "city": "Unterhaching"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1314,
+                    "name": "SpVgg Unterhaching",
+                    "logo": "https://media.api-sports.io/football/teams/1314.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 180,
+                    "name": "FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57456,
+                "referee": "Sven Waschitzki, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T13:30:00+00:00",
+                "timestamp": 1502544600,
+                "periods": {
+                    "first": 1502544600,
+                    "second": 1502548200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Lohm\u00fchle",
+                    "city": "Lubeck"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1646,
+                    "name": "SV Eichede",
+                    "logo": "https://media.api-sports.io/football/teams/1646.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 745,
+                    "name": "FC Kaiserslautern",
+                    "logo": "https://media.api-sports.io/football/teams/745.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57457,
+                "referee": "Benedikt Kempkes, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-12T13:30:00+00:00",
+                "timestamp": 1502544600,
+                "periods": {
+                    "first": 1502544600,
+                    "second": 1502548200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Leimbach Stadion",
+                    "city": "Siegen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1647,
+                    "name": "TuS Erndtebruck",
+                    "logo": "https://media.api-sports.io/football/teams/1647.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57458,
+                "referee": "Guido Winkmann, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-11T18:45:00+00:00",
+                "timestamp": 1502477100,
+                "periods": {
+                    "first": 1502477100,
+                    "second": 1502480700
+                },
+                "venue": {
+                    "id": 725,
+                    "name": "Holstein-Stadion",
+                    "city": "Kiel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 744,
+                    "name": "Eintracht Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/744.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57459,
+                "referee": "Robert Hartmann, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-11T18:45:00+00:00",
+                "timestamp": 1502477100,
+                "periods": {
+                    "first": 1502477100,
+                    "second": 1502480700
+                },
+                "venue": {
+                    "id": 729,
+                    "name": "Wildparkstadion",
+                    "city": "Karlsruhe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 785,
+                    "name": "Karlsruher SC",
+                    "logo": "https://media.api-sports.io/football/teams/785.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57460,
+                "referee": "Patrick Ittrich, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-11T18:45:00+00:00",
+                "timestamp": 1502477100,
+                "periods": {
+                    "first": 1502477100,
+                    "second": 1502480700
+                },
+                "venue": {
+                    "id": 2704,
+                    "name": "Stadion Essen",
+                    "city": "Essen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1621,
+                    "name": "Rot-weiss Essen",
+                    "logo": "https://media.api-sports.io/football/teams/1621.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57461,
+                "referee": "Markus Schmidt, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-11T17:00:00+00:00",
+                "timestamp": 1502470800,
+                "periods": {
+                    "first": 1502470800,
+                    "second": 1502474400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadion Zwickau",
+                    "city": "Zwickau"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1648,
+                    "name": "TuS Koblenz",
+                    "logo": "https://media.api-sports.io/football/teams/1648.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 183,
+                    "name": "Dynamo Dresden",
+                    "logo": "https://media.api-sports.io/football/teams/183.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}
