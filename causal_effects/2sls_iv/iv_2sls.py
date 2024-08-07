@@ -10,8 +10,7 @@ project_root = project_root()
 
 
 def load_processed_data(country, cup):
-    project_root = project_root()
-    file_path = os.path.join(project_root, 'data/process_data', country, f'{cup}_processed.csv')
+    file_path = os.path.join(project_root(), 'data/process_data', country, f'{cup}_processed.csv')
     return pd.read_csv(file_path)
 
 
