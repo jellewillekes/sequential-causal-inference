@@ -5,32 +5,38 @@ England:
     season_start: 2011
     season_end: 2023
     data_types: [standings, fixtures]
+    transfermarkt_name: [premier-league, GB1]
   Championship:
     id: 40
     division: 2
     season_start: 2011
     season_end: 2023
     data_types: [standings, fixtures]
+    transfermarkt_name: [championship, GB2]
   League_One:
     id: 41
     division: 3
     season_start: 2011
     season_end: 2023
     data_types: [standings, fixtures]
+    transfermarkt_name: [league-one, GB3]
   League_Two:
     id: 42
     division: 4
     season_start: 2011
     season_end: 2023
     data_types: [standings, fixtures]
+    transfermarkt_name: [league-two, GB4]
   FA_Cup:
     id: 45
     season_start: 2011
     season_end: 2023
     data_types: [fixtures]
+    transfermarkt_name: none
   League_Cup:
     id: 48
     season_start: 2011
     season_end: 2023
     data_types: [fixtures]
+    transfermarkt_name: none
 
