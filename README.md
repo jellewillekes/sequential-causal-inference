@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to contribute to existing models by developing and integrating methodologies for sequential causal inference, particularly focusing on sequential treatments and randomization while addressing both linear and nonlinear relationships between the treatment variable and the outcome variable. By combining the Factorial IV framework and Causal Random Forests, we aim to provide robust and flexible tools for sequential causal inference. As a practical application, we analyze the causal effects of participating in domestic cup competitions on a team's performance in the league and in subsequent matches.
+This project aims to contribute to existing models by developing and integrating methodologies for sequential causal inference, particularly focusing on sequential treatments and randomization while addressing both linear and nonlinear relationships between the treatment variable and the outcome variable. By combining the Factorial IV framework and Causal Random Forests, we aim to provide robust and flexible tools for sequential causal inference. As a practical application, we analyze the causal effects of participating in domestic cup competitions on a team's performance in the league and in subsequent fixtures.
 
 ## Analysis Components
 
@@ -30,7 +30,7 @@ To determine the impact of playing in domestic cup competitions on both long-ter
 ### 2. Factorial IV Framework for Sequential Treatment and Randomization
 
 **Objective:**
-To utilize the factorial IV approach for sequential treatments, accounting for noncompliance in a setup where the treatment is the outcome of matches in each round.
+To utilize the factorial IV approach for sequential treatments, accounting for noncompliance in a setup where the treatment is the outcome of fixtures in each round.
 
 **Key Components:**
 - **Treatment Assignment (Z1, Z2):** Rank difference and binary indicator of opponent faced in each round.
@@ -63,10 +63,54 @@ To leverage Causal Random Forests for non-parametric estimation of heterogeneous
 **Note:** Causal Random Forests do not assume a linear relationship, making them capable of capturing complex, nonlinear interactions between treatment and outcome.
 
 ## Loading the Data
-Exploring how success in cup games (like FA Cup) influences league results. Using the random draw of cup matches, our study covers teams across all divisions, aiming to guide clubs in balancing competition commitments with league performance.
 
-1. Run raw_data/loader.py for country
-2. Run cup_analysis.py
-3. Run league_analysis.py
-4. Run financial_data/loader.py
-5. Run distance_data/loader.py
+Getting started with loading and preprocessing the data for this analysis is straightforward. Follow the steps below to set up the data for evaluating the impact of cup games on league performance.
+
+### Supported Countries and Cups
+
+<div align="center">
+
+#### **Countries and Their Cups**
+- ![#4CAF50](https://via.placeholder.com/15/4CAF50/000000?text=+) `England`
+  - ![#FF5722](https://via.placeholder.com/15/FF5722/000000?text=+) `FA_Cup`
+  - ![#795548](https://via.placeholder.com/15/795548/000000?text=+) `League_Cup`
+- ![#2196F3](https://via.placeholder.com/15/2196F3/000000?text=+) `Germany`
+  - ![#9C27B0](https://via.placeholder.com/15/9C27B0/000000?text=+) `DFB_Pokal`
+- ![#FFC107](https://via.placeholder.com/15/FFC107/000000?text=+) `Netherlands`
+  - ![#607D8B](https://via.placeholder.com/15/607D8B/000000?text=+) `KNVB_Beker`
+
+</div>
+
+### Steps
+
+1. **Fetch Raw Data**:
+    ```bash
+    python main.py request_raw_data <country>
+    ```
+    Replace `<country>` with the desired country name from the supported list (England, Germany, Netherlands) to download the initial raw data.
+
+    **Example**:
+    ```bash
+    python main.py request_raw_data Germany
+    ```
+
+2. **Preprocess Data**:
+    ```bash
+    python main.py preprocess_data <country> <cup>
+    ```
+    Replace `<country>` with the country name and `<cup>` with the cup competition name from the supported list paired above to preprocess the data for analysis.
+
+    **Example**:
+    ```bash
+    python main.py preprocess_data Germany DFB_Pokal
+    ```
+
+These commands will handle all necessary steps:
+- **Fetch raw data**: Downloads the data specific to the country.
+- **Analyze Cup Data**: Processes cup competition data.
+- **Analyze League Data**: Processes league standings and fixtures data.
+- **Load Financial Data**: Gathers financial information of the teams.
+- **Calculate Distances**: Computes travel distances for fixtures.
+- **Combine Data**: Merges all data sources into a dataset ready for analysis.
+
+

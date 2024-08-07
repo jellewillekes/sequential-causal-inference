@@ -25,12 +25,6 @@ def load_league_mappings(country):
     return league_mappings.get(country)
 
 
-def load_stages(country):
-    # Load the stage order from the YAML file
-    with open(os.path.join(get_project_root(), 'settings', 'stages.yaml'), 'r') as file:
-        stages_data = yaml.safe_load(file)
-    return stages_data.get(country)
-
 
 def request_data(country, league_name, league_id, season, request_counter, start_time):
     if request_counter >= 10:
