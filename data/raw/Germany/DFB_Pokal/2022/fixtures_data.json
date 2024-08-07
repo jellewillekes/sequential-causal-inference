@@ -1,0 +1,4299 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "league": "81",
+        "season": "2022"
+    },
+    "errors": [],
+    "results": 63,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 864317,
+                "referee": "F. Brych",
+                "timezone": "UTC",
+                "date": "2022-07-30T13:31:00+00:00",
+                "timestamp": 1659187860,
+                "periods": {
+                    "first": 1659187860,
+                    "second": 1659191460
+                },
+                "venue": {
+                    "id": 10490,
+                    "name": "Jahnstadion Regensburg",
+                    "city": "Regensburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 177,
+                    "name": "Jahn Regensburg",
+                    "logo": "https://media.api-sports.io/football/teams/177.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864318,
+                "referee": "W. Haslberger",
+                "timezone": "UTC",
+                "date": "2022-07-31T13:31:00+00:00",
+                "timestamp": 1659274260,
+                "periods": {
+                    "first": 1659274260,
+                    "second": 1659277860
+                },
+                "venue": {
+                    "id": 1880,
+                    "name": "Stadion Oberwerth",
+                    "city": "Koblenz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12767,
+                    "name": "FV Engers 07",
+                    "logo": "https://media.api-sports.io/football/teams/12767.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 7
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 7
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864319,
+                "referee": "A. Aarnink",
+                "timezone": "UTC",
+                "date": "2022-07-30T13:31:00+00:00",
+                "timestamp": 1659187860,
+                "periods": {
+                    "first": 1659187860,
+                    "second": 1659191460
+                },
+                "venue": {
+                    "id": 10508,
+                    "name": "Dietmar-Scholze-Stadion an der Lohm\u00fchle",
+                    "city": "L\u00fcbeck"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1625,
+                    "name": "VfB Lubeck",
+                    "logo": "https://media.api-sports.io/football/teams/1625.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1321,
+                    "name": "Hansa Rostock",
+                    "logo": "https://media.api-sports.io/football/teams/1321.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864320,
+                "referee": "R. Kampka",
+                "timezone": "UTC",
+                "date": "2022-07-29T16:00:00+00:00",
+                "timestamp": 1659110400,
+                "periods": {
+                    "first": 1659110400,
+                    "second": 1659114000
+                },
+                "venue": {
+                    "id": 8634,
+                    "name": "Leimbachstadion",
+                    "city": "Siegen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12799,
+                    "name": "Kaan-Marienborn",
+                    "logo": "https://media.api-sports.io/football/teams/12799.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864321,
+                "referee": "F. Exner",
+                "timezone": "UTC",
+                "date": "2022-07-31T13:31:00+00:00",
+                "timestamp": 1659274260,
+                "periods": {
+                    "first": 1659274260,
+                    "second": 1659277860
+                },
+                "venue": {
+                    "id": 2728,
+                    "name": "Stadion am Bruchweg",
+                    "city": "Mainz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 14524,
+                    "name": "Schott Mainz",
+                    "logo": "https://media.api-sports.io/football/teams/14524.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 166,
+                    "name": "Hannover 96",
+                    "logo": "https://media.api-sports.io/football/teams/166.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864322,
+                "referee": "K. Oldhfer",
+                "timezone": "UTC",
+                "date": "2022-07-29T16:00:00+00:00",
+                "timestamp": 1659110400,
+                "periods": {
+                    "first": 1659110400,
+                    "second": 1659114000
+                },
+                "venue": {
+                    "id": 8171,
+                    "name": "Parkstadion",
+                    "city": "Neustrelitz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12820,
+                    "name": "Neustrelitz",
+                    "logo": "https://media.api-sports.io/football/teams/12820.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 785,
+                    "name": "Karlsruher SC",
+                    "logo": "https://media.api-sports.io/football/teams/785.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 8
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 8
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864323,
+                "referee": "H. Osmers",
+                "timezone": "UTC",
+                "date": "2022-08-30T18:46:00+00:00",
+                "timestamp": 1661885160,
+                "periods": {
+                    "first": 1661885160,
+                    "second": 1661888760
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12878,
+                    "name": "Teutonia Ottensen",
+                    "logo": "https://media.api-sports.io/football/teams/12878.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 8
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 8
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864324,
+                "referee": "F. Badst\u00fcbner",
+                "timezone": "UTC",
+                "date": "2022-07-29T16:00:00+00:00",
+                "timestamp": 1659110400,
+                "periods": {
+                    "first": 1659110400,
+                    "second": 1659114000
+                },
+                "venue": {
+                    "id": 707,
+                    "name": "Rudolf-Harbig-Stadion",
+                    "city": "Dresden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 183,
+                    "name": "Dynamo Dresden",
+                    "logo": "https://media.api-sports.io/football/teams/183.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864325,
+                "referee": "P. Alt",
+                "timezone": "UTC",
+                "date": "2022-07-30T11:01:00+00:00",
+                "timestamp": 1659178860,
+                "periods": {
+                    "first": 1659178860,
+                    "second": 1659182460
+                },
+                "venue": {
+                    "id": 701,
+                    "name": "Friedrich-Ludwig-Jahn-Sportpark",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 4266,
+                    "name": "Viktoria Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/4266.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864326,
+                "referee": "B. Dankert",
+                "timezone": "UTC",
+                "date": "2022-08-01T16:01:00+00:00",
+                "timestamp": 1659369660,
+                "periods": {
+                    "first": 1659369660,
+                    "second": 1659373260
+                },
+                "venue": {
+                    "id": 2701,
+                    "name": "Stadion Chemnitz",
+                    "city": "Chemnitz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1328,
+                    "name": "Chemnitzer FC",
+                    "logo": "https://media.api-sports.io/football/teams/1328.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864327,
+                "referee": "M. Petersen",
+                "timezone": "UTC",
+                "date": "2022-07-30T13:31:00+00:00",
+                "timestamp": 1659187860,
+                "periods": {
+                    "first": 1659187860,
+                    "second": 1659191460
+                },
+                "venue": {
+                    "id": 710,
+                    "name": "URSAPHARM-Arena an der Kaiserlinde",
+                    "city": "Spiesen-Elversberg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1660,
+                    "name": "SV Elversberg",
+                    "logo": "https://media.api-sports.io/football/teams/1660.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864328,
+                "referee": "F. Lechner",
+                "timezone": "UTC",
+                "date": "2022-07-31T11:01:00+00:00",
+                "timestamp": 1659265260,
+                "periods": {
+                    "first": 1659265260,
+                    "second": 1659268860
+                },
+                "venue": {
+                    "id": 6452,
+                    "name": "Sportplatz Waldsportst\u00e4tten",
+                    "city": "Rehden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9345,
+                    "name": "Schwarz-Wei\u00df Rehden",
+                    "logo": "https://media.api-sports.io/football/teams/9345.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 189,
+                    "name": "SV Sandhausen",
+                    "logo": "https://media.api-sports.io/football/teams/189.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864329,
+                "referee": "R. Hempel",
+                "timezone": "UTC",
+                "date": "2022-07-30T13:31:00+00:00",
+                "timestamp": 1659187860,
+                "periods": {
+                    "first": 1659187860,
+                    "second": 1659191460
+                },
+                "venue": {
+                    "id": 18875,
+                    "name": "Stadion im Sportforum Kohlgarten",
+                    "city": "Wernigerode"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 17035,
+                    "name": "Einheit Wernigerode",
+                    "logo": "https://media.api-sports.io/football/teams/17035.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 10
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 10
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864330,
+                "referee": "R. Braun",
+                "timezone": "UTC",
+                "date": "2022-07-31T13:31:00+00:00",
+                "timestamp": 1659274260,
+                "periods": {
+                    "first": 1659274260,
+                    "second": 1659277860
+                },
+                "venue": {
+                    "id": 1791,
+                    "name": "H\u00e4cker Wiehenstadion",
+                    "city": "R\u00f6dinghausen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1650,
+                    "name": "SV Rodinghausen",
+                    "logo": "https://media.api-sports.io/football/teams/1650.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864331,
+                "referee": "M. Fritz",
+                "timezone": "UTC",
+                "date": "2022-07-30T13:31:00+00:00",
+                "timestamp": 1659187860,
+                "periods": {
+                    "first": 1659187860,
+                    "second": 1659191460
+                },
+                "venue": {
+                    "id": 6438,
+                    "name": "V\u00f6hlin-Stadion",
+                    "city": "Illertissen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9330,
+                    "name": "Illertissen",
+                    "logo": "https://media.api-sports.io/football/teams/9330.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 180,
+                    "name": "FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864332,
+                "referee": "B. Cortus",
+                "timezone": "UTC",
+                "date": "2022-07-30T16:01:00+00:00",
+                "timestamp": 1659196860,
+                "periods": {
+                    "first": 1659196860,
+                    "second": 1659200460
+                },
+                "venue": {
+                    "id": 2710,
+                    "name": "Sparda-Bank-Hessen-Stadion",
+                    "city": "Offenbach"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1628,
+                    "name": "Kickers Offenbach",
+                    "logo": "https://media.api-sports.io/football/teams/1628.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 158,
+                    "name": "Fortuna Dusseldorf",
+                    "logo": "https://media.api-sports.io/football/teams/158.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864333,
+                "referee": "T. Stieler",
+                "timezone": "UTC",
+                "date": "2022-07-31T16:01:00+00:00",
+                "timestamp": 1659283260,
+                "periods": {
+                    "first": 1659283260,
+                    "second": 1659286860
+                },
+                "venue": {
+                    "id": 708,
+                    "name": "Eintracht-Stadion",
+                    "city": "Braunschweig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 744,
+                    "name": "Eintracht Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/744.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 159,
+                    "name": "Hertha Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/159.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": 6,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864334,
+                "referee": "B. Brand",
+                "timezone": "UTC",
+                "date": "2022-07-29T18:45:00+00:00",
+                "timestamp": 1659120300,
+                "periods": {
+                    "first": 1659120300,
+                    "second": 1659123900
+                },
+                "venue": {
+                    "id": 695,
+                    "name": "St\u00e4dtisches Stadion an der Gr\u00fcnwalder Stra\u00dfe",
+                    "city": "M\u00fcnchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 786,
+                    "name": "TSV 1860 Munich",
+                    "logo": "https://media.api-sports.io/football/teams/786.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864335,
+                "referee": "J. Jablonksi",
+                "timezone": "UTC",
+                "date": "2022-07-31T13:31:00+00:00",
+                "timestamp": 1659274260,
+                "periods": {
+                    "first": 1659274260,
+                    "second": 1659277860
+                },
+                "venue": {
+                    "id": 728,
+                    "name": "Fritz-Walter-Stadion",
+                    "city": "Kaiserslautern"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 745,
+                    "name": "FC Kaiserslautern",
+                    "logo": "https://media.api-sports.io/football/teams/745.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864336,
+                "referee": "N. Winter",
+                "timezone": "UTC",
+                "date": "2022-07-31T13:31:00+00:00",
+                "timestamp": 1659274260,
+                "periods": {
+                    "first": 1659274260,
+                    "second": 1659277860
+                },
+                "venue": {
+                    "id": 12274,
+                    "name": "Dreisamstadion",
+                    "city": "Freiburg im Breisgau"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12822,
+                    "name": "Oberachern",
+                    "logo": "https://media.api-sports.io/football/teams/12822.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 9
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 6
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 9
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864337,
+                "referee": "R. Hartmann",
+                "timezone": "UTC",
+                "date": "2022-08-01T16:01:00+00:00",
+                "timestamp": 1659369660,
+                "periods": {
+                    "first": 1659369660,
+                    "second": 1659373260
+                },
+                "venue": {
+                    "id": 726,
+                    "name": "Audi-Sportpark",
+                    "city": "Ingolstadt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 184,
+                    "name": "FC Ingolstadt 04",
+                    "logo": "https://media.api-sports.io/football/teams/184.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 181,
+                    "name": "SV Darmstadt 98",
+                    "logo": "https://media.api-sports.io/football/teams/181.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864338,
+                "referee": "T. Reichel",
+                "timezone": "UTC",
+                "date": "2022-07-31T16:01:00+00:00",
+                "timestamp": 1659283260,
+                "periods": {
+                    "first": 1659283260,
+                    "second": 1659286860
+                },
+                "venue": {
+                    "id": 3263,
+                    "name": "Carl-Benz-Stadion",
+                    "city": "Mannheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 4268,
+                    "name": "Waldhof Mannheim",
+                    "logo": "https://media.api-sports.io/football/teams/4268.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 5,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864339,
+                "referee": "S. Waschitzki",
+                "timezone": "UTC",
+                "date": "2022-07-31T13:31:00+00:00",
+                "timestamp": 1659274260,
+                "periods": {
+                    "first": 1659274260,
+                    "second": 1659277860
+                },
+                "venue": {
+                    "id": 10695,
+                    "name": "Heinz-Dettmer-Stadion",
+                    "city": "Lohne"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 14629,
+                    "name": "BW Lohne",
+                    "logo": "https://media.api-sports.io/football/teams/14629.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864340,
+                "referee": "T. Bauer",
+                "timezone": "UTC",
+                "date": "2022-07-30T11:01:00+00:00",
+                "timestamp": 1659178860,
+                "periods": {
+                    "first": 1659178860,
+                    "second": 1659182460
+                },
+                "venue": {
+                    "id": 730,
+                    "name": "Schauinsland-Reisen-Arena",
+                    "city": "Duisburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12862,
+                    "name": "Straelen",
+                    "logo": "https://media.api-sports.io/football/teams/12862.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864341,
+                "referee": "M. Bacher",
+                "timezone": "UTC",
+                "date": "2022-07-30T13:31:00+00:00",
+                "timestamp": 1659187860,
+                "periods": {
+                    "first": 1659187860,
+                    "second": 1659191460
+                },
+                "venue": {
+                    "id": 6433,
+                    "name": "Hans-Walter-Wild-Stadion",
+                    "city": "Bayreuth"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9325,
+                    "name": "Bayreuth",
+                    "logo": "https://media.api-sports.io/football/teams/9325.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 175,
+                    "name": "Hamburger SV",
+                    "logo": "https://media.api-sports.io/football/teams/175.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864342,
+                "referee": "D. Aytekin",
+                "timezone": "UTC",
+                "date": "2022-07-31T16:01:00+00:00",
+                "timestamp": 1659283260,
+                "periods": {
+                    "first": 1659283260,
+                    "second": 1659286860
+                },
+                "venue": {
+                    "id": 712,
+                    "name": "Erzgebirgsstadion",
+                    "city": "Aue"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 190,
+                    "name": "Erzgebirge AUE",
+                    "logo": "https://media.api-sports.io/football/teams/190.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864343,
+                "referee": "D. Siebert",
+                "timezone": "UTC",
+                "date": "2022-08-01T16:01:00+00:00",
+                "timestamp": 1659369660,
+                "periods": {
+                    "first": 1659369660,
+                    "second": 1659373260
+                },
+                "venue": {
+                    "id": 711,
+                    "name": "Stadion der Freundschaft",
+                    "city": "Cottbus"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1320,
+                    "name": "Energie Cottbus",
+                    "logo": "https://media.api-sports.io/football/teams/1320.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864344,
+                "referee": "P. Hanslbauer",
+                "timezone": "UTC",
+                "date": "2022-07-31T11:01:00+00:00",
+                "timestamp": 1659265260,
+                "periods": {
+                    "first": 1659265260,
+                    "second": 1659268860
+                },
+                "venue": {
+                    "id": 6453,
+                    "name": "Marschwegstadion",
+                    "city": "Oldenburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1630,
+                    "name": "Bremer Sv",
+                    "logo": "https://media.api-sports.io/football/teams/1630.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864345,
+                "referee": "F. Heft",
+                "timezone": "UTC",
+                "date": "2022-07-30T16:01:00+00:00",
+                "timestamp": 1659196860,
+                "periods": {
+                    "first": 1659196860,
+                    "second": 1659200460
+                },
+                "venue": {
+                    "id": 704,
+                    "name": "Ernst-Abbe-Sportfeld",
+                    "city": "Jena"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1325,
+                    "name": "Carl Zeiss Jena",
+                    "logo": "https://media.api-sports.io/football/teams/1325.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864346,
+                "referee": "T. Gerach",
+                "timezone": "UTC",
+                "date": "2022-07-30T16:01:00+00:00",
+                "timestamp": 1659196860,
+                "periods": {
+                    "first": 1659196860,
+                    "second": 1659200460
+                },
+                "venue": {
+                    "id": 8211,
+                    "name": "GAZ\u0130-Stadion auf der Waldau",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12868,
+                    "name": "Stuttgarter Kickers",
+                    "logo": "https://media.api-sports.io/football/teams/12868.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 178,
+                    "name": "SpVgg Greuther Furth",
+                    "logo": "https://media.api-sports.io/football/teams/178.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864347,
+                "referee": "M. J\u00f6llenbeck",
+                "timezone": "UTC",
+                "date": "2022-08-31T18:46:00+00:00",
+                "timestamp": 1661971560,
+                "periods": {
+                    "first": 1661971560,
+                    "second": 1661975160
+                },
+                "venue": {
+                    "id": 731,
+                    "name": "RheinEnergieStadion",
+                    "city": "K\u00f6ln"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1620,
+                    "name": "FC Viktoria Koln",
+                    "logo": "https://media.api-sports.io/football/teams/1620.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 864348,
+                "referee": "F. Zwayer",
+                "timezone": "UTC",
+                "date": "2022-08-01T18:46:00+00:00",
+                "timestamp": 1659379560,
+                "periods": {
+                    "first": 1659379560,
+                    "second": 1659383160
+                },
+                "venue": {
+                    "id": 733,
+                    "name": "MDCC-Arena",
+                    "city": "Magdeburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 179,
+                    "name": "FC Magdeburg",
+                    "logo": "https://media.api-sports.io/football/teams/179.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958518,
+                "referee": "R. Braun",
+                "timezone": "UTC",
+                "date": "2022-10-18T16:00:00+00:00",
+                "timestamp": 1666108800,
+                "periods": {
+                    "first": 1666108800,
+                    "second": 1666112400
+                },
+                "venue": {
+                    "id": 10508,
+                    "name": "Dietmar-Scholze-Stadion an der Lohm\u00fchle",
+                    "city": "L\u00fcbeck"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1625,
+                    "name": "VfB Lubeck",
+                    "logo": "https://media.api-sports.io/football/teams/1625.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958519,
+                "referee": "D. Aytekin",
+                "timezone": "UTC",
+                "date": "2022-10-18T16:00:00+00:00",
+                "timestamp": 1666108800,
+                "periods": {
+                    "first": 1666108800,
+                    "second": 1666112400
+                },
+                "venue": {
+                    "id": 8211,
+                    "name": "GAZ\u0130-Stadion auf der Waldau",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12868,
+                    "name": "Stuttgarter Kickers",
+                    "logo": "https://media.api-sports.io/football/teams/12868.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958520,
+                "referee": "S. Waschitzki",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:45:00+00:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 710,
+                    "name": "URSAPHARM-Arena an der Kaiserlinde",
+                    "city": "Spiesen-Elversberg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1660,
+                    "name": "SV Elversberg",
+                    "logo": "https://media.api-sports.io/football/teams/1660.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958521,
+                "referee": "C. Dingert",
+                "timezone": "UTC",
+                "date": "2022-10-18T16:00:00+00:00",
+                "timestamp": 1666108800,
+                "periods": {
+                    "first": 1666108800,
+                    "second": 1666112400
+                },
+                "venue": {
+                    "id": 3263,
+                    "name": "Carl-Benz-Stadion",
+                    "city": "Mannheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 4268,
+                    "name": "Waldhof Mannheim",
+                    "logo": "https://media.api-sports.io/football/teams/4268.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958522,
+                "referee": "D. Schlager",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:45:00+00:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 708,
+                    "name": "Eintracht-Stadion",
+                    "city": "Braunschweig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 744,
+                    "name": "Eintracht Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/744.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958523,
+                "referee": "S. Jablonski",
+                "timezone": "UTC",
+                "date": "2022-10-19T16:00:00+00:00",
+                "timestamp": 1666195200,
+                "periods": {
+                    "first": 1666195200,
+                    "second": 1666198800
+                },
+                "venue": {
+                    "id": 18858,
+                    "name": "Heinz von Heiden-Arena",
+                    "city": "Hannover"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 166,
+                    "name": "Hannover 96",
+                    "logo": "https://media.api-sports.io/football/teams/166.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958524,
+                "referee": "F. Brych",
+                "timezone": "UTC",
+                "date": "2022-10-19T16:00:00+00:00",
+                "timestamp": 1666195200,
+                "periods": {
+                    "first": 1666195200,
+                    "second": 1666198800
+                },
+                "venue": {
+                    "id": 12717,
+                    "name": "Europa-Park Stadion",
+                    "city": "Freiburg im Breisgau"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958525,
+                "referee": "B. Cortus",
+                "timezone": "UTC",
+                "date": "2022-10-18T16:00:00+00:00",
+                "timestamp": 1666108800,
+                "periods": {
+                    "first": 1666108800,
+                    "second": 1666112400
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 175,
+                    "name": "Hamburger SV",
+                    "logo": "https://media.api-sports.io/football/teams/175.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958526,
+                "referee": "B. Dankert",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:45:00+00:00",
+                "timestamp": 1666205100,
+                "periods": {
+                    "first": 1666205100,
+                    "second": 1666208700
+                },
+                "venue": {
+                    "id": 698,
+                    "name": "WWK Arena",
+                    "city": "Augsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958527,
+                "referee": "M. Petersen",
+                "timezone": "UTC",
+                "date": "2022-10-19T16:00:00+00:00",
+                "timestamp": 1666195200,
+                "periods": {
+                    "first": 1666195200,
+                    "second": 1666198800
+                },
+                "venue": {
+                    "id": 740,
+                    "name": "BWT-Stadion am Hardtwald",
+                    "city": "Sandhausen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 189,
+                    "name": "SV Sandhausen",
+                    "logo": "https://media.api-sports.io/football/teams/189.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 785,
+                    "name": "Karlsruher SC",
+                    "logo": "https://media.api-sports.io/football/teams/785.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 8,
+                    "away": 7
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958528,
+                "referee": "M. J\u00f6llenbeck",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:45:00+00:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958529,
+                "referee": "R. Hartmann",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:45:00+00:00",
+                "timestamp": 1666205100,
+                "periods": {
+                    "first": 1666205100,
+                    "second": 1666208700
+                },
+                "venue": {
+                    "id": 750,
+                    "name": "Mercedes-Benz-Arena",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 6,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 6,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958530,
+                "referee": "F. Willenborg",
+                "timezone": "UTC",
+                "date": "2022-10-19T16:00:00+00:00",
+                "timestamp": 1666195200,
+                "periods": {
+                    "first": 1666195200,
+                    "second": 1666198800
+                },
+                "venue": {
+                    "id": 18622,
+                    "name": "Home Deluxe Arena",
+                    "city": "Paderborn"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 5,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958531,
+                "referee": "F. Badst\u00fcbner",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:45:00+00:00",
+                "timestamp": 1666205100,
+                "periods": {
+                    "first": 1666205100,
+                    "second": 1666208700
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten F\u00f6rsterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 180,
+                    "name": "FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958532,
+                "referee": "T. Gerach",
+                "timezone": "UTC",
+                "date": "2022-10-19T18:45:00+00:00",
+                "timestamp": 1666205100,
+                "periods": {
+                    "first": 1666205100,
+                    "second": 1666208700
+                },
+                "venue": {
+                    "id": 10490,
+                    "name": "Jahnstadion Regensburg",
+                    "city": "Regensburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 177,
+                    "name": "Jahn Regensburg",
+                    "logo": "https://media.api-sports.io/football/teams/177.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 158,
+                    "name": "Fortuna Dusseldorf",
+                    "logo": "https://media.api-sports.io/football/teams/158.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 958533,
+                "referee": "R. Schr\u00f6der",
+                "timezone": "UTC",
+                "date": "2022-10-18T18:45:00+00:00",
+                "timestamp": 1666118700,
+                "periods": {
+                    "first": 1666118700,
+                    "second": 1666122300
+                },
+                "venue": {
+                    "id": 705,
+                    "name": "Merck-Stadion am B\u00f6llenfalltor",
+                    "city": "Darmstadt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 181,
+                    "name": "SV Darmstadt 98",
+                    "logo": "https://media.api-sports.io/football/teams/181.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968254,
+                "referee": "M. Fritz",
+                "timezone": "UTC",
+                "date": "2023-02-07T17:00:00+00:00",
+                "timestamp": 1675789200,
+                "periods": {
+                    "first": 1675789200,
+                    "second": 1675792800
+                },
+                "venue": {
+                    "id": 740,
+                    "name": "BWT-Stadion am Hardtwald",
+                    "city": "Sandhausen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 189,
+                    "name": "SV Sandhausen",
+                    "logo": "https://media.api-sports.io/football/teams/189.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968255,
+                "referee": "D. Schlager",
+                "timezone": "UTC",
+                "date": "2023-01-31T17:00:00+00:00",
+                "timestamp": 1675184400,
+                "periods": {
+                    "first": 1675184400,
+                    "second": 1675188000
+                },
+                "venue": {
+                    "id": 18622,
+                    "name": "Home Deluxe Arena",
+                    "city": "Paderborn"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968256,
+                "referee": "S. Stegemann",
+                "timezone": "UTC",
+                "date": "2023-01-31T19:45:00+00:00",
+                "timestamp": 1675194300,
+                "periods": {
+                    "first": 1675194300,
+                    "second": 1675197900
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten F\u00f6rsterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968257,
+                "referee": "F. Zwayer",
+                "timezone": "UTC",
+                "date": "2023-02-07T19:45:00+00:00",
+                "timestamp": 1675799100,
+                "periods": {
+                    "first": 1675799100,
+                    "second": 1675802700
+                },
+                "venue": {
+                    "id": 10491,
+                    "name": "Deutsche Bank Park",
+                    "city": "Frankfurt am Main"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 181,
+                    "name": "SV Darmstadt 98",
+                    "logo": "https://media.api-sports.io/football/teams/181.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968258,
+                "referee": "T. Stieler",
+                "timezone": "UTC",
+                "date": "2023-02-08T19:45:00+00:00",
+                "timestamp": 1675885500,
+                "periods": {
+                    "first": 1675885500,
+                    "second": 1675889100
+                },
+                "venue": {
+                    "id": 751,
+                    "name": "Vonovia Ruhrstadion",
+                    "city": "Bochum"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968259,
+                "referee": "D. Aytekin",
+                "timezone": "UTC",
+                "date": "2023-02-01T19:45:00+00:00",
+                "timestamp": 1675280700,
+                "periods": {
+                    "first": 1675280700,
+                    "second": 1675284300
+                },
+                "venue": {
+                    "id": 11899,
+                    "name": "MEWA ARENA",
+                    "city": "Mainz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968260,
+                "referee": "C. Dingert",
+                "timezone": "UTC",
+                "date": "2023-02-01T17:00:00+00:00",
+                "timestamp": 1675270800,
+                "periods": {
+                    "first": 1675270800,
+                    "second": 1675274400
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 968261,
+                "referee": "M. J\u00f6llenbeck",
+                "timezone": "UTC",
+                "date": "2023-02-08T17:00:00+00:00",
+                "timestamp": 1675875600,
+                "periods": {
+                    "first": 1675875600,
+                    "second": 1675879200
+                },
+                "venue": {
+                    "id": 713,
+                    "name": "Max-Morlock-Stadion",
+                    "city": "N\u00fcrnberg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 158,
+                    "name": "Fortuna Dusseldorf",
+                    "logo": "https://media.api-sports.io/football/teams/158.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 5,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1008958,
+                "referee": "F. Brych",
+                "timezone": "UTC",
+                "date": "2023-04-05T18:45:00+00:00",
+                "timestamp": 1680720300,
+                "periods": {
+                    "first": 1680720300,
+                    "second": 1680723900
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1008959,
+                "referee": "D. Siebert",
+                "timezone": "UTC",
+                "date": "2023-04-05T16:00:00+00:00",
+                "timestamp": 1680710400,
+                "periods": {
+                    "first": 1680710400,
+                    "second": 1680714000
+                },
+                "venue": {
+                    "id": 713,
+                    "name": "Max-Morlock-Stadion",
+                    "city": "N\u00fcrnberg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1008960,
+                "referee": "B. Dankert",
+                "timezone": "UTC",
+                "date": "2023-04-04T16:00:00+00:00",
+                "timestamp": 1680624000,
+                "periods": {
+                    "first": 1680624000,
+                    "second": 1680627600
+                },
+                "venue": {
+                    "id": 10491,
+                    "name": "Deutsche Bank Park",
+                    "city": "Frankfurt am Main"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1008961,
+                "referee": "H. Osmers",
+                "timezone": "UTC",
+                "date": "2023-04-04T18:45:00+00:00",
+                "timestamp": 1680633900,
+                "periods": {
+                    "first": 1680633900,
+                    "second": 1680637500
+                },
+                "venue": {
+                    "id": 700,
+                    "name": "Allianz Arena",
+                    "city": "M\u00fcnchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1021522,
+                "referee": "S. Jablonski",
+                "timezone": "UTC",
+                "date": "2023-05-02T18:45:00+00:00",
+                "timestamp": 1683053100,
+                "periods": {
+                    "first": 1683053100,
+                    "second": 1683056700
+                },
+                "venue": {
+                    "id": 12717,
+                    "name": "Europa-Park Stadion",
+                    "city": "Freiburg im Breisgau"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1021523,
+                "referee": "D. Schlager",
+                "timezone": "UTC",
+                "date": "2023-05-03T18:45:00+00:00",
+                "timestamp": 1683139500,
+                "periods": {
+                    "first": 1683139500,
+                    "second": 1683143100
+                },
+                "venue": {
+                    "id": 750,
+                    "name": "Mercedes-Benz-Arena",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1025223,
+                "referee": "D. Siebert",
+                "timezone": "UTC",
+                "date": "2023-06-03T18:00:00+00:00",
+                "timestamp": 1685815200,
+                "periods": {
+                    "first": 1685815200,
+                    "second": 1685818800
+                },
+                "venue": {
+                    "id": 694,
+                    "name": "Olympiastadion Berlin",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Final"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

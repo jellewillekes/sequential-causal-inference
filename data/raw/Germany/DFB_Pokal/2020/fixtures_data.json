@@ -1,0 +1,4299 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "league": "81",
+        "season": "2020"
+    },
+    "errors": [],
+    "results": 63,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 574014,
+                "referee": "M. Fritz",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": 713,
+                    "name": "Max-Morlock-Stadion",
+                    "city": "N\u00fcrnberg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 171,
+                    "name": "FC Nurnberg",
+                    "logo": "https://media.api-sports.io/football/teams/171.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 574015,
+                "referee": "B. Brand",
+                "timezone": "UTC",
+                "date": "2020-09-13T16:30:00+00:00",
+                "timestamp": 1600014600,
+                "periods": {
+                    "first": 1600014600,
+                    "second": 1600018200
+                },
+                "venue": {
+                    "id": 753,
+                    "name": "BRITA-Arena",
+                    "city": "Wiesbaden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1319,
+                    "name": "SV Wehen",
+                    "logo": "https://media.api-sports.io/football/teams/1319.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 180,
+                    "name": "FC Heidenheim",
+                    "logo": "https://media.api-sports.io/football/teams/180.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 574016,
+                "referee": "R. Kampka",
+                "timezone": "UTC",
+                "date": "2020-09-14T18:45:00+00:00",
+                "timestamp": 1600109100,
+                "periods": {
+                    "first": 1600109100,
+                    "second": 1600112700
+                },
+                "venue": {
+                    "id": 730,
+                    "name": "Schauinsland-Reisen-Arena",
+                    "city": "Duisburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 187,
+                    "name": "MSV Duisburg",
+                    "logo": "https://media.api-sports.io/football/teams/187.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 574017,
+                "referee": "F. Badst\u00fcbner",
+                "timezone": "UTC",
+                "date": "2020-09-14T16:30:00+00:00",
+                "timestamp": 1600101000,
+                "periods": {
+                    "first": 1600101000,
+                    "second": 1600104600
+                },
+                "venue": {
+                    "id": 707,
+                    "name": "Rudolf-Harbig-Stadion",
+                    "city": "Dresden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 183,
+                    "name": "Dynamo Dresden",
+                    "logo": "https://media.api-sports.io/football/teams/183.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 175,
+                    "name": "Hamburger SV",
+                    "logo": "https://media.api-sports.io/football/teams/175.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 574018,
+                "referee": "M. Gr\u00e4fe",
+                "timezone": "UTC",
+                "date": "2020-09-13T16:30:00+00:00",
+                "timestamp": 1600014600,
+                "periods": {
+                    "first": 1600014600,
+                    "second": 1600018200
+                },
+                "venue": {
+                    "id": 733,
+                    "name": "MDCC-Arena",
+                    "city": "Magdeburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 179,
+                    "name": "FC Magdeburg",
+                    "logo": "https://media.api-sports.io/football/teams/179.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 181,
+                    "name": "SV Darmstadt 98",
+                    "logo": "https://media.api-sports.io/football/teams/181.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 574019,
+                "referee": "T. Stieler",
+                "timezone": "UTC",
+                "date": "2020-09-11T18:45:00+00:00",
+                "timestamp": 1599849900,
+                "periods": {
+                    "first": 1599849900,
+                    "second": 1599853500
+                },
+                "venue": {
+                    "id": 708,
+                    "name": "Eintracht-Stadion",
+                    "city": "Braunschweig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 744,
+                    "name": "Eintracht Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/744.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 159,
+                    "name": "Hertha Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/159.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 574020,
+                "referee": "P. Alt",
+                "timezone": "UTC",
+                "date": "2020-09-14T16:30:00+00:00",
+                "timestamp": 1600101000,
+                "periods": {
+                    "first": 1600101000,
+                    "second": 1600104600
+                },
+                "venue": {
+                    "id": 757,
+                    "name": "flyeralarm-Arena",
+                    "city": "W\u00fcrzburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 784,
+                    "name": "FC Wurzburger Kickers",
+                    "logo": "https://media.api-sports.io/football/teams/784.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 166,
+                    "name": "Hannover 96",
+                    "logo": "https://media.api-sports.io/football/teams/166.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 574021,
+                "referee": "T. Reichel",
+                "timezone": "UTC",
+                "date": "2020-09-12T16:30:00+00:00",
+                "timestamp": 1599928200,
+                "periods": {
+                    "first": 1599928200,
+                    "second": 1599931800
+                },
+                "venue": {
+                    "id": 726,
+                    "name": "Audi-Sportpark",
+                    "city": "Ingolstadt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 184,
+                    "name": "FC Ingolstadt 04",
+                    "logo": "https://media.api-sports.io/football/teams/184.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 158,
+                    "name": "Fortuna Dusseldorf",
+                    "logo": "https://media.api-sports.io/football/teams/158.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 574022,
+                "referee": "B. Cortus",
+                "timezone": "UTC",
+                "date": "2020-09-12T16:30:00+00:00",
+                "timestamp": 1599928200,
+                "periods": {
+                    "first": 1599928200,
+                    "second": 1599931800
+                },
+                "venue": {
+                    "id": 729,
+                    "name": "Wildparkstadion",
+                    "city": "Karlsruhe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 785,
+                    "name": "Karlsruher SC",
+                    "logo": "https://media.api-sports.io/football/teams/785.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609062,
+                "referee": "A. Aarnink",
+                "timezone": "UTC",
+                "date": "2020-09-11T18:45:00+00:00",
+                "timestamp": 1599849900,
+                "periods": {
+                    "first": 1599849900,
+                    "second": 1599853500
+                },
+                "venue": {
+                    "id": 717,
+                    "name": "OPEL ARENA",
+                    "city": "Mainz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9342,
+                    "name": "Havelse",
+                    "logo": "https://media.api-sports.io/football/teams/9342.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609063,
+                "referee": "R. Schr\u00f6der",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": 6454,
+                    "name": "AOK Stadion",
+                    "city": "Wolfsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9357,
+                    "name": "Union F\u00fcrstenwalde",
+                    "logo": "https://media.api-sports.io/football/teams/9357.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609064,
+                "referee": "P. Ittrich",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Joda Sports Park",
+                    "city": "Todesfelde"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12880,
+                    "name": "Todesfelde",
+                    "logo": "https://media.api-sports.io/football/teams/12880.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1324,
+                    "name": "VfL Osnabruck",
+                    "logo": "https://media.api-sports.io/football/teams/1324.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609065,
+                "referee": "M. Petersen",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": 695,
+                    "name": "St\u00e4dtisches Stadion an der Gr\u00fcnwalder Stra\u00dfe",
+                    "city": "M\u00fcnchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 786,
+                    "name": "TSV 1860 Munich",
+                    "logo": "https://media.api-sports.io/football/teams/786.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609066,
+                "referee": "F. Heft",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": 751,
+                    "name": "Vonovia Ruhrstadion",
+                    "city": "Bochum"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12767,
+                    "name": "FV Engers 07",
+                    "logo": "https://media.api-sports.io/football/teams/12767.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609067,
+                "referee": "S. Stegemann",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": 703,
+                    "name": "Stadion im BORUSSIA-PARK",
+                    "city": "M\u00f6nchengladbach"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 4263,
+                    "name": "Oberneuland",
+                    "logo": "https://media.api-sports.io/football/teams/4263.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 8
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 8
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609068,
+                "referee": "M. Thomsen",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": 731,
+                    "name": "RheinEnergieStadion",
+                    "city": "K\u00f6ln"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 9349,
+                    "name": "Altglienicke",
+                    "logo": "https://media.api-sports.io/football/teams/9349.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 6
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 6
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609069,
+                "referee": "D. Schlager",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": 698,
+                    "name": "WWK Arena",
+                    "city": "Augsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12758,
+                    "name": "Eintracht Celle",
+                    "logo": "https://media.api-sports.io/football/teams/12758.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 7
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 7
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609070,
+                "referee": "A. Sather",
+                "timezone": "UTC",
+                "date": "2020-09-12T13:30:00+00:00",
+                "timestamp": 1599917400,
+                "periods": {
+                    "first": 1599917400,
+                    "second": 1599921000
+                },
+                "venue": {
+                    "id": 718,
+                    "name": "Sportpark Ronhof Thomas Sommer",
+                    "city": "F\u00fcrth"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12814,
+                    "name": "Meinerzhagen",
+                    "logo": "https://media.api-sports.io/football/teams/12814.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 178,
+                    "name": "SpVgg Greuther Furth",
+                    "logo": "https://media.api-sports.io/football/teams/178.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 6
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609071,
+                "referee": "M. Bacher",
+                "timezone": "UTC",
+                "date": "2020-09-12T16:30:00+00:00",
+                "timestamp": 1599928200,
+                "periods": {
+                    "first": 1599928200,
+                    "second": 1599931800
+                },
+                "venue": {
+                    "id": 747,
+                    "name": "Donaustadion",
+                    "city": "Ulm"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1652,
+                    "name": "SSV ULM 1846",
+                    "logo": "https://media.api-sports.io/football/teams/1652.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 190,
+                    "name": "Erzgebirge AUE",
+                    "logo": "https://media.api-sports.io/football/teams/190.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609072,
+                "referee": "D. Siebert",
+                "timezone": "UTC",
+                "date": "2020-09-12T18:45:00+00:00",
+                "timestamp": 1599936300,
+                "periods": {
+                    "first": 1599936300,
+                    "second": 1599939900
+                },
+                "venue": {
+                    "id": 704,
+                    "name": "Ernst-Abbe-Sportfeld",
+                    "city": "Jena"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1325,
+                    "name": "Carl Zeiss Jena",
+                    "logo": "https://media.api-sports.io/football/teams/1325.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609073,
+                "referee": "P. Hanslbauer",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:30:00+00:00",
+                "timestamp": 1600003800,
+                "periods": {
+                    "first": 1600003800,
+                    "second": 1600007400
+                },
+                "venue": {
+                    "id": 2701,
+                    "name": "Stadion Chemnitz",
+                    "city": "Chemnitz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1328,
+                    "name": "Chemnitzer FC",
+                    "logo": "https://media.api-sports.io/football/teams/1328.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": 2,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609074,
+                "referee": "C. G\u00fcnsch",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:30:00+00:00",
+                "timestamp": 1600003800,
+                "periods": {
+                    "first": 1600003800,
+                    "second": 1600007400
+                },
+                "venue": {
+                    "id": 725,
+                    "name": "Holstein-Stadion",
+                    "city": "Kiel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1642,
+                    "name": "FC Rielasingen-Arlen",
+                    "logo": "https://media.api-sports.io/football/teams/1642.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 7
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 5
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 7
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609075,
+                "referee": "S. Storks",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:30:00+00:00",
+                "timestamp": 1600003800,
+                "periods": {
+                    "first": 1600003800,
+                    "second": 1600007400
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1631,
+                    "name": "Eintracht Norderstedt",
+                    "logo": "https://media.api-sports.io/football/teams/1631.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 7
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 6
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 7
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609076,
+                "referee": "S. Waschitzki",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:30:00+00:00",
+                "timestamp": 1600003800,
+                "periods": {
+                    "first": 1600003800,
+                    "second": 1600007400
+                },
+                "venue": {
+                    "id": 728,
+                    "name": "Fritz-Walter-Stadion",
+                    "city": "Kaiserslautern"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 745,
+                    "name": "FC Kaiserslautern",
+                    "logo": "https://media.api-sports.io/football/teams/745.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 177,
+                    "name": "Jahn Regensburg",
+                    "logo": "https://media.api-sports.io/football/teams/177.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 3,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609077,
+                "referee": "N. Winter",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:30:00+00:00",
+                "timestamp": 1600003800,
+                "periods": {
+                    "first": 1600003800,
+                    "second": 1600007400
+                },
+                "venue": {
+                    "id": 1828,
+                    "name": "SIBRE Sportzentrum Haarwasen Haiger",
+                    "city": "Haiger"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1656,
+                    "name": "TSV Steinbach",
+                    "logo": "https://media.api-sports.io/football/teams/1656.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 189,
+                    "name": "SV Sandhausen",
+                    "logo": "https://media.api-sports.io/football/teams/189.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609078,
+                "referee": "F. Willenborg",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:30:00+00:00",
+                "timestamp": 1600003800,
+                "periods": {
+                    "first": 1600003800,
+                    "second": 1600007400
+                },
+                "venue": {
+                    "id": 8237,
+                    "name": "Jahnstadion",
+                    "city": "Rheda-Wiedenbr\u00fcck"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12897,
+                    "name": "Wiedenbr\u00fcck",
+                    "logo": "https://media.api-sports.io/football/teams/12897.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609079,
+                "referee": "F. Zwayer",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:30:00+00:00",
+                "timestamp": 1600003800,
+                "periods": {
+                    "first": 1600003800,
+                    "second": 1600007400
+                },
+                "venue": {
+                    "id": 722,
+                    "name": "Ostseestadion",
+                    "city": "Rostock"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1321,
+                    "name": "Hansa Rostock",
+                    "logo": "https://media.api-sports.io/football/teams/1321.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609080,
+                "referee": "T. Gerach",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:30:00+00:00",
+                "timestamp": 1600003800,
+                "periods": {
+                    "first": 1600003800,
+                    "second": 1600007400
+                },
+                "venue": {
+                    "id": 710,
+                    "name": "URSAPHARM-Arena an der Kaiserlinde",
+                    "city": "Spiesen-Elversberg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1660,
+                    "name": "SV Elversberg",
+                    "logo": "https://media.api-sports.io/football/teams/1660.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 186,
+                    "name": "FC St. Pauli",
+                    "logo": "https://media.api-sports.io/football/teams/186.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609081,
+                "referee": "M. Schmidt",
+                "timezone": "UTC",
+                "date": "2020-09-13T16:30:00+00:00",
+                "timestamp": 1600014600,
+                "periods": {
+                    "first": 1600014600,
+                    "second": 1600018200
+                },
+                "venue": {
+                    "id": 3263,
+                    "name": "Carl-Benz-Stadion",
+                    "city": "Mannheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 4268,
+                    "name": "Waldhof Mannheim",
+                    "logo": "https://media.api-sports.io/football/teams/4268.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609082,
+                "referee": "H. Osmers",
+                "timezone": "UTC",
+                "date": "2020-09-14T16:30:00+00:00",
+                "timestamp": 1600101000,
+                "periods": {
+                    "first": 1600101000,
+                    "second": 1600104600
+                },
+                "venue": {
+                    "id": 2705,
+                    "name": "Multifunktionsarena Erfurt",
+                    "city": "Erfurt"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1621,
+                    "name": "Rot-weiss Essen",
+                    "logo": "https://media.api-sports.io/football/teams/1621.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 188,
+                    "name": "Arminia Bielefeld",
+                    "logo": "https://media.api-sports.io/football/teams/188.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 609083,
+                "referee": "M. J\u00f6llenbeck",
+                "timezone": "UTC",
+                "date": "2020-10-15T18:45:00+00:00",
+                "timestamp": 1602787500,
+                "periods": {
+                    "first": 1602787500,
+                    "second": 1602791100
+                },
+                "venue": {
+                    "id": 700,
+                    "name": "Allianz Arena",
+                    "city": "M\u00fcnchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 12754,
+                    "name": "D\u00fcren Merzenich",
+                    "logo": "https://media.api-sports.io/football/teams/12754.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 612460,
+                "referee": "S. Jablonski",
+                "timezone": "UTC",
+                "date": "2020-11-03T15:30:00+00:00",
+                "timestamp": 1604417400,
+                "periods": {
+                    "first": 1604417400,
+                    "second": 1604421000
+                },
+                "venue": {
+                    "id": 741,
+                    "name": "VELTINS-Arena",
+                    "city": "Gelsenkirchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "1st Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1635,
+                    "name": "FC Schweinfurt 05",
+                    "logo": "https://media.api-sports.io/football/teams/1635.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646330,
+                "referee": "F. Brych",
+                "timezone": "UTC",
+                "date": "2020-12-23T19:45:00+00:00",
+                "timestamp": 1608752700,
+                "periods": {
+                    "first": 1608752700,
+                    "second": 1608756300
+                },
+                "venue": {
+                    "id": 750,
+                    "name": "Mercedes-Benz-Arena",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 160,
+                    "name": "SC Freiburg",
+                    "logo": "https://media.api-sports.io/football/teams/160.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646331,
+                "referee": "C. Dingert",
+                "timezone": "UTC",
+                "date": "2021-01-12T19:45:00+00:00",
+                "timestamp": 1610480700,
+                "periods": {
+                    "first": 1610480700,
+                    "second": 1610484300
+                },
+                "venue": {
+                    "id": 699,
+                    "name": "BayArena",
+                    "city": "Leverkusen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 169,
+                    "name": "Eintracht Frankfurt",
+                    "logo": "https://media.api-sports.io/football/teams/169.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646332,
+                "referee": "S. Stegemann",
+                "timezone": "UTC",
+                "date": "2020-12-22T17:30:00+00:00",
+                "timestamp": 1608658200,
+                "periods": {
+                    "first": 1608658200,
+                    "second": 1608661800
+                },
+                "venue": {
+                    "id": 698,
+                    "name": "WWK Arena",
+                    "city": "Augsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 170,
+                    "name": "FC Augsburg",
+                    "logo": "https://media.api-sports.io/football/teams/170.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646333,
+                "referee": "F. Willenborg",
+                "timezone": "UTC",
+                "date": "2020-12-22T19:45:00+00:00",
+                "timestamp": 1608666300,
+                "periods": {
+                    "first": 1608666300,
+                    "second": 1608669900
+                },
+                "venue": {
+                    "id": 748,
+                    "name": "Stadion An der Alten F\u00f6rsterei",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 182,
+                    "name": "Union Berlin",
+                    "logo": "https://media.api-sports.io/football/teams/182.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646334,
+                "referee": "B. Cortus",
+                "timezone": "UTC",
+                "date": "2020-12-22T19:00:00+00:00",
+                "timestamp": 1608663600,
+                "periods": {
+                    "first": 1608663600,
+                    "second": 1608667200
+                },
+                "venue": {
+                    "id": 708,
+                    "name": "Eintracht-Stadion",
+                    "city": "Braunschweig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 744,
+                    "name": "Eintracht Braunschweig",
+                    "logo": "https://media.api-sports.io/football/teams/744.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646335,
+                "referee": "M. Gr\u00e4fe",
+                "timezone": "UTC",
+                "date": "2020-12-23T19:45:00+00:00",
+                "timestamp": 1608752700,
+                "periods": {
+                    "first": 1608752700,
+                    "second": 1608756300
+                },
+                "venue": {
+                    "id": 721,
+                    "name": "HDI-Arena",
+                    "city": "Hannover"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 166,
+                    "name": "Hannover 96",
+                    "logo": "https://media.api-sports.io/football/teams/166.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646336,
+                "referee": "R. Hartmann",
+                "timezone": "UTC",
+                "date": "2020-12-22T17:30:00+00:00",
+                "timestamp": 1608658200,
+                "periods": {
+                    "first": 1608658200,
+                    "second": 1608661800
+                },
+                "venue": {
+                    "id": 731,
+                    "name": "RheinEnergieStadion",
+                    "city": "K\u00f6ln"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1324,
+                    "name": "VfL Osnabruck",
+                    "logo": "https://media.api-sports.io/football/teams/1324.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646337,
+                "referee": "M. Petersen",
+                "timezone": "UTC",
+                "date": "2020-12-23T19:45:00+00:00",
+                "timestamp": 1608752700,
+                "periods": {
+                    "first": 1608752700,
+                    "second": 1608756300
+                },
+                "venue": {
+                    "id": 717,
+                    "name": "OPEL ARENA",
+                    "city": "Mainz"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 164,
+                    "name": "FSV Mainz 05",
+                    "logo": "https://media.api-sports.io/football/teams/164.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 0,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646338,
+                "referee": "R. Schr\u00f6der",
+                "timezone": "UTC",
+                "date": "2021-01-13T19:45:00+00:00",
+                "timestamp": 1610567100,
+                "periods": {
+                    "first": 1610567100,
+                    "second": 1610570700
+                },
+                "venue": {
+                    "id": 725,
+                    "name": "Holstein-Stadion",
+                    "city": "Kiel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 157,
+                    "name": "Bayern Munich",
+                    "logo": "https://media.api-sports.io/football/teams/157.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 6,
+                    "away": 5
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646339,
+                "referee": "S. Storks",
+                "timezone": "UTC",
+                "date": "2020-12-22T17:30:00+00:00",
+                "timestamp": 1608658200,
+                "periods": {
+                    "first": 1608658200,
+                    "second": 1608661800
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 178,
+                    "name": "SpVgg Greuther Furth",
+                    "logo": "https://media.api-sports.io/football/teams/178.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 6,
+                    "away": 7
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646340,
+                "referee": "G. Winkmann",
+                "timezone": "UTC",
+                "date": "2020-12-23T17:30:00+00:00",
+                "timestamp": 1608744600,
+                "periods": {
+                    "first": 1608744600,
+                    "second": 1608748200
+                },
+                "venue": {
+                    "id": 752,
+                    "name": "VOLKSWAGEN ARENA",
+                    "city": "Wolfsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 189,
+                    "name": "SV Sandhausen",
+                    "logo": "https://media.api-sports.io/football/teams/189.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646341,
+                "referee": "D. Schlager",
+                "timezone": "UTC",
+                "date": "2020-12-22T17:30:00+00:00",
+                "timestamp": 1608658200,
+                "periods": {
+                    "first": 1608658200,
+                    "second": 1608661800
+                },
+                "venue": {
+                    "id": 741,
+                    "name": "VELTINS-Arena",
+                    "city": "Gelsenkirchen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1652,
+                    "name": "SSV ULM 1846",
+                    "logo": "https://media.api-sports.io/football/teams/1652.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646342,
+                "referee": "M. Schmidt",
+                "timezone": "UTC",
+                "date": "2020-12-22T19:45:00+00:00",
+                "timestamp": 1608666300,
+                "periods": {
+                    "first": 1608666300,
+                    "second": 1608669900
+                },
+                "venue": {
+                    "id": 710,
+                    "name": "URSAPHARM-Arena an der Kaiserlinde",
+                    "city": "Spiesen-Elversberg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1660,
+                    "name": "SV Elversberg",
+                    "logo": "https://media.api-sports.io/football/teams/1660.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646343,
+                "referee": "T. Reichel",
+                "timezone": "UTC",
+                "date": "2020-12-23T19:45:00+00:00",
+                "timestamp": 1608752700,
+                "periods": {
+                    "first": 1608752700,
+                    "second": 1608756300
+                },
+                "venue": {
+                    "id": 753,
+                    "name": "BRITA-Arena",
+                    "city": "Wiesbaden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1319,
+                    "name": "SV Wehen",
+                    "logo": "https://media.api-sports.io/football/teams/1319.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 177,
+                    "name": "Jahn Regensburg",
+                    "logo": "https://media.api-sports.io/football/teams/177.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 2,
+                    "away": 4
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646344,
+                "referee": "S. Jablonski",
+                "timezone": "UTC",
+                "date": "2020-12-22T19:45:00+00:00",
+                "timestamp": 1608666300,
+                "periods": {
+                    "first": 1608666300,
+                    "second": 1608669900
+                },
+                "venue": {
+                    "id": 707,
+                    "name": "Rudolf-Harbig-Stadion",
+                    "city": "Dresden"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 183,
+                    "name": "Dynamo Dresden",
+                    "logo": "https://media.api-sports.io/football/teams/183.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 181,
+                    "name": "SV Darmstadt 98",
+                    "logo": "https://media.api-sports.io/football/teams/181.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 646345,
+                "referee": "M. J\u00f6llenbeck",
+                "timezone": "UTC",
+                "date": "2020-12-23T17:30:00+00:00",
+                "timestamp": 1608744600,
+                "periods": {
+                    "first": 1608744600,
+                    "second": 1608748200
+                },
+                "venue": {
+                    "id": 2704,
+                    "name": "Stadion Essen",
+                    "city": "Essen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 1621,
+                    "name": "Rot-weiss Essen",
+                    "logo": "https://media.api-sports.io/football/teams/1621.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 158,
+                    "name": "Fortuna Dusseldorf",
+                    "logo": "https://media.api-sports.io/football/teams/158.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 655483,
+                "referee": "T. Stieler",
+                "timezone": "UTC",
+                "date": "2021-02-02T19:45:00+00:00",
+                "timestamp": 1612295100,
+                "periods": {
+                    "first": 1612295100,
+                    "second": 1612298700
+                },
+                "venue": {
+                    "id": 702,
+                    "name": "Signal-Iduna-Park",
+                    "city": "Dortmund"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 185,
+                    "name": "SC Paderborn 07",
+                    "logo": "https://media.api-sports.io/football/teams/185.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 655484,
+                "referee": "B. Dankert",
+                "timezone": "UTC",
+                "date": "2021-02-03T17:30:00+00:00",
+                "timestamp": 1612373400,
+                "periods": {
+                    "first": 1612373400,
+                    "second": 1612377000
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 176,
+                    "name": "Vfl Bochum",
+                    "logo": "https://media.api-sports.io/football/teams/176.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 655485,
+                "referee": "R. Hartmann",
+                "timezone": "UTC",
+                "date": "2021-02-03T19:45:00+00:00",
+                "timestamp": 1612381500,
+                "periods": {
+                    "first": 1612381500,
+                    "second": 1612385100
+                },
+                "venue": {
+                    "id": 10490,
+                    "name": "Jahnstadion Regensburg",
+                    "city": "Regensburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 177,
+                    "name": "Jahn Regensburg",
+                    "logo": "https://media.api-sports.io/football/teams/177.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 192,
+                    "name": "1.FC K\u00f6ln",
+                    "logo": "https://media.api-sports.io/football/teams/192.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 4,
+                    "away": 3
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 655486,
+                "referee": "G. Winkmann",
+                "timezone": "UTC",
+                "date": "2021-02-02T19:45:00+00:00",
+                "timestamp": 1612295100,
+                "periods": {
+                    "first": 1612295100,
+                    "second": 1612298700
+                },
+                "venue": {
+                    "id": 755,
+                    "name": "wohninvest WESERSTADION",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 178,
+                    "name": "SpVgg Greuther Furth",
+                    "logo": "https://media.api-sports.io/football/teams/178.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 655487,
+                "referee": "D. Siebert",
+                "timezone": "UTC",
+                "date": "2021-02-03T19:45:00+00:00",
+                "timestamp": 1612381500,
+                "periods": {
+                    "first": 1612381500,
+                    "second": 1612385100
+                },
+                "venue": {
+                    "id": 750,
+                    "name": "Mercedes-Benz-Arena",
+                    "city": "Stuttgart"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 172,
+                    "name": "VfB Stuttgart",
+                    "logo": "https://media.api-sports.io/football/teams/172.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 655488,
+                "referee": "F. Zwayer",
+                "timezone": "UTC",
+                "date": "2021-02-03T17:30:00+00:00",
+                "timestamp": 1612373400,
+                "periods": {
+                    "first": 1612373400,
+                    "second": 1612377000
+                },
+                "venue": {
+                    "id": 752,
+                    "name": "VOLKSWAGEN ARENA",
+                    "city": "Wolfsburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 174,
+                    "name": "FC Schalke 04",
+                    "logo": "https://media.api-sports.io/football/teams/174.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 663694,
+                "referee": "D. Schlager",
+                "timezone": "UTC",
+                "date": "2021-02-02T17:30:00+00:00",
+                "timestamp": 1612287000,
+                "periods": {
+                    "first": 1612287000,
+                    "second": 1612290600
+                },
+                "venue": {
+                    "id": 2704,
+                    "name": "Stadion Essen",
+                    "city": "Essen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 1621,
+                    "name": "Rot-weiss Essen",
+                    "logo": "https://media.api-sports.io/football/teams/1621.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 168,
+                    "name": "Bayer Leverkusen",
+                    "logo": "https://media.api-sports.io/football/teams/168.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 663695,
+                "referee": "S. Storks",
+                "timezone": "UTC",
+                "date": "2021-02-02T17:30:00+00:00",
+                "timestamp": 1612287000,
+                "periods": {
+                    "first": 1612287000,
+                    "second": 1612290600
+                },
+                "venue": {
+                    "id": 725,
+                    "name": "Holstein-Stadion",
+                    "city": "Kiel"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "PEN",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 181,
+                    "name": "SV Darmstadt 98",
+                    "logo": "https://media.api-sports.io/football/teams/181.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalty": {
+                    "home": 7,
+                    "away": 6
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675014,
+                "referee": "S. Stegemann",
+                "timezone": "UTC",
+                "date": "2021-03-02T19:45:00+00:00",
+                "timestamp": 1614714300,
+                "periods": {
+                    "first": 1614714300,
+                    "second": 1614717900
+                },
+                "venue": {
+                    "id": 703,
+                    "name": "Stadion im BORUSSIA-PARK",
+                    "city": "M\u00f6nchengladbach"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 163,
+                    "name": "Borussia Monchengladbach",
+                    "logo": "https://media.api-sports.io/football/teams/163.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675015,
+                "referee": "M. Schmidt",
+                "timezone": "UTC",
+                "date": "2021-03-03T17:30:00+00:00",
+                "timestamp": 1614792600,
+                "periods": {
+                    "first": 1614792600,
+                    "second": 1614796200
+                },
+                "venue": {
+                    "id": 2704,
+                    "name": "Stadion Essen",
+                    "city": "Essen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 1621,
+                    "name": "Rot-weiss Essen",
+                    "logo": "https://media.api-sports.io/football/teams/1621.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675016,
+                "referee": "G. Winkmann",
+                "timezone": "UTC",
+                "date": "2021-04-07T16:30:00+00:00",
+                "timestamp": 1617813000,
+                "periods": {
+                    "first": 1617813000,
+                    "second": 1617816600
+                },
+                "venue": {
+                    "id": 10490,
+                    "name": "Jahnstadion Regensburg",
+                    "city": "Regensburg"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 177,
+                    "name": "Jahn Regensburg",
+                    "logo": "https://media.api-sports.io/football/teams/177.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 675017,
+                "referee": "M. Fritz",
+                "timezone": "UTC",
+                "date": "2021-03-03T19:45:00+00:00",
+                "timestamp": 1614800700,
+                "periods": {
+                    "first": 1614800700,
+                    "second": 1614804300
+                },
+                "venue": {
+                    "id": 738,
+                    "name": "Red Bull Arena",
+                    "city": "Leipzig"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Quarter-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 161,
+                    "name": "VfL Wolfsburg",
+                    "logo": "https://media.api-sports.io/football/teams/161.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 682740,
+                "referee": "C. Dingert",
+                "timezone": "UTC",
+                "date": "2021-05-01T18:30:00+00:00",
+                "timestamp": 1619893800,
+                "periods": {
+                    "first": 1619893800,
+                    "second": 1619897400
+                },
+                "venue": {
+                    "id": 702,
+                    "name": "Signal-Iduna-Park",
+                    "city": "Dortmund"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 191,
+                    "name": "Holstein Kiel",
+                    "logo": "https://media.api-sports.io/football/teams/191.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 5,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 700143,
+                "referee": "M. Gr\u00e4fe",
+                "timezone": "UTC",
+                "date": "2021-04-30T18:30:00+00:00",
+                "timestamp": 1619807400,
+                "periods": {
+                    "first": 1619807400,
+                    "second": 1619811000
+                },
+                "venue": {
+                    "id": 755,
+                    "name": "wohninvest WESERSTADION",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "AET",
+                    "elapsed": 120
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Semi-finals"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 700980,
+                "referee": "F. Brych",
+                "timezone": "UTC",
+                "date": "2021-05-13T18:45:00+00:00",
+                "timestamp": 1620931500,
+                "periods": {
+                    "first": 1620931500,
+                    "second": 1620935100
+                },
+                "venue": {
+                    "id": 694,
+                    "name": "Olympiastadion Berlin",
+                    "city": "Berlin"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Final"
+            },
+            "teams": {
+                "home": {
+                    "id": 173,
+                    "name": "RB Leipzig",
+                    "logo": "https://media.api-sports.io/football/teams/173.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

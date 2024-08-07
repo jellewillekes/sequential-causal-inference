@@ -2,8 +2,7 @@ import sys
 import os
 import logging
 
-# Import the necessary functions from the scripts
-from raw_data.loader import request_raw_data
+from data.raw.loader import request_raw_data
 from data.process.data_cup import construct_cup_data
 from data.process.data_league import construct_league_data
 from data.financial.loader import request_financial_data

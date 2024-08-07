@@ -70,7 +70,7 @@ def construct_cup_data(country, cup):
     project_root_path = project_root()
 
     for season in range(season_start, season_end + 1):
-        season_path = os.path.join(project_root_path, 'raw_data', country, cup, str(season), 'fixtures_data.json')
+        season_path = os.path.join(project_root_path, 'raw', country, cup, str(season), 'fixtures_data.json')
         if os.path.isfile(season_path):
             with open(season_path, 'r') as file:
                 fixtures_data = json.load(file)
