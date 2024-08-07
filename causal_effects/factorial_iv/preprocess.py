@@ -1,14 +1,14 @@
 import os
 import pandas as pd
 import numpy as np
-from data.process_data.imputation import impute_data
+from data.preprocess.imputation import impute_data
 from raw_data.loader import project_root
 
 project_root = project_root()
 
 
 def load_processed_data(country, cup):
-    file_path = os.path.join(project_root, 'data/process_data', country, f'{cup}_processed.csv')
+    file_path = os.path.join(project_root, 'data/process', country, f'{cup}_processed.csv')
     return pd.read_csv(file_path)
 
 

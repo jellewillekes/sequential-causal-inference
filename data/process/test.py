@@ -11,7 +11,7 @@ from statsmodels.tools.tools import add_constant
 # Function for loading data
 def load_csv_data(country, file_name):
     project_root = project_root()
-    file_path = os.path.join(project_root, 'process_data', country, file_name)
+    file_path = os.path.join(project_root, 'process', country, file_name)
     return pd.read_csv(file_path)
 
 def preprocess_data(fixtures_df, standings_df):

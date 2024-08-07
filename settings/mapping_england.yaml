@@ -1,42 +1,77 @@
-England:
-  Premier_League:
-    id: 39
-    division: 1
-    season_start: 2011
-    season_end: 2023
-    data_types: [standings, fixtures]
-    transfermarkt_name: [premier-league, GB1]
-  Championship:
-    id: 40
-    division: 2
-    season_start: 2011
-    season_end: 2023
-    data_types: [standings, fixtures]
-    transfermarkt_name: [championship, GB2]
-  League_One:
-    id: 41
-    division: 3
-    season_start: 2011
-    season_end: 2023
-    data_types: [standings, fixtures]
-    transfermarkt_name: [league-one, GB3]
-  League_Two:
-    id: 42
-    division: 4
-    season_start: 2011
-    season_end: 2023
-    data_types: [standings, fixtures]
-    transfermarkt_name: [league-two, GB4]
-  FA_Cup:
-    id: 45
-    season_start: 2011
-    season_end: 2023
-    data_types: [fixtures]
-    transfermarkt_name: none
-  League_Cup:
-    id: 48
-    season_start: 2011
-    season_end: 2023
-    data_types: [fixtures]
-    transfermarkt_name: none
+Premier_League:
+  id: 39
+  division: 1
+  season_start: 2011
+  season_end: 2023
+  data_types: [standings, fixtures]
+  transfermarkt_name: [premier-league, GB1]
+Championship:
+  id: 40
+  division: 2
+  season_start: 2011
+  season_end: 2023
+  data_types: [standings, fixtures]
+  transfermarkt_name: [championship, GB2]
+League_One:
+  id: 41
+  division: 3
+  season_start: 2011
+  season_end: 2023
+  data_types: [standings, fixtures]
+  transfermarkt_name: [league-one, GB3]
+League_Two:
+  id: 42
+  division: 4
+  season_start: 2011
+  season_end: 2023
+  data_types: [standings, fixtures]
+  transfermarkt_name: [league-two, GB4]
+FA_Cup:
+  id: 45
+  season_start: 2011
+  season_end: 2023
+  data_types: [fixtures]
+  transfermarkt_name: none
+  rounds:
+    Preliminary Round: 0
+    1st Round: 1
+    1st Round Replays: 1
+    2nd Round: 2
+    2nd Round Replays: 2
+    3rd Round: 3
+    3nd Round Replays: 3
+    4th Round: 4
+    4th Round Replays: 4
+    5th Round: 5
+    5th Round Replays: 5
+    6th Round: 6
+    8th Finals: 7 # Assuming '8th Finals' is the same as 'Round of 16'
+    Round of 16: 7
+    Quarter-finals: 8
+    Semi-finals: 9
+    Final: 10
+League_Cup:
+  id: 48
+  season_start: 2011
+  season_end: 2023
+  data_types: [fixtures]
+  transfermarkt_name: none
+  rounds:
+    Preliminary Round: 0
+    1st Round: 1
+    1st Round Replays: 1
+    2nd Round: 2
+    2nd Round Replays: 2
+    3rd Round: 3
+    3nd Round Replays: 3
+    4th Round: 4
+    4th Round Replays: 4
+    5th Round: 5
+    5th Round Replays: 5
+    6th Round: 6
+    8th Finals: 7 # Assuming '8th Finals' is the same as 'Round of 16'
+    Round of 16: 7
+    Quarter-finals: 8
+    Semi-finals: 9
+    Final: 10
 

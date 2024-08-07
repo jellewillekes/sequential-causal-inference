@@ -27,11 +27,4 @@ def load_mappings_from_yaml(filename):
 def load_league_mappings(country):
     with open(os.path.join(project_root(), 'settings', f'mapping_{country.lower()}.yaml'), 'r') as file:
         league_mappings = yaml.safe_load(file)
-    return league_mappings.get(country)
-
-
-def load_stages(country):
-    # Load the stage order from the YAML file
-    with open(os.path.join(project_root(), 'settings', 'stages.yaml'), 'r') as file:
-        stages_data = yaml.safe_load(file)
-    return stages_data.get(country)
+    return league_mappings

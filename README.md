@@ -63,10 +63,54 @@ To leverage Causal Random Forests for non-parametric estimation of heterogeneous
 **Note:** Causal Random Forests do not assume a linear relationship, making them capable of capturing complex, nonlinear interactions between treatment and outcome.
 
 ## Loading the Data
-Exploring how success in cup games (like FA Cup) influences league results. Using the random draw of cup matches, our study covers teams across all divisions, aiming to guide clubs in balancing competition commitments with league performance.
 
-1. Run raw_data/loader.py for country
-2. Run cup_analysis.py
-3. Run league_analysis.py
-4. Run financial_data/loader.py
-5. Run distance_data/loader.py
+Getting started with loading and preprocessing the data for this analysis is straightforward. Follow the steps below to set up the data for evaluating the impact of cup games on league performance.
+
+### Supported Countries and Cups
+
+<div align="center">
+
+#### **Countries and Their Cups**
+- ![#4CAF50](https://via.placeholder.com/15/4CAF50/000000?text=+) `England`
+  - ![#FF5722](https://via.placeholder.com/15/FF5722/000000?text=+) `FA_Cup`
+  - ![#795548](https://via.placeholder.com/15/795548/000000?text=+) `League_Cup`
+- ![#2196F3](https://via.placeholder.com/15/2196F3/000000?text=+) `Germany`
+  - ![#9C27B0](https://via.placeholder.com/15/9C27B0/000000?text=+) `DFB_Pokal`
+- ![#FFC107](https://via.placeholder.com/15/FFC107/000000?text=+) `Netherlands`
+  - ![#607D8B](https://via.placeholder.com/15/607D8B/000000?text=+) `KNVB_Beker`
+
+</div>
+
+### Steps
+
+1. **Fetch Raw Data**:
+    ```bash
+    python main.py request_raw_data <country>
+    ```
+    Replace `<country>` with the desired country name from the supported list (England, Germany, Netherlands) to download the initial raw data.
+
+    **Example**:
+    ```bash
+    python main.py request_raw_data Germany
+    ```
+
+2. **Preprocess Data**:
+    ```bash
+    python main.py preprocess_data <country> <cup>
+    ```
+    Replace `<country>` with the country name and `<cup>` with the cup competition name from the supported list paired above to preprocess the data for analysis.
+
+    **Example**:
+    ```bash
+    python main.py preprocess_data Germany DFB_Pokal
+    ```
+
+These commands will handle all necessary steps:
+- **Fetch raw data**: Downloads the data specific to the country.
+- **Analyze Cup Data**: Processes cup competition data.
+- **Analyze League Data**: Processes league standings and fixtures data.
+- **Load Financial Data**: Gathers financial information of the teams.
+- **Calculate Distances**: Computes travel distances for matches.
+- **Combine Data**: Merges all data sources into a comprehensive dataset ready for analysis.
+
+

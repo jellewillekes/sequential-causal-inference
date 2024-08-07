@@ -1,0 +1,929 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "39",
+        "season": "2011"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 39,
+                "name": "Premier League",
+                "country": "England",
+                "logo": "https://media.api-sports.io/football/leagues/39.png",
+                "flag": "https://media.api-sports.io/flags/gb.svg",
+                "season": 2011,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 50,
+                                "name": "Manchester City",
+                                "logo": "https://media.api-sports.io/football/teams/50.png"
+                            },
+                            "points": 89,
+                            "goalsDiff": 64,
+                            "group": "Premier League",
+                            "form": "WWWWW",
+                            "status": null,
+                            "description": "UEFA Champions League",
+                            "all": {
+                                "played": 38,
+                                "win": 28,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 93,
+                                    "against": 29
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 18,
+                                "draw": 1,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 55,
+                                    "against": 12
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 10,
+                                "draw": 4,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 38,
+                                    "against": 17
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 33,
+                                "name": "Manchester United",
+                                "logo": "https://media.api-sports.io/football/teams/33.png"
+                            },
+                            "points": 89,
+                            "goalsDiff": 56,
+                            "group": "Premier League",
+                            "form": "WWLDW",
+                            "status": null,
+                            "description": "UEFA Champions League",
+                            "all": {
+                                "played": 38,
+                                "win": 28,
+                                "draw": 5,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 89,
+                                    "against": 33
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 15,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 52,
+                                    "against": 19
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 13,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 14
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 42,
+                                "name": "Arsenal",
+                                "logo": "https://media.api-sports.io/football/teams/42.png"
+                            },
+                            "points": 70,
+                            "goalsDiff": 25,
+                            "group": "Premier League",
+                            "form": "WDDDL",
+                            "status": null,
+                            "description": "UEFA Champions League",
+                            "all": {
+                                "played": 38,
+                                "win": 21,
+                                "draw": 7,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 74,
+                                    "against": 49
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 12,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 9,
+                                "draw": 3,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 35,
+                                    "against": 32
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 47,
+                                "name": "Tottenham",
+                                "logo": "https://media.api-sports.io/football/teams/47.png"
+                            },
+                            "points": 69,
+                            "goalsDiff": 25,
+                            "group": "Premier League",
+                            "form": "WDWWL",
+                            "status": null,
+                            "description": "UEFA Champions League Qualifiers",
+                            "all": {
+                                "played": 38,
+                                "win": 20,
+                                "draw": 9,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 66,
+                                    "against": 41
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 13,
+                                "draw": 3,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 39,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 34,
+                                "name": "Newcastle",
+                                "logo": "https://media.api-sports.io/football/teams/34.png"
+                            },
+                            "points": 65,
+                            "goalsDiff": 5,
+                            "group": "Premier League",
+                            "form": "LLWLW",
+                            "status": null,
+                            "description": "UEFA Europa League",
+                            "all": {
+                                "played": 38,
+                                "win": 19,
+                                "draw": 8,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 56,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 11,
+                                "draw": 5,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 29,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 3,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 34
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 49,
+                                "name": "Chelsea",
+                                "logo": "https://media.api-sports.io/football/teams/49.png"
+                            },
+                            "points": 64,
+                            "goalsDiff": 19,
+                            "group": "Premier League",
+                            "form": "WLLWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 18,
+                                "draw": 10,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 65,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 12,
+                                "draw": 3,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 41,
+                                    "against": 24
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 7,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 22
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 45,
+                                "name": "Everton",
+                                "logo": "https://media.api-sports.io/football/teams/45.png"
+                            },
+                            "points": 56,
+                            "goalsDiff": 10,
+                            "group": "Premier League",
+                            "form": "WDDWD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 15,
+                                "draw": 11,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 50,
+                                    "against": 40
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 10,
+                                "draw": 3,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 15
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 8,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 40,
+                                "name": "Liverpool",
+                                "logo": "https://media.api-sports.io/football/teams/40.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": 7,
+                            "group": "Premier League",
+                            "form": "LWLWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 10,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 47,
+                                    "against": 40
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 9,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 1,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 24
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 36,
+                                "name": "Fulham",
+                                "logo": "https://media.api-sports.io/football/teams/36.png"
+                            },
+                            "points": 52,
+                            "goalsDiff": -3,
+                            "group": "Premier League",
+                            "form": "LWWLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 14,
+                                "draw": 10,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 10,
+                                "draw": 5,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 26
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 25
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 60,
+                                "name": "West Brom",
+                                "logo": "https://media.api-sports.io/football/teams/60.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -7,
+                            "group": "Premier League",
+                            "form": "LDDWW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 13,
+                                "draw": 8,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 52
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 22
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 30
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 76,
+                                "name": "Swansea",
+                                "logo": "https://media.api-sports.io/football/teams/76.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -7,
+                            "group": "Premier League",
+                            "form": "WLDDW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 11,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 44,
+                                    "against": 51
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 27,
+                                    "against": 18
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 71,
+                                "name": "Norwich",
+                                "logo": "https://media.api-sports.io/football/teams/71.png"
+                            },
+                            "points": 47,
+                            "goalsDiff": -14,
+                            "group": "Premier League",
+                            "form": "WDLLL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 12,
+                                "draw": 11,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 52,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 6,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 28,
+                                    "against": 30
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 5,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 36
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 746,
+                                "name": "Sunderland",
+                                "logo": "https://media.api-sports.io/football/teams/746.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": -1,
+                            "group": "Premier League",
+                            "form": "LLDDD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 12,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 45,
+                                    "against": 46
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 7,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 17
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 29
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 75,
+                                "name": "Stoke City",
+                                "logo": "https://media.api-sports.io/football/teams/75.png"
+                            },
+                            "points": 45,
+                            "goalsDiff": -17,
+                            "group": "Premier League",
+                            "form": "DLDDL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 12,
+                                "lose": 15,
+                                "goals": {
+                                    "for": 36,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 8,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 25,
+                                    "against": 20
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 33
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 61,
+                                "name": "Wigan",
+                                "logo": "https://media.api-sports.io/football/teams/61.png"
+                            },
+                            "points": 43,
+                            "goalsDiff": -20,
+                            "group": "Premier League",
+                            "form": "WWWLW",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 11,
+                                "draw": 10,
+                                "lose": 17,
+                                "goals": {
+                                    "for": 42,
+                                    "against": 62
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 5,
+                                "draw": 7,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 27
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 35
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 66,
+                                "name": "Aston Villa",
+                                "logo": "https://media.api-sports.io/football/teams/66.png"
+                            },
+                            "points": 38,
+                            "goalsDiff": -16,
+                            "group": "Premier League",
+                            "form": "LDDLD",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 7,
+                                "draw": 17,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 37,
+                                    "against": 53
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 7,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 20,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 10,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 17,
+                                    "against": 28
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 17,
+                            "team": {
+                                "id": 72,
+                                "name": "QPR",
+                                "logo": "https://media.api-sports.io/football/teams/72.png"
+                            },
+                            "points": 37,
+                            "goalsDiff": -23,
+                            "group": "Premier League",
+                            "form": "LWLWL",
+                            "status": null,
+                            "description": null,
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 7,
+                                "lose": 21,
+                                "goals": {
+                                    "for": 43,
+                                    "against": 66
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 7,
+                                "draw": 5,
+                                "lose": 7,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 25
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 14,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 41
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 18,
+                            "team": {
+                                "id": 68,
+                                "name": "Bolton",
+                                "logo": "https://media.api-sports.io/football/teams/68.png"
+                            },
+                            "points": 36,
+                            "goalsDiff": -31,
+                            "group": "Premier League",
+                            "form": "DDLDW",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 10,
+                                "draw": 6,
+                                "lose": 22,
+                                "goals": {
+                                    "for": 46,
+                                    "against": 77
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 4,
+                                "draw": 4,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 39
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 23,
+                                    "against": 38
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 19,
+                            "team": {
+                                "id": 67,
+                                "name": "Blackburn",
+                                "logo": "https://media.api-sports.io/football/teams/67.png"
+                            },
+                            "points": 31,
+                            "goalsDiff": -30,
+                            "group": "Premier League",
+                            "form": "LLLWL",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 8,
+                                "draw": 7,
+                                "lose": 23,
+                                "goals": {
+                                    "for": 48,
+                                    "against": 78
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 6,
+                                "draw": 1,
+                                "lose": 12,
+                                "goals": {
+                                    "for": 26,
+                                    "against": 33
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 6,
+                                "lose": 11,
+                                "goals": {
+                                    "for": 22,
+                                    "against": 45
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 20,
+                            "team": {
+                                "id": 39,
+                                "name": "Wolves",
+                                "logo": "https://media.api-sports.io/football/teams/39.png"
+                            },
+                            "points": 25,
+                            "goalsDiff": -42,
+                            "group": "Premier League",
+                            "form": "LDDLD",
+                            "status": null,
+                            "description": "Relegation",
+                            "all": {
+                                "played": 38,
+                                "win": 5,
+                                "draw": 10,
+                                "lose": 23,
+                                "goals": {
+                                    "for": 40,
+                                    "against": 82
+                                }
+                            },
+                            "home": {
+                                "played": 19,
+                                "win": 3,
+                                "draw": 3,
+                                "lose": 13,
+                                "goals": {
+                                    "for": 19,
+                                    "against": 43
+                                }
+                            },
+                            "away": {
+                                "played": 19,
+                                "win": 2,
+                                "draw": 7,
+                                "lose": 10,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 39
+                                }
+                            },
+                            "update": "2018-02-15T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
