@@ -7,7 +7,14 @@ from data.financial_data.scrape import scrape_league_data
 
 
 def get_project_root():
-    return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    current_dir = os.path.abspath(__file__)
+    while True:
+        parent_dir = os.path.dirname(current_dir)
+        if os.path.exists(os.path.join(parent_dir, 'README.md')):
+            return parent_dir
+        if parent_dir == current_dir:
+            raise FileNotFoundError("Project root with 'README.md' not found.")
+        current_dir = parent_dir
 
 
 def load_mappings_from_yaml(filename):
@@ -29,11 +36,12 @@ def load_csv_data(country, file_name):
 
 
 def request_financial_data(country):
-    mappings = load_mappings_from_yaml(os.path.join('settings', f'mapping_{country.lower()}.yaml'))
+    mappings = load_mappings_from_yaml(os.path.join(get_project_root(), 'settings', f'mapping_{country.lower()}.yaml'))
 
     data_seasons = []
 
     for league_name, config in mappings[country].items():
+        print(f'request financial data for {league_name}')
         start = config['season_start']
         end = config['season_end']
         transfermarkt_name = config['transfermarkt_name']
@@ -51,7 +59,7 @@ def request_financial_data(country):
 
 
 if __name__ == "__main__":
-    country = 'Germany'
+    country = 'Netherlands'
 
     # financial_data = load_csv_data(country, 'league_financial_data.csv')
 
@@ -59,7 +67,7 @@ if __name__ == "__main__":
     financial_data = request_financial_data(country)
 
     # Save financial_data to CSV in the Germany folder under financial_data
-    output_path = os.path.join(get_project_root(), 'process_data', country, 'league_financial_data.csv')
+    output_path = os.path.join(get_project_root(), 'data', 'process_data', country, 'league_financial_data.csv')
     financial_data.to_csv(output_path, index=False)
 
     print(financial_data.head())

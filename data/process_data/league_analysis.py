@@ -15,7 +15,7 @@ class LeagueAnalysis:
         for league, details in self.leagues.items():
             if 'standings' in details['data_types']:
                 for season in range(details['season_start'], details['season_end'] + 1):
-                    standings_path = os.path.join(self.project_root, 'raw_data', self.country, league, str(season),
+                    standings_path = os.path.join(project_root(), 'raw_data', self.country, league, str(season),
                                                   'standings_data.json')
                     if os.path.isfile(standings_path):
                         with open(standings_path, 'r') as file:
@@ -77,7 +77,7 @@ class LeagueAnalysis:
         for league, details in self.leagues.items():
             if 'fixtures' in details['data_types'] and details['division'] != 'NaN':
                 for season in range(details['season_start'], details['season_end'] + 1):
-                    standings_path = os.path.join(self.project_root, 'raw_data', self.country, league, str(season),
+                    standings_path = os.path.join(project_root(), 'raw_data', self.country, league, str(season),
                                                   'fixtures_data.json')
                     if os.path.isfile(standings_path):
                         with open(standings_path, 'r') as file:
@@ -146,5 +146,5 @@ def run_analysis(country):
 
 
 if __name__ == "__main__":
-    country = 'Germany'
+    country = 'England'
     run_analysis(country)

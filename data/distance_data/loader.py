@@ -13,7 +13,7 @@ class DistanceAnalysis:
         self.stages = load_stages(country)
 
     def process_cup_fixtures(self):
-        fixtures_path = os.path.join(self.project_root, 'process_data', self.country,
+        fixtures_path = os.path.join(self.project_root, 'data', 'process_data', self.country,
                                      f'{self.cup}_fixtures.csv')
 
         fixtures_data = pd.read_csv(fixtures_path)
@@ -47,14 +47,14 @@ class DistanceAnalysis:
         return unique_combinations
 
     def save_intermediate_csv(self, df, row_index):
-        save_path = os.path.join(self.project_root, 'process_data', self.country,
+        save_path = os.path.join(self.project_root, 'data', 'process_data', self.country,
                                  f'{self.cup}_distances_incomplete.csv')
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         df.to_csv(save_path, index=False)
         print(f"Saved incomplete data at row {row_index} to {save_path}")
 
     def save_to_csv(self, df):
-        save_path = os.path.join(self.project_root, 'process_data', self.country,
+        save_path = os.path.join(self.project_root, 'data', 'process_data', self.country,
                                  f'{self.cup}_distances.csv')
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         df.to_csv(save_path, index=False)
@@ -63,8 +63,8 @@ class DistanceAnalysis:
 
 # Usage example
 if __name__ == "__main__":
-    country = 'Germany'
-    cup = 'DFB_Pokal'
+    country = 'Netherlands'
+    cup = 'KNVB_Beker'
 
     cup_analysis = DistanceAnalysis(country, cup)
     fixtures_df = cup_analysis.process_cup_fixtures()

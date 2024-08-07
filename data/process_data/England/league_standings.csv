@@ -1,4 +1,4 @@
-League,Division,Year,Position,Team,Team_id,Points,Played,Win,Draw,Lose,GoalsDiff,GoalsFor,GoalsAgainst,NationalRank
+league,division,year,position,team_name,team_id,points,played,win,draw,lose,goals_diff,goals_for,goals_against,national_rank
 Premier_League,1,2011,1,Manchester City,50,89,38,28,5,5,64,93,29,1
 Premier_League,1,2011,2,Manchester United,33,89,38,28,5,5,56,89,33,2
 Premier_League,1,2011,3,Arsenal,42,70,38,21,7,10,25,74,49,3
