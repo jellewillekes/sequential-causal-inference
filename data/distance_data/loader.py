@@ -47,14 +47,14 @@ class DistanceAnalysis:
         return unique_combinations
 
     def save_intermediate_csv(self, df, row_index):
-        save_path = os.path.join(self.project_root, 'process_data', self.country,
+        save_path = os.path.join(self.project_root, 'data', 'process_data', self.country,
                                  f'{self.cup}_distances_incomplete.csv')
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         df.to_csv(save_path, index=False)
         print(f"Saved incomplete data at row {row_index} to {save_path}")
 
     def save_to_csv(self, df):
-        save_path = os.path.join(self.project_root, 'process_data', self.country,
+        save_path = os.path.join(self.project_root, 'data', 'process_data', self.country,
                                  f'{self.cup}_distances.csv')
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         df.to_csv(save_path, index=False)
