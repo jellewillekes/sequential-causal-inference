@@ -3,7 +3,7 @@ import itertools
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from iv_2sls import load_processed_data, ensure_country_plots_dir, analyze_2sls_by_stage, plot_causal_effect
-from data.process_data.imputation import impute_data
+from data.preprocess.imputation import impute_data
 
 
 def ensure_country_plots_dir(country):

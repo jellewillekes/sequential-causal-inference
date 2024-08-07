@@ -12,7 +12,7 @@ plt.style.use(style_path)
 # Load data
 country = 'Germany'
 cup = 'DFB_Pokal'
-data = load_csv(os.path.join(project_root(), 'data', 'process_data', country, f'{cup}_processed.csv'))
+data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{cup}_processed.csv'))
 
 # Directory to save plots
 save_dir = os.path.join(project_root(), 'eda', 'plots', country)
@@ -40,7 +40,7 @@ def save_plot(plotname):
 
 # Function for loading data
 def load_csv_data(country, file_name):
-    file_path = os.path.join(project_root, 'data', 'process_data', country, file_name)
+    file_path = os.path.join(project_root, 'data', 'process', country, file_name)
     return pd.read_csv(file_path)
 
 

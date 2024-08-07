@@ -63,10 +63,31 @@ To leverage Causal Random Forests for non-parametric estimation of heterogeneous
 **Note:** Causal Random Forests do not assume a linear relationship, making them capable of capturing complex, nonlinear interactions between treatment and outcome.
 
 ## Loading the Data
-Exploring how success in cup games (like FA Cup) influences league results. Using the random draw of cup matches, our study covers teams across all divisions, aiming to guide clubs in balancing competition commitments with league performance.
 
-1. Run raw_data/loader.py for country
-2. Run cup_analysis.py
-3. Run league_analysis.py
-4. Run financial_data/loader.py
-5. Run distance_data/loader.py
+Getting started with loading and preprocessing the data for this analysis is straightforward. Follow the steps below to set up the data for evaluating the impact of cup games on league performance.
+
+### Supported Countries and Cups
+- **Countries**: England, Germany, Netherlands
+- **Cups**: FA_Cup, League_Cup, DFB_Pokal, KNVB_Beker
+
+### Steps
+
+1. **Fetch Raw Data**:
+    ```bash
+    python main.py request_raw_data <country>
+    ```
+    Replace `<country>` with the desired country name from the supported list (England, Germany, Netherlands) to download the initial raw data.
+
+2. **Preprocess Data**:
+    ```bash
+    python main.py preprocess_data <country> <cup>
+    ```
+    Replace `<country>` with the country name and `<cup>` with the cup competition name from the supported list (FA_Cup, League_Cup, DFB_Pokal, KNVB_Beker) to preprocess the data for analysis.
+
+These commands will handle all necessary steps:
+- **Fetch raw data**: Downloads the data specific to the country.
+- **Analyze Cup Data**: Processes cup competition data.
+- **Analyze League Data**: Processes league standings and fixtures data.
+- **Load Financial Data**: Gathers financial information of the teams.
+- **Calculate Distances**: Computes travel distances for matches.
+- **Combine Data**: Merges all data sources into a comprehensive dataset ready for analysis.

@@ -67,10 +67,10 @@ def merge_cup_and_league_data(cup_fixtures: pd.DataFrame, league_standings: pd.D
 
     merged_cup_fixtures = (merged_cup_fixtures
                            .assign(rank_diff=lambda df: df['opponent_rank_prev'] - df['team_rank_prev'],
-                                   const=1)
+                                   team_rank_diff=lambda df: df['team_rank'] - df['team_rank_prev'])
                            .dropna(subset=['stage'])
                            .assign(stage=lambda df: df['stage'].astype(int))
-                           .query('2012 <= year <= 2022')
+                           .query('2012 <= year <= 2023')
                            .assign(team_better=lambda df: (df['team_rank'] < df['opponent_rank_prev']).astype(int)))
 
     max_stage_data = cup_fixtures.groupby(['year', 'team_id'])['stage'].max().reset_index()
@@ -102,7 +102,8 @@ def merge_with_next_fixture_data(cup_fixtures, league_fixtures):
         fixture_date = row['fixture_date']
 
         next_matches = league_fixtures[
-            (league_fixtures['team_id'] == team_id) & (league_fixtures['fixture_date'] > fixture_date)]
+            (league_fixtures['team_id'] == team_id) &
+            (league_fixtures['fixture_date'] > fixture_date)]
 
         if not next_matches.empty:
             next_match = next_matches.iloc[0]
@@ -135,7 +136,7 @@ def merge_with_distance_data(cup_fixtures, distance_data):
     - pd.DataFrame: Merged dataframe with distance data.
     """
     cup_fixtures['distance'] = 0
-    away_matches = cup_fixtures[cup_fixtures['team_home'] == 'away']
+    away_matches = cup_fixtures[cup_fixtures['team_home'] == 'away'].copy()
 
     distance_dict = {}
     for index, row in distance_data.iterrows():
@@ -149,7 +150,7 @@ def merge_with_distance_data(cup_fixtures, distance_data):
         return distance_dict.get((team, opponent), None)
 
     away_matches['distance'] = away_matches.apply(lookup_distance, axis=1)
-    cup_fixtures.update(away_matches[['distance']])
+    cup_fixtures.loc[away_matches.index, 'distance'] = away_matches['distance']
 
     return cup_fixtures
 
@@ -232,12 +233,11 @@ def preprocess_data(country: str, cup: str):
     Returns:
     - pd.DataFrame: Preprocessed dataframe with combined data from various sources.
     """
-    cup_fixtures = load_csv(os.path.join(project_root(), 'data', 'process_data', country, f'{cup}_fixtures.csv'))
-    league_standings = load_csv(os.path.join(project_root(), 'data', 'process_data', country, 'league_standings.csv'))
-    league_fixtures = load_csv(os.path.join(project_root(), 'data', 'process_data', country, 'league_fixtures.csv'))
-    distance_data = load_csv(os.path.join(project_root(), 'data', 'process_data', country, f'{cup}_distances.csv'))
-    financial_data = load_csv(
-        os.path.join(project_root(), 'data', 'process_data', country, 'league_financial_data.csv'))
+    cup_fixtures = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{cup}_fixtures.csv'))
+    league_standings = load_csv(os.path.join(project_root(), 'data', 'process', country, 'league_standings.csv'))
+    league_fixtures = load_csv(os.path.join(project_root(), 'data', 'process', country, 'league_fixtures.csv'))
+    distance_data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{country}_distance_data.csv'))
+    financial_data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{country}_financial_data.csv'))
 
     merged_cup_fixtures = merge_cup_and_league_data(cup_fixtures, league_standings)
     merged_cup_fixtures = merge_with_next_fixture_data(merged_cup_fixtures, league_fixtures)
@@ -246,6 +246,11 @@ def preprocess_data(country: str, cup: str):
 
     merged_cup_fixtures['team_home'] = merged_cup_fixtures['team_home'].apply(lambda x: 1 if x == 'home' else 0)
     merged_cup_fixtures['extra_time'] = merged_cup_fixtures['fixture_length'].apply(lambda x: 1 if x > 90 else 0)
+
+    # Save the final preprocessed data to a CSV file
+    output_path = os.path.join(project_root(), 'data', 'process', country, f'{cup}_processed.csv')
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    merged_cup_fixtures.to_csv(output_path, index=False)
 
     return merged_cup_fixtures
 
@@ -266,7 +271,4 @@ def check_name_matches(data):
 if __name__ == "__main__":
     country = 'Germany'
     cup = 'DFB_Pokal'
-
     processed_data = preprocess_data(country, cup)
-    output_path = os.path.join(project_root(), 'data', 'process_data', country, f'{cup}_processed.csv')
-    processed_data.to_csv(output_path, index=False)
