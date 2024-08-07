@@ -66,18 +66,19 @@ To leverage Causal Random Forests for non-parametric estimation of heterogeneous
 
 Getting started with loading and preprocessing the data for this analysis is straightforward. Follow the steps below to set up the data for evaluating the impact of cup games on league performance.
 
-### Supported Countries and Cups
+<div align="left">
 
-<div align="center">
+### Countries and Their Cups
 
-#### **Countries and Their Cups**
-- ![#4CAF50](https://via.placeholder.com/15/4CAF50/000000?text=+) `England`
-  - ![#FF5722](https://via.placeholder.com/15/FF5722/000000?text=+) `FA_Cup`
-  - ![#795548](https://via.placeholder.com/15/795548/000000?text=+) `League_Cup`
-- ![#2196F3](https://via.placeholder.com/15/2196F3/000000?text=+) `Germany`
-  - ![#9C27B0](https://via.placeholder.com/15/9C27B0/000000?text=+) `DFB_Pokal`
-- ![#FFC107](https://via.placeholder.com/15/FFC107/000000?text=+) `Netherlands`
-  - ![#607D8B](https://via.placeholder.com/15/607D8B/000000?text=+) `KNVB_Beker`
+<a href="#" style="display: inline-block; padding: 8px 16px; margin: 4px; background-color: #4CAF50; color: white; border-radius: 4px; text-decoration: none;">England</a>
+<a href="#" style="display: inline-block; padding: 8px 16px; margin: 4px; background-color: #FF5722; color: white; border-radius: 4px; text-decoration: none;">FA_Cup</a>
+<a href="#" style="display: inline-block; padding: 8px 16px; margin: 4px; background-color: #795548; color: white; border-radius: 4px; text-decoration: none;">League_Cup</a>
+
+<a href="#" style="display: inline-block; padding: 8px 16px; margin: 4px; background-color: #2196F3; color: white; border-radius: 4px; text-decoration: none;">Germany</a>
+<a href="#" style="display: inline-block; padding: 8px 16px; margin: 4px; background-color: #9C27B0; color: white; border-radius: 4px; text-decoration: none;">DFB_Pokal</a>
+
+<a href="#" style="display: inline-block; padding: 8px 16px; margin: 4px; background-color: #FFC107; color: white; border-radius: 4px; text-decoration: none;">Netherlands</a>
+<a href="#" style="display: inline-block; padding: 8px 16px; margin: 4px; background-color: #607D8B; color: white; border-radius: 4px; text-decoration: none;">KNVB_Beker</a>
 
 </div>
 
@@ -85,24 +86,24 @@ Getting started with loading and preprocessing the data for this analysis is str
 
 1. **Fetch Raw Data**:
     ```bash
-    python main.py request_raw_data <country>
+    python main.py run_request_raw_data <country>
     ```
     Replace `<country>` with the desired country name from the supported list (England, Germany, Netherlands) to download the initial raw data.
 
     **Example**:
     ```bash
-    python main.py request_raw_data Germany
+    python main.py run_request_raw_data Germany
     ```
 
 2. **Preprocess Data**:
     ```bash
-    python main.py preprocess_data <country> <cup>
+    python main.py run_preprocess_data <country> <cup>
     ```
     Replace `<country>` with the country name and `<cup>` with the cup competition name from the supported list paired above to preprocess the data for analysis.
 
     **Example**:
     ```bash
-    python main.py preprocess_data Germany DFB_Pokal
+    python main.py run_preprocess_data Germany DFB_Pokal
     ```
 
 These commands will handle all necessary steps:
