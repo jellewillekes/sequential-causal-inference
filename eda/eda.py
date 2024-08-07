@@ -2,16 +2,7 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-<<<<<<< Updated upstream
-from raw_data.loader import get_project_root
-from statsmodels.sandbox.regression.gmm import IV2SLS
-from statsmodels.api import OLS
-from statsmodels.stats.outliers_influence import variance_inflation_factor
-from statsmodels.tools.tools import add_constant
-import statsmodels.api as sm
 
-project_root = get_project_root()
-=======
 from utils.load import project_root, load_csv
 
 # Load custom style
@@ -39,7 +30,6 @@ print(data[variables].describe())
 print("\nUnique Values:")
 for var in variables:
     print(f"{var}: {data[var].unique()}\n")
->>>>>>> Stashed changes
 
 
 # Function to save plots
@@ -48,17 +38,15 @@ def save_plot(plotname):
     plt.close()
 
 
-<<<<<<< Updated upstream
 # Function for loading data
 def load_csv_data(country, file_name):
-    project_root = get_project_root()
-    file_path = os.path.join(project_root, 'process_data', country, file_name)
+    file_path = os.path.join(project_root, 'data', 'process_data', country, file_name)
     return pd.read_csv(file_path)
-=======
+
+
 # 1. Plot next match performance
 def plot_next_match_performance(data):
     data['next_team_points'].fillna(0, inplace=True)
->>>>>>> Stashed changes
 
     fig, axes = plt.subplots(2, 1, figsize=(12, 10))
 

@@ -1,0 +1,229 @@
+year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
+2017,Eredivisie,Ajax Amsterdam,39,22.3,17,6.44,251.0
+2017,Eredivisie,PSV Eindhoven,32,22.7,14,5.45,174.45
+2017,Eredivisie,Feyenoord Rotterdam,32,24.1,12,3.26,104.2
+2017,Eredivisie,AZ Alkmaar,34,23.2,10,2.08,70.68
+2017,Eredivisie,FC Utrecht,36,24.6,17,1.3,46.63
+2017,Eredivisie,Vitesse Arnhem,34,24.1,13,1.17,39.78
+2017,Eredivisie,SC Heerenveen,26,24.2,12,1.5,39.13
+2017,Eredivisie,FC Groningen,31,23.0,13,0.977,30.3
+2017,Eredivisie,PEC Zwolle,32,24.0,10,0.823,26.33
+2017,Eredivisie,ADO Den Haag,34,24.5,9,0.695,23.63
+2017,Eredivisie,Heracles Almelo,31,24.9,11,0.718,22.25
+2017,Eredivisie,Twente Enschede FC,36,23.6,23,0.615,22.15
+2017,Eredivisie,Willem II Tilburg,37,23.6,23,0.504,18.65
+2017,Eredivisie,NAC Breda,36,23.0,20,0.476,17.15
+2017,Eredivisie,Sparta Rotterdam,41,23.9,23,0.377,15.45
+2017,Eredivisie,Excelsior Rotterdam,29,25.0,11,0.51,14.8
+2017,Eredivisie,VVV-Venlo,35,23.5,10,0.388,13.58
+2017,Eredivisie,Roda JC Kerkrade,33,24.1,18,0.402,13.28
+2018,Eredivisie,Ajax Amsterdam,39,23.0,21,12.9,503.15
+2018,Eredivisie,PSV Eindhoven,41,22.9,20,5.8,237.85
+2018,Eredivisie,Feyenoord Rotterdam,35,23.9,16,3.04,106.55
+2018,Eredivisie,AZ Alkmaar,39,23.2,13,1.73,67.5
+2018,Eredivisie,Vitesse Arnhem,36,24.3,15,1.37,49.18
+2018,Eredivisie,SC Heerenveen,32,23.3,16,1.52,48.63
+2018,Eredivisie,FC Utrecht,35,24.5,18,1.3,45.33
+2018,Eredivisie,FC Groningen,33,23.1,14,1.24,41.0
+2018,Eredivisie,Willem II Tilburg,33,23.1,26,1.09,36.0
+2018,Eredivisie,Heracles Almelo,31,24.5,11,0.877,27.2
+2018,Eredivisie,PEC Zwolle,38,24.2,14,0.647,24.6
+2018,Eredivisie,Fortuna Sittard,44,22.5,27,0.484,21.3
+2018,Eredivisie,ADO Den Haag,33,24.9,10,0.639,21.1
+2018,Eredivisie,NAC Breda,40,23.8,21,0.431,17.25
+2018,Eredivisie,VVV-Venlo,28,24.5,9,0.585,16.38
+2018,Eredivisie,Excelsior Rotterdam,29,24.5,16,0.483,14.0
+2018,Eredivisie,FC Emmen,38,25.2,9,0.359,13.63
+2018,Eredivisie,De Graafschap Doetinchem,38,24.8,7,0.316,12.03
+2019,Eredivisie,Ajax Amsterdam,39,23.8,20,10.27,400.4
+2019,Eredivisie,PSV Eindhoven,41,24.0,19,5.36,219.58
+2019,Eredivisie,AZ Alkmaar,30,23.6,11,4.34,130.05
+2019,Eredivisie,Feyenoord Rotterdam,38,24.2,19,2.7,102.73
+2019,Eredivisie,FC Utrecht,42,24.0,20,1.16,48.58
+2019,Eredivisie,Vitesse Arnhem,34,24.7,20,0.898,30.53
+2019,Eredivisie,FC Groningen,37,22.2,15,0.822,30.4
+2019,Eredivisie,SC Heerenveen,29,22.9,16,0.922,26.75
+2019,Eredivisie,Heracles Almelo,32,23.8,17,0.702,22.48
+2019,Eredivisie,Willem II Tilburg,29,23.6,22,0.752,21.8
+2019,Eredivisie,Twente Enschede FC,32,23.8,20,0.665,21.28
+2019,Eredivisie,ADO Den Haag,41,25.5,17,0.473,19.4
+2019,Eredivisie,PEC Zwolle,37,23.9,15,0.446,16.5
+2019,Eredivisie,Sparta Rotterdam,30,24.3,13,0.517,15.5
+2019,Eredivisie,FC Emmen,36,24.8,17,0.367,13.23
+2019,Eredivisie,Fortuna Sittard,33,22.4,24,0.396,13.08
+2019,Eredivisie,VVV-Venlo,32,24.7,16,0.376,12.03
+2019,Eredivisie,RKC Waalwijk,36,24.9,13,0.299,10.78
+2020,Eredivisie,Ajax Amsterdam,40,23.1,17,10.7,428.1
+2020,Eredivisie,PSV Eindhoven,41,23.0,26,4.99,204.58
+2020,Eredivisie,AZ Alkmaar,42,23.3,12,3.23,135.53
+2020,Eredivisie,Feyenoord Rotterdam,36,24.3,15,3.01,108.38
+2020,Eredivisie,FC Utrecht,38,24.5,16,1.23,46.63
+2020,Eredivisie,FC Groningen,36,22.8,16,0.946,34.05
+2020,Eredivisie,Vitesse Arnhem,31,22.7,16,1.02,31.5
+2020,Eredivisie,SC Heerenveen,34,23.0,16,0.91,30.95
+2020,Eredivisie,Twente Enschede FC,30,23.0,14,0.945,28.35
+2020,Eredivisie,Willem II Tilburg,35,23.9,18,0.61,21.35
+2020,Eredivisie,Fortuna Sittard,37,24.2,23,0.501,18.55
+2020,Eredivisie,PEC Zwolle,34,23.6,16,0.519,17.65
+2020,Eredivisie,Heracles Almelo,32,23.3,20,0.549,17.58
+2020,Eredivisie,Sparta Rotterdam,32,24.9,13,0.513,16.43
+2020,Eredivisie,ADO Den Haag,43,24.5,17,0.372,15.98
+2020,Eredivisie,FC Emmen,37,25.1,19,0.395,14.63
+2020,Eredivisie,VVV-Venlo,33,25.2,18,0.416,13.73
+2020,Eredivisie,RKC Waalwijk,31,24.8,19,0.375,11.63
+2021,Eredivisie,Ajax Amsterdam,45,23.6,22,8.58,386.05
+2021,Eredivisie,PSV Eindhoven,40,23.9,26,5.27,210.78
+2021,Eredivisie,Feyenoord Rotterdam,45,23.2,21,4.01,180.38
+2021,Eredivisie,AZ Alkmaar,38,22.6,13,2.61,99.23
+2021,Eredivisie,Vitesse Arnhem,36,22.8,19,1.31,47.1
+2021,Eredivisie,FC Utrecht,43,24.2,15,1.08,46.6
+2021,Eredivisie,FC Groningen,36,22.9,19,1.2,43.35
+2021,Eredivisie,SC Heerenveen,36,23.7,12,1.15,41.25
+2021,Eredivisie,Twente Enschede FC,33,23.8,13,1.07,35.28
+2021,Eredivisie,Sparta Rotterdam,39,25.3,16,0.537,20.93
+2021,Eredivisie,Heracles Almelo,37,23.7,24,0.496,18.35
+2021,Eredivisie,Fortuna Sittard,38,24.8,24,0.476,18.08
+2021,Eredivisie,Willem II Tilburg,37,24.2,22,0.422,15.6
+2021,Eredivisie,NEC Nijmegen,31,24.4,15,0.46,14.28
+2021,Eredivisie,PEC Zwolle,39,23.6,16,0.365,14.23
+2021,Eredivisie,Go Ahead Eagles,35,23.9,15,0.369,12.93
+2021,Eredivisie,SC Cambuur Leeuwarden,31,24.3,10,0.402,12.45
+2021,Eredivisie,RKC Waalwijk,29,25.5,17,0.412,11.95
+2022,Eredivisie,Ajax Amsterdam,43,23.6,20,9.08,390.38
+2022,Eredivisie,PSV Eindhoven,44,23.9,22,7.17,315.65
+2022,Eredivisie,Feyenoord Rotterdam,36,23.8,19,7.44,267.8
+2022,Eredivisie,AZ Alkmaar,38,23.3,15,3.58,135.93
+2022,Eredivisie,Twente Enschede FC,35,23.7,14,1.78,62.25
+2022,Eredivisie,FC Utrecht,42,24.5,19,1.34,56.2
+2022,Eredivisie,SC Heerenveen,33,23.5,15,1.55,51.1
+2022,Eredivisie,FC Groningen,45,23.0,23,1.08,48.78
+2022,Eredivisie,Vitesse Arnhem,32,23.7,15,1.37,43.7
+2022,Eredivisie,Sparta Rotterdam,37,24.8,15,0.91,33.68
+2022,Eredivisie,Fortuna Sittard,34,25.2,24,0.747,25.4
+2022,Eredivisie,NEC Nijmegen,28,24.4,11,0.857,24.0
+2022,Eredivisie,FC Volendam,34,22.5,13,0.513,17.43
+2022,Eredivisie,Go Ahead Eagles,34,23.4,14,0.474,16.1
+2022,Eredivisie,Excelsior Rotterdam,31,23.4,11,0.511,15.85
+2022,Eredivisie,SC Cambuur Leeuwarden,36,25.7,12,0.433,15.6
+2022,Eredivisie,FC Emmen,39,25.1,16,0.378,14.73
+2022,Eredivisie,RKC Waalwijk,29,26.1,18,0.47,13.63
+2017,Eerste_Divisie,Ajax Amsterdam U21,50,20.7,20,1.3,64.95
+2017,Eerste_Divisie,AZ Alkmaar U21,49,21.0,10,0.544,26.68
+2017,Eerste_Divisie,PSV Eindhoven U21,40,20.4,17,0.474,18.98
+2017,Eerste_Divisie,FC Utrecht U21,46,20.9,14,0.288,13.25
+2017,Eerste_Divisie,NEC Nijmegen,32,23.2,13,0.41,13.13
+2017,Eerste_Divisie,Fortuna Sittard,33,21.2,17,0.241,7.95
+2017,Eerste_Divisie,SC Cambuur Leeuwarden,32,24.5,8,0.174,5.58
+2017,Eerste_Divisie,Go Ahead Eagles,37,23.1,9,0.147,5.45
+2017,Eerste_Divisie,De Graafschap Doetinchem,30,24.3,7,0.182,5.45
+2017,Eerste_Divisie,FC Dordrecht,42,22.8,19,0.129,5.4
+2017,Eerste_Divisie,SC Telstar,30,23.6,11,0.161,4.83
+2017,Eerste_Divisie,FC Emmen,30,24.5,3,0.158,4.74
+2017,Eerste_Divisie,Almere City FC,31,24.4,9,0.148,4.58
+2017,Eerste_Divisie,MVV Maastricht,26,22.6,17,0.17,4.43
+2017,Eerste_Divisie,FC Eindhoven,35,22.3,17,0.114,4.0
+2017,Eerste_Divisie,FC Volendam,33,23.2,0,0.116,3.83
+2017,Eerste_Divisie,FC Oss,30,25.4,4,0.119,3.58
+2017,Eerste_Divisie,FC Den Bosch,33,22.4,14,0.108,3.55
+2017,Eerste_Divisie,RKC Waalwijk,37,23.6,15,0.093,3.45
+2017,Eerste_Divisie,Helmond Sport,33,23.4,5,0.1,3.3
+2018,Eerste_Divisie,Ajax Amsterdam U21,48,19.4,20,0.869,41.7
+2018,Eerste_Divisie,PSV Eindhoven U21,36,20.0,16,0.828,29.8
+2018,Eerste_Divisie,AZ Alkmaar U21,39,20.1,6,0.427,16.65
+2018,Eerste_Divisie,Twente Enschede FC,33,23.7,19,0.331,10.93
+2018,Eerste_Divisie,FC Den Bosch,33,23.4,15,0.255,8.43
+2018,Eerste_Divisie,Sparta Rotterdam,43,22.8,18,0.196,8.43
+2018,Eerste_Divisie,NEC Nijmegen,37,24.0,10,0.203,7.5
+2018,Eerste_Divisie,FC Utrecht U21,41,19.7,12,0.161,6.6
+2018,Eerste_Divisie,Roda JC Kerkrade,33,22.5,17,0.184,6.08
+2018,Eerste_Divisie,SC Cambuur Leeuwarden,36,23.3,13,0.156,5.6
+2018,Eerste_Divisie,Go Ahead Eagles,33,23.8,3,0.169,5.58
+2018,Eerste_Divisie,TOP Oss,30,25.4,4,0.181,5.43
+2018,Eerste_Divisie,Almere City FC,37,23.6,13,0.142,5.25
+2018,Eerste_Divisie,MVV Maastricht,28,22.8,14,0.17,4.75
+2018,Eerste_Divisie,FC Eindhoven,34,21.4,13,0.136,4.63
+2018,Eerste_Divisie,RKC Waalwijk,30,24.4,9,0.153,4.58
+2018,Eerste_Divisie,SC Telstar,30,23.5,10,0.151,4.53
+2018,Eerste_Divisie,FC Volendam,35,22.4,3,0.128,4.48
+2018,Eerste_Divisie,Helmond Sport,29,23.0,5,0.134,3.88
+2018,Eerste_Divisie,FC Dordrecht,34,20.9,12,0.113,3.85
+2019,Eerste_Divisie,Ajax Amsterdam U21,44,19.5,17,2.17,95.6
+2019,Eerste_Divisie,PSV Eindhoven U21,38,20.4,16,1.15,43.85
+2019,Eerste_Divisie,AZ Alkmaar U21,41,20.2,11,0.566,23.23
+2019,Eerste_Divisie,NEC Nijmegen,30,23.1,7,0.441,13.23
+2019,Eerste_Divisie,NAC Breda,30,22.1,14,0.392,11.75
+2019,Eerste_Divisie,FC Volendam,33,21.8,10,0.321,10.6
+2019,Eerste_Divisie,Almere City FC,39,23.9,11,0.244,9.53
+2019,Eerste_Divisie,De Graafschap Doetinchem,30,24.7,4,0.305,9.15
+2019,Eerste_Divisie,FC Utrecht U21,42,20.4,12,0.208,8.73
+2019,Eerste_Divisie,Excelsior Rotterdam,29,23.6,10,0.292,8.48
+2019,Eerste_Divisie,SC Cambuur Leeuwarden,30,24.6,9,0.254,7.63
+2019,Eerste_Divisie,Go Ahead Eagles,32,24.1,9,0.234,7.48
+2019,Eerste_Divisie,Roda JC Kerkrade,33,22.8,20,0.212,7.0
+2019,Eerste_Divisie,FC Dordrecht,37,22.0,11,0.173,6.4
+2019,Eerste_Divisie,FC Den Bosch,32,22.7,10,0.198,6.35
+2019,Eerste_Divisie,FC Eindhoven,38,21.9,13,0.157,5.95
+2019,Eerste_Divisie,SC Telstar,29,23.1,11,0.204,5.93
+2019,Eerste_Divisie,MVV Maastricht,34,23.0,18,0.174,5.9
+2019,Eerste_Divisie,TOP Oss,33,25.8,9,0.164,5.4
+2019,Eerste_Divisie,Helmond Sport,24,23.8,3,0.189,4.53
+2020,Eerste_Divisie,Ajax Amsterdam U21,41,19.2,14,1.51,61.73
+2020,Eerste_Divisie,AZ Alkmaar U21,48,20.2,8,0.49,23.53
+2020,Eerste_Divisie,FC Utrecht U21,53,20.2,15,0.317,16.8
+2020,Eerste_Divisie,NAC Breda,44,23.5,18,0.282,12.43
+2020,Eerste_Divisie,PSV Eindhoven U21,49,19.3,20,0.231,11.33
+2020,Eerste_Divisie,FC Volendam,39,21.3,12,0.247,9.65
+2020,Eerste_Divisie,SC Cambuur Leeuwarden,32,24.3,8,0.275,8.8
+2020,Eerste_Divisie,De Graafschap Doetinchem,31,24.3,3,0.28,8.68
+2020,Eerste_Divisie,NEC Nijmegen,29,22.9,9,0.298,8.65
+2020,Eerste_Divisie,Almere City FC,38,23.3,17,0.222,8.45
+2020,Eerste_Divisie,Roda JC Kerkrade,33,24.2,12,0.254,8.38
+2020,Eerste_Divisie,Excelsior Rotterdam,34,23.0,9,0.217,7.38
+2020,Eerste_Divisie,Go Ahead Eagles,34,23.1,9,0.201,6.83
+2020,Eerste_Divisie,MVV Maastricht,37,23.2,16,0.166,6.15
+2020,Eerste_Divisie,FC Eindhoven,43,22.2,12,0.141,6.08
+2020,Eerste_Divisie,FC Den Bosch,41,22.3,11,0.144,5.9
+2020,Eerste_Divisie,SC Telstar,40,22.2,11,0.147,5.88
+2020,Eerste_Divisie,TOP Oss,32,25.0,9,0.177,5.68
+2020,Eerste_Divisie,FC Dordrecht,38,21.8,13,0.136,5.15
+2020,Eerste_Divisie,Helmond Sport,26,22.8,7,0.169,4.4
+2021,Eerste_Divisie,Ajax Amsterdam U21,45,19.2,15,1.43,64.48
+2021,Eerste_Divisie,FC Utrecht U21,49,20.4,14,0.342,16.75
+2021,Eerste_Divisie,PSV Eindhoven U21,46,19.5,23,0.339,15.6
+2021,Eerste_Divisie,AZ Alkmaar U21,51,19.9,7,0.298,15.18
+2021,Eerste_Divisie,FC Volendam,46,21.9,15,0.328,15.1
+2021,Eerste_Divisie,ADO Den Haag,45,23.6,12,0.219,9.88
+2021,Eerste_Divisie,NAC Breda,37,23.4,15,0.259,9.6
+2021,Eerste_Divisie,Roda JC Kerkrade,35,23.9,17,0.265,9.29
+2021,Eerste_Divisie,FC Emmen,35,23.8,11,0.263,9.2
+2021,Eerste_Divisie,VVV-Venlo,38,22.4,11,0.227,8.63
+2021,Eerste_Divisie,Excelsior Rotterdam,33,21.7,8,0.249,8.23
+2021,Eerste_Divisie,Almere City FC,39,23.8,12,0.205,8.0
+2021,Eerste_Divisie,FC Den Bosch,39,23.0,8,0.188,7.33
+2021,Eerste_Divisie,De Graafschap Doetinchem,32,23.7,5,0.229,7.33
+2021,Eerste_Divisie,FC Eindhoven,28,23.0,9,0.222,6.23
+2021,Eerste_Divisie,MVV Maastricht,41,21.8,18,0.147,6.03
+2021,Eerste_Divisie,SC Telstar,37,23.2,8,0.161,5.95
+2021,Eerste_Divisie,FC Dordrecht,35,22.3,12,0.164,5.73
+2021,Eerste_Divisie,Helmond Sport,28,22.1,15,0.186,5.2
+2021,Eerste_Divisie,TOP Oss,30,24.8,10,0.166,4.98
+2022,Eerste_Divisie,Ajax Amsterdam U21,45,19.0,18,1.05,47.03
+2022,Eerste_Divisie,PSV Eindhoven U21,46,19.5,20,0.952,43.78
+2022,Eerste_Divisie,AZ Alkmaar U21,56,19.3,8,0.336,18.8
+2022,Eerste_Divisie,FC Utrecht U21,47,20.0,15,0.334,15.7
+2022,Eerste_Divisie,Heracles Almelo,38,23.7,22,0.368,13.98
+2022,Eerste_Divisie,Roda JC Kerkrade,32,23.4,14,0.403,12.9
+2022,Eerste_Divisie,PEC Zwolle,37,24.1,11,0.347,12.83
+2022,Eerste_Divisie,NAC Breda,40,24.0,13,0.255,10.2
+2022,Eerste_Divisie,Willem II Tilburg,32,25.3,9,0.311,9.95
+2022,Eerste_Divisie,Almere City FC,38,24.0,12,0.247,9.4
+2022,Eerste_Divisie,ADO Den Haag,36,23.5,9,0.258,9.3
+2022,Eerste_Divisie,VVV-Venlo,33,22.5,9,0.242,7.98
+2022,Eerste_Divisie,FC Eindhoven,29,23.4,15,0.266,7.7
+2022,Eerste_Divisie,De Graafschap Doetinchem,36,23.9,7,0.206,7.43
+2022,Eerste_Divisie,TOP Oss,37,23.4,8,0.182,6.73
+2022,Eerste_Divisie,Helmond Sport,31,23.4,15,0.21,6.5
+2022,Eerste_Divisie,FC Dordrecht,36,22.7,14,0.179,6.44
+2022,Eerste_Divisie,MVV Maastricht,29,22.2,12,0.206,5.98
+2022,Eerste_Divisie,FC Den Bosch,37,22.9,13,0.145,5.35
+2022,Eerste_Divisie,SC Telstar,31,24.0,6,0.161,5.0

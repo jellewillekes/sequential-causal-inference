@@ -1,4 +1,4 @@
-Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponent_id,Team_win,Team_home,Match_length,Match_location
+year,round,stage,fixture_id,fixture_date,team_name,team_id,opponent_name,opponent_id,team_win,team_home,fixture_length,fixture_location
 2011,Quarter-finals,8.0,451869,2012-03-17T12:45:00+00:00,Everton,45,Sunderland,746,,home,90.0,Goodison Park
 2011,Quarter-finals,8.0,451869,2012-03-17T12:45:00+00:00,Sunderland,746,Everton,45,,away,90.0,Goodison Park
 2011,Quarter-finals,8.0,451870,2012-03-18T14:05:00+00:00,Chelsea,49,Leicester,46,1.0,home,90.0,Stamford Bridge

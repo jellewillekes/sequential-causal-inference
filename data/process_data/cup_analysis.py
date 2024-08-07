@@ -1,4 +1,4 @@
-from raw_data.loader import get_project_root, load_stages
+from utils.load import project_root, load_stages
 import os
 import json
 import pandas as pd
@@ -8,7 +8,7 @@ class CupAnalysis:
     def __init__(self, country, cup):
         self.country = country
         self.cup = cup
-        self.project_root = get_project_root()
+        self.project_root = project_root()
         self.stages = load_stages(country)
 
     def process_cup_fixtures(self, season_start, season_end):

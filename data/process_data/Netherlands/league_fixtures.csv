@@ -1,4 +1,4 @@
-Year,Date,Round,City,Team_name,Team_id,Opponent_name,Opponent_id,Team_win,Team_goals,Opponent_goals,Team_points
+year,fixture_date,round,fixture_location,team_name,team_id,opponent_name,opponent_id,team_win,team_goals,opponent_goals,team_points
 2017,2018-05-06T12:30:00+00:00,Regular Season - 34,Alkmaar,AZ Alkmaar,201,PEC Zwolle,193,1.0,6.0,0.0,3
 2017,2018-05-06T12:30:00+00:00,Regular Season - 34,Alkmaar,PEC Zwolle,193,AZ Alkmaar,201,0.0,0.0,6.0,0
 2017,2018-05-06T12:30:00+00:00,Regular Season - 34,Rotterdam,Excelsior,196,Ajax,194,0.0,1.0,2.0,0

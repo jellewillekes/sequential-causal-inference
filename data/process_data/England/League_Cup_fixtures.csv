@@ -1,4 +1,4 @@
-Year,Round,Stage,Fixture_id,Fixture_date,Team_name,Team_id,Opponent_name,Opponent_id,Team_win,Team_home,Match_length,Match_location
+year,round,stage,fixture_id,fixture_date,team_name,team_id,opponent_name,opponent_id,team_win,team_home,fixture_length,fixture_location
 2011,Final,10,455598,2012-02-26T16:00:00+00:00,Cardiff,43,Liverpool,40,0.0,home,120.0,Wembley Stadium (London)
 2011,Final,10,455598,2012-02-26T16:00:00+00:00,Liverpool,40,Cardiff,43,1.0,away,120.0,Wembley Stadium (London)
 2011,Semi-finals,9,455599,2012-01-10T20:00:00+00:00,Crystal Palace,52,Cardiff,43,1.0,home,90.0,Selhurst Park (London)
