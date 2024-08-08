@@ -1,30 +1,30 @@
-#Eredivisie:
-#  id: 88
-#  division: 1
-#  season_start: 2017
-#  season_end: 2023
-#  data_types: [ standings, fixtures ]
-#  transfermarkt_name: [eredivisie, NL1]
-#Eerste_Divisie:
-#  id: 89
-#  division: 2
-#  season_start: 2017
-#  season_end: 2023
-#  data_types: [ standings, fixtures ]
-#  transfermarkt_name: [keuken-kampioen-divisie, NL2]
-#Tweede_Divisie:
-#  id: 492
-#  division: 3
-#  season_start: 2017
-#  season_end: 2023
-#  data_types: [standings, fixtures]
-#  transfermarkt_name: none
+Eredivisie:
+  id: 88
+  division: 1
+  season_start: 2017
+  season_end: 2023
+  data_types: [ standings, fixtures ]
+  transfermarkt_name: [ eredivisie, NL1 ]
+Eerste_Divisie:
+  id: 89
+  division: 2
+  season_start: 2017
+  season_end: 2023
+  data_types: [ standings, fixtures ]
+  transfermarkt_name: [ keuken-kampioen-divisie, NL2 ]
+Tweede_Divisie:
+  id: 492
+  division: 3
+  season_start: 2017
+  season_end: 2023
+  data_types: [ standings, fixtures ]
+  transfermarkt_name: none
 KNVB_Beker:
   id: 90
   division: NaN
   season_start: 2017
   season_end: 2023
-  data_types: [fixtures]
+  data_types: [ fixtures ]
   transfermarkt_name: none
   rounds:
     1st Round: 1

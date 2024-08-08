@@ -117,7 +117,7 @@ def compile_fixtures(country):
 
     for league, details in leagues.items():
         if 'fixtures' in details['data_types'] and details['division'] != 'NaN':
-            for season in range(details['season_start'], details['season_end'] + 1):
+            for season in range(details['season_start'], details['season_end']):
                 fixtures_path = os.path.join(project_root(), 'data', 'raw', country, league, str(season),
                                              'fixtures_data.json')
                 if os.path.isfile(fixtures_path):

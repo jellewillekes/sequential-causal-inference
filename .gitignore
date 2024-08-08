@@ -1,3 +1,6 @@
+# Ignore JSON in raw
+data/raw/**/*.json
+
 # Ignore api key
 **/api_key.txt
 
