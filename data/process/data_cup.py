@@ -69,8 +69,8 @@ def construct_cup_data(country, cup):
     all_matches = []
     project_root_path = project_root()
 
-    for season in range(season_start, season_end + 1):
-        season_path = os.path.join(project_root_path, 'raw', country, cup, str(season), 'fixtures_data.json')
+    for season in range(season_start, season_end):
+        season_path = os.path.join(project_root_path, 'data', 'raw', country, cup, str(season), 'fixtures_data.json')
         if os.path.isfile(season_path):
             with open(season_path, 'r') as file:
                 fixtures_data = json.load(file)
@@ -83,6 +83,6 @@ def construct_cup_data(country, cup):
 
 # Usage example
 if __name__ == "__main__":
-    country = 'England'
-    cup = 'FA_Cup'
+    country = 'Germany'
+    cup = 'DFB_Pokal'
     construct_cup_data(country, cup)

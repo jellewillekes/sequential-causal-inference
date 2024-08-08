@@ -1,8 +1,8 @@
 {
-    "get": "fixtures",
+    "get": "standings",
     "parameters": {
         "league": "90",
-        "season": "2015"
+        "season": "2022"
     },
     "errors": [],
     "results": 0,

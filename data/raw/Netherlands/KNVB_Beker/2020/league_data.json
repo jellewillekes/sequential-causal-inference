@@ -1,8 +1,8 @@
 {
-    "get": "fixtures",
+    "get": "standings",
     "parameters": {
         "league": "90",
-        "season": "2010"
+        "season": "2020"
     },
     "errors": [],
     "results": 0,

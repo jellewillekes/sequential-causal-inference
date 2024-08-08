@@ -1,8 +1,8 @@
 {
-    "get": "fixtures",
+    "get": "standings",
     "parameters": {
         "league": "90",
-        "season": "2014"
+        "season": "2021"
     },
     "errors": [],
     "results": 0,
