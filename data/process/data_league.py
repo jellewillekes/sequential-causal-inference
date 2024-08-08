@@ -53,7 +53,7 @@ def compile_standings(country):
     for league, details in leagues.items():
         if 'standings' in details['data_types']:
             for season in range(details['season_start'], details['season_end'] + 1):
-                standings_path = os.path.join(project_root(), 'raw', country, league, str(season),
+                standings_path = os.path.join(project_root(), 'data', 'raw', country, league, str(season),
                                               'standings_data.json')
                 if os.path.isfile(standings_path):
                     with open(standings_path, 'r') as file:
@@ -143,5 +143,5 @@ def construct_league_data(country):
 
 # Usage example
 if __name__ == "__main__":
-    country = 'England'
+    country = 'Netherlands'
     construct_league_data(country)

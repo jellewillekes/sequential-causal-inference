@@ -269,6 +269,6 @@ def check_name_matches(data):
 
 
 if __name__ == "__main__":
-    country = 'Germany'
-    cup = 'DFB_Pokal'
+    country = 'Netherlands'
+    cup = 'KNVB_Beker'
     processed_data = preprocess_data(country, cup)
