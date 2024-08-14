@@ -33,7 +33,7 @@ def request_data(country, league_name, league_id, season, data_type, request_cou
         if request_counter >= 10:
             elapsed_time = time.time() - start_time
             if elapsed_time < 60:
-                logging.info(f"Rate limit approached, sleeping for {60 - elapsed_time} seconds")
+                logging.info(f"Rate limit approached, sleeping for {round((60 - elapsed_time),2)} seconds")
                 time.sleep(60 - elapsed_time)
             request_counter = 0
             start_time = time.time()
