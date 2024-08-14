@@ -32,7 +32,7 @@ def calculate_distances(fixtures, country):
 
 def save_intermediate_csv(df, country, row_index):
     project_root_path = project_root()
-    save_path = os.path.join(project_root_path, 'data', 'process', country, f'{country}_distance_data_incomplete.csv')
+    save_path = os.path.join(project_root_path, 'data', 'process', country, f'{cup}_distance_data_incomplete.csv')
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     df.to_csv(save_path, index=False)
     print(f"Saved incomplete data at row {row_index} to {save_path}")
@@ -40,7 +40,7 @@ def save_intermediate_csv(df, country, row_index):
 
 def save_to_csv(df, country, cup):
     project_root_path = project_root()
-    save_path = os.path.join(project_root_path, 'data', 'process', country, f'{country}_distance_data.csv')
+    save_path = os.path.join(project_root_path, 'data', 'process', country, f'{cup}_distance_data.csv')
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     df.to_csv(save_path, index=False)
     print(f"Saved complete data to {save_path}")
@@ -63,6 +63,6 @@ def request_distance_data(country, cup):
 
 # Usage example
 if __name__ == "__main__":
-    country = 'Netherlands'
-    cup = 'KNVB_Beker'
+    country = 'England'
+    cup = 'FA_Cup'
     request_distance_data(country, cup)
