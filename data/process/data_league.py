@@ -143,5 +143,5 @@ def construct_league_data(country):
 
 # Usage example
 if __name__ == "__main__":
-    country = 'Netherlands'
+    country = 'Germany'
     construct_league_data(country)
