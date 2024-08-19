@@ -266,7 +266,7 @@ def plot_league_rank_change_by_opponent_strenght(data, save_dir):
     plt.grid(True, which='both', axis='y', linestyle='--', alpha=0.7)
     plt.title('Season-End Rank Change per Opponent Strength by W/L in Cup')
     plt.ylabel('Average Rank Change')
-    plt.xlabel('Opponent Strength Relative to Team')
+    plt.xlabel('Team strength relative to Opponent')
     plt.legend(title='Cup Fixture Result')
     plt.tight_layout()
     save_plot('performance_league_rank_change_by_opponent_strength', save_dir)
