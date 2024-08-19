@@ -1,12 +1,11 @@
 import os
 import pandas as pd
+import textwrap
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 
-from raw.loader import project_root
-from data.preprocess.imputation import impute_data
-
-project_root = project_root()
+from utils.load import project_root
+from data.process.imputation import impute_data
 
 
 def load_processed_data(country, cup):
@@ -81,16 +80,62 @@ def analyze_2sls_by_stage(stages_df, outcome_var, instr_var, treatment_var, cont
     return results, summaries
 
 
-def plot_causal_effect(results, country_plots_dir, display="none", filename="causal_effect_by_stage.png"):
+def plot_causal_effect(variables, results, country_plots_dir, display="none", filename="causal_effect_by_stage.png"):
+    def format_controls(control_vars):
+        # Split the control variables into chunks of 4 and join with line breaks
+        lines = []
+        for i in range(0, len(control_vars), 4):
+            line = ", ".join(control_vars[i:i + 4])
+            lines.append(line)
+        return "\n            ".join(lines)  # Indent continuation lines to align with "Controls:"
+
     results_df = pd.DataFrame(results)
     if "plot" in display:
-        plt.figure(figsize=(10, 6))
-        plt.errorbar(results_df['stage'], results_df['2sls_iv'], yerr=results_df['std_error'], fmt='o', capsize=5)
-        plt.title('Causal Effect of Advancing in Each Round on Final League Performance')
-        plt.xlabel('stage')
-        plt.ylabel('Causal Effect')
+        plt.figure(figsize=(12, 8))  # Adjust figure size to ensure there's space for both legend and annotation
+
+        # Plot each round's causal effect and add to the legend individually
+        for index, row in results_df.iterrows():
+            plt.errorbar(row['stage'], row['2sls_iv'], yerr=row['std_error'], fmt='o', capsize=5, alpha=0.6,
+                         label=f"Round {int(row['stage'])}: p-value: {row['p_value']:.2f}, F-stat: {row['f_stat']:.1f}, "
+                               f"$R^2$: {row['r_squared']:.2f}")
+
+        # Extract information from the variables dictionary
+        outcome_var = variables.get('outcome_var')
+        treatment_var = variables.get('treatment_var')
+        instrument_var = variables.get('instrument_var')
+        control_vars = variables.get('control_vars', [])
+
+        if outcome_var == 'team_rank_diff':
+            plot_title = 'Causal Effect of Advancing per Round on League Standing'
+        elif outcome_var == 'next_team_points':
+            plot_title = 'Causal Effect of Advancing per Round on Next Fixture Performance'
+        else:
+            plot_title = 'Causal Effect of Advancing per Round on Performance'
+
+        # Format control variables into multiple lines if needed
+        formatted_controls = format_controls(control_vars)
+
+        # Create the annotation text with manual line breaks and left alignment
+        annotation_text = (f"Outcome:    {outcome_var}\n"
+                           f"Treatment:  {treatment_var}\n"
+                           f"Instrument: {instrument_var}\n"
+                           f"Controls:   {formatted_controls}")
+
+        # Adjust the placement of the legend to make space for the annotation
+        plt.legend(loc='upper left', bbox_to_anchor=(0, -0.25),
+                   fontsize='small', frameon=True, prop={'family': 'monospace'})
+
+        # Add the text annotation below the plot on the right side
+        plt.annotate(annotation_text, xy=(0.55, -0.35), xycoords='axes fraction',
+                     ha='left', va='top', fontsize='medium', fontfamily='monospace',
+                     bbox=dict(boxstyle="round,pad=0.5", edgecolor='black', alpha=0.3, facecolor='white'))
+
+        plt.title(plot_title)
+        plt.xlabel('Round')
+        plt.ylabel('Causal Effect (LATE)')
         plt.grid(True)
-        plt.savefig(os.path.join(country_plots_dir, filename))
+        plt.tight_layout(rect=[0, 0, 1, 0.85])  # Adjust layout to make space for both elements
+        plt.savefig(os.path.join(country_plots_dir, filename), bbox_inches='tight')
         plt.show()
 
 
