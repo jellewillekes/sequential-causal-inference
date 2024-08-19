@@ -9,3 +9,4 @@ scikit-learn==1.5.1
 seaborn==0.13.2
 statsmodels==0.14.0
 numpy<2.0
+econml
