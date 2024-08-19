@@ -3,7 +3,7 @@ import itertools
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from iv_2sls import load_processed_data, ensure_country_plots_dir, analyze_2sls_by_stage, plot_causal_effect
-from data.preprocess.imputation import impute_data
+from data.process.imputation import impute_data
 
 
 def ensure_country_plots_dir(country):
@@ -39,10 +39,11 @@ def grid_search(country, cup):
     country_plots_dir = ensure_country_plots_dir(country)
 
     # Define variables for the 2SLS analysis
-    outcome_var = 'team_rank'
-    instr_vars = ['rank_diff', 'team_better', 'distance']
+    outcome_var = 'team_rank_diff'
+    instr_vars = ['team_better']
     treatment_var = 'team_win'
-    all_control_vars = ['team_size', 'foreigners', 'mean_age', 'total_value', 'distance', 'team_home', 'extra_time']
+    all_control_vars = ['team_size', 'foreigners', 'mean_age', 'total_value', 'distance', 'team_home', 'extra_time',
+                        'next_fixture_days']
 
     # Generate all combinations of control variables with 2, 3, 4, 5, 6, and 7 elements
     control_var_combinations = []
@@ -60,26 +61,35 @@ def grid_search(country, cup):
 
             control_var_combo = list(control_var_combo)
             grid_id += 1  # Increment grid_id for each combination
-            print(f'Testing Instrument: {instr_var} with Controls: {control_var_combo}, Grid ID: {grid_id}')
+            print(f'Testing: Outcome: {outcome_var} \n Instrument: {instr_var} \n Controls: {control_var_combo}, '
+                  f'Grid ID: {grid_id}')
             result, _ = analyze_2sls_by_stage(stages_df, outcome_var, instr_var, treatment_var, control_var_combo,
                                               display="")
             for stage_result in result:
                 # Upscale the causal effect
                 stage_result['causal_effect'] = upscale_causal_effects(stage_result['2sls_iv'], scaler, treatment_var)
 
+                grid_var_combo = {
+                    'outcome_var': outcome_var,
+                    'instrument_var': instr_var,
+                    'treatment_var': treatment_var,
+                    'control_vars': control_var_combo,
+                    'grid_id': grid_id
+                }
+
                 # Add grid_id, instrument, and control_vars to the result
                 stage_result.update({
                     'grid_id': grid_id,
                     'instrument': instr_var,
                     'control_vars': control_var_combo,
-                    'significant': (stage_result['f_stat'] > 8 and stage_result['f_p_value'] < 0.10 and stage_result[
-                        'p_value'] < 0.10)
+                    'significant': (stage_result['f_stat'] > 10 and stage_result['f_p_value'] < 0.1 and stage_result[
+                        'p_value'] < 0.1)
                 })
                 results.append(stage_result)
 
     results_df = pd.DataFrame(results)
     if not results_df.empty:
-        results_df.to_csv(os.path.join(country_plots_dir, 'grid_search_results.csv'), index=False)
+        results_df.to_csv(os.path.join(country_plots_dir, f'{outcome_var}_gridsearch_results.csv'), index=False)
 
         # Calculate the number of significant stages for each grid_id
         grid_scores = results_df.groupby('grid_id')['significant'].sum().to_dict()
@@ -107,16 +117,17 @@ def grid_search(country, cup):
                                                                          best_control_vars, display="summary plot")
 
             # Save the plot with a unique filename
-            plot_filename = f"grid_{grid}_instr_{best_instr_var}_controls_{'_'.join(best_control_vars)}.png"
-            plot_causal_effect(best_result_analysis, country_plots_dir, display="plot", filename=plot_filename)
+            plot_filename = f"{outcome_var}_grid_{grid}_instr_{best_instr_var}_controls_{'_'.join(best_control_vars)}.png"
+            plot_causal_effect(grid_var_combo, best_result_analysis, country_plots_dir, display="plot",
+                               filename=plot_filename)
 
             # Save the results for all stages
-            result_filename = f"grid_{grid}_results.csv"
+            result_filename = f"{outcome_var}_grid_{grid}_results.csv"
             result_filepath = os.path.join(country_plots_dir, result_filename)
             best_results.to_csv(result_filepath, index=False)
 
             # Save the regression summaries for the best grid
-            summary_filename = f"grid_{grid}_best_summaries.txt"
+            summary_filename = f"{outcome_var}_grid_{grid}_best_summaries.txt"
             with open(os.path.join(country_plots_dir, summary_filename), 'w') as f:
                 for stage, summary in best_summaries.items():
                     f.write(f"Stage: {stage}\n")
