@@ -35,3 +35,105 @@ KNVB_Beker:
     Semi-finals: 2
     Final: 1
   rounds_random: 6
+  club_mapping:
+    AZ Alkmaar: AZ Alkmaar
+    Feyenoord: Feyenoord Rotterdam
+    Willem II: Willem II Tilburg
+    Twente: Twente Enschede FC
+    Roda: Roda JC Kerkrade
+    PSV Eindhoven: PSV Eindhoven
+    PEC Zwolle: PEC Zwolle
+    Cambuur: SC Cambuur Leeuwarden
+    Heracles: Heracles Almelo
+    Vvsb: null
+    Ajax: Ajax Amsterdam
+    Fortuna Sittard: Fortuna Sittard
+    VVV Venlo: VVV-Venlo
+    Waalwijk: RKC Waalwijk
+    GVVV Veenendaal: null
+    NEC Nijmegen: NEC Nijmegen
+    Almere City FC: Almere City FC
+    FC Volendam: FC Volendam
+    Avv Swift: null
+    Groningen: FC Groningen
+    Heerenveen: SC Heerenveen
+    ASV De Dijk: null
+    Hoek: null
+    Utrecht: FC Utrecht
+    FC Eindhoven: FC Eindhoven
+    Den Bosch: FC Den Bosch
+    GO Ahead Eagles: Go Ahead Eagles
+    Koninklijke HFC: null
+    Katwijk: null
+    Kozakken Boys: null
+    De Treffers: null
+    Achilles 29: null
+    FC Lisse: null
+    SDC Putten: null
+    Blauw Geel: null
+    Hercules: null
+    Vv De Meern: null
+    ADO Den Haag: ADO Den Haag
+    NAC Breda: NAC Breda
+    Ajax Amateurs: null
+    HHC: null
+    Csv Apeldoorn: null
+    Excelsior: Excelsior Rotterdam
+    Ter Leede: null
+    ONS Sneek: null
+    Staphorst: null
+    Telstar: SC Telstar
+    SVV Scheveningen: null
+    Vitesse: Vitesse Arnhem
+    Capelle: null
+    MVV: MVV Maastricht
+    Barendrecht: null
+    Emmen: FC Emmen
+    FC OSS: FC Oss
+    Dordrecht: FC Dordrecht
+    Helmond Sport: Helmond Sport
+    De Graafschap: De Graafschap Doetinchem
+    Noordwijk: null
+    Quick Boys: null
+    Rijnsburgse Boys: null
+    SC Genemuiden: null
+    Sparta Nijkerk: null
+    Sparta Rotterdam: Sparta Rotterdam
+    Zwaluwen: null
+    Gemert: null
+    Alcides: null
+    OFC Oostzaan: null
+    HVV Te Werve: null
+    Dovo: null
+    URK: null
+    Eemdijk: null
+    ASWH: null
+    Groene Ster: null
+    TEC: null
+    RKAV Volendam: null
+    OJC Rosmalen: null
+    Westlandia: null
+    DVS 33 Ermelo: null
+    HSV ODIN 59: null
+    Harkemase Boys: null
+    Spakenburg: null
+    DFS: null
+    AFC Amsterdam: null
+    FC 's-Gravenzande: null
+    SteDoCo: null
+    Ijsselmeervogels: null
+    GOES: null
+    Flevo Boys: null
+    Achilles Veen: null
+    OSS '20: null
+    HV & CV Quick: null
+    Fortuna Wormerveer: null
+    Excelsior '31: null
+    Excelsior Maassluis: null
+    ACV: null
+    ADO '20: null
+    GVV Unitas: null
+    Sportlust '46: null
+    Dongen: null
+    Rijnvogels: null
+    DEM: null
