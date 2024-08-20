@@ -1,36 +1,37 @@
 Eredivisie:
   id: 88
   division: 1
-  season_start: 2017
+  season_start: 2011
   season_end: 2023
   data_types: [ standings, fixtures ]
   transfermarkt_name: [ eredivisie, NL1 ]
 Eerste_Divisie:
   id: 89
   division: 2
-  season_start: 2017
+  season_start: 2011
   season_end: 2023
   data_types: [ standings, fixtures ]
   transfermarkt_name: [ keuken-kampioen-divisie, NL2 ]
 Tweede_Divisie:
   id: 492
   division: 3
-  season_start: 2017
+  season_start: 2011
   season_end: 2023
   data_types: [ standings, fixtures ]
   transfermarkt_name: none
 KNVB_Beker:
   id: 90
   division: NaN
-  season_start: 2017
+  season_start: 2011
   season_end: 2023
   data_types: [ fixtures ]
   transfermarkt_name: none
   rounds:
-    1st Round: 1
-    2nd Round: 2
-    8th Finals: 3 # Assuming '8th Finals' is the same as 'Round of 16'
-    Round of 16: 3
-    Quarter-finals: 4
-    Semi-finals: 5
-    Final: 6
+    1st Round: 6
+    2nd Round: 5
+    Round of 16: 4
+    8th Finals: 4  # Assuming '8th Finals' is the same as 'Round of 16'
+    Quarter-finals: 3
+    Semi-finals: 2
+    Final: 1
+  rounds_random: 6

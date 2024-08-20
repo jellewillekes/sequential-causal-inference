@@ -34,46 +34,20 @@ FA_Cup:
   data_types: [fixtures]
   transfermarkt_name: none
   rounds:
-    Preliminary Round: 0
-    1st Round: 1
-    1st Round Replays: 1
-    2nd Round: 2
-    2nd Round Replays: 2
-    3rd Round: 3
-    3nd Round Replays: 3
-    4th Round: 4
-    4th Round Replays: 4
-    5th Round: 5
-    5th Round Replays: 5
-    6th Round: 6
-    8th Finals: 7 # Assuming '8th Finals' is the same as 'Round of 16'
-    Round of 16: 7
-    Quarter-finals: 8
-    Semi-finals: 9
-    Final: 10
-League_Cup:
-  id: 48
-  division: NaN
-  season_start: 2011
-  season_end: 2023
-  data_types: [fixtures]
-  transfermarkt_name: none
-  rounds:
-    Preliminary Round: 0
-    1st Round: 1
-    1st Round Replays: 1
-    2nd Round: 2
-    2nd Round Replays: 2
-    3rd Round: 3
-    3nd Round Replays: 3
-    4th Round: 4
-    4th Round Replays: 4
-    5th Round: 5
-    5th Round Replays: 5
-    6th Round: 6
-    8th Finals: 7 # Assuming '8th Finals' is the same as 'Round of 16'
-    Round of 16: 7
-    Quarter-finals: 8
-    Semi-finals: 9
-    Final: 10
-
+    1st Round: 8
+    2nd Round: 7
+    3rd Round: 6
+    4th Round: 5
+    5th Round: 4
+    6th Round: 3
+    Quarter-finals: 3
+    Semi-finals: 2
+    Final: 1
+    1st Round Replays: 8
+    2nd Round Replays: 7
+    3rd Round Replays: 6
+    4th Round Replays: 5
+    5th Round Replays: 4
+    6th Round Replays: 3
+    Quarter-finals Replays: 3
+  rounds_random: 8

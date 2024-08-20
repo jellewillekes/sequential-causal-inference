@@ -5,7 +5,7 @@ from data.financial.scrape import scrape_league_data
 from utils.load import project_root, load_mappings_from_yaml
 
 
-def request_financial_data(country):
+def request_financial_data(country, cup):
     mappings = load_mappings_from_yaml(os.path.join(project_root(),
                                                     'settings',
                                                     f'mapping_{country.lower()}.yaml'))
@@ -33,7 +33,7 @@ def request_financial_data(country):
                                'data',
                                'process',
                                country,
-                               f'{country}_financial_data.csv')
+                               f'{cup}_financial_data.csv')
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     financial_data.to_csv(output_path, index=False)
     print(f"Saved financial data to {output_path}")
@@ -43,5 +43,6 @@ def request_financial_data(country):
 
 if __name__ == "__main__":
     country = 'Netherlands'
-    financial_data = request_financial_data(country)
+    cup = 'KNVB_Beker'
+    financial_data = request_financial_data(country, cup)
     print(financial_data.head())

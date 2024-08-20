@@ -1,4 +1,5 @@
 import os
+import numpy as np
 import pandas as pd
 import Levenshtein
 
@@ -14,6 +15,7 @@ def set_non_league_rank(team_data: pd.DataFrame, divisions: int = 4):
     Returns:
     - pd.DataFrame: Dataframe with updated team rankings.
     """
+    divisions = team_data['division'].max()
     latest_year = team_data['year'].max()
     total_teams_in_latest_year = team_data[team_data['year'] == latest_year]['team_id'].nunique()
     non_league_rank = total_teams_in_latest_year + (total_teams_in_latest_year // divisions)
@@ -21,6 +23,8 @@ def set_non_league_rank(team_data: pd.DataFrame, divisions: int = 4):
     team_data['team_rank'] = team_data['team_rank'].fillna(non_league_rank)
     team_data['team_rank_prev'] = team_data['team_rank_prev'].fillna(non_league_rank)
     team_data['opponent_rank_prev'] = team_data['opponent_rank_prev'].fillna(non_league_rank)
+
+    team_data['division'] = team_data['division'].apply(lambda x: divisions + 1 if pd.isna(x) else x)
 
     return team_data
 
@@ -184,7 +188,7 @@ def merge_with_financial_data(cup_fixtures, financial_data):
             filtered_choices = [choice for choice in choices if suffix in choice and base_name in choice]
         else:
             filtered_choices = [choice for choice in choices if
-                                not any(suffix in choice for suffix in [' II', ' 2', ' B'])]
+                                not any(suffix in choice for suffix in [' II', ' 2', ' B', 'U21'])]
 
         if not filtered_choices:
             return None, None
@@ -197,17 +201,16 @@ def merge_with_financial_data(cup_fixtures, financial_data):
                 best_match = choice
                 best_score = score
 
-        if best_score >= 0.76:
-            return best_match, best_score
-        else:
-            return None, None
+        return best_match, best_score
 
+    # Add the match results but do not filter out the unmatched rows
     cup_fixtures[['best_match', 'match_ratio']] = cup_fixtures.apply(
         lambda row: get_best_match(row, financial_data['team_name']),
         axis=1,
-        result_type='expand')
-    cup_fixtures = cup_fixtures[cup_fixtures['match_ratio'].notna()]
+        result_type='expand'
+    )
 
+    # Perform the left merge without filtering out any rows
     merged_cup_fixtures = pd.merge(
         cup_fixtures,
         financial_data,
@@ -236,8 +239,8 @@ def preprocess_data(country: str, cup: str):
     cup_fixtures = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{cup}_fixtures.csv'))
     league_standings = load_csv(os.path.join(project_root(), 'data', 'process', country, 'league_standings.csv'))
     league_fixtures = load_csv(os.path.join(project_root(), 'data', 'process', country, 'league_fixtures.csv'))
-    distance_data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{country}_distance_data.csv'))
-    financial_data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{country}_financial_data.csv'))
+    distance_data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{cup}_distance_data.csv'))
+    financial_data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{cup}_financial_data.csv'))
 
     merged_cup_fixtures = merge_cup_and_league_data(cup_fixtures, league_standings)
     merged_cup_fixtures = merge_with_next_fixture_data(merged_cup_fixtures, league_fixtures)
@@ -272,3 +275,5 @@ if __name__ == "__main__":
     country = 'Netherlands'
     cup = 'KNVB_Beker'
     processed_data = preprocess_data(country, cup)
+
+    print(processed_data)

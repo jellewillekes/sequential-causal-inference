@@ -1,0 +1,592 @@
+,team_name,best_match,match_ratio
+0,PEC Zwolle,PEC Zwolle,1.0
+1,PEC Zwolle,PEC Zwolle,1.0
+2,PEC Zwolle,PEC Zwolle,1.0
+3,PEC Zwolle,PEC Zwolle,1.0
+4,PEC Zwolle,PEC Zwolle,1.0
+5,PEC Zwolle,PEC Zwolle,1.0
+6,PEC Zwolle,PEC Zwolle,1.0
+7,PEC Zwolle,PEC Zwolle,1.0
+8,PEC Zwolle,PEC Zwolle,1.0
+9,PEC Zwolle,PEC Zwolle,1.0
+10,PEC Zwolle,PEC Zwolle,1.0
+11,PEC Zwolle,PEC Zwolle,1.0
+12,PEC Zwolle,PEC Zwolle,1.0
+13,PEC Zwolle,PEC Zwolle,1.0
+14,PEC Zwolle,PEC Zwolle,1.0
+15,Ajax,Ajax Amsterdam,0.4444444444444444
+16,Ajax,Ajax Amsterdam,0.4444444444444444
+17,Ajax,Ajax Amsterdam,0.4444444444444444
+18,Ajax,Ajax Amsterdam,0.4444444444444444
+19,Ajax,Ajax Amsterdam,0.4444444444444444
+20,Ajax,Ajax Amsterdam,0.4444444444444444
+21,Ajax,Ajax Amsterdam,0.4444444444444444
+22,Ajax,Ajax Amsterdam,0.4444444444444444
+23,Ajax,Ajax Amsterdam,0.4444444444444444
+24,Ajax,Ajax Amsterdam,0.4444444444444444
+25,Ajax,Ajax Amsterdam,0.4444444444444444
+26,Ajax,Ajax Amsterdam,0.4444444444444444
+27,Ajax,Ajax Amsterdam,0.4444444444444444
+28,Ajax,Ajax Amsterdam,0.4444444444444444
+29,Ajax,Ajax Amsterdam,0.4444444444444444
+30,Ajax,Ajax Amsterdam,0.4444444444444444
+31,Ajax,Ajax Amsterdam,0.4444444444444444
+32,Ajax,Ajax Amsterdam,0.4444444444444444
+33,Ajax,Ajax Amsterdam,0.4444444444444444
+34,Ajax,Ajax Amsterdam,0.4444444444444444
+35,Ajax,Ajax Amsterdam,0.4444444444444444
+36,Ajax,Ajax Amsterdam,0.4444444444444444
+37,Ajax,Ajax Amsterdam,0.4444444444444444
+38,Ajax,Ajax Amsterdam,0.4444444444444444
+39,Ajax,Ajax Amsterdam,0.4444444444444444
+40,Ajax,Ajax Amsterdam,0.4444444444444444
+41,Ajax,Ajax Amsterdam,0.4444444444444444
+42,Ajax,Ajax Amsterdam,0.4444444444444444
+43,Willem II,Willem II Tilburg,0.6923076923076923
+44,Willem II,Willem II Tilburg,0.6923076923076923
+45,Willem II,Willem II Tilburg,0.6923076923076923
+46,Willem II,Willem II Tilburg,0.6923076923076923
+47,Willem II,Willem II Tilburg,0.6923076923076923
+48,Willem II,Willem II Tilburg,0.6923076923076923
+49,Willem II,Willem II Tilburg,0.6923076923076923
+50,Willem II,Willem II Tilburg,0.6923076923076923
+51,Willem II,Willem II Tilburg,0.6923076923076923
+52,Willem II,Willem II Tilburg,0.6923076923076923
+53,Willem II,Willem II Tilburg,0.6923076923076923
+54,Willem II,Willem II Tilburg,0.6923076923076923
+55,Willem II,Willem II Tilburg,0.6923076923076923
+56,Willem II,Willem II Tilburg,0.6923076923076923
+57,Willem II,Willem II Tilburg,0.6923076923076923
+58,Willem II,Willem II Tilburg,0.6923076923076923
+59,Willem II,Willem II Tilburg,0.6923076923076923
+60,Excelsior,Excelsior Rotterdam,0.6428571428571428
+61,Excelsior,Excelsior Rotterdam,0.6428571428571428
+62,Excelsior,Excelsior Rotterdam,0.6428571428571428
+63,Excelsior,Excelsior Rotterdam,0.6428571428571428
+64,Excelsior,Excelsior Rotterdam,0.6428571428571428
+65,Excelsior,Excelsior Rotterdam,0.6428571428571428
+66,Excelsior,Excelsior Rotterdam,0.6428571428571428
+67,Excelsior,Excelsior Rotterdam,0.6428571428571428
+68,Excelsior,Excelsior Rotterdam,0.6428571428571428
+69,Excelsior,Excelsior Rotterdam,0.6428571428571428
+70,Excelsior,Excelsior Rotterdam,0.6428571428571428
+71,Excelsior,Excelsior Rotterdam,0.6428571428571428
+72,Excelsior,Excelsior Rotterdam,0.6428571428571428
+73,Excelsior,Excelsior Rotterdam,0.6428571428571428
+74,PSV Eindhoven,PSV Eindhoven,1.0
+75,PSV Eindhoven,PSV Eindhoven,1.0
+76,PSV Eindhoven,PSV Eindhoven,1.0
+77,PSV Eindhoven,PSV Eindhoven,1.0
+78,PSV Eindhoven,PSV Eindhoven,1.0
+79,PSV Eindhoven,PSV Eindhoven,1.0
+80,PSV Eindhoven,PSV Eindhoven,1.0
+81,PSV Eindhoven,PSV Eindhoven,1.0
+82,PSV Eindhoven,PSV Eindhoven,1.0
+83,PSV Eindhoven,PSV Eindhoven,1.0
+84,PSV Eindhoven,PSV Eindhoven,1.0
+85,PSV Eindhoven,PSV Eindhoven,1.0
+86,PSV Eindhoven,PSV Eindhoven,1.0
+87,PSV Eindhoven,PSV Eindhoven,1.0
+88,PSV Eindhoven,PSV Eindhoven,1.0
+89,PSV Eindhoven,PSV Eindhoven,1.0
+90,PSV Eindhoven,PSV Eindhoven,1.0
+91,PSV Eindhoven,PSV Eindhoven,1.0
+92,PSV Eindhoven,PSV Eindhoven,1.0
+93,PSV Eindhoven,PSV Eindhoven,1.0
+94,PSV Eindhoven,PSV Eindhoven,1.0
+95,ADO Den Haag,ADO Den Haag,1.0
+96,ADO Den Haag,ADO Den Haag,1.0
+97,ADO Den Haag,ADO Den Haag,1.0
+98,ADO Den Haag,ADO Den Haag,1.0
+99,ADO Den Haag,ADO Den Haag,1.0
+100,ADO Den Haag,ADO Den Haag,1.0
+101,ADO Den Haag,ADO Den Haag,1.0
+102,ADO Den Haag,ADO Den Haag,1.0
+103,ADO Den Haag,ADO Den Haag,1.0
+104,ADO Den Haag,ADO Den Haag,1.0
+105,ADO Den Haag,ADO Den Haag,1.0
+106,ADO Den Haag,ADO Den Haag,1.0
+107,ADO Den Haag,ADO Den Haag,1.0
+108,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+109,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+110,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+111,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+112,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+113,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+114,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+115,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+116,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+117,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+118,De Graafschap,De Graafschap Doetinchem,0.7027027027027026
+119,Vitesse,Vitesse Arnhem,0.6666666666666667
+120,Vitesse,Vitesse Arnhem,0.6666666666666667
+121,Vitesse,Vitesse Arnhem,0.6666666666666667
+122,Vitesse,Vitesse Arnhem,0.6666666666666667
+123,Vitesse,Vitesse Arnhem,0.6666666666666667
+124,Vitesse,Vitesse Arnhem,0.6666666666666667
+125,Vitesse,Vitesse Arnhem,0.6666666666666667
+126,Vitesse,Vitesse Arnhem,0.6666666666666667
+127,Vitesse,Vitesse Arnhem,0.6666666666666667
+128,Vitesse,Vitesse Arnhem,0.6666666666666667
+129,Vitesse,Vitesse Arnhem,0.6666666666666667
+130,Vitesse,Vitesse Arnhem,0.6666666666666667
+131,Vitesse,Vitesse Arnhem,0.6666666666666667
+132,Vitesse,Vitesse Arnhem,0.6666666666666667
+133,Vitesse,Vitesse Arnhem,0.6666666666666667
+134,Vitesse,Vitesse Arnhem,0.6666666666666667
+135,Vitesse,Vitesse Arnhem,0.6666666666666667
+136,Vitesse,Vitesse Arnhem,0.6666666666666667
+137,AZ Alkmaar,AZ Alkmaar,1.0
+138,AZ Alkmaar,AZ Alkmaar,1.0
+139,AZ Alkmaar,AZ Alkmaar,1.0
+140,AZ Alkmaar,AZ Alkmaar,1.0
+141,AZ Alkmaar,AZ Alkmaar,1.0
+142,AZ Alkmaar,AZ Alkmaar,1.0
+143,AZ Alkmaar,AZ Alkmaar,1.0
+144,AZ Alkmaar,AZ Alkmaar,1.0
+145,AZ Alkmaar,AZ Alkmaar,1.0
+146,AZ Alkmaar,AZ Alkmaar,1.0
+147,AZ Alkmaar,AZ Alkmaar,1.0
+148,AZ Alkmaar,AZ Alkmaar,1.0
+149,AZ Alkmaar,AZ Alkmaar,1.0
+150,AZ Alkmaar,AZ Alkmaar,1.0
+151,AZ Alkmaar,AZ Alkmaar,1.0
+152,AZ Alkmaar,AZ Alkmaar,1.0
+153,AZ Alkmaar,AZ Alkmaar,1.0
+154,AZ Alkmaar,AZ Alkmaar,1.0
+155,AZ Alkmaar,AZ Alkmaar,1.0
+156,AZ Alkmaar,AZ Alkmaar,1.0
+157,AZ Alkmaar,AZ Alkmaar,1.0
+158,Groningen,FC Groningen,0.8571428571428572
+159,Groningen,FC Groningen,0.8571428571428572
+160,Groningen,FC Groningen,0.8571428571428572
+161,Groningen,FC Groningen,0.8571428571428572
+162,Groningen,FC Groningen,0.8571428571428572
+163,Groningen,FC Groningen,0.8571428571428572
+164,Groningen,FC Groningen,0.8571428571428572
+165,Groningen,FC Groningen,0.8571428571428572
+166,Groningen,FC Groningen,0.8571428571428572
+167,Groningen,FC Groningen,0.8571428571428572
+168,Groningen,FC Groningen,0.8571428571428572
+169,NAC Breda,,
+170,NAC Breda,,
+171,NAC Breda,,
+172,NAC Breda,,
+173,NAC Breda,,
+174,NAC Breda,,
+175,NAC Breda,,
+176,NAC Breda,,
+177,NAC Breda,,
+178,NAC Breda,,
+179,NAC Breda,,
+180,NAC Breda,,
+181,NAC Breda,,
+182,NAC Breda,,
+183,NAC Breda,,
+184,VVV Venlo,VVV-Venlo,0.8888888888888888
+185,VVV Venlo,VVV-Venlo,0.8888888888888888
+186,VVV Venlo,VVV-Venlo,0.8888888888888888
+187,VVV Venlo,VVV-Venlo,0.8888888888888888
+188,VVV Venlo,VVV-Venlo,0.8888888888888888
+189,VVV Venlo,VVV-Venlo,0.8888888888888888
+190,VVV Venlo,VVV-Venlo,0.8888888888888888
+191,VVV Venlo,VVV-Venlo,0.8888888888888888
+192,VVV Venlo,VVV-Venlo,0.8888888888888888
+193,VVV Venlo,VVV-Venlo,0.8888888888888888
+194,VVV Venlo,VVV-Venlo,0.8888888888888888
+195,VVV Venlo,VVV-Venlo,0.8888888888888888
+196,VVV Venlo,VVV-Venlo,0.8888888888888888
+197,VVV Venlo,VVV-Venlo,0.8888888888888888
+198,Fortuna Sittard,Fortuna Sittard,1.0
+199,Fortuna Sittard,Fortuna Sittard,1.0
+200,Fortuna Sittard,Fortuna Sittard,1.0
+201,Fortuna Sittard,Fortuna Sittard,1.0
+202,Fortuna Sittard,Fortuna Sittard,1.0
+203,Fortuna Sittard,Fortuna Sittard,1.0
+204,Fortuna Sittard,Fortuna Sittard,1.0
+205,Fortuna Sittard,Fortuna Sittard,1.0
+206,Fortuna Sittard,Fortuna Sittard,1.0
+207,Fortuna Sittard,Fortuna Sittard,1.0
+208,Fortuna Sittard,Fortuna Sittard,1.0
+209,Fortuna Sittard,Fortuna Sittard,1.0
+210,Fortuna Sittard,Fortuna Sittard,1.0
+211,Fortuna Sittard,Fortuna Sittard,1.0
+212,Fortuna Sittard,Fortuna Sittard,1.0
+213,Heracles,Heracles Almelo,0.6956521739130435
+214,Heracles,Heracles Almelo,0.6956521739130435
+215,Heracles,Heracles Almelo,0.6956521739130435
+216,Heracles,Heracles Almelo,0.6956521739130435
+217,Heracles,Heracles Almelo,0.6956521739130435
+218,Heracles,Heracles Almelo,0.6956521739130435
+219,Heracles,Heracles Almelo,0.6956521739130435
+220,Heracles,Heracles Almelo,0.6956521739130435
+221,Heracles,Heracles Almelo,0.6956521739130435
+222,Heracles,Heracles Almelo,0.6956521739130435
+223,Heracles,Heracles Almelo,0.6956521739130435
+224,Heracles,Heracles Almelo,0.6956521739130435
+225,Heracles,Heracles Almelo,0.6956521739130435
+226,Heracles,Heracles Almelo,0.6956521739130435
+227,Utrecht,FC Utrecht,0.8235294117647058
+228,Utrecht,FC Utrecht,0.8235294117647058
+229,Utrecht,FC Utrecht,0.8235294117647058
+230,Utrecht,FC Utrecht,0.8235294117647058
+231,Utrecht,FC Utrecht,0.8235294117647058
+232,Utrecht,FC Utrecht,0.8235294117647058
+233,Utrecht,FC Utrecht,0.8235294117647058
+234,Utrecht,FC Utrecht,0.8235294117647058
+235,Utrecht,FC Utrecht,0.8235294117647058
+236,Utrecht,FC Utrecht,0.8235294117647058
+237,Utrecht,FC Utrecht,0.8235294117647058
+238,Utrecht,FC Utrecht,0.8235294117647058
+239,Utrecht,FC Utrecht,0.8235294117647058
+240,Utrecht,FC Utrecht,0.8235294117647058
+241,Utrecht,FC Utrecht,0.8235294117647058
+242,Utrecht,FC Utrecht,0.8235294117647058
+243,Utrecht,FC Utrecht,0.8235294117647058
+244,Utrecht,FC Utrecht,0.8235294117647058
+245,Emmen,FC Emmen,0.7692307692307692
+246,Emmen,FC Emmen,0.7692307692307692
+247,Emmen,FC Emmen,0.7692307692307692
+248,Emmen,FC Emmen,0.7692307692307692
+249,Emmen,FC Emmen,0.7692307692307692
+250,Emmen,FC Emmen,0.7692307692307692
+251,Emmen,FC Emmen,0.7692307692307692
+252,Emmen,FC Emmen,0.7692307692307692
+253,Emmen,FC Emmen,0.7692307692307692
+254,Emmen,FC Emmen,0.7692307692307692
+255,Emmen,FC Emmen,0.7692307692307692
+256,Emmen,FC Emmen,0.7692307692307692
+257,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+258,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+259,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+260,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+261,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+262,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+263,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+264,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+265,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+266,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+267,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+268,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+269,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+270,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+271,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+272,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+273,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+274,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+275,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+276,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+277,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+278,Feyenoord,Feyenoord Rotterdam,0.6428571428571428
+279,Heerenveen,SC Heerenveen,0.8695652173913043
+280,Heerenveen,SC Heerenveen,0.8695652173913043
+281,Heerenveen,SC Heerenveen,0.8695652173913043
+282,Heerenveen,SC Heerenveen,0.8695652173913043
+283,Heerenveen,SC Heerenveen,0.8695652173913043
+284,Heerenveen,SC Heerenveen,0.8695652173913043
+285,Heerenveen,SC Heerenveen,0.8695652173913043
+286,Heerenveen,SC Heerenveen,0.8695652173913043
+287,Heerenveen,SC Heerenveen,0.8695652173913043
+288,Heerenveen,SC Heerenveen,0.8695652173913043
+289,Heerenveen,SC Heerenveen,0.8695652173913043
+290,Heerenveen,SC Heerenveen,0.8695652173913043
+291,Heerenveen,SC Heerenveen,0.8695652173913043
+292,Heerenveen,SC Heerenveen,0.8695652173913043
+293,Heerenveen,SC Heerenveen,0.8695652173913043
+294,Heerenveen,SC Heerenveen,0.8695652173913043
+295,Heerenveen,SC Heerenveen,0.8695652173913043
+296,Heerenveen,SC Heerenveen,0.8695652173913043
+297,Heerenveen,SC Heerenveen,0.8695652173913043
+298,Heerenveen,SC Heerenveen,0.8695652173913043
+299,Heerenveen,SC Heerenveen,0.8695652173913043
+300,Dordrecht,FC Dordrecht,0.8571428571428572
+301,Dordrecht,FC Dordrecht,0.8571428571428572
+302,Dordrecht,FC Dordrecht,0.8571428571428572
+303,Dordrecht,FC Dordrecht,0.8571428571428572
+304,Dordrecht,FC Dordrecht,0.8571428571428572
+305,Dordrecht,FC Dordrecht,0.8571428571428572
+306,Dordrecht,FC Dordrecht,0.8571428571428572
+307,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+308,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+309,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+310,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+311,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+312,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+313,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+314,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+315,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+316,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+317,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+318,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+319,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+320,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+321,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+322,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+323,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+324,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+325,GO Ahead Eagles,Go Ahead Eagles,0.9333333333333333
+326,MVV,MVV Maastricht,0.3529411764705882
+327,MVV,MVV Maastricht,0.3529411764705882
+328,MVV,MVV Maastricht,0.3529411764705882
+329,MVV,MVV Maastricht,0.3529411764705882
+330,MVV,MVV Maastricht,0.3529411764705882
+331,MVV,MVV Maastricht,0.3529411764705882
+332,MVV,MVV Maastricht,0.3529411764705882
+333,NEC Nijmegen,NEC Nijmegen,1.0
+334,NEC Nijmegen,NEC Nijmegen,1.0
+335,NEC Nijmegen,NEC Nijmegen,1.0
+336,NEC Nijmegen,NEC Nijmegen,1.0
+337,NEC Nijmegen,NEC Nijmegen,1.0
+338,NEC Nijmegen,NEC Nijmegen,1.0
+339,NEC Nijmegen,NEC Nijmegen,1.0
+340,NEC Nijmegen,NEC Nijmegen,1.0
+341,NEC Nijmegen,NEC Nijmegen,1.0
+342,NEC Nijmegen,NEC Nijmegen,1.0
+343,NEC Nijmegen,NEC Nijmegen,1.0
+344,NEC Nijmegen,NEC Nijmegen,1.0
+345,NEC Nijmegen,NEC Nijmegen,1.0
+346,NEC Nijmegen,NEC Nijmegen,1.0
+347,NEC Nijmegen,NEC Nijmegen,1.0
+348,Roda,Sparta Rotterdam,0.4
+349,Roda,Sparta Rotterdam,0.4
+350,Roda,Sparta Rotterdam,0.4
+351,Roda,Sparta Rotterdam,0.4
+352,Roda,Sparta Rotterdam,0.4
+353,Roda,Sparta Rotterdam,0.4
+354,Roda,Sparta Rotterdam,0.4
+355,Roda,Sparta Rotterdam,0.4
+356,Roda,Sparta Rotterdam,0.4
+357,Roda,Sparta Rotterdam,0.4
+358,Roda,Sparta Rotterdam,0.4
+359,Roda,Sparta Rotterdam,0.4
+360,Roda,Sparta Rotterdam,0.4
+361,Twente,Twente Enschede FC,0.5
+362,Twente,Twente Enschede FC,0.5
+363,Twente,Twente Enschede FC,0.5
+364,Twente,Twente Enschede FC,0.5
+365,Twente,Twente Enschede FC,0.5
+366,Twente,Twente Enschede FC,0.5
+367,Twente,Twente Enschede FC,0.5
+368,Twente,Twente Enschede FC,0.5
+369,Twente,Twente Enschede FC,0.5
+370,Twente,Twente Enschede FC,0.5
+371,Twente,Twente Enschede FC,0.5
+372,Twente,Twente Enschede FC,0.5
+373,Twente,Twente Enschede FC,0.5
+374,Twente,Twente Enschede FC,0.5
+375,Twente,Twente Enschede FC,0.5
+376,Twente,Twente Enschede FC,0.5
+377,Twente,Twente Enschede FC,0.5
+378,FC Volendam,FC Volendam,1.0
+379,FC Volendam,FC Volendam,1.0
+380,FC Volendam,FC Volendam,1.0
+381,FC Volendam,FC Volendam,1.0
+382,FC Volendam,FC Volendam,1.0
+383,FC Volendam,FC Volendam,1.0
+384,FC Volendam,FC Volendam,1.0
+385,FC Volendam,FC Volendam,1.0
+386,Waalwijk,RKC Waalwijk,0.8
+387,Waalwijk,RKC Waalwijk,0.8
+388,Waalwijk,RKC Waalwijk,0.8
+389,Waalwijk,RKC Waalwijk,0.8
+390,Waalwijk,RKC Waalwijk,0.8
+391,Waalwijk,RKC Waalwijk,0.8
+392,Waalwijk,RKC Waalwijk,0.8
+393,Waalwijk,RKC Waalwijk,0.8
+394,Waalwijk,RKC Waalwijk,0.8
+395,Waalwijk,RKC Waalwijk,0.8
+396,Waalwijk,RKC Waalwijk,0.8
+397,Waalwijk,RKC Waalwijk,0.8
+398,Waalwijk,RKC Waalwijk,0.8
+399,Almere City FC,Almere City FC,1.0
+400,Almere City FC,Almere City FC,1.0
+401,Almere City FC,Almere City FC,1.0
+402,Almere City FC,Almere City FC,1.0
+403,Almere City FC,Almere City FC,1.0
+404,Almere City FC,Almere City FC,1.0
+405,Almere City FC,Almere City FC,1.0
+406,Almere City FC,Almere City FC,1.0
+407,Almere City FC,Almere City FC,1.0
+408,Cambuur,SC Cambuur Leeuwarden,0.5
+409,Cambuur,SC Cambuur Leeuwarden,0.5
+410,Cambuur,SC Cambuur Leeuwarden,0.5
+411,Cambuur,SC Cambuur Leeuwarden,0.5
+412,Cambuur,SC Cambuur Leeuwarden,0.5
+413,Cambuur,SC Cambuur Leeuwarden,0.5
+414,Cambuur,SC Cambuur Leeuwarden,0.5
+415,Cambuur,SC Cambuur Leeuwarden,0.5
+416,Cambuur,SC Cambuur Leeuwarden,0.5
+417,Cambuur,SC Cambuur Leeuwarden,0.5
+418,Cambuur,SC Cambuur Leeuwarden,0.5
+419,Cambuur,SC Cambuur Leeuwarden,0.5
+420,Cambuur,SC Cambuur Leeuwarden,0.5
+421,Cambuur,SC Cambuur Leeuwarden,0.5
+422,Cambuur,SC Cambuur Leeuwarden,0.5
+423,Den Bosch,,
+424,Den Bosch,,
+425,Den Bosch,,
+426,Den Bosch,,
+427,Den Bosch,,
+428,Den Bosch,,
+429,Den Bosch,,
+430,Den Bosch,,
+431,FC Eindhoven,FC Eindhoven,1.0
+432,FC Eindhoven,FC Eindhoven,1.0
+433,FC Eindhoven,FC Eindhoven,1.0
+434,FC Eindhoven,FC Eindhoven,1.0
+435,FC Eindhoven,FC Eindhoven,1.0
+436,FC Eindhoven,FC Eindhoven,1.0
+437,FC Eindhoven,FC Eindhoven,1.0
+438,FC Eindhoven,FC Eindhoven,1.0
+439,FC Eindhoven,FC Eindhoven,1.0
+440,FC Eindhoven,FC Eindhoven,1.0
+441,FC OSS,FC Oss,0.6666666666666667
+442,FC OSS,FC Oss,0.6666666666666667
+443,FC OSS,FC Oss,0.6666666666666667
+444,FC OSS,FC Oss,0.6666666666666667
+445,FC OSS,FC Oss,0.6666666666666667
+446,FC OSS,FC Oss,0.6666666666666667
+447,FC OSS,FC Oss,0.6666666666666667
+448,FC OSS,FC Oss,0.6666666666666667
+449,FC OSS,FC Oss,0.6666666666666667
+450,Helmond Sport,Helmond Sport,1.0
+451,Helmond Sport,Helmond Sport,1.0
+452,Helmond Sport,Helmond Sport,1.0
+453,Helmond Sport,Helmond Sport,1.0
+454,Helmond Sport,Helmond Sport,1.0
+455,Helmond Sport,Helmond Sport,1.0
+456,Sparta Rotterdam,Sparta Rotterdam,1.0
+457,Sparta Rotterdam,Sparta Rotterdam,1.0
+458,Sparta Rotterdam,Sparta Rotterdam,1.0
+459,Sparta Rotterdam,Sparta Rotterdam,1.0
+460,Sparta Rotterdam,Sparta Rotterdam,1.0
+461,Sparta Rotterdam,Sparta Rotterdam,1.0
+462,Sparta Rotterdam,Sparta Rotterdam,1.0
+463,Sparta Rotterdam,Sparta Rotterdam,1.0
+464,Sparta Rotterdam,Sparta Rotterdam,1.0
+465,Telstar,SC Telstar,0.8235294117647058
+466,Telstar,SC Telstar,0.8235294117647058
+467,Telstar,SC Telstar,0.8235294117647058
+468,Telstar,SC Telstar,0.8235294117647058
+469,Telstar,SC Telstar,0.8235294117647058
+470,Telstar,SC Telstar,0.8235294117647058
+471,Telstar,SC Telstar,0.8235294117647058
+472,Telstar,SC Telstar,0.8235294117647058
+473,Telstar,SC Telstar,0.8235294117647058
+474,Telstar,SC Telstar,0.8235294117647058
+475,Achilles 29,,
+476,Achilles 29,,
+477,OFC Oostzaan,FC Oss,0.5555555555555556
+478,OFC Oostzaan,FC Oss,0.5555555555555556
+479,OFC Oostzaan,FC Oss,0.5555555555555556
+480,OFC Oostzaan,FC Oss,0.5555555555555556
+481,Dovo,FC Dordrecht,0.25
+482,Dovo,FC Dordrecht,0.25
+483,Eemdijk,RKC Waalwijk,0.3157894736842105
+484,Groene Ster,Fortuna Sittard,0.46153846153846156
+485,Groene Ster,Fortuna Sittard,0.46153846153846156
+486,Groene Ster,Fortuna Sittard,0.46153846153846156
+487,Groene Ster,Fortuna Sittard,0.46153846153846156
+488,Katwijk,RKC Waalwijk,0.631578947368421
+489,Katwijk,RKC Waalwijk,0.631578947368421
+490,Katwijk,RKC Waalwijk,0.631578947368421
+491,Katwijk,RKC Waalwijk,0.631578947368421
+492,Katwijk,RKC Waalwijk,0.631578947368421
+493,Katwijk,RKC Waalwijk,0.631578947368421
+494,Katwijk,RKC Waalwijk,0.631578947368421
+495,Katwijk,RKC Waalwijk,0.631578947368421
+496,RKAV Volendam,FC Volendam,0.75
+497,OJC Rosmalen,FC Volendam,0.5217391304347826
+498,Kozakken Boys,,
+499,Kozakken Boys,,
+500,Kozakken Boys,,
+501,Kozakken Boys,,
+502,Kozakken Boys,,
+503,Kozakken Boys,,
+504,Kozakken Boys,,
+505,Kozakken Boys,,
+506,HSV ODIN 59,ADO Den Haag,0.26086956521739135
+507,HSV ODIN 59,ADO Den Haag,0.26086956521739135
+508,HSV ODIN 59,ADO Den Haag,0.26086956521739135
+509,HSV ODIN 59,ADO Den Haag,0.26086956521739135
+510,HSV ODIN 59,ADO Den Haag,0.26086956521739135
+511,Koninklijke HFC,FC Groningen,0.37037037037037035
+512,Koninklijke HFC,FC Groningen,0.37037037037037035
+513,Koninklijke HFC,FC Groningen,0.37037037037037035
+514,Koninklijke HFC,FC Groningen,0.37037037037037035
+515,Koninklijke HFC,FC Groningen,0.37037037037037035
+516,Koninklijke HFC,FC Groningen,0.37037037037037035
+517,Noordwijk,RKC Waalwijk,0.38095238095238093
+518,Noordwijk,RKC Waalwijk,0.38095238095238093
+519,Noordwijk,RKC Waalwijk,0.38095238095238093
+520,Rijnsburgse Boys,,
+521,Rijnsburgse Boys,,
+522,Rijnsburgse Boys,,
+523,Rijnsburgse Boys,,
+524,Rijnsburgse Boys,,
+525,Spakenburg,Sparta Rotterdam,0.3846153846153846
+526,Spakenburg,Sparta Rotterdam,0.3846153846153846
+527,Spakenburg,Sparta Rotterdam,0.3846153846153846
+528,Spakenburg,Sparta Rotterdam,0.3846153846153846
+529,Spakenburg,Sparta Rotterdam,0.3846153846153846
+530,Spakenburg,Sparta Rotterdam,0.3846153846153846
+531,Spakenburg,Sparta Rotterdam,0.3846153846153846
+532,Spakenburg,Sparta Rotterdam,0.3846153846153846
+533,Spakenburg,Sparta Rotterdam,0.3846153846153846
+534,Spakenburg,Sparta Rotterdam,0.3846153846153846
+535,Spakenburg,Sparta Rotterdam,0.3846153846153846
+536,Spakenburg,Sparta Rotterdam,0.3846153846153846
+537,SVV Scheveningen,FC Groningen,0.5
+538,SVV Scheveningen,FC Groningen,0.5
+539,Vvsb,PSV Eindhoven,0.23529411764705888
+540,Vvsb,PSV Eindhoven,0.23529411764705888
+541,Vvsb,PSV Eindhoven,0.23529411764705888
+542,Vvsb,PSV Eindhoven,0.23529411764705888
+543,AFC Amsterdam,Ajax Amsterdam,0.8148148148148149
+544,AFC Amsterdam,Ajax Amsterdam,0.8148148148148149
+545,AFC Amsterdam,Ajax Amsterdam,0.8148148148148149
+546,AFC Amsterdam,Ajax Amsterdam,0.8148148148148149
+547,AFC Amsterdam,Ajax Amsterdam,0.8148148148148149
+548,ASWH,ADO Den Haag,0.25
+549,ASWH,ADO Den Haag,0.25
+550,ASWH,ADO Den Haag,0.25
+551,ASWH,ADO Den Haag,0.25
+552,TEC,PEC Zwolle,0.3076923076923077
+553,TEC,PEC Zwolle,0.3076923076923077
+554,FC Lisse,FC Oss,0.7142857142857143
+555,FC Lisse,FC Oss,0.7142857142857143
+556,ASV De Dijk,ADO Den Haag,0.4347826086956522
+557,ASV De Dijk,ADO Den Haag,0.4347826086956522
+558,GVVV Veenendaal,VVV-Venlo,0.5833333333333333
+559,GVVV Veenendaal,VVV-Venlo,0.5833333333333333
+560,GVVV Veenendaal,VVV-Venlo,0.5833333333333333
+561,GVVV Veenendaal,VVV-Venlo,0.5833333333333333
+562,GVVV Veenendaal,VVV-Venlo,0.5833333333333333
+563,GVVV Veenendaal,VVV-Venlo,0.5833333333333333
+564,GVVV Veenendaal,VVV-Venlo,0.5833333333333333
+565,Hercules,Heracles Almelo,0.6086956521739131
+566,Hercules,Heracles Almelo,0.6086956521739131
+567,Barendrecht,FC Dordrecht,0.6086956521739131
+568,Quick Boys,,
+569,SC Genemuiden,SC Heerenveen,0.6153846153846154
+570,Zwaluwen,PEC Zwolle,0.4444444444444444
+571,De Treffers,SC Telstar,0.38095238095238093
+572,De Treffers,SC Telstar,0.38095238095238093
+573,De Treffers,SC Telstar,0.38095238095238093
+574,De Treffers,SC Telstar,0.38095238095238093
+575,De Treffers,SC Telstar,0.38095238095238093
+576,De Treffers,SC Telstar,0.38095238095238093
+577,De Treffers,SC Telstar,0.38095238095238093
+578,De Treffers,SC Telstar,0.38095238095238093
+579,HHC,FC Oss,0.2222222222222222
+580,HHC,FC Oss,0.2222222222222222
+581,Ijsselmeervogels,NEC Nijmegen,0.3571428571428571
+582,Ijsselmeervogels,NEC Nijmegen,0.3571428571428571
+583,Ijsselmeervogels,NEC Nijmegen,0.3571428571428571
+584,Ijsselmeervogels,NEC Nijmegen,0.3571428571428571
+585,SteDoCo,Helmond Sport,0.30000000000000004
+586,SteDoCo,Helmond Sport,0.30000000000000004
+587,SteDoCo,Helmond Sport,0.30000000000000004
+588,Excelsior Maassluis,Excelsior Rotterdam,0.5789473684210527
+589,Excelsior Maassluis,Excelsior Rotterdam,0.5789473684210527
+590,Excelsior Maassluis,Excelsior Rotterdam,0.5789473684210527
