@@ -32,8 +32,8 @@ def minmax_impute(match_df):
         non_league_teams = match_df['division'] == 4
         match_df.loc[non_league_teams, col] = match_df[non_league_teams].apply(
             lambda row:
-            calc_percentile_mean(match_df[(match_df['year'] == row['year']) & (match_df['division'] == 3)], col, 0.05,
-                                 0.95)[0]
+            calc_percentile_mean(match_df[(match_df['year'] == row['year']) & (match_df['division'] == 3)], col, 0.01,
+                                 0.98)[0]
             if row['year'] in match_df['year'].unique() else np.nan,
             axis=1
         )
