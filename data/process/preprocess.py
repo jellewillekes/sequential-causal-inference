@@ -46,7 +46,7 @@ def merge_cup_and_league_data(cup_fixtures: pd.DataFrame, league_standings: pd.D
 
     merged_cup_fixtures = (cup_fixtures[cup_fixtures['year'] > 2010]
                            # Merge opponent's previous year national rank
-                           .merge(league_standings[['prev_year', 'team_id', 'national_rank']],
+                           .merge(league_standings[['prev_year', 'team_id', 'national_rank', 'position']],
                                   left_on=['year', 'opponent_id'],
                                   right_on=['prev_year', 'team_id'],
                                   how='left',
@@ -65,7 +65,8 @@ def merge_cup_and_league_data(cup_fixtures: pd.DataFrame, league_standings: pd.D
                                   left_on=['year', 'team_id'],
                                   right_on=['year', 'team_id'],
                                   how='left')
-                           .rename(columns={'national_rank': 'team_rank'}))
+                           .rename(columns={'national_rank': 'team_rank',
+                                            'position': 'team_league_rank'}))
 
     merged_cup_fixtures = set_non_league_rank(merged_cup_fixtures)
 
@@ -159,70 +160,33 @@ def merge_with_distance_data(cup_fixtures, distance_data):
     return cup_fixtures
 
 
-def merge_with_financial_data(cup_fixtures, financial_data):
+def merge_with_financial_data(cup_fixtures, financial_data, team_mapping):
     """
-    Merge cup fixtures dataframe with financial data (squad size, mean age,
-    foreign players, mean market value, total market value) using
-    the best matching team names based on Levenshtein similarity scores as
-    names of teams are not exactly similar based on data sources.
+    Merge cup fixtures dataframe with financial data using a custom mapping
+    of team names. Custom mappings can be found in settings folder.
 
     Returns:
     - pd.DataFrame: Merged dataframe with financial data.
     """
-
-    def get_base_name(team_name):
-        if ' II' in team_name:
-            return team_name.replace(' II', ''), ' II'
-        elif ' 2' in team_name:
-            return team_name.replace(' 2', ''), ' 2'
-        elif ' B' in team_name:
-            return team_name.replace(' B', ''), ' B'
-        else:
-            return team_name, ''
-
-    def get_best_match(row, choices):
-        team_name = row['team_name']
-        base_name, suffix = get_base_name(team_name)
-
-        if suffix:
-            filtered_choices = [choice for choice in choices if suffix in choice and base_name in choice]
-        else:
-            filtered_choices = [choice for choice in choices if
-                                not any(suffix in choice for suffix in [' II', ' 2', ' B', 'U21'])]
-
-        if not filtered_choices:
-            return None, None
-
-        best_match = None
-        best_score = 0
-        for choice in filtered_choices:
-            score = Levenshtein.ratio(team_name, choice)
-            if score > best_score:
-                best_match = choice
-                best_score = score
-
-        return best_match, best_score
-
-    # Add the match results but do not filter out the unmatched rows
-    cup_fixtures[['best_match', 'match_ratio']] = cup_fixtures.apply(
-        lambda row: get_best_match(row, financial_data['team_name']),
-        axis=1,
-        result_type='expand'
-    )
-
-    # Perform the left merge without filtering out any rows
-    merged_cup_fixtures = pd.merge(
-        cup_fixtures,
-        financial_data,
-        left_on=['year', 'best_match'],
-        right_on=['year', 'team_name'],
-        suffixes=('_fix', '_fin'),
+    cup_fixtures = cup_fixtures.merge(
+        team_mapping,
+        left_on='team_name',
+        right_on='cup_name',
         how='left'
     )
 
-    suffixes_columns = [col for col in cup_fixtures.columns if col in financial_data.columns]
-    rename_columns = {col + '_fix': col for col in suffixes_columns}
-    merged_cup_fixtures.rename(columns=rename_columns, inplace=True)
+    cup_fixtures.drop(columns=['cup_name'], inplace=True)
+
+    merged_cup_fixtures = pd.merge(
+        cup_fixtures,
+        financial_data,
+        left_on=['year', 'financial_name'],
+        right_on=['year', 'team_name'],
+        how='left',
+        suffixes=('', '_fin')
+    )
+
+    merged_cup_fixtures.drop(columns=['financial_name', 'team_name_fin'], inplace=True)
 
     return merged_cup_fixtures
 
@@ -241,11 +205,12 @@ def preprocess_data(country: str, cup: str):
     league_fixtures = load_csv(os.path.join(project_root(), 'data', 'process', country, 'league_fixtures.csv'))
     distance_data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{cup}_distance_data.csv'))
     financial_data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{cup}_financial_data.csv'))
+    team_mapping = load_csv(os.path.join(project_root(), 'settings', country, f'{cup}_team_mapping.csv'))
 
     merged_cup_fixtures = merge_cup_and_league_data(cup_fixtures, league_standings)
     merged_cup_fixtures = merge_with_next_fixture_data(merged_cup_fixtures, league_fixtures)
     merged_cup_fixtures = merge_with_distance_data(merged_cup_fixtures, distance_data)
-    merged_cup_fixtures = merge_with_financial_data(merged_cup_fixtures, financial_data)
+    merged_cup_fixtures = merge_with_financial_data(merged_cup_fixtures, financial_data, team_mapping)
 
     merged_cup_fixtures['team_home'] = merged_cup_fixtures['team_home'].apply(lambda x: 1 if x == 'home' else 0)
     merged_cup_fixtures['extra_time'] = merged_cup_fixtures['fixture_length'].apply(lambda x: 1 if x > 90 else 0)
