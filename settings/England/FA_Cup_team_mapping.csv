@@ -1,229 +1,229 @@
-cup_name,financial_name
-Chelsea,Chelsea FC
-Leicester,Leicester City
-Liverpool,Liverpool FC
-Stoke City,Stoke City
-Tottenham,Tottenham Hotspur
-Bolton,Bolton Wanderers
-Sunderland,Sunderland AFC
-Everton,Everton FC
-Birmingham,Birmingham City
-Stevenage,Stevenage FC
-Blackpool,Blackpool FC
-Norwich,Norwich City
-Millwall,Millwall FC
-Arsenal,Arsenal FC
-Crawley Town,Crawley Town
-Brighton,Brighton & Hove Albion
-Sheffield Wednesday,Sheffield Wednesday
-Southampton,Southampton FC
-Middlesbrough,Middlesbrough FC
-Watford,Watford FC
-Fulham,Fulham FC
-QPR,Queens Park Rangers
-Manchester United,Manchester United
-Derby,Derby County
-Swansea,Swansea City
-Swindon Town,Swindon Town
-Sheffield Utd,Sheffield United
-Hull City,Hull City
-West Brom,West Bromwich Albion
-Notts County,Notts County
-Newcastle,Newcastle United
-Aston Villa,Aston Villa
-Nottingham Forest,Nottingham Forest
-Dagenham & Redbridge,Dagenham & Redbridge FC
-Milton Keynes Dons,Milton Keynes Dons
-Macclesfield,Macclesfield Town FC
-Wrexham,
-Wolves,Wolverhampton Wanderers
-Yeovil Town,Yeovil Town
-Fleetwood Town,Fleetwood Town
-Grimsby,Grimsby Town
-Salisbury City,
-Walsall,Walsall FC
-Oldham,Oldham Athletic
-Southend,Southend United
-Chelmsford City,
-Stourbridge,
-Torquay,Torquay United
-Colchester,Colchester United
-Leyton Orient,Leyton Orient
-Gillingham,Gillingham FC
-Redbridge,
-Luton,Luton Town
-Cheltenham,Cheltenham Town
-Brentford,Brentford FC
-Bradford,Bradford City
-AFC Wimbledon,AFC Wimbledon
-Shrewsbury,Shrewsbury Town
-Rotherham,Rotherham United
-Barnet,Barnet FC
-Gateshead,
-Tamworth,
-Aldershot Town,Aldershot Town
-Charlton,Charlton Athletic
-Carlisle,Carlisle United
-AFC Totton,
-Bristol Rovers,Bristol Rovers
-Sutton Utd,Sutton United
-Plymouth,Plymouth Argyle
-Oxford City,
-Preston,Preston North End
-Hinckley United,
-Port Vale,Port Vale FC
-Bournemouth,AFC Bournemouth
-Scunthorpe,Scunthorpe United
-Maidenhead,
-Cambridge United,Cambridge United
-Bath City,
-Exeter City,Exeter City
-Newport County,Newport County
-Basingstoke Town,
-East Thurrock United,
-Hereford United,Hereford United (- 2014)
-Northampton,Northampton Town
-Corby Town,
-Bury,Bury FC
-Huddersfield,Huddersfield Town
-Burton Albion,Burton Albion
-Wycombe,Wycombe Wanderers
-Hartlepool,Hartlepool United
-Blyth Spartans,
-Alfreton Town,
-Chesterfield,Chesterfield FC
-Crewe,Crewe Alexandra
-Tranmere,Tranmere Rovers
-AFC Telford United,
-Rochdale,Rochdale AFC
-Accrington ST,Accrington Stanley
-Oxford United,Oxford United
-Kettering Town,
-Nantwich Town,
-Bradford (Park Avenue),
-Bromley,
-Arlesey Town,
-Southport,Barrow AFC
-Barrow,
-FC Halifax Town,Morecambe FC
-Morecambe,Wigan Athletic
-Wigan,Manchester City
-Manchester City,Blackburn Rovers
-Blackburn,Barnsley FC
-Barnsley,Leeds United
-Leeds,Reading FC
-Reading,Crystal Palace
-Crystal Palace,West Ham United
-West Ham,Coventry City
-Coventry,Ipswich Town
-Ipswich,Cardiff City
-Cardiff,Burnley FC
-Burnley,
-Hastings United,Peterborough United
-Peterborough,Bristol City
-Bristol City,Mansfield Town
-Mansfield Town,Lincoln City
-Lincoln,Harrogate Town
-Harrogate Town,
-Dorchester Town,Doncaster Rovers
-Doncaster,York City
-York,
-Cambridge City,
-Slough Town,
-Guiseley AFC,
-Nuneaton Town,
-Altrincham,Portsmouth FC
-Boreham Wood,
-Kidderminster Harriers,Forest Green Rovers
-Metropolitan Police,
-Portsmouth,
-Bishop's Stortford,Stockport County
-Forest Green,
-Yate Town,
-Hendon,
-Stockport County,
-AFC Fylde,
-Ebbsfleet United,
-Braintree,
-Gloucester City,
-Dover,
-Brackley Town,
-Welling United,
-St Albans City,
-Daventry Town,
-Dartford,
-Staines Town,
-Hednesford Town,
-Biggleswade Town,Salford City
-Shortwood United,
-Chester,
-Worcester City,
-Maidstone Utd,
-Warrington Town,
-Eastleigh,
-Concord Rangers,
-Hemel Hempstead Town,
-Gosport Borough,
-Norton United,
-Woking,
-Havant & Wville,
-Weston-super-Mare,
-Salford City,
-Whitehawk,
-Northwich Victoria,
-Chesham United,
-Barwell,
-Stalybridge Celtic,
-Wealdstone,
-Didcot Town,
-Gainsborough Trinity,
-United of Manchester,
-Solihull Moors,
-Curzon Ashton,
-Westfields,
-Taunton Town,
-Merstham,
-Harrow Borough,
-Spennymoor Town,
-Eastbourne Borough,
-Stamford,
-Hereford,
-Leatherhead,
-Billericay Town,
-Hyde United,
-SL Aquaforce,
-Truro City,
-Heybridge Swifts,
-Chorley,
-Haringey Borough,
-Hitchin Town,
-Hampton & Richmond,
-Carshalton Athletic,
-Boston United,
-Dulwich Hamlet,
-Maldon & Tiptree,
-Chippenham Town,
-Kingstonian,
-Hayes & Yeading United,
-Darlington 1883,
-Chichester City,
-Cray Valley PM,
-Tonbridge Angels,
-South Shields,
-Skelmersdale United,
-Marine,
-Banbury United,
-Canvey Island,
-King's Lynn Town,
-Horsham,
-AFC Sudbury,
-Bowers & Pitsea,
-Stratford Town,
-Buxton,
-Farnborough,
-Merthyr Town,
-Coalville Town,
-Needham Market,
-Alvechurch,
-Bracknell Town,
-Weymouth,
+cup_name,financial_name,city
+Chelsea,Chelsea FC,London
+Leicester,Leicester City,Leicester
+Liverpool,Liverpool FC,Liverpool
+Stoke City,Stoke City,Stoke-on-Trent
+Tottenham,Tottenham Hotspur,London
+Bolton,Bolton Wanderers,Bolton
+Sunderland,Sunderland AFC,Sunderland
+Everton,Everton FC,Liverpool
+Birmingham,Birmingham City,Birmingham
+Stevenage,Stevenage FC,Stevenage
+Blackpool,Blackpool FC,Blackpool
+Norwich,Norwich City,Norwich
+Millwall,Millwall FC,London
+Arsenal,Arsenal FC,London
+Crawley Town,Crawley Town,Crawley
+Brighton,Brighton & Hove Albion,Brighton
+Sheffield Wednesday,Sheffield Wednesday,Sheffield
+Southampton,Southampton FC,Southampton
+Middlesbrough,Middlesbrough FC,Middlesbrough
+Watford,Watford FC,Watford
+Fulham,Fulham FC,London
+QPR,Queens Park Rangers,London
+Manchester United,Manchester United,Manchester
+Derby,Derby County,Derby
+Swansea,Swansea City,Swansea
+Swindon Town,Swindon Town,Swindon
+Sheffield Utd,Sheffield United,Sheffield
+Hull City,Hull City,Hull
+West Brom,West Bromwich Albion,West Bromwich
+Notts County,Notts County,Nottingham
+Newcastle,Newcastle United,Newcastle upon Tyne
+Aston Villa,Aston Villa,Birmingham
+Nottingham Forest,Nottingham Forest,Nottingham
+Dagenham & Redbridge,Dagenham & Redbridge FC,Dagenham
+Milton Keynes Dons,Milton Keynes Dons,Milton Keynes
+Macclesfield,Macclesfield Town FC,Macclesfield
+Wrexham,,Wrexham
+Wolves,Wolverhampton Wanderers,Wolverhampton
+Yeovil Town,Yeovil Town,Yeovil
+Fleetwood Town,Fleetwood Town,Fleetwood
+Grimsby,Grimsby Town,Grimsby
+Salisbury City,,Salisbury
+Walsall,Walsall FC,Walsall
+Oldham,Oldham Athletic,Oldham
+Southend,Southend United,Southend-on-Sea
+Chelmsford City,,Chelmsford
+Stourbridge,,Stourbridge
+Torquay,Torquay United,Torquay
+Colchester,Colchester United,Colchester
+Leyton Orient,Leyton Orient,London
+Gillingham,Gillingham FC,Gillingham
+Redbridge,,London
+Luton,Luton Town,Luton
+Cheltenham,Cheltenham Town,Cheltenham
+Brentford,Brentford FC,London
+Bradford,Bradford City,Bradford
+AFC Wimbledon,AFC Wimbledon,London
+Shrewsbury,Shrewsbury Town,Shrewsbury
+Rotherham,Rotherham United,Rotherham
+Barnet,Barnet FC,London
+Gateshead,,Gateshead
+Tamworth,,Tamworth
+Aldershot Town,Aldershot Town,Aldershot
+Charlton,Charlton Athletic,London
+Carlisle,Carlisle United,Carlisle
+AFC Totton,,Totton
+Bristol Rovers,Bristol Rovers,Bristol
+Sutton Utd,Sutton United,Sutton
+Plymouth,Plymouth Argyle,Plymouth
+Oxford City,,Oxford
+Preston,Preston North End,Preston
+Hinckley United,,Hinckley
+Port Vale,Port Vale FC,Stoke-on-Trent
+Bournemouth,AFC Bournemouth,Bournemouth
+Scunthorpe,Scunthorpe United,Scunthorpe
+Maidenhead,,Maidenhead
+Cambridge United,Cambridge United,Cambridge
+Bath City,,Bath
+Exeter City,Exeter City,Exeter
+Newport County,Newport County,Newport
+Basingstoke Town,,Basingstoke
+East Thurrock United,,Corringham
+Hereford United,Hereford United (- 2014),Hereford
+Northampton,Northampton Town,Northampton
+Corby Town,,Corby
+Bury,Bury FC,Bury
+Huddersfield,Huddersfield Town,Huddersfield
+Burton Albion,Burton Albion,Burton upon Trent
+Wycombe,Wycombe Wanderers,High Wycombe
+Hartlepool,Hartlepool United,Hartlepool
+Blyth Spartans,,Blyth
+Alfreton Town,,Alfreton
+Chesterfield,Chesterfield FC,Chesterfield
+Crewe,Crewe Alexandra,Crewe
+Tranmere,Tranmere Rovers,Birkenhead
+AFC Telford United,,Telford
+Rochdale,Rochdale AFC,Rochdale
+Accrington ST,Accrington Stanley,Accrington
+Oxford United,Oxford United,Oxford
+Kettering Town,,Kettering
+Nantwich Town,,Nantwich
+Bradford (Park Avenue),,Bradford
+Bromley,,Bromley
+Arlesey Town,,Arlesey
+Southport,Barrow AFC,Barrow-in-Furness
+Barrow,,Barrow-in-Furness
+FC Halifax Town,Morecambe FC,Morecambe
+Morecambe,Wigan Athletic,Wigan
+Wigan,Manchester City,Manchester
+Manchester City,Blackburn Rovers,Blackburn
+Blackburn,Barnsley FC,Barnsley
+Barnsley,Leeds United,Leeds
+Leeds,Reading FC,Reading
+Reading,Crystal Palace,London
+Crystal Palace,West Ham United,London
+West Ham,Coventry City,Coventry
+Coventry,Ipswich Town,Ipswich
+Ipswich,Cardiff City,Cardiff
+Cardiff,Burnley FC,Burnley
+Burnley,,Burnley
+Hastings United,Peterborough United,Peterborough
+Peterborough,Bristol City,Bristol
+Bristol City,Mansfield Town,Mansfield
+Mansfield Town,Lincoln City,Lincoln
+Lincoln,Harrogate Town,Harrogate
+Harrogate Town,,Harrogate
+Dorchester Town,Doncaster Rovers,Doncaster
+Doncaster,York City,York
+York,,York
+Cambridge City,,Cambridge
+Slough Town,,Slough
+Guiseley AFC,,Guiseley
+Nuneaton Town,,Nuneaton
+Altrincham,Portsmouth FC,Portsmouth
+Boreham Wood,,Borehamwood
+Kidderminster Harriers,Forest Green Rovers,Forest Green
+Metropolitan Police,,London
+Portsmouth,,Portsmouth
+Bishop's Stortford,Stockport County,Stockport
+Forest Green,,Forest Green
+Yate Town,,Yate
+Hendon,,London
+Stockport County,,Stockport
+AFC Fylde,,Wesham
+Ebbsfleet United,,Northfleet
+Braintree,,Braintree
+Gloucester City,,Gloucester
+Dover,,Dover
+Brackley Town,,Brackley
+Welling United,,Welling
+St Albans City,,St Albans
+Daventry Town,,Daventry
+Dartford,,Dartford
+Staines Town,,Staines-upon-Thames
+Hednesford Town,,Hednesford
+Biggleswade Town,Salford City,Salford
+Shortwood United,,Nailsworth
+Chester,,Chester
+Worcester City,,Worcester
+Maidstone Utd,,Maidstone
+Warrington Town,,Warrington
+Eastleigh,,Eastleigh
+Concord Rangers,,Canvey Island
+Hemel Hempstead Town,,Hemel Hempstead
+Gosport Borough,,Gosport
+Norton United,,Smallthorne
+Woking,,Woking
+Havant & Wville,,Havant
+Weston-super-Mare,,Weston-super-Mare
+Salford City,,Salford
+Whitehawk,,Brighton
+Northwich Victoria,,Northwich
+Chesham United,,Chesham
+Barwell,,Barwell
+Stalybridge Celtic,,Stalybridge
+Wealdstone,,Ruislip
+Didcot Town,,Didcot
+Gainsborough Trinity,,Gainsborough
+United of Manchester,,Moston, Manchester
+Solihull Moors,,Solihull
+Curzon Ashton,,Ashton-under-Lyne
+Westfields,,Hereford
+Taunton Town,,Taunton
+Merstham,,Merstham
+Harrow Borough,,Harrow
+Spennymoor Town,,Spennymoor
+Eastbourne Borough,,Eastbourne
+Stamford,,Stamford
+Hereford,,Hereford
+Leatherhead,,Leatherhead
+Billericay Town,,Billericay
+Hyde United,,Hyde
+SL Aquaforce,,Barnsley
+Truro City,,Truro
+Heybridge Swifts,,Heybridge
+Chorley,,Chorley
+Haringey Borough,,London
+Hitchin Town,,Hitchin
+Hampton & Richmond,,London
+Carshalton Athletic,,London
+Boston United,,Boston
+Dulwich Hamlet,,London
+Maldon & Tiptree,,Maldon
+Chippenham Town,,Chippenham
+Kingstonian,,London
+Hayes & Yeading United,,Hayes
+Darlington 1883,,Darlington
+Chichester City,,Chichester
+Cray Valley PM,,Eltham, London
+Tonbridge Angels,,Tonbridge
+South Shields,,South Shields
+Skelmersdale United,,Skelmersdale
+Marine,,Crosby, Liverpool
+Banbury United,,Banbury
+Canvey Island,,Canvey Island
+King's Lynn Town,,King's Lynn
+Horsham,,Horsham
+AFC Sudbury,,Sudbury
+Bowers & Pitsea,,Pitsea
+Stratford Town,,Stratford-upon-Avon
+Buxton,,Buxton
+Farnborough,,Farnborough
+Merthyr Town,,Merthyr Tydfil
+Coalville Town,,Coalville
+Needham Market,,Needham Market
+Alvechurch,,Alvechurch
+Bracknell Town,,Bracknell
+Weymouth,,Weymouth
