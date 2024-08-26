@@ -64,6 +64,7 @@ def run_causal_forest_analysis(df):
         plt.title(f'CATE Distribution for Stage {stage}')
         plt.xlabel('CATE')
         plt.ylabel('Frequency')
+        plt.savefig(f'CATE_{stage}.png')
         plt.show()
 
     return ate, cate
@@ -75,6 +76,7 @@ if __name__ == "__main__":
 
     # Load the processed DataFrame
     stages_df = load_processed_data(country, cup)
+    stages_df = stages_df[stages_df['next_fixture_days'] <= 5]
 
     # Run Causal Forest Analysis
     ate, cate = run_causal_forest_analysis(stages_df)
