@@ -43,30 +43,33 @@ def merge_cup_and_league_data(cup_fixtures: pd.DataFrame, league_standings: pd.D
     """
     league_standings = league_standings[league_standings['year'] > 2010].copy()
     league_standings['prev_year'] = league_standings['year'] + 1
+    league_standings = league_standings.rename(columns={'position': 'league_rank'})
 
     merged_cup_fixtures = (cup_fixtures[cup_fixtures['year'] > 2010]
                            # Merge opponent's previous year national rank
-                           .merge(league_standings[['prev_year', 'team_id', 'national_rank', 'position']],
+                           .merge(league_standings[['prev_year', 'team_id', 'national_rank', 'league_rank']],
                                   left_on=['year', 'opponent_id'],
                                   right_on=['prev_year', 'team_id'],
                                   how='left',
                                   suffixes=('', '_opponent'))
-                           .rename(columns={'national_rank': 'opponent_rank_prev'})
+                           .rename(columns={'national_rank': 'opponent_rank_prev',
+                                            'league_rank': 'opponent_league_rank_prev'})
                            .drop(columns=['prev_year', 'team_id_opponent'])
                            # Merge team's previous year national rank and division
-                           .merge(league_standings[['prev_year', 'division', 'team_id', 'national_rank']],
+                           .merge(league_standings[['prev_year', 'division', 'team_id', 'national_rank', 'league_rank']],
                                   left_on=['year', 'team_id'],
                                   right_on=['prev_year', 'team_id'],
                                   how='left')
-                           .rename(columns={'national_rank': 'team_rank_prev'})
+                           .rename(columns={'national_rank': 'team_rank_prev',
+                                            'league_rank': 'team_league_rank_prev'})
                            .drop(columns=['prev_year'])
                            # Merge team's current year national rank
-                           .merge(league_standings[['year', 'team_id', 'national_rank']],
+                           .merge(league_standings[['year', 'team_id', 'national_rank', 'league_rank']],
                                   left_on=['year', 'team_id'],
                                   right_on=['year', 'team_id'],
                                   how='left')
                            .rename(columns={'national_rank': 'team_rank',
-                                            'position': 'team_league_rank'}))
+                                            'league_rank': 'team_league_rank'}))
 
     merged_cup_fixtures = set_non_league_rank(merged_cup_fixtures)
 
