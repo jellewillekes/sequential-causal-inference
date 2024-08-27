@@ -54,7 +54,7 @@ def compile_standings(country):
         if 'standings' in details['data_types']:
             for season in range(details['season_start'], details['season_end'] + 1):
                 standings_path = os.path.join(project_root(), 'data', 'raw', country, league, str(season),
-                                              'standings_data.json')
+                                              'league_data.json')
                 if os.path.isfile(standings_path):
                     with open(standings_path, 'r') as file:
                         standings_data = json.load(file)

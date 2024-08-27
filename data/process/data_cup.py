@@ -8,7 +8,12 @@ def process_season_fixtures(fixtures_data, season, stages):
     season_matches = []
     for fixture in fixtures_data['response']:
         round_name = fixture['league']['round']
-        stage_number = stages.get(round_name)
+
+        # Only proceed if the round is in the stages mapping
+        if round_name not in stages:
+            continue
+
+        stage_number = stages[round_name]
 
         home_winner = fixture['teams']['home'].get('winner')
         away_winner = fixture['teams']['away'].get('winner')
@@ -77,12 +82,16 @@ def construct_cup_data(country, cup):
                 all_matches.extend(process_season_fixtures(fixtures_data, season, stages))
 
     matches_df = pd.DataFrame(all_matches)
+
+    # Remove fixtures without a winner, then there will be a replay.
+    matches_df = matches_df.dropna(subset=['team_win'])
+
     save_to_csv(matches_df, country, cup)
     print(matches_df.head())
 
 
 # Usage example
 if __name__ == "__main__":
-    country = 'Germany'
-    cup = 'DFB_Pokal'
+    country = 'Netherlands'
+    cup = 'KNVB_Beker'
     construct_cup_data(country, cup)

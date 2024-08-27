@@ -25,12 +25,12 @@ def run_preprocess_data(country, cup):
     logging.info(f"Analyzing league data for {country}...")
     construct_league_data(country)
 
-    financial_data_path = os.path.join('data', 'process', country, f'{country}_financial_data.csv')
+    financial_data_path = os.path.join('data', 'process', country, f'{cup}_financial_data.csv')
     if not os.path.exists(financial_data_path):
         logging.info("Loading financial data...")
         request_financial_data(country)
 
-    distance_data_path = os.path.join('data', 'process', country, f'{country}_distance_data.csv')
+    distance_data_path = os.path.join('data', 'process', country, f'{cup}_distance_data.csv')
     if not os.path.exists(distance_data_path):
         logging.info(f"Calculating distances for {cup} in {country}...")
         request_distance_data(country, cup)

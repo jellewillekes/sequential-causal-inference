@@ -5,7 +5,19 @@ from utils.load import project_root
 from data.distance.core import calculate_distance
 
 
-def calculate_distances(fixtures, country):
+def load_team_city_mapping(country, cup):
+    project_root_path = project_root()
+    mapping_file = os.path.join(project_root_path, 'settings', country, f'{cup}_team_mapping.csv')
+    if os.path.exists(mapping_file):
+        return pd.read_csv(mapping_file)
+    else:
+        raise FileNotFoundError(f"Team mapping file not found for {country} - {cup}")
+
+
+def calculate_distances(fixtures, country, cup):
+    # Load the team-city mapping
+    team_city_mapping = load_team_city_mapping(country, cup)
+
     unique_combinations = (fixtures[['team_name', 'opponent_name']]
                            .drop_duplicates()
                            .assign(
@@ -15,12 +27,25 @@ def calculate_distances(fixtures, country):
                            .sort_values(by=['team_name', 'opponent_name'])
                            .reset_index(drop=True))
 
-    unique_combinations['distance'] = None
+    # Merge the city data for team_name
+    unique_combinations = unique_combinations.merge(
+        team_city_mapping[['cup_name', 'city']].rename(columns={'cup_name': 'team_name', 'city': 'team_city'}),
+        on='team_name', how='left'
+    )
 
+    # Merge the city data for opponent_name
+    unique_combinations = unique_combinations.merge(
+        team_city_mapping[['cup_name', 'city']].rename(columns={'cup_name': 'opponent_name', 'city': 'opponent_city'}),
+        on='opponent_name', how='left'
+    )
+
+    # Calculate distances
+    unique_combinations['distance'] = None
     for i, row in unique_combinations.iterrows():
         print(f'Processing row {i + 1}/{len(unique_combinations)}')
         try:
-            distance = calculate_distance(row['team_name'], row['opponent_name'], country)
+            distance = calculate_distance(row['team_name'], row['opponent_name'], row['team_city'],
+                                          row['opponent_city'], country)
             unique_combinations.at[i, 'distance'] = distance
         except Exception as e:
             print(f"Error calculating distance for index {i}: {e}")
@@ -51,7 +76,7 @@ def process_cup_fixtures(country, cup):
     fixtures_path = os.path.join(project_root_path, 'data', 'process', country, f'{cup}_fixtures.csv')
 
     fixtures_data = pd.read_csv(fixtures_path)
-    fixtures_with_distances = calculate_distances(fixtures_data, country)
+    fixtures_with_distances = calculate_distances(fixtures_data, country, cup)
     save_to_csv(fixtures_with_distances, country, cup)
     return fixtures_with_distances
 
@@ -63,6 +88,6 @@ def request_distance_data(country, cup):
 
 # Usage example
 if __name__ == "__main__":
-    country = 'England'
-    cup = 'FA_Cup'
+    country = 'Portugal'
+    cup = 'Taca_de_Portugal'
     request_distance_data(country, cup)
