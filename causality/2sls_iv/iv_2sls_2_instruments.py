@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-import textwrap
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 
@@ -19,9 +18,18 @@ def ensure_country_plots_dir(country):
     return country_plots_dir
 
 
-def perform_2sls_analysis(data, outcome_var, instr_var, treatment_var, control_vars, display="none"):
+def impute_opponent_rank(data, placeholder_rank=25):
+    # Impute NaN values in opponent_league_rank_prev with a placeholder rank for non-league teams
+    data['opponent_league_rank_prev'] = data.apply(
+        lambda row: placeholder_rank if pd.isna(row['opponent_league_rank_prev']) else row['opponent_league_rank_prev'],
+        axis=1
+    )
+    return data
+
+
+def perform_2sls_analysis(data, outcome_var, instr_vars, treatment_var, control_vars, display="none"):
     # First stage Regression
-    X1 = sm.add_constant(data[[instr_var] + control_vars])
+    X1 = sm.add_constant(data[instr_vars + control_vars])  # Include all instruments in the first stage
     first_stage_model = sm.OLS(data[treatment_var], X1).fit()
     data['D_hat'] = first_stage_model.predict(X1)
 
@@ -30,7 +38,7 @@ def perform_2sls_analysis(data, outcome_var, instr_var, treatment_var, control_v
         print(first_stage_model.summary())
 
     # Second stage Regression
-    X2 = sm.add_constant(data[['D_hat'] + control_vars])
+    X2 = sm.add_constant(data[['D_hat'] + control_vars])  # Use predicted treatment in second stage
     second_stage_model = sm.OLS(data[outcome_var], X2).fit()
 
     if "summary" in display:
@@ -49,7 +57,7 @@ def perform_2sls_analysis(data, outcome_var, instr_var, treatment_var, control_v
     }
 
 
-def analyze_2sls_by_stage(stages_df, outcome_var, instr_var, treatment_var, control_vars, display="none"):
+def analyze_2sls_by_stage(stages_df, outcome_var, instr_vars, treatment_var, control_vars, display="none"):
     unique_stages = stages_df['stage'].unique()
     unique_stages.sort()
 
@@ -62,7 +70,7 @@ def analyze_2sls_by_stage(stages_df, outcome_var, instr_var, treatment_var, cont
         df_stage = stages_df[stages_df['stage'] == stage].copy()
 
         # Perform 2SLS analysis for each stage
-        analysis_result = perform_2sls_analysis(df_stage, outcome_var, instr_var, treatment_var, control_vars, display)
+        analysis_result = perform_2sls_analysis(df_stage, outcome_var, instr_vars, treatment_var, control_vars, display)
         results.append({
             'stage': stage,
             '2sls_iv': analysis_result['second_stage_params']['D_hat'],
@@ -102,7 +110,7 @@ def plot_causal_effect(variables, results, country_plots_dir, display="none", fi
         # Extract information from the variables dictionary
         outcome_var = variables.get('outcome_var')
         treatment_var = variables.get('treatment_var')
-        instrument_var = variables.get('instrument_var')
+        instrument_vars = variables.get('instrument_vars')
         control_vars = variables.get('control_vars', [])
 
         if outcome_var == 'team_rank_diff':
@@ -118,7 +126,7 @@ def plot_causal_effect(variables, results, country_plots_dir, display="none", fi
         # Create the annotation text with manual line breaks and left alignment
         annotation_text = (f"Outcome:    {outcome_var}\n"
                            f"Treatment:  {treatment_var}\n"
-                           f"Instrument: {instrument_var}\n"
+                           f"Instruments: {', '.join(instrument_vars)}\n"
                            f"Controls:   {formatted_controls}")
 
         # Adjust the placement of the legend to make space for the annotation
@@ -139,27 +147,56 @@ def plot_causal_effect(variables, results, country_plots_dir, display="none", fi
         plt.show()
 
 
+def count_nans(data, columns):
+    """
+    Count the number of NaN values in each specified column of the DataFrame.
+
+    Parameters:
+    - data: DataFrame containing the data.
+    - columns: List of column names to check for NaN values.
+
+    Returns:
+    - A DataFrame showing the number of NaNs in each specified column.
+    """
+    nan_counts = data[columns].isna().sum()
+    nan_summary = pd.DataFrame(nan_counts, columns=['NaN Count'])
+    return nan_summary
+
+
 if __name__ == "__main__":
-    country = 'Germany'
-    cup = 'DFB_Pokal'
-    display = " "  # Set to "summary plot" to display both summaries and plots
+    country = 'combined'
+    cup = 'combined_cup'
+    display = "summary plot"  # Set to "summary plot" to display both summaries and plots
 
     # Load the processed DataFrame
-    stages_df = load_processed_data(country, cup)
+    cup_fixtures = load_processed_data(country, cup)
 
-    stages_df = impute_data(stages_df, method='minmax')
+    # Drop rows with no distance data (small unknown teams)
+    cup_fixtures = cup_fixtures.dropna(subset='distance')
+
+    # Define variables for the 2SLS analysis
+    outcome_var = 'next_team_points'
+    instr_vars = ['opponent_league_rank_prev', 'opponent_division']
+    treatment_var = 'team_win'
+    control_vars = ['team_rank_prev', 'team_size', 'foreigners', 'mean_age', 'mean_value', 'total_value', 'distance',
+                    'extra_time', 'next_fixture_days']
+
+    # Check NaN counts for all variables used in the models
+    all_vars = [outcome_var] + instr_vars + [treatment_var] + control_vars
+    nan_summary = count_nans(cup_fixtures, all_vars)
+    print("NaN counts for all variables used in the models:")
+    print(nan_summary)
 
     # Ensure country-specific plots directory exists
     country_plots_dir = ensure_country_plots_dir(country)
 
-    # Define variables for the 2SLS analysis
-    outcome_var = 'next_team_points'
-    instr_var = 'team_better'
-    treatment_var = 'team_win'
-    control_vars = ['team_rank_prev', 'team_size', 'foreigners', 'mean_age', 'mean_value', 'total_value', 'distance']
-
     # Perform the 2SLS analysis by stage
-    results, summaries = analyze_2sls_by_stage(stages_df, outcome_var, instr_var, treatment_var, control_vars, display)
+    results, summaries = analyze_2sls_by_stage(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars, display)
 
     # Plot the causal effect for all rounds
-    plot_causal_effect(results, country_plots_dir, display)
+    plot_causal_effect({
+        'outcome_var': outcome_var,
+        'treatment_var': treatment_var,
+        'instrument_vars': instr_vars,
+        'control_vars': control_vars
+    }, results, country_plots_dir, display)
