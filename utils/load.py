@@ -28,3 +28,9 @@ def load_league_mappings(country):
     with open(os.path.join(project_root(), 'settings', f'mapping_{country.lower()}.yaml'), 'r') as file:
         league_mappings = yaml.safe_load(file)
     return league_mappings
+
+
+def load_processed_data(country, cup):
+    file_path = os.path.join(project_root(), 'data/process', country, f'{cup}_processed.csv')
+    return pd.read_csv(file_path)
+
