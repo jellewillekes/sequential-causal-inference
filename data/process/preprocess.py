@@ -15,16 +15,25 @@ def set_non_league_rank(team_data: pd.DataFrame, divisions: int = 4):
     Returns:
     - pd.DataFrame: Dataframe with updated team rankings.
     """
-    divisions = team_data['division'].max()
+    divisions = team_data['team_division'].max()
     latest_year = team_data['year'].max()
     total_teams_in_latest_year = team_data[team_data['year'] == latest_year]['team_id'].nunique()
-    non_league_rank = total_teams_in_latest_year + (total_teams_in_latest_year // divisions)
+    non_national_rank = total_teams_in_latest_year + (total_teams_in_latest_year // divisions)
 
-    team_data['team_rank'] = team_data['team_rank'].fillna(non_league_rank)
-    team_data['team_rank_prev'] = team_data['team_rank_prev'].fillna(non_league_rank)
-    team_data['opponent_rank_prev'] = team_data['opponent_rank_prev'].fillna(non_league_rank)
+    team_data['team_rank'] = team_data['team_rank'].fillna(non_national_rank)
+    team_data['team_rank_prev'] = team_data['team_rank_prev'].fillna(non_national_rank)
+    team_data['opponent_rank_prev'] = team_data['opponent_rank_prev'].fillna(non_national_rank)
 
-    team_data['division'] = team_data['division'].apply(lambda x: divisions + 1 if pd.isna(x) else x)
+    total_teams_lowest_division = \
+    team_data[(team_data['year'] == latest_year) & (team_data['team_division'] == divisions)]['team_id'].nunique()
+    non_league_rank = total_teams_lowest_division // 2
+
+    team_data['team_league_rank'] = team_data['team_league_rank'].fillna(non_league_rank)
+    team_data['team_league_rank_prev'] = team_data['team_league_rank_prev'].fillna(non_league_rank)
+    team_data['opponent_league_rank_prev'] = team_data['opponent_league_rank_prev'].fillna(non_league_rank)
+
+    team_data['team_division'] = team_data['team_division'].apply(lambda x: divisions + 1 if pd.isna(x) else x)
+    team_data['opponent_division'] = team_data['opponent_division'].apply(lambda x: divisions + 1 if pd.isna(x) else x)
 
     return team_data
 
@@ -47,21 +56,25 @@ def merge_cup_and_league_data(cup_fixtures: pd.DataFrame, league_standings: pd.D
 
     merged_cup_fixtures = (cup_fixtures[cup_fixtures['year'] > 2010]
                            # Merge opponent's previous year national rank
-                           .merge(league_standings[['prev_year', 'team_id', 'national_rank', 'league_rank']],
+                           .merge(league_standings[['prev_year', 'team_id', 'national_rank', 'league_rank',
+                                                    'division']],
                                   left_on=['year', 'opponent_id'],
                                   right_on=['prev_year', 'team_id'],
                                   how='left',
                                   suffixes=('', '_opponent'))
                            .rename(columns={'national_rank': 'opponent_rank_prev',
-                                            'league_rank': 'opponent_league_rank_prev'})
+                                            'league_rank': 'opponent_league_rank_prev',
+                                            'division': 'opponent_division'})
                            .drop(columns=['prev_year', 'team_id_opponent'])
                            # Merge team's previous year national rank and division
-                           .merge(league_standings[['prev_year', 'division', 'team_id', 'national_rank', 'league_rank']],
-                                  left_on=['year', 'team_id'],
-                                  right_on=['prev_year', 'team_id'],
-                                  how='left')
+                           .merge(
+        league_standings[['prev_year', 'division', 'team_id', 'national_rank', 'league_rank']],
+        left_on=['year', 'team_id'],
+        right_on=['prev_year', 'team_id'],
+        how='left')
                            .rename(columns={'national_rank': 'team_rank_prev',
-                                            'league_rank': 'team_league_rank_prev'})
+                                            'league_rank': 'team_league_rank_prev',
+                                            'division': 'team_division'})
                            .drop(columns=['prev_year'])
                            # Merge team's current year national rank
                            .merge(league_standings[['year', 'team_id', 'national_rank', 'league_rank']],
@@ -240,8 +253,8 @@ def check_name_matches(data):
 
 
 if __name__ == "__main__":
-    country = 'Netherlands'
-    cup = 'KNVB_Beker'
+    country = 'England'
+    cup = 'FA_Cup'
     processed_data = preprocess_data(country, cup)
 
     print(processed_data)

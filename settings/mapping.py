@@ -44,8 +44,8 @@ def generate_team_mapping(unique_cup_teams, unique_financial_teams):
 
 
 if __name__ == "__main__":
-    country = 'Netherlands'
-    cup = 'KNVB_Beker'
+    country = 'Portugal'
+    cup = 'Taca_de_Portugal'
 
     unique_cup_teams, unique_financial_teams = extract_unique_team_names(country, cup)
 
@@ -60,8 +60,3 @@ if __name__ == "__main__":
 
     print("\nGenerated Team Mapping:")
     print(team_mapping_df)
-
-    # Save the mapping to a CSV file if needed
-    output_path = os.path.join(project_root(), 'settings', country, f'{cup}_team_mapping.csv')
-    team_mapping_df.to_csv(output_path, index=False)
-    print(f"Mapping saved to {output_path}")

@@ -35,4 +35,4 @@ DFB_Pokal:
     Quarter-finals: 3
     Semi-finals: 2
     Final: 1
-  rounds_random: 4
+  start_round: 4 # Round 1 and 2 of DFB Pokal are not random

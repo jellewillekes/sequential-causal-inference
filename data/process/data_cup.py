@@ -71,7 +71,7 @@ def construct_cup_data(country, cup):
     season_end = league_info['season_end']
     stages = league_info['rounds']
 
-    all_matches = []
+    all_fixtures = []
     project_root_path = project_root()
 
     for season in range(season_start, season_end):
@@ -79,19 +79,22 @@ def construct_cup_data(country, cup):
         if os.path.isfile(season_path):
             with open(season_path, 'r') as file:
                 fixtures_data = json.load(file)
-                all_matches.extend(process_season_fixtures(fixtures_data, season, stages))
+                all_fixtures.extend(process_season_fixtures(fixtures_data, season, stages))
 
-    matches_df = pd.DataFrame(all_matches)
+    cup_fixtures = pd.DataFrame(all_fixtures)
 
     # Remove fixtures without a winner, then there will be a replay.
-    matches_df = matches_df.dropna(subset=['team_win'])
+    cup_fixtures = cup_fixtures.dropna(subset=['team_win'])
 
-    save_to_csv(matches_df, country, cup)
-    print(matches_df.head())
+    # Only keep fixtures that are random based on mapping
+    start_round = mappings[cup]['start_round']
+    cup_fixtures = cup_fixtures[cup_fixtures['stage'] <= start_round]
+
+    save_to_csv(cup_fixtures, country, cup)
+    print(cup_fixtures.head())
 
 
-# Usage example
 if __name__ == "__main__":
-    country = 'Netherlands'
-    cup = 'KNVB_Beker'
+    country = 'Portugal'
+    cup = 'Taca_de_Portugal'
     construct_cup_data(country, cup)

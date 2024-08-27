@@ -1,0 +1,1298 @@
+team_name,opponent_name,team_city,opponent_city,distance
+AFC Fylde,Accrington ST,Wesham,Accrington,35
+AFC Fylde,Kidderminster Harriers,Wesham,Forest Green,237
+AFC Sudbury,Colchester,Sudbury,Colchester,20
+AFC Telford United,Basingstoke Town,Telford,Basingstoke,187
+AFC Totton,Bradford (Park Avenue),Totton,Bradford,315
+AFC Totton,Bristol Rovers,Totton,Bristol,95
+AFC Wimbledon,Bury,London,Bury,63
+AFC Wimbledon,Charlton,London,London,17
+AFC Wimbledon,Cheltenham,London,Cheltenham,140
+AFC Wimbledon,Chesterfield,London,Chesterfield,218
+AFC Wimbledon,Coventry,London,Ipswich,116
+AFC Wimbledon,Crawley Town,London,Crawley,35
+AFC Wimbledon,Forest Green,London,Forest Green,117
+AFC Wimbledon,Guiseley AFC,London,Guiseley,291
+AFC Wimbledon,Lincoln,London,Harrogate,301
+AFC Wimbledon,Liverpool,London,Liverpool,291
+AFC Wimbledon,Millwall,London,London,13
+AFC Wimbledon,Sutton Utd,London,Sutton,8
+AFC Wimbledon,West Ham,London,Coventry,142
+AFC Wimbledon,Weymouth,London,Weymouth,183
+AFC Wimbledon,York,London,York,288
+Accrington ST,Barnet,Accrington,London,277
+Accrington ST,Boreham Wood,Accrington,Borehamwood,272
+Accrington ST,Cheltenham,Accrington,Cheltenham,208
+Accrington ST,Colchester,Accrington,Colchester,301
+Accrington ST,Crewe,Accrington,Crewe,74
+Accrington ST,Derby,Accrington,Derby,110
+Accrington ST,Guiseley AFC,Accrington,Guiseley,45
+Accrington ST,Ipswich,Accrington,Cardiff,197
+Accrington ST,Leeds,Accrington,Reading,272
+Accrington ST,Luton,Accrington,Luton,246
+Accrington ST,Tranmere,Accrington,Birkenhead,60
+Accrington ST,York,Accrington,York,88
+Aldershot Town,Hendon,Aldershot,London,53
+Aldershot Town,Maidenhead,Aldershot,Maidenhead,30
+Aldershot Town,Portsmouth,Aldershot,Portsmouth,52
+Aldershot Town,Rotherham,Aldershot,Rotherham,245
+Alfreton Town,Carlisle,Alfreton,Carlisle,224
+Alfreton Town,Fleetwood Town,Alfreton,Fleetwood,139
+Alfreton Town,Leyton Orient,Alfreton,London,195
+Altrincham,Barnsley,Portsmouth,Leeds,335
+Altrincham,Burton Albion,Portsmouth,Burton upon Trent,226
+Altrincham,Gateshead,Portsmouth,Gateshead,464
+Arsenal,Aston Villa,London,Birmingham,162
+Arsenal,Blackburn,London,Barnsley,239
+Arsenal,Burnley,London,Burnley,287
+Arsenal,Chelsea,London,London,9
+Arsenal,Coventry,London,Ipswich,103
+Arsenal,Everton,London,Liverpool,284
+Arsenal,Hull City,London,Hull,244
+Arsenal,Leeds,London,Reading,61
+Arsenal,Lincoln,London,Harrogate,289
+Arsenal,Liverpool,London,Liverpool,284
+Arsenal,Manchester City,London,Blackburn,264
+Arsenal,Middlesbrough,London,Middlesbrough,344
+Arsenal,Newcastle,London,Newcastle upon Tyne,393
+Arsenal,Swansea,London,Swansea,174
+Arsenal,Tottenham,London,London,5
+Arsenal,Watford,London,Watford,24
+Aston Villa,Blackpool,Birmingham,Blackpool,165
+Aston Villa,Bournemouth,Birmingham,Bournemouth,199
+Aston Villa,Ipswich,Birmingham,Cardiff,61
+Aston Villa,Leicester,Birmingham,Leicester,53
+Aston Villa,Liverpool,Birmingham,Liverpool,124
+Aston Villa,Manchester City,Birmingham,Blackburn,114
+Aston Villa,Peterborough,Birmingham,Bristol,128
+Aston Villa,Sheffield Utd,Birmingham,Sheffield,100
+Aston Villa,Stevenage,Birmingham,Stevenage,133
+Aston Villa,Swansea,Birmingham,Swansea,64
+Aston Villa,West Brom,Birmingham,West Bromwich,10
+Aston Villa,Wycombe,Birmingham,High Wycombe,125
+Banbury United,Barrow,Banbury,Barrow-in-Furness,260
+Banbury United,Canvey Island,Banbury,Canvey Island,144
+Barnet,Blackpool,London,Blackpool,310
+Barnet,Burton Albion,London,Burton upon Trent,163
+Barnet,Fleetwood Town,London,Fleetwood,314
+Barnet,Milton Keynes Dons,London,Milton Keynes,60
+Barnet,Newport County,London,Newport,5346
+Barnet,Oxford United,London,Oxford,76
+Barnet,Stockport County,London,Stockport,238
+Barnet,Wycombe,London,High Wycombe,40
+Barnsley,Barrow,Leeds,Barrow-in-Furness,115
+Barnsley,Blackpool,Leeds,Blackpool,99
+Barnsley,Burnley,Leeds,Burnley,47
+Barnsley,Burton Albion,Leeds,Burton upon Trent,111
+Barnsley,Chelsea,Leeds,London,273
+Barnsley,Coventry,Leeds,Ipswich,265
+Barnsley,Middlesbrough,Leeds,Middlesbrough,89
+Barnsley,Norwich,Leeds,Norwich,231
+Barnsley,Notts County,Leeds,Nottingham,99
+Barnsley,Tranmere,Leeds,Birkenhead,108
+Barrow,AFC Wimbledon,Barrow-in-Furness,London,361
+Barrow,Guiseley AFC,Barrow-in-Furness,Guiseley,102
+Barrow,Ipswich,Barrow-in-Furness,Cardiff,247
+Barrow,Mansfield Town,Barrow-in-Furness,Lincoln,202
+Barrow,Rochdale,Barrow-in-Furness,Rochdale,89
+Barrow,Rotherham,Barrow-in-Furness,Rotherham,145
+Barrow,Taunton Town,Barrow-in-Furness,Taunton,343
+Barwell,Welling United,Barwell,Welling,159
+Bath City,Dagenham & Redbridge,Bath,Dagenham,176
+Billericay Town,Chesterfield,Billericay,Chesterfield,218
+Billericay Town,Leatherhead,Billericay,Leatherhead,62
+Birmingham,Blackburn,Birmingham,Barnsley,125
+Birmingham,Bournemouth,Birmingham,Bournemouth,192
+Birmingham,Bristol Rovers,Birmingham,Bristol,120
+Birmingham,Burton Albion,Birmingham,Burton upon Trent,44
+Birmingham,Chelsea,Birmingham,London,162
+Birmingham,Coventry,Birmingham,Ipswich,215
+Birmingham,Huddersfield,Birmingham,Huddersfield,134
+Birmingham,Leeds,Birmingham,Reading,129
+Birmingham,Plymouth,Birmingham,Plymouth,277
+Birmingham,Swansea,Birmingham,Swansea,71
+Birmingham,West Brom,Birmingham,West Bromwich,12
+Bishop's Stortford,Hastings United,Stockport,Peterborough,159
+Bishop's Stortford,Northampton,Stockport,Northampton,156
+Blackburn,Barnet,Barnsley,London,227
+Blackburn,Blackpool,Barnsley,Blackpool,109
+Blackburn,Bristol City,Barnsley,Mansfield,47
+Blackburn,Doncaster,Barnsley,York,54
+Blackburn,Hull City,Barnsley,Hull,78
+Blackburn,Liverpool,Barnsley,Liverpool,102
+Blackburn,Manchester United,Barnsley,Manchester,55
+Blackburn,Millwall,Barnsley,London,247
+Blackburn,Newcastle,Barnsley,Newcastle upon Tyne,160
+Blackburn,Stoke City,Barnsley,Stoke-on-Trent,75
+Blackburn,Swansea,Barnsley,Swansea,66
+Blackburn,West Ham,Barnsley,Coventry,125
+Blackpool,Arsenal,Blackpool,London,321
+Blackpool,Brackley Town,Blackpool,Brackley,237
+Blackpool,Fulham,Blackpool,London,324
+Blackpool,Kidderminster Harriers,Blackpool,Forest Green,242
+Blackpool,Maidstone Utd,Blackpool,Maidstone,373
+Blackpool,Morecambe,Blackpool,Wigan,41
+Blackpool,Nottingham Forest,Blackpool,Nottingham,159
+Blackpool,Reading,Blackpool,London,323
+Blackpool,Solihull Moors,Blackpool,Solihull,176
+Blackpool,West Brom,Blackpool,West Bromwich,158
+Blyth Spartans,Altrincham,Blyth,Portsmouth,482
+Blyth Spartans,Birmingham,Blyth,Birmingham,299
+Blyth Spartans,Gateshead,Blyth,Gateshead,19
+Bolton,Barnsley,Bolton,Leeds,63
+Bolton,Blackpool,Bolton,Blackpool,49
+Bolton,Cardiff,Bolton,Burnley,27
+Bolton,Crewe,Bolton,Crewe,54
+Bolton,Eastleigh,Bolton,Eastleigh,305
+Bolton,Everton,Bolton,Liverpool,40
+Bolton,Grimsby,Bolton,Grimsby,156
+Bolton,Huddersfield,Bolton,Huddersfield,43
+Bolton,Leeds,Bolton,Reading,255
+Bolton,Liverpool,Bolton,Liverpool,42
+Bolton,Macclesfield,Bolton,Macclesfield,40
+Bolton,Plymouth,Bolton,Plymouth,375
+Bolton,Sheffield Utd,Bolton,Sheffield,67
+Bolton,Swansea,Bolton,Swansea,104
+Bolton,Walsall,Bolton,Walsall,114
+Bolton,Wigan,Bolton,Manchester,14
+Boreham Wood,AFC Wimbledon,Borehamwood,London,26
+Boreham Wood,Blackpool,Borehamwood,Blackpool,305
+Boreham Wood,Brentford,Borehamwood,London,20
+Boreham Wood,Eastleigh,Borehamwood,Eastleigh,109
+Boreham Wood,Millwall,Borehamwood,London,26
+Boreham Wood,Northwich Victoria,Borehamwood,Northwich,235
+Boreham Wood,Southend,Borehamwood,Southend-on-Sea,70
+Boreham Wood,St Albans City,Borehamwood,St Albans,11
+Boston United,Rochdale,Boston,Rochdale,159
+Bournemouth,Arsenal,Bournemouth,London,154
+Bournemouth,Boreham Wood,Bournemouth,Borehamwood,152
+Bournemouth,Brighton,Bournemouth,Brighton,122
+Bournemouth,Burton Albion,Bournemouth,Burton upon Trent,231
+Bournemouth,Crawley Town,Bournemouth,Crawley,126
+Bournemouth,Dagenham & Redbridge,Bournemouth,Dagenham,169
+Bournemouth,Everton,Bournemouth,Liverpool,309
+Bournemouth,Liverpool,Bournemouth,Liverpool,308
+Bournemouth,Luton,Bournemouth,Luton,163
+Bournemouth,Oldham,Bournemouth,Oldham,313
+Bournemouth,Southampton,Bournemouth,Southampton,42
+Bournemouth,Wigan,Bournemouth,Manchester,318
+Brackley Town,Bishop's Stortford,Brackley,Stockport,169
+Brackley Town,Gillingham,Brackley,Gillingham,137
+Bracknell Town,Ipswich,Bracknell,Cardiff,115
+Bradford,AFC Wimbledon,Bradford,London,284
+Bradford,Accrington ST,Bradford,Accrington,40
+Bradford,Aldershot Town,Bradford,Aldershot,292
+Bradford,Bury,Bradford,Bury,330
+Bradford,Chesham United,Bradford,Chesham,246
+Bradford,Chesterfield,Bradford,Chesterfield,66
+Bradford,Dartford,Bradford,Dartford,294
+Bradford,Harrogate Town,Bradford,Harrogate,27
+Bradford,Millwall,Bradford,London,282
+Bradford,Northampton,Bradford,Northampton,183
+Bradford,Oldham,Bradford,Oldham,38
+Bradford,Peterborough,Bradford,Bristol,267
+Bradford,Plymouth,Bradford,Plymouth,414
+Bradford,Rochdale,Bradford,Rochdale,33
+Bradford,Shrewsbury,Bradford,Shrewsbury,138
+Bradford,Sunderland,Bradford,Sunderland,126
+Braintree,Chesterfield,Braintree,Chesterfield,202
+Braintree,Eastbourne Borough,Braintree,Eastbourne,125
+Braintree,Tranmere,Braintree,Birkenhead,294
+Brentford,Barnet,London,London,21
+Brentford,Basingstoke Town,London,Basingstoke,59
+Brentford,Bradford,London,Bradford,275
+Brentford,Brighton,London,Brighton,74
+Brentford,Eastleigh,London,Eastleigh,93
+Brentford,Leicester,London,Leicester,139
+Brentford,Middlesbrough,London,Middlesbrough,350
+Brentford,Notts County,London,Nottingham,172
+Brentford,Oxford United,London,Oxford,72
+Brentford,Southend,London,Southend-on-Sea,72
+Brentford,Staines Town,London,Staines-upon-Thames,15
+Brentford,Stoke City,London,Stoke-on-Trent,212
+Brentford,Walsall,London,Walsall,168
+Brentford,West Ham,London,Coventry,132
+Brentford,Wrexham,London,Wrexham,233
+Brighton,Arsenal,Brighton,London,81
+Brighton,Blackpool,Brighton,Blackpool,387
+Brighton,Coventry,Brighton,Ipswich,164
+Brighton,Crystal Palace,Brighton,London,66
+Brighton,Derby,Brighton,Derby,250
+Brighton,Grimsby,Brighton,Grimsby,306
+Brighton,Milton Keynes Dons,Brighton,Milton Keynes,142
+Brighton,Newcastle,Brighton,Newcastle upon Tyne,471
+Brighton,Reading,Brighton,London,77
+Brighton,Sheffield Wednesday,Brighton,Sheffield,301
+Bristol City,AFC Telford United,Mansfield,Telford,101
+Bristol City,Bolton,Mansfield,Bolton,95
+Bristol City,Dagenham & Redbridge,Mansfield,Dagenham,200
+Bristol City,Doncaster,Mansfield,York,92
+Bristol City,Fulham,Mansfield,London,198
+Bristol City,Huddersfield,Mansfield,Huddersfield,68
+Bristol City,Manchester City,Mansfield,Blackburn,86
+Bristol City,Portsmouth,Mansfield,Portsmouth,259
+Bristol City,West Brom,Mansfield,West Bromwich,87
+Bristol City,West Ham,Mansfield,Coventry,85
+Bristol City,Wolves,Mansfield,Wolverhampton,88
+Bristol Rovers,Barnet,Bristol,London,170
+Bristol Rovers,Barrow,Bristol,Barrow-in-Furness,298
+Bristol Rovers,Boreham Wood,Bristol,Borehamwood,163
+Bristol Rovers,Chesham United,Bristol,Chesham,140
+Bristol Rovers,Corby Town,Bristol,Corby,174
+Bristol Rovers,Darlington 1883,Bristol,Darlington,349
+Bristol Rovers,Oxford United,Bristol,Oxford,99
+Bristol Rovers,Rochdale,Bristol,Rochdale,242
+Bristol Rovers,Sheffield Utd,Bristol,Sheffield,228
+Bristol Rovers,Sutton Utd,Bristol,Sutton,169
+Bromley,Bristol Rovers,Bromley,Bristol,120
+Bromley,Dartford,Bromley,Dartford,199
+Bromley,Peterborough,Bromley,Bristol,120
+Bromley,Yeovil Town,Bromley,Yeovil,176
+Burnley,Bournemouth,Burnley,Bournemouth,341
+Burnley,Bristol City,Burnley,Mansfield,100
+Burnley,Fleetwood Town,Burnley,Fleetwood,51
+Burnley,Huddersfield,Burnley,Huddersfield,34
+Burnley,Ipswich,Burnley,Cardiff,200
+Burnley,Lincoln,Burnley,Harrogate,51
+Burnley,Milton Keynes Dons,Burnley,Milton Keynes,218
+Burnley,Norwich,Burnley,Norwich,270
+Burnley,Peterborough,Burnley,Bristol,260
+Burnley,Sunderland,Burnley,Sunderland,137
+Burton Albion,Chippenham Town,Burton upon Trent,Chippenham,153
+Burton Albion,Fleetwood Town,Burton upon Trent,Fleetwood,151
+Burton Albion,Hereford United,Burton upon Trent,Hereford,111
+Burton Albion,Needham Market,Burton upon Trent,Needham Market,196
+Burton Albion,Northampton,Burton upon Trent,Northampton,80
+Burton Albion,Peterborough,Burton upon Trent,Bristol,164
+Burton Albion,Port Vale,Burton upon Trent,Stoke-on-Trent,44
+Burton Albion,Salford City,Burton upon Trent,Salford,86
+Bury,Crawley Town,Bury,Crawley,35
+Bury,Dover,Bury,Dover,133
+Bury,Exeter City,Bury,Exeter,209
+Bury,Hemel Hempstead Town,Bury,Hemel Hempstead,93
+Bury,Hull City,Bury,Hull,314
+Bury,Wigan,Bury,Manchester,324
+Bury,Woking,Bury,Woking,44
+Buxton,Merthyr Town,Buxton,Merthyr Tydfil,
+Buxton,Morecambe,Buxton,Wigan,57
+Cambridge United,Basingstoke Town,Cambridge,Basingstoke,136
+Cambridge United,Bury,Cambridge,Bury,152
+Cambridge United,Coventry,Cambridge,Ipswich,70
+Cambridge United,Curzon Ashton,Cambridge,Ashton-under-Lyne,208
+Cambridge United,Doncaster,Cambridge,York,212
+Cambridge United,Fleetwood Town,Cambridge,Fleetwood,282
+Cambridge United,Grimsby,Cambridge,Grimsby,153
+Cambridge United,Leeds,Cambridge,Reading,114
+Cambridge United,Luton,Cambridge,Luton,54
+Cambridge United,Northampton,Cambridge,Northampton,72
+Cambridge United,Sheffield Utd,Cambridge,Sheffield,170
+Cambridge United,Shrewsbury,Cambridge,Shrewsbury,205
+Cambridge United,Sutton Utd,Cambridge,Sutton,98
+Canvey Island,Boreham Wood,Canvey Island,Borehamwood,60
+Cardiff,Colchester,Burnley,Colchester,298
+Cardiff,Fulham,Burnley,London,292
+Cardiff,Manchester City,Burnley,Blackburn,32
+Cardiff,Preston,Burnley,Preston,31
+Cardiff,Reading,Burnley,London,290
+Cardiff,Shrewsbury,Burnley,Shrewsbury,125
+Cardiff,Wigan,Burnley,Manchester,37
+Carlisle,Boreham Wood,Carlisle,Borehamwood,401
+Carlisle,Bournemouth,Carlisle,Bournemouth,469
+Carlisle,Brentford,Carlisle,London,418
+Carlisle,Cardiff,Carlisle,Burnley,130
+Carlisle,Doncaster,Carlisle,York,159
+Carlisle,Ebbsfleet United,Carlisle,Northfleet,440
+Carlisle,Everton,Carlisle,Liverpool,164
+Carlisle,Forest Green,Carlisle,Forest Green,457
+Carlisle,Gillingham,Carlisle,Gillingham,454
+Carlisle,Horsham,Carlisle,Horsham,460
+Carlisle,Oldham,Carlisle,Oldham,159
+Carlisle,Rochdale,Carlisle,Rochdale,151
+Carlisle,Shrewsbury,Carlisle,Shrewsbury,243
+Carlisle,Tranmere,Carlisle,Birkenhead,169
+Carshalton Athletic,Boston United,London,Boston,177
+Charlton,Blackburn,London,Barnsley,250
+Charlton,Carlisle,London,Carlisle,428
+Charlton,Coalville Town,London,Coalville,169
+Charlton,Doncaster,London,York,286
+Charlton,Havant & Wville,London,Havant,100
+Charlton,Huddersfield,London,Huddersfield,271
+Charlton,Mansfield Town,London,Lincoln,198
+Charlton,Norwich,London,Norwich,154
+Charlton,Plymouth,London,Plymouth,318
+Charlton,Scunthorpe,London,Scunthorpe,239
+Charlton,Truro City,London,Truro,242
+Charlton,West Brom,London,West Bromwich,184
+Chelmsford City,AFC Telford United,Chelmsford,Telford,227
+Chelmsford City,Barnet,Chelmsford,London,52
+Chelmsford City,Colchester,Chelmsford,Colchester,27
+Chelsea,Bradford,London,Bradford,278
+Chelsea,Brentford,London,London,10
+Chelsea,Chesterfield,London,Chesterfield,213
+Chelsea,Crystal Palace,London,London,10
+Chelsea,Hull City,London,Hull,251
+Chelsea,Leicester,London,Leicester,143
+Chelsea,Liverpool,London,Liverpool,287
+Chelsea,Luton,London,Luton,47
+Chelsea,Manchester City,London,Blackburn,268
+Chelsea,Manchester United,London,Manchester,263
+Chelsea,Morecambe,London,Wigan,283
+Chelsea,Newcastle,London,Newcastle upon Tyne,399
+Chelsea,Norwich,London,Norwich,162
+Chelsea,Nottingham Forest,London,Nottingham,177
+Chelsea,Peterborough,London,Bristol,169
+Chelsea,Plymouth,London,Plymouth,305
+Chelsea,Scunthorpe,London,Scunthorpe,236
+Chelsea,Sheffield Utd,London,Sheffield,228
+Chelsea,Sheffield Wednesday,London,Sheffield,230
+Chelsea,Stoke City,London,Stoke-on-Trent,218
+Chelsea,Watford,London,Watford,26
+Cheltenham,Alvechurch,Cheltenham,Alvechurch,51
+Cheltenham,Dover,Cheltenham,Dover,249
+Cheltenham,Ebbsfleet United,Cheltenham,Northfleet,173
+Cheltenham,Everton,Cheltenham,Liverpool,181
+Cheltenham,Gillingham,Cheltenham,Gillingham,190
+Cheltenham,Maidstone Utd,Cheltenham,Maidstone,193
+Cheltenham,Manchester City,Cheltenham,Blackburn,180
+Cheltenham,Mansfield Town,Cheltenham,Lincoln,182
+Cheltenham,Port Vale,Cheltenham,Stoke-on-Trent,126
+Cheltenham,South Shields,Cheltenham,South Shields,348
+Cheltenham,Swindon Town,Cheltenham,Swindon,43
+Cheltenham,Yate Town,Cheltenham,Yate,45
+Chester,Barnsley,Chester,Leeds,111
+Chesterfield,Daventry Town,Chesterfield,Daventry,110
+Chesterfield,Grimsby,Chesterfield,Grimsby,98
+Chesterfield,Hartlepool,Chesterfield,Hartlepool,162
+Chesterfield,Northampton,Chesterfield,Northampton,117
+Chesterfield,Scunthorpe,Chesterfield,Scunthorpe,65
+Chesterfield,Southend,Chesterfield,Southend-on-Sea,238
+Chesterfield,Torquay,Chesterfield,Torquay,342
+Chesterfield,Wycombe,Chesterfield,High Wycombe,184
+Chippenham Town,Lincoln,Chippenham,Harrogate,285
+Chippenham Town,Northampton,Chippenham,Northampton,120
+Chorley,Derby,Chorley,Derby,112
+Chorley,Fleetwood Town,Chorley,Fleetwood,36
+Chorley,Wolves,Chorley,Wolverhampton,123
+Colchester,Altrincham,Colchester,Portsmouth,185
+Colchester,Charlton,Colchester,London,75
+Colchester,Chesterfield,Colchester,Chesterfield,216
+Colchester,Coventry,Colchester,Ipswich,25
+Colchester,Marine,Colchester,Crosby Liverpool,319
+Colchester,Oxford City,Colchester,Oxford,150
+Colchester,Peterborough,Colchester,Bristol,246
+Colchester,Sheffield Utd,Colchester,Sheffield,230
+Colchester,Swindon Town,Colchester,Swindon,188
+Colchester,Tottenham,Colchester,London,74
+Colchester,Wigan,Colchester,Manchester,300
+Concord Rangers,Mansfield Town,Canvey Island,Lincoln,206
+Corby Town,Dover,Corby,Dover,206
+Coventry,Arlesey Town,Ipswich,Arlesey,97
+Coventry,Boreham Wood,Ipswich,Borehamwood,108
+Coventry,Bristol Rovers,Ipswich,Bristol,267
+Coventry,Derby,Ipswich,Derby,203
+Coventry,Hartlepool,Ipswich,Hartlepool,332
+Coventry,Maidenhead,Ipswich,Maidenhead,143
+Coventry,Morecambe,Ipswich,Wigan,304
+Coventry,Northampton,Ipswich,Northampton,142
+Coventry,Stoke City,Ipswich,Stoke-on-Trent,249
+Coventry,Worcester City,Ipswich,Worcester,232
+Coventry,Wrexham,Ipswich,Wrexham,282
+Crawley Town,Accrington ST,Crawley,Accrington,329
+Crawley Town,Bristol Rovers,Crawley,Bristol,172
+Crawley Town,Chelmsford City,Crawley,Chelmsford,94
+Crawley Town,Fleetwood Town,Crawley,Fleetwood,363
+Crawley Town,Leeds,Crawley,Reading,67
+Crawley Town,Luton,Crawley,Luton,86
+Crawley Town,Reading,Crawley,London,45
+Crawley Town,Redbridge,Crawley,London,54
+Crawley Town,Scunthorpe,Crawley,Scunthorpe,277
+Crawley Town,Southend,Crawley,Southend-on-Sea,78
+Crawley Town,Stoke City,Crawley,Stoke-on-Trent,251
+Crawley Town,Tranmere,Crawley,Birkenhead,317
+Crewe,Barnsley,Crewe,Leeds,99
+Crewe,Blackburn,Crewe,Barnsley,81
+Crewe,Burton Albion,Crewe,Burton upon Trent,63
+Crewe,Carlisle,Crewe,Carlisle,203
+Crewe,Cheltenham,Crewe,Cheltenham,136
+Crewe,Colchester,Crewe,Colchester,262
+Crewe,Eastleigh,Crewe,Eastleigh,254
+Crewe,Leyton Orient,Crewe,London,237
+Crewe,Rotherham,Crewe,Rotherham,81
+Crewe,Swindon Town,Crewe,Swindon,177
+Crewe,Wycombe,Crewe,High Wycombe,198
+Crystal Palace,Bolton,London,Bolton,288
+Crystal Palace,Derby,London,Derby,193
+Crystal Palace,Everton,London,Liverpool,298
+Crystal Palace,Grimsby,London,Grimsby,241
+Crystal Palace,Hartlepool,London,Hartlepool,371
+Crystal Palace,Liverpool,London,Liverpool,297
+Crystal Palace,Manchester City,London,Blackburn,278
+Crystal Palace,Manchester United,London,Manchester,273
+Crystal Palace,Watford,London,Watford,36
+Curzon Ashton,AFC Wimbledon,Ashton-under-Lyne,London,263
+Curzon Ashton,Westfields,Ashton-under-Lyne,Hereford,165
+Dagenham & Redbridge,Grimsby,Dagenham,Grimsby,227
+Dagenham & Redbridge,Salford City,Dagenham,Salford,271
+Darlington 1883,Walsall,Darlington,Walsall,218
+Dartford,Sutton Utd,Dartford,Sutton,29
+Dartford,Swindon Town,Dartford,Swindon,139
+Derby,Barnsley,Derby,Leeds,98
+Derby,Blackburn,Derby,Barnsley,68
+Derby,Chelsea,Derby,London,183
+Derby,Chesterfield,Derby,Chesterfield,35
+Derby,Manchester United,Derby,Manchester,81
+Derby,Northampton,Derby,Northampton,86
+Derby,Reading,Derby,London,181
+Derby,Southport,Derby,Barrow-in-Furness,177
+Derby,Stoke City,Derby,Stoke-on-Trent,48
+Derby,Torquay,Derby,Torquay,309
+Derby,Tranmere,Derby,Birkenhead,115
+Derby,West Ham,Derby,Coventry,57
+Didcot Town,Exeter City,Didcot,Exeter,186
+Doncaster,AFC Wimbledon,York,London,288
+Doncaster,Bradford (Park Avenue),York,Bradford,52
+Doncaster,Chorley,York,Chorley,108
+Doncaster,Crystal Palace,York,London,291
+Doncaster,King's Lynn Town,York,King's Lynn,167
+Doncaster,Mansfield Town,York,Lincoln,89
+Doncaster,Rochdale,York,Rochdale,81
+Doncaster,Scunthorpe,York,Scunthorpe,51
+Doncaster,Stalybridge Celtic,York,Stalybridge,84
+Doncaster,Stevenage,York,Stevenage,237
+Doncaster,Stoke City,York,Stoke-on-Trent,129
+Dorchester Town,Plymouth,Doncaster,Plymouth,406
+Dover,Cambridge United,Dover,Cambridge,145
+Dover,Crystal Palace,Dover,London,101
+Dover,Morecambe,Dover,Wigan,380
+Dover,Southend,Dover,Southend-on-Sea,62
+Dover,Stourbridge,Dover,Stourbridge,279
+Dulwich Hamlet,Carlisle,London,Carlisle,427
+East Thurrock United,Macclesfield,Corringham,Macclesfield,261
+Eastbourne Borough,Blackpool,Eastbourne,Blackpool,409
+Eastleigh,Lincoln,Eastleigh,Harrogate,344
+Eastleigh,Milton Keynes Dons,Eastleigh,Milton Keynes,130
+Ebbsfleet United,Doncaster,Northfleet,York,295
+Ebbsfleet United,FC Halifax Town,Northfleet,Morecambe,363
+Ebbsfleet United,Fleetwood Town,Northfleet,Fleetwood,352
+Ebbsfleet United,Notts County,Northfleet,Nottingham,195
+Everton,Blackpool,Liverpool,Blackpool,45
+Everton,Boreham Wood,Liverpool,Borehamwood,268
+Everton,Brentford,Liverpool,London,281
+Everton,Chelsea,Liverpool,London,287
+Everton,Dagenham & Redbridge,Liverpool,Dagenham,298
+Everton,Fulham,Liverpool,London,287
+Everton,Leicester,Liverpool,Leicester,152
+Everton,Lincoln,Liverpool,Harrogate,113
+Everton,Manchester City,Liverpool,Blackburn,43
+Everton,Manchester United,Liverpool,Manchester,46
+Everton,Oldham,Liverpool,Oldham,58
+Everton,QPR,Liverpool,London,288
+Everton,Rotherham,Liverpool,Rotherham,108
+Everton,Sheffield Wednesday,Liverpool,Sheffield,104
+Everton,Swansea,Liverpool,Swansea,125
+Everton,Tottenham,Liverpool,London,283
+Everton,Wigan,Liverpool,Manchester,27
+Exeter City,AFC Fylde,Exeter,Wesham,343
+Exeter City,Blackpool,Exeter,Blackpool,345
+Exeter City,Bradford,Exeter,Bradford,362
+Exeter City,Cambridge United,Exeter,Cambridge,304
+Exeter City,Forest Green,Exeter,Forest Green,137
+Exeter City,Heybridge Swifts,Exeter,Heybridge,316
+Exeter City,Luton,Exeter,Luton,251
+Exeter City,Port Vale,Exeter,Stoke-on-Trent,271
+Exeter City,Sheffield Wednesday,Exeter,Sheffield,332
+Exeter City,West Brom,Exeter,West Bromwich,227
+FC Halifax Town,AFC Wimbledon,Morecambe,London,345
+FC Halifax Town,Bradford,Morecambe,Bradford,79
+FC Halifax Town,Charlton,Morecambe,London,348
+FC Halifax Town,Dagenham & Redbridge,Morecambe,Dagenham,347
+FC Halifax Town,Eastleigh,Morecambe,Eastleigh,366
+FC Halifax Town,Maidenhead,Morecambe,Maidenhead,319
+FC Halifax Town,Morecambe,Morecambe,Wigan,61
+FC Halifax Town,Wycombe,Morecambe,High Wycombe,306
+Fleetwood Town,AFC Wimbledon,Fleetwood,London,333
+Fleetwood Town,Aldershot Town,Fleetwood,Aldershot,331
+Fleetwood Town,Bristol City,Fleetwood,Mansfield,146
+Fleetwood Town,Bromley,Fleetwood,Bromley,166
+Fleetwood Town,Oxford City,Fleetwood,Oxford,265
+Fleetwood Town,Portsmouth,Fleetwood,Portsmouth,366
+Fleetwood Town,QPR,Fleetwood,London,329
+Fleetwood Town,Sheffield Wednesday,Fleetwood,Sheffield,118
+Fleetwood Town,Shrewsbury,Fleetwood,Shrewsbury,132
+Fleetwood Town,Southport,Fleetwood,Barrow-in-Furness,30
+Fleetwood Town,Wycombe,Fleetwood,High Wycombe,293
+Forest Green,Alvechurch,Forest Green,Alvechurch,167
+Forest Green,Billericay Town,Forest Green,Billericay,163
+Forest Green,Birmingham,Forest Green,Birmingham,178
+Forest Green,Macclesfield,Forest Green,Macclesfield,269
+Forest Green,Port Vale,Forest Green,Stoke-on-Trent,243
+Forest Green,Scunthorpe,Forest Green,Scunthorpe,311
+Fulham,Aston Villa,London,Birmingham,163
+Fulham,Burnley,London,Burnley,292
+Fulham,Hull City,London,Hull,253
+Fulham,Leeds,London,Reading,53
+Fulham,Norwich,London,Norwich,165
+Fulham,Oldham,London,Oldham,264
+Fulham,Sheffield Utd,London,Sheffield,229
+Fulham,Southampton,London,Southampton,101
+Fulham,Sunderland,London,Sunderland,390
+Fulham,Tottenham,London,London,17
+Gainsborough Trinity,Shrewsbury,Gainsborough,Shrewsbury,153
+Gainsborough Trinity,Slough Town,Gainsborough,Slough,209
+Gateshead,Charlton,Gateshead,London,402
+Gateshead,Chelmsford City,Gateshead,Chelmsford,375
+Gateshead,Luton,Gateshead,Luton,352
+Gateshead,Oldham,Gateshead,Oldham,162
+Gateshead,Oxford United,Gateshead,Oxford,358
+Gateshead,Stevenage,Gateshead,Stevenage,353
+Gateshead,Tamworth,Gateshead,Tamworth,259
+Gateshead,Warrington Town,Gateshead,Warrington,187
+Gillingham,AFC Fylde,Gillingham,Wesham,354
+Gillingham,Bournemouth,Gillingham,Bournemouth,184
+Gillingham,Bristol City,Gillingham,Mansfield,229
+Gillingham,Cardiff,Gillingham,Burnley,328
+Gillingham,Dagenham & Redbridge,Gillingham,Dagenham,32
+Gillingham,Doncaster,Gillingham,York,307
+Gillingham,Exeter City,Gillingham,Exeter,295
+Gillingham,Leicester,Gillingham,Leicester,180
+Gillingham,Scunthorpe,Gillingham,Scunthorpe,258
+Gillingham,Sunderland,Gillingham,Sunderland,412
+Gillingham,West Ham,Gillingham,Coventry,182
+Gillingham,Woking,Gillingham,Woking,77
+Gloucester City,Fleetwood Town,Gloucester,Fleetwood,231
+Gloucester City,Leyton Orient,Gloucester,London,158
+Gosport Borough,Colchester,Gosport,Colchester,188
+Grimsby,Burton Albion,Grimsby,Burton upon Trent,136
+Grimsby,Huddersfield,Grimsby,Huddersfield,114
+Grimsby,Luton,Grimsby,Luton,191
+Grimsby,Milton Keynes Dons,Grimsby,Milton Keynes,178
+Grimsby,Northampton,Grimsby,Northampton,160
+Grimsby,Oxford United,Grimsby,Oxford,219
+Grimsby,Port Vale,Grimsby,Stoke-on-Trent,154
+Grimsby,Salisbury City,Grimsby,Salisbury,304
+Grimsby,St Albans City,Grimsby,St Albans,205
+Guiseley AFC,Cambridge United,Guiseley,Cambridge,224
+Guiseley AFC,Fleetwood Town,Guiseley,Fleetwood,85
+Hampton & Richmond,Oldham,London,Oldham,265
+Haringey Borough,AFC Wimbledon,London,London,18
+Harrogate Town,Blackpool,Harrogate,Blackpool,103
+Harrogate Town,Portsmouth,Harrogate,Portsmouth,354
+Harrogate Town,Skelmersdale United,Harrogate,Skelmersdale,97
+Harrogate Town,Wrexham,Harrogate,Wrexham,140
+Hartlepool,Blackpool,Hartlepool,Blackpool,154
+Hartlepool,Blyth Spartans,Hartlepool,Blyth,52
+Hartlepool,Cheltenham,Hartlepool,Cheltenham,316
+Hartlepool,Derby,Hartlepool,Derby,197
+Hartlepool,East Thurrock United,Hartlepool,Corringham,369
+Hartlepool,Exeter City,Hartlepool,Exeter,468
+Hartlepool,Gillingham,Hartlepool,Gillingham,386
+Hartlepool,Harrogate Town,Hartlepool,Harrogate,80
+Hartlepool,Notts County,Hartlepool,Nottingham,195
+Hartlepool,Salford City,Hartlepool,Salford,150
+Hartlepool,Solihull Moors,Hartlepool,Solihull,253
+Hartlepool,Stamford,Hartlepool,Stamford,232
+Hartlepool,Stevenage,Hartlepool,Stevenage,317
+Hartlepool,Stoke City,Hartlepool,Stoke-on-Trent,197
+Hastings United,Harrogate Town,Peterborough,Harrogate,179
+Havant & Wville,Cray Valley PM,Havant,Eltham London,99
+Havant & Wville,Preston,Havant,Preston,344
+Hayes & Yeading United,Carlisle,Hayes,Carlisle,412
+Hayes & Yeading United,Oxford United,Hayes,Oxford,64
+Hayes & Yeading United,Sutton Utd,Hayes,Sutton,24
+Hednesford Town,Crawley Town,Hednesford,Crawley,215
+Hereford,AFC Telford United,Hereford,Telford,72
+Hereford,Fleetwood Town,Hereford,Fleetwood,204
+Hereford,Portsmouth,Hereford,Portsmouth,179
+Hereford United,Cheltenham,Hereford,Cheltenham,48
+Hereford United,Shrewsbury,Hereford,Shrewsbury,73
+Hereford United,Yeovil Town,Hereford,Yeovil,124
+Hitchin Town,Solihull Moors,Hitchin,Solihull,114
+Huddersfield,Barnsley,Huddersfield,Leeds,23
+Huddersfield,Manchester United,Huddersfield,Manchester,39
+Huddersfield,Plymouth,Huddersfield,Plymouth,398
+Huddersfield,Port Vale,Huddersfield,Stoke-on-Trent,75
+Huddersfield,Reading,Huddersfield,London,262
+Huddersfield,Wigan,Huddersfield,Manchester,57
+Hull City,Barnsley,Hull,Leeds,80
+Hull City,Brighton,Hull,Brighton,325
+Hull City,Crawley Town,Hull,Crawley,292
+Hull City,Everton,Hull,Liverpool,178
+Hull City,Fleetwood Town,Hull,Fleetwood,176
+Hull City,Nottingham Forest,Hull,Nottingham,103
+Hull City,Sheffield Utd,Hull,Sheffield,85
+Hull City,Sunderland,Hull,Sunderland,146
+Hull City,Swansea,Hull,Swansea,108
+Hyde United,Milton Keynes Dons,Hyde,Milton Keynes,180
+Ipswich,Buxton,Cardiff,Buxton,142
+Ipswich,Coventry,Cardiff,Ipswich,226
+Ipswich,Rotherham,Cardiff,Rotherham,168
+Ipswich,Sheffield Utd,Cardiff,Sheffield,161
+Ipswich,Southampton,Cardiff,Southampton,134
+Kidderminster Harriers,FC Halifax Town,Forest Green,Morecambe,267
+Kidderminster Harriers,Grimsby,Forest Green,Grimsby,256
+Kidderminster Harriers,Newport County,Forest Green,Newport,5208
+Kidderminster Harriers,Oldham,Forest Green,Oldham,205
+Kidderminster Harriers,Reading,Forest Green,London,147
+Kidderminster Harriers,Sutton Utd,Forest Green,Sutton,148
+Kidderminster Harriers,West Ham,Forest Green,Coventry,93
+King's Lynn Town,Stevenage,King's Lynn,Stevenage,103
+King's Lynn Town,Walsall,King's Lynn,Walsall,162
+Kingstonian,AFC Fylde,London,Wesham,315
+Leeds,Cardiff,Reading,Burnley,274
+Leeds,Rotherham,Reading,Rotherham,220
+Leeds,Tottenham,Reading,London,65
+Leicester,Birmingham,Leicester,Birmingham,58
+Leicester,Blackburn,Leicester,Barnsley,103
+Leicester,Brighton,Leicester,Brighton,212
+Leicester,Burton Albion,Leicester,Burton upon Trent,39
+Leicester,Derby,Leicester,Derby,40
+Leicester,Fleetwood Town,Leicester,Fleetwood,188
+Leicester,Huddersfield,Leicester,Huddersfield,121
+Leicester,Manchester United,Leicester,Manchester,121
+Leicester,Newcastle,Leicester,Newcastle upon Tyne,262
+Leicester,Nottingham Forest,Leicester,Nottingham,36
+Leicester,Sheffield Utd,Leicester,Sheffield,87
+Leicester,Southampton,Leicester,Southampton,193
+Leicester,Swindon Town,Leicester,Swindon,128
+Leicester,Watford,Leicester,Watford,119
+Leicester,Wigan,Leicester,Manchester,143
+Leyton Orient,Bromley,London,Bromley,179
+Leyton Orient,Ebbsfleet United,London,Northfleet,26
+Leyton Orient,Gillingham,London,Gillingham,44
+Leyton Orient,Hull City,London,Hull,244
+Leyton Orient,Maldon & Tiptree,London,Maldon,57
+Leyton Orient,Newport County,London,Newport,5359
+Leyton Orient,Southport,London,Barrow-in-Furness,358
+Leyton Orient,Staines Town,London,Staines-upon-Thames,37
+Leyton Orient,Tranmere,London,Birkenhead,287
+Leyton Orient,Walsall,London,Walsall,177
+Lincoln,Altrincham,Harrogate,Portsmouth,358
+Lincoln,Bowers & Pitsea,Harrogate,Pitsea,305
+Lincoln,Brighton,Harrogate,Brighton,366
+Lincoln,Carlisle,Harrogate,Carlisle,133
+Lincoln,Forest Green,Harrogate,Forest Green,350
+Lincoln,Hartlepool,Harrogate,Hartlepool,79
+Lincoln,Ipswich,Harrogate,Cardiff,227
+Lincoln,Northampton,Harrogate,Northampton,202
+Lincoln,Oldham,Harrogate,Oldham,64
+Liverpool,Brighton,Liverpool,Brighton,347
+Liverpool,Cardiff,Liverpool,Burnley,65
+Liverpool,Everton,Liverpool,Liverpool,2
+Liverpool,Exeter City,Liverpool,Exeter,300
+Liverpool,Manchester United,Liverpool,Manchester,47
+Liverpool,Norwich,Liverpool,Norwich,301
+Liverpool,Shrewsbury,Liverpool,Shrewsbury,79
+Liverpool,Stoke City,Liverpool,Stoke-on-Trent,70
+Liverpool,West Brom,Liverpool,West Bromwich,117
+Liverpool,Wolves,Liverpool,Wolverhampton,108
+Luton,Bury,Luton,Bury,107
+Luton,Cheltenham,Luton,Cheltenham,114
+Luton,Dorchester Town,Luton,Doncaster,189
+Luton,Harrogate Town,Luton,Harrogate,247
+Luton,Millwall,Luton,London,51
+Luton,Newport County,Luton,Newport,5322
+Luton,Northampton,Luton,Northampton,52
+Luton,Portsmouth,Luton,Portsmouth,126
+Luton,Reading,Luton,London,45
+Luton,Sheffield Wednesday,Luton,Sheffield,184
+Luton,Solihull Moors,Luton,Solihull,111
+Luton,Wolves,Luton,Wolverhampton,142
+Luton,Wycombe,Luton,High Wycombe,36
+Macclesfield,Barrow,Macclesfield,Barrow-in-Furness,119
+Macclesfield,Brackley Town,Macclesfield,Brackley,152
+Macclesfield,Cardiff,Macclesfield,Burnley,60
+Macclesfield,Chelmsford City,Macclesfield,Chelmsford,238
+Macclesfield,Kingstonian,Macclesfield,London,239
+Macclesfield,Wigan,Macclesfield,Manchester,46
+Maidenhead,Dagenham & Redbridge,Maidenhead,Dagenham,61
+Maidenhead,Port Vale,Maidenhead,Stoke-on-Trent,194
+Maidenhead,Portsmouth,Maidenhead,Portsmouth,81
+Maidenhead,Rotherham,Maidenhead,Rotherham,216
+Maidstone Utd,Macclesfield,Maidstone,Macclesfield,285
+Maidstone Utd,Oldham,Maidstone,Oldham,310
+Maidstone Utd,Stevenage,Maidstone,Stevenage,86
+Maidstone Utd,Torquay,Maidstone,Torquay,300
+Maidstone Utd,Yeovil Town,Maidstone,Yeovil,224
+Maldon & Tiptree,Morecambe,Maldon,Wigan,299
+Maldon & Tiptree,Newport County,Maldon,Newport,5400
+Manchester City,Barnsley,Blackburn,Leeds,62
+Manchester City,Birmingham,Blackburn,Birmingham,120
+Manchester City,Blackburn,Blackburn,Barnsley,58
+Manchester City,Brighton,Blackburn,Brighton,333
+Manchester City,Burnley,Blackburn,Burnley,32
+Manchester City,Fulham,Blackburn,London,268
+Manchester City,Huddersfield,Blackburn,Huddersfield,40
+Manchester City,Leeds,Blackburn,Reading,246
+Manchester City,Liverpool,Blackburn,Liverpool,45
+Manchester City,Manchester United,Blackburn,Manchester,5
+Manchester City,Middlesbrough,Blackburn,Middlesbrough,139
+Manchester City,Port Vale,Blackburn,Stoke-on-Trent,55
+Manchester City,Rotherham,Blackburn,Rotherham,66
+Manchester City,Sheffield Utd,Blackburn,Sheffield,59
+Manchester City,Sheffield Wednesday,Blackburn,Sheffield,62
+Manchester City,Watford,Blackburn,Watford,243
+Manchester City,Wigan,Blackburn,Manchester,20
+Manchester United,Arsenal,Manchester,London,259
+Manchester United,Aston Villa,Manchester,Birmingham,109
+Manchester United,Brighton,Manchester,Brighton,328
+Manchester United,Cambridge United,Manchester,Cambridge,216
+Manchester United,Fulham,Manchester,London,263
+Manchester United,Middlesbrough,Manchester,Middlesbrough,142
+Manchester United,Reading,Manchester,London,262
+Manchester United,Sheffield Utd,Manchester,Sheffield,55
+Manchester United,Swansea,Manchester,Swansea,89
+Manchester United,Tottenham,Manchester,London,257
+Manchester United,Watford,Manchester,Watford,238
+Manchester United,West Ham,Manchester,Coventry,129
+Manchester United,Wigan,Manchester,Manchester,24
+Mansfield Town,Cambridge United,Lincoln,Cambridge,123
+Mansfield Town,Cardiff,Lincoln,Burnley,129
+Mansfield Town,Chorley,Lincoln,Chorley,146
+Mansfield Town,Dagenham & Redbridge,Lincoln,Dagenham,193
+Mansfield Town,Guiseley AFC,Lincoln,Guiseley,106
+Mansfield Town,Lincoln,Lincoln,Harrogate,110
+Mansfield Town,Liverpool,Lincoln,Liverpool,165
+Mansfield Town,Middlesbrough,Lincoln,Middlesbrough,157
+Mansfield Town,Oldham,Lincoln,Oldham,111
+Mansfield Town,Plymouth,Lincoln,Plymouth,403
+Marine,Havant & Wville,Crosby Liverpool,Havant,325
+Marine,Tottenham,Crosby Liverpool,London,291
+Merstham,Oxford United,Merstham,Oxford,94
+Metropolitan Police,Crawley Town,London,Crawley,39
+Metropolitan Police,Newport County,London,Newport,5349
+Middlesbrough,Accrington ST,Middlesbrough,Accrington,118
+Middlesbrough,Aldershot Town,Middlesbrough,Aldershot,372
+Middlesbrough,Brighton,Middlesbrough,Brighton,423
+Middlesbrough,Burnley,Middlesbrough,Burnley,110
+Middlesbrough,Chelsea,Middlesbrough,London,351
+Middlesbrough,Hastings United,Middlesbrough,Peterborough,232
+Middlesbrough,Hull City,Middlesbrough,Hull,110
+Middlesbrough,Oxford United,Middlesbrough,Oxford,314
+Middlesbrough,Peterborough,Middlesbrough,Bristol,359
+Middlesbrough,Sheffield Wednesday,Middlesbrough,Sheffield,130
+Middlesbrough,Sunderland,Middlesbrough,Sunderland,38
+Millwall,AFC Fylde,London,Wesham,321
+Millwall,Aston Villa,London,Birmingham,171
+Millwall,Barnsley,London,Leeds,276
+Millwall,Bolton,London,Bolton,283
+Millwall,Bournemouth,London,Bournemouth,155
+Millwall,Braintree,London,Braintree,58
+Millwall,Brighton,London,Brighton,74
+Millwall,Bristol City,London,Mansfield,200
+Millwall,Crystal Palace,London,London,9
+Millwall,Dagenham & Redbridge,London,Dagenham,14
+Millwall,Everton,London,Liverpool,294
+Millwall,Hull City,London,Hull,251
+Millwall,Leicester,London,Leicester,148
+Millwall,Newport County,London,Newport,5361
+Millwall,Preston,London,Preston,310
+Millwall,Sheffield Utd,London,Sheffield,232
+Millwall,Watford,London,Watford,33
+Millwall,Wigan,London,Manchester,289
+Millwall,Wycombe,London,High Wycombe,53
+Milton Keynes Dons,AFC Wimbledon,Milton Keynes,London,78
+Milton Keynes Dons,Barnsley,Milton Keynes,Leeds,202
+Milton Keynes Dons,Cambridge City,Milton Keynes,Cambridge,67
+Milton Keynes Dons,Charlton,Milton Keynes,London,83
+Milton Keynes Dons,Chelsea,Milton Keynes,London,74
+Milton Keynes Dons,Chesterfield,Milton Keynes,Chesterfield,141
+Milton Keynes Dons,Coventry,Milton Keynes,Ipswich,131
+Milton Keynes Dons,Dover,Milton Keynes,Dover,175
+Milton Keynes Dons,FC Halifax Town,Milton Keynes,Morecambe,267
+Milton Keynes Dons,Maidstone Utd,Milton Keynes,Maidstone,123
+Milton Keynes Dons,Nantwich Town,Milton Keynes,Nantwich,166
+Milton Keynes Dons,Northampton,Milton Keynes,Northampton,24
+Milton Keynes Dons,Sheffield Wednesday,Milton Keynes,Sheffield,159
+Milton Keynes Dons,Spennymoor Town,Milton Keynes,Spennymoor,301
+Milton Keynes Dons,Taunton Town,Milton Keynes,Taunton,198
+Milton Keynes Dons,Wigan,Milton Keynes,Manchester,210
+Morecambe,Dagenham & Redbridge,Wigan,Dagenham,292
+Morecambe,Hartlepool,Wigan,Hartlepool,157
+Morecambe,Newport County,Wigan,Newport,5129
+Morecambe,Sheffield Wednesday,Wigan,Sheffield,82
+Morecambe,Solihull Moors,Wigan,Solihull,136
+Morecambe,Southend,Wigan,Southend-on-Sea,318
+Nantwich Town,AFC Fylde,Nantwich,Wesham,83
+Newcastle,Birmingham,Newcastle upon Tyne,Birmingham,281
+Newcastle,Cambridge United,Newcastle upon Tyne,Cambridge,328
+Newcastle,Cardiff,Newcastle upon Tyne,Burnley,137
+Newcastle,Luton,Newcastle upon Tyne,Luton,353
+Newcastle,Manchester City,Newcastle upon Tyne,Blackburn,170
+Newcastle,Rochdale,Newcastle upon Tyne,Rochdale,155
+Newport County,Alfreton Town,Newport,Alfreton,5222
+Newport County,Blackburn,Newport,Barnsley,5203
+Newport County,Brackley Town,Newport,Brackley,5269
+Newport County,Braintree,Newport,Braintree,5386
+Newport County,Brighton,Newport,Brighton,5376
+Newport County,Cambridge United,Newport,Cambridge,5349
+Newport County,Colchester,Newport,Colchester,5408
+Newport County,Derby,Newport,Derby,5221
+Newport County,Grimsby,Newport,Grimsby,5291
+Newport County,Leeds,Newport,Reading,5299
+Newport County,Leicester,Newport,Leicester,5252
+Newport County,Manchester City,Newport,Blackburn,5148
+Newport County,Middlesbrough,Newport,Middlesbrough,5189
+Newport County,Plymouth,Newport,Plymouth,5120
+Newport County,Salford City,Newport,Salford,5154
+Newport County,Shrewsbury,Newport,Shrewsbury,5144
+Newport County,Walsall,Newport,Walsall,5197
+Newport County,Wrexham,Newport,Wrexham,5138
+Northampton,Harrow Borough,Northampton,Harrow,84
+Northampton,Northwich Victoria,Northampton,Northwich,158
+Northampton,Notts County,Northampton,Nottingham,80
+Norton United,Gateshead,Smallthorne,Gateshead,216
+Norwich,Blackburn,Norwich,Barnsley,212
+Norwich,Coventry,Norwich,Ipswich,64
+Norwich,Leicester,Norwich,Leicester,165
+Norwich,Luton,Norwich,Luton,144
+Norwich,Manchester City,Norwich,Blackburn,263
+Norwich,Manchester United,Norwich,Manchester,259
+Norwich,Portsmouth,Norwich,Portsmouth,259
+Nottingham Forest,Arsenal,Nottingham,London,171
+Nottingham Forest,Cardiff,Nottingham,Burnley,118
+Nottingham Forest,Huddersfield,Nottingham,Huddersfield,88
+Nottingham Forest,Liverpool,Nottingham,Liverpool,133
+Nottingham Forest,Oldham,Nottingham,Oldham,92
+Nottingham Forest,QPR,Nottingham,London,176
+Nottingham Forest,Watford,Nottingham,Watford,153
+Nottingham Forest,West Ham,Nottingham,Coventry,66
+Notts County,Accrington ST,Nottingham,Accrington,120
+Notts County,Boreham Wood,Nottingham,Borehamwood,155
+Notts County,Bristol Rovers,Nottingham,Bristol,191
+Notts County,Oxford City,Nottingham,Oxford,131
+Notts County,Rochdale,Nottingham,Rochdale,99
+Notts County,Rotherham,Nottingham,Rotherham,55
+Nuneaton Town,Luton,Nuneaton,Luton,102
+Oldham,Burton Albion,Oldham,Burton upon Trent,88
+Oldham,Doncaster,Oldham,York,84
+Oldham,Ipswich,Oldham,Cardiff,172
+Oldham,Leyton Orient,Oldham,London,263
+Oldham,Liverpool,Oldham,Liverpool,59
+Oldham,Southend,Oldham,Southend-on-Sea,294
+Oxford City,Northampton,Oxford,Northampton,59
+Oxford City,Redbridge,Oxford,London,93
+Oxford City,Solihull Moors,Oxford,Solihull,83
+Oxford City,Tranmere,Oxford,Birkenhead,216
+Oxford United,Accrington ST,Oxford,Accrington,235
+Oxford United,Arsenal,Oxford,London,83
+Oxford United,Blackburn,Oxford,Barnsley,199
+Oxford United,Braintree,Oxford,Braintree,126
+Oxford United,Charlton,Oxford,London,95
+Oxford United,Exeter City,Oxford,Exeter,195
+Oxford United,Forest Green,Oxford,Forest Green,102
+Oxford United,Hartlepool,Oxford,Hartlepool,327
+Oxford United,Macclesfield,Oxford,Macclesfield,178
+Oxford United,Newcastle,Oxford,Newcastle upon Tyne,359
+Oxford United,Peterborough,Oxford,Bristol,99
+Oxford United,Swansea,Oxford,Swansea,133
+Peterborough,Bristol Rovers,Bristol,Bristol,0
+Peterborough,Carlisle,Bristol,Carlisle,383
+Peterborough,Chesham United,Bristol,Chesham,140
+Peterborough,Chorley,Bristol,Chorley,245
+Peterborough,Dover,Bristol,Dover,274
+Peterborough,Exeter City,Bristol,Exeter,105
+Peterborough,Kidderminster Harriers,Bristol,Forest Green,37
+Peterborough,Leicester,Bristol,Leicester,166
+Peterborough,Luton,Bristol,Luton,158
+Peterborough,Manchester City,Bristol,Blackburn,229
+Peterborough,Norwich,Bristol,Norwich,298
+Peterborough,Notts County,Bristol,Nottingham,191
+Peterborough,Preston,Bristol,Preston,256
+Peterborough,QPR,Bristol,London,172
+Peterborough,Stevenage,Bristol,Stevenage,173
+Peterborough,Tranmere,Bristol,Birkenhead,216
+Peterborough,West Brom,Bristol,West Bromwich,127
+Peterborough,Woking,Bristol,Woking,143
+Plymouth,AFC Fylde,Plymouth,Wesham,389
+Plymouth,Bristol Rovers,Plymouth,Bristol,162
+Plymouth,Carlisle,Plymouth,Carlisle,509
+Plymouth,Grimsby,Plymouth,Grimsby,453
+Plymouth,Lincoln,Plymouth,Harrogate,440
+Plymouth,Liverpool,Plymouth,Liverpool,346
+Plymouth,Oxford United,Plymouth,Oxford,253
+Plymouth,Port Vale,Plymouth,Stoke-on-Trent,323
+Plymouth,Sheffield Wednesday,Plymouth,Sheffield,387
+Plymouth,Stevenage,Plymouth,Stevenage,323
+Plymouth,Welling United,Plymouth,Welling,323
+Port Vale,Accrington ST,Stoke-on-Trent,Accrington,83
+Port Vale,Brentford,Stoke-on-Trent,London,213
+Port Vale,Brighton,Stoke-on-Trent,Brighton,281
+Port Vale,Hartlepool,Stoke-on-Trent,Hartlepool,197
+Port Vale,King's Lynn Town,Stoke-on-Trent,King's Lynn,176
+Port Vale,Milton Keynes Dons,Stoke-on-Trent,Milton Keynes,145
+Port Vale,Oxford United,Stoke-on-Trent,Oxford,154
+Port Vale,Salisbury City,Stoke-on-Trent,Salisbury,218
+Port Vale,Stevenage,Stoke-on-Trent,Stevenage,183
+Port Vale,Sunderland,Stoke-on-Trent,Sunderland,217
+Portsmouth,Accrington ST,Portsmouth,Accrington,338
+Portsmouth,Altrincham,Portsmouth,Portsmouth,3
+Portsmouth,Arsenal,Portsmouth,London,106
+Portsmouth,Barnsley,Portsmouth,Leeds,333
+Portsmouth,Bournemouth,Portsmouth,Bournemouth,57
+Portsmouth,Harrow Borough,Portsmouth,Harrow,98
+Portsmouth,Ipswich,Portsmouth,Cardiff,150
+Portsmouth,King's Lynn Town,Portsmouth,King's Lynn,237
+Portsmouth,Macclesfield,Portsmouth,Macclesfield,281
+Portsmouth,Milton Keynes Dons,Portsmouth,Milton Keynes,137
+Portsmouth,Notts County,Portsmouth,Nottingham,235
+Portsmouth,Wycombe,Portsmouth,High Wycombe,93
+Preston,Arsenal,Preston,London,301
+Preston,Barnet,Preston,London,290
+Preston,Doncaster,Preston,York,109
+Preston,Gillingham,Preston,Gillingham,344
+Preston,Huddersfield,Preston,Huddersfield,62
+Preston,Ipswich,Preston,Cardiff,200
+Preston,Manchester United,Preston,Manchester,42
+Preston,Norwich,Preston,Norwich,296
+Preston,Nottingham Forest,Preston,Nottingham,137
+Preston,Shrewsbury,Preston,Shrewsbury,116
+Preston,Tottenham,Preston,London,299
+Preston,Yeovil Town,Preston,Yeovil,313
+QPR,Blackburn,London,Barnsley,243
+QPR,Chelsea,London,London,4
+QPR,Fulham,London,London,7
+QPR,Leeds,London,Reading,59
+QPR,Milton Keynes Dons,London,Milton Keynes,74
+QPR,Portsmouth,London,Portsmouth,101
+QPR,Rotherham,London,Rotherham,228
+QPR,Sheffield Utd,London,Sheffield,228
+QPR,Sheffield Wednesday,London,Sheffield,229
+QPR,Swansea,London,Swansea,179
+QPR,Watford,London,Watford,26
+Reading,Arsenal,London,London,5
+Reading,Bradford,London,Bradford,276
+Reading,Crystal Palace,London,London,12
+Reading,Sheffield Utd,London,Sheffield,226
+Reading,Stevenage,London,Stevenage,43
+Reading,Walsall,London,Walsall,174
+Reading,Watford,London,Watford,25
+Reading,West Brom,London,West Bromwich,172
+Rochdale,Aldershot Town,Rochdale,Aldershot,280
+Rochdale,Bromley,Rochdale,Bromley,125
+Rochdale,Bury,Rochdale,Bury,318
+Rochdale,Chesterfield,Rochdale,Chesterfield,64
+Rochdale,Gateshead,Rochdale,Gateshead,155
+Rochdale,Huddersfield,Rochdale,Huddersfield,25
+Rochdale,Leeds,Rochdale,Reading,253
+Rochdale,Maidstone Utd,Rochdale,Maidstone,317
+Rochdale,Millwall,Rochdale,London,276
+Rochdale,Morecambe,Rochdale,Wigan,32
+Rochdale,Northampton,Rochdale,Northampton,175
+Rochdale,Nottingham Forest,Rochdale,Nottingham,99
+Rochdale,Plymouth,Rochdale,Plymouth,385
+Rochdale,Portsmouth,Rochdale,Portsmouth,319
+Rochdale,Sheffield Wednesday,Rochdale,Sheffield,54
+Rochdale,Stoke City,Rochdale,Stoke-on-Trent,67
+Rochdale,Swindon Town,Rochdale,Swindon,231
+Rochdale,Wrexham,Rochdale,Wrexham,81
+Rotherham,Bournemouth,Rotherham,Bournemouth,301
+Rotherham,Bradford,Rotherham,Bradford,50
+Rotherham,Bromley,Rotherham,Bromley,116
+Rotherham,Hull City,Rotherham,Hull,76
+Rotherham,Oxford United,Rotherham,Oxford,185
+Rotherham,Rochdale,Rotherham,Rochdale,57
+Rotherham,Stevenage,Rotherham,Stevenage,186
+Rotherham,Stockport County,Rotherham,Stockport,54
+SL Aquaforce,Mansfield Town,Barnsley,Lincoln,72
+Salford City,Chesterfield,Salford,Chesterfield,62
+Salford City,Notts County,Salford,Nottingham,94
+Salford City,Peterborough,Salford,Bristol,227
+Salford City,Shrewsbury,Salford,Shrewsbury,92
+Salisbury City,Arlesey Town,Salisbury,Arlesey,150
+Salisbury City,Dartford,Salisbury,Dartford,147
+Scunthorpe,AFC Wimbledon,Scunthorpe,London,242
+Scunthorpe,Burton Albion,Scunthorpe,Burton upon Trent,110
+Scunthorpe,Grimsby,Scunthorpe,Grimsby,38
+Scunthorpe,Leyton Orient,Scunthorpe,London,230
+Scunthorpe,Northampton,Scunthorpe,Northampton,152
+Scunthorpe,Solihull Moors,Scunthorpe,Solihull,149
+Scunthorpe,Southend,Scunthorpe,Southend-on-Sea,246
+Sheffield Utd,AFC Fylde,Sheffield,Wesham,104
+Sheffield Utd,Arsenal,Sheffield,London,223
+Sheffield Utd,Barnet,Sheffield,London,212
+Sheffield Utd,Birmingham,Sheffield,Birmingham,108
+Sheffield Utd,Blackburn,Sheffield,Barnsley,17
+Sheffield Utd,Bristol City,Sheffield,Mansfield,32
+Sheffield Utd,Charlton,Sheffield,London,235
+Sheffield Utd,Crewe,Sheffield,Crewe,72
+Sheffield Utd,Leyton Orient,Sheffield,London,225
+Sheffield Utd,Nottingham Forest,Sheffield,Nottingham,52
+Sheffield Utd,Oldham,Sheffield,Oldham,47
+Sheffield Utd,Oxford United,Sheffield,Oxford,182
+Sheffield Utd,Plymouth,Sheffield,Plymouth,381
+Sheffield Utd,Port Vale,Sheffield,Stoke-on-Trent,62
+Sheffield Utd,Preston,Sheffield,Preston,92
+Sheffield Utd,Torquay,Sheffield,Torquay,355
+Sheffield Utd,Tottenham,Sheffield,London,220
+Sheffield Utd,Worcester City,Sheffield,Worcester,141
+Sheffield Utd,Wrexham,Sheffield,Wrexham,96
+Sheffield Wednesday,Aldershot Town,Sheffield,Aldershot,245
+Sheffield Wednesday,Blackpool,Sheffield,Blackpool,117
+Sheffield Wednesday,Carlisle,Sheffield,Carlisle,192
+Sheffield Wednesday,Charlton,Sheffield,London,236
+Sheffield Wednesday,Fulham,Sheffield,London,231
+Sheffield Wednesday,Macclesfield,Sheffield,Macclesfield,50
+Sheffield Wednesday,Mansfield Town,Sheffield,Lincoln,62
+Sheffield Wednesday,Newcastle,Sheffield,Newcastle upon Tyne,174
+Sheffield Wednesday,Reading,Sheffield,London,228
+Shortwood United,Port Vale,Nailsworth,Stoke-on-Trent,147
+Shrewsbury,Aldershot Town,Shrewsbury,Aldershot,213
+Shrewsbury,Barnet,Shrewsbury,London,212
+Shrewsbury,Bristol City,Shrewsbury,Mansfield,115
+Shrewsbury,Grimsby,Shrewsbury,Grimsby,204
+Shrewsbury,Manchester United,Shrewsbury,Manchester,89
+Shrewsbury,Mansfield Town,Shrewsbury,Lincoln,159
+Shrewsbury,Morecambe,Shrewsbury,Wigan,93
+Shrewsbury,Oxford City,Shrewsbury,Oxford,147
+Shrewsbury,Peterborough,Shrewsbury,Bristol,140
+Shrewsbury,Rotherham,Shrewsbury,Rotherham,122
+Shrewsbury,Scunthorpe,Shrewsbury,Scunthorpe,172
+Shrewsbury,Sheffield Wednesday,Shrewsbury,Sheffield,119
+Shrewsbury,Sunderland,Shrewsbury,Sunderland,260
+Shrewsbury,York,Shrewsbury,York,178
+Slough Town,Gillingham,Slough,Gillingham,80
+Slough Town,Mansfield Town,Slough,Lincoln,190
+Slough Town,Rochdale,Slough,Rochdale,256
+Slough Town,Sutton Utd,Slough,Sutton,34
+Solihull Moors,Rotherham,Solihull,Rotherham,112
+Solihull Moors,Wigan,Solihull,Manchester,136
+Solihull Moors,Wycombe,Solihull,High Wycombe,113
+Solihull Moors,Yeovil Town,Solihull,Yeovil,177
+South Shields,Forest Green,South Shields,Forest Green,461
+Southampton,Arsenal,Southampton,London,113
+Southampton,Blackpool,Southampton,Blackpool,345
+Southampton,Burnley,Southampton,Burnley,327
+Southampton,Chelsea,Southampton,London,104
+Southampton,Coventry,Southampton,Ipswich,215
+Southampton,Crystal Palace,Southampton,London,105
+Southampton,Derby,Southampton,Derby,225
+Southampton,Grimsby,Southampton,Grimsby,311
+Southampton,Huddersfield,Southampton,Huddersfield,307
+Southampton,Manchester City,Southampton,Blackburn,298
+Southampton,Millwall,Southampton,London,113
+Southampton,Norwich,Southampton,Norwich,265
+Southampton,Shrewsbury,Southampton,Shrewsbury,224
+Southampton,Watford,Southampton,Watford,105
+Southampton,West Ham,Southampton,Coventry,168
+Southampton,Yeovil Town,Southampton,Yeovil,91
+Southend,Barnsley,Southend-on-Sea,Leeds,294
+Southend,Bury,Southend-on-Sea,Bury,113
+Southend,Chester,Southend-on-Sea,Chester,306
+Southend,Hull City,Southend-on-Sea,Hull,255
+Southend,Millwall,Southend-on-Sea,London,51
+Southend,Preston,Southend-on-Sea,Preston,338
+Southend,Stockport County,Southend-on-Sea,Stockport,285
+Southport,Barnet,Barrow-in-Furness,London,344
+Southport,Boreham Wood,Barrow-in-Furness,Borehamwood,338
+Southport,Dagenham & Redbridge,Barrow-in-Furness,Dagenham,366
+Southport,Eastleigh,Barrow-in-Furness,Eastleigh,379
+Southport,Tranmere,Barrow-in-Furness,Birkenhead,83
+St Albans City,Carlisle,St Albans,Carlisle,390
+St Albans City,Forest Green,St Albans,Forest Green,133
+St Albans City,Mansfield Town,St Albans,Lincoln,165
+Stevenage,Concord Rangers,Stevenage,Canvey Island,69
+Stevenage,Everton,Stevenage,Liverpool,252
+Stevenage,Gillingham,Stevenage,Gillingham,78
+Stevenage,Hull City,Stevenage,Hull,205
+Stevenage,Milton Keynes Dons,Stevenage,Milton Keynes,41
+Stevenage,Nantwich Town,Stevenage,Nantwich,205
+Stevenage,Notts County,Stevenage,Nottingham,133
+Stevenage,Portsmouth,Stevenage,Portsmouth,134
+Stevenage,Swansea,Stevenage,Swansea,137
+Stevenage,Swindon Town,Stevenage,Swindon,115
+Stockport County,Bolton,Stockport,Bolton,25
+Stockport County,Charlton,Stockport,London,261
+Stockport County,Swindon Town,Stockport,Swindon,209
+Stockport County,Walsall,Stockport,Walsall,92
+Stockport County,West Ham,Stockport,Coventry,120
+Stockport County,Woking,Stockport,Woking,257
+Stoke City,Brighton,Stoke-on-Trent,Brighton,280
+Stoke City,Crystal Palace,Stoke-on-Trent,London,228
+Stoke City,Leicester,Stoke-on-Trent,Leicester,82
+Stoke City,Leyton Orient,Stoke-on-Trent,London,218
+Stoke City,Manchester City,Stoke-on-Trent,Blackburn,56
+Stoke City,Shrewsbury,Stoke-on-Trent,Shrewsbury,51
+Stoke City,Stevenage,Stoke-on-Trent,Stevenage,182
+Stoke City,Wigan,Stoke-on-Trent,Manchester,67
+Stoke City,Wolves,Stoke-on-Trent,Wolverhampton,46
+Stoke City,Wrexham,Stoke-on-Trent,Wrexham,37
+Stourbridge,Biggleswade Town,Stourbridge,Salford,116
+Stourbridge,Eastleigh,Stourbridge,Eastleigh,179
+Stourbridge,Northampton,Stourbridge,Northampton,87
+Stourbridge,Plymouth,Stourbridge,Plymouth,269
+Stourbridge,Stevenage,Stourbridge,Stevenage,145
+Stourbridge,Whitehawk,Stourbridge,Brighton,229
+Stratford Town,Shrewsbury,Stratford-upon-Avon,Shrewsbury,92
+Sunderland,Arsenal,Sunderland,London,382
+Sunderland,Bolton,Sunderland,Bolton,163
+Sunderland,Carlisle,Sunderland,Carlisle,99
+Sunderland,Everton,Sunderland,Liverpool,195
+Sunderland,Kidderminster Harriers,Sunderland,Forest Green,361
+Sunderland,Leeds,Sunderland,Reading,385
+Sunderland,Mansfield Town,Sunderland,Lincoln,195
+Sunderland,Southampton,Sunderland,Southampton,446
+Sunderland,Walsall,Sunderland,Walsall,261
+Sutton Utd,Arsenal,Sutton,London,23
+Sutton Utd,Cheltenham,Sutton,Cheltenham,144
+Sutton Utd,Farnborough,Sutton,Farnborough,41
+Sutton Utd,Kettering Town,Sutton,Kettering,122
+Sutton Utd,Leeds,Sutton,Reading,57
+Sutton Utd,Notts County,Sutton,Nottingham,189
+Swansea,Brentford,Swansea,London,176
+Swansea,Bristol City,Swansea,Mansfield,22
+Swansea,Gillingham,Swansea,Gillingham,214
+Swansea,Manchester City,Swansea,Blackburn,94
+Swansea,Nottingham Forest,Swansea,Nottingham,8
+Swansea,Notts County,Swansea,Nottingham,6
+Swansea,Sheffield Wednesday,Swansea,Sheffield,52
+Swansea,Southampton,Swansea,Southampton,228
+Swansea,Tottenham,Swansea,London,171
+Swansea,Wolves,Swansea,Wolverhampton,70
+Swindon Town,Darlington 1883,Swindon,Darlington,331
+Swindon Town,Eastleigh,Swindon,Eastleigh,77
+Swindon Town,Huddersfield,Swindon,Huddersfield,234
+Swindon Town,Macclesfield,Swindon,Macclesfield,192
+Swindon Town,Manchester City,Swindon,Blackburn,221
+Swindon Town,Woking,Swindon,Woking,88
+Swindon Town,York,Swindon,York,272
+Tamworth,Bristol City,Tamworth,Mansfield,65
+Tamworth,Cheltenham,Tamworth,Cheltenham,87
+Tamworth,Hinckley United,Tamworth,Hinckley,24
+Tonbridge Angels,Bradford,Tonbridge,Bradford,319
+Torquay,Crawley Town,Torquay,Crawley,248
+Torquay,Harrogate Town,Torquay,Harrogate,417
+Torquay,Rochdale,Torquay,Rochdale,363
+Torquay,Woking,Torquay,Woking,231
+Tottenham,AFC Wimbledon,London,London,20
+Tottenham,Aston Villa,London,Birmingham,161
+Tottenham,Bolton,London,Bolton,272
+Tottenham,Brighton,London,Brighton,86
+Tottenham,Burnley,London,Burnley,285
+Tottenham,Chelsea,London,London,14
+Tottenham,Coventry,London,Ipswich,98
+Tottenham,Crystal Palace,London,London,20
+Tottenham,Leicester,London,Leicester,136
+Tottenham,Middlesbrough,London,Middlesbrough,341
+Tottenham,Millwall,London,London,12
+Tottenham,Morecambe,London,Wigan,278
+Tottenham,Newport County,London,Newport,5355
+Tottenham,Norwich,London,Norwich,148
+Tottenham,Portsmouth,London,Portsmouth,111
+Tottenham,Rochdale,London,Rochdale,265
+Tottenham,Southampton,London,Southampton,117
+Tottenham,Stevenage,London,Stevenage,35
+Tottenham,Wycombe,London,High Wycombe,48
+Tranmere,Brackley Town,Birkenhead,Brackley,196
+Tranmere,Bristol Rovers,Birkenhead,Bristol,216
+Tranmere,Cheltenham,Birkenhead,Cheltenham,177
+Tranmere,Chesterfield,Birkenhead,Chesterfield,107
+Tranmere,Chichester City,Birkenhead,Chichester,321
+Tranmere,Manchester United,Birkenhead,Manchester,49
+Tranmere,Oxford United,Birkenhead,Oxford,216
+Tranmere,Swansea,Birkenhead,Swansea,126
+Tranmere,Tottenham,Birkenhead,London,281
+Tranmere,Watford,Birkenhead,Watford,260
+United of Manchester,Chesterfield,Moston Manchester,Chesterfield,59
+United of Manchester,Doncaster,Moston Manchester,York,88
+Walsall,Bristol Rovers,Walsall,Bristol,133
+Walsall,Carlisle,Walsall,Carlisle,264
+Walsall,Chesterfield,Walsall,Chesterfield,82
+Walsall,Coventry,Walsall,Ipswich,222
+Walsall,Dagenham & Redbridge,Walsall,Dagenham,187
+Walsall,Exeter City,Walsall,Exeter,232
+Walsall,Fleetwood Town,Walsall,Fleetwood,160
+Walsall,Leicester,Walsall,Leicester,59
+Walsall,Lincoln,Walsall,Harrogate,161
+Walsall,Macclesfield,Walsall,Macclesfield,76
+Walsall,Oxford United,Walsall,Oxford,105
+Walsall,Shrewsbury,Walsall,Shrewsbury,54
+Walsall,Swindon Town,Walsall,Swindon,116
+Warrington Town,Exeter City,Warrington,Exeter,303
+Watford,Bristol City,Watford,Mansfield,174
+Watford,Burton Albion,Watford,Burton upon Trent,152
+Watford,Leeds,Watford,Reading,44
+Watford,Newcastle,Watford,Newcastle upon Tyne,377
+Watford,Tottenham,Watford,London,25
+Watford,Wolves,Watford,Wolverhampton,157
+Wealdstone,Colchester,Ruislip,Colchester,98
+Welling United,Carlisle,Welling,Carlisle,432
+Welling United,Luton,Welling,Luton,59
+West Brom,Brighton,West Bromwich,Brighton,230
+West Brom,Chesterfield,West Bromwich,Chesterfield,88
+West Brom,Crystal Palace,West Bromwich,London,183
+West Brom,Derby,West Bromwich,Derby,56
+West Brom,Gateshead,West Bromwich,Gateshead,271
+West Brom,Newcastle,West Bromwich,Newcastle upon Tyne,272
+West Brom,Norwich,West Bromwich,Norwich,226
+West Brom,QPR,West Bromwich,London,174
+West Brom,Southampton,West Bromwich,Southampton,189
+West Brom,West Ham,West Bromwich,Coventry,38
+West Brom,Wigan,West Bromwich,Manchester,119
+West Ham,Birmingham,Coventry,Birmingham,29
+West Ham,Doncaster,Coventry,York,176
+West Ham,Everton,Coventry,Liverpool,150
+West Ham,Leeds,Coventry,Reading,112
+West Ham,Liverpool,Coventry,Liverpool,149
+West Ham,Manchester City,Coventry,Blackburn,134
+West Ham,Shrewsbury,Coventry,Shrewsbury,91
+West Ham,Wolves,Coventry,Wolverhampton,47
+Weston-super-Mare,Doncaster,Weston-super-Mare,York,319
+Weston-super-Mare,Wrexham,Weston-super-Mare,Wrexham,181
+Whitehawk,Dagenham & Redbridge,Brighton,Dagenham,82
+Whitehawk,Lincoln,Brighton,Harrogate,367
+Wigan,AFC Fylde,Manchester,Wesham,32
+Wigan,Arsenal,Manchester,London,279
+Wigan,Blackburn,Manchester,Barnsley,77
+Wigan,Chorley,Manchester,Chorley,12
+Wigan,Crawley Town,Manchester,Crawley,317
+Wigan,Crystal Palace,Manchester,London,293
+Wigan,Luton,Manchester,Luton,238
+Wigan,Nottingham Forest,Manchester,Nottingham,118
+Wigan,Southampton,Manchester,Southampton,308
+Wigan,West Ham,Manchester,Coventry,147
+Woking,Accrington ST,Woking,Accrington,297
+Woking,Oxford United,Woking,Oxford,68
+Woking,Watford,Woking,Watford,39
+Wolves,Birmingham,Wolverhampton,Birmingham,21
+Wolves,Chelsea,Wolverhampton,London,182
+Wolves,Crystal Palace,Wolverhampton,London,192
+Wolves,Fulham,Wolverhampton,London,181
+Wolves,Manchester United,Wolverhampton,Manchester,98
+Wolves,Norwich,Wolverhampton,Norwich,233
+Wolves,Oldham,Wolverhampton,Oldham,105
+Wolves,Sheffield Utd,Wolverhampton,Sheffield,98
+Wolves,Shrewsbury,Wolverhampton,Shrewsbury,44
+Wolves,Southampton,Wolverhampton,Southampton,196
+Worcester City,Scunthorpe,Worcester,Scunthorpe,189
+Wrexham,Alfreton Town,Wrexham,Alfreton,91
+Wrexham,Brighton,Wrexham,Brighton,297
+Wrexham,Cambridge United,Wrexham,Cambridge,213
+Wrexham,Farnborough,Wrexham,Farnborough,230
+Wrexham,Maidstone Utd,Wrexham,Maidstone,291
+Wrexham,Oldham,Wrexham,Oldham,75
+Wrexham,Oxford United,Wrexham,Oxford,168
+Wrexham,Woking,Wrexham,Woking,236
+Wycombe,AFC Wimbledon,High Wycombe,London,45
+Wycombe,Hartlepool,High Wycombe,Hartlepool,341
+Wycombe,Leatherhead,High Wycombe,Leatherhead,47
+Wycombe,Preston,High Wycombe,Preston,271
+Wycombe,Stourbridge,High Wycombe,Stourbridge,131
+Wycombe,Tranmere,High Wycombe,Birkenhead,247
+Wycombe,Walsall,High Wycombe,Walsall,135
+Yate Town,Yeovil Town,Yate,Yeovil,69
+Yeovil Town,Accrington ST,Yeovil,Accrington,313
+Yeovil Town,Bournemouth,Yeovil,Bournemouth,59
+Yeovil Town,Bradford,Yeovil,Bradford,323
+Yeovil Town,Carlisle,Yeovil,Carlisle,440
+Yeovil Town,Crawley Town,Yeovil,Crawley,172
+Yeovil Town,Fleetwood Town,Yeovil,Fleetwood,329
+Yeovil Town,Hartlepool,Yeovil,Hartlepool,428
+Yeovil Town,Leyton Orient,Yeovil,London,195
+Yeovil Town,Manchester United,Yeovil,Manchester,282
+Yeovil Town,Port Vale,Yeovil,Stoke-on-Trent,233
+Yeovil Town,Southend,Yeovil,Southend-on-Sea,242
+Yeovil Town,Stevenage,Yeovil,Stevenage,199
+Yeovil Town,Stockport County,Yeovil,Stockport,276
+York,Altrincham,York,Portsmouth,352
+York,Bristol Rovers,York,Bristol,297
+York,Buxton,York,Buxton,95

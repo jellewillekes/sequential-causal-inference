@@ -9,7 +9,8 @@ import matplotlib.pyplot as plt
 
 
 def minmax_impute(match_df):
-    match_df['division'] = match_df['division'].fillna(4)
+    non_league_division = match_df['team_division'].max()
+    max_division = non_league_division - 1
 
     # Define columns to impute
     min_value_columns = ['team_size', 'foreigners', 'mean_value', 'total_value']
@@ -25,30 +26,33 @@ def minmax_impute(match_df):
 
     for col in min_value_columns:
         # Impute missing values with the mean for league teams
-        means = match_df.groupby(['year', 'division'])[col].transform('mean')
+        means = match_df.groupby(['year', 'team_division'])[col].transform('mean')
         match_df[col] = match_df[col].fillna(means)
 
         # Use the mean value of the lowest 10% of division 3 for non-league teams
-        non_league_teams = match_df['division'] == 4
+        non_league_teams = match_df['team_division'] == non_league_division
         match_df.loc[non_league_teams, col] = match_df[non_league_teams].apply(
             lambda row:
-            calc_percentile_mean(match_df[(match_df['year'] == row['year']) & (match_df['division'] == 3)], col, 0.05,
-                                 0.95)[0]
+            calc_percentile_mean(
+                match_df[(match_df['year'] == row['year']) & (match_df['team_division'] == max_division)], col, 0.05,
+                0.95)[0]
             if row['year'] in match_df['year'].unique() else np.nan,
             axis=1
         )
 
     for col in max_value_columns:
         # Impute missing values with the mean for league teams
-        means = match_df.groupby(['year', 'division'])[col].transform('mean')
+        means = match_df.groupby(['year', 'team_division'])[col].transform('mean')
         match_df[col] = match_df[col].fillna(means)
 
         # Use the mean value of the highest 10% of division 3 for non-league teams
-        non_league_teams = match_df['division'] == 4
+        non_league_teams = match_df['team_division'] == non_league_division
         match_df.loc[non_league_teams, col] = match_df[non_league_teams].apply(
             lambda row:
-            calc_percentile_mean(match_df[(match_df['year'] == row['year']) & (match_df['division'] == 3)], col, 0.05,
-                                 0.95)[1]
+            calc_percentile_mean(
+                match_df[(match_df['year'] == row['year']) & (match_df['team_division'] == max_division)], col,
+                0.05,
+                0.95)[1]
             if row['year'] in match_df['year'].unique() else np.nan,
             axis=1
         )
@@ -67,7 +71,7 @@ def impute_data(match_df, method='minmax'):
         match_df = minmax_impute(match_df)
 
     elif method == 'drop':
-        match_df = match_df.dropna(subset=['division', 'league'])
+        match_df = match_df.dropna(subset=['team_division', 'league'])
     else:
         match_df = match_df
 
