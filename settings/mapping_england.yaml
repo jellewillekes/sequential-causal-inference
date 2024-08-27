@@ -50,4 +50,4 @@ FA_Cup:
     5th Round Replays: 4
     6th Round Replays: 3
     Quarter-finals Replays: 3
-  rounds_random: 8
+  start_round: 8 # All rounds in Dutch KNVB Beker are random
