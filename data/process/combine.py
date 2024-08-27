@@ -31,6 +31,9 @@ def load_and_process_cup_data():
     combined_data = pd.concat(all_data, ignore_index=True)
 
     combined_data = combined_data[combined_data['next_fixture_days'] <= 5]
+
+    combined_data = combined_data.dropna(subset='team_size')
+
     output_path = os.path.join(project_root(), 'data/process/combined', 'combined_cup_processed.csv')
     combined_data.to_csv(output_path, index=False)
 
