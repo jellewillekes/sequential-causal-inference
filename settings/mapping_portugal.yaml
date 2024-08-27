@@ -1,0 +1,33 @@
+Primeira_Liga:
+  id: 94
+  division: 1
+  season_start: 2011
+  season_end: 2023
+  data_types: [ standings, fixtures ]
+  transfermarkt_name: [ liga-portugal, PO1 ]
+
+Segunda_Liga:
+  id: 95
+  division: 2
+  season_start: 2011
+  season_end: 2023
+  data_types: [ standings, fixtures ]
+  transfermarkt_name: [ liga-portugal-2, PO2 ]
+
+Taca_de_Portugal:
+  id: 96
+  division: NaN
+  season_start: 2011
+  season_end: 2023
+  data_types: [ fixtures ]
+  transfermarkt_name: none
+  rounds:
+    1st Round: 8
+    2nd Round: 7
+    3rd Round: 6
+    4th Round: 5
+    5th Round: 4
+    Quarter-finals: 3
+    Semi-finals: 2
+    Final: 1
+  start_round: 7 # Round where League 2 teams enter

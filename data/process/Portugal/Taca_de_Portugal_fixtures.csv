@@ -1,0 +1,1345 @@
+year,round,stage,fixture_id,fixture_date,team_name,team_id,opponent_name,opponent_id,team_win,team_home,fixture_length,fixture_location
+2016,Final,1,212763,2017-05-28T16:15:00+00:00,Benfica,211,Guimaraes,224,1.0,home,90,"Estádio Nacional (Jamor, Oeiras)"
+2016,Final,1,212763,2017-05-28T16:15:00+00:00,Guimaraes,224,Benfica,211,0.0,away,90,"Estádio Nacional (Jamor, Oeiras)"
+2016,Semi-finals,2,212764,2017-02-28T20:15:00+00:00,Estoril,230,Benfica,211,0.0,home,90,Estádio António Coimbra da Mota (Estoril)
+2016,Semi-finals,2,212764,2017-02-28T20:15:00+00:00,Benfica,211,Estoril,230,1.0,away,90,Estádio António Coimbra da Mota (Estoril)
+2016,Semi-finals,2,212766,2017-03-01T20:15:00+00:00,Guimaraes,224,Chaves,223,1.0,home,90,Estádio Dom Afonso Henriques (Guimarães)
+2016,Semi-finals,2,212766,2017-03-01T20:15:00+00:00,Chaves,223,Guimaraes,224,0.0,away,90,Estádio Dom Afonso Henriques (Guimarães)
+2016,Semi-finals,2,212767,2017-04-04T19:15:00+00:00,Chaves,223,Guimaraes,224,1.0,home,90,Estádio Municipal Eng. Manuel Branco Teixeira (Chaves)
+2016,Semi-finals,2,212767,2017-04-04T19:15:00+00:00,Guimaraes,224,Chaves,223,0.0,away,90,Estádio Municipal Eng. Manuel Branco Teixeira (Chaves)
+2016,Quarter-finals,3,212768,2017-01-17T18:15:00+00:00,Estoril,230,Academica,239,1.0,home,90,Estádio António Coimbra da Mota (Estoril)
+2016,Quarter-finals,3,212768,2017-01-17T18:15:00+00:00,Academica,239,Estoril,230,0.0,away,90,Estádio António Coimbra da Mota (Estoril)
+2016,Quarter-finals,3,212769,2017-01-17T20:15:00+00:00,Chaves,223,Sporting CP,228,1.0,home,90,Estádio Municipal Eng. Manuel Branco Teixeira (Chaves)
+2016,Quarter-finals,3,212769,2017-01-17T20:15:00+00:00,Sporting CP,228,Chaves,223,0.0,away,90,Estádio Municipal Eng. Manuel Branco Teixeira (Chaves)
+2016,Quarter-finals,3,212770,2017-01-18T18:30:00+00:00,SC Covilha,236,Guimaraes,224,0.0,home,90,Complexo Desportivo da Covilhã (Covilhã)
+2016,Quarter-finals,3,212770,2017-01-18T18:30:00+00:00,Guimaraes,224,SC Covilha,236,1.0,away,90,Complexo Desportivo da Covilhã (Covilhã)
+2016,Quarter-finals,3,212771,2017-01-18T20:30:00+00:00,Benfica,211,Leixoes,244,1.0,home,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2016,Quarter-finals,3,212771,2017-01-18T20:30:00+00:00,Leixoes,244,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2016,4th Round,5,212780,2016-11-13T15:00:00+00:00,Varzim,237,SC Covilha,236,0.0,home,90,Estádio Varzim Sport Club (Póvoa de Varzim)
+2016,4th Round,5,212780,2016-11-13T15:00:00+00:00,SC Covilha,236,Varzim,237,1.0,away,90,Estádio Varzim Sport Club (Póvoa de Varzim)
+2016,4th Round,5,212781,2016-11-17T20:15:00+00:00,Sporting CP,228,Praiense,4786,1.0,home,90,Estádio José Alvalade (Lisboa)
+2016,4th Round,5,212781,2016-11-17T20:15:00+00:00,Praiense,4786,Sporting CP,228,0.0,away,90,Estádio José Alvalade (Lisboa)
+2016,4th Round,5,212782,2016-11-18T20:15:00+00:00,Chaves,223,FC Porto,212,1.0,home,120,Estádio Municipal Eng. Manuel Branco Teixeira (Chaves)
+2016,4th Round,5,212782,2016-11-18T20:15:00+00:00,FC Porto,212,Chaves,223,0.0,away,120,Estádio Municipal Eng. Manuel Branco Teixeira (Chaves)
+2016,4th Round,5,212783,2016-11-19T14:00:00+00:00,Sanjoanense,4792,GIL Vicente,762,1.0,home,90,Estádio Conde Dias Garcia (São João da Madeira)
+2016,4th Round,5,212783,2016-11-19T14:00:00+00:00,GIL Vicente,762,Sanjoanense,4792,0.0,away,90,Estádio Conde Dias Garcia (São João da Madeira)
+2016,4th Round,5,212784,2016-11-19T16:00:00+00:00,Estoril,230,Cova De Piedade,241,1.0,home,90,Estádio António Coimbra da Mota (Estoril)
+2016,4th Round,5,212784,2016-11-19T16:00:00+00:00,Cova De Piedade,241,Estoril,230,0.0,away,90,Estádio António Coimbra da Mota (Estoril)
+2016,4th Round,5,212785,2016-11-19T16:00:00+00:00,Feirense,213,Academica,239,0.0,home,120,Estádio Marcolino de Castro (Santa Maria da Feira)
+2016,4th Round,5,212785,2016-11-19T16:00:00+00:00,Academica,239,Feirense,213,1.0,away,120,Estádio Marcolino de Castro (Santa Maria da Feira)
+2016,4th Round,5,212786,2016-11-19T20:15:00+00:00,Benfica,211,Maritimo,214,1.0,home,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2016,4th Round,5,212786,2016-11-19T20:15:00+00:00,Maritimo,214,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2016,4th Round,5,212787,2016-11-20T14:00:00+00:00,Real,10149,Olhanense,807,1.0,home,90,Estádio do Real SC (Queluz)
+2016,4th Round,5,212787,2016-11-20T14:00:00+00:00,Olhanense,807,Real,10149,0.0,away,90,Estádio do Real SC (Queluz)
+2016,4th Round,5,212788,2016-11-20T14:00:00+00:00,Vizela,810,Penafiel,235,0.0,home,90,Estádio Do Vizela (Caldas de Vizela)
+2016,4th Round,5,212788,2016-11-20T14:00:00+00:00,Penafiel,235,Vizela,810,1.0,away,90,Estádio Do Vizela (Caldas de Vizela)
+2016,4th Round,5,212789,2016-11-20T15:00:00+00:00,Benfica Castelo Branco,4731,Vitoria Setubal,219,0.0,home,90,Estádio Municipal Vale do Romeiro (Castelo Branco)
+2016,4th Round,5,212789,2016-11-20T15:00:00+00:00,Vitoria Setubal,219,Benfica Castelo Branco,4731,1.0,away,90,Estádio Municipal Vale do Romeiro (Castelo Branco)
+2016,4th Round,5,212790,2016-11-20T15:00:00+00:00,Oriental Lisboa,4775,Leixoes,244,0.0,home,120,Campo Engenheiro Carlos Salema (Lisboa)
+2016,4th Round,5,212790,2016-11-20T15:00:00+00:00,Leixoes,244,Oriental Lisboa,4775,1.0,away,120,Campo Engenheiro Carlos Salema (Lisboa)
+2016,4th Round,5,212791,2016-11-20T15:00:00+00:00,Vilafranquense,4717,Pacos Ferreira,234,1.0,home,90,Campo do Cevadeiro (Vila Franca de Xira)
+2016,4th Round,5,212791,2016-11-20T15:00:00+00:00,Pacos Ferreira,234,Vilafranquense,4717,0.0,away,90,Campo do Cevadeiro (Vila Franca de Xira)
+2016,4th Round,5,212792,2016-11-20T15:00:00+00:00,Aljustrelense,4722,Tondela,218,0.0,home,90,Estádio Municipal de Aljustrel (Aljustrel)
+2016,4th Round,5,212792,2016-11-20T15:00:00+00:00,Tondela,218,Aljustrelense,4722,1.0,away,90,Estádio Municipal de Aljustrel (Aljustrel)
+2016,4th Round,5,212793,2016-11-20T15:00:00+00:00,Torreense,4799,Nacional,225,1.0,home,90,Campo Manuel Marques (Torres Vedras)
+2016,4th Round,5,212793,2016-11-20T15:00:00+00:00,Nacional,225,Torreense,4799,0.0,away,90,Campo Manuel Marques (Torres Vedras)
+2016,4th Round,5,212794,2016-11-20T17:00:00+00:00,SC Braga,217,Santa Clara,227,1.0,home,90,Estádio Municipal de Braga (Braga)
+2016,4th Round,5,212794,2016-11-20T17:00:00+00:00,Santa Clara,227,SC Braga,217,0.0,away,90,Estádio Municipal de Braga (Braga)
+2016,4th Round,5,212795,2016-11-20T19:15:00+00:00,Boavista,222,Guimaraes,224,0.0,home,120,Estádio do Bessa Século XXI (Porto)
+2016,4th Round,5,212795,2016-11-20T19:15:00+00:00,Guimaraes,224,Boavista,222,1.0,away,120,Estádio do Bessa Século XXI (Porto)
+2016,3rd Round,6,212796,2016-10-13T19:15:00+00:00,Famalicao,242,Sporting CP,228,0.0,home,90,Estádio Municipal 22 de Junho (Vila Nova de Famalicão)
+2016,3rd Round,6,212796,2016-10-13T19:15:00+00:00,Sporting CP,228,Famalicao,242,1.0,away,90,Estádio Municipal 22 de Junho (Vila Nova de Famalicão)
+2016,3rd Round,6,212797,2016-10-14T14:00:00+00:00,SC Covilha,236,Freamunde,808,1.0,home,120,Estádio Municipal José dos Santos Pinto (Covilhã)
+2016,3rd Round,6,212797,2016-10-14T14:00:00+00:00,Freamunde,808,SC Covilha,236,0.0,away,120,Estádio Municipal José dos Santos Pinto (Covilhã)
+2016,3rd Round,6,212798,2016-10-14T19:15:00+00:00,1º Dezembro,4718,Benfica,211,0.0,home,90,Estádio António Coimbra da Mota (Estoril)
+2016,3rd Round,6,212798,2016-10-14T19:15:00+00:00,Benfica,211,1º Dezembro,4718,1.0,away,90,Estádio António Coimbra da Mota (Estoril)
+2016,3rd Round,6,212799,2016-10-15T15:00:00+00:00,União de Leiria,4662,Boavista,222,0.0,home,90,Estádio Dr. Magalhães Pessoa (Leiria)
+2016,3rd Round,6,212799,2016-10-15T15:00:00+00:00,Boavista,222,União de Leiria,4662,1.0,away,90,Estádio Dr. Magalhães Pessoa (Leiria)
+2016,3rd Round,6,212800,2016-10-15T15:00:00+00:00,Aves,220,Pacos Ferreira,234,0.0,home,120,Estádio Clube Desportivo das Aves (Vila das Aves)
+2016,3rd Round,6,212800,2016-10-15T15:00:00+00:00,Pacos Ferreira,234,Aves,220,1.0,away,120,Estádio Clube Desportivo das Aves (Vila das Aves)
+2016,3rd Round,6,212801,2016-10-15T15:00:00+00:00,Penafiel,235,Amarante,4725,1.0,home,120,Estádio Municipal 25 de Abril (Penafiel)
+2016,3rd Round,6,212801,2016-10-15T15:00:00+00:00,Amarante,4725,Penafiel,235,0.0,away,120,Estádio Municipal 25 de Abril (Penafiel)
+2016,3rd Round,6,212802,2016-10-15T15:00:00+00:00,Fátima,4746,Olhanense,807,0.0,home,90,Estádio Municipal de Fátima (Fátima)
+2016,3rd Round,6,212802,2016-10-15T15:00:00+00:00,Olhanense,807,Fátima,4746,1.0,away,90,Estádio Municipal de Fátima (Fátima)
+2016,3rd Round,6,212803,2016-10-15T16:00:00+00:00,Oliveirense,233,SC Braga,217,0.0,home,90,Estádio Municipal 22 de Junho (Vila Nova de Famalicão)
+2016,3rd Round,6,212803,2016-10-15T16:00:00+00:00,SC Braga,217,Oliveirense,233,1.0,away,90,Estádio Municipal 22 de Junho (Vila Nova de Famalicão)
+2016,3rd Round,6,212804,2016-10-15T19:15:00+00:00,Gafanha,4748,FC Porto,212,0.0,home,90,Estádio Municipal de Aveiro (Aveiro)
+2016,3rd Round,6,212804,2016-10-15T19:15:00+00:00,FC Porto,212,Gafanha,4748,1.0,away,90,Estádio Municipal de Aveiro (Aveiro)
+2016,3rd Round,6,212805,2016-10-16T11:00:00+00:00,Santa Clara,227,Rio Ave,226,1.0,home,120,"Estádio de São Miguel (Ponta Delgada, Ilha de São Miguel, Açores)"
+2016,3rd Round,6,212805,2016-10-16T11:00:00+00:00,Rio Ave,226,Santa Clara,227,0.0,away,120,"Estádio de São Miguel (Ponta Delgada, Ilha de São Miguel, Açores)"
+2016,3rd Round,6,212806,2016-10-16T13:30:00+00:00,Estarreja,4881,Nacional,225,0.0,home,90,Estádio Dr. Tavares da Silva (Estarreja)
+2016,3rd Round,6,212806,2016-10-16T13:30:00+00:00,Nacional,225,Estarreja,4881,1.0,away,90,Estádio Dr. Tavares da Silva (Estarreja)
+2016,3rd Round,6,212807,2016-10-16T14:00:00+00:00,Sertanense,4794,Tondela,218,0.0,home,90,Campo de Jogos Dr. Marques dos Santos (Sertã)
+2016,3rd Round,6,212807,2016-10-16T14:00:00+00:00,Tondela,218,Sertanense,4794,1.0,away,90,Campo de Jogos Dr. Marques dos Santos (Sertã)
+2016,3rd Round,6,212808,2016-10-16T14:00:00+00:00,Real,10149,Arouca,240,1.0,home,90,Estádio do Real SC (Queluz)
+2016,3rd Round,6,212808,2016-10-16T14:00:00+00:00,Arouca,240,Real,10149,0.0,away,90,Estádio do Real SC (Queluz)
+2016,3rd Round,6,212809,2016-10-16T14:00:00+00:00,Alcanenense,4820,Feirense,213,0.0,home,90,Estádio Joaquim Maria Batista (Alcanena)
+2016,3rd Round,6,212809,2016-10-16T14:00:00+00:00,Feirense,213,Alcanenense,4820,1.0,away,90,Estádio Joaquim Maria Batista (Alcanena)
+2016,3rd Round,6,212810,2016-10-16T14:00:00+00:00,Santa Iria,4793,Guimaraes,224,0.0,home,90,Campo do Sacavenense (Sacavém)
+2016,3rd Round,6,212810,2016-10-16T14:00:00+00:00,Guimaraes,224,Santa Iria,4793,1.0,away,90,Campo do Sacavenense (Sacavém)
+2016,3rd Round,6,212811,2016-10-16T14:00:00+00:00,Naval 1º de Maio,4664,Maritimo,214,0.0,home,90,Estádio Municipal José Bento Pessoa (Figueira da Foz)
+2016,3rd Round,6,212811,2016-10-16T14:00:00+00:00,Maritimo,214,Naval 1º de Maio,4664,1.0,away,90,Estádio Municipal José Bento Pessoa (Figueira da Foz)
+2016,3rd Round,6,212812,2016-10-16T14:00:00+00:00,Caldas,4733,Estoril,230,0.0,home,90,Campo da Mata (Caldas da Rainha)
+2016,3rd Round,6,212812,2016-10-16T14:00:00+00:00,Estoril,230,Caldas,4733,1.0,away,90,Campo da Mata (Caldas da Rainha)
+2016,3rd Round,6,212813,2016-10-16T14:00:00+00:00,Vizela,810,Moreirense,215,1.0,home,90,Estádio Do Vizela (Caldas de Vizela)
+2016,3rd Round,6,212813,2016-10-16T14:00:00+00:00,Moreirense,215,Vizela,810,0.0,away,90,Estádio Do Vizela (Caldas de Vizela)
+2016,3rd Round,6,212814,2016-10-16T14:00:00+00:00,U. Madeira,763,Chaves,223,0.0,home,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2016,3rd Round,6,212814,2016-10-16T14:00:00+00:00,Chaves,223,U. Madeira,763,1.0,away,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2016,3rd Round,6,212815,2016-10-16T14:00:00+00:00,Mortágua,4850,Cova De Piedade,241,0.0,home,90,Campo da Gandarada (Mortágua)
+2016,3rd Round,6,212815,2016-10-16T14:00:00+00:00,Cova De Piedade,241,Mortágua,4850,1.0,away,90,Campo da Gandarada (Mortágua)
+2016,3rd Round,6,212816,2016-10-16T14:00:00+00:00,GIL Vicente,762,Casa Pia,4716,1.0,home,120,Estádio Cidade de Barcelos (Barcelos)
+2016,3rd Round,6,212816,2016-10-16T14:00:00+00:00,Casa Pia,4716,GIL Vicente,762,0.0,away,120,Estádio Cidade de Barcelos (Barcelos)
+2016,3rd Round,6,212817,2016-10-16T14:00:00+00:00,Aljustrelense,4722,Os Limianos,4776,1.0,home,90,Estádio Municipal de Aljustrel (Aljustrel)
+2016,3rd Round,6,212817,2016-10-16T14:00:00+00:00,Os Limianos,4776,Aljustrelense,4722,0.0,away,90,Estádio Municipal de Aljustrel (Aljustrel)
+2016,3rd Round,6,212818,2016-10-16T14:00:00+00:00,Cinfães,4737,Benfica Castelo Branco,4731,0.0,home,90,Estádio Municipal Cerveira Pinto (Cinfães)
+2016,3rd Round,6,212818,2016-10-16T14:00:00+00:00,Benfica Castelo Branco,4731,Cinfães,4737,1.0,away,90,Estádio Municipal Cerveira Pinto (Cinfães)
+2016,3rd Round,6,212819,2016-10-16T14:00:00+00:00,Torreense,4799,Academico Viseu,238,1.0,home,90,Campo Manuel Marques (Torres Vedras)
+2016,3rd Round,6,212819,2016-10-16T14:00:00+00:00,Academico Viseu,238,Torreense,4799,0.0,away,90,Campo Manuel Marques (Torres Vedras)
+2016,3rd Round,6,212820,2016-10-16T14:00:00+00:00,Oriental Lisboa,4775,FC Barreirense,4743,1.0,home,90,Campo Engenheiro Carlos Salema (Lisboa)
+2016,3rd Round,6,212820,2016-10-16T14:00:00+00:00,FC Barreirense,4743,Oriental Lisboa,4775,0.0,away,90,Campo Engenheiro Carlos Salema (Lisboa)
+2016,3rd Round,6,212821,2016-10-16T14:00:00+00:00,Varzim,237,Águeda,4817,1.0,home,90,Estádio Varzim Sport Club (Póvoa de Varzim)
+2016,3rd Round,6,212821,2016-10-16T14:00:00+00:00,Águeda,4817,Varzim,237,0.0,away,90,Estádio Varzim Sport Club (Póvoa de Varzim)
+2016,3rd Round,6,212822,2016-10-16T14:00:00+00:00,Merelinense,4768,Leixoes,244,0.0,home,120,Estádio João Soares Vieira (São Pedro de Merelim)
+2016,3rd Round,6,212822,2016-10-16T14:00:00+00:00,Leixoes,244,Merelinense,4768,1.0,away,120,Estádio João Soares Vieira (São Pedro de Merelim)
+2016,3rd Round,6,212823,2016-10-16T14:00:00+00:00,Sanjoanense,4792,Lusitano VRSA,4844,1.0,home,90,Estádio Conde Dias Garcia (São João da Madeira)
+2016,3rd Round,6,212823,2016-10-16T14:00:00+00:00,Lusitano VRSA,4844,Sanjoanense,4792,0.0,away,90,Estádio Conde Dias Garcia (São João da Madeira)
+2016,3rd Round,6,212824,2016-10-16T14:00:00+00:00,Vitória de Sernache,4816,Vilafranquense,4717,0.0,home,90,Estádio Municipal Nuno Álvares Pereira (Cernache do Bonjardim)
+2016,3rd Round,6,212824,2016-10-16T14:00:00+00:00,Vilafranquense,4717,Vitória de Sernache,4816,1.0,away,90,Estádio Municipal Nuno Álvares Pereira (Cernache do Bonjardim)
+2016,3rd Round,6,212825,2016-10-16T15:00:00+00:00,Trofense,4801,Vitoria Setubal,219,0.0,home,120,Estádio do Clube Desportivo Trofense (Trofa)
+2016,3rd Round,6,212825,2016-10-16T15:00:00+00:00,Vitoria Setubal,219,Trofense,4801,1.0,away,120,Estádio do Clube Desportivo Trofense (Trofa)
+2016,3rd Round,6,212826,2016-10-16T15:00:00+00:00,Praiense,4786,Farense,231,1.0,home,90,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2016,3rd Round,6,212826,2016-10-16T15:00:00+00:00,Farense,231,Praiense,4786,0.0,away,90,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2016,3rd Round,6,212827,2016-10-16T18:15:00+00:00,Academica,239,Belenenses,221,1.0,home,90,Estádio EFAPEL (Coimbra)
+2016,3rd Round,6,212827,2016-10-16T18:15:00+00:00,Belenenses,221,Academica,239,0.0,away,90,Estádio EFAPEL (Coimbra)
+2016,2nd Round,7,212828,2016-09-24T13:30:00+00:00,Moimenta da Beira,4887,U. Madeira,763,0.0,home,90,Estadio Municipal Eduardo Requeijo Alves (Moimenta da Beira)
+2016,2nd Round,7,212828,2016-09-24T13:30:00+00:00,U. Madeira,763,Moimenta da Beira,4887,1.0,away,90,Estadio Municipal Eduardo Requeijo Alves (Moimenta da Beira)
+2016,2nd Round,7,212829,2016-09-24T14:00:00+00:00,Viana Alentejo,4895,Cova De Piedade,241,0.0,home,90,Estadio João Sousa Faria e Melo (Viana do Alentejo)
+2016,2nd Round,7,212829,2016-09-24T14:00:00+00:00,Cova De Piedade,241,Viana Alentejo,4895,1.0,away,90,Estadio João Sousa Faria e Melo (Viana do Alentejo)
+2016,2nd Round,7,212830,2016-09-24T14:00:00+00:00,Lusitano GC Évora,4762,Santa Clara,227,0.0,home,90,Campo Estrela (Évora)
+2016,2nd Round,7,212830,2016-09-24T14:00:00+00:00,Santa Clara,227,Lusitano GC Évora,4762,1.0,away,90,Campo Estrela (Évora)
+2016,2nd Round,7,212831,2016-09-24T16:00:00+00:00,São Roque (Açores),4892,Caldas,4733,0.0,home,90,Complexo Desportivo do Calvário (Oliveira de Azeméis)
+2016,2nd Round,7,212831,2016-09-24T16:00:00+00:00,Caldas,4733,São Roque (Açores),4892,1.0,away,90,Complexo Desportivo do Calvário (Oliveira de Azeméis)
+2016,2nd Round,7,212832,2016-09-25T14:00:00+00:00,Sanjoanense,4792,Pedras Salgadas,4780,1.0,home,90,Estádio Conde Dias Garcia (São João da Madeira)
+2016,2nd Round,7,212832,2016-09-25T14:00:00+00:00,Pedras Salgadas,4780,Sanjoanense,4792,0.0,away,90,Estádio Conde Dias Garcia (São João da Madeira)
+2016,2nd Round,7,212833,2016-09-25T14:00:00+00:00,Estarreja,4881,Ponte da Barca,4888,1.0,home,90,Estádio Dr. Tavares da Silva (Estarreja)
+2016,2nd Round,7,212833,2016-09-25T14:00:00+00:00,Ponte da Barca,4888,Estarreja,4881,0.0,away,90,Estádio Dr. Tavares da Silva (Estarreja)
+2016,2nd Round,7,212834,2016-09-25T14:00:00+00:00,Maria da Fonte,4765,Torreense,4799,0.0,home,90,Estádio Moinhos Novos (Póvoa de Lanhoso)
+2016,2nd Round,7,212834,2016-09-25T14:00:00+00:00,Torreense,4799,Maria da Fonte,4765,1.0,away,90,Estádio Moinhos Novos (Póvoa de Lanhoso)
+2016,2nd Round,7,212835,2016-09-25T14:00:00+00:00,Penalva Castelo,4781,Amarante,4725,0.0,home,90,Parque Desportivo de Sant´Ana (Penalva do Castelo)
+2016,2nd Round,7,212835,2016-09-25T14:00:00+00:00,Amarante,4725,Penalva Castelo,4781,1.0,away,90,Parque Desportivo de Sant´Ana (Penalva do Castelo)
+2016,2nd Round,7,212836,2016-09-25T14:00:00+00:00,FC Barreirense,4743,Valadares Gaia,4805,1.0,home,90,Campo da Verderena (Barreiro)
+2016,2nd Round,7,212836,2016-09-25T14:00:00+00:00,Valadares Gaia,4805,FC Barreirense,4743,0.0,away,90,Campo da Verderena (Barreiro)
+2016,2nd Round,7,212837,2016-09-25T14:00:00+00:00,Loures,4759,Oriental Lisboa,4775,0.0,home,90,Campo de Jogos José Silva Faria (Loures)
+2016,2nd Round,7,212837,2016-09-25T14:00:00+00:00,Oriental Lisboa,4775,Loures,4759,1.0,away,90,Campo de Jogos José Silva Faria (Loures)
+2016,2nd Round,7,212838,2016-09-25T14:00:00+00:00,Atlético Arcos,4825,Gafanha,4748,0.0,home,90,Estádio Municipal da Coutada (Arcos de Valdevez)
+2016,2nd Round,7,212838,2016-09-25T14:00:00+00:00,Gafanha,4748,Atlético Arcos,4825,1.0,away,90,Estádio Municipal da Coutada (Arcos de Valdevez)
+2016,2nd Round,7,212839,2016-09-25T14:00:00+00:00,Alcains,4721,Os Limianos,4776,0.0,home,90,Estádio Trigueiros do Aragão (Alcains)
+2016,2nd Round,7,212839,2016-09-25T14:00:00+00:00,Os Limianos,4776,Alcains,4721,1.0,away,90,Estádio Trigueiros do Aragão (Alcains)
+2016,2nd Round,7,212840,2016-09-25T14:00:00+00:00,Torre de Moncorvo,4893,Cinfães,4737,0.0,home,90,Estádio Engenheiro José Aires (Torre de Moncorvo)
+2016,2nd Round,7,212840,2016-09-25T14:00:00+00:00,Cinfães,4737,Torre de Moncorvo,4893,1.0,away,90,Estádio Engenheiro José Aires (Torre de Moncorvo)
+2016,2nd Round,7,212841,2016-09-25T14:00:00+00:00,Coimbrões,4738,Praiense,4786,0.0,home,90,Parque Silva Matos (Vila Nova de Gaia)
+2016,2nd Round,7,212841,2016-09-25T14:00:00+00:00,Praiense,4786,Coimbrões,4738,1.0,away,90,Parque Silva Matos (Vila Nova de Gaia)
+2016,2nd Round,7,212842,2016-09-25T14:00:00+00:00,Benfica Castelo Branco,4731,Santa Eulália,13163,1.0,home,90,Estádio Municipal Vale do Romeiro (Castelo Branco)
+2016,2nd Round,7,212842,2016-09-25T14:00:00+00:00,Santa Eulália,13163,Benfica Castelo Branco,4731,0.0,away,90,Estádio Municipal Vale do Romeiro (Castelo Branco)
+2016,2nd Round,7,212843,2016-09-25T14:00:00+00:00,Águeda,4817,Sousense,4862,1.0,home,90,Estádio Municipal de Águeda (Águeda)
+2016,2nd Round,7,212843,2016-09-25T14:00:00+00:00,Sousense,4862,Águeda,4817,0.0,away,90,Estádio Municipal de Águeda (Águeda)
+2016,2nd Round,7,212844,2016-09-25T14:00:00+00:00,1º Dezembro,4718,Sporting de Lourel,4891,1.0,home,90,Campo Conde de Sucena (Sintra)
+2016,2nd Round,7,212844,2016-09-25T14:00:00+00:00,Sporting de Lourel,4891,1º Dezembro,4718,0.0,away,90,Campo Conde de Sucena (Sintra)
+2016,2nd Round,7,212845,2016-09-25T14:00:00+00:00,Camacha,4828,Vitória de Sernache,4816,0.0,home,120,Complexo Desportivo da Camacha (Camacha (Ilha da Madeira))
+2016,2nd Round,7,212845,2016-09-25T14:00:00+00:00,Vitória de Sernache,4816,Camacha,4828,1.0,away,120,Complexo Desportivo da Camacha (Camacha (Ilha da Madeira))
+2016,2nd Round,7,212846,2016-09-25T14:00:00+00:00,Armacenenses,4729,Aljustrelense,4722,0.0,home,90,Estádio Municipal De Armação De Pêra (Silves)
+2016,2nd Round,7,212846,2016-09-25T14:00:00+00:00,Aljustrelense,4722,Armacenenses,4729,1.0,away,90,Estádio Municipal De Armação De Pêra (Silves)
+2016,2nd Round,7,212847,2016-09-25T14:00:00+00:00,Beneditense,4730,Santa Iria,4793,0.0,home,90,Parque Jogos Fonte da Senhora (Benedita)
+2016,2nd Round,7,212847,2016-09-25T14:00:00+00:00,Santa Iria,4793,Beneditense,4730,1.0,away,90,Parque Jogos Fonte da Senhora (Benedita)
+2016,2nd Round,7,212848,2016-09-25T14:00:00+00:00,Alcanenense,4820,Sendim,4860,1.0,home,90,Estádio Joaquim Maria Batista (Alcanena)
+2016,2nd Round,7,212848,2016-09-25T14:00:00+00:00,Sendim,4860,Alcanenense,4820,0.0,away,90,Estádio Joaquim Maria Batista (Alcanena)
+2016,2nd Round,7,212849,2016-09-25T14:00:00+00:00,Trofense,4801,Beira-Mar,4661,1.0,home,90,Estádio do Clube Desportivo Trofense (Trofa)
+2016,2nd Round,7,212849,2016-09-25T14:00:00+00:00,Beira-Mar,4661,Trofense,4801,0.0,away,90,Estádio do Clube Desportivo Trofense (Trofa)
+2016,2nd Round,7,212850,2016-09-25T14:00:00+00:00,Barrosas,4874,Oliveirense,233,0.0,home,90,Campo CRPP Barrosas (Barrosas)
+2016,2nd Round,7,212850,2016-09-25T14:00:00+00:00,Oliveirense,233,Barrosas,4874,1.0,away,90,Campo CRPP Barrosas (Barrosas)
+2016,2nd Round,7,212851,2016-09-25T14:00:00+00:00,Lusitano VRSA,4844,Fabril Barreiro,4882,1.0,home,90,Complexo Desportivo de VRSA (Vila Real de Santo António)
+2016,2nd Round,7,212851,2016-09-25T14:00:00+00:00,Fabril Barreiro,4882,Lusitano VRSA,4844,0.0,away,90,Complexo Desportivo de VRSA (Vila Real de Santo António)
+2016,2nd Round,7,212852,2016-09-25T14:00:00+00:00,Gafetense,4749,Academico Viseu,238,0.0,home,90,Estadio Armando Pequito (Gafete)
+2016,2nd Round,7,212852,2016-09-25T14:00:00+00:00,Academico Viseu,238,Gafetense,4749,1.0,away,90,Estadio Armando Pequito (Gafete)
+2016,2nd Round,7,212853,2016-09-25T14:00:00+00:00,Joane,4754,SC Covilha,236,0.0,home,90,Estádio de Barreiros (Joane)
+2016,2nd Round,7,212853,2016-09-25T14:00:00+00:00,SC Covilha,236,Joane,4754,1.0,away,90,Estádio de Barreiros (Joane)
+2016,2nd Round,7,212854,2016-09-25T14:00:00+00:00,Gouveia,4751,Academica,239,0.0,home,90,Estádio Municipal do Farvão (Gouveia)
+2016,2nd Round,7,212854,2016-09-25T14:00:00+00:00,Academica,239,Gouveia,4751,1.0,away,90,Estádio Municipal do Farvão (Gouveia)
+2016,2nd Round,7,212855,2016-09-25T14:00:00+00:00,Oliveirense,233,Penafiel,235,0.0,home,90,Estádio Carlos Osório (Oliveira de Azeméis)
+2016,2nd Round,7,212855,2016-09-25T14:00:00+00:00,Penafiel,235,Oliveirense,233,1.0,away,90,Estádio Carlos Osório (Oliveira de Azeméis)
+2016,2nd Round,7,212856,2016-09-25T14:00:00+00:00,Cerva,4879,Freamunde,808,0.0,home,90,Estádio Municipal de Mondim de Basto (Mondim de Basto)
+2016,2nd Round,7,212856,2016-09-25T14:00:00+00:00,Freamunde,808,Cerva,4879,1.0,away,90,Estádio Municipal de Mondim de Basto (Mondim de Basto)
+2016,2nd Round,7,212857,2016-09-25T14:00:00+00:00,Mosteirense,4851,Famalicao,242,0.0,home,90,Campo de Jogos da Basteira (Mosteiros)
+2016,2nd Round,7,212857,2016-09-25T14:00:00+00:00,Famalicao,242,Mosteirense,4851,1.0,away,90,Campo de Jogos da Basteira (Mosteiros)
+2016,2nd Round,7,212858,2016-09-25T14:00:00+00:00,Pedras Rubras,4779,Leixoes,244,0.0,home,90,Estádio Municipal de Pedras Rubras (Pedras Rubras)
+2016,2nd Round,7,212858,2016-09-25T14:00:00+00:00,Leixoes,244,Pedras Rubras,4779,1.0,away,90,Estádio Municipal de Pedras Rubras (Pedras Rubras)
+2016,2nd Round,7,212859,2016-09-25T14:00:00+00:00,Anadia,4727,Varzim,237,0.0,home,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira (Anadia)
+2016,2nd Round,7,212859,2016-09-25T14:00:00+00:00,Varzim,237,Anadia,4727,1.0,away,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira (Anadia)
+2016,2nd Round,7,212860,2016-09-25T14:00:00+00:00,Almancilense,4723,Merelinense,4768,0.0,home,90,Municipal de Almancil (Almancil)
+2016,2nd Round,7,212860,2016-09-25T14:00:00+00:00,Merelinense,4768,Almancilense,4723,1.0,away,90,Municipal de Almancil (Almancil)
+2016,2nd Round,7,212861,2016-09-25T14:00:00+00:00,Fátima,4746,Pampilhosa,4777,1.0,home,90,Estádio Municipal de Fátima (Fátima)
+2016,2nd Round,7,212861,2016-09-25T14:00:00+00:00,Pampilhosa,4777,Fátima,4746,0.0,away,90,Estádio Municipal de Fátima (Fátima)
+2016,2nd Round,7,212862,2016-09-25T14:00:00+00:00,Casa Pia,4716,Pinhalnovense,4783,1.0,home,90,Estádio Pina Manique (Lisboa)
+2016,2nd Round,7,212862,2016-09-25T14:00:00+00:00,Pinhalnovense,4783,Casa Pia,4716,0.0,away,90,Estádio Pina Manique (Lisboa)
+2016,2nd Round,7,212863,2016-09-25T14:00:00+00:00,Sertanense,4794,Lusitano FCV,4761,1.0,home,90,Campo de Jogos Dr. Marques dos Santos (Sertã)
+2016,2nd Round,7,212863,2016-09-25T14:00:00+00:00,Lusitano FCV,4761,Sertanense,4794,0.0,away,90,Campo de Jogos Dr. Marques dos Santos (Sertã)
+2016,2nd Round,7,212864,2016-09-25T14:00:00+00:00,Ginásio de Alcobaça,4885,Vizela,810,0.0,home,90,Estádio Municipal de Alcobaça (Alcobaça)
+2016,2nd Round,7,212864,2016-09-25T14:00:00+00:00,Vizela,810,Ginásio de Alcobaça,4885,1.0,away,90,Estádio Municipal de Alcobaça (Alcobaça)
+2016,2nd Round,7,212865,2016-09-25T14:00:00+00:00,Naval 1º de Maio,4664,Fafe,809,1.0,home,90,Estádio Municipal José Bento Pessoa (Figueira da Foz)
+2016,2nd Round,7,212865,2016-09-25T14:00:00+00:00,Fafe,809,Naval 1º de Maio,4664,0.0,away,90,Estádio Municipal José Bento Pessoa (Figueira da Foz)
+2016,2nd Round,7,212866,2016-09-25T14:00:00+00:00,Moura,4771,Aves,220,0.0,home,90,Estádio do Moura Atlético Clube (Moura)
+2016,2nd Round,7,212866,2016-09-25T14:00:00+00:00,Aves,220,Moura,4771,1.0,away,90,Estádio do Moura Atlético Clube (Moura)
+2016,2nd Round,7,212867,2016-09-25T14:00:00+00:00,União de Leiria,4662,Portimonense,216,1.0,home,90,Campo da Mata Santa Eufémia (Leiria)
+2016,2nd Round,7,212867,2016-09-25T14:00:00+00:00,Portimonense,216,União de Leiria,4662,0.0,away,90,Campo da Mata Santa Eufémia (Leiria)
+2016,2nd Round,7,212868,2016-09-25T14:00:00+00:00,Real,10149,AR São Martinho,4720,1.0,home,90,Estádio do Real SC (Queluz)
+2016,2nd Round,7,212868,2016-09-25T14:00:00+00:00,AR São Martinho,4720,Real,10149,0.0,away,90,Estádio do Real SC (Queluz)
+2016,2nd Round,7,212869,2016-09-25T14:00:00+00:00,Vilafranquense,4717,Vilaverdense,4814,1.0,home,90,Campo do Cevadeiro (Vila Franca de Xira)
+2016,2nd Round,7,212869,2016-09-25T14:00:00+00:00,Vilaverdense,4814,Vilafranquense,4717,0.0,away,90,Campo do Cevadeiro (Vila Franca de Xira)
+2016,2nd Round,7,212870,2016-09-25T15:00:00+00:00,Angrense,4728,Farense,231,0.0,home,90,"Estadio Municipal de Angra do Heroismo (Angra do Heroísmo (Ilha Terceira, Açores))"
+2016,2nd Round,7,212870,2016-09-25T15:00:00+00:00,Farense,231,Angrense,4728,1.0,away,90,"Estadio Municipal de Angra do Heroismo (Angra do Heroísmo (Ilha Terceira, Açores))"
+2016,2nd Round,7,212871,2016-09-25T15:00:00+00:00,Gavionenses,4884,Mortágua,4850,0.0,home,90,Estádio do Salgueirinho (Gavião)
+2016,2nd Round,7,212871,2016-09-25T15:00:00+00:00,Mortágua,4850,Gavionenses,4884,1.0,away,90,Estádio do Salgueirinho (Gavião)
+2016,2nd Round,7,212872,2016-09-25T15:00:00+00:00,Sacavenense,4791,Olhanense,807,0.0,home,90,Campo do Sacavenense (Sacavém)
+2016,2nd Round,7,212872,2016-09-25T15:00:00+00:00,Olhanense,807,Sacavenense,4791,1.0,away,90,Campo do Sacavenense (Sacavém)
+2016,2nd Round,7,212873,2016-09-25T15:00:00+00:00,Rabo Peixe,4787,GIL Vicente,762,0.0,home,90,Campo Municipal da Ribeira Grande (Ribeira Grande)
+2016,2nd Round,7,212873,2016-09-25T15:00:00+00:00,GIL Vicente,762,Rabo Peixe,4787,1.0,away,90,Campo Municipal da Ribeira Grande (Ribeira Grande)
+2017,Final,1,212592,2018-05-20T16:15:00+00:00,Aves,220,Sporting CP,228,1.0,home,90,"Estádio Nacional (Jamor, Oeiras)"
+2017,Final,1,212592,2018-05-20T16:15:00+00:00,Sporting CP,228,Aves,220,0.0,away,90,"Estádio Nacional (Jamor, Oeiras)"
+2017,Semi-finals,2,212593,2018-02-07T20:15:00+00:00,FC Porto,212,Sporting CP,228,1.0,home,90,Estádio Do Dragão (Porto)
+2017,Semi-finals,2,212593,2018-02-07T20:15:00+00:00,Sporting CP,228,FC Porto,212,0.0,away,90,Estádio Do Dragão (Porto)
+2017,Semi-finals,2,212594,2018-04-18T19:30:00+00:00,Sporting CP,228,FC Porto,212,1.0,home,120,Estádio José Alvalade (Lisboa)
+2017,Semi-finals,2,212594,2018-04-18T19:30:00+00:00,FC Porto,212,Sporting CP,228,0.0,away,120,Estádio José Alvalade (Lisboa)
+2017,Semi-finals,2,212595,2018-02-28T20:15:00+00:00,Aves,220,Caldas,4733,1.0,home,90,Estádio Clube Desportivo das Aves (Vila das Aves)
+2017,Semi-finals,2,212595,2018-02-28T20:15:00+00:00,Caldas,4733,Aves,220,0.0,away,90,Estádio Clube Desportivo das Aves (Vila das Aves)
+2017,Semi-finals,2,212596,2018-04-18T17:30:00+00:00,Caldas,4733,Aves,220,0.0,home,120,Campo da Mata (Caldas da Rainha)
+2017,Semi-finals,2,212596,2018-04-18T17:30:00+00:00,Aves,220,Caldas,4733,1.0,away,120,Campo da Mata (Caldas da Rainha)
+2017,Quarter-finals,3,212597,2018-01-10T18:00:00+00:00,Caldas,4733,Farense,231,1.0,home,120,Campo da Mata (Caldas da Rainha)
+2017,Quarter-finals,3,212597,2018-01-10T18:00:00+00:00,Farense,231,Caldas,4733,0.0,away,120,Campo da Mata (Caldas da Rainha)
+2017,Quarter-finals,3,212598,2018-01-10T19:00:00+00:00,Rio Ave,226,Aves,220,0.0,home,120,Estádio do Rio Ave Futebol Clube (Vila do Conde)
+2017,Quarter-finals,3,212598,2018-01-10T19:00:00+00:00,Aves,220,Rio Ave,226,1.0,away,120,Estádio do Rio Ave Futebol Clube (Vila do Conde)
+2017,Quarter-finals,3,212599,2018-01-10T20:30:00+00:00,Cova De Piedade,241,Sporting CP,228,0.0,home,90,Estádio do Bonfim (Setúbal)
+2017,Quarter-finals,3,212599,2018-01-10T20:30:00+00:00,Sporting CP,228,Cova De Piedade,241,1.0,away,90,Estádio do Bonfim (Setúbal)
+2017,Quarter-finals,3,212600,2018-01-11T20:30:00+00:00,Moreirense,215,FC Porto,212,0.0,home,90,Parque Desportivo Comendador Joaquim de Almeida Freitas (Moreira de Cónegos)
+2017,Quarter-finals,3,212600,2018-01-11T20:30:00+00:00,FC Porto,212,Moreirense,215,1.0,away,90,Parque Desportivo Comendador Joaquim de Almeida Freitas (Moreira de Cónegos)
+2017,4th Round,5,212609,2017-11-16T20:30:00+00:00,Sporting CP,228,Famalicao,242,1.0,home,90,Estádio José Alvalade (Lisboa)
+2017,4th Round,5,212609,2017-11-16T20:30:00+00:00,Famalicao,242,Sporting CP,228,0.0,away,90,Estádio José Alvalade (Lisboa)
+2017,4th Round,5,212610,2017-11-17T20:30:00+00:00,FC Porto,212,Portimonense,216,1.0,home,90,Estádio Do Dragão (Porto)
+2017,4th Round,5,212610,2017-11-17T20:30:00+00:00,Portimonense,216,FC Porto,212,0.0,away,90,Estádio Do Dragão (Porto)
+2017,4th Round,5,212611,2017-11-18T18:15:00+00:00,Benfica,211,Vitoria Setubal,219,1.0,home,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2017,4th Round,5,212611,2017-11-18T18:15:00+00:00,Vitoria Setubal,219,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2017,4th Round,5,212612,2017-11-18T20:30:00+00:00,Rio Ave,226,SC Braga,217,1.0,home,90,Estádio do Rio Ave Futebol Clube (Vila do Conde)
+2017,4th Round,5,212612,2017-11-18T20:30:00+00:00,SC Braga,217,Rio Ave,226,0.0,away,90,Estádio do Rio Ave Futebol Clube (Vila do Conde)
+2017,4th Round,5,212613,2017-11-19T14:30:00+00:00,Oliveirense,233,Maritimo,214,0.0,home,120,Estádio de Ribes (Santa Maria de Oliveira)
+2017,4th Round,5,212613,2017-11-19T14:30:00+00:00,Maritimo,214,Oliveirense,233,1.0,away,120,Estádio de Ribes (Santa Maria de Oliveira)
+2017,4th Round,5,212614,2017-11-19T15:00:00+00:00,União de Leiria,4662,Aves,220,0.0,home,90,Estádio Dr. Magalhães Pessoa (Leiria)
+2017,4th Round,5,212614,2017-11-19T15:00:00+00:00,Aves,220,União de Leiria,4662,1.0,away,90,Estádio Dr. Magalhães Pessoa (Leiria)
+2017,4th Round,5,212615,2017-11-19T15:00:00+00:00,Academica,239,Nacional,225,1.0,home,90,Estádio EFAPEL (Coimbra)
+2017,4th Round,5,212615,2017-11-19T15:00:00+00:00,Nacional,225,Academica,239,0.0,away,90,Estádio EFAPEL (Coimbra)
+2017,4th Round,5,212616,2017-11-19T15:00:00+00:00,U. Madeira,763,Freamunde,808,1.0,home,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2017,4th Round,5,212616,2017-11-19T15:00:00+00:00,Freamunde,808,U. Madeira,763,0.0,away,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2017,4th Round,5,212617,2017-11-19T15:00:00+00:00,Vizela,810,Vilaverdense,4814,0.0,home,120,Estádio Do Vizela (Caldas de Vizela)
+2017,4th Round,5,212617,2017-11-19T15:00:00+00:00,Vilaverdense,4814,Vizela,810,1.0,away,120,Estádio Do Vizela (Caldas de Vizela)
+2017,4th Round,5,212618,2017-11-19T15:00:00+00:00,Caldas,4733,Arouca,240,1.0,home,120,Campo da Mata (Caldas da Rainha)
+2017,4th Round,5,212618,2017-11-19T15:00:00+00:00,Arouca,240,Caldas,4733,0.0,away,120,Campo da Mata (Caldas da Rainha)
+2017,4th Round,5,212619,2017-11-19T15:00:00+00:00,Farense,231,Leixoes,244,1.0,home,90,Estádio de São Lúis (Faro)
+2017,4th Round,5,212619,2017-11-19T15:00:00+00:00,Leixoes,244,Farense,231,0.0,away,90,Estádio de São Lúis (Faro)
+2017,4th Round,5,212620,2017-11-19T15:00:00+00:00,Moreirense,215,Felgueiras 1932,4744,1.0,home,90,Parque Desportivo Comendador Joaquim de Almeida Freitas (Moreira de Cónegos)
+2017,4th Round,5,212620,2017-11-19T15:00:00+00:00,Felgueiras 1932,4744,Moreirense,215,0.0,away,90,Parque Desportivo Comendador Joaquim de Almeida Freitas (Moreira de Cónegos)
+2017,4th Round,5,212621,2017-11-19T16:00:00+00:00,Santa Clara,227,Chaves,223,1.0,home,90,"Estádio de São Miguel (Ponta Delgada, Ilha de São Miguel, Açores)"
+2017,4th Round,5,212621,2017-11-19T16:00:00+00:00,Chaves,223,Santa Clara,227,0.0,away,90,"Estádio de São Miguel (Ponta Delgada, Ilha de São Miguel, Açores)"
+2017,4th Round,5,212622,2017-11-19T16:00:00+00:00,Ideal,4753,Cova De Piedade,241,0.0,home,90,Campo Municipal da Ribeira Grande (Ribeira Grande)
+2017,4th Round,5,212622,2017-11-19T16:00:00+00:00,Cova De Piedade,241,Ideal,4753,1.0,away,90,Campo Municipal da Ribeira Grande (Ribeira Grande)
+2017,4th Round,5,212623,2017-11-19T16:00:00+00:00,Praiense,4786,Vilafranquense,4717,1.0,home,120,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2017,4th Round,5,212623,2017-11-19T16:00:00+00:00,Vilafranquense,4717,Praiense,4786,0.0,away,120,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2017,4th Round,5,212624,2017-11-19T20:15:00+00:00,Guimaraes,224,Feirense,213,1.0,home,90,Estádio Dom Afonso Henriques (Guimarães)
+2017,4th Round,5,212624,2017-11-19T20:15:00+00:00,Feirense,213,Guimaraes,224,0.0,away,90,Estádio Dom Afonso Henriques (Guimarães)
+2017,3rd Round,6,212625,2017-10-12T19:15:00+00:00,Oleiros,4772,Sporting CP,228,0.0,home,90,Estádio Municipal de Oleiros (Oleiros)
+2017,3rd Round,6,212625,2017-10-12T19:15:00+00:00,Sporting CP,228,Oleiros,4772,1.0,away,90,Estádio Municipal de Oleiros (Oleiros)
+2017,3rd Round,6,212626,2017-10-13T19:15:00+00:00,Lusitano GC Évora,4762,FC Porto,212,0.0,home,90,Estádio do Restelo (Lisboa)
+2017,3rd Round,6,212626,2017-10-13T19:15:00+00:00,FC Porto,212,Lusitano GC Évora,4762,1.0,away,90,Estádio do Restelo (Lisboa)
+2017,3rd Round,6,212627,2017-10-14T14:00:00+00:00,Vasco da Gama,4818,Guimaraes,224,0.0,home,90,Estádio Municipal de Vidigueira (Vidigueira)
+2017,3rd Round,6,212627,2017-10-14T14:00:00+00:00,Guimaraes,224,Vasco da Gama,4818,1.0,away,90,Estádio Municipal de Vidigueira (Vidigueira)
+2017,3rd Round,6,212628,2017-10-14T14:00:00+00:00,Torcatense,4798,Maritimo,214,0.0,home,90,Parque Desportivo do Arnado (São Torcato)
+2017,3rd Round,6,212628,2017-10-14T14:00:00+00:00,Maritimo,214,Torcatense,4798,1.0,away,90,Parque Desportivo do Arnado (São Torcato)
+2017,3rd Round,6,212629,2017-10-14T15:00:00+00:00,Cova De Piedade,241,Anadia,4727,1.0,home,120,Estádio Municipal José Martins Vieira (Almada)
+2017,3rd Round,6,212629,2017-10-14T15:00:00+00:00,Anadia,4727,Cova De Piedade,241,0.0,away,120,Estádio Municipal José Martins Vieira (Almada)
+2017,3rd Round,6,212630,2017-10-14T17:00:00+00:00,Academico Viseu,238,Feirense,213,0.0,home,120,Estádio Municipal do Fontelo (Viseu)
+2017,3rd Round,6,212630,2017-10-14T17:00:00+00:00,Feirense,213,Academico Viseu,238,1.0,away,120,Estádio Municipal do Fontelo (Viseu)
+2017,3rd Round,6,212631,2017-10-14T17:00:00+00:00,AR São Martinho,4720,SC Braga,217,0.0,home,90,Estádio Comendador Abílio Ferreira de Oliveira (São Martinho do Campo - Santo Tirso)
+2017,3rd Round,6,212631,2017-10-14T17:00:00+00:00,SC Braga,217,AR São Martinho,4720,1.0,away,90,Estádio Comendador Abílio Ferreira de Oliveira (São Martinho do Campo - Santo Tirso)
+2017,3rd Round,6,212632,2017-10-14T18:00:00+00:00,Olhanense,807,Benfica,211,0.0,home,90,Estádio José Arcanjo (Olhão)
+2017,3rd Round,6,212632,2017-10-14T18:00:00+00:00,Benfica,211,Olhanense,807,1.0,away,90,Estádio José Arcanjo (Olhão)
+2017,3rd Round,6,212633,2017-10-15T11:00:00+00:00,Operário,4852,Felgueiras 1932,4744,0.0,home,90,"Estádio João Gualberto Borges Arruda (Lagoa (Ilha da São Miguel, Açores))"
+2017,3rd Round,6,212633,2017-10-15T11:00:00+00:00,Felgueiras 1932,4744,Operário,4852,1.0,away,90,"Estádio João Gualberto Borges Arruda (Lagoa (Ilha da São Miguel, Açores))"
+2017,3rd Round,6,212634,2017-10-15T14:00:00+00:00,Vilaverdense,4814,Boavista,222,1.0,home,90,Campo Cruz Do Reguengo (Vila Verde)
+2017,3rd Round,6,212634,2017-10-15T14:00:00+00:00,Boavista,222,Vilaverdense,4814,0.0,away,90,Campo Cruz Do Reguengo (Vila Verde)
+2017,3rd Round,6,212635,2017-10-15T14:00:00+00:00,Moura,4771,Portimonense,216,0.0,home,120,Estádio do Moura Atlético Clube (Moura)
+2017,3rd Round,6,212635,2017-10-15T14:00:00+00:00,Portimonense,216,Moura,4771,1.0,away,120,Estádio do Moura Atlético Clube (Moura)
+2017,3rd Round,6,212636,2017-10-15T14:00:00+00:00,Farense,231,Estoril,230,1.0,home,90,Estádio de São Lúis (Faro)
+2017,3rd Round,6,212636,2017-10-15T14:00:00+00:00,Estoril,230,Farense,231,0.0,away,90,Estádio de São Lúis (Faro)
+2017,3rd Round,6,212637,2017-10-15T14:00:00+00:00,Vila Real,4812,Aves,220,0.0,home,90,Complexo Desportivo Monte Da Forca (Vila Real)
+2017,3rd Round,6,212637,2017-10-15T14:00:00+00:00,Aves,220,Vila Real,4812,1.0,away,90,Complexo Desportivo Monte Da Forca (Vila Real)
+2017,3rd Round,6,212638,2017-10-15T14:00:00+00:00,Santa Clara,227,Belenenses,221,1.0,home,90,"Estádio de São Miguel (Ponta Delgada, Ilha de São Miguel, Açores)"
+2017,3rd Round,6,212638,2017-10-15T14:00:00+00:00,Belenenses,221,Santa Clara,227,0.0,away,90,"Estádio de São Miguel (Ponta Delgada, Ilha de São Miguel, Açores)"
+2017,3rd Round,6,212639,2017-10-15T14:00:00+00:00,Canelas 2010,4829,Moreirense,215,0.0,home,90,Estádio do Canelas Gaia Futebol Clube (Vila Nova de Gaia)
+2017,3rd Round,6,212639,2017-10-15T14:00:00+00:00,Moreirense,215,Canelas 2010,4829,1.0,away,90,Estádio do Canelas Gaia Futebol Clube (Vila Nova de Gaia)
+2017,3rd Round,6,212640,2017-10-15T14:00:00+00:00,Fátima,4746,Chaves,223,0.0,home,90,Estádio Municipal de Fátima (Fátima)
+2017,3rd Round,6,212640,2017-10-15T14:00:00+00:00,Chaves,223,Fátima,4746,1.0,away,90,Estádio Municipal de Fátima (Fátima)
+2017,3rd Round,6,212641,2017-10-15T14:00:00+00:00,Leixoes,244,Tondela,218,1.0,home,120,Estádio do Mar (Matosinhos)
+2017,3rd Round,6,212641,2017-10-15T14:00:00+00:00,Tondela,218,Leixoes,244,0.0,away,120,Estádio do Mar (Matosinhos)
+2017,3rd Round,6,212642,2017-10-15T14:00:00+00:00,Pinhalnovense,4783,Vitoria Setubal,219,0.0,home,120,Campo Santos Jorge (Pinhal Novo)
+2017,3rd Round,6,212642,2017-10-15T14:00:00+00:00,Vitoria Setubal,219,Pinhalnovense,4783,1.0,away,120,Campo Santos Jorge (Pinhal Novo)
+2017,3rd Round,6,212643,2017-10-15T14:00:00+00:00,Sanjoanense,4792,Rio Ave,226,0.0,home,90,Estádio Conde Dias Garcia (São João da Madeira)
+2017,3rd Round,6,212643,2017-10-15T14:00:00+00:00,Rio Ave,226,Sanjoanense,4792,1.0,away,90,Estádio Conde Dias Garcia (São João da Madeira)
+2017,3rd Round,6,212644,2017-10-15T14:00:00+00:00,U. Madeira,763,Oriental Lisboa,4775,1.0,home,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2017,3rd Round,6,212644,2017-10-15T14:00:00+00:00,Oriental Lisboa,4775,U. Madeira,763,0.0,away,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2017,3rd Round,6,212645,2017-10-15T14:00:00+00:00,Vilafranquense,4717,Casa Pia,4716,1.0,home,120,Campo do Cevadeiro (Vila Franca de Xira)
+2017,3rd Round,6,212645,2017-10-15T14:00:00+00:00,Casa Pia,4716,Vilafranquense,4717,0.0,away,120,Campo do Cevadeiro (Vila Franca de Xira)
+2017,3rd Round,6,212646,2017-10-15T14:00:00+00:00,Alta Lisboa,4823,Famalicao,242,0.0,home,90,Complexo Desportivo Alto Do Lumiar (Lumiar)
+2017,3rd Round,6,212646,2017-10-15T14:00:00+00:00,Famalicao,242,Alta Lisboa,4823,1.0,away,90,Complexo Desportivo Alto Do Lumiar (Lumiar)
+2017,3rd Round,6,212647,2017-10-15T14:00:00+00:00,Praiense,4786,Alcains,4721,1.0,home,90,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2017,3rd Round,6,212647,2017-10-15T14:00:00+00:00,Alcains,4721,Praiense,4786,0.0,away,90,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2017,3rd Round,6,212648,2017-10-15T14:00:00+00:00,Gafanha,4748,Freamunde,808,0.0,home,120,Complexo Desportivo da Gafanha da Nazaré (Gafanha da Nazaré)
+2017,3rd Round,6,212648,2017-10-15T14:00:00+00:00,Freamunde,808,Gafanha,4748,1.0,away,120,Complexo Desportivo da Gafanha da Nazaré (Gafanha da Nazaré)
+2017,3rd Round,6,212649,2017-10-15T14:00:00+00:00,Arouca,240,Coruchense,4833,1.0,home,90,Estádio Municipal de Arouca (Arouca)
+2017,3rd Round,6,212649,2017-10-15T14:00:00+00:00,Coruchense,4833,Arouca,240,0.0,away,90,Estádio Municipal de Arouca (Arouca)
+2017,3rd Round,6,212650,2017-10-15T14:00:00+00:00,Oliveirense,233,Torreense,4799,1.0,home,120,Estádio de Ribes (Santa Maria de Oliveira)
+2017,3rd Round,6,212650,2017-10-15T14:00:00+00:00,Torreense,4799,Oliveirense,233,0.0,away,120,Estádio de Ribes (Santa Maria de Oliveira)
+2017,3rd Round,6,212651,2017-10-15T14:00:00+00:00,União de Leiria,4662,Espinho,4742,1.0,home,90,Estádio Dr. Magalhães Pessoa (Leiria)
+2017,3rd Round,6,212651,2017-10-15T14:00:00+00:00,Espinho,4742,União de Leiria,4662,0.0,away,90,Estádio Dr. Magalhães Pessoa (Leiria)
+2017,3rd Round,6,212652,2017-10-15T14:00:00+00:00,Cesarense,4735,Caldas,4733,0.0,home,90,Estádio do Mergulhão (Cesar)
+2017,3rd Round,6,212652,2017-10-15T14:00:00+00:00,Caldas,4733,Cesarense,4735,1.0,away,90,Estádio do Mergulhão (Cesar)
+2017,3rd Round,6,212653,2017-10-15T14:00:00+00:00,Vizela,810,Sintrense,4796,1.0,home,90,Estádio Do Vizela (Caldas de Vizela)
+2017,3rd Round,6,212653,2017-10-15T14:00:00+00:00,Sintrense,4796,Vizela,810,0.0,away,90,Estádio Do Vizela (Caldas de Vizela)
+2017,3rd Round,6,212654,2017-10-15T14:00:00+00:00,Nacional,225,Merelinense,4768,1.0,home,90,Estádio da Madeira (Funchal (Ilha da Madeira))
+2017,3rd Round,6,212654,2017-10-15T14:00:00+00:00,Merelinense,4768,Nacional,225,0.0,away,90,Estádio da Madeira (Funchal (Ilha da Madeira))
+2017,3rd Round,6,212655,2017-10-15T14:00:00+00:00,Amarante,4725,Ideal,4753,0.0,home,120,Estádio Municipal de Amarante (Amarante)
+2017,3rd Round,6,212655,2017-10-15T14:00:00+00:00,Ideal,4753,Amarante,4725,1.0,away,120,Estádio Municipal de Amarante (Amarante)
+2017,3rd Round,6,212656,2017-10-15T18:00:00+00:00,Academica,239,Pacos Ferreira,234,1.0,home,120,Estádio EFAPEL (Coimbra)
+2017,3rd Round,6,212656,2017-10-15T18:00:00+00:00,Pacos Ferreira,234,Academica,239,0.0,away,120,Estádio EFAPEL (Coimbra)
+2017,2nd Round,7,212657,2017-09-23T14:00:00+00:00,Gondomar,4750,Santa Clara,227,0.0,home,90,Estádio de São Miguel (Gondomar)
+2017,2nd Round,7,212657,2017-09-23T14:00:00+00:00,Santa Clara,227,Gondomar,4750,1.0,away,90,Estádio de São Miguel (Gondomar)
+2017,2nd Round,7,212658,2017-09-23T14:00:00+00:00,Mirandela,4769,Academica,239,0.0,home,90,Estádio São Sebastião (Mirandela)
+2017,2nd Round,7,212658,2017-09-23T14:00:00+00:00,Academica,239,Mirandela,4769,1.0,away,90,Estádio São Sebastião (Mirandela)
+2017,2nd Round,7,212659,2017-09-23T18:00:00+00:00,Ideal,4753,Almodôvar,4822,1.0,home,90,Campo Municipal da Ribeira Grande (Ribeira Grande)
+2017,2nd Round,7,212659,2017-09-23T18:00:00+00:00,Almodôvar,4822,Ideal,4753,0.0,away,90,Campo Municipal da Ribeira Grande (Ribeira Grande)
+2017,2nd Round,7,212660,2017-09-24T10:00:00+00:00,Minas de Argozelo,4846,Cova De Piedade,241,0.0,home,90,Estádio Municipal De Vimioso (Vimioso)
+2017,2nd Round,7,212660,2017-09-24T10:00:00+00:00,Cova De Piedade,241,Minas de Argozelo,4846,1.0,away,90,Estádio Municipal De Vimioso (Vimioso)
+2017,2nd Round,7,212661,2017-09-24T14:00:00+00:00,Vilafranquense,4717,Penafiel,235,1.0,home,90,Campo do Cevadeiro (Vila Franca de Xira)
+2017,2nd Round,7,212661,2017-09-24T14:00:00+00:00,Penafiel,235,Vilafranquense,4717,0.0,away,90,Campo do Cevadeiro (Vila Franca de Xira)
+2017,2nd Round,7,212662,2017-09-24T14:00:00+00:00,Condeixa,4739,Nacional,225,0.0,home,90,Estádio Municipal de Condeixa (Condeixa-a-Nova)
+2017,2nd Round,7,212662,2017-09-24T14:00:00+00:00,Nacional,225,Condeixa,4739,1.0,away,90,Estádio Municipal de Condeixa (Condeixa-a-Nova)
+2017,2nd Round,7,212663,2017-09-24T14:00:00+00:00,Coimbrões,4738,Famalicao,242,0.0,home,90,Parque Silva Matos (Vila Nova de Gaia)
+2017,2nd Round,7,212663,2017-09-24T14:00:00+00:00,Famalicao,242,Coimbrões,4738,1.0,away,90,Parque Silva Matos (Vila Nova de Gaia)
+2017,2nd Round,7,212664,2017-09-24T14:00:00+00:00,Vila Real,4812,Oliveirense,233,1.0,home,90,Complexo Desportivo Monte Da Forca (Vila Real)
+2017,2nd Round,7,212664,2017-09-24T14:00:00+00:00,Oliveirense,233,Vila Real,4812,0.0,away,90,Complexo Desportivo Monte Da Forca (Vila Real)
+2017,2nd Round,7,212665,2017-09-24T14:00:00+00:00,Amarante,4725,Varzim,237,1.0,home,90,Estádio Municipal de Amarante (Amarante)
+2017,2nd Round,7,212665,2017-09-24T14:00:00+00:00,Varzim,237,Amarante,4725,0.0,away,90,Estádio Municipal de Amarante (Amarante)
+2017,2nd Round,7,212666,2017-09-24T14:00:00+00:00,Vizela,810,SC Covilha,236,1.0,home,90,Estádio Do Vizela (Caldas de Vizela)
+2017,2nd Round,7,212666,2017-09-24T14:00:00+00:00,SC Covilha,236,Vizela,810,0.0,away,90,Estádio Do Vizela (Caldas de Vizela)
+2017,2nd Round,7,212667,2017-09-24T14:00:00+00:00,Lusitano FCV,4761,Academico Viseu,238,0.0,home,90,Estádio dos Trambelos (Viseu)
+2017,2nd Round,7,212667,2017-09-24T14:00:00+00:00,Academico Viseu,238,Lusitano FCV,4761,1.0,away,90,Estádio dos Trambelos (Viseu)
+2017,2nd Round,7,212668,2017-09-24T14:00:00+00:00,Moura,4771,GIL Vicente,762,1.0,home,90,Estádio do Moura Atlético Clube (Moura)
+2017,2nd Round,7,212668,2017-09-24T14:00:00+00:00,GIL Vicente,762,Moura,4771,0.0,away,90,Estádio do Moura Atlético Clube (Moura)
+2017,2nd Round,7,212669,2017-09-24T14:00:00+00:00,Merelinense,4768,Real,10149,1.0,home,90,Estádio João Soares Vieira (São Pedro de Merelim)
+2017,2nd Round,7,212669,2017-09-24T14:00:00+00:00,Real,10149,Merelinense,4768,0.0,away,90,Estádio João Soares Vieira (São Pedro de Merelim)
+2017,2nd Round,7,212670,2017-09-24T14:00:00+00:00,Sourense,4861,Leixoes,244,0.0,home,120,Campo Dr. António Coelho Rodrigues (Soure)
+2017,2nd Round,7,212670,2017-09-24T14:00:00+00:00,Leixoes,244,Sourense,4861,1.0,away,120,Campo Dr. António Coelho Rodrigues (Soure)
+2017,2nd Round,7,212671,2017-09-24T14:00:00+00:00,Sertanense,4794,U. Madeira,763,0.0,home,90,Campo de Jogos Dr. Marques dos Santos (Sertã)
+2017,2nd Round,7,212671,2017-09-24T14:00:00+00:00,U. Madeira,763,Sertanense,4794,1.0,away,90,Campo de Jogos Dr. Marques dos Santos (Sertã)
+2017,2nd Round,7,212672,2017-09-24T14:00:00+00:00,Sacavenense,4791,Arouca,240,0.0,home,90,Campo do Sacavenense (Sacavém)
+2017,2nd Round,7,212672,2017-09-24T14:00:00+00:00,Arouca,240,Sacavenense,4791,1.0,away,90,Campo do Sacavenense (Sacavém)
+2017,2nd Round,7,212673,2017-09-24T14:00:00+00:00,Águia FC Vimioso,4866,Vasco da Gama,4818,0.0,home,90,Estádio Municipal De Vimioso (Vimioso)
+2017,2nd Round,7,212673,2017-09-24T14:00:00+00:00,Vasco da Gama,4818,Águia FC Vimioso,4866,1.0,away,90,Estádio Municipal De Vimioso (Vimioso)
+2017,2nd Round,7,212674,2017-09-24T14:00:00+00:00,Caldas,4733,Olímpico do Montijo,4774,1.0,home,90,Campo da Mata (Caldas da Rainha)
+2017,2nd Round,7,212674,2017-09-24T14:00:00+00:00,Olímpico do Montijo,4774,Caldas,4733,0.0,away,90,Campo da Mata (Caldas da Rainha)
+2017,2nd Round,7,212675,2017-09-24T14:00:00+00:00,Pedras Rubras,4779,Anadia,4727,0.0,home,90,Estádio Municipal de Pedras Rubras (Pedras Rubras)
+2017,2nd Round,7,212675,2017-09-24T14:00:00+00:00,Anadia,4727,Pedras Rubras,4779,1.0,away,90,Estádio Municipal de Pedras Rubras (Pedras Rubras)
+2017,2nd Round,7,212676,2017-09-24T14:00:00+00:00,União Idanhense,4802,AR São Martinho,4720,0.0,home,90,Estádio Municipal de Idanha-a-Nova (Idanha-a-Nova (Idanha a Nova))
+2017,2nd Round,7,212676,2017-09-24T14:00:00+00:00,AR São Martinho,4720,União Idanhense,4802,1.0,away,90,Estádio Municipal de Idanha-a-Nova (Idanha-a-Nova (Idanha a Nova))
+2017,2nd Round,7,212677,2017-09-24T14:00:00+00:00,Torcatense,4798,Lusitano VRSA,4844,1.0,home,90,Parque Desportivo do Arnado (São Torcato)
+2017,2nd Round,7,212677,2017-09-24T14:00:00+00:00,Lusitano VRSA,4844,Torcatense,4798,0.0,away,90,Parque Desportivo do Arnado (São Torcato)
+2017,2nd Round,7,212678,2017-09-24T14:00:00+00:00,Felgueiras 1932,4744,Pedras Salgadas,4780,1.0,home,90,Zona Desportiva de Felgueiras (Felgueiras)
+2017,2nd Round,7,212678,2017-09-24T14:00:00+00:00,Pedras Salgadas,4780,Felgueiras 1932,4744,0.0,away,90,Zona Desportiva de Felgueiras (Felgueiras)
+2017,2nd Round,7,212679,2017-09-24T14:00:00+00:00,Cesarense,4735,Águias do Moradal,4867,1.0,home,90,Estádio do Mergulhão (Cesar)
+2017,2nd Round,7,212679,2017-09-24T14:00:00+00:00,Águias do Moradal,4867,Cesarense,4735,0.0,away,90,Estádio do Mergulhão (Cesar)
+2017,2nd Round,7,212680,2017-09-24T14:00:00+00:00,Espinho,4742,Moncarapachense,4847,1.0,home,90,Estádio Comendador Manuel de Oliveira Violas (Espinho)
+2017,2nd Round,7,212680,2017-09-24T14:00:00+00:00,Moncarapachense,4847,Espinho,4742,0.0,away,90,Estádio Comendador Manuel de Oliveira Violas (Espinho)
+2017,2nd Round,7,212681,2017-09-24T14:00:00+00:00,Benfica Castelo Branco,4731,União de Leiria,4662,0.0,home,90,Estádio Municipal Vale do Romeiro (Castelo Branco)
+2017,2nd Round,7,212681,2017-09-24T14:00:00+00:00,União de Leiria,4662,Benfica Castelo Branco,4731,1.0,away,90,Estádio Municipal Vale do Romeiro (Castelo Branco)
+2017,2nd Round,7,212682,2017-09-24T14:00:00+00:00,Trofense,4801,Sintrense,4796,0.0,home,90,Estádio do Clube Desportivo Trofense (Trofa)
+2017,2nd Round,7,212682,2017-09-24T14:00:00+00:00,Sintrense,4796,Trofense,4801,1.0,away,90,Estádio do Clube Desportivo Trofense (Trofa)
+2017,2nd Round,7,212683,2017-09-24T14:00:00+00:00,Freamunde,808,Maria da Fonte,4765,1.0,home,90,Complexo Desportivo do SC Freamunde (Freamunde)
+2017,2nd Round,7,212683,2017-09-24T14:00:00+00:00,Maria da Fonte,4765,Freamunde,808,0.0,away,90,Complexo Desportivo do SC Freamunde (Freamunde)
+2017,2nd Round,7,212684,2017-09-24T14:00:00+00:00,Guadalupe,4842,Operário,4852,0.0,home,90,Campo de Jogos de Guadalupe (Guadalupe-Graciosa (Açores))
+2017,2nd Round,7,212684,2017-09-24T14:00:00+00:00,Operário,4852,Guadalupe,4842,1.0,away,90,Campo de Jogos de Guadalupe (Guadalupe-Graciosa (Açores))
+2017,2nd Round,7,212685,2017-09-24T14:00:00+00:00,Sanjoanense,4792,Crato,4834,1.0,home,90,Estádio Conde Dias Garcia (São João da Madeira)
+2017,2nd Round,7,212685,2017-09-24T14:00:00+00:00,Crato,4834,Sanjoanense,4792,0.0,away,90,Estádio Conde Dias Garcia (São João da Madeira)
+2017,2nd Round,7,212686,2017-09-24T14:00:00+00:00,Canelas 2010,4829,Resende,13162,1.0,home,90,Estádio do Canelas Gaia Futebol Clube (Vila Nova de Gaia)
+2017,2nd Round,7,212686,2017-09-24T14:00:00+00:00,Resende,13162,Canelas 2010,4829,0.0,away,90,Estádio do Canelas Gaia Futebol Clube (Vila Nova de Gaia)
+2017,2nd Round,7,212687,2017-09-24T14:00:00+00:00,Pinhalnovense,4783,Leiria e Marrazes,4843,1.0,home,90,Campo Santos Jorge (Pinhal Novo)
+2017,2nd Round,7,212687,2017-09-24T14:00:00+00:00,Leiria e Marrazes,4843,Pinhalnovense,4783,0.0,away,90,Campo Santos Jorge (Pinhal Novo)
+2017,2nd Round,7,212688,2017-09-24T14:00:00+00:00,Fátima,4746,Eléctrico,4836,1.0,home,120,Estádio Municipal de Fátima (Fátima)
+2017,2nd Round,7,212688,2017-09-24T14:00:00+00:00,Eléctrico,4836,Fátima,4746,0.0,away,120,Estádio Municipal de Fátima (Fátima)
+2017,2nd Round,7,212689,2017-09-24T14:00:00+00:00,Casa Pia,4716,Recreativo Canaviais,4856,1.0,home,90,Estádio Pina Manique (Lisboa)
+2017,2nd Round,7,212689,2017-09-24T14:00:00+00:00,Recreativo Canaviais,4856,Casa Pia,4716,0.0,away,90,Estádio Pina Manique (Lisboa)
+2017,2nd Round,7,212690,2017-09-24T14:00:00+00:00,Mortágua,4850,Torreense,4799,0.0,home,90,Campo da Gandarada (Mortágua)
+2017,2nd Round,7,212690,2017-09-24T14:00:00+00:00,Torreense,4799,Mortágua,4850,1.0,away,90,Campo da Gandarada (Mortágua)
+2017,2nd Round,7,212691,2017-09-24T14:00:00+00:00,Lusitano GC Évora,4762,Pêro Pinheiro,4854,1.0,home,90,Campo Estrela (Évora)
+2017,2nd Round,7,212691,2017-09-24T14:00:00+00:00,Pêro Pinheiro,4854,Lusitano GC Évora,4762,0.0,away,90,Campo Estrela (Évora)
+2017,2nd Round,7,212692,2017-09-24T14:00:00+00:00,Oleiros,4772,Sousense,4862,1.0,home,90,Estádio Municipal de Oleiros (Oleiros)
+2017,2nd Round,7,212692,2017-09-24T14:00:00+00:00,Sousense,4862,Oleiros,4772,0.0,away,90,Estádio Municipal de Oleiros (Oleiros)
+2017,2nd Round,7,212693,2017-09-24T14:00:00+00:00,Lourinhanense,4760,Gafanha,4748,0.0,home,90,Complexo Desportivo da Gafanha da Nazaré (Gafanha da Nazaré)
+2017,2nd Round,7,212693,2017-09-24T14:00:00+00:00,Gafanha,4748,Lourinhanense,4760,1.0,away,90,Complexo Desportivo da Gafanha da Nazaré (Gafanha da Nazaré)
+2017,2nd Round,7,212694,2017-09-24T14:00:00+00:00,Olhanense,807,Lamego,4756,1.0,home,90,Estádio José Arcanjo (Olhão)
+2017,2nd Round,7,212694,2017-09-24T14:00:00+00:00,Lamego,4756,Olhanense,807,0.0,away,90,Estádio José Arcanjo (Olhão)
+2017,2nd Round,7,212695,2017-09-24T14:00:00+00:00,Amora,4726,Farense,231,0.0,home,90,Estádio da Medideira (Amora)
+2017,2nd Round,7,212695,2017-09-24T14:00:00+00:00,Farense,231,Amora,4726,1.0,away,90,Estádio da Medideira (Amora)
+2017,2nd Round,7,212696,2017-09-24T14:00:00+00:00,Alta Lisboa,4823,Salgueiros,4859,1.0,home,90,Complexo Desportivo Alto Do Lumiar (Lumiar)
+2017,2nd Round,7,212696,2017-09-24T14:00:00+00:00,Salgueiros,4859,Alta Lisboa,4823,0.0,away,90,Complexo Desportivo Alto Do Lumiar (Lumiar)
+2017,2nd Round,7,212697,2017-09-24T14:00:00+00:00,Coruchense,4833,Mondinense,4848,1.0,home,90,Estádio Municipal Prof. José Peseiro (Coruche)
+2017,2nd Round,7,212697,2017-09-24T14:00:00+00:00,Mondinense,4848,Coruchense,4833,0.0,away,90,Estádio Municipal Prof. José Peseiro (Coruche)
+2017,2nd Round,7,212698,2017-09-24T14:00:00+00:00,Oliveirense,233,Mafra,245,1.0,home,90,Estádio de Ribes (Santa Maria de Oliveira)
+2017,2nd Round,7,212698,2017-09-24T14:00:00+00:00,Mafra,245,Oliveirense,233,0.0,away,90,Estádio de Ribes (Santa Maria de Oliveira)
+2017,2nd Round,7,212699,2017-09-24T14:00:00+00:00,Bragança,4827,Alcains,4721,0.0,home,120,Estádio Municipal de Bragança (Bragança)
+2017,2nd Round,7,212699,2017-09-24T14:00:00+00:00,Alcains,4721,Bragança,4827,1.0,away,120,Estádio Municipal de Bragança (Bragança)
+2017,2nd Round,7,212700,2017-09-24T14:00:00+00:00,Praiense,4786,Louletano,4758,1.0,home,90,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2017,2nd Round,7,212700,2017-09-24T14:00:00+00:00,Louletano,4758,Praiense,4786,0.0,away,90,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2017,2nd Round,7,212701,2017-09-24T14:00:00+00:00,Marinhense,4845,Oriental Lisboa,4775,0.0,home,90,Estádio Municipal da Marinha Grande (Marinha Grande)
+2017,2nd Round,7,212701,2017-09-24T14:00:00+00:00,Oriental Lisboa,4775,Marinhense,4845,1.0,away,90,Estádio Municipal da Marinha Grande (Marinha Grande)
+2017,2nd Round,7,212702,2017-09-24T14:00:00+00:00,Esmoriz,4837,Vilaverdense,4814,0.0,home,90,Estádio da Barrinha (Esmoriz)
+2017,2nd Round,7,212702,2017-09-24T14:00:00+00:00,Vilaverdense,4814,Esmoriz,4837,1.0,away,90,Estádio da Barrinha (Esmoriz)
+2018,Final,1,212425,2019-05-25T16:15:00+00:00,Sporting CP,228,FC Porto,212,1.0,home,120,"Estádio Nacional (Jamor, Oeiras)"
+2018,Final,1,212425,2019-05-25T16:15:00+00:00,FC Porto,212,Sporting CP,228,0.0,away,120,"Estádio Nacional (Jamor, Oeiras)"
+2018,Semi-finals,2,212426,2019-02-06T20:45:00+00:00,Benfica,211,Sporting CP,228,1.0,home,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2018,Semi-finals,2,212426,2019-02-06T20:45:00+00:00,Sporting CP,228,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2018,Semi-finals,2,212427,2019-04-03T19:45:00+00:00,Sporting CP,228,Benfica,211,1.0,home,90,Estádio José Alvalade (Lisboa)
+2018,Semi-finals,2,212427,2019-04-03T19:45:00+00:00,Benfica,211,Sporting CP,228,0.0,away,90,Estádio José Alvalade (Lisboa)
+2018,Semi-finals,2,212428,2019-02-26T20:15:00+00:00,FC Porto,212,SC Braga,217,1.0,home,90,Estádio Do Dragão (Porto)
+2018,Semi-finals,2,212428,2019-02-26T20:15:00+00:00,SC Braga,217,FC Porto,212,0.0,away,90,Estádio Do Dragão (Porto)
+2018,Quarter-finals,3,212430,2019-01-15T18:00:00+00:00,Aves,220,SC Braga,217,0.0,home,90,Estádio Clube Desportivo das Aves (Vila das Aves)
+2018,Quarter-finals,3,212430,2019-01-15T18:00:00+00:00,SC Braga,217,Aves,220,1.0,away,90,Estádio Clube Desportivo das Aves (Vila das Aves)
+2018,Quarter-finals,3,212431,2019-01-15T19:30:00+00:00,Leixoes,244,FC Porto,212,0.0,home,120,Estádio do Mar (Matosinhos)
+2018,Quarter-finals,3,212431,2019-01-15T19:30:00+00:00,FC Porto,212,Leixoes,244,1.0,away,120,Estádio do Mar (Matosinhos)
+2018,Quarter-finals,3,212432,2019-01-15T20:45:00+00:00,Guimaraes,224,Benfica,211,0.0,home,90,Estádio Dom Afonso Henriques (Guimarães)
+2018,Quarter-finals,3,212432,2019-01-15T20:45:00+00:00,Benfica,211,Guimaraes,224,1.0,away,90,Estádio Dom Afonso Henriques (Guimarães)
+2018,Quarter-finals,3,212433,2019-01-16T20:45:00+00:00,Feirense,213,Sporting CP,228,0.0,home,90,Estádio Marcolino de Castro (Santa Maria da Feira)
+2018,Quarter-finals,3,212433,2019-01-16T20:45:00+00:00,Sporting CP,228,Feirense,213,1.0,away,90,Estádio Marcolino de Castro (Santa Maria da Feira)
+2018,4th Round,5,212442,2018-11-22T20:45:00+00:00,Benfica,211,Arouca,240,1.0,home,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2018,4th Round,5,212442,2018-11-22T20:45:00+00:00,Arouca,240,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)
+2018,4th Round,5,212443,2018-11-24T14:30:00+00:00,Cova De Piedade,241,Aves,220,0.0,home,120,Estádio Municipal José Martins Vieira (Almada)
+2018,4th Round,5,212443,2018-11-24T14:30:00+00:00,Aves,220,Cova De Piedade,241,1.0,away,120,Estádio Municipal José Martins Vieira (Almada)
+2018,4th Round,5,212444,2018-11-24T15:00:00+00:00,Lusitano FCV,4761,Sporting CP,228,0.0,home,90,Estádio Municipal do Fontelo (Viseu)
+2018,4th Round,5,212444,2018-11-24T15:00:00+00:00,Sporting CP,228,Lusitano FCV,4761,1.0,away,90,Estádio Municipal do Fontelo (Viseu)
+2018,4th Round,5,212445,2018-11-24T20:45:00+00:00,FC Porto,212,Belenenses,221,1.0,home,90,Estádio Do Dragão (Porto)
+2018,4th Round,5,212445,2018-11-24T20:45:00+00:00,Belenenses,221,FC Porto,212,0.0,away,90,Estádio Do Dragão (Porto)
+2018,4th Round,5,212446,2018-11-25T14:30:00+00:00,SC Covilha,236,Moreirense,215,0.0,home,90,Estádio Municipal José dos Santos Pinto (Covilhã)
+2018,4th Round,5,212446,2018-11-25T14:30:00+00:00,Moreirense,215,SC Covilha,236,1.0,away,90,Estádio Municipal José dos Santos Pinto (Covilhã)
+2018,4th Round,5,212447,2018-11-25T14:30:00+00:00,Montalegre,4770,Águeda,4817,1.0,home,90,Estádio Dr. Diogo Alves Vaz Pereira (Montalegre)
+2018,4th Round,5,212447,2018-11-25T14:30:00+00:00,Águeda,4817,Montalegre,4770,0.0,away,90,Estádio Dr. Diogo Alves Vaz Pereira (Montalegre)
+2018,4th Round,5,212448,2018-11-25T15:00:00+00:00,Rio Ave,226,Silves,4795,1.0,home,90,Estádio do Rio Ave Futebol Clube (Vila do Conde)
+2018,4th Round,5,212448,2018-11-25T15:00:00+00:00,Silves,4795,Rio Ave,226,0.0,away,90,Estádio do Rio Ave Futebol Clube (Vila do Conde)
+2018,4th Round,5,212449,2018-11-25T15:00:00+00:00,Leixoes,244,Anadia,4727,1.0,home,90,Estádio do Mar (Matosinhos)
+2018,4th Round,5,212449,2018-11-25T15:00:00+00:00,Anadia,4727,Leixoes,244,0.0,away,90,Estádio do Mar (Matosinhos)
+2018,4th Round,5,212450,2018-11-25T15:00:00+00:00,Pacos Ferreira,234,Casa Pia,4716,1.0,home,90,Estádio da Capital do Móvel (Paços de Ferreira)
+2018,4th Round,5,212450,2018-11-25T15:00:00+00:00,Casa Pia,4716,Pacos Ferreira,234,0.0,away,90,Estádio da Capital do Móvel (Paços de Ferreira)
+2018,4th Round,5,212451,2018-11-25T15:00:00+00:00,Penafiel,235,Vitoria Setubal,219,0.0,home,90,Estádio Municipal 25 de Abril (Penafiel)
+2018,4th Round,5,212451,2018-11-25T15:00:00+00:00,Vitoria Setubal,219,Penafiel,235,1.0,away,90,Estádio Municipal 25 de Abril (Penafiel)
+2018,4th Round,5,212452,2018-11-25T15:00:00+00:00,Espinho,4742,Boavista,222,0.0,home,90,Estádio do Bolhão (Fiães)
+2018,4th Round,5,212452,2018-11-25T15:00:00+00:00,Boavista,222,Espinho,4742,1.0,away,90,Estádio do Bolhão (Fiães)
+2018,4th Round,5,212453,2018-11-25T15:00:00+00:00,U. Madeira,763,Guimaraes,224,0.0,home,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2018,4th Round,5,212453,2018-11-25T15:00:00+00:00,Guimaraes,224,U. Madeira,763,1.0,away,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2018,4th Round,5,212454,2018-11-25T15:00:00+00:00,Tondela,218,Vale Formoso,4806,1.0,home,90,Estádio João Cardoso (Tondela)
+2018,4th Round,5,212454,2018-11-25T15:00:00+00:00,Vale Formoso,4806,Tondela,218,0.0,away,90,Estádio João Cardoso (Tondela)
+2018,4th Round,5,212455,2018-11-25T16:00:00+00:00,Maritimo,214,Feirense,213,0.0,home,90,Estádio dos Barreiros (Funchal (Ilha da Madeira))
+2018,4th Round,5,212455,2018-11-25T16:00:00+00:00,Feirense,213,Maritimo,214,1.0,away,90,Estádio dos Barreiros (Funchal (Ilha da Madeira))
+2018,4th Round,5,212456,2018-11-25T17:00:00+00:00,Santa Clara,227,Chaves,223,0.0,home,90,"Estádio de São Miguel (Ponta Delgada, Ilha de São Miguel, Açores)"
+2018,4th Round,5,212456,2018-11-25T17:00:00+00:00,Chaves,223,Santa Clara,227,1.0,away,90,"Estádio de São Miguel (Ponta Delgada, Ilha de São Miguel, Açores)"
+2018,4th Round,5,212457,2018-11-25T19:30:00+00:00,SC Braga,217,Praiense,4786,1.0,home,90,Estádio Municipal de Braga (Braga)
+2018,4th Round,5,212457,2018-11-25T19:30:00+00:00,Praiense,4786,SC Braga,217,0.0,away,90,Estádio Municipal de Braga (Braga)
+2018,3rd Round,6,212458,2018-10-18T19:45:00+00:00,Sertanense,4794,Benfica,211,0.0,home,90,Estádio EFAPEL (Coimbra)
+2018,3rd Round,6,212458,2018-10-18T19:45:00+00:00,Benfica,211,Sertanense,4794,1.0,away,90,Estádio EFAPEL (Coimbra)
+2018,3rd Round,6,212459,2018-10-19T19:15:00+00:00,Vila Real,4812,FC Porto,212,0.0,home,90,Complexo Desportivo Monte Da Forca (Vila Real)
+2018,3rd Round,6,212459,2018-10-19T19:15:00+00:00,FC Porto,212,Vila Real,4812,1.0,away,90,Complexo Desportivo Monte Da Forca (Vila Real)
+2018,3rd Round,6,212460,2018-10-20T14:00:00+00:00,Valenciano,4807,Guimaraes,224,0.0,home,90,Estádio Dr. Lourenço Raimundo (Valença do Minho)
+2018,3rd Round,6,212460,2018-10-20T14:00:00+00:00,Guimaraes,224,Valenciano,4807,1.0,away,90,Estádio Dr. Lourenço Raimundo (Valença do Minho)
+2018,3rd Round,6,212461,2018-10-20T14:00:00+00:00,Cova De Piedade,241,Portimonense,216,1.0,home,90,Estádio Municipal José Martins Vieira (Almada)
+2018,3rd Round,6,212461,2018-10-20T14:00:00+00:00,Portimonense,216,Cova De Piedade,241,0.0,away,90,Estádio Municipal José Martins Vieira (Almada)
+2018,3rd Round,6,212462,2018-10-20T14:00:00+00:00,Amora,4726,Belenenses,221,0.0,home,120,Estádio da Medideira (Amora)
+2018,3rd Round,6,212462,2018-10-20T14:00:00+00:00,Belenenses,221,Amora,4726,1.0,away,120,Estádio da Medideira (Amora)
+2018,3rd Round,6,212463,2018-10-20T15:00:00+00:00,Espinho,4742,Academico Viseu,238,1.0,home,120,Estádio do Bolhão (Fiães)
+2018,3rd Round,6,212463,2018-10-20T15:00:00+00:00,Academico Viseu,238,Espinho,4742,0.0,away,120,Estádio do Bolhão (Fiães)
+2018,3rd Round,6,212464,2018-10-20T19:45:00+00:00,Loures,4759,Sporting CP,228,0.0,home,90,Complexo Desportivo FC Alverca (Alverca do Ribatejo)
+2018,3rd Round,6,212464,2018-10-20T19:45:00+00:00,Sporting CP,228,Loures,4759,1.0,away,90,Complexo Desportivo FC Alverca (Alverca do Ribatejo)
+2018,3rd Round,6,212465,2018-10-21T12:00:00+00:00,Vale Formoso,4806,Coimbrões,4738,1.0,home,90,Campo Do Complexo Desportivo De Furnas (Furnas)
+2018,3rd Round,6,212465,2018-10-21T12:00:00+00:00,Coimbrões,4738,Vale Formoso,4806,0.0,away,90,Campo Do Complexo Desportivo De Furnas (Furnas)
+2018,3rd Round,6,212466,2018-10-21T14:00:00+00:00,Moura,4771,Maritimo,214,0.0,home,120,Estádio do Moura Atlético Clube (Moura)
+2018,3rd Round,6,212466,2018-10-21T14:00:00+00:00,Maritimo,214,Moura,4771,1.0,away,120,Estádio do Moura Atlético Clube (Moura)
+2018,3rd Round,6,212467,2018-10-21T14:00:00+00:00,Fátima,4746,Boavista,222,0.0,home,90,Estádio Papa Francisco (Fátima)
+2018,3rd Round,6,212467,2018-10-21T14:00:00+00:00,Boavista,222,Fátima,4746,1.0,away,90,Estádio Papa Francisco (Fátima)
+2018,3rd Round,6,212468,2018-10-21T14:00:00+00:00,Armacenenses,4729,Vitoria Setubal,219,0.0,home,90,Complexo Desportivo Belavista (Parchal)
+2018,3rd Round,6,212468,2018-10-21T14:00:00+00:00,Vitoria Setubal,219,Armacenenses,4729,1.0,away,90,Complexo Desportivo Belavista (Parchal)
+2018,3rd Round,6,212469,2018-10-21T14:00:00+00:00,Torreense,4799,Rio Ave,226,0.0,home,90,Campo Manuel Marques (Torres Vedras)
+2018,3rd Round,6,212469,2018-10-21T14:00:00+00:00,Rio Ave,226,Torreense,4799,1.0,away,90,Campo Manuel Marques (Torres Vedras)
+2018,3rd Round,6,212470,2018-10-21T14:00:00+00:00,AR São Martinho,4720,Moreirense,215,0.0,home,90,Estádio Comendador Abílio Ferreira de Oliveira (São Martinho do Campo - Santo Tirso)
+2018,3rd Round,6,212470,2018-10-21T14:00:00+00:00,Moreirense,215,AR São Martinho,4720,1.0,away,90,Estádio Comendador Abílio Ferreira de Oliveira (São Martinho do Campo - Santo Tirso)
+2018,3rd Round,6,212471,2018-10-21T14:00:00+00:00,Lusitano FCV,4761,Nacional,225,1.0,home,90,Estádio dos Trambelos (Viseu)
+2018,3rd Round,6,212471,2018-10-21T14:00:00+00:00,Nacional,225,Lusitano FCV,4761,0.0,away,90,Estádio dos Trambelos (Viseu)
+2018,3rd Round,6,212472,2018-10-21T14:00:00+00:00,Mirandela,4769,Feirense,213,0.0,home,90,Estádio São Sebastião (Mirandela)
+2018,3rd Round,6,212472,2018-10-21T14:00:00+00:00,Feirense,213,Mirandela,4769,1.0,away,90,Estádio São Sebastião (Mirandela)
+2018,3rd Round,6,212473,2018-10-21T14:00:00+00:00,Maria da Fonte,4765,Santa Clara,227,0.0,home,90,Estádio Moinhos Novos (Póvoa de Lanhoso)
+2018,3rd Round,6,212473,2018-10-21T14:00:00+00:00,Santa Clara,227,Maria da Fonte,4765,1.0,away,90,Estádio Moinhos Novos (Póvoa de Lanhoso)
+2018,3rd Round,6,212474,2018-10-21T14:00:00+00:00,Estoril,230,Tondela,218,0.0,home,120,Estádio António Coimbra da Mota (Estoril)
+2018,3rd Round,6,212474,2018-10-21T14:00:00+00:00,Tondela,218,Estoril,230,1.0,away,120,Estádio António Coimbra da Mota (Estoril)
+2018,3rd Round,6,212475,2018-10-21T14:00:00+00:00,Pedras Salgadas,4780,Chaves,223,0.0,home,90,Estádio da Portelinha (Pedras Salgadas)
+2018,3rd Round,6,212475,2018-10-21T14:00:00+00:00,Chaves,223,Pedras Salgadas,4780,1.0,away,90,Estádio da Portelinha (Pedras Salgadas)
+2018,3rd Round,6,212476,2018-10-21T14:00:00+00:00,Casa Pia,4716,Angrense,4728,1.0,home,90,Estádio Pina Manique (Lisboa)
+2018,3rd Round,6,212476,2018-10-21T14:00:00+00:00,Angrense,4728,Casa Pia,4716,0.0,away,90,Estádio Pina Manique (Lisboa)
+2018,3rd Round,6,212477,2018-10-21T14:00:00+00:00,Os Limianos,4776,SC Covilha,236,0.0,home,90,Estádio do Cruzeiro (Ponte de Lima)
+2018,3rd Round,6,212477,2018-10-21T14:00:00+00:00,SC Covilha,236,Os Limianos,4776,1.0,away,90,Estádio do Cruzeiro (Ponte de Lima)
+2018,3rd Round,6,212478,2018-10-21T14:00:00+00:00,Farense,231,Arouca,240,0.0,home,90,Estádio de São Lúis (Faro)
+2018,3rd Round,6,212478,2018-10-21T14:00:00+00:00,Arouca,240,Farense,231,1.0,away,90,Estádio de São Lúis (Faro)
+2018,3rd Round,6,212479,2018-10-21T14:00:00+00:00,Montalegre,4770,Oriental Lisboa,4775,1.0,home,90,Estádio Dr. Diogo Alves Vaz Pereira (Montalegre)
+2018,3rd Round,6,212479,2018-10-21T14:00:00+00:00,Oriental Lisboa,4775,Montalegre,4770,0.0,away,90,Estádio Dr. Diogo Alves Vaz Pereira (Montalegre)
+2018,3rd Round,6,212480,2018-10-21T14:00:00+00:00,Fafe,809,Penafiel,235,0.0,home,120,Parque Municipal dos Desportos (Fafe)
+2018,3rd Round,6,212480,2018-10-21T14:00:00+00:00,Penafiel,235,Fafe,809,1.0,away,120,Parque Municipal dos Desportos (Fafe)
+2018,3rd Round,6,212481,2018-10-21T14:00:00+00:00,Pacos Ferreira,234,Gafanha,4748,1.0,home,90,Estádio da Capital do Móvel (Paços de Ferreira)
+2018,3rd Round,6,212481,2018-10-21T14:00:00+00:00,Gafanha,4748,Pacos Ferreira,234,0.0,away,90,Estádio da Capital do Móvel (Paços de Ferreira)
+2018,3rd Round,6,212482,2018-10-21T14:00:00+00:00,Santa Iria,4793,Praiense,4786,0.0,home,90,Campo Conde Mendia (São Julião do Tojal)
+2018,3rd Round,6,212482,2018-10-21T14:00:00+00:00,Praiense,4786,Santa Iria,4793,1.0,away,90,Campo Conde Mendia (São Julião do Tojal)
+2018,3rd Round,6,212483,2018-10-21T14:00:00+00:00,Águeda,4817,Louletano,4758,1.0,home,90,Estádio Municipal de Águeda (Águeda)
+2018,3rd Round,6,212483,2018-10-21T14:00:00+00:00,Louletano,4758,Águeda,4817,0.0,away,90,Estádio Municipal de Águeda (Águeda)
+2018,3rd Round,6,212484,2018-10-21T14:00:00+00:00,Vilafranquense,4717,Anadia,4727,0.0,home,90,Campo do Cevadeiro (Vila Franca de Xira)
+2018,3rd Round,6,212484,2018-10-21T14:00:00+00:00,Anadia,4727,Vilafranquense,4717,1.0,away,90,Campo do Cevadeiro (Vila Franca de Xira)
+2018,3rd Round,6,212485,2018-10-21T14:00:00+00:00,Leixoes,244,Amarante,4725,1.0,home,90,Estádio do Mar (Matosinhos)
+2018,3rd Round,6,212485,2018-10-21T14:00:00+00:00,Amarante,4725,Leixoes,244,0.0,away,90,Estádio do Mar (Matosinhos)
+2018,3rd Round,6,212486,2018-10-21T14:00:00+00:00,Silves,4795,Chaves II,4736,1.0,home,90,Estádio Dr. Francisco Vieira (Silves)
+2018,3rd Round,6,212486,2018-10-21T14:00:00+00:00,Chaves II,4736,Silves,4795,0.0,away,90,Estádio Dr. Francisco Vieira (Silves)
+2018,3rd Round,6,212487,2018-10-21T14:00:00+00:00,U. Madeira,763,União Santiago,4803,1.0,home,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2018,3rd Round,6,212487,2018-10-21T14:00:00+00:00,União Santiago,4803,U. Madeira,763,0.0,away,90,Estádio do Centro Desportivo da Madeira (Ribeira Brava (Madeira))
+2018,3rd Round,6,212488,2018-10-21T15:00:00+00:00,Sacavenense,4791,Aves,220,0.0,home,90,Campo do Sacavenense (Sacavém)
+2018,3rd Round,6,212488,2018-10-21T15:00:00+00:00,Aves,220,Sacavenense,4791,1.0,away,90,Campo do Sacavenense (Sacavém)
+2018,3rd Round,6,212489,2018-10-21T19:00:00+00:00,Felgueiras 1932,4744,SC Braga,217,0.0,home,90,Estádio Dr. Machado de Matos (Felgueiras)
+2018,3rd Round,6,212489,2018-10-21T19:00:00+00:00,SC Braga,217,Felgueiras 1932,4744,1.0,away,90,Estádio Dr. Machado de Matos (Felgueiras)
+2018,2nd Round,7,212490,2018-09-29T14:30:00+00:00,Gondomar,4750,Cova De Piedade,241,0.0,home,90,Estádio de São Miguel (Gondomar)
+2018,2nd Round,7,212490,2018-09-29T14:30:00+00:00,Cova De Piedade,241,Gondomar,4750,1.0,away,90,Estádio de São Miguel (Gondomar)
+2018,2nd Round,7,212491,2018-09-29T18:45:00+00:00,Leça,4757,Leixoes,244,0.0,home,90,Estádio do Leça Futebol Clube (Leça da Palmeira )
+2018,2nd Round,7,212491,2018-09-29T18:45:00+00:00,Leixoes,244,Leça,4757,1.0,away,90,Estádio do Leça Futebol Clube (Leça da Palmeira )
+2018,2nd Round,7,212492,2018-09-30T11:00:00+00:00,Praiense,4786,Pinhalnovense,4783,1.0,home,90,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2018,2nd Round,7,212492,2018-09-30T11:00:00+00:00,Pinhalnovense,4783,Praiense,4786,0.0,away,90,Estádio Municipal da Praia da Vitória (Praia da Vitória)
+2018,2nd Round,7,212493,2018-09-30T14:00:00+00:00,Pedras Salgadas,4780,Academica,239,1.0,home,90,Estádio da Portelinha (Pedras Salgadas)
+2018,2nd Round,7,212493,2018-09-30T14:00:00+00:00,Academica,239,Pedras Salgadas,4780,0.0,away,90,Estádio da Portelinha (Pedras Salgadas)
+2018,2nd Round,7,212494,2018-09-30T14:00:00+00:00,Portalegrense,4784,Farense,231,0.0,home,90,Estádio Municipal Portalegre (Portalegre)
+2018,2nd Round,7,212494,2018-09-30T14:00:00+00:00,Farense,231,Portalegrense,4784,1.0,away,90,Estádio Municipal Portalegre (Portalegre)
+2018,2nd Round,7,212495,2018-09-30T14:00:00+00:00,Caçadores das Taipas,4734,Arouca,240,0.0,home,90,Estádio do Montinho (Caldas das Taipas)
+2018,2nd Round,7,212495,2018-09-30T14:00:00+00:00,Arouca,240,Caçadores das Taipas,4734,1.0,away,90,Estádio do Montinho (Caldas das Taipas)
+2018,2nd Round,7,212496,2018-09-30T14:00:00+00:00,Alverca,4724,Academico Viseu,238,0.0,home,90,Campo Futebol Clube Alverca (Alverca do Ribatejo)
+2018,2nd Round,7,212496,2018-09-30T14:00:00+00:00,Academico Viseu,238,Alverca,4724,1.0,away,90,Campo Futebol Clube Alverca (Alverca do Ribatejo)
+2018,2nd Round,7,212497,2018-09-30T14:00:00+00:00,Águeda,4817,Famalicao,242,1.0,home,90,Estádio Municipal de Águeda (Águeda)
+2018,2nd Round,7,212497,2018-09-30T14:00:00+00:00,Famalicao,242,Águeda,4817,0.0,away,90,Estádio Municipal de Águeda (Águeda)
+2018,2nd Round,7,212498,2018-09-30T14:00:00+00:00,Sacavenense,4791,Varzim,237,1.0,home,90,Campo do Sacavenense (Sacavém)
+2018,2nd Round,7,212498,2018-09-30T14:00:00+00:00,Varzim,237,Sacavenense,4791,0.0,away,90,Campo do Sacavenense (Sacavém)
+2018,2nd Round,7,212499,2018-09-30T14:00:00+00:00,Condeixa,4739,Pacos Ferreira,234,0.0,home,90,Estádio Municipal de Condeixa (Condeixa-a-Nova)
+2018,2nd Round,7,212499,2018-09-30T14:00:00+00:00,Pacos Ferreira,234,Condeixa,4739,1.0,away,90,Estádio Municipal de Condeixa (Condeixa-a-Nova)
+2018,2nd Round,7,212500,2018-09-30T14:00:00+00:00,Cesarense,4735,SC Covilha,236,0.0,home,90,Estádio do Mergulhão (Cesar)
+2018,2nd Round,7,212500,2018-09-30T14:00:00+00:00,SC Covilha,236,Cesarense,4735,1.0,away,90,Estádio do Mergulhão (Cesar)
+2018,2nd Round,7,212501,2018-09-30T14:00:00+00:00,Trofense,4801,Penafiel,235,0.0,home,90,Estádio do Clube Desportivo Trofense (Trofa)
+2018,2nd Round,7,212501,2018-09-30T14:00:00+00:00,Penafiel,235,Trofense,4801,1.0,away,90,Estádio do Clube Desportivo Trofense (Trofa)
+2018,2nd Round,7,212502,2018-09-30T14:00:00+00:00,Os Limianos,4776,Mafra,245,1.0,home,90,Estádio do Cruzeiro (Ponte de Lima)
+2018,2nd Round,7,212502,2018-09-30T14:00:00+00:00,Mafra,245,Os Limianos,4776,0.0,away,90,Estádio do Cruzeiro (Ponte de Lima)
+2018,2nd Round,7,212503,2018-09-30T14:00:00+00:00,Fátima,4746,Oliveirense,233,1.0,home,90,Estádio Papa Francisco (Fátima)
+2018,2nd Round,7,212503,2018-09-30T14:00:00+00:00,Oliveirense,233,Fátima,4746,0.0,away,90,Estádio Papa Francisco (Fátima)
+2018,2nd Round,7,212504,2018-09-30T14:00:00+00:00,Vasco da Gama Vidigueira,4808,Estoril,230,0.0,home,90,Estádio Municipal de Vidigueira (Vidigueira)
+2018,2nd Round,7,212504,2018-09-30T14:00:00+00:00,Estoril,230,Vasco da Gama Vidigueira,4808,1.0,away,90,Estádio Municipal de Vidigueira (Vidigueira)
+2018,2nd Round,7,212505,2018-09-30T14:00:00+00:00,Vitória de Sernache,4816,Sertanense,4794,0.0,home,90,Estádio Municipal Nuno Álvares Pereira (Cernache do Bonjardim)
+2018,2nd Round,7,212505,2018-09-30T14:00:00+00:00,Sertanense,4794,Vitória de Sernache,4816,1.0,away,90,Estádio Municipal Nuno Álvares Pereira (Cernache do Bonjardim)
+2018,2nd Round,7,212506,2018-09-30T14:00:00+00:00,União de Tomar,4804,Vilafranquense,4717,0.0,home,90,Estádio Municipal de Tomar (Tomar)
+2018,2nd Round,7,212506,2018-09-30T14:00:00+00:00,Vilafranquense,4717,União de Tomar,4804,1.0,away,90,Estádio Municipal de Tomar (Tomar)
+2018,2nd Round,7,212507,2018-09-30T14:00:00+00:00,Vila Real,4812,Sanjoanense,4792,1.0,home,120,Campo Do Calvário (Vila Real)
+2018,2nd Round,7,212507,2018-09-30T14:00:00+00:00,Sanjoanense,4792,Vila Real,4812,0.0,away,120,Campo Do Calvário (Vila Real)
+2018,2nd Round,7,212508,2018-09-30T14:00:00+00:00,Fafe,809,Ideal,4753,1.0,home,90,Parque Municipal dos Desportos (Fafe)
+2018,2nd Round,7,212508,2018-09-30T14:00:00+00:00,Ideal,4753,Fafe,809,0.0,away,90,Parque Municipal dos Desportos (Fafe)
+2018,2nd Round,7,212509,2018-09-30T14:00:00+00:00,Caldas,4733,Gafanha,4748,0.0,home,90,Campo da Mata (Caldas da Rainha)
+2018,2nd Round,7,212509,2018-09-30T14:00:00+00:00,Gafanha,4748,Caldas,4733,1.0,away,90,Campo da Mata (Caldas da Rainha)
+2018,2nd Round,7,212510,2018-09-30T14:00:00+00:00,Vila Flor,4811,Amarante,4725,0.0,home,90,Estádio Municipal de Vila Flor (Vila Flor)
+2018,2nd Round,7,212510,2018-09-30T14:00:00+00:00,Amarante,4725,Vila Flor,4811,1.0,away,90,Estádio Municipal de Vila Flor (Vila Flor)
+2018,2nd Round,7,212511,2018-09-30T14:00:00+00:00,Beneditense,4730,Armacenenses,4729,0.0,home,90,Parque Jogos Fonte da Senhora (Benedita)
+2018,2nd Round,7,212511,2018-09-30T14:00:00+00:00,Armacenenses,4729,Beneditense,4730,1.0,away,90,Parque Jogos Fonte da Senhora (Benedita)
+2018,2nd Round,7,212512,2018-09-30T14:00:00+00:00,Rio Tinto,4789,Moura,4771,0.0,home,90,Estadio SC Rio Tinto (Rio Tinto)
+2018,2nd Round,7,212512,2018-09-30T14:00:00+00:00,Moura,4771,Rio Tinto,4789,1.0,away,90,Estadio SC Rio Tinto (Rio Tinto)
+2018,2nd Round,7,212513,2018-09-30T14:00:00+00:00,Silves,4795,Paredes,4778,1.0,home,90,Estádio Dr. Francisco Vieira (Silves)
+2018,2nd Round,7,212513,2018-09-30T14:00:00+00:00,Paredes,4778,Silves,4795,0.0,away,90,Estádio Dr. Francisco Vieira (Silves)
+2018,2nd Round,7,212514,2018-09-30T14:00:00+00:00,Santa Iria,4793,Lourinhanense,4760,1.0,home,90,Campo Conde Mendia (São Julião do Tojal)
+2018,2nd Round,7,212514,2018-09-30T14:00:00+00:00,Lourinhanense,4760,Santa Iria,4793,0.0,away,90,Campo Conde Mendia (São Julião do Tojal)
+2018,2nd Round,7,212515,2018-09-30T14:00:00+00:00,Praia Milfontes,4785,Valenciano,4807,0.0,home,90,Estádio Municipal De Odemira (Odemira)
+2018,2nd Round,7,212515,2018-09-30T14:00:00+00:00,Valenciano,4807,Praia Milfontes,4785,1.0,away,90,Estádio Municipal De Odemira (Odemira)
+2018,2nd Round,7,212516,2018-09-30T14:00:00+00:00,Oliveira Hospital,4773,Lusitano FCV,4761,0.0,home,120,Estádio Municipal de Oliveira do Hospital (Oliveira do Hospital)
+2018,2nd Round,7,212516,2018-09-30T14:00:00+00:00,Lusitano FCV,4761,Oliveira Hospital,4773,1.0,away,120,Estádio Municipal de Oliveira do Hospital (Oliveira do Hospital)
+2018,2nd Round,7,212517,2018-09-30T14:00:00+00:00,Peniche,4782,Montalegre,4770,0.0,home,90,Estádio do Peniche (Peniche)
+2018,2nd Round,7,212517,2018-09-30T14:00:00+00:00,Montalegre,4770,Peniche,4782,1.0,away,90,Estádio do Peniche (Peniche)
+2018,2nd Round,7,212518,2018-09-30T14:00:00+00:00,Casa Pia,4716,Olímpico do Montijo,4774,1.0,home,90,Estádio Pina Manique (Lisboa)
+2018,2nd Round,7,212518,2018-09-30T14:00:00+00:00,Olímpico do Montijo,4774,Casa Pia,4716,0.0,away,90,Estádio Pina Manique (Lisboa)
+2018,2nd Round,7,212519,2018-09-30T14:00:00+00:00,Anadia,4727,Aljustrelense,4722,1.0,home,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira (Anadia)
+2018,2nd Round,7,212519,2018-09-30T14:00:00+00:00,Aljustrelense,4722,Anadia,4727,0.0,away,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira (Anadia)
+2018,2nd Round,7,212520,2018-09-30T14:00:00+00:00,Merelinense,4768,U. Madeira,763,0.0,home,90,Estádio João Soares Vieira (São Pedro de Merelim)
+2018,2nd Round,7,212520,2018-09-30T14:00:00+00:00,U. Madeira,763,Merelinense,4768,1.0,away,90,Estádio João Soares Vieira (São Pedro de Merelim)
+2018,2nd Round,7,212521,2018-09-30T14:00:00+00:00,Eirense,4741,Torreense,4799,0.0,home,90,Campo Vale do Fôjo (Coimbra)
+2018,2nd Round,7,212521,2018-09-30T14:00:00+00:00,Torreense,4799,Eirense,4741,1.0,away,90,Campo Vale do Fôjo (Coimbra)
+2018,2nd Round,7,212522,2018-09-30T14:00:00+00:00,Lusitano GC Évora,4762,Oriental Lisboa,4775,0.0,home,90,Campo Estrela (Évora)
+2018,2nd Round,7,212522,2018-09-30T14:00:00+00:00,Oriental Lisboa,4775,Lusitano GC Évora,4762,1.0,away,90,Campo Estrela (Évora)
+2018,2nd Round,7,212523,2018-09-30T14:00:00+00:00,GIL Vicente,762,Chaves,223,0.0,home,90,Estádio Cidade de Barcelos (Barcelos)
+2018,2nd Round,7,212523,2018-09-30T14:00:00+00:00,Chaves,223,GIL Vicente,762,1.0,away,90,Estádio Cidade de Barcelos (Barcelos)
+2018,2nd Round,7,212524,2018-09-30T14:00:00+00:00,GRAP,4747,União Santiago,4803,0.0,home,90,Campo da Charneca dos Pousos (Pousos)
+2018,2nd Round,7,212524,2018-09-30T14:00:00+00:00,União Santiago,4803,GRAP,4747,1.0,away,90,Campo da Charneca dos Pousos (Pousos)
+2018,2nd Round,7,212525,2018-09-30T14:00:00+00:00,Espinho,4742,Sintrense,4796,1.0,home,120,Estádio do Bolhão (Fiães)
+2018,2nd Round,7,212525,2018-09-30T14:00:00+00:00,Sintrense,4796,Espinho,4742,0.0,away,120,Estádio do Bolhão (Fiães)
+2018,2nd Round,7,212526,2018-09-30T14:00:00+00:00,CD Torres Novas,4732,Maria da Fonte,4765,0.0,home,90,Estádio Municipal Dr. Alves Vieira (Torres Novas)
+2018,2nd Round,7,212526,2018-09-30T14:00:00+00:00,Maria da Fonte,4765,CD Torres Novas,4732,1.0,away,90,Estádio Municipal Dr. Alves Vieira (Torres Novas)
+2018,2nd Round,7,212527,2018-09-30T14:00:00+00:00,Beira-Mar,4661,AR São Martinho,4720,0.0,home,90,Estádio Municipal de Aveiro (Aveiro)
+2018,2nd Round,7,212527,2018-09-30T14:00:00+00:00,AR São Martinho,4720,Beira-Mar,4661,1.0,away,90,Estádio Municipal de Aveiro (Aveiro)
+2018,2nd Round,7,212528,2018-09-30T14:00:00+00:00,Vila Silgueiros,4813,Angrense,4728,0.0,home,90,Campo da Mata Santa Eufémia (Leiria)
+2018,2nd Round,7,212528,2018-09-30T14:00:00+00:00,Angrense,4728,Vila Silgueiros,4813,1.0,away,90,Campo da Mata Santa Eufémia (Leiria)
+2018,2nd Round,7,212529,2018-09-30T14:00:00+00:00,Real,10149,Mirandela,4769,0.0,home,120,Estádio do Real SC (Queluz)
+2018,2nd Round,7,212529,2018-09-30T14:00:00+00:00,Mirandela,4769,Real,10149,1.0,away,120,Estádio do Real SC (Queluz)
+2018,2nd Round,7,212530,2018-09-30T14:00:00+00:00,Amora,4726,Lamego,4756,1.0,home,90,Estádio da Medideira (Amora)
+2018,2nd Round,7,212530,2018-09-30T14:00:00+00:00,Lamego,4756,Amora,4726,0.0,away,90,Estádio da Medideira (Amora)
+2018,2nd Round,7,212531,2018-09-30T14:00:00+00:00,Mirandês,10148,Coimbrões,4738,0.0,home,90,Estádio Municipal Santa Luzia (Miranda do Douro)
+2018,2nd Round,7,212531,2018-09-30T14:00:00+00:00,Coimbrões,4738,Mirandês,10148,1.0,away,90,Estádio Municipal Santa Luzia (Miranda do Douro)
+2018,2nd Round,7,212532,2018-09-30T14:00:00+00:00,Felgueiras 1932,4744,Joane,4754,1.0,home,90,Estádio Dr. Machado de Matos (Felgueiras)
+2018,2nd Round,7,212532,2018-09-30T14:00:00+00:00,Joane,4754,Felgueiras 1932,4744,0.0,away,90,Estádio Dr. Machado de Matos (Felgueiras)
+2018,2nd Round,7,212533,2018-09-30T14:00:00+00:00,Loures,4759,Oleiros,4772,1.0,home,90,Campo de Jogos José Silva Faria (Loures)
+2018,2nd Round,7,212533,2018-09-30T14:00:00+00:00,Oleiros,4772,Loures,4759,0.0,away,90,Campo de Jogos José Silva Faria (Loures)
+2018,2nd Round,7,212534,2018-09-30T14:00:00+00:00,Valadares Gaia,4805,Louletano,4758,0.0,home,90,Complexo Desportivo de Valadares (Valadares)
+2018,2nd Round,7,212534,2018-09-30T14:00:00+00:00,Louletano,4758,Valadares Gaia,4805,1.0,away,90,Complexo Desportivo de Valadares (Valadares)
+2018,2nd Round,7,212535,2018-09-30T15:00:00+00:00,Vale Formoso,4806,União de Leiria,4662,0.0,home,90,Campo Do Complexo Desportivo De Furnas (Furnas)
+2018,2nd Round,7,212535,2018-09-30T15:00:00+00:00,União de Leiria,4662,Vale Formoso,4806,1.0,away,90,Campo Do Complexo Desportivo De Furnas (Furnas)
+2019,2nd Round,7,244046,2019-09-29T14:00:00+00:00,Coimbrões,4738,GD Prado,6356,1.0,home,90,Parque Silva Matos
+2019,2nd Round,7,244046,2019-09-29T14:00:00+00:00,GD Prado,6356,Coimbrões,4738,0.0,away,90,Parque Silva Matos
+2019,2nd Round,7,244047,2019-09-29T14:00:00+00:00,Coruchense,4833,Olímpico do Montijo,4774,0.0,home,90,Estádio Municipal Prof. José Peseiro
+2019,2nd Round,7,244047,2019-09-29T14:00:00+00:00,Olímpico do Montijo,4774,Coruchense,4833,1.0,away,90,Estádio Municipal Prof. José Peseiro
+2019,2nd Round,7,244048,2019-09-29T14:00:00+00:00,AD Portomosense,6347,Alverca,4724,0.0,home,90,Parque de Jogos de Porto de Mós
+2019,2nd Round,7,244048,2019-09-29T14:00:00+00:00,Alverca,4724,AD Portomosense,6347,1.0,away,90,Parque de Jogos de Porto de Mós
+2019,2nd Round,7,244049,2019-09-29T14:00:00+00:00,Sintra,6366,Amarante,4725,1.0,home,90,Estádio Municipal Oeiras Mário Wilson
+2019,2nd Round,7,244049,2019-09-29T14:00:00+00:00,Amarante,4725,Sintra,6366,0.0,away,90,Estádio Municipal Oeiras Mário Wilson
+2019,2nd Round,7,244050,2019-09-29T14:00:00+00:00,Amora,4726,São João Ver,6367,1.0,home,90,Estádio da Medideira
+2019,2nd Round,7,244050,2019-09-29T14:00:00+00:00,São João Ver,6367,Amora,4726,0.0,away,90,Estádio da Medideira
+2019,2nd Round,7,244051,2019-09-29T15:00:00+00:00,Águias do Moradal,4867,Torreense,4799,1.0,home,90,Estádio do Ventoso
+2019,2nd Round,7,244051,2019-09-29T15:00:00+00:00,Torreense,4799,Águias do Moradal,4867,0.0,away,90,Estádio do Ventoso
+2019,2nd Round,7,244052,2019-09-29T14:00:00+00:00,Penedo Gordo,6361,Fabril Barreiro,4882,0.0,home,90,Campo de Jogos Carolina Almôdovar Fernandes
+2019,2nd Round,7,244052,2019-09-29T14:00:00+00:00,Fabril Barreiro,4882,Penedo Gordo,6361,1.0,away,90,Campo de Jogos Carolina Almôdovar Fernandes
+2019,2nd Round,7,244053,2019-09-29T14:00:00+00:00,Atlético Arcos,4825,Praiense,4786,0.0,home,90,Estádio Municipal da Coutada
+2019,2nd Round,7,244053,2019-09-29T14:00:00+00:00,Praiense,4786,Atlético Arcos,4825,1.0,away,90,Estádio Municipal da Coutada
+2019,2nd Round,7,244055,2019-09-29T14:00:00+00:00,Canelas 2010,4829,Ançã,6349,1.0,home,90,Estádio do Canelas Gaia Futebol Clube
+2019,2nd Round,7,244055,2019-09-29T14:00:00+00:00,Ançã,6349,Canelas 2010,4829,0.0,away,90,Estádio do Canelas Gaia Futebol Clube
+2019,2nd Round,7,244057,2019-09-29T14:00:00+00:00,Benfica Castelo Branco,4731,Olhanense,807,1.0,home,90,Estádio Municipal Vale do Romeiro
+2019,2nd Round,7,244057,2019-09-29T14:00:00+00:00,Olhanense,807,Benfica Castelo Branco,4731,0.0,away,90,Estádio Municipal Vale do Romeiro
+2019,2nd Round,7,244058,2019-09-29T14:00:00+00:00,Fátima,4746,Coutada,4740,1.0,home,90,Estádio Papa Francisco
+2019,2nd Round,7,244058,2019-09-29T14:00:00+00:00,Coutada,4740,Fátima,4746,0.0,away,90,Estádio Papa Francisco
+2019,2nd Round,7,244059,2019-09-29T14:00:00+00:00,Gondomar,4750,Valadares Gaia,4805,0.0,home,90,Estádio de São Miguel
+2019,2nd Round,7,244059,2019-09-29T14:00:00+00:00,Valadares Gaia,4805,Gondomar,4750,1.0,away,90,Estádio de São Miguel
+2019,2nd Round,7,244061,2019-09-29T14:00:00+00:00,Maria da Fonte,4765,Pedras Salgadas,4780,0.0,home,90,Estádio Moinhos Novos
+2019,2nd Round,7,244061,2019-09-29T14:00:00+00:00,Pedras Salgadas,4780,Maria da Fonte,4765,1.0,away,90,Estádio Moinhos Novos
+2019,2nd Round,7,244065,2019-09-29T14:00:00+00:00,Beira-Mar,4661,Bustelo,6351,1.0,home,90,Estádio Municipal de Aveiro
+2019,2nd Round,7,244065,2019-09-29T14:00:00+00:00,Bustelo,6351,Beira-Mar,4661,0.0,away,90,Estádio Municipal de Aveiro
+2019,2nd Round,7,244067,2019-09-29T18:45:00+00:00,Águeda,4817,Oriental Lisboa,4775,1.0,home,90,Estádio Municipal de Águeda
+2019,2nd Round,7,244067,2019-09-29T18:45:00+00:00,Oriental Lisboa,4775,Águeda,4817,0.0,away,90,Estádio Municipal de Águeda
+2019,2nd Round,7,244068,2019-09-29T14:00:00+00:00,Lagos,6357,Pevidem,6362,0.0,home,90,Estádio Municipal Fernando Cabrita
+2019,2nd Round,7,244068,2019-09-29T14:00:00+00:00,Pevidem,6362,Lagos,6357,1.0,away,90,Estádio Municipal Fernando Cabrita
+2019,2nd Round,7,244069,2019-09-29T14:00:00+00:00,Eléctrico,4836,Arouca,240,0.0,home,90,Estadio Municipal de Ponte de Sôr
+2019,2nd Round,7,244069,2019-09-29T14:00:00+00:00,Arouca,240,Eléctrico,4836,1.0,away,90,Estadio Municipal de Ponte de Sôr
+2019,2nd Round,7,244071,2019-09-29T14:00:00+00:00,Aljustrelense,4722,Casa Pia,4716,0.0,home,90,Estádio Municipal de Aljustrel
+2019,2nd Round,7,244071,2019-09-29T14:00:00+00:00,Casa Pia,4716,Aljustrelense,4722,1.0,away,90,Estádio Municipal de Aljustrel
+2019,2nd Round,7,244072,2019-09-29T14:00:00+00:00,Mirandela,4769,Chaves,223,0.0,home,90,Estádio São Sebastião
+2019,2nd Round,7,244072,2019-09-29T14:00:00+00:00,Chaves,223,Mirandela,4769,1.0,away,90,Estádio São Sebastião
+2019,2nd Round,7,244073,2019-09-29T14:00:00+00:00,Vila Pouca,6373,Mafra,245,0.0,home,90,Complexo Desportivo de Vila Pouca de Aguiar
+2019,2nd Round,7,244073,2019-09-29T14:00:00+00:00,Mafra,245,Vila Pouca,6373,1.0,away,90,Complexo Desportivo de Vila Pouca de Aguiar
+2019,2nd Round,7,244075,2019-09-28T13:00:00+00:00,Rabo Peixe,4787,Academico Viseu,238,0.0,home,90,Campo Municipal da Ribeira Grande
+2019,2nd Round,7,244075,2019-09-28T13:00:00+00:00,Academico Viseu,238,Rabo Peixe,4787,1.0,away,90,Campo Municipal da Ribeira Grande
+2019,2nd Round,7,244077,2019-09-29T14:00:00+00:00,Caldas,4733,Varzim,237,0.0,home,90,Campo da Mata
+2019,2nd Round,7,244077,2019-09-29T14:00:00+00:00,Varzim,237,Caldas,4733,1.0,away,90,Campo da Mata
+2019,2nd Round,7,244078,2019-09-28T15:00:00+00:00,Carção,6352,Vilafranquense,4717,0.0,home,90,Estádio Municipal De Vimioso
+2019,2nd Round,7,244078,2019-09-28T15:00:00+00:00,Vilafranquense,4717,Carção,6352,1.0,away,90,Estádio Municipal De Vimioso
+2019,2nd Round,7,244079,2019-09-29T14:00:00+00:00,Lusitano FCV,4761,Academica,239,0.0,home,90,Estádio dos Trambelos
+2019,2nd Round,7,244079,2019-09-29T14:00:00+00:00,Academica,239,Lusitano FCV,4761,1.0,away,90,Estádio dos Trambelos
+2019,2nd Round,7,244080,2019-09-29T14:00:00+00:00,Pinhalnovense,4783,Estoril,230,0.0,home,90,Campo Santos Jorge
+2019,2nd Round,7,244080,2019-09-29T14:00:00+00:00,Estoril,230,Pinhalnovense,4783,1.0,away,90,Campo Santos Jorge
+2019,2nd Round,7,244081,2019-09-29T14:00:00+00:00,União de Leiria,4662,Real,10149,0.0,home,90,Estádio Dr. Magalhães Pessoa
+2019,2nd Round,7,244081,2019-09-29T14:00:00+00:00,Real,10149,União de Leiria,4662,1.0,away,90,Estádio Dr. Magalhães Pessoa
+2019,2nd Round,7,244082,2019-09-29T14:00:00+00:00,Sanjoanense,4792,Ideal,4753,1.0,home,90,Estádio Conde Dias Garcia
+2019,2nd Round,7,244082,2019-09-29T14:00:00+00:00,Ideal,4753,Sanjoanense,4792,0.0,away,90,Estádio Conde Dias Garcia
+2019,2nd Round,7,244083,2019-09-29T14:00:00+00:00,Montalegre,4770,Marinhense,4845,0.0,home,90,Estádio Dr. Diogo Alves Vaz Pereira
+2019,2nd Round,7,244083,2019-09-29T14:00:00+00:00,Marinhense,4845,Montalegre,4770,1.0,away,90,Estádio Dr. Diogo Alves Vaz Pereira
+2019,2nd Round,7,244085,2019-09-29T14:00:00+00:00,Vizela,810,Fontinhas,6355,1.0,home,90,Estádio Do Vizela
+2019,2nd Round,7,244085,2019-09-29T14:00:00+00:00,Fontinhas,6355,Vizela,810,0.0,away,90,Estádio Do Vizela
+2019,2nd Round,7,244087,2019-09-29T14:00:00+00:00,Espinho,4742,Nacional,225,1.0,home,90,Estádio do Bolhão
+2019,2nd Round,7,244087,2019-09-29T14:00:00+00:00,Nacional,225,Espinho,4742,0.0,away,90,Estádio do Bolhão
+2019,2nd Round,7,244088,2019-09-29T15:45:00+00:00,Vasco da Gama AC,13164,Cova De Piedade,241,0.0,home,90,Estadio Municipal Sines
+2019,2nd Round,7,244088,2019-09-29T15:45:00+00:00,Cova De Piedade,241,Vasco da Gama AC,13164,1.0,away,90,Estadio Municipal Sines
+2019,2nd Round,7,244089,2019-09-29T13:00:00+00:00,União Santarém,6369,Farense,231,0.0,home,90,Campo Chã das Padeiras
+2019,2nd Round,7,244089,2019-09-29T13:00:00+00:00,Farense,231,União Santarém,6369,1.0,away,90,Campo Chã das Padeiras
+2019,2nd Round,7,244090,2019-09-28T14:00:00+00:00,Berço,6350,Feirense,213,0.0,home,90,Campo Jogos D. Maria Teresa
+2019,2nd Round,7,244090,2019-09-28T14:00:00+00:00,Feirense,213,Berço,6350,1.0,away,90,Campo Jogos D. Maria Teresa
+2019,2nd Round,7,244948,2019-09-29T14:00:00+00:00,Alcochetense,6348,Leixoes,244,0.0,home,90,Estádio António Almeida Correia
+2019,2nd Round,7,244948,2019-09-29T14:00:00+00:00,Leixoes,244,Alcochetense,6348,1.0,away,90,Estádio António Almeida Correia
+2019,3rd Round,6,246006,2019-10-17T19:45:00+00:00,Alverca,4724,Sporting CP,228,1.0,home,90,Complexo Desportivo FC Alverca
+2019,3rd Round,6,246006,2019-10-17T19:45:00+00:00,Sporting CP,228,Alverca,4724,0.0,away,90,Complexo Desportivo FC Alverca
+2019,3rd Round,6,246007,2019-10-20T14:00:00+00:00,Oliveirense,233,Santa Clara,227,0.0,home,90,Estádio de Ribes
+2019,3rd Round,6,246007,2019-10-20T14:00:00+00:00,Santa Clara,227,Oliveirense,233,1.0,away,90,Estádio de Ribes
+2019,3rd Round,6,246008,2019-10-19T14:00:00+00:00,Fabril Barreiro,4882,Moreirense,215,0.0,home,90,Estádio Alfredo da Silva
+2019,3rd Round,6,246008,2019-10-19T14:00:00+00:00,Moreirense,215,Fabril Barreiro,4882,1.0,away,90,Estádio Alfredo da Silva
+2019,3rd Round,6,246009,2019-10-19T19:45:00+00:00,Leça,4757,SC Braga,217,0.0,home,90,Estádio do Leça Futebol Clube
+2019,3rd Round,6,246009,2019-10-19T19:45:00+00:00,SC Braga,217,Leça,4757,1.0,away,90,Estádio do Leça Futebol Clube
+2019,3rd Round,6,246012,2019-10-19T16:00:00+00:00,Farense,231,Aves,220,1.0,home,90,Estádio de São Lúis
+2019,3rd Round,6,246012,2019-10-19T16:00:00+00:00,Aves,220,Farense,231,0.0,away,90,Estádio de São Lúis
+2019,3rd Round,6,246013,2019-10-20T13:00:00+00:00,Águias do Moradal,4867,Vitoria Setubal,219,0.0,home,90,Estádio do Ventoso
+2019,3rd Round,6,246013,2019-10-20T13:00:00+00:00,Vitoria Setubal,219,Águias do Moradal,4867,1.0,away,90,Estádio do Ventoso
+2019,3rd Round,6,246014,2019-10-18T19:30:00+00:00,Cova De Piedade,241,Benfica,211,0.0,home,90,Estádio Municipal José Martins Vieira
+2019,3rd Round,6,246014,2019-10-18T19:30:00+00:00,Benfica,211,Cova De Piedade,241,1.0,away,90,Estádio Municipal José Martins Vieira
+2019,3rd Round,6,246015,2019-10-19T10:15:00+00:00,Condeixa,4739,Rio Ave,226,0.0,home,90,Estádio Municipal de Condeixa
+2019,3rd Round,6,246015,2019-10-19T10:15:00+00:00,Rio Ave,226,Condeixa,4739,1.0,away,90,Estádio Municipal de Condeixa
+2019,3rd Round,6,246016,2019-10-19T17:00:00+00:00,Academica,239,Portimonense,216,1.0,home,90,Estádio EFAPEL
+2019,3rd Round,6,246016,2019-10-19T17:00:00+00:00,Portimonense,216,Academica,239,0.0,away,90,Estádio EFAPEL
+2019,3rd Round,6,246018,2019-10-19T14:00:00+00:00,Pevidem,6362,Belenenses,221,0.0,home,90,Complexo Desportivo do Pevidém SC
+2019,3rd Round,6,246018,2019-10-19T14:00:00+00:00,Belenenses,221,Pevidem,6362,1.0,away,90,Complexo Desportivo do Pevidém SC
+2019,3rd Round,6,246019,2019-10-19T17:45:00+00:00,Coimbrões,4738,FC Porto,212,0.0,home,90,Estádio Dr. Jorge Sampaio
+2019,3rd Round,6,246019,2019-10-19T17:45:00+00:00,FC Porto,212,Coimbrões,4738,1.0,away,90,Estádio Dr. Jorge Sampaio
+2019,3rd Round,6,246021,2019-10-19T15:00:00+00:00,Penafiel,235,GIL Vicente,762,0.0,home,90,Estádio Municipal 25 de Abril
+2019,3rd Round,6,246021,2019-10-19T15:00:00+00:00,GIL Vicente,762,Penafiel,235,1.0,away,90,Estádio Municipal 25 de Abril
+2019,3rd Round,6,246023,2019-10-19T16:00:00+00:00,Feirense,213,Tondela,218,1.0,home,90,Estádio Marcolino de Castro
+2019,3rd Round,6,246023,2019-10-19T16:00:00+00:00,Tondela,218,Feirense,213,0.0,away,90,Estádio Marcolino de Castro
+2019,3rd Round,6,246024,2019-10-20T14:00:00+00:00,Varzim,237,Estoril,230,1.0,home,90,Estádio Varzim Sport Club
+2019,3rd Round,6,246024,2019-10-20T14:00:00+00:00,Estoril,230,Varzim,237,0.0,away,90,Estádio Varzim Sport Club
+2019,3rd Round,6,246025,2019-10-19T14:00:00+00:00,Amora,4726,Sanjoanense,4792,0.0,home,90,Estádio da Medideira
+2019,3rd Round,6,246025,2019-10-19T14:00:00+00:00,Sanjoanense,4792,Amora,4726,1.0,away,90,Estádio da Medideira
+2019,3rd Round,6,246028,2019-10-20T14:00:00+00:00,Marinhense,4845,Fátima,4746,1.0,home,90,Estádio Municipal da Marinha Grande
+2019,3rd Round,6,246028,2019-10-20T14:00:00+00:00,Fátima,4746,Marinhense,4845,0.0,away,90,Estádio Municipal da Marinha Grande
+2019,3rd Round,6,246029,2019-10-19T14:00:00+00:00,Espinho,4742,Vilafranquense,4717,1.0,home,90,Estádio do Bolhão
+2019,3rd Round,6,246029,2019-10-19T14:00:00+00:00,Vilafranquense,4717,Espinho,4742,0.0,away,90,Estádio do Bolhão
+2019,3rd Round,6,246031,2019-10-20T18:45:00+00:00,Leixoes,244,Praiense,4786,1.0,home,90,Estádio do Mar
+2019,3rd Round,6,246031,2019-10-20T18:45:00+00:00,Praiense,4786,Leixoes,244,0.0,away,90,Estádio do Mar
+2019,3rd Round,6,246032,2019-10-19T14:00:00+00:00,Academico Viseu,238,Real,10149,1.0,home,90,Estádio Municipal do Fontelo
+2019,3rd Round,6,246032,2019-10-19T14:00:00+00:00,Real,10149,Academico Viseu,238,0.0,away,90,Estádio Municipal do Fontelo
+2019,3rd Round,6,246034,2019-10-20T14:00:00+00:00,Pedras Salgadas,4780,Águeda,4817,1.0,home,90,Estádio da Portelinha
+2019,3rd Round,6,246034,2019-10-20T14:00:00+00:00,Águeda,4817,Pedras Salgadas,4780,0.0,away,90,Estádio da Portelinha
+2019,3rd Round,6,246035,2019-10-20T14:00:00+00:00,Casa Pia,4716,Vizela,810,0.0,home,90,Campo Engenheiro Carlos Salema
+2019,3rd Round,6,246035,2019-10-20T14:00:00+00:00,Vizela,810,Casa Pia,4716,1.0,away,90,Campo Engenheiro Carlos Salema
+2019,3rd Round,6,246036,2019-10-20T14:00:00+00:00,Arouca,240,Merelinense,4768,1.0,home,90,Estádio Municipal de Arouca
+2019,3rd Round,6,246036,2019-10-20T14:00:00+00:00,Merelinense,4768,Arouca,240,0.0,away,90,Estádio Municipal de Arouca
+2019,3rd Round,6,246037,2019-10-20T14:00:00+00:00,Olímpico do Montijo,4774,Anadia,4727,0.0,home,90,Campo da Liberdade
+2019,3rd Round,6,246037,2019-10-20T14:00:00+00:00,Anadia,4727,Olímpico do Montijo,4774,1.0,away,90,Campo da Liberdade
+2019,4th Round,5,248489,2019-11-23T18:30:00+00:00,SC Braga,217,GIL Vicente,762,1.0,home,90,Estádio Municipal de Braga
+2019,4th Round,5,248489,2019-11-23T18:30:00+00:00,GIL Vicente,762,SC Braga,217,0.0,away,90,Estádio Municipal de Braga
+2019,4th Round,5,248490,2019-11-23T20:45:00+00:00,Vizela,810,Benfica,211,0.0,home,90,Estádio Do Vizela
+2019,4th Round,5,248490,2019-11-23T20:45:00+00:00,Benfica,211,Vizela,810,1.0,away,90,Estádio Do Vizela
+2019,4th Round,5,248492,2019-11-24T15:00:00+00:00,Moreirense,215,Mafra,245,0.0,home,90,Parque Desportivo Comendador Joaquim de Almeida Freitas
+2019,4th Round,5,248492,2019-11-24T15:00:00+00:00,Mafra,245,Moreirense,215,1.0,away,90,Parque Desportivo Comendador Joaquim de Almeida Freitas
+2019,4th Round,5,248493,2019-11-24T15:30:00+00:00,Rio Ave,226,Alverca,4724,1.0,home,90,Estádio do Rio Ave Futebol Clube
+2019,4th Round,5,248493,2019-11-24T15:30:00+00:00,Alverca,4724,Rio Ave,226,0.0,away,90,Estádio do Rio Ave Futebol Clube
+2019,4th Round,5,248494,2019-11-23T15:00:00+00:00,Espinho,4742,Arouca,240,1.0,home,120,Estádio do Bolhão
+2019,4th Round,5,248494,2019-11-23T15:00:00+00:00,Arouca,240,Espinho,4742,0.0,away,120,Estádio do Bolhão
+2019,4th Round,5,248495,2019-11-24T15:00:00+00:00,Anadia,4727,Beira-Mar,4661,1.0,home,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2019,4th Round,5,248495,2019-11-24T15:00:00+00:00,Beira-Mar,4661,Anadia,4727,0.0,away,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2019,4th Round,5,248496,2019-11-22T20:45:00+00:00,Varzim,237,Loures,4759,1.0,home,90,Estádio Varzim Sport Club
+2019,4th Round,5,248496,2019-11-22T20:45:00+00:00,Loures,4759,Varzim,237,0.0,away,90,Estádio Varzim Sport Club
+2019,4th Round,5,248497,2019-11-22T17:15:00+00:00,Leixoes,244,Santa Clara,227,0.0,home,90,Estádio do Mar
+2019,4th Round,5,248497,2019-11-22T17:15:00+00:00,Santa Clara,227,Leixoes,244,1.0,away,90,Estádio do Mar
+2019,4th Round,5,248498,2019-11-23T14:00:00+00:00,Sertanense,4794,Farense,231,1.0,home,120,Campo de Jogos Dr. Marques dos Santos
+2019,4th Round,5,248498,2019-11-23T14:00:00+00:00,Farense,231,Sertanense,4794,0.0,away,120,Campo de Jogos Dr. Marques dos Santos
+2019,4th Round,5,248499,2019-11-24T15:00:00+00:00,Sintra,6366,Marinhense,4845,0.0,home,90,Estádio Municipal Oeiras Mário Wilson
+2019,4th Round,5,248499,2019-11-24T15:00:00+00:00,Marinhense,4845,Sintra,6366,1.0,away,90,Estádio Municipal Oeiras Mário Wilson
+2019,4th Round,5,248500,2019-11-24T15:00:00+00:00,Pacos Ferreira,234,Sanjoanense,4792,1.0,home,90,Estádio da Capital do Móvel
+2019,4th Round,5,248500,2019-11-24T15:00:00+00:00,Sanjoanense,4792,Pacos Ferreira,234,0.0,away,90,Estádio da Capital do Móvel
+2019,4th Round,5,248501,2019-11-23T16:45:00+00:00,Famalicao,242,Academica,239,1.0,home,90,Estádio Municipal 22 de Junho
+2019,4th Round,5,248501,2019-11-23T16:45:00+00:00,Academica,239,Famalicao,242,0.0,away,90,Estádio Municipal 22 de Junho
+2019,4th Round,5,248502,2019-11-23T15:00:00+00:00,Academico Viseu,238,Feirense,213,1.0,home,90,Estádio Municipal do Fontelo
+2019,4th Round,5,248502,2019-11-23T15:00:00+00:00,Feirense,213,Academico Viseu,238,0.0,away,90,Estádio Municipal do Fontelo
+2019,4th Round,5,248503,2019-11-24T17:30:00+00:00,FC Porto,212,Vitoria Setubal,219,1.0,home,90,Estádio Do Dragão
+2019,4th Round,5,248503,2019-11-24T17:30:00+00:00,Vitoria Setubal,219,FC Porto,212,0.0,away,90,Estádio Do Dragão
+2019,4th Round,5,248504,2019-11-24T20:00:00+00:00,Chaves,223,Belenenses,221,1.0,home,90,Estádio Municipal Eng. Manuel Branco Teixeira
+2019,4th Round,5,248504,2019-11-24T20:00:00+00:00,Belenenses,221,Chaves,223,0.0,away,90,Estádio Municipal Eng. Manuel Branco Teixeira
+2019,Quarter-finals,3,306106,2020-01-14T18:00:00+00:00,FC Porto,212,Varzim,237,1.0,home,90,Estádio Do Dragão
+2019,Quarter-finals,3,306106,2020-01-14T18:00:00+00:00,Varzim,237,FC Porto,212,0.0,away,90,Estádio Do Dragão
+2019,Quarter-finals,3,306107,2020-01-14T21:15:00+00:00,Benfica,211,Rio Ave,226,1.0,home,90,Estádio do Sport Lisboa e Benfica
+2019,Quarter-finals,3,306107,2020-01-14T21:15:00+00:00,Rio Ave,226,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica
+2019,Quarter-finals,3,306108,2020-01-15T20:00:00+00:00,Pacos Ferreira,234,Famalicao,242,0.0,home,90,Estádio da Capital do Móvel
+2019,Quarter-finals,3,306108,2020-01-15T20:00:00+00:00,Famalicao,242,Pacos Ferreira,234,1.0,away,90,Estádio da Capital do Móvel
+2019,Quarter-finals,3,306109,2020-01-16T20:00:00+00:00,Academico Viseu,238,Canelas 2010,4829,1.0,home,90,Estádio Municipal do Fontelo
+2019,Quarter-finals,3,306109,2020-01-16T20:00:00+00:00,Canelas 2010,4829,Academico Viseu,238,0.0,away,90,Estádio Municipal do Fontelo
+2019,Semi-finals,2,315968,2020-02-12T20:45:00+00:00,FC Porto,212,Academico Viseu,238,1.0,home,90,Estádio Do Dragão
+2019,Semi-finals,2,315968,2020-02-12T20:45:00+00:00,Academico Viseu,238,FC Porto,212,0.0,away,90,Estádio Do Dragão
+2019,Semi-finals,2,315969,2020-02-04T19:15:00+00:00,Benfica,211,Famalicao,242,1.0,home,90,Estádio do Sport Lisboa e Benfica
+2019,Semi-finals,2,315969,2020-02-04T19:15:00+00:00,Famalicao,242,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica
+2019,Final,1,324116,2020-08-01T19:45:00+00:00,Benfica,211,FC Porto,212,0.0,home,90,Estádio EFAPEL
+2019,Final,1,324116,2020-08-01T19:45:00+00:00,FC Porto,212,Benfica,211,1.0,away,90,Estádio EFAPEL
+2020,2nd Round,7,635560,2020-10-11T14:00:00+00:00,Vila Real,4812,Casa Pia,4716,0.0,home,90,Complexo Desportivo Monte Da Forca
+2020,2nd Round,7,635560,2020-10-11T14:00:00+00:00,Casa Pia,4716,Vila Real,4812,1.0,away,90,Complexo Desportivo Monte Da Forca
+2020,2nd Round,7,635561,2020-10-10T15:00:00+00:00,Lagos,6357,Penafiel,235,0.0,home,90,Estádio Municipal Fernando Cabrita
+2020,2nd Round,7,635561,2020-10-10T15:00:00+00:00,Penafiel,235,Lagos,6357,1.0,away,90,Estádio Municipal Fernando Cabrita
+2020,2nd Round,7,635563,2020-10-11T14:00:00+00:00,Santa Marta Penaguião,15209,Leixoes,244,0.0,home,90,Estádio Municipal de Santa Marta de Penaguião
+2020,2nd Round,7,635563,2020-10-11T14:00:00+00:00,Leixoes,244,Santa Marta Penaguião,15209,1.0,away,90,Estádio Municipal de Santa Marta de Penaguião
+2020,2nd Round,7,635565,2020-10-11T14:00:00+00:00,AR São Martinho,4720,Paredes,4778,0.0,home,90,Estádio Comendador Abílio Ferreira de Oliveira
+2020,2nd Round,7,635565,2020-10-11T14:00:00+00:00,Paredes,4778,AR São Martinho,4720,1.0,away,90,Estádio Comendador Abílio Ferreira de Oliveira
+2020,2nd Round,7,635566,2020-10-11T14:00:00+00:00,Moncarapachense,4847,Anadia,4727,0.0,home,90,Estádio da Torrinha
+2020,2nd Round,7,635566,2020-10-11T14:00:00+00:00,Anadia,4727,Moncarapachense,4847,1.0,away,90,Estádio da Torrinha
+2020,2nd Round,7,635567,2020-10-11T14:00:00+00:00,Cerveira,4831,Oriental Lisboa,4775,0.0,home,90,Estádio Municipal Rafael Pedreira
+2020,2nd Round,7,635567,2020-10-11T14:00:00+00:00,Oriental Lisboa,4775,Cerveira,4831,1.0,away,90,Estádio Municipal Rafael Pedreira
+2020,2nd Round,7,635568,2020-10-11T14:00:00+00:00,São João Ver,6367,Marinhense,4845,0.0,home,90,Estádio Clube São João de Ver
+2020,2nd Round,7,635568,2020-10-11T14:00:00+00:00,Marinhense,4845,São João Ver,6367,1.0,away,90,Estádio Clube São João de Ver
+2020,2nd Round,7,635569,2020-10-11T14:00:00+00:00,Os Limianos,4776,Aljustrelense,4722,1.0,home,90,Estádio Municipal da Coutada
+2020,2nd Round,7,635569,2020-10-11T14:00:00+00:00,Aljustrelense,4722,Os Limianos,4776,0.0,away,90,Estádio Municipal da Coutada
+2020,2nd Round,7,635570,2020-10-11T14:00:00+00:00,Oleiros,4772,Mirandela,4769,1.0,home,90,Estádio Municipal de Oleiros
+2020,2nd Round,7,635570,2020-10-11T14:00:00+00:00,Mirandela,4769,Oleiros,4772,0.0,away,90,Estádio Municipal de Oleiros
+2020,2nd Round,7,635571,2020-10-11T14:00:00+00:00,Trofense,4801,Águeda,4817,1.0,home,90,Estádio do Clube Desportivo Trofense
+2020,2nd Round,7,635571,2020-10-11T14:00:00+00:00,Águeda,4817,Trofense,4801,0.0,away,90,Estádio do Clube Desportivo Trofense
+2020,2nd Round,7,635572,2020-10-11T14:00:00+00:00,União Idanhense,4802,Torreense,4799,0.0,home,90,Estádio Municipal de Idanha-a-Nova
+2020,2nd Round,7,635572,2020-10-11T14:00:00+00:00,Torreense,4799,União Idanhense,4802,1.0,away,90,Estádio Municipal de Idanha-a-Nova
+2020,2nd Round,7,635573,2020-10-10T14:00:00+00:00,Vidago,15125,Vilafranquense,4717,0.0,home,90,Campo de Treinos do Municipal de Chaves
+2020,2nd Round,7,635573,2020-10-10T14:00:00+00:00,Vilafranquense,4717,Vidago,15125,1.0,away,90,Campo de Treinos do Municipal de Chaves
+2020,2nd Round,7,635574,2020-10-09T10:00:00+00:00,Sertanense,4794,Estoril,230,0.0,home,90,Campo de Jogos Dr. Marques dos Santos
+2020,2nd Round,7,635574,2020-10-09T10:00:00+00:00,Estoril,230,Sertanense,4794,1.0,away,90,Campo de Jogos Dr. Marques dos Santos
+2020,2nd Round,7,635575,2020-10-11T14:00:00+00:00,Lusitano GC Évora,4762,Mortágua,4850,1.0,home,120,Estádio Municipal de Vendas Novas
+2020,2nd Round,7,635575,2020-10-11T14:00:00+00:00,Mortágua,4850,Lusitano GC Évora,4762,0.0,away,120,Estádio Municipal de Vendas Novas
+2020,2nd Round,7,635576,2020-10-10T14:00:00+00:00,União Montemor,15299,Feirense,213,0.0,home,90,Estádio 1º de Maio
+2020,2nd Round,7,635576,2020-10-10T14:00:00+00:00,Feirense,213,União Montemor,15299,1.0,away,90,Estádio 1º de Maio
+2020,2nd Round,7,635577,2020-10-11T14:00:00+00:00,Estudantes Africanos,15297,Arouca,240,0.0,home,90,Parque Desportivo de Santa Apolónia
+2020,2nd Round,7,635577,2020-10-11T14:00:00+00:00,Arouca,240,Estudantes Africanos,15297,1.0,away,90,Parque Desportivo de Santa Apolónia
+2020,2nd Round,7,635578,2020-10-11T14:00:00+00:00,Sesimbra,15298,Oliveirense,233,0.0,home,90,Estádio da Vila Amália
+2020,2nd Round,7,635578,2020-10-11T14:00:00+00:00,Oliveirense,233,Sesimbra,15298,1.0,away,90,Estádio da Vila Amália
+2020,2nd Round,7,635579,2020-10-10T17:00:00+00:00,Estrela,15130,Lusitano FCV,4761,1.0,home,90,Estádio Nacional
+2020,2nd Round,7,635579,2020-10-10T17:00:00+00:00,Lusitano FCV,4761,Estrela,15130,0.0,away,90,Estádio Nacional
+2020,2nd Round,7,635613,2020-10-11T14:00:00+00:00,Sanjoanense,4792,Canelas 2010,4829,1.0,home,120,Estádio Conde Dias Garcia
+2020,2nd Round,7,635613,2020-10-11T14:00:00+00:00,Canelas 2010,4829,Sanjoanense,4792,0.0,away,120,Estádio Conde Dias Garcia
+2020,2nd Round,7,635614,2020-10-28T18:00:00+00:00,Vitoria Setubal,219,Academico Viseu,238,0.0,home,90,Estádio do Bonfim
+2020,2nd Round,7,635614,2020-10-28T18:00:00+00:00,Academico Viseu,238,Vitoria Setubal,219,1.0,away,90,Estádio do Bonfim
+2020,2nd Round,7,635615,2020-10-11T10:00:00+00:00,Juventude Évora,4755,Academica,239,0.0,home,90,Estádio Sanches de Miranda
+2020,2nd Round,7,635615,2020-10-11T10:00:00+00:00,Academica,239,Juventude Évora,4755,1.0,away,90,Estádio Sanches de Miranda
+2020,2nd Round,7,635616,2020-10-11T14:00:00+00:00,GRAP,4747,Cova De Piedade,241,0.0,home,90,Campo da Charneca dos Pousos
+2020,2nd Round,7,635616,2020-10-11T14:00:00+00:00,Cova De Piedade,241,GRAP,4747,1.0,away,90,Campo da Charneca dos Pousos
+2020,2nd Round,7,635617,2020-10-11T14:00:00+00:00,Pêro Pinheiro,4854,Fafe,809,0.0,home,90,Parque de Jogos Pardal Monteiro
+2020,2nd Round,7,635617,2020-10-11T14:00:00+00:00,Fafe,809,Pêro Pinheiro,4854,1.0,away,90,Parque de Jogos Pardal Monteiro
+2020,2nd Round,7,635618,2020-10-11T14:00:00+00:00,Câmara de Lobos,4835,Vizela,810,0.0,home,90,Estádio Municipal de Camara de Lobos
+2020,2nd Round,7,635618,2020-10-11T14:00:00+00:00,Vizela,810,Câmara de Lobos,4835,1.0,away,90,Estádio Municipal de Camara de Lobos
+2020,2nd Round,7,635619,2020-10-11T14:00:00+00:00,Espinho,4742,Chaves,223,1.0,home,90,Estádio Marques da Silva
+2020,2nd Round,7,635619,2020-10-11T14:00:00+00:00,Chaves,223,Espinho,4742,0.0,away,90,Estádio Marques da Silva
+2020,2nd Round,7,635620,2020-10-11T14:00:00+00:00,Montalegre,4770,Vila Cortez,6372,1.0,home,90,Estádio Dr. Diogo Alves Vaz Pereira
+2020,2nd Round,7,635620,2020-10-11T14:00:00+00:00,Vila Cortez,6372,Montalegre,4770,0.0,away,90,Estádio Dr. Diogo Alves Vaz Pereira
+2020,2nd Round,7,635621,2020-10-11T14:00:00+00:00,Vitória de Sernache,4816,Fabril Barreiro,4882,0.0,home,90,Estádio Municipal Nuno Álvares Pereira
+2020,2nd Round,7,635621,2020-10-11T14:00:00+00:00,Fabril Barreiro,4882,Vitória de Sernache,4816,1.0,away,90,Estádio Municipal Nuno Álvares Pereira
+2020,2nd Round,7,635622,2020-10-28T15:00:00+00:00,Rebordelo,6364,Varzim,237,0.0,home,90,Campo de Jogos de Rebordelo
+2020,2nd Round,7,635622,2020-10-28T15:00:00+00:00,Varzim,237,Rebordelo,6364,1.0,away,90,Campo de Jogos de Rebordelo
+2020,2nd Round,7,635623,2020-10-11T14:00:00+00:00,Carapinheirense,4877,Pinhalnovense,4783,0.0,home,90,Complexo Desportivo São Pedro
+2020,2nd Round,7,635623,2020-10-11T14:00:00+00:00,Pinhalnovense,4783,Carapinheirense,4877,1.0,away,90,Complexo Desportivo São Pedro
+2020,2nd Round,7,635624,2020-10-10T15:00:00+00:00,Fontinhas,6355,Mafra,245,1.0,home,90,Estádio Municipal da Praia da Vitória
+2020,2nd Round,7,635624,2020-10-10T15:00:00+00:00,Mafra,245,Fontinhas,6355,0.0,away,90,Estádio Municipal da Praia da Vitória
+2020,2nd Round,7,635625,2020-10-11T14:00:00+00:00,Vianense,4809,Vilar de Perdizes,4896,0.0,home,90,Estádio Dr. José de Matos
+2020,2nd Round,7,635625,2020-10-11T14:00:00+00:00,Vilar de Perdizes,4896,Vianense,4809,1.0,away,90,Estádio Dr. José de Matos
+2020,2nd Round,7,635626,2020-11-11T15:00:00+00:00,Pedras Rubras,4779,Salgueiros,4859,0.0,home,90,Estádio Municipal de Pedras Rubras
+2020,2nd Round,7,635626,2020-11-11T15:00:00+00:00,Salgueiros,4859,Pedras Rubras,4779,1.0,away,90,Estádio Municipal de Pedras Rubras
+2020,2nd Round,7,635627,2020-10-11T15:00:00+00:00,Ideal,4753,Merelinense,4768,0.0,home,120,Campo Municipal da Ribeira Grande
+2020,2nd Round,7,635627,2020-10-11T15:00:00+00:00,Merelinense,4768,Ideal,4753,1.0,away,120,Campo Municipal da Ribeira Grande
+2020,2nd Round,7,640179,2020-10-28T15:00:00+00:00,Felgueiras 1932,4744,Valadares Gaia,4805,1.0,home,90,Estádio Dr. Machado de Matos
+2020,2nd Round,7,640179,2020-10-28T15:00:00+00:00,Valadares Gaia,4805,Felgueiras 1932,4744,0.0,away,90,Estádio Dr. Machado de Matos
+2020,2nd Round,7,640180,2020-10-11T14:00:00+00:00,Moura,4771,Beira-Mar,4661,0.0,home,90,Estádio do Moura Atlético Clube
+2020,2nd Round,7,640180,2020-10-11T14:00:00+00:00,Beira-Mar,4661,Moura,4771,1.0,away,90,Estádio do Moura Atlético Clube
+2020,2nd Round,7,640181,2020-10-11T16:00:00+00:00,Alverca,4724,Camacha,4828,1.0,home,90,Complexo Desportivo FC Alverca
+2020,2nd Round,7,640181,2020-10-11T16:00:00+00:00,Camacha,4828,Alverca,4724,0.0,away,90,Complexo Desportivo FC Alverca
+2020,2nd Round,7,640477,2020-10-10T14:00:00+00:00,Ovarense,15363,Oriental Dragon,15131,0.0,home,120,Estádio Marques da Silva
+2020,2nd Round,7,640477,2020-10-10T14:00:00+00:00,Oriental Dragon,15131,Ovarense,15363,1.0,away,120,Estádio Marques da Silva
+2020,2nd Round,7,640478,2020-10-11T14:00:00+00:00,AD Portomosense,6347,Real,10149,0.0,home,90,Parque de Jogos de Porto de Mós
+2020,2nd Round,7,640478,2020-10-11T14:00:00+00:00,Real,10149,AD Portomosense,6347,1.0,away,90,Parque de Jogos de Porto de Mós
+2020,2nd Round,7,640479,2020-10-11T14:00:00+00:00,Monção,4849,FC Barreirense,4743,1.0,home,90,Estádio Manuel Lima
+2020,2nd Round,7,640479,2020-10-11T14:00:00+00:00,FC Barreirense,4743,Monção,4849,0.0,away,90,Estádio Manuel Lima
+2020,2nd Round,7,640566,2020-10-11T14:00:00+00:00,Loures,4759,Gondomar,4750,0.0,home,90,Campo de Jogos José Silva Faria
+2020,2nd Round,7,640566,2020-10-11T14:00:00+00:00,Gondomar,4750,Loures,4759,1.0,away,90,Campo de Jogos José Silva Faria
+2020,2nd Round,7,640567,2020-10-11T14:00:00+00:00,1º Dezembro,4718,União de Leiria,4662,0.0,home,90,Campo Conde de Sucena
+2020,2nd Round,7,640567,2020-10-11T14:00:00+00:00,União de Leiria,4662,1º Dezembro,4718,1.0,away,90,Campo Conde de Sucena
+2020,2nd Round,7,640568,2020-10-21T14:00:00+00:00,Tirsense,15128,Olímpico do Montijo,4774,0.0,home,90,Estádio Abel Alves de Figueiredo
+2020,2nd Round,7,640568,2020-10-21T14:00:00+00:00,Olímpico do Montijo,4774,Tirsense,15128,1.0,away,90,Estádio Abel Alves de Figueiredo
+2020,2nd Round,7,640569,2020-10-11T14:00:00+00:00,Amora,4726,Ferreiras,4745,1.0,home,90,Estádio da Medideira
+2020,2nd Round,7,640569,2020-10-11T14:00:00+00:00,Ferreiras,4745,Amora,4726,0.0,away,90,Estádio da Medideira
+2020,3rd Round,6,644100,2020-11-21T16:30:00+00:00,Arouca,240,Guimaraes,224,0.0,home,120,Estádio Municipal de Arouca
+2020,3rd Round,6,644100,2020-11-21T16:30:00+00:00,Guimaraes,224,Arouca,240,1.0,away,120,Estádio Municipal de Arouca
+2020,3rd Round,6,644101,2020-11-23T16:45:00+00:00,Real,10149,Belenenses,221,0.0,home,90,Estádio do Real SC
+2020,3rd Round,6,644101,2020-11-23T16:45:00+00:00,Belenenses,221,Real,10149,1.0,away,90,Estádio do Real SC
+2020,3rd Round,6,644102,2020-11-22T14:30:00+00:00,Monção,4849,Rio Ave,226,0.0,home,90,Estádio Manuel Lima
+2020,3rd Round,6,644102,2020-11-22T14:30:00+00:00,Rio Ave,226,Monção,4849,1.0,away,90,Estádio Manuel Lima
+2020,3rd Round,6,644103,2020-11-20T21:00:00+00:00,União de Leiria,4662,Portimonense,216,1.0,home,90,Estádio Dr. Magalhães Pessoa
+2020,3rd Round,6,644103,2020-11-20T21:00:00+00:00,Portimonense,216,União de Leiria,4662,0.0,away,90,Estádio Dr. Magalhães Pessoa
+2020,3rd Round,6,644104,2020-11-23T21:15:00+00:00,Sacavenense,4791,Sporting CP,228,0.0,home,90,Estádio Nacional
+2020,3rd Round,6,644104,2020-11-23T21:15:00+00:00,Sporting CP,228,Sacavenense,4791,1.0,away,90,Estádio Nacional
+2020,3rd Round,6,644105,2020-11-21T21:15:00+00:00,Paredes,4778,Benfica,211,0.0,home,90,Cidade Desportiva De Paredes
+2020,3rd Round,6,644105,2020-11-21T21:15:00+00:00,Benfica,211,Paredes,4778,1.0,away,90,Cidade Desportiva De Paredes
+2020,3rd Round,6,644106,2020-11-23T14:00:00+00:00,Penafiel,235,Maritimo,214,0.0,home,120,Estádio Municipal 25 de Abril
+2020,3rd Round,6,644106,2020-11-23T14:00:00+00:00,Maritimo,214,Penafiel,235,1.0,away,120,Estádio Municipal 25 de Abril
+2020,3rd Round,6,644107,2020-11-21T19:30:00+00:00,Trofense,4801,SC Braga,217,0.0,home,90,Estádio do Clube Desportivo Trofense
+2020,3rd Round,6,644107,2020-11-21T19:30:00+00:00,SC Braga,217,Trofense,4801,1.0,away,90,Estádio do Clube Desportivo Trofense
+2020,3rd Round,6,644108,2020-11-22T17:15:00+00:00,Oliveirense,233,Pacos Ferreira,234,0.0,home,90,Estádio Carlos Osório
+2020,3rd Round,6,644108,2020-11-22T17:15:00+00:00,Pacos Ferreira,234,Oliveirense,233,1.0,away,90,Estádio Carlos Osório
+2020,3rd Round,6,644109,2020-11-21T14:30:00+00:00,Fabril Barreiro,4882,FC Porto,212,0.0,home,90,Estádio Alfredo da Silva
+2020,3rd Round,6,644109,2020-11-21T14:30:00+00:00,FC Porto,212,Fabril Barreiro,4882,1.0,away,90,Estádio Alfredo da Silva
+2020,3rd Round,6,644110,2020-11-21T11:15:00+00:00,Oriental Lisboa,4775,Famalicao,242,0.0,home,90,Campo Engenheiro Carlos Salema
+2020,3rd Round,6,644110,2020-11-21T11:15:00+00:00,Famalicao,242,Oriental Lisboa,4775,1.0,away,90,Campo Engenheiro Carlos Salema
+2020,3rd Round,6,644111,2020-11-22T14:30:00+00:00,Beira-Mar,4661,Santa Clara,227,0.0,home,90,Estádio Municipal de Aveiro
+2020,3rd Round,6,644111,2020-11-22T14:30:00+00:00,Santa Clara,227,Beira-Mar,4661,1.0,away,90,Estádio Municipal de Aveiro
+2020,3rd Round,6,644112,2020-11-22T20:00:00+00:00,Vizela,810,Boavista,222,0.0,home,90,Estádio Do Vizela
+2020,3rd Round,6,644112,2020-11-22T20:00:00+00:00,Boavista,222,Vizela,810,1.0,away,90,Estádio Do Vizela
+2020,3rd Round,6,644113,2020-11-25T10:00:00+00:00,Casa Pia,4716,Nacional,225,0.0,home,120,Estádio Pina Manique
+2020,3rd Round,6,644113,2020-11-25T10:00:00+00:00,Nacional,225,Casa Pia,4716,1.0,away,120,Estádio Pina Manique
+2020,3rd Round,6,644114,2020-11-22T14:30:00+00:00,Merelinense,4768,Moreirense,215,0.0,home,90,Estádio João Soares Vieira
+2020,3rd Round,6,644114,2020-11-22T14:30:00+00:00,Moreirense,215,Merelinense,4768,1.0,away,90,Estádio João Soares Vieira
+2020,3rd Round,6,644115,2020-11-20T14:30:00+00:00,Oleiros,4772,GIL Vicente,762,0.0,home,120,Estádio Municipal de Oleiros
+2020,3rd Round,6,644115,2020-11-20T14:30:00+00:00,GIL Vicente,762,Oleiros,4772,1.0,away,120,Estádio Municipal de Oleiros
+2020,3rd Round,6,644116,2020-12-03T14:30:00+00:00,Estrela,15130,Farense,231,1.0,home,90,Estádio José Gomes
+2020,3rd Round,6,644116,2020-12-03T14:30:00+00:00,Farense,231,Estrela,15130,0.0,away,90,Estádio José Gomes
+2020,3rd Round,6,644117,2020-12-09T15:00:00+00:00,Estoril,230,Lusitano GC Évora,4762,1.0,home,90,Estádio António Coimbra da Mota
+2020,3rd Round,6,644117,2020-12-09T15:00:00+00:00,Lusitano GC Évora,4762,Estoril,230,0.0,away,90,Estádio António Coimbra da Mota
+2020,3rd Round,6,644118,2020-12-09T18:00:00+00:00,Vilafranquense,4717,Sanjoanense,4792,1.0,home,90,Estádio Municipal de Rio Maior
+2020,3rd Round,6,644118,2020-12-09T18:00:00+00:00,Sanjoanense,4792,Vilafranquense,4717,0.0,away,90,Estádio Municipal de Rio Maior
+2020,3rd Round,6,644119,2020-11-22T11:00:00+00:00,Anadia,4727,Pinhalnovense,4783,1.0,home,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2020,3rd Round,6,644119,2020-11-22T11:00:00+00:00,Pinhalnovense,4783,Anadia,4727,0.0,away,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2020,3rd Round,6,644120,2020-11-21T11:00:00+00:00,Oriental Dragon,15131,Leixoes,244,0.0,home,120,Campo do Juncal
+2020,3rd Round,6,644120,2020-11-21T11:00:00+00:00,Leixoes,244,Oriental Dragon,15131,1.0,away,120,Campo do Juncal
+2020,3rd Round,6,644121,2020-11-20T17:30:00+00:00,Feirense,213,Amora,4726,0.0,home,90,Estádio Marcolino de Castro
+2020,3rd Round,6,644121,2020-11-20T17:30:00+00:00,Amora,4726,Feirense,213,1.0,away,90,Estádio Marcolino de Castro
+2020,3rd Round,6,644122,2020-11-22T11:00:00+00:00,Espinho,4742,Gondomar,4750,1.0,home,90,Estádio Marques da Silva
+2020,3rd Round,6,644122,2020-11-22T11:00:00+00:00,Gondomar,4750,Espinho,4742,0.0,away,90,Estádio Marques da Silva
+2020,3rd Round,6,644123,2020-11-22T11:00:00+00:00,Os Limianos,4776,Fontinhas,6355,0.0,home,90,Estádio do Cruzeiro
+2020,3rd Round,6,644123,2020-11-22T11:00:00+00:00,Fontinhas,6355,Os Limianos,4776,1.0,away,90,Estádio do Cruzeiro
+2020,3rd Round,6,644125,2020-11-22T11:00:00+00:00,Torreense,4799,Alverca,4724,1.0,home,90,Campo Manuel Marques
+2020,3rd Round,6,644125,2020-11-22T11:00:00+00:00,Alverca,4724,Torreense,4799,0.0,away,90,Campo Manuel Marques
+2020,3rd Round,6,644126,2020-11-22T11:00:00+00:00,Fafe,809,Vilar de Perdizes,4896,1.0,home,90,Parque Municipal dos Desportos
+2020,3rd Round,6,644126,2020-11-22T11:00:00+00:00,Vilar de Perdizes,4896,Fafe,809,0.0,away,90,Parque Municipal dos Desportos
+2020,3rd Round,6,645588,2020-11-22T11:00:00+00:00,Felgueiras 1932,4744,Tondela,218,0.0,home,90,Estádio Dr. Machado de Matos
+2020,3rd Round,6,645588,2020-11-22T11:00:00+00:00,Tondela,218,Felgueiras 1932,4744,1.0,away,90,Estádio Dr. Machado de Matos
+2020,3rd Round,6,645589,2020-11-21T14:00:00+00:00,Montalegre,4770,Academico Viseu,238,0.0,home,90,Estádio Dr. Diogo Alves Vaz Pereira
+2020,3rd Round,6,645589,2020-11-21T14:00:00+00:00,Academico Viseu,238,Montalegre,4770,1.0,away,90,Estádio Dr. Diogo Alves Vaz Pereira
+2020,3rd Round,6,645590,2020-11-23T19:30:00+00:00,Academica,239,Varzim,237,1.0,home,90,Estádio EFAPEL
+2020,3rd Round,6,645590,2020-11-23T19:30:00+00:00,Varzim,237,Academica,239,0.0,away,90,Estádio EFAPEL
+2020,3rd Round,6,645591,2020-11-22T11:00:00+00:00,Vilaverdense,4814,Olímpico do Montijo,4774,0.0,home,90,Campo Cruz Do Reguengo
+2020,3rd Round,6,645591,2020-11-22T11:00:00+00:00,Olímpico do Montijo,4774,Vilaverdense,4814,1.0,away,90,Campo Cruz Do Reguengo
+2020,3rd Round,6,646728,2020-11-23T11:00:00+00:00,Salgueiros,4859,SC Covilha,236,1.0,home,90,Complexo Desportivo de Campanhã
+2020,3rd Round,6,646728,2020-11-23T11:00:00+00:00,SC Covilha,236,Salgueiros,4859,0.0,away,90,Complexo Desportivo de Campanhã
+2020,4th Round,5,648781,2020-12-11T14:00:00+00:00,Academico Viseu,238,Academica,239,1.0,home,90,Estádio Municipal do Fontelo
+2020,4th Round,5,648781,2020-12-11T14:00:00+00:00,Academica,239,Academico Viseu,238,0.0,away,90,Estádio Municipal do Fontelo
+2020,4th Round,5,648782,2020-12-13T14:00:00+00:00,Guimaraes,224,Santa Clara,227,0.0,home,90,Estádio Dom Afonso Henriques
+2020,4th Round,5,648782,2020-12-13T14:00:00+00:00,Santa Clara,227,Guimaraes,224,1.0,away,90,Estádio Dom Afonso Henriques
+2020,4th Round,5,648783,2020-12-13T18:30:00+00:00,FC Porto,212,Tondela,218,1.0,home,90,Estádio Do Dragão
+2020,4th Round,5,648783,2020-12-13T18:30:00+00:00,Tondela,218,FC Porto,212,0.0,away,90,Estádio Do Dragão
+2020,4th Round,5,648784,2020-12-11T21:15:00+00:00,Sporting CP,228,Pacos Ferreira,234,1.0,home,90,Estádio José Alvalade
+2020,4th Round,5,648784,2020-12-11T21:15:00+00:00,Pacos Ferreira,234,Sporting CP,228,0.0,away,90,Estádio José Alvalade
+2020,4th Round,5,648785,2020-12-23T16:00:00+00:00,União de Leiria,4662,GIL Vicente,762,0.0,home,90,Estádio Dr. Magalhães Pessoa
+2020,4th Round,5,648785,2020-12-23T16:00:00+00:00,GIL Vicente,762,União de Leiria,4662,1.0,away,90,Estádio Dr. Magalhães Pessoa
+2020,4th Round,5,648786,2020-12-23T20:00:00+00:00,Nacional,225,Leixoes,244,1.0,home,90,Estádio da Madeira
+2020,4th Round,5,648786,2020-12-23T20:00:00+00:00,Leixoes,244,Nacional,225,0.0,away,90,Estádio da Madeira
+2020,4th Round,5,648787,2020-12-13T11:00:00+00:00,Cova De Piedade,241,Moreirense,215,0.0,home,120,Estádio Municipal José Martins Vieira
+2020,4th Round,5,648787,2020-12-13T11:00:00+00:00,Moreirense,215,Cova De Piedade,241,1.0,away,120,Estádio Municipal José Martins Vieira
+2020,4th Round,5,648788,2020-12-14T20:15:00+00:00,Olímpico do Montijo,4774,SC Braga,217,0.0,home,90,Estádio Nacional
+2020,4th Round,5,648788,2020-12-14T20:15:00+00:00,SC Braga,217,Olímpico do Montijo,4774,1.0,away,90,Estádio Nacional
+2020,4th Round,5,648789,2020-12-23T19:00:00+00:00,Belenenses,221,Espinho,4742,1.0,home,120,Estádio Nacional
+2020,4th Round,5,648789,2020-12-23T19:00:00+00:00,Espinho,4742,Belenenses,221,0.0,away,120,Estádio Nacional
+2020,4th Round,5,648790,2020-12-12T15:00:00+00:00,Rio Ave,226,Famalicao,242,1.0,home,90,Estádio do Rio Ave Futebol Clube
+2020,4th Round,5,648790,2020-12-12T15:00:00+00:00,Famalicao,242,Rio Ave,226,0.0,away,90,Estádio do Rio Ave Futebol Clube
+2020,4th Round,5,648791,2020-12-14T11:00:00+00:00,Torreense,4799,Amora,4726,1.0,home,90,Campo Manuel Marques
+2020,4th Round,5,648791,2020-12-14T11:00:00+00:00,Amora,4726,Torreense,4799,0.0,away,90,Campo Manuel Marques
+2020,4th Round,5,648792,2020-12-23T11:00:00+00:00,Maritimo,214,Salgueiros,4859,1.0,home,120,Estádio do Centro Desportivo da Madeira
+2020,4th Round,5,648792,2020-12-23T11:00:00+00:00,Salgueiros,4859,Maritimo,214,0.0,away,120,Estádio do Centro Desportivo da Madeira
+2020,4th Round,5,649952,2020-12-14T14:00:00+00:00,Anadia,4727,Estrela,15130,0.0,home,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2020,4th Round,5,649952,2020-12-14T14:00:00+00:00,Estrela,15130,Anadia,4727,1.0,away,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2020,4th Round,5,651281,2020-12-12T21:00:00+00:00,Estoril,230,Boavista,222,1.0,home,90,Estádio António Coimbra da Mota
+2020,4th Round,5,651281,2020-12-12T21:00:00+00:00,Boavista,222,Estoril,230,0.0,away,90,Estádio António Coimbra da Mota
+2020,4th Round,5,651282,2020-12-13T20:30:00+00:00,Benfica,211,Vilafranquense,4717,1.0,home,90,Estádio do Sport Lisboa e Benfica
+2020,4th Round,5,651282,2020-12-13T20:30:00+00:00,Vilafranquense,4717,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica
+2020,Quarter-finals,3,656905,2021-01-27T20:15:00+00:00,Maritimo,214,Estoril,230,0.0,home,120,Estádio dos Barreiros
+2020,Quarter-finals,3,656905,2021-01-27T20:15:00+00:00,Estoril,230,Maritimo,214,1.0,away,120,Estádio dos Barreiros
+2020,Quarter-finals,3,656906,2021-01-29T19:45:00+00:00,SC Braga,217,Santa Clara,227,1.0,home,90,Estádio Municipal de Braga
+2020,Quarter-finals,3,656906,2021-01-29T19:45:00+00:00,Santa Clara,227,SC Braga,217,0.0,away,90,Estádio Municipal de Braga
+2020,Quarter-finals,3,658491,2021-01-28T21:15:00+00:00,Benfica,211,Belenenses,221,1.0,home,90,Estádio do Sport Lisboa e Benfica
+2020,Quarter-finals,3,658491,2021-01-28T21:15:00+00:00,Belenenses,221,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica
+2020,Quarter-finals,3,658492,2021-01-29T20:45:00+00:00,GIL Vicente,762,FC Porto,212,0.0,home,90,Estádio Cidade de Barcelos
+2020,Quarter-finals,3,658492,2021-01-29T20:45:00+00:00,FC Porto,212,GIL Vicente,762,1.0,away,90,Estádio Cidade de Barcelos
+2020,Semi-finals,2,672839,2021-03-03T20:15:00+00:00,FC Porto,212,SC Braga,217,0.0,home,90,Estádio Do Dragão
+2020,Semi-finals,2,672839,2021-03-03T20:15:00+00:00,SC Braga,217,FC Porto,212,1.0,away,90,Estádio Do Dragão
+2020,Semi-finals,2,672840,2021-02-11T20:15:00+00:00,Estoril,230,Benfica,211,0.0,home,90,Estádio António Coimbra da Mota
+2020,Semi-finals,2,672840,2021-02-11T20:15:00+00:00,Benfica,211,Estoril,230,1.0,away,90,Estádio António Coimbra da Mota
+2020,Semi-finals,2,672841,2021-03-04T20:15:00+00:00,Benfica,211,Estoril,230,1.0,home,90,Estádio do Sport Lisboa e Benfica
+2020,Semi-finals,2,672841,2021-03-04T20:15:00+00:00,Estoril,230,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica
+2020,Final,1,682303,2021-05-23T19:30:00+00:00,SC Braga,217,Benfica,211,1.0,home,90,Estádio EFAPEL
+2020,Final,1,682303,2021-05-23T19:30:00+00:00,Benfica,211,SC Braga,217,0.0,away,90,Estádio EFAPEL
+2021,2nd Round,7,794047,2021-09-23T18:45:00+00:00,Real,10149,Cova De Piedade,241,1.0,home,120,Estádio do Real SC
+2021,2nd Round,7,794047,2021-09-23T18:45:00+00:00,Cova De Piedade,241,Real,10149,0.0,away,120,Estádio do Real SC
+2021,2nd Round,7,794048,2021-09-24T18:30:00+00:00,Alverca,4724,Vila Real,4812,1.0,home,90,Complexo Desportivo FC Alverca
+2021,2nd Round,7,794048,2021-09-24T18:30:00+00:00,Vila Real,4812,Alverca,4724,0.0,away,90,Complexo Desportivo FC Alverca
+2021,2nd Round,7,794049,2021-09-25T10:00:00+00:00,Vianense,4809,Vitoria Setubal,219,0.0,home,90,Estádio Dr. José de Matos
+2021,2nd Round,7,794049,2021-09-25T10:00:00+00:00,Vitoria Setubal,219,Vianense,4809,1.0,away,90,Estádio Dr. José de Matos
+2021,2nd Round,7,794050,2021-09-25T13:00:00+00:00,São João Ver,6367,Leixoes,244,0.0,home,120,Estádio Clube São João de Ver
+2021,2nd Round,7,794050,2021-09-25T13:00:00+00:00,Leixoes,244,São João Ver,6367,1.0,away,120,Estádio Clube São João de Ver
+2021,2nd Round,7,794051,2021-09-25T14:00:00+00:00,Ferreira de Aves,4840,Academico Viseu,238,0.0,home,90,Estádio do Montrangão
+2021,2nd Round,7,794051,2021-09-25T14:00:00+00:00,Academico Viseu,238,Ferreira de Aves,4840,1.0,away,90,Estádio do Montrangão
+2021,2nd Round,7,794052,2021-09-25T14:00:00+00:00,Canelas 2010,4829,Casa Pia,4716,0.0,home,90,Estádio Clube Futebol Canelas 2010
+2021,2nd Round,7,794052,2021-09-25T14:00:00+00:00,Casa Pia,4716,Canelas 2010,4829,1.0,away,90,Estádio Clube Futebol Canelas 2010
+2021,2nd Round,7,794053,2021-09-26T14:00:00+00:00,Maria da Fonte,4765,Penafiel,235,0.0,home,90,Estádio Moinhos Novos
+2021,2nd Round,7,794053,2021-09-26T14:00:00+00:00,Penafiel,235,Maria da Fonte,4765,1.0,away,90,Estádio Moinhos Novos
+2021,2nd Round,7,794054,2021-09-25T15:00:00+00:00,São Roque,17779,Farense,231,0.0,home,90,Campo de Jogos de São Roque
+2021,2nd Round,7,794054,2021-09-25T15:00:00+00:00,Farense,231,São Roque,17779,1.0,away,90,Campo de Jogos de São Roque
+2021,2nd Round,7,794055,2021-09-25T14:00:00+00:00,Vila Meã,15211,Feirense,213,0.0,home,90,Estádio Municipal de Vila Meã
+2021,2nd Round,7,794055,2021-09-25T14:00:00+00:00,Feirense,213,Vila Meã,15211,1.0,away,90,Estádio Municipal de Vila Meã
+2021,2nd Round,7,794056,2021-09-25T14:00:00+00:00,Vinhais,4815,Nacional,225,0.0,home,90,Estádio Municipal de Vinhais
+2021,2nd Round,7,794056,2021-09-25T14:00:00+00:00,Nacional,225,Vinhais,4815,1.0,away,90,Estádio Municipal de Vinhais
+2021,2nd Round,7,794057,2021-09-25T14:00:00+00:00,União Idanhense,4802,SC Covilha,236,0.0,home,90,Estádio Municipal de Idanha-a-Nova
+2021,2nd Round,7,794057,2021-09-25T14:00:00+00:00,SC Covilha,236,União Idanhense,4802,1.0,away,90,Estádio Municipal de Idanha-a-Nova
+2021,2nd Round,7,794058,2021-09-25T14:00:00+00:00,Sertanense,4794,Mafra,245,0.0,home,90,Campo de Jogos Dr. Marques dos Santos
+2021,2nd Round,7,794058,2021-09-25T14:00:00+00:00,Mafra,245,Sertanense,4794,1.0,away,90,Campo de Jogos Dr. Marques dos Santos
+2021,2nd Round,7,794059,2021-09-25T16:00:00+00:00,Ferreiras,4745,Estrela,15130,0.0,home,90,Estádio da Nora
+2021,2nd Round,7,794059,2021-09-25T16:00:00+00:00,Estrela,15130,Ferreiras,4745,1.0,away,90,Estádio da Nora
+2021,2nd Round,7,794060,2021-09-25T14:00:00+00:00,Imortal Albufeira,17385,Vilafranquense,4717,0.0,home,90,Estádio Municipal de Albufeira
+2021,2nd Round,7,794060,2021-09-25T14:00:00+00:00,Vilafranquense,4717,Imortal Albufeira,17385,1.0,away,90,Estádio Municipal de Albufeira
+2021,2nd Round,7,794061,2021-09-25T14:00:00+00:00,Alpendorada,17775,Academica,239,0.0,home,120,Estádio Municipal de Alpendorada
+2021,2nd Round,7,794061,2021-09-25T14:00:00+00:00,Academica,239,Alpendorada,17775,1.0,away,120,Estádio Municipal de Alpendorada
+2021,2nd Round,7,794062,2021-09-25T14:00:00+00:00,Pevidem,6362,Trofense,4801,0.0,home,120,Complexo Desportivo do Pevidém SC
+2021,2nd Round,7,794062,2021-09-25T14:00:00+00:00,Trofense,4801,Pevidem,6362,1.0,away,120,Complexo Desportivo do Pevidém SC
+2021,2nd Round,7,794063,2021-09-25T14:00:00+00:00,Espinho,4742,Merelinense,4768,1.0,home,90,Estádio Marques da Silva
+2021,2nd Round,7,794063,2021-09-25T14:00:00+00:00,Merelinense,4768,Espinho,4742,0.0,away,90,Estádio Marques da Silva
+2021,2nd Round,7,794064,2021-09-25T14:00:00+00:00,Condeixa,4739,Lagos,6357,1.0,home,120,Estádio Municipal de Condeixa
+2021,2nd Round,7,794064,2021-09-25T14:00:00+00:00,Lagos,6357,Condeixa,4739,0.0,away,120,Estádio Municipal de Condeixa
+2021,2nd Round,7,794065,2021-09-25T14:00:00+00:00,Belenenses,221,Pêro Pinheiro,4854,1.0,home,90,Estádio do Restelo
+2021,2nd Round,7,794065,2021-09-25T14:00:00+00:00,Pêro Pinheiro,4854,Belenenses,221,0.0,away,90,Estádio do Restelo
+2021,2nd Round,7,794066,2021-09-25T15:00:00+00:00,Anadia,4727,Coruchense,4833,1.0,home,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2021,2nd Round,7,794066,2021-09-25T15:00:00+00:00,Coruchense,4833,Anadia,4727,0.0,away,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2021,2nd Round,7,794067,2021-09-25T14:00:00+00:00,Estrela Vendas Novas,4839,Paredes,4778,0.0,home,90,Estádio Municipal de Vendas Novas
+2021,2nd Round,7,794067,2021-09-25T14:00:00+00:00,Paredes,4778,Estrela Vendas Novas,4839,1.0,away,90,Estádio Municipal de Vendas Novas
+2021,2nd Round,7,794069,2021-09-25T14:00:00+00:00,Olhanense,807,Santa Cruz de Alvarenga,17390,1.0,home,90,Estádio José Arcanjo
+2021,2nd Round,7,794069,2021-09-25T14:00:00+00:00,Santa Cruz de Alvarenga,17390,Olhanense,807,0.0,away,90,Estádio José Arcanjo
+2021,2nd Round,7,794070,2021-09-25T14:00:00+00:00,Camacha,4828,Ribeirão,17778,1.0,home,90,Complexo Desportivo da Camacha
+2021,2nd Round,7,794070,2021-09-25T14:00:00+00:00,Ribeirão,17778,Camacha,4828,0.0,away,90,Complexo Desportivo da Camacha
+2021,2nd Round,7,794071,2021-09-25T14:00:00+00:00,União Montemor,15299,Vilaverdense,4814,0.0,home,90,Estádio 1º de Maio
+2021,2nd Round,7,794071,2021-09-25T14:00:00+00:00,Vilaverdense,4814,União Montemor,15299,1.0,away,90,Estádio 1º de Maio
+2021,2nd Round,7,794073,2021-09-25T14:00:00+00:00,Águias do Moradal,4867,Damaiense,17380,1.0,home,90,Estádio do Ventoso
+2021,2nd Round,7,794073,2021-09-25T14:00:00+00:00,Damaiense,17380,Águias do Moradal,4867,0.0,away,90,Estádio do Ventoso
+2021,2nd Round,7,794075,2021-09-25T14:00:00+00:00,FC Serpa,17442,CD Olivais e Moscavide,17776,1.0,home,90,Campo Sintético Complexo Desportivo Manuel Baião
+2021,2nd Round,7,794075,2021-09-25T14:00:00+00:00,CD Olivais e Moscavide,17776,FC Serpa,17442,0.0,away,90,Campo Sintético Complexo Desportivo Manuel Baião
+2021,2nd Round,7,794076,2021-09-25T14:00:00+00:00,Oliveira Hospital,4773,U. Madeira,763,1.0,home,90,Estádio Municipal de Tábua
+2021,2nd Round,7,794076,2021-09-25T14:00:00+00:00,U. Madeira,763,Oliveira Hospital,4773,0.0,away,90,Estádio Municipal de Tábua
+2021,2nd Round,7,794077,2021-09-25T14:00:00+00:00,Caldas,4733,Amora,4726,1.0,home,90,Campo da Mata
+2021,2nd Round,7,794077,2021-09-25T14:00:00+00:00,Amora,4726,Caldas,4733,0.0,away,90,Campo da Mata
+2021,2nd Round,7,794078,2021-09-25T14:00:00+00:00,Moitense,17777,Ançã,6349,1.0,home,90,Campo do Juncal
+2021,2nd Round,7,794078,2021-09-25T14:00:00+00:00,Ançã,6349,Moitense,17777,0.0,away,90,Campo do Juncal
+2021,2nd Round,7,794079,2021-09-25T14:00:00+00:00,Rebordelo,6364,Cinfães,4737,0.0,home,90,Campo de Jogos de Rebordelo
+2021,2nd Round,7,794079,2021-09-25T14:00:00+00:00,Cinfães,4737,Rebordelo,6364,1.0,away,90,Campo de Jogos de Rebordelo
+2021,2nd Round,7,794080,2021-09-25T14:00:00+00:00,Pombal,4853,Leça,4757,0.0,home,90,Campo Dr. Armindo Lopes Carolino
+2021,2nd Round,7,794080,2021-09-25T14:00:00+00:00,Leça,4757,Pombal,4853,1.0,away,90,Campo Dr. Armindo Lopes Carolino
+2021,2nd Round,7,794081,2021-09-25T14:00:00+00:00,Oliveirense,233,Arronches e Benfica,17379,1.0,home,90,Estádio Carlos Osório
+2021,2nd Round,7,794081,2021-09-25T14:00:00+00:00,Arronches e Benfica,17379,Oliveirense,233,0.0,away,90,Estádio Carlos Osório
+2021,2nd Round,7,794082,2021-09-25T14:00:00+00:00,AR São Martinho,4720,Benfica Castelo Branco,4731,0.0,home,90,Estádio Comendador Abílio Ferreira de Oliveira
+2021,2nd Round,7,794082,2021-09-25T14:00:00+00:00,Benfica Castelo Branco,4731,AR São Martinho,4720,1.0,away,90,Estádio Comendador Abílio Ferreira de Oliveira
+2021,2nd Round,7,794083,2021-09-25T14:00:00+00:00,Sacavenense,4791,Fafe,809,0.0,home,90,Campo do Sacavenense
+2021,2nd Round,7,794083,2021-09-25T14:00:00+00:00,Fafe,809,Sacavenense,4791,1.0,away,90,Campo do Sacavenense
+2021,2nd Round,7,794084,2021-09-25T10:00:00+00:00,União de Coimbra,17391,Graciosa,4752,1.0,home,90,Estádio EFAPEL
+2021,2nd Round,7,794084,2021-09-25T10:00:00+00:00,Graciosa,4752,União de Coimbra,17391,0.0,away,90,Estádio EFAPEL
+2021,2nd Round,7,794085,2021-09-25T14:00:00+00:00,Os Limianos,4776,Berço,6350,0.0,home,90,Estádio do Cruzeiro
+2021,2nd Round,7,794085,2021-09-25T14:00:00+00:00,Berço,6350,Os Limianos,4776,1.0,away,90,Estádio do Cruzeiro
+2021,2nd Round,7,794086,2021-09-26T11:00:00+00:00,Ideal,4753,Valadares Gaia,4805,0.0,home,90,Campo Municipal da Ribeira Grande
+2021,2nd Round,7,794086,2021-09-26T11:00:00+00:00,Valadares Gaia,4805,Ideal,4753,1.0,away,90,Campo Municipal da Ribeira Grande
+2021,2nd Round,7,794087,2021-09-25T16:00:00+00:00,Rabo Peixe,4787,Castro Daire,6353,0.0,home,120,Campo Municipal da Ribeira Grande
+2021,2nd Round,7,794087,2021-09-25T16:00:00+00:00,Castro Daire,6353,Rabo Peixe,4787,1.0,away,120,Campo Municipal da Ribeira Grande
+2021,2nd Round,7,794088,2021-09-25T14:00:00+00:00,Fontinhas,6355,Torreense,4799,0.0,home,90,Campo Municipal Dr. Durval Monteiro
+2021,2nd Round,7,794088,2021-09-25T14:00:00+00:00,Torreense,4799,Fontinhas,6355,1.0,away,90,Campo Municipal Dr. Durval Monteiro
+2021,2nd Round,7,794089,2021-09-25T16:00:00+00:00,Louletano,4758,Salgueiros,4859,1.0,home,90,Estádio Do Algarve
+2021,2nd Round,7,794089,2021-09-25T16:00:00+00:00,Salgueiros,4859,Louletano,4758,0.0,away,90,Estádio Do Algarve
+2021,2nd Round,7,794090,2021-09-25T19:00:00+00:00,Felgueiras 1932,4744,Chaves,223,1.0,home,90,Estádio Dr. Machado de Matos
+2021,2nd Round,7,794090,2021-09-25T19:00:00+00:00,Chaves,223,Felgueiras 1932,4744,0.0,away,90,Estádio Dr. Machado de Matos
+2021,2nd Round,7,794091,2021-09-26T10:00:00+00:00,Oleiros,4772,Varzim,237,0.0,home,90,Estádio Municipal de Oleiros
+2021,2nd Round,7,794091,2021-09-26T10:00:00+00:00,Varzim,237,Oleiros,4772,1.0,away,90,Estádio Municipal de Oleiros
+2021,2nd Round,7,794092,2021-09-26T13:00:00+00:00,Vitória de Sernache,4816,Rio Ave,226,0.0,home,90,Estádio Municipal Nuno Álvares Pereira
+2021,2nd Round,7,794092,2021-09-26T13:00:00+00:00,Rio Ave,226,Vitória de Sernache,4816,1.0,away,90,Estádio Municipal Nuno Álvares Pereira
+2021,3rd Round,6,801203,2021-10-15T19:45:00+00:00,CF Os Belenenses,17692,Sporting CP,228,0.0,home,90,Estádio do Restelo
+2021,3rd Round,6,801203,2021-10-15T19:45:00+00:00,Sporting CP,228,CF Os Belenenses,17692,1.0,away,90,Estádio do Restelo
+2021,3rd Round,6,801204,2021-10-17T14:00:00+00:00,Águias do Moradal,4867,Pacos Ferreira,234,0.0,home,90,Estádio do Ventoso
+2021,3rd Round,6,801204,2021-10-17T14:00:00+00:00,Pacos Ferreira,234,Águias do Moradal,4867,1.0,away,90,Estádio do Ventoso
+2021,3rd Round,6,801206,2021-10-15T17:45:00+00:00,Sintrense,4796,FC Porto,212,0.0,home,90,Estádio do Real SC
+2021,3rd Round,6,801206,2021-10-15T17:45:00+00:00,FC Porto,212,Sintrense,4796,1.0,away,90,Estádio do Real SC
+2021,3rd Round,6,801207,2021-10-16T14:00:00+00:00,Oriental Dragon,15131,Moreirense,215,0.0,home,120,Estádio Alfredo da Silva
+2021,3rd Round,6,801207,2021-10-16T14:00:00+00:00,Moreirense,215,Oriental Dragon,15131,1.0,away,120,Estádio Alfredo da Silva
+2021,3rd Round,6,801209,2021-10-17T13:00:00+00:00,Vitoria Setubal,219,Vizela,810,0.0,home,90,Estádio do Bonfim
+2021,3rd Round,6,801209,2021-10-17T13:00:00+00:00,Vizela,810,Vitoria Setubal,219,1.0,away,90,Estádio do Bonfim
+2021,3rd Round,6,801210,2021-10-17T14:00:00+00:00,Condeixa,4739,GIL Vicente,762,0.0,home,90,Estádio Municipal de Condeixa
+2021,3rd Round,6,801210,2021-10-17T14:00:00+00:00,GIL Vicente,762,Condeixa,4739,1.0,away,90,Estádio Municipal de Condeixa
+2021,3rd Round,6,801211,2021-10-16T14:00:00+00:00,Berço,6350,Belenenses,221,0.0,home,120,Campo Gémeos Castro
+2021,3rd Round,6,801211,2021-10-16T14:00:00+00:00,Belenenses,221,Berço,6350,1.0,away,120,Campo Gémeos Castro
+2021,3rd Round,6,801212,2021-10-17T14:00:00+00:00,Moitense,17777,SC Braga,217,0.0,home,90,Estádio Alfredo da Silva
+2021,3rd Round,6,801212,2021-10-17T14:00:00+00:00,SC Braga,217,Moitense,17777,1.0,away,90,Estádio Alfredo da Silva
+2021,3rd Round,6,801213,2021-10-16T19:15:00+00:00,Trofense,4801,Benfica,211,0.0,home,120,Estádio do Clube Desportivo Trofense
+2021,3rd Round,6,801213,2021-10-16T19:15:00+00:00,Benfica,211,Trofense,4801,1.0,away,120,Estádio do Clube Desportivo Trofense
+2021,3rd Round,6,801214,2021-10-16T15:00:00+00:00,União de Leiria,4662,Santa Clara,227,0.0,home,90,Estádio Dr. Magalhães Pessoa
+2021,3rd Round,6,801214,2021-10-16T15:00:00+00:00,Santa Clara,227,União de Leiria,4662,1.0,away,90,Estádio Dr. Magalhães Pessoa
+2021,3rd Round,6,801216,2021-10-17T19:00:00+00:00,Rio Ave,226,Boavista,222,1.0,home,90,Estádio do Rio Ave Futebol Clube
+2021,3rd Round,6,801216,2021-10-17T19:00:00+00:00,Boavista,222,Rio Ave,226,0.0,away,90,Estádio do Rio Ave Futebol Clube
+2021,3rd Round,6,801217,2021-10-16T14:00:00+00:00,Camacha,4828,Tondela,218,0.0,home,90,Complexo Desportivo da Camacha Campo B
+2021,3rd Round,6,801217,2021-10-16T14:00:00+00:00,Tondela,218,Camacha,4828,1.0,away,90,Complexo Desportivo da Camacha Campo B
+2021,3rd Round,6,801218,2021-10-15T17:00:00+00:00,Academica,239,Famalicao,242,0.0,home,90,Estádio EFAPEL
+2021,3rd Round,6,801218,2021-10-15T17:00:00+00:00,Famalicao,242,Academica,239,1.0,away,90,Estádio EFAPEL
+2021,3rd Round,6,801219,2021-10-17T14:00:00+00:00,Felgueiras 1932,4744,Estoril,230,0.0,home,90,Estádio Dr. Machado de Matos
+2021,3rd Round,6,801219,2021-10-17T14:00:00+00:00,Estoril,230,Felgueiras 1932,4744,1.0,away,90,Estádio Dr. Machado de Matos
+2021,3rd Round,6,801220,2021-10-17T14:00:00+00:00,Cinfães,4737,Farense,231,0.0,home,90,Estádio Municipal Cerveira Pinto
+2021,3rd Round,6,801220,2021-10-17T14:00:00+00:00,Farense,231,Cinfães,4737,1.0,away,90,Estádio Municipal Cerveira Pinto
+2021,3rd Round,6,801221,2021-10-16T14:00:00+00:00,Valadares Gaia,4805,Casa Pia,4716,0.0,home,90,Complexo Desportivo de Valadares
+2021,3rd Round,6,801221,2021-10-16T14:00:00+00:00,Casa Pia,4716,Valadares Gaia,4805,1.0,away,90,Complexo Desportivo de Valadares
+2021,3rd Round,6,801222,2021-10-16T14:00:00+00:00,Vilafranquense,4717,Real,10149,1.0,home,120,Campo Chã das Padeiras
+2021,3rd Round,6,801222,2021-10-16T14:00:00+00:00,Real,10149,Vilafranquense,4717,0.0,away,120,Campo Chã das Padeiras
+2021,3rd Round,6,801223,2021-10-16T14:00:00+00:00,Espinho,4742,Caldas,4733,0.0,home,90,Estádio Marques da Silva
+2021,3rd Round,6,801223,2021-10-16T14:00:00+00:00,Caldas,4733,Espinho,4742,1.0,away,90,Estádio Marques da Silva
+2021,3rd Round,6,801224,2021-10-17T14:00:00+00:00,Feirense,213,Nacional,225,1.0,home,120,Estádio Marcolino de Castro
+2021,3rd Round,6,801224,2021-10-17T14:00:00+00:00,Nacional,225,Feirense,213,0.0,away,120,Estádio Marcolino de Castro
+2021,3rd Round,6,801225,2021-10-16T14:00:00+00:00,Leixoes,244,Vilaverdense,4814,1.0,home,90,Estádio do Mar
+2021,3rd Round,6,801225,2021-10-16T14:00:00+00:00,Vilaverdense,4814,Leixoes,244,0.0,away,90,Estádio do Mar
+2021,3rd Round,6,801226,2021-10-17T14:00:00+00:00,Alverca,4724,Anadia,4727,1.0,home,90,Complexo Desportivo FC Alverca
+2021,3rd Round,6,801226,2021-10-17T14:00:00+00:00,Anadia,4727,Alverca,4724,0.0,away,90,Complexo Desportivo FC Alverca
+2021,3rd Round,6,801227,2021-10-17T14:00:00+00:00,Mafra,245,União de Coimbra,17391,1.0,home,90,Estádio Municipal de Mafra
+2021,3rd Round,6,801227,2021-10-17T14:00:00+00:00,União de Coimbra,17391,Mafra,245,0.0,away,90,Estádio Municipal de Mafra
+2021,3rd Round,6,801228,2021-10-16T17:00:00+00:00,Louletano,4758,Estrela,15130,0.0,home,90,Estádio Do Algarve
+2021,3rd Round,6,801228,2021-10-16T17:00:00+00:00,Estrela,15130,Louletano,4758,1.0,away,90,Estádio Do Algarve
+2021,3rd Round,6,801229,2021-10-16T10:00:00+00:00,Oliveira Hospital,4773,Guimaraes,224,0.0,home,90,Estádio Municipal de Tábua
+2021,3rd Round,6,801229,2021-10-16T10:00:00+00:00,Guimaraes,224,Oliveira Hospital,4773,1.0,away,90,Estádio Municipal de Tábua
+2021,3rd Round,6,801231,2021-10-16T14:00:00+00:00,Paredes,4778,Academico Viseu,238,1.0,home,90,Cidade Desportiva De Paredes
+2021,3rd Round,6,801231,2021-10-16T14:00:00+00:00,Academico Viseu,238,Paredes,4778,0.0,away,90,Cidade Desportiva De Paredes
+2021,3rd Round,6,801233,2021-10-17T14:00:00+00:00,FC Serpa,17442,SC Covilha,236,1.0,home,120,Campo Sintético Complexo Desportivo Manuel Baião
+2021,3rd Round,6,801233,2021-10-17T14:00:00+00:00,SC Covilha,236,FC Serpa,17442,0.0,away,120,Campo Sintético Complexo Desportivo Manuel Baião
+2021,3rd Round,6,801234,2021-10-17T14:00:00+00:00,Benfica Castelo Branco,4731,Penafiel,235,0.0,home,90,Estádio Municipal Vale do Romeiro
+2021,3rd Round,6,801234,2021-10-17T14:00:00+00:00,Penafiel,235,Benfica Castelo Branco,4731,1.0,away,90,Estádio Municipal Vale do Romeiro
+2021,4th Round,5,806946,2021-11-19T20:45:00+00:00,Benfica,211,Pacos Ferreira,234,1.0,home,90,Estádio do Sport Lisboa e Benfica
+2021,4th Round,5,806946,2021-11-19T20:45:00+00:00,Pacos Ferreira,234,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica
+2021,4th Round,5,806947,2021-11-18T20:15:00+00:00,Sporting CP,228,Varzim,237,1.0,home,90,Estádio José Alvalade
+2021,4th Round,5,806947,2021-11-18T20:15:00+00:00,Varzim,237,Sporting CP,228,0.0,away,90,Estádio José Alvalade
+2021,4th Round,5,806948,2021-11-20T20:15:00+00:00,FC Porto,212,Feirense,213,1.0,home,90,Estádio Do Dragão
+2021,4th Round,5,806948,2021-11-20T20:15:00+00:00,Feirense,213,FC Porto,212,0.0,away,90,Estádio Do Dragão
+2021,4th Round,5,806949,2021-11-19T18:45:00+00:00,Penafiel,235,Portimonense,216,0.0,home,90,Estádio Municipal 25 de Abril
+2021,4th Round,5,806949,2021-11-19T18:45:00+00:00,Portimonense,216,Penafiel,235,1.0,away,90,Estádio Municipal 25 de Abril
+2021,4th Round,5,806950,2021-11-21T14:00:00+00:00,Vilafranquense,4717,Mafra,245,0.0,home,90,Campo do Cevadeiro
+2021,4th Round,5,806950,2021-11-21T14:00:00+00:00,Mafra,245,Vilafranquense,4717,1.0,away,90,Campo do Cevadeiro
+2021,4th Round,5,806951,2021-11-20T14:00:00+00:00,Vizela,810,Estrela,15130,1.0,home,90,Estádio Do Vizela
+2021,4th Round,5,806951,2021-11-20T14:00:00+00:00,Estrela,15130,Vizela,810,0.0,away,90,Estádio Do Vizela
+2021,4th Round,5,806952,2021-11-20T11:00:00+00:00,Leça,4757,GIL Vicente,762,1.0,home,90,Estádio do Leça Futebol Clube
+2021,4th Round,5,806952,2021-11-20T11:00:00+00:00,GIL Vicente,762,Leça,4757,0.0,away,90,Estádio do Leça Futebol Clube
+2021,4th Round,5,806953,2021-11-19T16:00:00+00:00,Casa Pia,4716,Farense,231,1.0,home,90,Estádio Pina Manique
+2021,4th Round,5,806953,2021-11-19T16:00:00+00:00,Farense,231,Casa Pia,4716,0.0,away,90,Estádio Pina Manique
+2021,4th Round,5,806954,2021-11-20T18:00:00+00:00,SC Braga,217,Santa Clara,227,1.0,home,90,Estádio Municipal de Braga
+2021,4th Round,5,806954,2021-11-20T18:00:00+00:00,Santa Clara,227,SC Braga,217,0.0,away,90,Estádio Municipal de Braga
+2021,4th Round,5,806955,2021-11-20T19:45:00+00:00,Alverca,4724,Famalicao,242,0.0,home,90,Complexo Desportivo FC Alverca
+2021,4th Round,5,806955,2021-11-20T19:45:00+00:00,Famalicao,242,Alverca,4724,1.0,away,90,Complexo Desportivo FC Alverca
+2021,4th Round,5,806956,2021-11-21T14:00:00+00:00,Paredes,4778,Torreense,4799,1.0,home,90,Cidade Desportiva De Paredes
+2021,4th Round,5,806956,2021-11-21T14:00:00+00:00,Torreense,4799,Paredes,4778,0.0,away,90,Cidade Desportiva De Paredes
+2021,4th Round,5,806957,2021-11-21T16:45:00+00:00,Moreirense,215,Guimaraes,224,1.0,home,90,Parque Desportivo Comendador Joaquim de Almeida Freitas
+2021,4th Round,5,806957,2021-11-21T16:45:00+00:00,Guimaraes,224,Moreirense,215,0.0,away,90,Parque Desportivo Comendador Joaquim de Almeida Freitas
+2021,4th Round,5,806958,2021-11-21T14:00:00+00:00,Caldas,4733,Belenenses,221,0.0,home,90,Campo da Mata
+2021,4th Round,5,806958,2021-11-21T14:00:00+00:00,Belenenses,221,Caldas,4733,1.0,away,90,Campo da Mata
+2021,4th Round,5,806959,2021-11-21T11:00:00+00:00,FC Serpa,17442,Estoril,230,0.0,home,90,Campo Sintético Complexo Desportivo Manuel Baião
+2021,4th Round,5,806959,2021-11-21T11:00:00+00:00,Estoril,230,FC Serpa,17442,1.0,away,90,Campo Sintético Complexo Desportivo Manuel Baião
+2021,4th Round,5,806960,2021-11-22T19:45:00+00:00,Tondela,218,Leixoes,244,1.0,home,90,Estádio João Cardoso
+2021,4th Round,5,806960,2021-11-22T19:45:00+00:00,Leixoes,244,Tondela,218,0.0,away,90,Estádio João Cardoso
+2021,4th Round,5,806961,2021-11-20T17:00:00+00:00,Rio Ave,226,Olhanense,807,1.0,home,90,Estádio do Rio Ave Futebol Clube
+2021,4th Round,5,806961,2021-11-20T17:00:00+00:00,Olhanense,807,Rio Ave,226,0.0,away,90,Estádio do Rio Ave Futebol Clube
+2021,Quarter-finals,3,820934,2022-01-12T18:45:00+00:00,Rio Ave,226,Tondela,218,0.0,home,90,Estádio do Rio Ave Futebol Clube
+2021,Quarter-finals,3,820934,2022-01-12T18:45:00+00:00,Tondela,218,Rio Ave,226,1.0,away,90,Estádio do Rio Ave Futebol Clube
+2021,Quarter-finals,3,820935,2022-01-12T20:45:00+00:00,Vizela,810,FC Porto,212,0.0,home,90,Estádio Do Vizela
+2021,Quarter-finals,3,820935,2022-01-12T20:45:00+00:00,FC Porto,212,Vizela,810,1.0,away,90,Estádio Do Vizela
+2021,Quarter-finals,3,820936,2022-01-11T20:45:00+00:00,Leça,4757,Sporting CP,228,0.0,home,90,Estádio da Capital do Móvel
+2021,Quarter-finals,3,820936,2022-01-11T20:45:00+00:00,Sporting CP,228,Leça,4757,1.0,away,90,Estádio da Capital do Móvel
+2021,Quarter-finals,3,820937,2022-01-13T20:45:00+00:00,Portimonense,216,Mafra,245,0.0,home,90,Estádio Municipal de Portimão
+2021,Quarter-finals,3,820937,2022-01-13T20:45:00+00:00,Mafra,245,Portimonense,216,1.0,away,90,Estádio Municipal de Portimão
+2021,Semi-finals,2,825238,2022-03-03T20:15:00+00:00,Tondela,218,Mafra,245,1.0,home,90,Estádio João Cardoso
+2021,Semi-finals,2,825238,2022-03-03T20:15:00+00:00,Mafra,245,Tondela,218,0.0,away,90,Estádio João Cardoso
+2021,Semi-finals,2,825240,2022-03-02T20:45:00+00:00,Sporting CP,228,FC Porto,212,0.0,home,90,Estádio José Alvalade
+2021,Semi-finals,2,825240,2022-03-02T20:45:00+00:00,FC Porto,212,Sporting CP,228,1.0,away,90,Estádio José Alvalade
+2021,Semi-finals,2,825241,2022-04-21T19:15:00+00:00,FC Porto,212,Sporting CP,228,1.0,home,90,Estádio Do Dragão
+2021,Semi-finals,2,825241,2022-04-21T19:15:00+00:00,Sporting CP,228,FC Porto,212,0.0,away,90,Estádio Do Dragão
+2021,Final,1,858983,2022-05-22T16:15:00+00:00,FC Porto,212,Tondela,218,1.0,home,90,Estádio Nacional
+2021,Final,1,858983,2022-05-22T16:15:00+00:00,Tondela,218,FC Porto,212,0.0,away,90,Estádio Nacional
+2022,2nd Round,7,961566,2022-10-01T10:00:00+00:00,Benfica Castelo Branco,4731,Farense,231,0.0,home,90,Estádio Municipal Vale do Romeiro
+2022,2nd Round,7,961566,2022-10-01T10:00:00+00:00,Farense,231,Benfica Castelo Branco,4731,1.0,away,90,Estádio Municipal Vale do Romeiro
+2022,2nd Round,7,961567,2022-10-01T13:00:00+00:00,Lajense,20037,Moreirense,215,0.0,home,90,Campo Municipal Manuel Linhares Lima
+2022,2nd Round,7,961567,2022-10-01T13:00:00+00:00,Moreirense,215,Lajense,20037,1.0,away,90,Campo Municipal Manuel Linhares Lima
+2022,2nd Round,7,961568,2022-10-01T14:00:00+00:00,Vasco da Gama Vidigueira,4808,Leixoes,244,0.0,home,90,Estádio Municipal de Vidigueira
+2022,2nd Round,7,961568,2022-10-01T14:00:00+00:00,Leixoes,244,Vasco da Gama Vidigueira,4808,1.0,away,90,Estádio Municipal de Vidigueira
+2022,2nd Round,7,961569,2022-10-01T14:00:00+00:00,Sanjoanense,4792,Os Marialvas,20038,1.0,home,90,Estádio Conde Dias Garcia
+2022,2nd Round,7,961569,2022-10-01T14:00:00+00:00,Os Marialvas,20038,Sanjoanense,4792,0.0,away,90,Estádio Conde Dias Garcia
+2022,2nd Round,7,961570,2022-10-01T15:00:00+00:00,Arronches e Benfica,17379,Vianense,4809,0.0,home,90,Estadio Municipal Arronches
+2022,2nd Round,7,961570,2022-10-01T15:00:00+00:00,Vianense,4809,Arronches e Benfica,17379,1.0,away,90,Estadio Municipal Arronches
+2022,2nd Round,7,961571,2022-10-01T15:45:00+00:00,CF Os Belenenses,17692,Torreense,4799,1.0,home,90,Estádio do Restelo
+2022,2nd Round,7,961571,2022-10-01T15:45:00+00:00,Torreense,4799,CF Os Belenenses,17692,0.0,away,90,Estádio do Restelo
+2022,2nd Round,7,961572,2022-10-02T11:00:00+00:00,Gondomar,4750,Penafiel,235,0.0,home,120,Estádio de São Miguel
+2022,2nd Round,7,961572,2022-10-02T11:00:00+00:00,Penafiel,235,Gondomar,4750,1.0,away,120,Estádio de São Miguel
+2022,2nd Round,7,961573,2022-10-02T13:00:00+00:00,União Santarém,6369,Mafra,245,0.0,home,90,Campo Chã das Padeiras
+2022,2nd Round,7,961573,2022-10-02T13:00:00+00:00,Mafra,245,União Santarém,6369,1.0,away,90,Campo Chã das Padeiras
+2022,2nd Round,7,961574,2022-10-01T13:00:00+00:00,Varzim,237,Feirense,213,1.0,home,90,Estádio Municipal Prof. Dr. José Vieira de Carvalho
+2022,2nd Round,7,961574,2022-10-01T13:00:00+00:00,Feirense,213,Varzim,237,0.0,away,90,Estádio Municipal Prof. Dr. José Vieira de Carvalho
+2022,2nd Round,7,961576,2022-10-02T14:00:00+00:00,Juventude Évora,4755,Vilafranquense,4717,0.0,home,120,Estádio Sanches de Miranda
+2022,2nd Round,7,961576,2022-10-02T14:00:00+00:00,Vilafranquense,4717,Juventude Évora,4755,1.0,away,120,Estádio Sanches de Miranda
+2022,2nd Round,7,961577,2022-10-02T14:00:00+00:00,Coruchense,4833,Trofense,4801,0.0,home,90,Estádio Municipal Prof. José Peseiro
+2022,2nd Round,7,961577,2022-10-02T14:00:00+00:00,Trofense,4801,Coruchense,4833,1.0,away,90,Estádio Municipal Prof. José Peseiro
+2022,2nd Round,7,961578,2022-10-02T14:00:00+00:00,UD da Serra,20042,Oliveirense,233,0.0,home,90,Campo da Portela
+2022,2nd Round,7,961578,2022-10-02T14:00:00+00:00,Oliveirense,233,UD da Serra,20042,1.0,away,90,Campo da Portela
+2022,2nd Round,7,961579,2022-10-02T14:00:00+00:00,Fabril Barreiro,4882,Academico Viseu,238,0.0,home,90,Estádio Alfredo da Silva
+2022,2nd Round,7,961579,2022-10-02T14:00:00+00:00,Academico Viseu,238,Fabril Barreiro,4882,1.0,away,90,Estádio Alfredo da Silva
+2022,2nd Round,7,961580,2022-10-01T14:00:00+00:00,Joane,4754,Belenenses,221,0.0,home,90,Estádio de Barreiros
+2022,2nd Round,7,961580,2022-10-01T14:00:00+00:00,Belenenses,221,Joane,4754,1.0,away,90,Estádio de Barreiros
+2022,2nd Round,7,961581,2022-10-02T14:00:00+00:00,Bragança,4827,Olímpico do Montijo,4774,1.0,home,90,Estádio Municipal de Bragança
+2022,2nd Round,7,961581,2022-10-02T14:00:00+00:00,Olímpico do Montijo,4774,Bragança,4827,0.0,away,90,Estádio Municipal de Bragança
+2022,2nd Round,7,961582,2022-10-02T14:00:00+00:00,Vasco Gama VF do Campo,17392,Imortal Albufeira,17385,0.0,home,90,Campo Municipal da Povoação
+2022,2nd Round,7,961582,2022-10-02T14:00:00+00:00,Imortal Albufeira,17385,Vasco Gama VF do Campo,17392,1.0,away,90,Campo Municipal da Povoação
+2022,2nd Round,7,961583,2022-10-02T14:00:00+00:00,Vila Caíz,20356,Amora,4726,0.0,home,120,Estádio Municipal de Amarante
+2022,2nd Round,7,961583,2022-10-02T14:00:00+00:00,Amora,4726,Vila Caíz,20356,1.0,away,120,Estádio Municipal de Amarante
+2022,2nd Round,7,961584,2022-10-02T14:00:00+00:00,Oriental Dragon,15131,Canelas 2010,4829,0.0,home,90,Campo Santos Jorge
+2022,2nd Round,7,961584,2022-10-02T14:00:00+00:00,Canelas 2010,4829,Oriental Dragon,15131,1.0,away,90,Campo Santos Jorge
+2022,2nd Round,7,961585,2022-10-02T14:00:00+00:00,Olhanense,807,Monte Trigo,20352,1.0,home,90,Estádio José Arcanjo
+2022,2nd Round,7,961585,2022-10-02T14:00:00+00:00,Monte Trigo,20352,Olhanense,807,0.0,away,90,Estádio José Arcanjo
+2022,2nd Round,7,961586,2022-10-02T14:00:00+00:00,Loures,4759,Beira-Mar,4661,0.0,home,90,Campo de Jogos José Silva Faria
+2022,2nd Round,7,961586,2022-10-02T14:00:00+00:00,Beira-Mar,4661,Loures,4759,1.0,away,90,Campo de Jogos José Silva Faria
+2022,2nd Round,7,961587,2022-10-02T10:00:00+00:00,São João Ver,6367,Lagos,6357,1.0,home,90,Estádio Clube São João de Ver
+2022,2nd Round,7,961587,2022-10-02T10:00:00+00:00,Lagos,6357,São João Ver,6367,0.0,away,90,Estádio Clube São João de Ver
+2022,2nd Round,7,961588,2022-10-02T14:00:00+00:00,Sintrense,4796,Real,10149,0.0,home,120,Estadio do Sport União Sintrense
+2022,2nd Round,7,961588,2022-10-02T14:00:00+00:00,Real,10149,Sintrense,4796,1.0,away,120,Estadio do Sport União Sintrense
+2022,2nd Round,7,961589,2022-10-02T14:00:00+00:00,Vilaverdense,4814,Atlético CP,4872,1.0,home,120,Campo Cruz Do Reguengo
+2022,2nd Round,7,961589,2022-10-02T14:00:00+00:00,Atlético CP,4872,Vilaverdense,4814,0.0,away,120,Campo Cruz Do Reguengo
+2022,2nd Round,7,961590,2022-10-02T14:00:00+00:00,SC Paivense,20355,Tirsense,15128,0.0,home,90,Campo Municipal Da Boavista
+2022,2nd Round,7,961590,2022-10-02T14:00:00+00:00,Tirsense,15128,SC Paivense,20355,1.0,away,90,Campo Municipal Da Boavista
+2022,2nd Round,7,961591,2022-10-02T14:00:00+00:00,Pêro Pinheiro,4854,Ferreiras,4745,1.0,home,90,Parque de Jogos Pardal Monteiro
+2022,2nd Round,7,961591,2022-10-02T14:00:00+00:00,Ferreiras,4745,Pêro Pinheiro,4854,0.0,away,90,Parque de Jogos Pardal Monteiro
+2022,2nd Round,7,961592,2022-10-01T14:00:00+00:00,União de Leiria,4662,Montalegre,4770,0.0,home,90,Estádio Dr. Magalhães Pessoa
+2022,2nd Round,7,961592,2022-10-01T14:00:00+00:00,Montalegre,4770,União de Leiria,4662,1.0,away,90,Estádio Dr. Magalhães Pessoa
+2022,2nd Round,7,961593,2022-10-02T14:00:00+00:00,Valadares Gaia,4805,CD Olivais e Moscavide,17776,1.0,home,90,Complexo Desportivo de Valadares
+2022,2nd Round,7,961593,2022-10-02T14:00:00+00:00,CD Olivais e Moscavide,17776,Valadares Gaia,4805,0.0,away,90,Complexo Desportivo de Valadares
+2022,2nd Round,7,961595,2022-10-02T14:00:00+00:00,Vitoria Setubal,219,Vilar de Perdizes,4896,1.0,home,90,Estádio do Bonfim
+2022,2nd Round,7,961595,2022-10-02T14:00:00+00:00,Vilar de Perdizes,4896,Vitoria Setubal,219,0.0,away,90,Estádio do Bonfim
+2022,2nd Round,7,961596,2022-10-02T14:00:00+00:00,Merelinense,4768,Rabo Peixe,4787,0.0,home,120,Estádio João Soares Vieira
+2022,2nd Round,7,961596,2022-10-02T14:00:00+00:00,Rabo Peixe,4787,Merelinense,4768,1.0,away,120,Estádio João Soares Vieira
+2022,2nd Round,7,961597,2022-10-02T14:00:00+00:00,Moura,4771,Dumiense,20036,0.0,home,90,Estádio do Moura Atlético Clube
+2022,2nd Round,7,961597,2022-10-02T14:00:00+00:00,Dumiense,20036,Moura,4771,1.0,away,90,Estádio do Moura Atlético Clube
+2022,2nd Round,7,961598,2022-10-02T14:00:00+00:00,Silves,4795,Courense,20351,0.0,home,120,Estádio Dr. Francisco Vieira
+2022,2nd Round,7,961598,2022-10-02T14:00:00+00:00,Courense,20351,Silves,4795,1.0,away,120,Estádio Dr. Francisco Vieira
+2022,2nd Round,7,961599,2022-10-02T14:00:00+00:00,Resende,13162,Felgueiras 1932,4744,0.0,home,90,Estádio Municipal de Fornelos
+2022,2nd Round,7,961599,2022-10-02T14:00:00+00:00,Felgueiras 1932,4744,Resende,13162,1.0,away,90,Estádio Municipal de Fornelos
+2022,2nd Round,7,961601,2022-10-01T14:00:00+00:00,Águeda,4817,Pevidem,6362,0.0,home,90,Estádio Municipal de Águeda
+2022,2nd Round,7,961601,2022-10-01T14:00:00+00:00,Pevidem,6362,Águeda,4817,1.0,away,90,Estádio Municipal de Águeda
+2022,2nd Round,7,961602,2022-10-02T14:00:00+00:00,Pombal,4853,GR Vigor Mocidade,17383,1.0,home,90,Estádio Municipal de Pombal
+2022,2nd Round,7,961602,2022-10-02T14:00:00+00:00,GR Vigor Mocidade,17383,Pombal,4853,0.0,away,90,Estádio Municipal de Pombal
+2022,2nd Round,7,961604,2022-10-02T14:00:00+00:00,Fafe,809,Anadia,4727,0.0,home,90,Parque Municipal dos Desportos
+2022,2nd Round,7,961604,2022-10-02T14:00:00+00:00,Anadia,4727,Fafe,809,1.0,away,90,Parque Municipal dos Desportos
+2022,2nd Round,7,961605,2022-10-01T14:00:00+00:00,1º Maio Funchal,20350,FC Serpa,17442,0.0,home,90,Campo do Palheiro Ferreiro
+2022,2nd Round,7,961605,2022-10-01T14:00:00+00:00,FC Serpa,17442,1º Maio Funchal,20350,1.0,away,90,Campo do Palheiro Ferreiro
+2022,2nd Round,7,961606,2022-10-02T14:00:00+00:00,Sertanense,4794,Castro Daire,6353,1.0,home,90,Campo de Jogos Dr. Marques dos Santos
+2022,2nd Round,7,961606,2022-10-02T14:00:00+00:00,Castro Daire,6353,Sertanense,4794,0.0,away,90,Campo de Jogos Dr. Marques dos Santos
+2022,2nd Round,7,961607,2022-10-02T10:00:00+00:00,Recreativa de Lamelas,20353,Camacha,4828,0.0,home,120,Complexo Desportivo Castro Daire
+2022,2nd Round,7,961607,2022-10-02T10:00:00+00:00,Camacha,4828,Recreativa de Lamelas,20353,1.0,away,120,Complexo Desportivo Castro Daire
+2022,2nd Round,7,961608,2022-10-02T16:00:00+00:00,Angrense,4728,Nacional,225,0.0,home,90,Estadio Municipal de Angra do Heroismo
+2022,2nd Round,7,961608,2022-10-02T16:00:00+00:00,Nacional,225,Angrense,4728,1.0,away,90,Estadio Municipal de Angra do Heroismo
+2022,2nd Round,7,961609,2022-10-02T15:00:00+00:00,Fontinhas,6355,Praiense,4786,1.0,home,90,Estádio João Paulo II
+2022,2nd Round,7,961609,2022-10-02T15:00:00+00:00,Praiense,4786,Fontinhas,6355,0.0,away,90,Estádio João Paulo II
+2022,2nd Round,7,961610,2022-10-02T16:00:00+00:00,Caldas,4733,SC Covilha,236,1.0,home,90,Campo da Mata
+2022,2nd Round,7,961610,2022-10-02T16:00:00+00:00,SC Covilha,236,Caldas,4733,0.0,away,90,Campo da Mata
+2022,3rd Round,6,964135,2022-10-16T14:00:00+00:00,Vilaverdense,4814,Portimonense,216,1.0,home,90,Campo Cruz Do Reguengo
+2022,3rd Round,6,964135,2022-10-16T14:00:00+00:00,Portimonense,216,Vilaverdense,4814,0.0,away,90,Campo Cruz Do Reguengo
+2022,3rd Round,6,964136,2022-10-16T14:00:00+00:00,Vitoria Setubal,219,Pacos Ferreira,234,1.0,home,90,Estádio do Bonfim
+2022,3rd Round,6,964136,2022-10-16T14:00:00+00:00,Pacos Ferreira,234,Vitoria Setubal,219,0.0,away,90,Estádio do Bonfim
+2022,3rd Round,6,964137,2022-10-16T14:00:00+00:00,AR São Martinho,4720,Casa Pia,4716,0.0,home,90,Estádio Comendador Abílio Ferreira de Oliveira
+2022,3rd Round,6,964137,2022-10-16T14:00:00+00:00,Casa Pia,4716,AR São Martinho,4720,1.0,away,90,Estádio Comendador Abílio Ferreira de Oliveira
+2022,3rd Round,6,964138,2022-10-15T19:00:00+00:00,Tondela,218,Santa Clara,227,1.0,home,90,Estádio João Cardoso
+2022,3rd Round,6,964138,2022-10-15T19:00:00+00:00,Santa Clara,227,Tondela,218,0.0,away,90,Estádio João Cardoso
+2022,3rd Round,6,964139,2022-10-15T14:30:00+00:00,Academico Viseu,238,Oriental Lisboa,4775,1.0,home,90,Estádio Municipal do Fontelo
+2022,3rd Round,6,964139,2022-10-15T14:30:00+00:00,Oriental Lisboa,4775,Academico Viseu,238,0.0,away,90,Estádio Municipal do Fontelo
+2022,3rd Round,6,964140,2022-10-16T14:00:00+00:00,Tirsense,15128,Leixoes,244,0.0,home,90,Estádio Abel Alves de Figueiredo
+2022,3rd Round,6,964140,2022-10-16T14:00:00+00:00,Leixoes,244,Tirsense,15128,1.0,away,90,Estádio Abel Alves de Figueiredo
+2022,3rd Round,6,964141,2022-10-16T14:00:00+00:00,Bragança,4827,Pevidem,6362,0.0,home,90,Estádio Municipal de Bragança
+2022,3rd Round,6,964141,2022-10-16T14:00:00+00:00,Pevidem,6362,Bragança,4827,1.0,away,90,Estádio Municipal de Bragança
+2022,3rd Round,6,964142,2022-10-15T14:30:00+00:00,Imortal Albufeira,17385,Farense,231,0.0,home,90,Estádio Municipal de Albufeira
+2022,3rd Round,6,964142,2022-10-15T14:30:00+00:00,Farense,231,Imortal Albufeira,17385,1.0,away,90,Estádio Municipal de Albufeira
+2022,3rd Round,6,964143,2022-10-16T14:00:00+00:00,Vianense,4809,Beira-Mar,4661,0.0,home,90,Estadio Municipal Manuela Machado
+2022,3rd Round,6,964143,2022-10-16T14:00:00+00:00,Beira-Mar,4661,Vianense,4809,1.0,away,90,Estadio Municipal Manuela Machado
+2022,3rd Round,6,964144,2022-10-16T14:00:00+00:00,Montalegre,4770,São João Ver,6367,0.0,home,90,Estádio Dr. Diogo Alves Vaz Pereira
+2022,3rd Round,6,964144,2022-10-16T14:00:00+00:00,São João Ver,6367,Montalegre,4770,1.0,away,90,Estádio Dr. Diogo Alves Vaz Pereira
+2022,3rd Round,6,964145,2022-10-15T14:00:00+00:00,Sanjoanense,4792,CF Os Belenenses,17692,1.0,home,120,Estádio Conde Dias Garcia
+2022,3rd Round,6,964145,2022-10-15T14:00:00+00:00,CF Os Belenenses,17692,Sanjoanense,4792,0.0,away,120,Estádio Conde Dias Garcia
+2022,3rd Round,6,964146,2022-10-14T14:30:00+00:00,Moreirense,215,Vilafranquense,4717,1.0,home,90,Parque Desportivo Comendador Joaquim de Almeida Freitas
+2022,3rd Round,6,964146,2022-10-14T14:30:00+00:00,Vilafranquense,4717,Moreirense,215,0.0,away,90,Parque Desportivo Comendador Joaquim de Almeida Freitas
+2022,3rd Round,6,964147,2022-10-16T14:00:00+00:00,Courense,20351,Camacha,4828,0.0,home,90,Campo de Jogos do Sporting Clube Courense
+2022,3rd Round,6,964147,2022-10-16T14:00:00+00:00,Camacha,4828,Courense,20351,1.0,away,90,Campo de Jogos do Sporting Clube Courense
+2022,3rd Round,6,964148,2022-10-16T14:00:00+00:00,Dumiense,20036,Real,10149,1.0,home,90,Campo Celestino Lobo
+2022,3rd Round,6,964148,2022-10-16T14:00:00+00:00,Real,10149,Dumiense,20036,0.0,away,90,Campo Celestino Lobo
+2022,3rd Round,6,964149,2022-10-16T14:00:00+00:00,Pêro Pinheiro,4854,Pombal,4853,1.0,home,90,Parque de Jogos Pardal Monteiro
+2022,3rd Round,6,964149,2022-10-16T14:00:00+00:00,Pombal,4853,Pêro Pinheiro,4854,0.0,away,90,Parque de Jogos Pardal Monteiro
+2022,3rd Round,6,964150,2022-10-15T10:00:00+00:00,Nacional,225,Oliveirense,233,1.0,home,120,Estádio da Madeira
+2022,3rd Round,6,964150,2022-10-15T10:00:00+00:00,Oliveirense,233,Nacional,225,0.0,away,120,Estádio da Madeira
+2022,3rd Round,6,964151,2022-10-14T14:00:00+00:00,Olhanense,807,Belenenses,221,0.0,home,90,Estádio José Arcanjo
+2022,3rd Round,6,964151,2022-10-14T14:00:00+00:00,Belenenses,221,Olhanense,807,1.0,away,90,Estádio José Arcanjo
+2022,3rd Round,6,964153,2022-10-16T16:00:00+00:00,Felgueiras 1932,4744,SC Braga,217,0.0,home,90,Estádio Dr. Machado de Matos
+2022,3rd Round,6,964153,2022-10-16T16:00:00+00:00,SC Braga,217,Felgueiras 1932,4744,1.0,away,90,Estádio Dr. Machado de Matos
+2022,3rd Round,6,964154,2022-10-16T14:00:00+00:00,Valadares Gaia,4805,Chaves,223,1.0,home,120,Complexo Desportivo de Valadares
+2022,3rd Round,6,964154,2022-10-16T14:00:00+00:00,Chaves,223,Valadares Gaia,4805,0.0,away,120,Complexo Desportivo de Valadares
+2022,3rd Round,6,964155,2022-10-16T14:00:00+00:00,Machico,4764,Boavista,222,1.0,home,90,Estádio Municipal de Machico
+2022,3rd Round,6,964155,2022-10-16T14:00:00+00:00,Boavista,222,Machico,4764,0.0,away,90,Estádio Municipal de Machico
+2022,3rd Round,6,964156,2022-10-15T14:00:00+00:00,Mafra,245,Maritimo,214,1.0,home,120,Estádio Municipal de Mafra
+2022,3rd Round,6,964156,2022-10-15T14:00:00+00:00,Maritimo,214,Mafra,245,0.0,away,120,Estádio Municipal de Mafra
+2022,3rd Round,6,964157,2022-10-15T14:00:00+00:00,Canelas 2010,4829,Guimaraes,224,0.0,home,90,Estádio Clube Futebol Canelas 2010
+2022,3rd Round,6,964157,2022-10-15T14:00:00+00:00,Guimaraes,224,Canelas 2010,4829,1.0,away,90,Estádio Clube Futebol Canelas 2010
+2022,3rd Round,6,964158,2022-10-16T19:45:00+00:00,Anadia,4727,FC Porto,212,0.0,home,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2022,3rd Round,6,964158,2022-10-16T19:45:00+00:00,FC Porto,212,Anadia,4727,1.0,away,90,Estádio Municipal Engenheiro Sílvio Henriques Cerveira
+2022,3rd Round,6,964159,2022-10-14T19:45:00+00:00,Amora,4726,Estoril,230,0.0,home,90,Complexo Municipal de Atletismo Carla Sacramento
+2022,3rd Round,6,964159,2022-10-14T19:45:00+00:00,Estoril,230,Amora,4726,1.0,away,90,Complexo Municipal de Atletismo Carla Sacramento
+2022,3rd Round,6,964160,2022-10-16T18:00:00+00:00,Varzim,237,Sporting CP,228,1.0,home,90,Estádio Cidade de Barcelos
+2022,3rd Round,6,964160,2022-10-16T18:00:00+00:00,Sporting CP,228,Varzim,237,0.0,away,90,Estádio Cidade de Barcelos
+2022,3rd Round,6,964161,2022-10-16T14:00:00+00:00,Oliveira Hospital,4773,Rio Ave,226,1.0,home,120,Estádio Municipal de Tábua
+2022,3rd Round,6,964161,2022-10-16T14:00:00+00:00,Rio Ave,226,Oliveira Hospital,4773,0.0,away,120,Estádio Municipal de Tábua
+2022,3rd Round,6,964162,2022-10-15T14:00:00+00:00,Trofense,4801,Famalicao,242,0.0,home,90,Estádio do Clube Desportivo Trofense
+2022,3rd Round,6,964162,2022-10-15T14:00:00+00:00,Famalicao,242,Trofense,4801,1.0,away,90,Estádio do Clube Desportivo Trofense
+2022,3rd Round,6,964163,2022-10-15T14:00:00+00:00,FC Serpa,17442,GIL Vicente,762,0.0,home,90,Campo Sintético Complexo Desportivo Manuel Baião
+2022,3rd Round,6,964163,2022-10-15T14:00:00+00:00,GIL Vicente,762,FC Serpa,17442,1.0,away,90,Campo Sintético Complexo Desportivo Manuel Baião
+2022,3rd Round,6,964164,2022-10-16T14:00:00+00:00,Rabo Peixe,4787,Sertanense,4794,1.0,home,90,Campo Bom Jesus
+2022,3rd Round,6,964164,2022-10-16T14:00:00+00:00,Sertanense,4794,Rabo Peixe,4787,0.0,away,90,Campo Bom Jesus
+2022,3rd Round,6,964165,2022-10-15T10:00:00+00:00,Fontinhas,6355,Arouca,240,0.0,home,90,Estádio João Paulo II
+2022,3rd Round,6,964165,2022-10-15T10:00:00+00:00,Arouca,240,Fontinhas,6355,1.0,away,90,Estádio João Paulo II
+2022,4th Round,5,967499,2022-11-08T20:45:00+00:00,Mafra,245,FC Porto,212,0.0,home,90,Estádio Municipal de Mafra
+2022,4th Round,5,967499,2022-11-08T20:45:00+00:00,FC Porto,212,Mafra,245,1.0,away,90,Estádio Municipal de Mafra
+2022,4th Round,5,967500,2022-11-08T14:00:00+00:00,Vilaverdense,4814,Oliveira Hospital,4773,1.0,home,90,Campo Cruz Do Reguengo
+2022,4th Round,5,967500,2022-11-08T14:00:00+00:00,Oliveira Hospital,4773,Vilaverdense,4814,0.0,away,90,Campo Cruz Do Reguengo
+2022,4th Round,5,967501,2022-11-09T11:00:00+00:00,Academico Viseu,238,Camacha,4828,1.0,home,90,Estádio Municipal do Fontelo
+2022,4th Round,5,967501,2022-11-09T11:00:00+00:00,Camacha,4828,Academico Viseu,238,0.0,away,90,Estádio Municipal do Fontelo
+2022,4th Round,5,967502,2022-11-09T15:30:00+00:00,Rabo Peixe,4787,Sanjoanense,4792,1.0,home,90,Campo Bom Jesus
+2022,4th Round,5,967502,2022-11-09T15:30:00+00:00,Sanjoanense,4792,Rabo Peixe,4787,0.0,away,90,Campo Bom Jesus
+2022,4th Round,5,967503,2022-11-09T15:00:00+00:00,Nacional,225,Tondela,218,1.0,home,90,Estádio dos Barreiros
+2022,4th Round,5,967503,2022-11-09T15:00:00+00:00,Tondela,218,Nacional,225,0.0,away,90,Estádio dos Barreiros
+2022,4th Round,5,967504,2022-11-08T18:45:00+00:00,GIL Vicente,762,Arouca,240,0.0,home,90,Estádio Cidade de Barcelos
+2022,4th Round,5,967504,2022-11-08T18:45:00+00:00,Arouca,240,GIL Vicente,762,1.0,away,90,Estádio Cidade de Barcelos
+2022,4th Round,5,967505,2022-11-10T11:00:00+00:00,Belenenses,221,Machico,4764,1.0,home,90,Estádio Nacional
+2022,4th Round,5,967505,2022-11-10T11:00:00+00:00,Machico,4764,Belenenses,221,0.0,away,90,Estádio Nacional
+2022,4th Round,5,967506,2022-11-09T17:45:00+00:00,Casa Pia,4716,Valadares Gaia,4805,1.0,home,90,Estádio Nacional
+2022,4th Round,5,967506,2022-11-09T17:45:00+00:00,Valadares Gaia,4805,Casa Pia,4716,0.0,away,90,Estádio Nacional
+2022,4th Round,5,967507,2022-11-10T19:45:00+00:00,SC Braga,217,Moreirense,215,1.0,home,90,Estádio Municipal de Braga
+2022,4th Round,5,967507,2022-11-10T19:45:00+00:00,Moreirense,215,SC Braga,217,0.0,away,90,Estádio Municipal de Braga
+2022,4th Round,5,967508,2022-11-09T20:45:00+00:00,Estoril,230,Benfica,211,0.0,home,90,Estádio António Coimbra da Mota
+2022,4th Round,5,967508,2022-11-09T20:45:00+00:00,Benfica,211,Estoril,230,1.0,away,90,Estádio António Coimbra da Mota
+2022,4th Round,5,967509,2022-11-09T18:45:00+00:00,Guimaraes,224,Vizela,810,1.0,home,120,Estádio Dom Afonso Henriques
+2022,4th Round,5,967509,2022-11-09T18:45:00+00:00,Vizela,810,Guimaraes,224,0.0,away,120,Estádio Dom Afonso Henriques
+2022,4th Round,5,967510,2022-11-09T15:00:00+00:00,Leixoes,244,Farense,231,1.0,home,90,Estádio do Mar
+2022,4th Round,5,967510,2022-11-09T15:00:00+00:00,Farense,231,Leixoes,244,0.0,away,90,Estádio do Mar
+2022,4th Round,5,967511,2022-11-09T15:00:00+00:00,Famalicao,242,Dumiense,20036,1.0,home,90,Estádio Municipal 22 de Junho
+2022,4th Round,5,967511,2022-11-09T15:00:00+00:00,Dumiense,20036,Famalicao,242,0.0,away,90,Estádio Municipal 22 de Junho
+2022,4th Round,5,967512,2022-11-09T14:30:00+00:00,Pêro Pinheiro,4854,Vitoria Setubal,219,0.0,home,90,Parque de Jogos Pardal Monteiro
+2022,4th Round,5,967512,2022-11-09T14:30:00+00:00,Vitoria Setubal,219,Pêro Pinheiro,4854,1.0,away,90,Parque de Jogos Pardal Monteiro
+2022,4th Round,5,967513,2022-11-08T19:00:00+00:00,Varzim,237,São João Ver,6367,1.0,home,90,Estádio Varzim Sport Club
+2022,4th Round,5,967513,2022-11-08T19:00:00+00:00,São João Ver,6367,Varzim,237,0.0,away,90,Estádio Varzim Sport Club
+2022,4th Round,5,967514,2022-11-09T16:00:00+00:00,Beira-Mar,4661,Pevidem,6362,1.0,home,90,Estádio Municipal de Aveiro
+2022,4th Round,5,967514,2022-11-09T16:00:00+00:00,Pevidem,6362,Beira-Mar,4661,0.0,away,90,Estádio Municipal de Aveiro
+2022,Quarter-finals,3,986798,2023-02-08T20:45:00+00:00,Academico Viseu,238,FC Porto,212,0.0,home,90,Estádio Municipal do Fontelo
+2022,Quarter-finals,3,986798,2023-02-08T20:45:00+00:00,FC Porto,212,Academico Viseu,238,1.0,away,90,Estádio Municipal do Fontelo
+2022,Quarter-finals,3,986799,2023-02-09T20:30:00+00:00,SC Braga,217,Benfica,211,1.0,home,120,Estádio Municipal de Braga
+2022,Quarter-finals,3,986799,2023-02-09T20:30:00+00:00,Benfica,211,SC Braga,217,0.0,away,120,Estádio Municipal de Braga
+2022,Quarter-finals,3,986800,2023-02-08T18:45:00+00:00,Famalicao,242,Belenenses,221,1.0,home,90,Estádio Municipal 22 de Junho
+2022,Quarter-finals,3,986800,2023-02-08T18:45:00+00:00,Belenenses,221,Famalicao,242,0.0,away,90,Estádio Municipal 22 de Junho
+2022,Quarter-finals,3,993988,2023-02-09T17:30:00+00:00,Casa Pia,4716,Nacional,225,0.0,home,120,Estádio do Bonfim
+2022,Quarter-finals,3,993988,2023-02-09T17:30:00+00:00,Nacional,225,Casa Pia,4716,1.0,away,120,Estádio do Bonfim
+2022,Semi-finals,2,1004052,2023-04-26T19:30:00+00:00,Famalicao,242,FC Porto,212,0.0,home,90,Estádio Municipal 22 de Junho
+2022,Semi-finals,2,1004052,2023-04-26T19:30:00+00:00,FC Porto,212,Famalicao,242,1.0,away,90,Estádio Municipal 22 de Junho
+2022,Semi-finals,2,1004053,2023-05-04T19:30:00+00:00,FC Porto,212,Famalicao,242,1.0,home,120,Estádio Do Dragão
+2022,Semi-finals,2,1004053,2023-05-04T19:30:00+00:00,Famalicao,242,FC Porto,212,0.0,away,120,Estádio Do Dragão
+2022,Semi-finals,2,1017414,2023-04-12T18:30:00+00:00,Nacional,225,SC Braga,217,0.0,home,90,Estádio da Madeira
+2022,Semi-finals,2,1017414,2023-04-12T18:30:00+00:00,SC Braga,217,Nacional,225,1.0,away,90,Estádio da Madeira
+2022,Final,1,1025280,2023-06-04T16:15:00+00:00,SC Braga,217,FC Porto,212,0.0,home,90,Estádio Nacional
+2022,Final,1,1025280,2023-06-04T16:15:00+00:00,FC Porto,212,SC Braga,217,1.0,away,90,Estádio Nacional
