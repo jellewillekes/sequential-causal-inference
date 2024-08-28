@@ -153,7 +153,7 @@ if __name__ == "__main__":
     country_plots_dir = ensure_country_plots_dir(country)
 
     # Define variables for the 2SLS analysis
-    outcome_var = 'team_rank'
+    outcome_var = 'next_team_points'
     instr_var = 'team_better'
     treatment_var = 'team_win'
     control_vars = ['team_rank_prev', 'team_size', 'foreigners', 'mean_age', 'mean_value', 'total_value', 'distance']
