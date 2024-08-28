@@ -3,14 +3,17 @@ import pandas as pd
 import statsmodels.api as sm
 from utils.load import project_root
 
+
 def load_processed_data(country, cup):
     file_path = os.path.join(project_root(), 'data/process', country, f'{cup}_processed.csv')
     return pd.read_csv(file_path)
+
 
 def ensure_results_dir(country):
     results_dir = os.path.join("results", country, "2SLS_Results")
     os.makedirs(results_dir, exist_ok=True)
     return results_dir
+
 
 def perform_2sls_analysis(data, outcome_var, instr_vars, treatment_var, control_vars, display="none"):
     X1 = sm.add_constant(data[instr_vars + control_vars])
@@ -50,6 +53,7 @@ def perform_2sls_analysis(data, outcome_var, instr_vars, treatment_var, control_
 
     return first_stage_stats, second_stage_stats
 
+
 def analyze_2sls_by_stage(stages_df, outcome_var, instr_vars, treatment_var, control_vars_list, display="none"):
     unique_stages = stages_df['stage'].unique()
     unique_stages.sort()
@@ -63,7 +67,8 @@ def analyze_2sls_by_stage(stages_df, outcome_var, instr_vars, treatment_var, con
             if "summary" in display:
                 print(f'Running Stage {stage}, Model {i + 1} with controls: {current_controls}')
 
-            first_stage_stats, second_stage_stats = perform_2sls_analysis(df_stage, outcome_var, instr_vars, treatment_var, current_controls, display)
+            first_stage_stats, second_stage_stats = perform_2sls_analysis(df_stage, outcome_var, instr_vars,
+                                                                          treatment_var, current_controls, display)
 
             for j, instr in enumerate(instr_vars):
                 results.append({
@@ -88,10 +93,12 @@ def analyze_2sls_by_stage(stages_df, outcome_var, instr_vars, treatment_var, con
 
     return results
 
+
 def count_nans(data, columns):
     nan_counts = data[columns].isna().sum()
     nan_summary = pd.DataFrame(nan_counts, columns=['NaN Count'])
     return nan_summary
+
 
 if __name__ == "__main__":
     country = 'combined'
