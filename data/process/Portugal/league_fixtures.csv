@@ -6959,6 +6959,622 @@ year,fixture_date,league,round,fixture_location,team_name,team_id,opponent_name,
 2022,2023-06-03T19:00:00+00:00,Primeira Liga,Relegation Round,Amadora,Maritimo,214,Estrela,15130,0.0,1.0,2.0,0
 2022,2023-06-11T19:15:00+00:00,Primeira Liga,Relegation Round,Ilha da Madeira,Maritimo,214,Estrela,15130,0.0,2.0,1.0,0
 2022,2023-06-11T19:15:00+00:00,Primeira Liga,Relegation Round,Ilha da Madeira,Estrela,15130,Maritimo,214,1.0,1.0,2.0,3
+2023,2023-08-13T14:30:00+00:00,Primeira Liga,Regular Season - 1,Vila do Conde,Rio Ave,226,Chaves,223,1.0,2.0,0.0,3
+2023,2023-08-13T14:30:00+00:00,Primeira Liga,Regular Season - 1,Vila do Conde,Chaves,223,Rio Ave,226,0.0,0.0,2.0,0
+2023,2023-08-12T17:00:00+00:00,Primeira Liga,Regular Season - 1,Faro,Farense,231,Casa Pia,4716,0.0,0.0,3.0,0
+2023,2023-08-12T17:00:00+00:00,Primeira Liga,Regular Season - 1,Faro,Casa Pia,4716,Farense,231,1.0,3.0,0.0,3
+2023,2023-08-11T19:15:00+00:00,Primeira Liga,Regular Season - 1,Braga,SC Braga,217,Famalicao,242,0.0,1.0,2.0,0
+2023,2023-08-11T19:15:00+00:00,Primeira Liga,Regular Season - 1,Braga,Famalicao,242,SC Braga,217,1.0,2.0,1.0,3
+2023,2023-08-14T17:45:00+00:00,Primeira Liga,Regular Season - 1,Moreira de Cónegos,Moreirense,215,FC Porto,212,0.0,1.0,2.0,0
+2023,2023-08-14T17:45:00+00:00,Primeira Liga,Regular Season - 1,Moreira de Cónegos,FC Porto,212,Moreirense,215,1.0,2.0,1.0,3
+2023,2023-08-14T19:45:00+00:00,Primeira Liga,Regular Season - 1,Porto,Boavista,222,Benfica,211,1.0,3.0,2.0,3
+2023,2023-08-14T19:45:00+00:00,Primeira Liga,Regular Season - 1,Porto,Benfica,211,Boavista,222,0.0,2.0,3.0,0
+2023,2023-08-12T19:30:00+00:00,Primeira Liga,Regular Season - 1,Lisboa,Sporting CP,228,Vizela,810,1.0,3.0,2.0,3
+2023,2023-08-12T19:30:00+00:00,Primeira Liga,Regular Season - 1,Lisboa,Vizela,810,Sporting CP,228,0.0,2.0,3.0,0
+2023,2023-08-13T17:00:00+00:00,Primeira Liga,Regular Season - 1,Amadora,Estrela,15130,Guimaraes,224,0.0,0.0,1.0,0
+2023,2023-08-13T17:00:00+00:00,Primeira Liga,Regular Season - 1,Amadora,Guimaraes,224,Estrela,15130,1.0,1.0,0.0,3
+2023,2023-08-13T19:30:00+00:00,Primeira Liga,Regular Season - 1,Arouca,Arouca,240,Estoril,230,1.0,4.0,3.0,3
+2023,2023-08-13T19:30:00+00:00,Primeira Liga,Regular Season - 1,Arouca,Estoril,230,Arouca,240,0.0,3.0,4.0,0
+2023,2023-08-12T14:30:00+00:00,Primeira Liga,Regular Season - 1,Barcelos,GIL Vicente,762,Portimonense,216,1.0,5.0,0.0,3
+2023,2023-08-12T14:30:00+00:00,Primeira Liga,Regular Season - 1,Barcelos,Portimonense,216,GIL Vicente,762,0.0,0.0,5.0,0
+2023,2023-08-20T19:30:00+00:00,Primeira Liga,Regular Season - 2,Caldas de Vizela,Vizela,810,Arouca,240,,2.0,2.0,1
+2023,2023-08-20T19:30:00+00:00,Primeira Liga,Regular Season - 2,Caldas de Vizela,Arouca,240,Vizela,810,,2.0,2.0,1
+2023,2023-08-19T19:30:00+00:00,Primeira Liga,Regular Season - 2,Portimão,Portimonense,216,Boavista,222,0.0,1.0,4.0,0
+2023,2023-08-19T19:30:00+00:00,Primeira Liga,Regular Season - 2,Portimão,Boavista,222,Portimonense,216,1.0,4.0,1.0,3
+2023,2023-08-20T17:00:00+00:00,Primeira Liga,Regular Season - 2,Porto,FC Porto,212,Farense,231,1.0,2.0,1.0,3
+2023,2023-08-20T17:00:00+00:00,Primeira Liga,Regular Season - 2,Porto,Farense,231,FC Porto,212,0.0,1.0,2.0,0
+2023,2023-08-19T17:00:00+00:00,Primeira Liga,Regular Season - 2,Chaves,Chaves,223,SC Braga,217,0.0,2.0,4.0,0
+2023,2023-08-19T17:00:00+00:00,Primeira Liga,Regular Season - 2,Chaves,SC Braga,217,Chaves,223,1.0,4.0,2.0,3
+2023,2023-08-19T14:30:00+00:00,Primeira Liga,Regular Season - 2,Guimarães,Guimaraes,224,GIL Vicente,762,1.0,2.0,1.0,3
+2023,2023-08-19T14:30:00+00:00,Primeira Liga,Regular Season - 2,Guimarães,GIL Vicente,762,Guimaraes,224,0.0,1.0,2.0,0
+2023,2023-08-19T19:30:00+00:00,Primeira Liga,Regular Season - 2,Lisboa,Benfica,211,Estrela,15130,1.0,2.0,0.0,3
+2023,2023-08-19T19:30:00+00:00,Primeira Liga,Regular Season - 2,Lisboa,Estrela,15130,Benfica,211,0.0,0.0,2.0,0
+2023,2023-08-20T14:30:00+00:00,Primeira Liga,Regular Season - 2,Estoril,Estoril,230,Rio Ave,226,1.0,2.0,0.0,3
+2023,2023-08-20T14:30:00+00:00,Primeira Liga,Regular Season - 2,Estoril,Rio Ave,226,Estoril,230,0.0,0.0,2.0,0
+2023,2023-08-21T19:15:00+00:00,Primeira Liga,Regular Season - 2,Vila Nova de Famalicão,Famalicao,242,Moreirense,215,,0.0,0.0,1
+2023,2023-08-21T19:15:00+00:00,Primeira Liga,Regular Season - 2,Vila Nova de Famalicão,Moreirense,215,Famalicao,242,,0.0,0.0,1
+2023,2023-08-18T19:15:00+00:00,Primeira Liga,Regular Season - 2,Rio Maior,Casa Pia,4716,Sporting CP,228,0.0,1.0,2.0,0
+2023,2023-08-18T19:15:00+00:00,Primeira Liga,Regular Season - 2,Rio Maior,Sporting CP,228,Casa Pia,4716,1.0,2.0,1.0,3
+2023,2023-09-09T17:00:00+00:00,Primeira Liga,Regular Season - 3,Moreira de Cónegos,Moreirense,215,SC Braga,217,0.0,2.0,3.0,0
+2023,2023-09-09T17:00:00+00:00,Primeira Liga,Regular Season - 3,Moreira de Cónegos,SC Braga,217,Moreirense,215,1.0,3.0,2.0,3
+2023,2023-08-26T17:00:00+00:00,Primeira Liga,Regular Season - 3,Faro,Farense,231,Chaves,223,1.0,5.0,0.0,3
+2023,2023-08-26T17:00:00+00:00,Primeira Liga,Regular Season - 3,Faro,Chaves,223,Farense,231,0.0,0.0,5.0,0
+2023,2023-08-28T19:15:00+00:00,Primeira Liga,Regular Season - 3,Vila do Conde,Rio Ave,226,FC Porto,212,0.0,1.0,2.0,0
+2023,2023-08-28T19:15:00+00:00,Primeira Liga,Regular Season - 3,Vila do Conde,FC Porto,212,Rio Ave,226,1.0,2.0,1.0,3
+2023,2023-08-27T19:30:00+00:00,Primeira Liga,Regular Season - 3,Lisboa,Sporting CP,228,Famalicao,242,1.0,1.0,0.0,3
+2023,2023-08-27T19:30:00+00:00,Primeira Liga,Regular Season - 3,Lisboa,Famalicao,242,Sporting CP,228,0.0,0.0,1.0,0
+2023,2023-08-27T17:00:00+00:00,Primeira Liga,Regular Season - 3,Guimarães,Guimaraes,224,Vizela,810,1.0,2.0,0.0,3
+2023,2023-08-27T17:00:00+00:00,Primeira Liga,Regular Season - 3,Guimarães,Vizela,810,Guimaraes,224,0.0,0.0,2.0,0
+2023,2023-08-26T19:30:00+00:00,Primeira Liga,Regular Season - 3,Barcelos,GIL Vicente,762,Benfica,211,0.0,2.0,3.0,0
+2023,2023-08-26T19:30:00+00:00,Primeira Liga,Regular Season - 3,Barcelos,Benfica,211,GIL Vicente,762,1.0,3.0,2.0,3
+2023,2023-08-27T14:30:00+00:00,Primeira Liga,Regular Season - 3,Porto,Boavista,222,Casa Pia,4716,,1.0,1.0,1
+2023,2023-08-27T14:30:00+00:00,Primeira Liga,Regular Season - 3,Porto,Casa Pia,4716,Boavista,222,,1.0,1.0,1
+2023,2023-08-26T14:30:00+00:00,Primeira Liga,Regular Season - 3,Arouca,Arouca,240,Portimonense,216,,1.0,1.0,1
+2023,2023-08-26T14:30:00+00:00,Primeira Liga,Regular Season - 3,Arouca,Portimonense,216,Arouca,240,,1.0,1.0,1
+2023,2023-08-25T19:15:00+00:00,Primeira Liga,Regular Season - 3,Amadora,Estrela,15130,Estoril,230,1.0,2.0,1.0,3
+2023,2023-08-25T19:15:00+00:00,Primeira Liga,Regular Season - 3,Amadora,Estoril,230,Estrela,15130,0.0,1.0,2.0,0
+2023,2023-09-03T17:00:00+00:00,Primeira Liga,Regular Season - 4,Porto,FC Porto,212,Arouca,240,,1.0,1.0,1
+2023,2023-09-03T17:00:00+00:00,Primeira Liga,Regular Season - 4,Porto,Arouca,240,FC Porto,212,,1.0,1.0,1
+2023,2023-09-03T14:30:00+00:00,Primeira Liga,Regular Season - 4,Estoril,Estoril,230,Boavista,222,0.0,1.0,2.0,0
+2023,2023-09-03T14:30:00+00:00,Primeira Liga,Regular Season - 4,Estoril,Boavista,222,Estoril,230,1.0,2.0,1.0,3
+2023,2023-09-01T19:15:00+00:00,Primeira Liga,Regular Season - 4,Caldas de Vizela,Vizela,810,GIL Vicente,762,1.0,1.0,0.0,3
+2023,2023-09-01T19:15:00+00:00,Primeira Liga,Regular Season - 4,Caldas de Vizela,GIL Vicente,762,Vizela,810,0.0,0.0,1.0,0
+2023,2023-09-02T17:00:00+00:00,Primeira Liga,Regular Season - 4,Portimão,Portimonense,216,Estrela,15130,,1.0,1.0,1
+2023,2023-09-02T17:00:00+00:00,Primeira Liga,Regular Season - 4,Portimão,Estrela,15130,Portimonense,216,,1.0,1.0,1
+2023,2023-09-02T14:30:00+00:00,Primeira Liga,Regular Season - 4,Rio Maior,Casa Pia,4716,Rio Ave,226,,1.0,1.0,1
+2023,2023-09-02T14:30:00+00:00,Primeira Liga,Regular Season - 4,Rio Maior,Rio Ave,226,Casa Pia,4716,,1.0,1.0,1
+2023,2023-09-02T17:00:00+00:00,Primeira Liga,Regular Season - 4,Vila Nova de Famalicão,Famalicao,242,Farense,231,1.0,1.0,0.0,3
+2023,2023-09-02T17:00:00+00:00,Primeira Liga,Regular Season - 4,Vila Nova de Famalicão,Farense,231,Famalicao,242,0.0,0.0,1.0,0
+2023,2023-09-03T19:30:00+00:00,Primeira Liga,Regular Season - 4,Braga,SC Braga,217,Sporting CP,228,,1.0,1.0,1
+2023,2023-09-03T19:30:00+00:00,Primeira Liga,Regular Season - 4,Braga,Sporting CP,228,SC Braga,217,,1.0,1.0,1
+2023,2023-09-02T19:30:00+00:00,Primeira Liga,Regular Season - 4,Lisboa,Benfica,211,Guimaraes,224,1.0,4.0,0.0,3
+2023,2023-09-02T19:30:00+00:00,Primeira Liga,Regular Season - 4,Lisboa,Guimaraes,224,Benfica,211,0.0,0.0,4.0,0
+2023,2023-09-03T14:30:00+00:00,Primeira Liga,Regular Season - 4,Chaves,Chaves,223,Moreirense,215,0.0,1.0,2.0,0
+2023,2023-09-03T14:30:00+00:00,Primeira Liga,Regular Season - 4,Chaves,Moreirense,215,Chaves,223,1.0,2.0,1.0,3
+2023,2023-09-16T14:30:00+00:00,Primeira Liga,Regular Season - 5,Vila do Conde,Rio Ave,226,Famalicao,242,,1.0,1.0,1
+2023,2023-09-16T14:30:00+00:00,Primeira Liga,Regular Season - 5,Vila do Conde,Famalicao,242,Rio Ave,226,,1.0,1.0,1
+2023,2023-09-17T14:30:00+00:00,Primeira Liga,Regular Season - 5,Barcelos,GIL Vicente,762,Estoril,230,1.0,5.0,3.0,3
+2023,2023-09-17T14:30:00+00:00,Primeira Liga,Regular Season - 5,Barcelos,Estoril,230,GIL Vicente,762,0.0,3.0,5.0,0
+2023,2023-09-17T19:30:00+00:00,Primeira Liga,Regular Season - 5,Lisboa,Sporting CP,228,Moreirense,215,1.0,3.0,0.0,3
+2023,2023-09-17T19:30:00+00:00,Primeira Liga,Regular Season - 5,Lisboa,Moreirense,215,Sporting CP,228,0.0,0.0,3.0,0
+2023,2023-09-16T17:00:00+00:00,Primeira Liga,Regular Season - 5,Faro,Farense,231,SC Braga,217,1.0,3.0,1.0,3
+2023,2023-09-16T17:00:00+00:00,Primeira Liga,Regular Season - 5,Faro,SC Braga,217,Farense,231,0.0,1.0,3.0,0
+2023,2023-09-17T17:00:00+00:00,Primeira Liga,Regular Season - 5,Guimarães,Guimaraes,224,Portimonense,216,0.0,1.0,2.0,0
+2023,2023-09-17T17:00:00+00:00,Primeira Liga,Regular Season - 5,Guimarães,Portimonense,216,Guimaraes,224,1.0,2.0,1.0,3
+2023,2023-09-16T19:30:00+00:00,Primeira Liga,Regular Season - 5,Caldas de Vizela,Vizela,810,Benfica,211,0.0,1.0,2.0,0
+2023,2023-09-16T19:30:00+00:00,Primeira Liga,Regular Season - 5,Caldas de Vizela,Benfica,211,Vizela,810,1.0,2.0,1.0,3
+2023,2023-09-18T19:15:00+00:00,Primeira Liga,Regular Season - 5,Porto,Boavista,222,Chaves,223,1.0,4.0,1.0,3
+2023,2023-09-18T19:15:00+00:00,Primeira Liga,Regular Season - 5,Porto,Chaves,223,Boavista,222,0.0,1.0,4.0,0
+2023,2023-09-17T14:30:00+00:00,Primeira Liga,Regular Season - 5,Arouca,Arouca,240,Casa Pia,4716,0.0,0.0,1.0,0
+2023,2023-09-17T14:30:00+00:00,Primeira Liga,Regular Season - 5,Arouca,Casa Pia,4716,Arouca,240,1.0,1.0,0.0,3
+2023,2023-09-15T18:15:00+00:00,Primeira Liga,Regular Season - 5,Amadora,Estrela,15130,FC Porto,212,0.0,0.0,1.0,0
+2023,2023-09-15T18:15:00+00:00,Primeira Liga,Regular Season - 5,Amadora,FC Porto,212,Estrela,15130,1.0,1.0,0.0,3
+2023,2023-09-24T19:30:00+00:00,Primeira Liga,Regular Season - 6,Braga,SC Braga,217,Boavista,222,1.0,4.0,1.0,3
+2023,2023-09-24T19:30:00+00:00,Primeira Liga,Regular Season - 6,Braga,Boavista,222,SC Braga,217,0.0,1.0,4.0,0
+2023,2023-09-25T19:15:00+00:00,Primeira Liga,Regular Season - 6,Lisboa,Sporting CP,228,Rio Ave,226,1.0,2.0,0.0,3
+2023,2023-09-25T19:15:00+00:00,Primeira Liga,Regular Season - 6,Lisboa,Rio Ave,226,Sporting CP,228,0.0,0.0,2.0,0
+2023,2023-09-23T19:30:00+00:00,Primeira Liga,Regular Season - 6,Porto,FC Porto,212,GIL Vicente,762,1.0,2.0,1.0,3
+2023,2023-09-23T19:30:00+00:00,Primeira Liga,Regular Season - 6,Porto,GIL Vicente,762,FC Porto,212,0.0,1.0,2.0,0
+2023,2023-09-23T14:30:00+00:00,Primeira Liga,Regular Season - 6,Moreira de Cónegos,Moreirense,215,Farense,231,1.0,1.0,0.0,3
+2023,2023-09-23T14:30:00+00:00,Primeira Liga,Regular Season - 6,Moreira de Cónegos,Farense,231,Moreirense,215,0.0,0.0,1.0,0
+2023,2023-09-22T19:15:00+00:00,Primeira Liga,Regular Season - 6,Vila Nova de Famalicão,Famalicao,242,Arouca,240,1.0,1.0,0.0,3
+2023,2023-09-22T19:15:00+00:00,Primeira Liga,Regular Season - 6,Vila Nova de Famalicão,Arouca,240,Famalicao,242,0.0,0.0,1.0,0
+2023,2023-09-24T17:00:00+00:00,Primeira Liga,Regular Season - 6,Portimão,Portimonense,216,Benfica,211,0.0,1.0,3.0,0
+2023,2023-09-24T17:00:00+00:00,Primeira Liga,Regular Season - 6,Portimão,Benfica,211,Portimonense,216,1.0,3.0,1.0,3
+2023,2023-09-23T17:00:00+00:00,Primeira Liga,Regular Season - 6,Rio Maior,Casa Pia,4716,Guimaraes,224,,0.0,0.0,1
+2023,2023-09-23T17:00:00+00:00,Primeira Liga,Regular Season - 6,Rio Maior,Guimaraes,224,Casa Pia,4716,,0.0,0.0,1
+2023,2023-09-24T14:30:00+00:00,Primeira Liga,Regular Season - 6,Chaves,Chaves,223,Estrela,15130,,2.0,2.0,1
+2023,2023-09-24T14:30:00+00:00,Primeira Liga,Regular Season - 6,Chaves,Estrela,15130,Chaves,223,,2.0,2.0,1
+2023,2023-09-23T14:30:00+00:00,Primeira Liga,Regular Season - 6,Estoril,Estoril,230,Vizela,810,,2.0,2.0,1
+2023,2023-09-23T14:30:00+00:00,Primeira Liga,Regular Season - 6,Estoril,Vizela,810,Estoril,230,,2.0,2.0,1
+2023,2023-10-02T19:15:00+00:00,Primeira Liga,Regular Season - 7,Barcelos,GIL Vicente,762,Casa Pia,4716,1.0,2.0,0.0,3
+2023,2023-10-02T19:15:00+00:00,Primeira Liga,Regular Season - 7,Barcelos,Casa Pia,4716,GIL Vicente,762,0.0,0.0,2.0,0
+2023,2023-10-01T17:00:00+00:00,Primeira Liga,Regular Season - 7,Guimarães,Guimaraes,224,Estoril,230,1.0,3.0,2.0,3
+2023,2023-10-01T17:00:00+00:00,Primeira Liga,Regular Season - 7,Guimarães,Estoril,230,Guimaraes,224,0.0,2.0,3.0,0
+2023,2023-09-30T14:30:00+00:00,Primeira Liga,Regular Season - 7,Caldas de Vizela,Vizela,810,Portimonense,216,0.0,2.0,3.0,0
+2023,2023-09-30T14:30:00+00:00,Primeira Liga,Regular Season - 7,Caldas de Vizela,Portimonense,216,Vizela,810,1.0,3.0,2.0,3
+2023,2023-10-01T19:30:00+00:00,Primeira Liga,Regular Season - 7,Vila do Conde,Rio Ave,226,Moreirense,215,0.0,0.0,4.0,0
+2023,2023-10-01T19:30:00+00:00,Primeira Liga,Regular Season - 7,Vila do Conde,Moreirense,215,Rio Ave,226,1.0,4.0,0.0,3
+2023,2023-09-28T19:15:00+00:00,Primeira Liga,Regular Season - 7,Amadora,Estrela,15130,SC Braga,217,0.0,2.0,4.0,0
+2023,2023-09-28T19:15:00+00:00,Primeira Liga,Regular Season - 7,Amadora,SC Braga,217,Estrela,15130,1.0,4.0,2.0,3
+2023,2023-09-30T19:30:00+00:00,Primeira Liga,Regular Season - 7,Faro,Farense,231,Sporting CP,228,0.0,2.0,3.0,0
+2023,2023-09-30T19:30:00+00:00,Primeira Liga,Regular Season - 7,Faro,Sporting CP,228,Farense,231,1.0,3.0,2.0,3
+2023,2023-10-01T14:30:00+00:00,Primeira Liga,Regular Season - 7,Arouca,Arouca,240,Chaves,223,0.0,0.0,2.0,0
+2023,2023-10-01T14:30:00+00:00,Primeira Liga,Regular Season - 7,Arouca,Chaves,223,Arouca,240,1.0,2.0,0.0,3
+2023,2023-09-29T19:15:00+00:00,Primeira Liga,Regular Season - 7,Lisboa,Benfica,211,FC Porto,212,1.0,1.0,0.0,3
+2023,2023-09-29T19:15:00+00:00,Primeira Liga,Regular Season - 7,Lisboa,FC Porto,212,Benfica,211,0.0,0.0,1.0,0
+2023,2023-09-30T17:00:00+00:00,Primeira Liga,Regular Season - 7,Porto,Boavista,222,Famalicao,242,,2.0,2.0,1
+2023,2023-09-30T17:00:00+00:00,Primeira Liga,Regular Season - 7,Porto,Famalicao,242,Boavista,222,,2.0,2.0,1
+2023,2023-10-07T14:30:00+00:00,Primeira Liga,Regular Season - 8,Faro,Farense,231,Vizela,810,,0.0,0.0,1
+2023,2023-10-07T14:30:00+00:00,Primeira Liga,Regular Season - 8,Faro,Vizela,810,Farense,231,,0.0,0.0,1
+2023,2023-10-07T19:30:00+00:00,Primeira Liga,Regular Season - 8,Estoril,Estoril,230,Benfica,211,0.0,0.0,1.0,0
+2023,2023-10-07T19:30:00+00:00,Primeira Liga,Regular Season - 8,Estoril,Benfica,211,Estoril,230,1.0,1.0,0.0,3
+2023,2023-10-08T19:30:00+00:00,Primeira Liga,Regular Season - 8,Lisboa,Sporting CP,228,Arouca,240,1.0,2.0,1.0,3
+2023,2023-10-08T19:30:00+00:00,Primeira Liga,Regular Season - 8,Lisboa,Arouca,240,Sporting CP,228,0.0,1.0,2.0,0
+2023,2023-10-06T19:15:00+00:00,Primeira Liga,Regular Season - 8,Moreira de Cónegos,Moreirense,215,Boavista,222,,1.0,1.0,1
+2023,2023-10-06T19:15:00+00:00,Primeira Liga,Regular Season - 8,Moreira de Cónegos,Boavista,222,Moreirense,215,,1.0,1.0,1
+2023,2023-10-08T14:30:00+00:00,Primeira Liga,Regular Season - 8,Rio Maior,Casa Pia,4716,Estrela,15130,0.0,0.0,1.0,0
+2023,2023-10-08T14:30:00+00:00,Primeira Liga,Regular Season - 8,Rio Maior,Estrela,15130,Casa Pia,4716,1.0,1.0,0.0,3
+2023,2023-10-08T14:30:00+00:00,Primeira Liga,Regular Season - 8,Vila Nova de Famalicão,Famalicao,242,Guimaraes,224,0.0,1.0,3.0,0
+2023,2023-10-08T14:30:00+00:00,Primeira Liga,Regular Season - 8,Vila Nova de Famalicão,Guimaraes,224,Famalicao,242,1.0,3.0,1.0,3
+2023,2023-10-07T17:00:00+00:00,Primeira Liga,Regular Season - 8,Braga,SC Braga,217,Rio Ave,226,1.0,2.0,1.0,3
+2023,2023-10-07T17:00:00+00:00,Primeira Liga,Regular Season - 8,Braga,Rio Ave,226,SC Braga,217,0.0,1.0,2.0,0
+2023,2023-10-08T17:00:00+00:00,Primeira Liga,Regular Season - 8,Porto,FC Porto,212,Portimonense,216,1.0,1.0,0.0,3
+2023,2023-10-08T17:00:00+00:00,Primeira Liga,Regular Season - 8,Porto,Portimonense,216,FC Porto,212,0.0,0.0,1.0,0
+2023,2023-10-07T14:30:00+00:00,Primeira Liga,Regular Season - 8,Chaves,Chaves,223,GIL Vicente,762,1.0,4.0,2.0,3
+2023,2023-10-07T14:30:00+00:00,Primeira Liga,Regular Season - 8,Chaves,GIL Vicente,762,Chaves,223,0.0,2.0,4.0,0
+2023,2023-10-28T17:00:00+00:00,Primeira Liga,Regular Season - 9,Guimarães,Guimaraes,224,Chaves,223,1.0,5.0,0.0,3
+2023,2023-10-28T17:00:00+00:00,Primeira Liga,Regular Season - 9,Guimarães,Chaves,223,Guimaraes,224,0.0,0.0,5.0,0
+2023,2023-10-28T14:30:00+00:00,Primeira Liga,Regular Season - 9,Portimão,Portimonense,216,Estoril,230,1.0,1.0,0.0,3
+2023,2023-10-28T14:30:00+00:00,Primeira Liga,Regular Season - 9,Portimão,Estoril,230,Portimonense,216,0.0,0.0,1.0,0
+2023,2023-10-29T15:30:00+00:00,Primeira Liga,Regular Season - 9,Vila do Conde,Rio Ave,226,Farense,231,0.0,3.0,4.0,0
+2023,2023-10-29T15:30:00+00:00,Primeira Liga,Regular Season - 9,Vila do Conde,Farense,231,Rio Ave,226,1.0,4.0,3.0,3
+2023,2023-10-28T19:30:00+00:00,Primeira Liga,Regular Season - 9,Barcelos,GIL Vicente,762,SC Braga,217,,3.0,3.0,1
+2023,2023-10-28T19:30:00+00:00,Primeira Liga,Regular Season - 9,Barcelos,SC Braga,217,GIL Vicente,762,,3.0,3.0,1
+2023,2023-10-27T19:15:00+00:00,Primeira Liga,Regular Season - 9,Arouca,Arouca,240,Moreirense,215,0.0,0.0,1.0,0
+2023,2023-10-27T19:15:00+00:00,Primeira Liga,Regular Season - 9,Arouca,Moreirense,215,Arouca,240,1.0,1.0,0.0,3
+2023,2023-10-29T20:30:00+00:00,Primeira Liga,Regular Season - 9,Caldas de Vizela,Vizela,810,FC Porto,212,0.0,0.0,2.0,0
+2023,2023-10-29T20:30:00+00:00,Primeira Liga,Regular Season - 9,Caldas de Vizela,FC Porto,212,Vizela,810,1.0,2.0,0.0,3
+2023,2023-10-30T20:15:00+00:00,Primeira Liga,Regular Season - 9,Porto,Boavista,222,Sporting CP,228,0.0,0.0,2.0,0
+2023,2023-10-30T20:15:00+00:00,Primeira Liga,Regular Season - 9,Porto,Sporting CP,228,Boavista,222,1.0,2.0,0.0,3
+2023,2023-10-28T17:00:00+00:00,Primeira Liga,Regular Season - 9,Lisboa,Benfica,211,Casa Pia,4716,,1.0,1.0,1
+2023,2023-10-28T17:00:00+00:00,Primeira Liga,Regular Season - 9,Lisboa,Casa Pia,4716,Benfica,211,,1.0,1.0,1
+2023,2023-10-29T18:00:00+00:00,Primeira Liga,Regular Season - 9,Amadora,Estrela,15130,Famalicao,242,1.0,1.0,0.0,3
+2023,2023-10-29T18:00:00+00:00,Primeira Liga,Regular Season - 9,Amadora,Famalicao,242,Estrela,15130,0.0,0.0,1.0,0
+2023,2023-11-05T15:30:00+00:00,Primeira Liga,Regular Season - 10,Moreira de Cónegos,Moreirense,215,Guimaraes,224,1.0,1.0,0.0,3
+2023,2023-11-05T15:30:00+00:00,Primeira Liga,Regular Season - 10,Moreira de Cónegos,Guimaraes,224,Moreirense,215,0.0,0.0,1.0,0
+2023,2023-11-05T18:00:00+00:00,Primeira Liga,Regular Season - 10,Vila do Conde,Rio Ave,226,Boavista,222,1.0,2.0,0.0,3
+2023,2023-11-05T18:00:00+00:00,Primeira Liga,Regular Season - 10,Vila do Conde,Boavista,222,Rio Ave,226,0.0,0.0,2.0,0
+2023,2023-11-03T20:15:00+00:00,Primeira Liga,Regular Season - 10,Porto,FC Porto,212,Estoril,230,0.0,0.0,1.0,0
+2023,2023-11-03T20:15:00+00:00,Primeira Liga,Regular Season - 10,Porto,Estoril,230,FC Porto,212,1.0,1.0,0.0,3
+2023,2023-11-05T20:30:00+00:00,Primeira Liga,Regular Season - 10,Lisboa,Sporting CP,228,Estrela,15130,1.0,3.0,2.0,3
+2023,2023-11-05T20:30:00+00:00,Primeira Liga,Regular Season - 10,Lisboa,Estrela,15130,Sporting CP,228,0.0,2.0,3.0,0
+2023,2023-11-06T20:15:00+00:00,Primeira Liga,Regular Season - 10,Faro,Farense,231,Arouca,240,1.0,2.0,0.0,3
+2023,2023-11-06T20:15:00+00:00,Primeira Liga,Regular Season - 10,Faro,Arouca,240,Farense,231,0.0,0.0,2.0,0
+2023,2023-11-04T15:30:00+00:00,Primeira Liga,Regular Season - 10,Chaves,Chaves,223,Benfica,211,0.0,0.0,2.0,0
+2023,2023-11-04T15:30:00+00:00,Primeira Liga,Regular Season - 10,Chaves,Benfica,211,Chaves,223,1.0,2.0,0.0,3
+2023,2023-11-04T18:00:00+00:00,Primeira Liga,Regular Season - 10,Vila Nova de Famalicão,Famalicao,242,GIL Vicente,762,1.0,3.0,1.0,3
+2023,2023-11-04T18:00:00+00:00,Primeira Liga,Regular Season - 10,Vila Nova de Famalicão,GIL Vicente,762,Famalicao,242,0.0,1.0,3.0,0
+2023,2023-11-04T20:30:00+00:00,Primeira Liga,Regular Season - 10,Braga,SC Braga,217,Portimonense,216,1.0,6.0,1.0,3
+2023,2023-11-04T20:30:00+00:00,Primeira Liga,Regular Season - 10,Braga,Portimonense,216,SC Braga,217,0.0,1.0,6.0,0
+2023,2023-11-05T15:30:00+00:00,Primeira Liga,Regular Season - 10,Rio Maior,Casa Pia,4716,Vizela,810,0.0,0.0,1.0,0
+2023,2023-11-05T15:30:00+00:00,Primeira Liga,Regular Season - 10,Rio Maior,Vizela,810,Casa Pia,4716,1.0,1.0,0.0,3
+2023,2023-11-11T18:00:00+00:00,Primeira Liga,Regular Season - 11,Amadora,Estrela,15130,Moreirense,215,0.0,0.0,1.0,0
+2023,2023-11-11T18:00:00+00:00,Primeira Liga,Regular Season - 11,Amadora,Moreirense,215,Estrela,15130,1.0,1.0,0.0,3
+2023,2023-11-11T15:30:00+00:00,Primeira Liga,Regular Season - 11,Portimão,Portimonense,216,Chaves,223,1.0,2.0,1.0,3
+2023,2023-11-11T15:30:00+00:00,Primeira Liga,Regular Season - 11,Portimão,Chaves,223,Portimonense,216,0.0,1.0,2.0,0
+2023,2023-11-11T18:00:00+00:00,Primeira Liga,Regular Season - 11,Caldas de Vizela,Vizela,810,Famalicao,242,,0.0,0.0,1
+2023,2023-11-11T18:00:00+00:00,Primeira Liga,Regular Season - 11,Caldas de Vizela,Famalicao,242,Vizela,810,,0.0,0.0,1
+2023,2023-11-10T20:15:00+00:00,Primeira Liga,Regular Season - 11,Estoril,Estoril,230,Casa Pia,4716,1.0,4.0,0.0,3
+2023,2023-11-10T20:15:00+00:00,Primeira Liga,Regular Season - 11,Estoril,Casa Pia,4716,Estoril,230,0.0,0.0,4.0,0
+2023,2023-11-12T15:30:00+00:00,Primeira Liga,Regular Season - 11,Barcelos,GIL Vicente,762,Rio Ave,226,,1.0,1.0,1
+2023,2023-11-12T15:30:00+00:00,Primeira Liga,Regular Season - 11,Barcelos,Rio Ave,226,GIL Vicente,762,,1.0,1.0,1
+2023,2023-11-12T15:30:00+00:00,Primeira Liga,Regular Season - 11,Porto,Boavista,222,Farense,231,0.0,1.0,3.0,0
+2023,2023-11-12T15:30:00+00:00,Primeira Liga,Regular Season - 11,Porto,Farense,231,Boavista,222,1.0,3.0,1.0,3
+2023,2023-11-12T18:00:00+00:00,Primeira Liga,Regular Season - 11,Arouca,Arouca,240,SC Braga,217,0.0,0.0,1.0,0
+2023,2023-11-12T18:00:00+00:00,Primeira Liga,Regular Season - 11,Arouca,SC Braga,217,Arouca,240,1.0,1.0,0.0,3
+2023,2023-11-12T20:30:00+00:00,Primeira Liga,Regular Season - 11,Lisboa,Benfica,211,Sporting CP,228,1.0,2.0,1.0,3
+2023,2023-11-12T20:30:00+00:00,Primeira Liga,Regular Season - 11,Lisboa,Sporting CP,228,Benfica,211,0.0,1.0,2.0,0
+2023,2023-11-11T20:30:00+00:00,Primeira Liga,Regular Season - 11,Guimarães,Guimaraes,224,FC Porto,212,0.0,1.0,2.0,0
+2023,2023-11-11T20:30:00+00:00,Primeira Liga,Regular Season - 11,Guimarães,FC Porto,212,Guimaraes,224,1.0,2.0,1.0,3
+2023,2023-12-03T18:00:00+00:00,Primeira Liga,Regular Season - 12,Moreira de Cónegos,Moreirense,215,Benfica,211,,0.0,0.0,1
+2023,2023-12-03T18:00:00+00:00,Primeira Liga,Regular Season - 12,Moreira de Cónegos,Benfica,211,Moreirense,215,,0.0,0.0,1
+2023,2023-12-03T20:30:00+00:00,Primeira Liga,Regular Season - 12,Porto,Boavista,222,Arouca,240,0.0,0.0,4.0,0
+2023,2023-12-03T20:30:00+00:00,Primeira Liga,Regular Season - 12,Porto,Arouca,240,Boavista,222,1.0,4.0,0.0,3
+2023,2023-12-04T20:15:00+00:00,Primeira Liga,Regular Season - 12,Lisboa,Sporting CP,228,GIL Vicente,762,1.0,3.0,1.0,3
+2023,2023-12-04T20:15:00+00:00,Primeira Liga,Regular Season - 12,Lisboa,GIL Vicente,762,Sporting CP,228,0.0,1.0,3.0,0
+2023,2023-12-02T15:30:00+00:00,Primeira Liga,Regular Season - 12,Vila do Conde,Rio Ave,226,Estrela,15130,,1.0,1.0,1
+2023,2023-12-02T15:30:00+00:00,Primeira Liga,Regular Season - 12,Vila do Conde,Estrela,15130,Rio Ave,226,,1.0,1.0,1
+2023,2023-12-02T15:30:00+00:00,Primeira Liga,Regular Season - 12,Faro,Farense,231,Guimaraes,224,0.0,1.0,2.0,0
+2023,2023-12-02T15:30:00+00:00,Primeira Liga,Regular Season - 12,Faro,Guimaraes,224,Farense,231,1.0,2.0,1.0,3
+2023,2023-12-02T20:30:00+00:00,Primeira Liga,Regular Season - 12,Rio Maior,Casa Pia,4716,Portimonense,216,1.0,1.0,0.0,3
+2023,2023-12-02T20:30:00+00:00,Primeira Liga,Regular Season - 12,Rio Maior,Portimonense,216,Casa Pia,4716,0.0,0.0,1.0,0
+2023,2023-12-01T20:30:00+00:00,Primeira Liga,Regular Season - 12,Chaves,Chaves,223,Vizela,810,1.0,2.0,1.0,3
+2023,2023-12-01T20:30:00+00:00,Primeira Liga,Regular Season - 12,Chaves,Vizela,810,Chaves,223,0.0,1.0,2.0,0
+2023,2023-12-03T15:30:00+00:00,Primeira Liga,Regular Season - 12,Braga,SC Braga,217,Estoril,230,1.0,3.0,1.0,3
+2023,2023-12-03T15:30:00+00:00,Primeira Liga,Regular Season - 12,Braga,Estoril,230,SC Braga,217,0.0,1.0,3.0,0
+2023,2023-12-02T18:00:00+00:00,Primeira Liga,Regular Season - 12,Vila Nova de Famalicão,Famalicao,242,FC Porto,212,0.0,0.0,3.0,0
+2023,2023-12-02T18:00:00+00:00,Primeira Liga,Regular Season - 12,Vila Nova de Famalicão,FC Porto,212,Famalicao,242,1.0,3.0,0.0,3
+2023,2023-12-10T20:30:00+00:00,Primeira Liga,Regular Season - 13,Estoril,Estoril,230,Chaves,223,1.0,4.0,0.0,3
+2023,2023-12-10T20:30:00+00:00,Primeira Liga,Regular Season - 13,Estoril,Chaves,223,Estoril,230,0.0,0.0,4.0,0
+2023,2023-12-09T15:30:00+00:00,Primeira Liga,Regular Season - 13,Portimão,Portimonense,216,Famalicao,242,,1.0,1.0,1
+2023,2023-12-09T15:30:00+00:00,Primeira Liga,Regular Season - 13,Portimão,Famalicao,242,Portimonense,216,,1.0,1.0,1
+2023,2023-12-10T15:30:00+00:00,Primeira Liga,Regular Season - 13,Amadora,Estrela,15130,Boavista,222,1.0,3.0,1.0,3
+2023,2023-12-10T15:30:00+00:00,Primeira Liga,Regular Season - 13,Amadora,Boavista,222,Estrela,15130,0.0,1.0,3.0,0
+2023,2023-12-09T20:30:00+00:00,Primeira Liga,Regular Season - 13,Porto,FC Porto,212,Casa Pia,4716,1.0,3.0,1.0,3
+2023,2023-12-09T20:30:00+00:00,Primeira Liga,Regular Season - 13,Porto,Casa Pia,4716,FC Porto,212,0.0,1.0,3.0,0
+2023,2023-12-08T15:30:00+00:00,Primeira Liga,Regular Season - 13,Caldas de Vizela,Vizela,810,SC Braga,217,0.0,1.0,3.0,0
+2023,2023-12-08T15:30:00+00:00,Primeira Liga,Regular Season - 13,Caldas de Vizela,SC Braga,217,Vizela,810,1.0,3.0,1.0,3
+2023,2023-12-11T20:15:00+00:00,Primeira Liga,Regular Season - 13,Barcelos,GIL Vicente,762,Moreirense,215,,1.0,1.0,1
+2023,2023-12-11T20:15:00+00:00,Primeira Liga,Regular Season - 13,Barcelos,Moreirense,215,GIL Vicente,762,,1.0,1.0,1
+2023,2023-12-10T18:00:00+00:00,Primeira Liga,Regular Season - 13,Arouca,Arouca,240,Rio Ave,226,,2.0,2.0,1
+2023,2023-12-10T18:00:00+00:00,Primeira Liga,Regular Season - 13,Arouca,Rio Ave,226,Arouca,240,,2.0,2.0,1
+2023,2023-12-08T18:00:00+00:00,Primeira Liga,Regular Season - 13,Lisboa,Benfica,211,Farense,231,,1.0,1.0,1
+2023,2023-12-08T18:00:00+00:00,Primeira Liga,Regular Season - 13,Lisboa,Farense,231,Benfica,211,,1.0,1.0,1
+2023,2023-12-09T18:00:00+00:00,Primeira Liga,Regular Season - 13,Guimarães,Guimaraes,224,Sporting CP,228,1.0,3.0,2.0,3
+2023,2023-12-09T18:00:00+00:00,Primeira Liga,Regular Season - 13,Guimarães,Sporting CP,228,Guimaraes,224,0.0,2.0,3.0,0
+2023,2023-12-17T20:30:00+00:00,Primeira Liga,Regular Season - 14,Braga,SC Braga,217,Benfica,211,0.0,0.0,1.0,0
+2023,2023-12-17T20:30:00+00:00,Primeira Liga,Regular Season - 14,Braga,Benfica,211,SC Braga,217,1.0,1.0,0.0,3
+2023,2023-12-18T20:15:00+00:00,Primeira Liga,Regular Season - 14,Lisboa,Sporting CP,228,FC Porto,212,1.0,2.0,0.0,3
+2023,2023-12-18T20:15:00+00:00,Primeira Liga,Regular Season - 14,Lisboa,FC Porto,212,Sporting CP,228,0.0,0.0,2.0,0
+2023,2023-12-17T18:00:00+00:00,Primeira Liga,Regular Season - 14,Vila Nova de Famalicão,Famalicao,242,Estoril,230,,1.0,1.0,1
+2023,2023-12-17T18:00:00+00:00,Primeira Liga,Regular Season - 14,Vila Nova de Famalicão,Estoril,230,Famalicao,242,,1.0,1.0,1
+2023,2023-12-15T20:15:00+00:00,Primeira Liga,Regular Season - 14,Faro,Farense,231,Estrela,15130,,0.0,0.0,1
+2023,2023-12-15T20:15:00+00:00,Primeira Liga,Regular Season - 14,Faro,Estrela,15130,Farense,231,,0.0,0.0,1
+2023,2023-12-17T15:30:00+00:00,Primeira Liga,Regular Season - 14,Moreira de Cónegos,Moreirense,215,Portimonense,216,1.0,5.0,2.0,3
+2023,2023-12-17T15:30:00+00:00,Primeira Liga,Regular Season - 14,Moreira de Cónegos,Portimonense,216,Moreirense,215,0.0,2.0,5.0,0
+2023,2023-12-16T15:30:00+00:00,Primeira Liga,Regular Season - 14,Vila do Conde,Rio Ave,226,Vizela,810,,1.0,1.0,1
+2023,2023-12-16T15:30:00+00:00,Primeira Liga,Regular Season - 14,Vila do Conde,Vizela,810,Rio Ave,226,,1.0,1.0,1
+2023,2023-12-17T15:30:00+00:00,Primeira Liga,Regular Season - 14,Chaves,Chaves,223,Casa Pia,4716,0.0,1.0,3.0,0
+2023,2023-12-17T15:30:00+00:00,Primeira Liga,Regular Season - 14,Chaves,Casa Pia,4716,Chaves,223,1.0,3.0,1.0,3
+2023,2023-12-16T18:00:00+00:00,Primeira Liga,Regular Season - 14,Arouca,Arouca,240,GIL Vicente,762,1.0,3.0,0.0,3
+2023,2023-12-16T18:00:00+00:00,Primeira Liga,Regular Season - 14,Arouca,GIL Vicente,762,Arouca,240,0.0,0.0,3.0,0
+2023,2023-12-16T20:30:00+00:00,Primeira Liga,Regular Season - 14,Porto,Boavista,222,Guimaraes,224,,1.0,1.0,1
+2023,2023-12-16T20:30:00+00:00,Primeira Liga,Regular Season - 14,Porto,Guimaraes,224,Boavista,222,,1.0,1.0,1
+2023,2023-12-28T20:15:00+00:00,Primeira Liga,Regular Season - 15,Amadora,Estrela,15130,Arouca,240,0.0,1.0,4.0,0
+2023,2023-12-28T20:15:00+00:00,Primeira Liga,Regular Season - 15,Amadora,Arouca,240,Estrela,15130,1.0,4.0,1.0,3
+2023,2023-12-29T20:45:00+00:00,Primeira Liga,Regular Season - 15,Porto,FC Porto,212,Chaves,223,1.0,1.0,0.0,3
+2023,2023-12-29T20:45:00+00:00,Primeira Liga,Regular Season - 15,Porto,Chaves,223,FC Porto,212,0.0,0.0,1.0,0
+2023,2023-12-30T15:30:00+00:00,Primeira Liga,Regular Season - 15,Barcelos,GIL Vicente,762,Boavista,222,1.0,1.0,0.0,3
+2023,2023-12-30T15:30:00+00:00,Primeira Liga,Regular Season - 15,Barcelos,Boavista,222,GIL Vicente,762,0.0,0.0,1.0,0
+2023,2023-12-23T15:30:00+00:00,Primeira Liga,Regular Season - 15,Caldas de Vizela,Vizela,810,Moreirense,215,,0.0,0.0,1
+2023,2023-12-23T15:30:00+00:00,Primeira Liga,Regular Season - 15,Caldas de Vizela,Moreirense,215,Vizela,810,,0.0,0.0,1
+2023,2023-12-30T18:00:00+00:00,Primeira Liga,Regular Season - 15,Rio Maior,Casa Pia,4716,SC Braga,217,0.0,1.0,3.0,0
+2023,2023-12-30T18:00:00+00:00,Primeira Liga,Regular Season - 15,Rio Maior,SC Braga,217,Casa Pia,4716,1.0,3.0,1.0,3
+2023,2023-12-30T20:30:00+00:00,Primeira Liga,Regular Season - 15,Portimão,Portimonense,216,Sporting CP,228,0.0,1.0,2.0,0
+2023,2023-12-30T20:30:00+00:00,Primeira Liga,Regular Season - 15,Portimão,Sporting CP,228,Portimonense,216,1.0,2.0,1.0,3
+2023,2023-12-23T15:30:00+00:00,Primeira Liga,Regular Season - 15,Guimarães,Guimaraes,224,Rio Ave,226,1.0,1.0,0.0,3
+2023,2023-12-23T15:30:00+00:00,Primeira Liga,Regular Season - 15,Guimarães,Rio Ave,226,Guimaraes,224,0.0,0.0,1.0,0
+2023,2023-12-29T18:45:00+00:00,Primeira Liga,Regular Season - 15,Lisboa,Benfica,211,Famalicao,242,1.0,3.0,0.0,3
+2023,2023-12-29T18:45:00+00:00,Primeira Liga,Regular Season - 15,Lisboa,Famalicao,242,Benfica,211,0.0,0.0,3.0,0
+2023,2023-12-30T15:30:00+00:00,Primeira Liga,Regular Season - 15,Estoril,Estoril,230,Farense,231,1.0,4.0,0.0,3
+2023,2023-12-30T15:30:00+00:00,Primeira Liga,Regular Season - 15,Estoril,Farense,231,Estoril,230,0.0,0.0,4.0,0
+2023,2024-01-07T20:30:00+00:00,Primeira Liga,Regular Season - 16,Vila Nova de Famalicão,Famalicao,242,Chaves,223,,2.0,2.0,1
+2023,2024-01-07T20:30:00+00:00,Primeira Liga,Regular Season - 16,Vila Nova de Famalicão,Chaves,223,Famalicao,242,,2.0,2.0,1
+2023,2024-01-08T20:15:00+00:00,Primeira Liga,Regular Season - 16,Moreira de Cónegos,Moreirense,215,Casa Pia,4716,0.0,1.0,4.0,0
+2023,2024-01-08T20:15:00+00:00,Primeira Liga,Regular Season - 16,Moreira de Cónegos,Casa Pia,4716,Moreirense,215,1.0,4.0,1.0,3
+2023,2024-01-05T18:45:00+00:00,Primeira Liga,Regular Season - 16,Lisboa,Sporting CP,228,Estoril,230,1.0,5.0,1.0,3
+2023,2024-01-05T18:45:00+00:00,Primeira Liga,Regular Season - 16,Lisboa,Estoril,230,Sporting CP,228,0.0,1.0,5.0,0
+2023,2024-01-07T18:00:00+00:00,Primeira Liga,Regular Season - 16,Vila do Conde,Rio Ave,226,Portimonense,216,1.0,2.0,0.0,3
+2023,2024-01-07T18:00:00+00:00,Primeira Liga,Regular Season - 16,Vila do Conde,Portimonense,216,Rio Ave,226,0.0,0.0,2.0,0
+2023,2024-01-06T15:30:00+00:00,Primeira Liga,Regular Season - 16,Faro,Farense,231,GIL Vicente,762,1.0,1.0,0.0,3
+2023,2024-01-06T15:30:00+00:00,Primeira Liga,Regular Season - 16,Faro,GIL Vicente,762,Farense,231,0.0,0.0,1.0,0
+2023,2024-01-06T15:30:00+00:00,Primeira Liga,Regular Season - 16,Amadora,Estrela,15130,Vizela,810,,1.0,1.0,1
+2023,2024-01-06T15:30:00+00:00,Primeira Liga,Regular Season - 16,Amadora,Vizela,810,Estrela,15130,,1.0,1.0,1
+2023,2024-01-06T18:00:00+00:00,Primeira Liga,Regular Season - 16,Arouca,Arouca,240,Benfica,211,0.0,0.0,3.0,0
+2023,2024-01-06T18:00:00+00:00,Primeira Liga,Regular Season - 16,Arouca,Benfica,211,Arouca,240,1.0,3.0,0.0,3
+2023,2024-01-06T20:30:00+00:00,Primeira Liga,Regular Season - 16,Braga,SC Braga,217,Guimaraes,224,,1.0,1.0,1
+2023,2024-01-06T20:30:00+00:00,Primeira Liga,Regular Season - 16,Braga,Guimaraes,224,SC Braga,217,,1.0,1.0,1
+2023,2024-01-05T20:45:00+00:00,Primeira Liga,Regular Season - 16,Porto,Boavista,222,FC Porto,212,,1.0,1.0,1
+2023,2024-01-05T20:45:00+00:00,Primeira Liga,Regular Season - 16,Porto,FC Porto,212,Boavista,222,,1.0,1.0,1
+2023,2024-01-15T20:15:00+00:00,Primeira Liga,Regular Season - 17,Guimarães,Guimaraes,224,Arouca,240,1.0,2.0,1.0,3
+2023,2024-01-15T20:15:00+00:00,Primeira Liga,Regular Season - 17,Guimarães,Arouca,240,Guimaraes,224,0.0,1.0,2.0,0
+2023,2024-01-14T18:00:00+00:00,Primeira Liga,Regular Season - 17,Caldas de Vizela,Vizela,810,Boavista,222,0.0,1.0,4.0,0
+2023,2024-01-14T18:00:00+00:00,Primeira Liga,Regular Season - 17,Caldas de Vizela,Boavista,222,Vizela,810,1.0,4.0,1.0,3
+2023,2024-01-14T15:30:00+00:00,Primeira Liga,Regular Season - 17,Barcelos,GIL Vicente,762,Estrela,15130,,1.0,1.0,1
+2023,2024-01-14T15:30:00+00:00,Primeira Liga,Regular Season - 17,Barcelos,Estrela,15130,GIL Vicente,762,,1.0,1.0,1
+2023,2024-01-14T20:30:00+00:00,Primeira Liga,Regular Season - 17,Porto,FC Porto,212,SC Braga,217,1.0,2.0,0.0,3
+2023,2024-01-14T20:30:00+00:00,Primeira Liga,Regular Season - 17,Porto,SC Braga,217,FC Porto,212,0.0,0.0,2.0,0
+2023,2024-01-12T20:15:00+00:00,Primeira Liga,Regular Season - 17,Portimão,Portimonense,216,Farense,231,1.0,1.0,0.0,3
+2023,2024-01-12T20:15:00+00:00,Primeira Liga,Regular Season - 17,Portimão,Farense,231,Portimonense,216,0.0,0.0,1.0,0
+2023,2024-01-13T20:30:00+00:00,Primeira Liga,Regular Season - 17,Estoril,Estoril,230,Moreirense,215,0.0,1.0,3.0,0
+2023,2024-01-13T20:30:00+00:00,Primeira Liga,Regular Season - 17,Estoril,Moreirense,215,Estoril,230,1.0,3.0,1.0,3
+2023,2024-01-13T18:00:00+00:00,Primeira Liga,Regular Season - 17,Chaves,Chaves,223,Sporting CP,228,0.0,0.0,3.0,0
+2023,2024-01-13T18:00:00+00:00,Primeira Liga,Regular Season - 17,Chaves,Sporting CP,228,Chaves,223,1.0,3.0,0.0,3
+2023,2024-01-14T18:00:00+00:00,Primeira Liga,Regular Season - 17,Lisboa,Benfica,211,Rio Ave,226,1.0,4.0,1.0,3
+2023,2024-01-14T18:00:00+00:00,Primeira Liga,Regular Season - 17,Lisboa,Rio Ave,226,Benfica,211,0.0,1.0,4.0,0
+2023,2024-01-13T15:30:00+00:00,Primeira Liga,Regular Season - 17,Rio Maior,Casa Pia,4716,Famalicao,242,0.0,0.0,2.0,0
+2023,2024-01-13T15:30:00+00:00,Primeira Liga,Regular Season - 17,Rio Maior,Famalicao,242,Casa Pia,4716,1.0,2.0,0.0,3
+2023,2024-01-19T20:15:00+00:00,Primeira Liga,Regular Season - 18,Lisboa,Benfica,211,Boavista,222,1.0,2.0,0.0,3
+2023,2024-01-19T20:15:00+00:00,Primeira Liga,Regular Season - 18,Lisboa,Boavista,222,Benfica,211,0.0,0.0,2.0,0
+2023,2024-01-21T18:00:00+00:00,Primeira Liga,Regular Season - 18,Chaves,Chaves,223,Rio Ave,226,,0.0,0.0,1
+2023,2024-01-21T18:00:00+00:00,Primeira Liga,Regular Season - 18,Chaves,Rio Ave,226,Chaves,223,,0.0,0.0,1
+2023,2024-01-20T18:00:00+00:00,Primeira Liga,Regular Season - 18,Lisboa,Casa Pia,4716,Farense,231,0.0,1.0,3.0,0
+2023,2024-01-20T18:00:00+00:00,Primeira Liga,Regular Season - 18,Lisboa,Farense,231,Casa Pia,4716,1.0,3.0,1.0,3
+2023,2024-01-20T20:30:00+00:00,Primeira Liga,Regular Season - 18,Porto,FC Porto,212,Moreirense,215,1.0,5.0,0.0,3
+2023,2024-01-20T20:30:00+00:00,Primeira Liga,Regular Season - 18,Porto,Moreirense,215,FC Porto,212,0.0,0.0,5.0,0
+2023,2024-01-21T20:30:00+00:00,Primeira Liga,Regular Season - 18,Guimarães,Guimaraes,224,Estrela,15130,1.0,3.0,0.0,3
+2023,2024-01-21T20:30:00+00:00,Primeira Liga,Regular Season - 18,Guimarães,Estrela,15130,Guimaraes,224,0.0,0.0,3.0,0
+2023,2024-01-18T18:45:00+00:00,Primeira Liga,Regular Season - 18,Vila Nova de Famalicão,Famalicao,242,SC Braga,217,0.0,1.0,2.0,0
+2023,2024-01-18T18:45:00+00:00,Primeira Liga,Regular Season - 18,Vila Nova de Famalicão,SC Braga,217,Famalicao,242,1.0,2.0,1.0,3
+2023,2024-01-20T15:30:00+00:00,Primeira Liga,Regular Season - 18,Estoril,Estoril,230,Arouca,240,0.0,1.0,2.0,0
+2023,2024-01-20T15:30:00+00:00,Primeira Liga,Regular Season - 18,Estoril,Arouca,240,Estoril,230,1.0,2.0,1.0,3
+2023,2024-01-18T20:45:00+00:00,Primeira Liga,Regular Season - 18,Caldas de Vizela,Vizela,810,Sporting CP,228,0.0,2.0,5.0,0
+2023,2024-01-18T20:45:00+00:00,Primeira Liga,Regular Season - 18,Caldas de Vizela,Sporting CP,228,Vizela,810,1.0,5.0,2.0,3
+2023,2024-01-21T15:30:00+00:00,Primeira Liga,Regular Season - 18,Portimão,Portimonense,216,GIL Vicente,762,0.0,0.0,2.0,0
+2023,2024-01-21T15:30:00+00:00,Primeira Liga,Regular Season - 18,Portimão,GIL Vicente,762,Portimonense,216,1.0,2.0,0.0,3
+2023,2024-01-28T20:30:00+00:00,Primeira Liga,Regular Season - 19,Arouca,Arouca,240,Vizela,810,1.0,5.0,0.0,3
+2023,2024-01-28T20:30:00+00:00,Primeira Liga,Regular Season - 19,Arouca,Vizela,810,Arouca,240,0.0,0.0,5.0,0
+2023,2024-01-28T15:30:00+00:00,Primeira Liga,Regular Season - 19,Porto,Boavista,222,Portimonense,216,0.0,1.0,4.0,0
+2023,2024-01-28T15:30:00+00:00,Primeira Liga,Regular Season - 19,Porto,Portimonense,216,Boavista,222,1.0,4.0,1.0,3
+2023,2024-01-28T18:00:00+00:00,Primeira Liga,Regular Season - 19,Faro,Farense,231,FC Porto,212,0.0,1.0,3.0,0
+2023,2024-01-28T18:00:00+00:00,Primeira Liga,Regular Season - 19,Faro,FC Porto,212,Farense,231,1.0,3.0,1.0,3
+2023,2024-01-31T20:45:00+00:00,Primeira Liga,Regular Season - 19,Braga,SC Braga,217,Chaves,223,,1.0,1.0,1
+2023,2024-01-31T20:45:00+00:00,Primeira Liga,Regular Season - 19,Braga,Chaves,223,SC Braga,217,,1.0,1.0,1
+2023,2024-01-31T18:45:00+00:00,Primeira Liga,Regular Season - 19,Vila do Conde,Rio Ave,226,Estoril,230,,1.0,1.0,1
+2023,2024-01-31T18:45:00+00:00,Primeira Liga,Regular Season - 19,Vila do Conde,Estoril,230,Rio Ave,226,,1.0,1.0,1
+2023,2024-01-29T18:45:00+00:00,Primeira Liga,Regular Season - 19,Amadora,Estrela,15130,Benfica,211,0.0,1.0,4.0,0
+2023,2024-01-29T18:45:00+00:00,Primeira Liga,Regular Season - 19,Amadora,Benfica,211,Estrela,15130,1.0,4.0,1.0,3
+2023,2024-01-28T15:30:00+00:00,Primeira Liga,Regular Season - 19,Moreira de Cónegos,Moreirense,215,Famalicao,242,1.0,1.0,0.0,3
+2023,2024-01-28T15:30:00+00:00,Primeira Liga,Regular Season - 19,Moreira de Cónegos,Famalicao,242,Moreirense,215,0.0,0.0,1.0,0
+2023,2024-01-28T20:30:00+00:00,Primeira Liga,Regular Season - 19,Barcelos,GIL Vicente,762,Guimaraes,224,1.0,1.0,0.0,3
+2023,2024-01-28T20:30:00+00:00,Primeira Liga,Regular Season - 19,Barcelos,Guimaraes,224,GIL Vicente,762,0.0,0.0,1.0,0
+2023,2024-01-29T20:45:00+00:00,Primeira Liga,Regular Season - 19,Lisboa,Sporting CP,228,Casa Pia,4716,1.0,8.0,0.0,3
+2023,2024-01-29T20:45:00+00:00,Primeira Liga,Regular Season - 19,Lisboa,Casa Pia,4716,Sporting CP,228,0.0,0.0,8.0,0
+2023,2024-02-04T20:30:00+00:00,Primeira Liga,Regular Season - 20,Braga,SC Braga,217,Moreirense,215,1.0,1.0,0.0,3
+2023,2024-02-04T20:30:00+00:00,Primeira Liga,Regular Season - 20,Braga,Moreirense,215,SC Braga,217,0.0,0.0,1.0,0
+2023,2024-02-04T15:30:00+00:00,Primeira Liga,Regular Season - 20,Chaves,Chaves,223,Farense,231,,1.0,1.0,1
+2023,2024-02-04T15:30:00+00:00,Primeira Liga,Regular Season - 20,Chaves,Farense,231,Chaves,223,,1.0,1.0,1
+2023,2024-04-16T19:15:00+00:00,Primeira Liga,Regular Season - 20,Vila Nova de Famalicão,Famalicao,242,Sporting CP,228,0.0,0.0,1.0,0
+2023,2024-04-16T19:15:00+00:00,Primeira Liga,Regular Season - 20,Vila Nova de Famalicão,Sporting CP,228,Famalicao,242,1.0,1.0,0.0,3
+2023,2024-02-03T20:30:00+00:00,Primeira Liga,Regular Season - 20,Porto,FC Porto,212,Rio Ave,226,,0.0,0.0,1
+2023,2024-02-03T20:30:00+00:00,Primeira Liga,Regular Season - 20,Porto,Rio Ave,226,FC Porto,212,,0.0,0.0,1
+2023,2024-02-04T18:00:00+00:00,Primeira Liga,Regular Season - 20,Lisboa,Benfica,211,GIL Vicente,762,1.0,3.0,0.0,3
+2023,2024-02-04T18:00:00+00:00,Primeira Liga,Regular Season - 20,Lisboa,GIL Vicente,762,Benfica,211,0.0,0.0,3.0,0
+2023,2024-02-03T15:30:00+00:00,Primeira Liga,Regular Season - 20,Portimão,Portimonense,216,Arouca,240,0.0,1.0,2.0,0
+2023,2024-02-03T15:30:00+00:00,Primeira Liga,Regular Season - 20,Portimão,Arouca,240,Portimonense,216,1.0,2.0,1.0,3
+2023,2024-02-05T20:15:00+00:00,Primeira Liga,Regular Season - 20,Rio Maior,Casa Pia,4716,Boavista,222,,0.0,0.0,1
+2023,2024-02-05T20:15:00+00:00,Primeira Liga,Regular Season - 20,Rio Maior,Boavista,222,Casa Pia,4716,,0.0,0.0,1
+2023,2024-02-04T15:30:00+00:00,Primeira Liga,Regular Season - 20,Caldas de Vizela,Vizela,810,Guimaraes,224,0.0,0.0,1.0,0
+2023,2024-02-04T15:30:00+00:00,Primeira Liga,Regular Season - 20,Caldas de Vizela,Guimaraes,224,Vizela,810,1.0,1.0,0.0,3
+2023,2024-02-04T18:00:00+00:00,Primeira Liga,Regular Season - 20,Estoril,Estoril,230,Estrela,15130,1.0,1.0,0.0,3
+2023,2024-02-04T18:00:00+00:00,Primeira Liga,Regular Season - 20,Estoril,Estrela,15130,Estoril,230,0.0,0.0,1.0,0
+2023,2024-02-12T20:15:00+00:00,Primeira Liga,Regular Season - 21,Arouca,Arouca,240,FC Porto,212,1.0,3.0,2.0,3
+2023,2024-02-12T20:15:00+00:00,Primeira Liga,Regular Season - 21,Arouca,FC Porto,212,Arouca,240,0.0,2.0,3.0,0
+2023,2024-02-10T20:30:00+00:00,Primeira Liga,Regular Season - 21,Porto,Boavista,222,Estoril,230,1.0,2.0,1.0,3
+2023,2024-02-10T20:30:00+00:00,Primeira Liga,Regular Season - 21,Porto,Estoril,230,Boavista,222,0.0,1.0,2.0,0
+2023,2024-02-13T15:30:00+00:00,Primeira Liga,Regular Season - 21,Barcelos,GIL Vicente,762,Vizela,810,0.0,0.0,1.0,0
+2023,2024-02-13T15:30:00+00:00,Primeira Liga,Regular Season - 21,Barcelos,Vizela,810,GIL Vicente,762,1.0,1.0,0.0,3
+2023,2024-02-11T15:30:00+00:00,Primeira Liga,Regular Season - 21,Vila do Conde,Rio Ave,226,Casa Pia,4716,1.0,1.0,0.0,3
+2023,2024-02-11T15:30:00+00:00,Primeira Liga,Regular Season - 21,Vila do Conde,Casa Pia,4716,Rio Ave,226,0.0,0.0,1.0,0
+2023,2024-02-09T20:15:00+00:00,Primeira Liga,Regular Season - 21,Amadora,Estrela,15130,Portimonense,216,1.0,3.0,0.0,3
+2023,2024-02-09T20:15:00+00:00,Primeira Liga,Regular Season - 21,Amadora,Portimonense,216,Estrela,15130,0.0,0.0,3.0,0
+2023,2024-02-10T15:30:00+00:00,Primeira Liga,Regular Season - 21,Faro,Farense,231,Famalicao,242,,1.0,1.0,1
+2023,2024-02-10T15:30:00+00:00,Primeira Liga,Regular Season - 21,Faro,Famalicao,242,Farense,231,,1.0,1.0,1
+2023,2024-02-11T18:00:00+00:00,Primeira Liga,Regular Season - 21,Lisboa,Sporting CP,228,SC Braga,217,1.0,5.0,0.0,3
+2023,2024-02-11T18:00:00+00:00,Primeira Liga,Regular Season - 21,Lisboa,SC Braga,217,Sporting CP,228,0.0,0.0,5.0,0
+2023,2024-02-11T20:30:00+00:00,Primeira Liga,Regular Season - 21,Guimarães,Guimaraes,224,Benfica,211,,2.0,2.0,1
+2023,2024-02-11T20:30:00+00:00,Primeira Liga,Regular Season - 21,Guimarães,Benfica,211,Guimaraes,224,,2.0,2.0,1
+2023,2024-02-10T18:00:00+00:00,Primeira Liga,Regular Season - 21,Moreira de Cónegos,Moreirense,215,Chaves,223,1.0,1.0,0.0,3
+2023,2024-02-10T18:00:00+00:00,Primeira Liga,Regular Season - 21,Moreira de Cónegos,Chaves,223,Moreirense,215,0.0,0.0,1.0,0
+2023,2024-02-16T20:15:00+00:00,Primeira Liga,Regular Season - 22,Vila Nova de Famalicão,Famalicao,242,Rio Ave,226,1.0,2.0,1.0,3
+2023,2024-02-16T20:15:00+00:00,Primeira Liga,Regular Season - 22,Vila Nova de Famalicão,Rio Ave,226,Famalicao,242,0.0,1.0,2.0,0
+2023,2024-02-18T18:00:00+00:00,Primeira Liga,Regular Season - 22,Estoril,Estoril,230,GIL Vicente,762,0.0,1.0,3.0,0
+2023,2024-02-18T18:00:00+00:00,Primeira Liga,Regular Season - 22,Estoril,GIL Vicente,762,Estoril,230,1.0,3.0,1.0,3
+2023,2024-02-19T20:15:00+00:00,Primeira Liga,Regular Season - 22,Moreira de Cónegos,Moreirense,215,Sporting CP,228,0.0,0.0,2.0,0
+2023,2024-02-19T20:15:00+00:00,Primeira Liga,Regular Season - 22,Moreira de Cónegos,Sporting CP,228,Moreirense,215,1.0,2.0,0.0,3
+2023,2024-02-18T20:30:00+00:00,Primeira Liga,Regular Season - 22,Braga,SC Braga,217,Farense,231,1.0,2.0,1.0,3
+2023,2024-02-18T20:30:00+00:00,Primeira Liga,Regular Season - 22,Braga,Farense,231,SC Braga,217,0.0,1.0,2.0,0
+2023,2024-02-18T18:00:00+00:00,Primeira Liga,Regular Season - 22,Lisboa,Benfica,211,Vizela,810,1.0,6.0,1.0,3
+2023,2024-02-18T18:00:00+00:00,Primeira Liga,Regular Season - 22,Lisboa,Vizela,810,Benfica,211,0.0,1.0,6.0,0
+2023,2024-02-18T15:30:00+00:00,Primeira Liga,Regular Season - 22,Rio Maior,Casa Pia,4716,Arouca,240,1.0,1.0,0.0,3
+2023,2024-02-18T15:30:00+00:00,Primeira Liga,Regular Season - 22,Rio Maior,Arouca,240,Casa Pia,4716,0.0,0.0,1.0,0
+2023,2024-02-17T15:30:00+00:00,Primeira Liga,Regular Season - 22,Chaves,Chaves,223,Boavista,222,1.0,2.0,1.0,3
+2023,2024-02-17T15:30:00+00:00,Primeira Liga,Regular Season - 22,Chaves,Boavista,222,Chaves,223,0.0,1.0,2.0,0
+2023,2024-02-17T18:00:00+00:00,Primeira Liga,Regular Season - 22,Portimão,Portimonense,216,Guimaraes,224,,1.0,1.0,1
+2023,2024-02-17T18:00:00+00:00,Primeira Liga,Regular Season - 22,Portimão,Guimaraes,224,Portimonense,216,,1.0,1.0,1
+2023,2024-02-17T20:30:00+00:00,Primeira Liga,Regular Season - 22,Porto,FC Porto,212,Estrela,15130,1.0,2.0,0.0,3
+2023,2024-02-17T20:30:00+00:00,Primeira Liga,Regular Season - 22,Porto,Estrela,15130,FC Porto,212,0.0,0.0,2.0,0
+2023,2024-02-26T20:15:00+00:00,Primeira Liga,Regular Season - 23,Porto,Boavista,222,SC Braga,217,0.0,0.0,4.0,0
+2023,2024-02-26T20:15:00+00:00,Primeira Liga,Regular Season - 23,Porto,SC Braga,217,Boavista,222,1.0,4.0,0.0,3
+2023,2024-02-25T20:30:00+00:00,Primeira Liga,Regular Season - 23,Vila do Conde,Rio Ave,226,Sporting CP,228,,3.0,3.0,1
+2023,2024-02-25T20:30:00+00:00,Primeira Liga,Regular Season - 23,Vila do Conde,Sporting CP,228,Rio Ave,226,,3.0,3.0,1
+2023,2024-02-25T18:00:00+00:00,Primeira Liga,Regular Season - 23,Barcelos,GIL Vicente,762,FC Porto,212,,1.0,1.0,1
+2023,2024-02-25T18:00:00+00:00,Primeira Liga,Regular Season - 23,Barcelos,FC Porto,212,GIL Vicente,762,,1.0,1.0,1
+2023,2024-02-23T20:15:00+00:00,Primeira Liga,Regular Season - 23,Arouca,Arouca,240,Famalicao,242,1.0,3.0,2.0,3
+2023,2024-02-23T20:15:00+00:00,Primeira Liga,Regular Season - 23,Arouca,Famalicao,242,Arouca,240,0.0,2.0,3.0,0
+2023,2024-02-24T15:30:00+00:00,Primeira Liga,Regular Season - 23,Faro,Farense,231,Moreirense,215,0.0,0.0,1.0,0
+2023,2024-02-24T15:30:00+00:00,Primeira Liga,Regular Season - 23,Faro,Moreirense,215,Farense,231,1.0,1.0,0.0,3
+2023,2024-02-25T18:00:00+00:00,Primeira Liga,Regular Season - 23,Lisboa,Benfica,211,Portimonense,216,1.0,4.0,0.0,3
+2023,2024-02-25T18:00:00+00:00,Primeira Liga,Regular Season - 23,Lisboa,Portimonense,216,Benfica,211,0.0,0.0,4.0,0
+2023,2024-02-24T20:30:00+00:00,Primeira Liga,Regular Season - 23,Guimarães,Guimaraes,224,Casa Pia,4716,0.0,0.0,2.0,0
+2023,2024-02-24T20:30:00+00:00,Primeira Liga,Regular Season - 23,Guimarães,Casa Pia,4716,Guimaraes,224,1.0,2.0,0.0,3
+2023,2024-02-24T18:00:00+00:00,Primeira Liga,Regular Season - 23,Amadora,Estrela,15130,Chaves,223,,1.0,1.0,1
+2023,2024-02-24T18:00:00+00:00,Primeira Liga,Regular Season - 23,Amadora,Chaves,223,Estrela,15130,,1.0,1.0,1
+2023,2024-02-25T15:30:00+00:00,Primeira Liga,Regular Season - 23,Caldas de Vizela,Vizela,810,Estoril,230,,3.0,3.0,1
+2023,2024-02-25T15:30:00+00:00,Primeira Liga,Regular Season - 23,Caldas de Vizela,Estoril,230,Vizela,810,,3.0,3.0,1
+2023,2024-03-03T15:30:00+00:00,Primeira Liga,Regular Season - 24,Rio Maior,Casa Pia,4716,GIL Vicente,762,,0.0,0.0,1
+2023,2024-03-03T15:30:00+00:00,Primeira Liga,Regular Season - 24,Rio Maior,GIL Vicente,762,Casa Pia,4716,,0.0,0.0,1
+2023,2024-03-02T18:00:00+00:00,Primeira Liga,Regular Season - 24,Estoril,Estoril,230,Guimaraes,224,0.0,1.0,3.0,0
+2023,2024-03-02T18:00:00+00:00,Primeira Liga,Regular Season - 24,Estoril,Guimaraes,224,Estoril,230,1.0,3.0,1.0,3
+2023,2024-03-03T15:30:00+00:00,Primeira Liga,Regular Season - 24,Portimão,Portimonense,216,Vizela,810,,0.0,0.0,1
+2023,2024-03-03T15:30:00+00:00,Primeira Liga,Regular Season - 24,Portimão,Vizela,810,Portimonense,216,,0.0,0.0,1
+2023,2024-03-02T20:30:00+00:00,Primeira Liga,Regular Season - 24,Braga,SC Braga,217,Estrela,15130,1.0,3.0,0.0,3
+2023,2024-03-02T20:30:00+00:00,Primeira Liga,Regular Season - 24,Braga,Estrela,15130,SC Braga,217,0.0,0.0,3.0,0
+2023,2024-03-02T15:30:00+00:00,Primeira Liga,Regular Season - 24,Moreira de Cónegos,Moreirense,215,Rio Ave,226,,0.0,0.0,1
+2023,2024-03-02T15:30:00+00:00,Primeira Liga,Regular Season - 24,Moreira de Cónegos,Rio Ave,226,Moreirense,215,,0.0,0.0,1
+2023,2024-03-03T18:00:00+00:00,Primeira Liga,Regular Season - 24,Lisboa,Sporting CP,228,Farense,231,1.0,3.0,2.0,3
+2023,2024-03-03T18:00:00+00:00,Primeira Liga,Regular Season - 24,Lisboa,Farense,231,Sporting CP,228,0.0,2.0,3.0,0
+2023,2024-03-01T20:15:00+00:00,Primeira Liga,Regular Season - 24,Chaves,Chaves,223,Arouca,240,0.0,1.0,5.0,0
+2023,2024-03-01T20:15:00+00:00,Primeira Liga,Regular Season - 24,Chaves,Arouca,240,Chaves,223,1.0,5.0,1.0,3
+2023,2024-03-03T20:30:00+00:00,Primeira Liga,Regular Season - 24,Porto,FC Porto,212,Benfica,211,1.0,5.0,0.0,3
+2023,2024-03-03T20:30:00+00:00,Primeira Liga,Regular Season - 24,Porto,Benfica,211,FC Porto,212,0.0,0.0,5.0,0
+2023,2024-03-04T20:15:00+00:00,Primeira Liga,Regular Season - 24,Vila Nova de Famalicão,Famalicao,242,Boavista,222,,1.0,1.0,1
+2023,2024-03-04T20:15:00+00:00,Primeira Liga,Regular Season - 24,Vila Nova de Famalicão,Boavista,222,Famalicao,242,,1.0,1.0,1
+2023,2024-03-09T15:30:00+00:00,Primeira Liga,Regular Season - 25,Caldas de Vizela,Vizela,810,Farense,231,1.0,2.0,1.0,3
+2023,2024-03-09T15:30:00+00:00,Primeira Liga,Regular Season - 25,Caldas de Vizela,Farense,231,Vizela,810,0.0,1.0,2.0,0
+2023,2024-03-10T20:30:00+00:00,Primeira Liga,Regular Season - 25,Lisboa,Benfica,211,Estoril,230,1.0,3.0,1.0,3
+2023,2024-03-10T20:30:00+00:00,Primeira Liga,Regular Season - 25,Lisboa,Estoril,230,Benfica,211,0.0,1.0,3.0,0
+2023,2024-03-10T18:00:00+00:00,Primeira Liga,Regular Season - 25,Arouca,Arouca,240,Sporting CP,228,0.0,0.0,3.0,0
+2023,2024-03-10T18:00:00+00:00,Primeira Liga,Regular Season - 25,Arouca,Sporting CP,228,Arouca,240,1.0,3.0,0.0,3
+2023,2024-03-09T18:00:00+00:00,Primeira Liga,Regular Season - 25,Porto,Boavista,222,Moreirense,215,1.0,1.0,0.0,3
+2023,2024-03-09T18:00:00+00:00,Primeira Liga,Regular Season - 25,Porto,Moreirense,215,Boavista,222,0.0,0.0,1.0,0
+2023,2024-03-08T20:45:00+00:00,Primeira Liga,Regular Season - 25,Amadora,Estrela,15130,Casa Pia,4716,1.0,3.0,1.0,3
+2023,2024-03-08T20:45:00+00:00,Primeira Liga,Regular Season - 25,Amadora,Casa Pia,4716,Estrela,15130,0.0,1.0,3.0,0
+2023,2024-03-09T20:30:00+00:00,Primeira Liga,Regular Season - 25,Guimarães,Guimaraes,224,Famalicao,242,1.0,1.0,0.0,3
+2023,2024-03-09T20:30:00+00:00,Primeira Liga,Regular Season - 25,Guimarães,Famalicao,242,Guimaraes,224,0.0,0.0,1.0,0
+2023,2024-03-09T18:00:00+00:00,Primeira Liga,Regular Season - 25,Vila do Conde,Rio Ave,226,SC Braga,217,,0.0,0.0,1
+2023,2024-03-09T18:00:00+00:00,Primeira Liga,Regular Season - 25,Vila do Conde,SC Braga,217,Rio Ave,226,,0.0,0.0,1
+2023,2024-03-08T18:45:00+00:00,Primeira Liga,Regular Season - 25,Portimão,Portimonense,216,FC Porto,212,0.0,0.0,3.0,0
+2023,2024-03-08T18:45:00+00:00,Primeira Liga,Regular Season - 25,Portimão,FC Porto,212,Portimonense,216,1.0,3.0,0.0,3
+2023,2024-03-11T20:15:00+00:00,Primeira Liga,Regular Season - 25,Barcelos,GIL Vicente,762,Chaves,223,,0.0,0.0,1
+2023,2024-03-11T20:15:00+00:00,Primeira Liga,Regular Season - 25,Barcelos,Chaves,223,GIL Vicente,762,,0.0,0.0,1
+2023,2024-03-17T15:30:00+00:00,Primeira Liga,Regular Season - 26,Chaves,Chaves,223,Guimaraes,224,0.0,1.0,2.0,0
+2023,2024-03-17T15:30:00+00:00,Primeira Liga,Regular Season - 26,Chaves,Guimaraes,224,Chaves,223,1.0,2.0,1.0,3
+2023,2024-03-16T18:00:00+00:00,Primeira Liga,Regular Season - 26,Braga,SC Braga,217,GIL Vicente,762,1.0,2.0,1.0,3
+2023,2024-03-16T18:00:00+00:00,Primeira Liga,Regular Season - 26,Braga,GIL Vicente,762,SC Braga,217,0.0,1.0,2.0,0
+2023,2024-03-15T20:15:00+00:00,Primeira Liga,Regular Season - 26,Estoril,Estoril,230,Portimonense,216,1.0,1.0,0.0,3
+2023,2024-03-15T20:15:00+00:00,Primeira Liga,Regular Season - 26,Estoril,Portimonense,216,Estoril,230,0.0,0.0,1.0,0
+2023,2024-03-16T18:00:00+00:00,Primeira Liga,Regular Season - 26,Faro,Farense,231,Rio Ave,226,,1.0,1.0,1
+2023,2024-03-16T18:00:00+00:00,Primeira Liga,Regular Season - 26,Faro,Rio Ave,226,Farense,231,,1.0,1.0,1
+2023,2024-03-17T20:30:00+00:00,Primeira Liga,Regular Season - 26,Lisboa,Sporting CP,228,Boavista,222,1.0,6.0,1.0,3
+2023,2024-03-17T20:30:00+00:00,Primeira Liga,Regular Season - 26,Lisboa,Boavista,222,Sporting CP,228,0.0,1.0,6.0,0
+2023,2024-03-16T20:30:00+00:00,Primeira Liga,Regular Season - 26,Porto,FC Porto,212,Vizela,810,1.0,4.0,1.0,3
+2023,2024-03-16T20:30:00+00:00,Primeira Liga,Regular Season - 26,Porto,Vizela,810,FC Porto,212,0.0,1.0,4.0,0
+2023,2024-03-17T15:30:00+00:00,Primeira Liga,Regular Season - 26,Moreira de Cónegos,Moreirense,215,Arouca,240,1.0,1.0,0.0,3
+2023,2024-03-17T15:30:00+00:00,Primeira Liga,Regular Season - 26,Moreira de Cónegos,Arouca,240,Moreirense,215,0.0,0.0,1.0,0
+2023,2024-03-17T18:00:00+00:00,Primeira Liga,Regular Season - 26,Rio Maior,Casa Pia,4716,Benfica,211,0.0,0.0,1.0,0
+2023,2024-03-17T18:00:00+00:00,Primeira Liga,Regular Season - 26,Rio Maior,Benfica,211,Casa Pia,4716,1.0,1.0,0.0,3
+2023,2024-03-16T15:30:00+00:00,Primeira Liga,Regular Season - 26,Vila Nova de Famalicão,Famalicao,242,Estrela,15130,,0.0,0.0,1
+2023,2024-03-16T15:30:00+00:00,Primeira Liga,Regular Season - 26,Vila Nova de Famalicão,Estrela,15130,Famalicao,242,,0.0,0.0,1
+2023,2024-03-30T18:00:00+00:00,Primeira Liga,Regular Season - 27,Porto,Boavista,222,Rio Ave,226,,0.0,0.0,1
+2023,2024-03-30T18:00:00+00:00,Primeira Liga,Regular Season - 27,Porto,Rio Ave,226,Boavista,222,,0.0,0.0,1
+2023,2024-03-30T20:30:00+00:00,Primeira Liga,Regular Season - 27,Estoril,Estoril,230,FC Porto,212,1.0,1.0,0.0,3
+2023,2024-03-30T20:30:00+00:00,Primeira Liga,Regular Season - 27,Estoril,FC Porto,212,Estoril,230,0.0,0.0,1.0,0
+2023,2024-03-29T20:30:00+00:00,Primeira Liga,Regular Season - 27,Amadora,Estrela,15130,Sporting CP,228,0.0,1.0,2.0,0
+2023,2024-03-29T20:30:00+00:00,Primeira Liga,Regular Season - 27,Amadora,Sporting CP,228,Estrela,15130,1.0,2.0,1.0,3
+2023,2024-03-30T15:30:00+00:00,Primeira Liga,Regular Season - 27,Guimarães,Guimaraes,224,Moreirense,215,1.0,1.0,0.0,3
+2023,2024-03-30T15:30:00+00:00,Primeira Liga,Regular Season - 27,Guimarães,Moreirense,215,Guimaraes,224,0.0,0.0,1.0,0
+2023,2024-03-30T15:30:00+00:00,Primeira Liga,Regular Season - 27,Arouca,Arouca,240,Farense,231,1.0,2.0,1.0,3
+2023,2024-03-30T15:30:00+00:00,Primeira Liga,Regular Season - 27,Arouca,Farense,231,Arouca,240,0.0,1.0,2.0,0
+2023,2024-04-01T19:15:00+00:00,Primeira Liga,Regular Season - 27,Portimão,Portimonense,216,SC Braga,217,0.0,3.0,5.0,0
+2023,2024-04-01T19:15:00+00:00,Primeira Liga,Regular Season - 27,Portimão,SC Braga,217,Portimonense,216,1.0,5.0,3.0,3
+2023,2024-03-31T17:00:00+00:00,Primeira Liga,Regular Season - 27,Caldas de Vizela,Vizela,810,Casa Pia,4716,0.0,0.0,4.0,0
+2023,2024-03-31T17:00:00+00:00,Primeira Liga,Regular Season - 27,Caldas de Vizela,Casa Pia,4716,Vizela,810,1.0,4.0,0.0,3
+2023,2024-03-29T15:30:00+00:00,Primeira Liga,Regular Season - 27,Barcelos,GIL Vicente,762,Famalicao,242,0.0,1.0,2.0,0
+2023,2024-03-29T15:30:00+00:00,Primeira Liga,Regular Season - 27,Barcelos,Famalicao,242,GIL Vicente,762,1.0,2.0,1.0,3
+2023,2024-03-29T18:00:00+00:00,Primeira Liga,Regular Season - 27,Lisboa,Benfica,211,Chaves,223,1.0,1.0,0.0,3
+2023,2024-03-29T18:00:00+00:00,Primeira Liga,Regular Season - 27,Lisboa,Chaves,223,Benfica,211,0.0,0.0,1.0,0
+2023,2024-04-07T14:30:00+00:00,Primeira Liga,Regular Season - 28,Chaves,Chaves,223,Portimonense,216,0.0,2.0,3.0,0
+2023,2024-04-07T14:30:00+00:00,Primeira Liga,Regular Season - 28,Chaves,Portimonense,216,Chaves,223,1.0,3.0,2.0,3
+2023,2024-04-06T14:30:00+00:00,Primeira Liga,Regular Season - 28,Vila Nova de Famalicão,Famalicao,242,Vizela,810,1.0,3.0,2.0,3
+2023,2024-04-06T14:30:00+00:00,Primeira Liga,Regular Season - 28,Vila Nova de Famalicão,Vizela,810,Famalicao,242,0.0,2.0,3.0,0
+2023,2024-04-08T19:15:00+00:00,Primeira Liga,Regular Season - 28,Rio Maior,Casa Pia,4716,Estoril,230,,0.0,0.0,1
+2023,2024-04-08T19:15:00+00:00,Primeira Liga,Regular Season - 28,Rio Maior,Estoril,230,Casa Pia,4716,,0.0,0.0,1
+2023,2024-04-07T17:00:00+00:00,Primeira Liga,Regular Season - 28,Moreira de Cónegos,Moreirense,215,Estrela,15130,,2.0,2.0,1
+2023,2024-04-07T17:00:00+00:00,Primeira Liga,Regular Season - 28,Moreira de Cónegos,Estrela,15130,Moreirense,215,,2.0,2.0,1
+2023,2024-04-06T14:30:00+00:00,Primeira Liga,Regular Season - 28,Vila do Conde,Rio Ave,226,GIL Vicente,762,1.0,3.0,0.0,3
+2023,2024-04-06T14:30:00+00:00,Primeira Liga,Regular Season - 28,Vila do Conde,GIL Vicente,762,Rio Ave,226,0.0,0.0,3.0,0
+2023,2024-04-06T19:30:00+00:00,Primeira Liga,Regular Season - 28,Lisboa,Sporting CP,228,Benfica,211,1.0,2.0,1.0,3
+2023,2024-04-06T19:30:00+00:00,Primeira Liga,Regular Season - 28,Lisboa,Benfica,211,Sporting CP,228,0.0,1.0,2.0,0
+2023,2024-04-07T19:30:00+00:00,Primeira Liga,Regular Season - 28,Porto,FC Porto,212,Guimaraes,224,0.0,1.0,2.0,0
+2023,2024-04-07T19:30:00+00:00,Primeira Liga,Regular Season - 28,Porto,Guimaraes,224,FC Porto,212,1.0,2.0,1.0,3
+2023,2024-04-06T17:00:00+00:00,Primeira Liga,Regular Season - 28,Braga,SC Braga,217,Arouca,240,0.0,0.0,3.0,0
+2023,2024-04-06T17:00:00+00:00,Primeira Liga,Regular Season - 28,Braga,Arouca,240,SC Braga,217,1.0,3.0,0.0,3
+2023,2024-04-05T19:15:00+00:00,Primeira Liga,Regular Season - 28,Faro,Farense,231,Boavista,222,1.0,2.0,0.0,3
+2023,2024-04-05T19:15:00+00:00,Primeira Liga,Regular Season - 28,Faro,Boavista,222,Farense,231,0.0,0.0,2.0,0
+2023,2024-04-14T17:00:00+00:00,Primeira Liga,Regular Season - 29,Arouca,Arouca,240,Boavista,222,1.0,2.0,1.0,3
+2023,2024-04-14T17:00:00+00:00,Primeira Liga,Regular Season - 29,Arouca,Boavista,222,Arouca,240,0.0,1.0,2.0,0
+2023,2024-04-12T19:15:00+00:00,Primeira Liga,Regular Season - 29,Barcelos,GIL Vicente,762,Sporting CP,228,0.0,0.0,4.0,0
+2023,2024-04-12T19:15:00+00:00,Primeira Liga,Regular Season - 29,Barcelos,Sporting CP,228,GIL Vicente,762,1.0,4.0,0.0,3
+2023,2024-04-14T14:30:00+00:00,Primeira Liga,Regular Season - 29,Amadora,Estrela,15130,Rio Ave,226,,2.0,2.0,1
+2023,2024-04-14T14:30:00+00:00,Primeira Liga,Regular Season - 29,Amadora,Rio Ave,226,Estrela,15130,,2.0,2.0,1
+2023,2024-04-14T19:30:00+00:00,Primeira Liga,Regular Season - 29,Lisboa,Benfica,211,Moreirense,215,1.0,3.0,0.0,3
+2023,2024-04-14T19:30:00+00:00,Primeira Liga,Regular Season - 29,Lisboa,Moreirense,215,Benfica,211,0.0,0.0,3.0,0
+2023,2024-04-13T14:30:00+00:00,Primeira Liga,Regular Season - 29,Guimarães,Guimaraes,224,Farense,231,,1.0,1.0,1
+2023,2024-04-13T14:30:00+00:00,Primeira Liga,Regular Season - 29,Guimarães,Farense,231,Guimaraes,224,,1.0,1.0,1
+2023,2024-04-13T19:30:00+00:00,Primeira Liga,Regular Season - 29,Estoril,Estoril,230,SC Braga,217,0.0,0.0,1.0,0
+2023,2024-04-13T19:30:00+00:00,Primeira Liga,Regular Season - 29,Estoril,SC Braga,217,Estoril,230,1.0,1.0,0.0,3
+2023,2024-04-13T17:00:00+00:00,Primeira Liga,Regular Season - 29,Porto,FC Porto,212,Famalicao,242,,2.0,2.0,1
+2023,2024-04-13T17:00:00+00:00,Primeira Liga,Regular Season - 29,Porto,Famalicao,242,FC Porto,212,,2.0,2.0,1
+2023,2024-04-15T19:15:00+00:00,Primeira Liga,Regular Season - 29,Caldas de Vizela,Vizela,810,Chaves,223,0.0,0.0,1.0,0
+2023,2024-04-15T19:15:00+00:00,Primeira Liga,Regular Season - 29,Caldas de Vizela,Chaves,223,Vizela,810,1.0,1.0,0.0,3
+2023,2024-04-14T17:00:00+00:00,Primeira Liga,Regular Season - 29,Portimão,Portimonense,216,Casa Pia,4716,,2.0,2.0,1
+2023,2024-04-14T17:00:00+00:00,Primeira Liga,Regular Season - 29,Portimão,Casa Pia,4716,Portimonense,216,,2.0,2.0,1
+2023,2024-04-21T14:30:00+00:00,Primeira Liga,Regular Season - 30,Chaves,Chaves,223,Estoril,230,,2.0,2.0,1
+2023,2024-04-21T14:30:00+00:00,Primeira Liga,Regular Season - 30,Chaves,Estoril,230,Chaves,223,,2.0,2.0,1
+2023,2024-04-20T17:00:00+00:00,Primeira Liga,Regular Season - 30,Porto,Boavista,222,Estrela,15130,,1.0,1.0,1
+2023,2024-04-20T17:00:00+00:00,Primeira Liga,Regular Season - 30,Porto,Estrela,15130,Boavista,222,,1.0,1.0,1
+2023,2024-04-21T17:00:00+00:00,Primeira Liga,Regular Season - 30,Rio Maior,Casa Pia,4716,FC Porto,212,0.0,1.0,2.0,0
+2023,2024-04-21T17:00:00+00:00,Primeira Liga,Regular Season - 30,Rio Maior,FC Porto,212,Casa Pia,4716,1.0,2.0,1.0,3
+2023,2024-04-20T19:30:00+00:00,Primeira Liga,Regular Season - 30,Braga,SC Braga,217,Vizela,810,1.0,2.0,1.0,3
+2023,2024-04-20T19:30:00+00:00,Primeira Liga,Regular Season - 30,Braga,Vizela,810,SC Braga,217,0.0,1.0,2.0,0
+2023,2024-04-21T14:30:00+00:00,Primeira Liga,Regular Season - 30,Vila Nova de Famalicão,Famalicao,242,Portimonense,216,,2.0,2.0,1
+2023,2024-04-21T14:30:00+00:00,Primeira Liga,Regular Season - 30,Vila Nova de Famalicão,Portimonense,216,Famalicao,242,,2.0,2.0,1
+2023,2024-04-20T14:30:00+00:00,Primeira Liga,Regular Season - 30,Moreira de Cónegos,Moreirense,215,GIL Vicente,762,0.0,0.0,1.0,0
+2023,2024-04-20T14:30:00+00:00,Primeira Liga,Regular Season - 30,Moreira de Cónegos,GIL Vicente,762,Moreirense,215,1.0,1.0,0.0,3
+2023,2024-04-19T19:15:00+00:00,Primeira Liga,Regular Season - 30,Vila do Conde,Rio Ave,226,Arouca,240,,1.0,1.0,1
+2023,2024-04-19T19:15:00+00:00,Primeira Liga,Regular Season - 30,Vila do Conde,Arouca,240,Rio Ave,226,,1.0,1.0,1
+2023,2024-04-22T19:15:00+00:00,Primeira Liga,Regular Season - 30,Faro,Farense,231,Benfica,211,0.0,1.0,3.0,0
+2023,2024-04-22T19:15:00+00:00,Primeira Liga,Regular Season - 30,Faro,Benfica,211,Farense,231,1.0,3.0,1.0,3
+2023,2024-04-21T19:30:00+00:00,Primeira Liga,Regular Season - 30,Lisboa,Sporting CP,228,Guimaraes,224,1.0,3.0,0.0,3
+2023,2024-04-21T19:30:00+00:00,Primeira Liga,Regular Season - 30,Lisboa,Guimaraes,224,Sporting CP,228,0.0,0.0,3.0,0
+2023,2024-04-28T19:30:00+00:00,Primeira Liga,Regular Season - 31,Porto,FC Porto,212,Sporting CP,228,,2.0,2.0,1
+2023,2024-04-28T19:30:00+00:00,Primeira Liga,Regular Season - 31,Porto,Sporting CP,228,FC Porto,212,,2.0,2.0,1
+2023,2024-04-28T17:00:00+00:00,Primeira Liga,Regular Season - 31,Estoril,Estoril,230,Famalicao,242,1.0,1.0,0.0,3
+2023,2024-04-28T17:00:00+00:00,Primeira Liga,Regular Season - 31,Estoril,Famalicao,242,Estoril,230,0.0,0.0,1.0,0
+2023,2024-04-29T19:15:00+00:00,Primeira Liga,Regular Season - 31,Amadora,Estrela,15130,Farense,231,0.0,0.0,3.0,0
+2023,2024-04-29T19:15:00+00:00,Primeira Liga,Regular Season - 31,Amadora,Farense,231,Estrela,15130,1.0,3.0,0.0,3
+2023,2024-04-27T17:00:00+00:00,Primeira Liga,Regular Season - 31,Lisboa,Benfica,211,SC Braga,217,1.0,3.0,1.0,3
+2023,2024-04-27T17:00:00+00:00,Primeira Liga,Regular Season - 31,Lisboa,SC Braga,217,Benfica,211,0.0,1.0,3.0,0
+2023,2024-04-28T14:30:00+00:00,Primeira Liga,Regular Season - 31,Portimão,Portimonense,216,Moreirense,215,0.0,0.0,2.0,0
+2023,2024-04-28T14:30:00+00:00,Primeira Liga,Regular Season - 31,Portimão,Moreirense,215,Portimonense,216,1.0,2.0,0.0,3
+2023,2024-04-26T19:15:00+00:00,Primeira Liga,Regular Season - 31,Barcelos,GIL Vicente,762,Arouca,240,,2.0,2.0,1
+2023,2024-04-26T19:15:00+00:00,Primeira Liga,Regular Season - 31,Barcelos,Arouca,240,GIL Vicente,762,,2.0,2.0,1
+2023,2024-04-27T19:30:00+00:00,Primeira Liga,Regular Season - 31,Guimarães,Guimaraes,224,Boavista,222,1.0,1.0,0.0,3
+2023,2024-04-27T19:30:00+00:00,Primeira Liga,Regular Season - 31,Guimarães,Boavista,222,Guimaraes,224,0.0,0.0,1.0,0
+2023,2024-04-27T14:30:00+00:00,Primeira Liga,Regular Season - 31,Rio Maior,Casa Pia,4716,Chaves,223,1.0,3.0,1.0,3
+2023,2024-04-27T14:30:00+00:00,Primeira Liga,Regular Season - 31,Rio Maior,Chaves,223,Casa Pia,4716,0.0,1.0,3.0,0
+2023,2024-04-27T14:30:00+00:00,Primeira Liga,Regular Season - 31,Caldas de Vizela,Vizela,810,Rio Ave,226,,1.0,1.0,1
+2023,2024-04-27T14:30:00+00:00,Primeira Liga,Regular Season - 31,Caldas de Vizela,Rio Ave,226,Vizela,810,,1.0,1.0,1
+2023,2024-05-05T17:00:00+00:00,Primeira Liga,Regular Season - 32,Arouca,Arouca,240,Estrela,15130,,0.0,0.0,1
+2023,2024-05-05T17:00:00+00:00,Primeira Liga,Regular Season - 32,Arouca,Estrela,15130,Arouca,240,,0.0,0.0,1
+2023,2024-05-04T14:30:00+00:00,Primeira Liga,Regular Season - 32,Porto,Boavista,222,GIL Vicente,762,,1.0,1.0,1
+2023,2024-05-04T14:30:00+00:00,Primeira Liga,Regular Season - 32,Porto,GIL Vicente,762,Boavista,222,,1.0,1.0,1
+2023,2024-05-03T19:15:00+00:00,Primeira Liga,Regular Season - 32,Moreira de Cónegos,Moreirense,215,Vizela,810,1.0,1.0,0.0,3
+2023,2024-05-03T19:15:00+00:00,Primeira Liga,Regular Season - 32,Moreira de Cónegos,Vizela,810,Moreirense,215,0.0,0.0,1.0,0
+2023,2024-05-05T17:00:00+00:00,Primeira Liga,Regular Season - 32,Braga,SC Braga,217,Casa Pia,4716,1.0,4.0,3.0,3
+2023,2024-05-05T17:00:00+00:00,Primeira Liga,Regular Season - 32,Braga,Casa Pia,4716,SC Braga,217,0.0,3.0,4.0,0
+2023,2024-05-04T19:30:00+00:00,Primeira Liga,Regular Season - 32,Chaves,Chaves,223,FC Porto,212,0.0,0.0,3.0,0
+2023,2024-05-04T19:30:00+00:00,Primeira Liga,Regular Season - 32,Chaves,FC Porto,212,Chaves,223,1.0,3.0,0.0,3
+2023,2024-05-04T17:00:00+00:00,Primeira Liga,Regular Season - 32,Lisboa,Sporting CP,228,Portimonense,216,1.0,3.0,0.0,3
+2023,2024-05-04T17:00:00+00:00,Primeira Liga,Regular Season - 32,Lisboa,Portimonense,216,Sporting CP,228,0.0,0.0,3.0,0
+2023,2024-05-04T14:30:00+00:00,Primeira Liga,Regular Season - 32,Vila do Conde,Rio Ave,226,Guimaraes,224,1.0,2.0,1.0,3
+2023,2024-05-04T14:30:00+00:00,Primeira Liga,Regular Season - 32,Vila do Conde,Guimaraes,224,Rio Ave,226,0.0,1.0,2.0,0
+2023,2024-05-05T19:30:00+00:00,Primeira Liga,Regular Season - 32,Vila Nova de Famalicão,Famalicao,242,Benfica,211,1.0,2.0,0.0,3
+2023,2024-05-05T19:30:00+00:00,Primeira Liga,Regular Season - 32,Vila Nova de Famalicão,Benfica,211,Famalicao,242,0.0,0.0,2.0,0
+2023,2024-05-05T14:30:00+00:00,Primeira Liga,Regular Season - 32,Faro,Farense,231,Estoril,230,1.0,3.0,2.0,3
+2023,2024-05-05T14:30:00+00:00,Primeira Liga,Regular Season - 32,Faro,Estoril,230,Farense,231,0.0,2.0,3.0,0
+2023,2024-05-10T19:15:00+00:00,Primeira Liga,Regular Season - 33,Chaves,Chaves,223,Famalicao,242,0.0,0.0,1.0,0
+2023,2024-05-10T19:15:00+00:00,Primeira Liga,Regular Season - 33,Chaves,Famalicao,242,Chaves,223,1.0,1.0,0.0,3
+2023,2024-05-11T17:00:00+00:00,Primeira Liga,Regular Season - 33,Estoril,Estoril,230,Sporting CP,228,0.0,0.0,1.0,0
+2023,2024-05-11T17:00:00+00:00,Primeira Liga,Regular Season - 33,Estoril,Sporting CP,228,Estoril,230,1.0,1.0,0.0,3
+2023,2024-05-11T14:30:00+00:00,Primeira Liga,Regular Season - 33,Portimão,Portimonense,216,Rio Ave,226,,2.0,2.0,1
+2023,2024-05-11T14:30:00+00:00,Primeira Liga,Regular Season - 33,Portimão,Rio Ave,226,Portimonense,216,,2.0,2.0,1
+2023,2024-05-12T14:30:00+00:00,Primeira Liga,Regular Season - 33,Barcelos,GIL Vicente,762,Farense,231,1.0,2.0,0.0,3
+2023,2024-05-12T14:30:00+00:00,Primeira Liga,Regular Season - 33,Barcelos,Farense,231,GIL Vicente,762,0.0,0.0,2.0,0
+2023,2024-05-12T17:00:00+00:00,Primeira Liga,Regular Season - 33,Rio Maior,Casa Pia,4716,Moreirense,215,0.0,0.0,1.0,0
+2023,2024-05-12T17:00:00+00:00,Primeira Liga,Regular Season - 33,Rio Maior,Moreirense,215,Casa Pia,4716,1.0,1.0,0.0,3
+2023,2024-05-11T14:30:00+00:00,Primeira Liga,Regular Season - 33,Caldas de Vizela,Vizela,810,Estrela,15130,1.0,4.0,0.0,3
+2023,2024-05-11T14:30:00+00:00,Primeira Liga,Regular Season - 33,Caldas de Vizela,Estrela,15130,Vizela,810,0.0,0.0,4.0,0
+2023,2024-05-12T17:00:00+00:00,Primeira Liga,Regular Season - 33,Lisboa,Benfica,211,Arouca,240,1.0,5.0,0.0,3
+2023,2024-05-12T17:00:00+00:00,Primeira Liga,Regular Season - 33,Lisboa,Arouca,240,Benfica,211,0.0,0.0,5.0,0
+2023,2024-05-11T19:30:00+00:00,Primeira Liga,Regular Season - 33,Guimarães,Guimaraes,224,SC Braga,217,0.0,2.0,3.0,0
+2023,2024-05-11T19:30:00+00:00,Primeira Liga,Regular Season - 33,Guimarães,SC Braga,217,Guimaraes,224,1.0,3.0,2.0,3
+2023,2024-05-12T19:30:00+00:00,Primeira Liga,Regular Season - 33,Porto,FC Porto,212,Boavista,222,1.0,2.0,1.0,3
+2023,2024-05-12T19:30:00+00:00,Primeira Liga,Regular Season - 33,Porto,Boavista,222,FC Porto,212,0.0,1.0,2.0,0
+2023,2024-05-18T14:30:00+00:00,Primeira Liga,Regular Season - 34,Porto,Boavista,222,Vizela,810,,2.0,2.0,1
+2023,2024-05-18T14:30:00+00:00,Primeira Liga,Regular Season - 34,Porto,Vizela,810,Boavista,222,,2.0,2.0,1
+2023,2024-05-18T14:30:00+00:00,Primeira Liga,Regular Season - 34,Amadora,Estrela,15130,GIL Vicente,762,1.0,1.0,0.0,3
+2023,2024-05-18T14:30:00+00:00,Primeira Liga,Regular Season - 34,Amadora,GIL Vicente,762,Estrela,15130,0.0,0.0,1.0,0
+2023,2024-05-18T14:30:00+00:00,Primeira Liga,Regular Season - 34,Faro,Farense,231,Portimonense,216,0.0,1.0,3.0,0
+2023,2024-05-18T14:30:00+00:00,Primeira Liga,Regular Season - 34,Faro,Portimonense,216,Farense,231,1.0,3.0,1.0,3
+2023,2024-05-18T14:30:00+00:00,Primeira Liga,Regular Season - 34,Arouca,Arouca,240,Guimaraes,224,0.0,1.0,3.0,0
+2023,2024-05-18T14:30:00+00:00,Primeira Liga,Regular Season - 34,Arouca,Guimaraes,224,Arouca,240,1.0,3.0,1.0,3
+2023,2024-05-17T17:45:00+00:00,Primeira Liga,Regular Season - 34,Vila Nova de Famalicão,Famalicao,242,Casa Pia,4716,0.0,1.0,2.0,0
+2023,2024-05-17T17:45:00+00:00,Primeira Liga,Regular Season - 34,Vila Nova de Famalicão,Casa Pia,4716,Famalicao,242,1.0,2.0,1.0,3
+2023,2024-05-17T19:45:00+00:00,Primeira Liga,Regular Season - 34,Vila do Conde,Rio Ave,226,Benfica,211,,1.0,1.0,1
+2023,2024-05-17T19:45:00+00:00,Primeira Liga,Regular Season - 34,Vila do Conde,Benfica,211,Rio Ave,226,,1.0,1.0,1
+2023,2024-05-18T17:00:00+00:00,Primeira Liga,Regular Season - 34,Lisboa,Sporting CP,228,Chaves,223,1.0,3.0,0.0,3
+2023,2024-05-18T17:00:00+00:00,Primeira Liga,Regular Season - 34,Lisboa,Chaves,223,Sporting CP,228,0.0,0.0,3.0,0
+2023,2024-05-18T17:00:00+00:00,Primeira Liga,Regular Season - 34,Moreira de Cónegos,Moreirense,215,Estoril,230,1.0,2.0,1.0,3
+2023,2024-05-18T17:00:00+00:00,Primeira Liga,Regular Season - 34,Moreira de Cónegos,Estoril,230,Moreirense,215,0.0,1.0,2.0,0
+2023,2024-05-18T19:30:00+00:00,Primeira Liga,Regular Season - 34,Braga,SC Braga,217,FC Porto,212,0.0,0.0,1.0,0
+2023,2024-05-18T19:30:00+00:00,Primeira Liga,Regular Season - 34,Braga,FC Porto,212,SC Braga,217,1.0,1.0,0.0,3
+2023,2024-05-25T18:45:00+00:00,Primeira Liga,Relegation Round,Portimão,Portimonense,216,AVS,21595,0.0,1.0,2.0,0
+2023,2024-05-25T18:45:00+00:00,Primeira Liga,Relegation Round,Portimão,AVS,21595,Portimonense,216,1.0,2.0,1.0,3
+2023,2024-06-02T18:45:00+00:00,Primeira Liga,Relegation Round,Vila das Aves,AVS,21595,Portimonense,216,1.0,2.0,1.0,3
+2023,2024-06-02T18:45:00+00:00,Primeira Liga,Relegation Round,Vila das Aves,Portimonense,216,AVS,21595,0.0,1.0,2.0,0
 2016,2017-05-21T15:00:00+00:00,Segunda Liga,Regular Season - 42,,Academico Viseu,238,Cova De Piedade,241,,2.0,2.0,1
 2016,2017-05-21T15:00:00+00:00,Segunda Liga,Regular Season - 42,,Cova De Piedade,241,Academico Viseu,238,,2.0,2.0,1
 2016,2017-05-21T15:00:00+00:00,Segunda Liga,Regular Season - 42,,Academica,239,FC Porto B,243,1.0,2.0,1.0,3
@@ -11711,3 +12327,619 @@ year,fixture_date,league,round,fixture_location,team_name,team_id,opponent_name,
 2022,2023-06-03T17:00:00+00:00,Segunda Liga,Relegation Round,Vila Verde,Belenenses,221,Vilaverdense,4814,,1.0,1.0,1
 2022,2023-06-11T16:00:00+00:00,Segunda Liga,Relegation Round,Rio Maior,Belenenses,221,Vilaverdense,4814,0.0,0.0,1.0,0
 2022,2023-06-11T16:00:00+00:00,Segunda Liga,Relegation Round,Rio Maior,Vilaverdense,4814,Belenenses,221,1.0,1.0,0.0,3
+2023,2023-08-13T13:00:00+00:00,Segunda Liga,Regular Season - 1,Penafiel,Penafiel,235,Leixoes,244,1.0,3.0,0.0,3
+2023,2023-08-13T13:00:00+00:00,Segunda Liga,Regular Season - 1,Penafiel,Leixoes,244,Penafiel,235,0.0,0.0,3.0,0
+2023,2023-08-13T10:00:00+00:00,Segunda Liga,Regular Season - 1,Viseu,Academico Viseu,238,Vilaverdense,4814,,1.0,1.0,1
+2023,2023-08-13T10:00:00+00:00,Segunda Liga,Regular Season - 1,Viseu,Vilaverdense,4814,Academico Viseu,238,,1.0,1.0,1
+2023,2023-08-12T10:00:00+00:00,Segunda Liga,Regular Season - 1,Paços de Ferreira,Pacos Ferreira,234,União de Leiria,4662,,0.0,0.0,1
+2023,2023-08-12T10:00:00+00:00,Segunda Liga,Regular Season - 1,Paços de Ferreira,União de Leiria,4662,Pacos Ferreira,234,,0.0,0.0,1
+2023,2023-08-12T13:00:00+00:00,Segunda Liga,Regular Season - 1,Ilha da Madeira,Nacional,225,Maritimo,214,0.0,1.0,2.0,0
+2023,2023-08-12T13:00:00+00:00,Segunda Liga,Regular Season - 1,Ilha da Madeira,Maritimo,214,Nacional,225,1.0,2.0,1.0,3
+2023,2023-08-15T10:00:00+00:00,Segunda Liga,Regular Season - 1,Oliveira de Azeméis,Oliveirense,233,Feirense,213,1.0,3.0,1.0,3
+2023,2023-08-15T10:00:00+00:00,Segunda Liga,Regular Season - 1,Oliveira de Azeméis,Feirense,213,Oliveirense,233,0.0,1.0,3.0,0
+2023,2023-08-16T17:00:00+00:00,Segunda Liga,Regular Season - 1,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Torreense,4799,1.0,2.0,0.0,3
+2023,2023-08-16T17:00:00+00:00,Segunda Liga,Regular Season - 1,"Ponta Delgada, Ilha de São Miguel, Açores",Torreense,4799,Santa Clara,227,0.0,0.0,2.0,0
+2023,2023-08-13T17:00:00+00:00,Segunda Liga,Regular Season - 1,Seixal,Benfica B,229,Mafra,245,1.0,3.0,2.0,3
+2023,2023-08-13T17:00:00+00:00,Segunda Liga,Regular Season - 1,Seixal,Mafra,245,Benfica B,229,0.0,2.0,3.0,0
+2023,2023-08-13T10:00:00+00:00,Segunda Liga,Regular Season - 1,Vila Nova de Gaia,FC Porto B,243,Tondela,218,,1.0,1.0,1
+2023,2023-08-13T10:00:00+00:00,Segunda Liga,Regular Season - 1,Vila Nova de Gaia,Tondela,218,FC Porto B,243,,1.0,1.0,1
+2023,2023-08-12T17:00:00+00:00,Segunda Liga,Regular Season - 1,Vila das Aves,AVS,21595,CF Os Belenenses,17692,1.0,1.0,0.0,3
+2023,2023-08-12T17:00:00+00:00,Segunda Liga,Regular Season - 1,Vila das Aves,CF Os Belenenses,17692,AVS,21595,0.0,0.0,1.0,0
+2023,2023-08-20T10:00:00+00:00,Segunda Liga,Regular Season - 2,Vila Verde,Vilaverdense,4814,Oliveirense,233,0.0,1.0,2.0,0
+2023,2023-08-20T10:00:00+00:00,Segunda Liga,Regular Season - 2,Vila Verde,Oliveirense,233,Vilaverdense,4814,1.0,2.0,1.0,3
+2023,2023-08-21T17:45:00+00:00,Segunda Liga,Regular Season - 2,Torres Vedras,Torreense,4799,Nacional,225,1.0,3.0,0.0,3
+2023,2023-08-21T17:45:00+00:00,Segunda Liga,Regular Season - 2,Torres Vedras,Nacional,225,Torreense,4799,0.0,0.0,3.0,0
+2023,2023-08-19T13:00:00+00:00,Segunda Liga,Regular Season - 2,Leiria,União de Leiria,4662,Benfica B,229,1.0,3.0,1.0,3
+2023,2023-08-19T13:00:00+00:00,Segunda Liga,Regular Season - 2,Leiria,Benfica B,229,União de Leiria,4662,0.0,1.0,3.0,0
+2023,2023-08-18T17:00:00+00:00,Segunda Liga,Regular Season - 2,Ilha da Madeira,Maritimo,214,AVS,21595,0.0,0.0,1.0,0
+2023,2023-08-18T17:00:00+00:00,Segunda Liga,Regular Season - 2,Ilha da Madeira,AVS,21595,Maritimo,214,1.0,1.0,0.0,3
+2023,2023-08-19T14:30:00+00:00,Segunda Liga,Regular Season - 2,Tondela,Tondela,218,Academico Viseu,238,,2.0,2.0,1
+2023,2023-08-19T14:30:00+00:00,Segunda Liga,Regular Season - 2,Tondela,Academico Viseu,238,Tondela,218,,2.0,2.0,1
+2023,2023-08-20T19:30:00+00:00,Segunda Liga,Regular Season - 2,Oliveira de Azeméis,Feirense,213,Penafiel,235,1.0,2.0,0.0,3
+2023,2023-08-20T19:30:00+00:00,Segunda Liga,Regular Season - 2,Oliveira de Azeméis,Penafiel,235,Feirense,213,0.0,0.0,2.0,0
+2023,2023-08-21T19:45:00+00:00,Segunda Liga,Regular Season - 2,Matosinhos,Leixoes,244,Santa Clara,227,,0.0,0.0,1
+2023,2023-08-21T19:45:00+00:00,Segunda Liga,Regular Season - 2,Matosinhos,Santa Clara,227,Leixoes,244,,0.0,0.0,1
+2023,2023-08-20T13:00:00+00:00,Segunda Liga,Regular Season - 2,Lisboa,CF Os Belenenses,17692,FC Porto B,243,,1.0,1.0,1
+2023,2023-08-20T13:00:00+00:00,Segunda Liga,Regular Season - 2,Lisboa,FC Porto B,243,CF Os Belenenses,17692,,1.0,1.0,1
+2023,2023-08-19T10:00:00+00:00,Segunda Liga,Regular Season - 2,Mafra,Mafra,245,Pacos Ferreira,234,1.0,2.0,1.0,3
+2023,2023-08-19T10:00:00+00:00,Segunda Liga,Regular Season - 2,Mafra,Pacos Ferreira,234,Mafra,245,0.0,1.0,2.0,0
+2023,2023-08-26T10:00:00+00:00,Segunda Liga,Regular Season - 3,Viseu,Academico Viseu,238,Feirense,213,1.0,2.0,0.0,3
+2023,2023-08-26T10:00:00+00:00,Segunda Liga,Regular Season - 3,Viseu,Feirense,213,Academico Viseu,238,0.0,0.0,2.0,0
+2023,2023-08-28T17:00:00+00:00,Segunda Liga,Regular Season - 3,Ilha da Madeira,Nacional,225,Leixoes,244,1.0,3.0,1.0,3
+2023,2023-08-28T17:00:00+00:00,Segunda Liga,Regular Season - 3,Ilha da Madeira,Leixoes,244,Nacional,225,0.0,1.0,3.0,0
+2023,2023-08-26T14:30:00+00:00,Segunda Liga,Regular Season - 3,Lisboa,CF Os Belenenses,17692,Mafra,245,,1.0,1.0,1
+2023,2023-08-26T14:30:00+00:00,Segunda Liga,Regular Season - 3,Lisboa,Mafra,245,CF Os Belenenses,17692,,1.0,1.0,1
+2023,2023-08-27T10:00:00+00:00,Segunda Liga,Regular Season - 3,Vila Nova de Gaia,FC Porto B,243,União de Leiria,4662,1.0,2.0,1.0,3
+2023,2023-08-27T10:00:00+00:00,Segunda Liga,Regular Season - 3,Vila Nova de Gaia,União de Leiria,4662,FC Porto B,243,0.0,1.0,2.0,0
+2023,2023-08-27T13:00:00+00:00,Segunda Liga,Regular Season - 3,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Vilaverdense,4814,1.0,2.0,0.0,3
+2023,2023-08-27T13:00:00+00:00,Segunda Liga,Regular Season - 3,"Ponta Delgada, Ilha de São Miguel, Açores",Vilaverdense,4814,Santa Clara,227,0.0,0.0,2.0,0
+2023,2023-08-27T14:30:00+00:00,Segunda Liga,Regular Season - 3,Seixal,Benfica B,229,Maritimo,214,0.0,0.0,1.0,0
+2023,2023-08-27T14:30:00+00:00,Segunda Liga,Regular Season - 3,Seixal,Maritimo,214,Benfica B,229,1.0,1.0,0.0,3
+2023,2023-08-27T17:00:00+00:00,Segunda Liga,Regular Season - 3,Vila das Aves,AVS,21595,Torreense,4799,,0.0,0.0,1
+2023,2023-08-27T17:00:00+00:00,Segunda Liga,Regular Season - 3,Vila das Aves,Torreense,4799,AVS,21595,,0.0,0.0,1
+2023,2023-08-26T13:00:00+00:00,Segunda Liga,Regular Season - 3,Paços de Ferreira,Pacos Ferreira,234,Tondela,218,1.0,5.0,1.0,3
+2023,2023-08-26T13:00:00+00:00,Segunda Liga,Regular Season - 3,Paços de Ferreira,Tondela,218,Pacos Ferreira,234,0.0,1.0,5.0,0
+2023,2023-08-27T10:00:00+00:00,Segunda Liga,Regular Season - 3,Oliveira de Azeméis,Oliveirense,233,Penafiel,235,1.0,3.0,1.0,3
+2023,2023-08-27T10:00:00+00:00,Segunda Liga,Regular Season - 3,Oliveira de Azeméis,Penafiel,235,Oliveirense,233,0.0,1.0,3.0,0
+2023,2023-09-03T10:00:00+00:00,Segunda Liga,Regular Season - 4,Torres Vedras,Torreense,4799,Oliveirense,233,1.0,3.0,1.0,3
+2023,2023-09-03T10:00:00+00:00,Segunda Liga,Regular Season - 4,Torres Vedras,Oliveirense,233,Torreense,4799,0.0,1.0,3.0,0
+2023,2023-09-03T14:30:00+00:00,Segunda Liga,Regular Season - 4,Paços de Ferreira,Vilaverdense,4814,Nacional,225,0.0,1.0,2.0,0
+2023,2023-09-03T14:30:00+00:00,Segunda Liga,Regular Season - 4,Paços de Ferreira,Nacional,225,Vilaverdense,4814,1.0,2.0,1.0,3
+2023,2023-09-03T13:00:00+00:00,Segunda Liga,Regular Season - 4,Matosinhos,Leixoes,244,Benfica B,229,,1.0,1.0,1
+2023,2023-09-03T13:00:00+00:00,Segunda Liga,Regular Season - 4,Matosinhos,Benfica B,229,Leixoes,244,,1.0,1.0,1
+2023,2023-09-01T17:00:00+00:00,Segunda Liga,Regular Season - 4,Tondela,Tondela,218,CF Os Belenenses,17692,0.0,0.0,1.0,0
+2023,2023-09-01T17:00:00+00:00,Segunda Liga,Regular Season - 4,Tondela,CF Os Belenenses,17692,Tondela,218,1.0,1.0,0.0,3
+2023,2023-09-02T14:30:00+00:00,Segunda Liga,Regular Season - 4,Leiria,União de Leiria,4662,AVS,21595,0.0,1.0,2.0,0
+2023,2023-09-02T14:30:00+00:00,Segunda Liga,Regular Season - 4,Leiria,AVS,21595,União de Leiria,4662,1.0,2.0,1.0,3
+2023,2023-09-02T13:00:00+00:00,Segunda Liga,Regular Season - 4,Porto,Feirense,213,Santa Clara,227,0.0,0.0,2.0,0
+2023,2023-09-02T13:00:00+00:00,Segunda Liga,Regular Season - 4,Porto,Santa Clara,227,Feirense,213,1.0,2.0,0.0,3
+2023,2023-09-02T14:30:00+00:00,Segunda Liga,Regular Season - 4,Penafiel,Penafiel,235,Academico Viseu,238,,0.0,0.0,1
+2023,2023-09-02T14:30:00+00:00,Segunda Liga,Regular Season - 4,Penafiel,Academico Viseu,238,Penafiel,235,,0.0,0.0,1
+2023,2023-09-02T10:00:00+00:00,Segunda Liga,Regular Season - 4,Mafra,Mafra,245,FC Porto B,243,1.0,2.0,1.0,3
+2023,2023-09-02T10:00:00+00:00,Segunda Liga,Regular Season - 4,Mafra,FC Porto B,243,Mafra,245,0.0,1.0,2.0,0
+2023,2023-09-02T17:00:00+00:00,Segunda Liga,Regular Season - 4,Ilha da Madeira,Maritimo,214,Pacos Ferreira,234,1.0,2.0,0.0,3
+2023,2023-09-02T17:00:00+00:00,Segunda Liga,Regular Season - 4,Ilha da Madeira,Pacos Ferreira,234,Maritimo,214,0.0,0.0,2.0,0
+2023,2023-09-16T17:00:00+00:00,Segunda Liga,Regular Season - 5,Tondela,Tondela,218,Mafra,245,1.0,2.0,1.0,3
+2023,2023-09-16T17:00:00+00:00,Segunda Liga,Regular Season - 5,Tondela,Mafra,245,Tondela,218,0.0,1.0,2.0,0
+2023,2023-09-16T13:00:00+00:00,Segunda Liga,Regular Season - 5,Ilha da Madeira,Nacional,225,Feirense,213,1.0,1.0,0.0,3
+2023,2023-09-16T13:00:00+00:00,Segunda Liga,Regular Season - 5,Ilha da Madeira,Feirense,213,Nacional,225,0.0,0.0,1.0,0
+2023,2023-09-17T13:00:00+00:00,Segunda Liga,Regular Season - 5,Lisboa,CF Os Belenenses,17692,União de Leiria,4662,0.0,0.0,5.0,0
+2023,2023-09-17T13:00:00+00:00,Segunda Liga,Regular Season - 5,Lisboa,União de Leiria,4662,CF Os Belenenses,17692,1.0,5.0,0.0,3
+2023,2023-09-16T10:00:00+00:00,Segunda Liga,Regular Season - 5,Vila Nova de Gaia,FC Porto B,243,Maritimo,214,0.0,0.0,2.0,0
+2023,2023-09-16T10:00:00+00:00,Segunda Liga,Regular Season - 5,Vila Nova de Gaia,Maritimo,214,FC Porto B,243,1.0,2.0,0.0,3
+2023,2023-09-16T14:30:00+00:00,Segunda Liga,Regular Season - 5,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Penafiel,235,,0.0,0.0,1
+2023,2023-09-16T14:30:00+00:00,Segunda Liga,Regular Season - 5,"Ponta Delgada, Ilha de São Miguel, Açores",Penafiel,235,Santa Clara,227,,0.0,0.0,1
+2023,2023-09-17T17:00:00+00:00,Segunda Liga,Regular Season - 5,Seixal,Benfica B,229,Torreense,4799,0.0,0.0,2.0,0
+2023,2023-09-17T17:00:00+00:00,Segunda Liga,Regular Season - 5,Seixal,Torreense,4799,Benfica B,229,1.0,2.0,0.0,3
+2023,2023-09-16T10:00:00+00:00,Segunda Liga,Regular Season - 5,Vila das Aves,AVS,21595,Vilaverdense,4814,1.0,2.0,0.0,3
+2023,2023-09-16T10:00:00+00:00,Segunda Liga,Regular Season - 5,Vila das Aves,Vilaverdense,4814,AVS,21595,0.0,0.0,2.0,0
+2023,2023-09-15T19:15:00+00:00,Segunda Liga,Regular Season - 5,Paços de Ferreira,Pacos Ferreira,234,Leixoes,244,0.0,1.0,2.0,0
+2023,2023-09-15T19:15:00+00:00,Segunda Liga,Regular Season - 5,Paços de Ferreira,Leixoes,244,Pacos Ferreira,234,1.0,2.0,1.0,3
+2023,2023-09-17T10:00:00+00:00,Segunda Liga,Regular Season - 5,Oliveira de Azeméis,Oliveirense,233,Academico Viseu,238,,2.0,2.0,1
+2023,2023-09-17T10:00:00+00:00,Segunda Liga,Regular Season - 5,Oliveira de Azeméis,Academico Viseu,238,Oliveirense,233,,2.0,2.0,1
+2023,2023-10-01T10:00:00+00:00,Segunda Liga,Regular Season - 6,Viseu,Academico Viseu,238,AVS,21595,0.0,1.0,2.0,0
+2023,2023-10-01T10:00:00+00:00,Segunda Liga,Regular Season - 6,Viseu,AVS,21595,Academico Viseu,238,1.0,2.0,1.0,3
+2023,2023-10-02T17:00:00+00:00,Segunda Liga,Regular Season - 6,Penafiel,Penafiel,235,Nacional,225,0.0,1.0,4.0,0
+2023,2023-10-02T17:00:00+00:00,Segunda Liga,Regular Season - 6,Penafiel,Nacional,225,Penafiel,235,1.0,4.0,1.0,3
+2023,2023-09-29T17:00:00+00:00,Segunda Liga,Regular Season - 6,Paços de Ferreira,Vilaverdense,4814,Benfica B,229,0.0,1.0,4.0,0
+2023,2023-09-29T17:00:00+00:00,Segunda Liga,Regular Season - 6,Paços de Ferreira,Benfica B,229,Vilaverdense,4814,1.0,4.0,1.0,3
+2023,2023-10-02T19:15:00+00:00,Segunda Liga,Regular Season - 6,Torres Vedras,Torreense,4799,CF Os Belenenses,17692,,2.0,2.0,1
+2023,2023-10-02T19:15:00+00:00,Segunda Liga,Regular Season - 6,Torres Vedras,CF Os Belenenses,17692,Torreense,4799,,2.0,2.0,1
+2023,2023-09-30T13:00:00+00:00,Segunda Liga,Regular Season - 6,Ilha da Madeira,Maritimo,214,Mafra,245,0.0,1.0,2.0,0
+2023,2023-09-30T13:00:00+00:00,Segunda Liga,Regular Season - 6,Ilha da Madeira,Mafra,245,Maritimo,214,1.0,2.0,1.0,3
+2023,2023-09-30T10:00:00+00:00,Segunda Liga,Regular Season - 6,Oliveira de Azeméis,Oliveirense,233,Santa Clara,227,,1.0,1.0,1
+2023,2023-09-30T10:00:00+00:00,Segunda Liga,Regular Season - 6,Oliveira de Azeméis,Santa Clara,227,Oliveirense,233,,1.0,1.0,1
+2023,2023-10-01T13:00:00+00:00,Segunda Liga,Regular Season - 6,Matosinhos,Leixoes,244,FC Porto B,243,0.0,1.0,3.0,0
+2023,2023-10-01T13:00:00+00:00,Segunda Liga,Regular Season - 6,Matosinhos,FC Porto B,243,Leixoes,244,1.0,3.0,1.0,3
+2023,2023-10-01T17:00:00+00:00,Segunda Liga,Regular Season - 6,Santa Maria da Feira,Feirense,213,Pacos Ferreira,234,1.0,1.0,0.0,3
+2023,2023-10-01T17:00:00+00:00,Segunda Liga,Regular Season - 6,Santa Maria da Feira,Pacos Ferreira,234,Feirense,213,0.0,0.0,1.0,0
+2023,2023-10-01T19:30:00+00:00,Segunda Liga,Regular Season - 6,Leiria,União de Leiria,4662,Tondela,218,,2.0,2.0,1
+2023,2023-10-01T19:30:00+00:00,Segunda Liga,Regular Season - 6,Leiria,Tondela,218,União de Leiria,4662,,2.0,2.0,1
+2023,2023-10-08T17:00:00+00:00,Segunda Liga,Regular Season - 7,Seixal,Benfica B,229,Feirense,213,0.0,2.0,3.0,0
+2023,2023-10-08T17:00:00+00:00,Segunda Liga,Regular Season - 7,Seixal,Feirense,213,Benfica B,229,1.0,3.0,2.0,3
+2023,2023-10-08T13:00:00+00:00,Segunda Liga,Regular Season - 7,Lisboa,CF Os Belenenses,17692,Maritimo,214,0.0,1.0,2.0,0
+2023,2023-10-08T13:00:00+00:00,Segunda Liga,Regular Season - 7,Lisboa,Maritimo,214,CF Os Belenenses,17692,1.0,2.0,1.0,3
+2023,2023-10-07T13:00:00+00:00,Segunda Liga,Regular Season - 7,Tondela,Tondela,218,Leixoes,244,1.0,4.0,2.0,3
+2023,2023-10-07T13:00:00+00:00,Segunda Liga,Regular Season - 7,Tondela,Leixoes,244,Tondela,218,0.0,2.0,4.0,0
+2023,2023-10-08T10:00:00+00:00,Segunda Liga,Regular Season - 7,Mafra,Mafra,245,União de Leiria,4662,1.0,3.0,0.0,3
+2023,2023-10-08T10:00:00+00:00,Segunda Liga,Regular Season - 7,Mafra,União de Leiria,4662,Mafra,245,0.0,0.0,3.0,0
+2023,2023-10-07T10:00:00+00:00,Segunda Liga,Regular Season - 7,Ilha da Madeira,Nacional,225,Oliveirense,233,1.0,5.0,0.0,3
+2023,2023-10-07T10:00:00+00:00,Segunda Liga,Regular Season - 7,Ilha da Madeira,Oliveirense,233,Nacional,225,0.0,0.0,5.0,0
+2023,2023-10-09T19:15:00+00:00,Segunda Liga,Regular Season - 7,Vila das Aves,AVS,21595,Penafiel,235,1.0,1.0,0.0,3
+2023,2023-10-09T19:15:00+00:00,Segunda Liga,Regular Season - 7,Vila das Aves,Penafiel,235,AVS,21595,0.0,0.0,1.0,0
+2023,2023-10-06T17:00:00+00:00,Segunda Liga,Regular Season - 7,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Academico Viseu,238,1.0,2.0,0.0,3
+2023,2023-10-06T17:00:00+00:00,Segunda Liga,Regular Season - 7,"Ponta Delgada, Ilha de São Miguel, Açores",Academico Viseu,238,Santa Clara,227,0.0,0.0,2.0,0
+2023,2023-10-07T17:00:00+00:00,Segunda Liga,Regular Season - 7,Paços de Ferreira,Pacos Ferreira,234,Vilaverdense,4814,1.0,2.0,0.0,3
+2023,2023-10-07T17:00:00+00:00,Segunda Liga,Regular Season - 7,Paços de Ferreira,Vilaverdense,4814,Pacos Ferreira,234,0.0,0.0,2.0,0
+2023,2023-10-08T10:00:00+00:00,Segunda Liga,Regular Season - 7,Vila Nova de Gaia,FC Porto B,243,Torreense,4799,,2.0,2.0,1
+2023,2023-10-08T10:00:00+00:00,Segunda Liga,Regular Season - 7,Vila Nova de Gaia,Torreense,4799,FC Porto B,243,,2.0,2.0,1
+2023,2023-10-29T14:00:00+00:00,Segunda Liga,Regular Season - 8,Santa Maria da Feira,Feirense,213,AVS,21595,0.0,1.0,2.0,0
+2023,2023-10-29T14:00:00+00:00,Segunda Liga,Regular Season - 8,Santa Maria da Feira,AVS,21595,Feirense,213,1.0,2.0,1.0,3
+2023,2023-10-29T11:00:00+00:00,Segunda Liga,Regular Season - 8,Viseu,Academico Viseu,238,Nacional,225,,1.0,1.0,1
+2023,2023-10-29T11:00:00+00:00,Segunda Liga,Regular Season - 8,Viseu,Nacional,225,Academico Viseu,238,,1.0,1.0,1
+2023,2023-10-29T15:30:00+00:00,Segunda Liga,Regular Season - 8,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Benfica B,229,,1.0,1.0,1
+2023,2023-10-29T15:30:00+00:00,Segunda Liga,Regular Season - 8,"Ponta Delgada, Ilha de São Miguel, Açores",Benfica B,229,Santa Clara,227,,1.0,1.0,1
+2023,2023-10-29T18:00:00+00:00,Segunda Liga,Regular Season - 8,Oliveira de Azeméis,Oliveirense,233,União de Leiria,4662,0.0,1.0,4.0,0
+2023,2023-10-29T18:00:00+00:00,Segunda Liga,Regular Season - 8,Oliveira de Azeméis,União de Leiria,4662,Oliveirense,233,1.0,4.0,1.0,3
+2023,2023-10-27T17:00:00+00:00,Segunda Liga,Regular Season - 8,Penafiel,Penafiel,235,Mafra,245,1.0,1.0,0.0,3
+2023,2023-10-27T17:00:00+00:00,Segunda Liga,Regular Season - 8,Penafiel,Mafra,245,Penafiel,235,0.0,0.0,1.0,0
+2023,2023-10-30T18:00:00+00:00,Segunda Liga,Regular Season - 8,Vila Verde,Vilaverdense,4814,FC Porto B,243,0.0,0.0,5.0,0
+2023,2023-10-30T18:00:00+00:00,Segunda Liga,Regular Season - 8,Vila Verde,FC Porto B,243,Vilaverdense,4814,1.0,5.0,0.0,3
+2023,2023-10-28T13:00:00+00:00,Segunda Liga,Regular Season - 8,Matosinhos,Leixoes,244,CF Os Belenenses,17692,1.0,1.0,0.0,3
+2023,2023-10-28T13:00:00+00:00,Segunda Liga,Regular Season - 8,Matosinhos,CF Os Belenenses,17692,Leixoes,244,0.0,0.0,1.0,0
+2023,2023-10-28T14:30:00+00:00,Segunda Liga,Regular Season - 8,Ilha da Madeira,Maritimo,214,Tondela,218,,2.0,2.0,1
+2023,2023-10-28T14:30:00+00:00,Segunda Liga,Regular Season - 8,Ilha da Madeira,Tondela,218,Maritimo,214,,2.0,2.0,1
+2023,2023-10-28T10:00:00+00:00,Segunda Liga,Regular Season - 8,Torres Vedras,Torreense,4799,Pacos Ferreira,234,0.0,1.0,2.0,0
+2023,2023-10-28T10:00:00+00:00,Segunda Liga,Regular Season - 8,Torres Vedras,Pacos Ferreira,234,Torreense,4799,1.0,2.0,1.0,3
+2023,2023-11-04T18:00:00+00:00,Segunda Liga,Regular Season - 9,Ilha da Madeira,Nacional,225,Santa Clara,227,,1.0,1.0,1
+2023,2023-11-04T18:00:00+00:00,Segunda Liga,Regular Season - 9,Ilha da Madeira,Santa Clara,227,Nacional,225,,1.0,1.0,1
+2023,2023-11-04T11:00:00+00:00,Segunda Liga,Regular Season - 9,Vila Nova de Gaia,FC Porto B,243,Feirense,213,1.0,2.0,0.0,3
+2023,2023-11-04T11:00:00+00:00,Segunda Liga,Regular Season - 9,Vila Nova de Gaia,Feirense,213,FC Porto B,243,0.0,0.0,2.0,0
+2023,2023-11-04T11:00:00+00:00,Segunda Liga,Regular Season - 9,Mafra,Mafra,245,Leixoes,244,0.0,0.0,1.0,0
+2023,2023-11-04T11:00:00+00:00,Segunda Liga,Regular Season - 9,Mafra,Leixoes,244,Mafra,245,1.0,1.0,0.0,3
+2023,2023-11-04T15:30:00+00:00,Segunda Liga,Regular Season - 9,Lisboa,CF Os Belenenses,17692,Vilaverdense,4814,0.0,0.0,2.0,0
+2023,2023-11-04T15:30:00+00:00,Segunda Liga,Regular Season - 9,Lisboa,Vilaverdense,4814,CF Os Belenenses,17692,1.0,2.0,0.0,3
+2023,2023-11-05T11:00:00+00:00,Segunda Liga,Regular Season - 9,Vila das Aves,AVS,21595,Oliveirense,233,0.0,0.0,1.0,0
+2023,2023-11-05T11:00:00+00:00,Segunda Liga,Regular Season - 9,Vila das Aves,Oliveirense,233,AVS,21595,1.0,1.0,0.0,3
+2023,2023-11-05T14:00:00+00:00,Segunda Liga,Regular Season - 9,Leiria,União de Leiria,4662,Maritimo,214,1.0,4.0,3.0,3
+2023,2023-11-05T14:00:00+00:00,Segunda Liga,Regular Season - 9,Leiria,Maritimo,214,União de Leiria,4662,0.0,3.0,4.0,0
+2023,2023-11-05T18:00:00+00:00,Segunda Liga,Regular Season - 9,Tondela,Tondela,218,Torreense,4799,0.0,1.0,2.0,0
+2023,2023-11-05T18:00:00+00:00,Segunda Liga,Regular Season - 9,Tondela,Torreense,4799,Tondela,218,1.0,2.0,1.0,3
+2023,2023-11-06T18:00:00+00:00,Segunda Liga,Regular Season - 9,Paços de Ferreira,Pacos Ferreira,234,Academico Viseu,238,1.0,1.0,0.0,3
+2023,2023-11-06T18:00:00+00:00,Segunda Liga,Regular Season - 9,Paços de Ferreira,Academico Viseu,238,Pacos Ferreira,234,0.0,0.0,1.0,0
+2023,2023-11-04T18:00:00+00:00,Segunda Liga,Regular Season - 9,Seixal,Benfica B,229,Penafiel,235,1.0,1.0,0.0,3
+2023,2023-11-04T18:00:00+00:00,Segunda Liga,Regular Season - 9,Seixal,Penafiel,235,Benfica B,229,0.0,0.0,1.0,0
+2023,2023-11-11T15:30:00+00:00,Segunda Liga,Regular Season - 10,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,AVS,21595,1.0,2.0,1.0,3
+2023,2023-11-11T15:30:00+00:00,Segunda Liga,Regular Season - 10,"Ponta Delgada, Ilha de São Miguel, Açores",AVS,21595,Santa Clara,227,0.0,1.0,2.0,0
+2023,2023-11-12T11:00:00+00:00,Segunda Liga,Regular Season - 10,Vila das Aves,Vilaverdense,4814,Tondela,218,0.0,1.0,2.0,0
+2023,2023-11-12T11:00:00+00:00,Segunda Liga,Regular Season - 10,Vila das Aves,Tondela,218,Vilaverdense,4814,1.0,2.0,1.0,3
+2023,2023-11-12T18:00:00+00:00,Segunda Liga,Regular Season - 10,Viseu,Academico Viseu,238,Benfica B,229,1.0,1.0,0.0,3
+2023,2023-11-12T18:00:00+00:00,Segunda Liga,Regular Season - 10,Viseu,Benfica B,229,Academico Viseu,238,0.0,0.0,1.0,0
+2023,2023-11-11T11:00:00+00:00,Segunda Liga,Regular Season - 10,Ilha da Madeira,Nacional,225,União de Leiria,4662,1.0,2.0,0.0,3
+2023,2023-11-11T11:00:00+00:00,Segunda Liga,Regular Season - 10,Ilha da Madeira,União de Leiria,4662,Nacional,225,0.0,0.0,2.0,0
+2023,2023-11-12T11:00:00+00:00,Segunda Liga,Regular Season - 10,Torres Vedras,Torreense,4799,Mafra,245,,0.0,0.0,1
+2023,2023-11-12T11:00:00+00:00,Segunda Liga,Regular Season - 10,Torres Vedras,Mafra,245,Torreense,4799,,0.0,0.0,1
+2023,2023-11-11T18:00:00+00:00,Segunda Liga,Regular Season - 10,Oliveira de Azeméis,Oliveirense,233,Pacos Ferreira,234,,0.0,0.0,1
+2023,2023-11-11T18:00:00+00:00,Segunda Liga,Regular Season - 10,Oliveira de Azeméis,Pacos Ferreira,234,Oliveirense,233,,0.0,0.0,1
+2023,2023-11-11T14:00:00+00:00,Segunda Liga,Regular Season - 10,Penafiel,Penafiel,235,FC Porto B,243,1.0,3.0,2.0,3
+2023,2023-11-11T14:00:00+00:00,Segunda Liga,Regular Season - 10,Penafiel,FC Porto B,243,Penafiel,235,0.0,2.0,3.0,0
+2023,2023-11-10T18:00:00+00:00,Segunda Liga,Regular Season - 10,Santa Maria da Feira,Feirense,213,CF Os Belenenses,17692,1.0,1.0,0.0,3
+2023,2023-11-10T18:00:00+00:00,Segunda Liga,Regular Season - 10,Santa Maria da Feira,CF Os Belenenses,17692,Feirense,213,0.0,0.0,1.0,0
+2023,2023-11-12T15:30:00+00:00,Segunda Liga,Regular Season - 10,Matosinhos,Leixoes,244,Maritimo,214,0.0,0.0,1.0,0
+2023,2023-11-12T15:30:00+00:00,Segunda Liga,Regular Season - 10,Matosinhos,Maritimo,214,Leixoes,244,1.0,1.0,0.0,3
+2023,2023-11-18T18:00:00+00:00,Segunda Liga,Regular Season - 11,Leiria,União de Leiria,4662,Leixoes,244,,0.0,0.0,1
+2023,2023-11-18T18:00:00+00:00,Segunda Liga,Regular Season - 11,Leiria,Leixoes,244,União de Leiria,4662,,0.0,0.0,1
+2023,2023-11-19T14:00:00+00:00,Segunda Liga,Regular Season - 11,Lisboa,CF Os Belenenses,17692,Penafiel,235,1.0,2.0,0.0,3
+2023,2023-11-19T14:00:00+00:00,Segunda Liga,Regular Season - 11,Lisboa,Penafiel,235,CF Os Belenenses,17692,0.0,0.0,2.0,0
+2023,2023-11-18T14:00:00+00:00,Segunda Liga,Regular Season - 11,Paços de Ferreira,Pacos Ferreira,234,Santa Clara,227,0.0,0.0,2.0,0
+2023,2023-11-18T14:00:00+00:00,Segunda Liga,Regular Season - 11,Paços de Ferreira,Santa Clara,227,Pacos Ferreira,234,1.0,2.0,0.0,3
+2023,2023-11-18T15:30:00+00:00,Segunda Liga,Regular Season - 11,Tondela,Tondela,218,Feirense,213,1.0,2.0,0.0,3
+2023,2023-11-18T15:30:00+00:00,Segunda Liga,Regular Season - 11,Tondela,Feirense,213,Tondela,218,0.0,0.0,2.0,0
+2023,2023-11-25T18:00:00+00:00,Segunda Liga,Regular Season - 11,Seixal,Benfica B,229,Oliveirense,233,,1.0,1.0,1
+2023,2023-11-25T18:00:00+00:00,Segunda Liga,Regular Season - 11,Seixal,Oliveirense,233,Benfica B,229,,1.0,1.0,1
+2023,2023-11-19T11:00:00+00:00,Segunda Liga,Regular Season - 11,Vila das Aves,AVS,21595,Nacional,225,0.0,0.0,1.0,0
+2023,2023-11-19T11:00:00+00:00,Segunda Liga,Regular Season - 11,Vila das Aves,Nacional,225,AVS,21595,1.0,1.0,0.0,3
+2023,2023-11-25T11:00:00+00:00,Segunda Liga,Regular Season - 11,Vila Nova de Gaia,FC Porto B,243,Academico Viseu,238,1.0,3.0,0.0,3
+2023,2023-11-25T11:00:00+00:00,Segunda Liga,Regular Season - 11,Vila Nova de Gaia,Academico Viseu,238,FC Porto B,243,0.0,0.0,3.0,0
+2023,2023-11-19T15:30:00+00:00,Segunda Liga,Regular Season - 11,Ilha da Madeira,Maritimo,214,Torreense,4799,0.0,1.0,2.0,0
+2023,2023-11-19T15:30:00+00:00,Segunda Liga,Regular Season - 11,Ilha da Madeira,Torreense,4799,Maritimo,214,1.0,2.0,1.0,3
+2023,2023-11-18T11:00:00+00:00,Segunda Liga,Regular Season - 11,Mafra,Mafra,245,Vilaverdense,4814,1.0,1.0,0.0,3
+2023,2023-11-18T11:00:00+00:00,Segunda Liga,Regular Season - 11,Mafra,Vilaverdense,4814,Mafra,245,0.0,0.0,1.0,0
+2023,2023-12-02T14:00:00+00:00,Segunda Liga,Regular Season - 12,Ilha da Madeira,Nacional,225,Pacos Ferreira,234,1.0,2.0,1.0,3
+2023,2023-12-02T14:00:00+00:00,Segunda Liga,Regular Season - 12,Ilha da Madeira,Pacos Ferreira,234,Nacional,225,0.0,1.0,2.0,0
+2023,2023-12-03T11:00:00+00:00,Segunda Liga,Regular Season - 12,Torres Vedras,Torreense,4799,Leixoes,244,,0.0,0.0,1
+2023,2023-12-03T11:00:00+00:00,Segunda Liga,Regular Season - 12,Torres Vedras,Leixoes,244,Torreense,4799,,0.0,0.0,1
+2023,2023-12-01T15:30:00+00:00,Segunda Liga,Regular Season - 12,Penafiel,Vilaverdense,4814,União de Leiria,4662,1.0,1.0,0.0,3
+2023,2023-12-01T15:30:00+00:00,Segunda Liga,Regular Season - 12,Penafiel,União de Leiria,4662,Vilaverdense,4814,0.0,0.0,1.0,0
+2023,2023-12-01T18:00:00+00:00,Segunda Liga,Regular Season - 12,Viseu,Academico Viseu,238,CF Os Belenenses,17692,1.0,3.0,1.0,3
+2023,2023-12-01T18:00:00+00:00,Segunda Liga,Regular Season - 12,Viseu,CF Os Belenenses,17692,Academico Viseu,238,0.0,1.0,3.0,0
+2023,2023-12-03T14:00:00+00:00,Segunda Liga,Regular Season - 12,Penafiel,Penafiel,235,Tondela,218,0.0,0.0,2.0,0
+2023,2023-12-03T14:00:00+00:00,Segunda Liga,Regular Season - 12,Penafiel,Tondela,218,Penafiel,235,1.0,2.0,0.0,3
+2023,2023-12-02T11:00:00+00:00,Segunda Liga,Regular Season - 12,Oliveira de Azeméis,Oliveirense,233,FC Porto B,243,0.0,1.0,3.0,0
+2023,2023-12-02T11:00:00+00:00,Segunda Liga,Regular Season - 12,Oliveira de Azeméis,FC Porto B,243,Oliveirense,233,1.0,3.0,1.0,3
+2023,2023-12-02T20:30:00+00:00,Segunda Liga,Regular Season - 12,Vila das Aves,AVS,21595,Benfica B,229,1.0,1.0,0.0,3
+2023,2023-12-02T20:30:00+00:00,Segunda Liga,Regular Season - 12,Vila das Aves,Benfica B,229,AVS,21595,0.0,0.0,1.0,0
+2023,2023-12-03T15:30:00+00:00,Segunda Liga,Regular Season - 12,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Maritimo,214,1.0,2.0,1.0,3
+2023,2023-12-03T15:30:00+00:00,Segunda Liga,Regular Season - 12,"Ponta Delgada, Ilha de São Miguel, Açores",Maritimo,214,Santa Clara,227,0.0,1.0,2.0,0
+2023,2023-12-04T18:00:00+00:00,Segunda Liga,Regular Season - 12,Santa Maria da Feira,Feirense,213,Mafra,245,1.0,3.0,2.0,3
+2023,2023-12-04T18:00:00+00:00,Segunda Liga,Regular Season - 12,Santa Maria da Feira,Mafra,245,Feirense,213,0.0,2.0,3.0,0
+2023,2023-12-09T14:00:00+00:00,Segunda Liga,Regular Season - 13,Tondela,Tondela,218,Santa Clara,227,0.0,2.0,3.0,0
+2023,2023-12-09T14:00:00+00:00,Segunda Liga,Regular Season - 13,Tondela,Santa Clara,227,Tondela,218,1.0,3.0,2.0,3
+2023,2023-12-09T11:00:00+00:00,Segunda Liga,Regular Season - 13,Vila Nova de Gaia,FC Porto B,243,AVS,21595,0.0,2.0,3.0,0
+2023,2023-12-09T11:00:00+00:00,Segunda Liga,Regular Season - 13,Vila Nova de Gaia,AVS,21595,FC Porto B,243,1.0,3.0,2.0,3
+2023,2023-12-09T15:30:00+00:00,Segunda Liga,Regular Season - 13,Matosinhos,Leixoes,244,Feirense,213,,0.0,0.0,1
+2023,2023-12-09T15:30:00+00:00,Segunda Liga,Regular Season - 13,Matosinhos,Feirense,213,Leixoes,244,,0.0,0.0,1
+2023,2023-12-10T14:00:00+00:00,Segunda Liga,Regular Season - 13,Lisboa,CF Os Belenenses,17692,Oliveirense,233,1.0,1.0,0.0,3
+2023,2023-12-10T14:00:00+00:00,Segunda Liga,Regular Season - 13,Lisboa,Oliveirense,233,CF Os Belenenses,17692,0.0,0.0,1.0,0
+2023,2023-12-08T20:30:00+00:00,Segunda Liga,Regular Season - 13,Leiria,União de Leiria,4662,Torreense,4799,1.0,1.0,0.0,3
+2023,2023-12-08T20:30:00+00:00,Segunda Liga,Regular Season - 13,Leiria,Torreense,4799,União de Leiria,4662,0.0,0.0,1.0,0
+2023,2023-12-09T18:00:00+00:00,Segunda Liga,Regular Season - 13,Seixal,Benfica B,229,Nacional,225,1.0,2.0,1.0,3
+2023,2023-12-09T18:00:00+00:00,Segunda Liga,Regular Season - 13,Seixal,Nacional,225,Benfica B,229,0.0,1.0,2.0,0
+2023,2023-12-09T11:00:00+00:00,Segunda Liga,Regular Season - 13,Paços de Ferreira,Pacos Ferreira,234,Penafiel,235,1.0,2.0,1.0,3
+2023,2023-12-09T11:00:00+00:00,Segunda Liga,Regular Season - 13,Paços de Ferreira,Penafiel,235,Pacos Ferreira,234,0.0,1.0,2.0,0
+2023,2023-12-10T15:30:00+00:00,Segunda Liga,Regular Season - 13,Ilha da Madeira,Maritimo,214,Vilaverdense,4814,1.0,4.0,0.0,3
+2023,2023-12-10T15:30:00+00:00,Segunda Liga,Regular Season - 13,Ilha da Madeira,Vilaverdense,4814,Maritimo,214,0.0,0.0,4.0,0
+2023,2023-12-10T11:00:00+00:00,Segunda Liga,Regular Season - 13,Mafra,Mafra,245,Academico Viseu,238,,1.0,1.0,1
+2023,2023-12-10T11:00:00+00:00,Segunda Liga,Regular Season - 13,Mafra,Academico Viseu,238,Mafra,245,,1.0,1.0,1
+2023,2023-12-17T18:00:00+00:00,Segunda Liga,Regular Season - 14,Oliveira de Azeméis,Oliveirense,233,Mafra,245,0.0,1.0,3.0,0
+2023,2023-12-17T18:00:00+00:00,Segunda Liga,Regular Season - 14,Oliveira de Azeméis,Mafra,245,Oliveirense,233,1.0,3.0,1.0,3
+2023,2023-12-16T11:00:00+00:00,Segunda Liga,Regular Season - 14,Viseu,Academico Viseu,238,Torreense,4799,,0.0,0.0,1
+2023,2023-12-16T11:00:00+00:00,Segunda Liga,Regular Season - 14,Viseu,Torreense,4799,Academico Viseu,238,,0.0,0.0,1
+2023,2023-12-17T11:00:00+00:00,Segunda Liga,Regular Season - 14,Coimbra,Vilaverdense,4814,Leixoes,244,1.0,1.0,0.0,3
+2023,2023-12-17T11:00:00+00:00,Segunda Liga,Regular Season - 14,Coimbra,Leixoes,244,Vilaverdense,4814,0.0,0.0,1.0,0
+2023,2023-12-16T14:00:00+00:00,Segunda Liga,Regular Season - 14,Penafiel,Penafiel,235,União de Leiria,4662,1.0,1.0,0.0,3
+2023,2023-12-16T14:00:00+00:00,Segunda Liga,Regular Season - 14,Penafiel,União de Leiria,4662,Penafiel,235,0.0,0.0,1.0,0
+2023,2023-12-17T15:30:00+00:00,Segunda Liga,Regular Season - 14,Seixal,Benfica B,229,Tondela,218,,1.0,1.0,1
+2023,2023-12-17T15:30:00+00:00,Segunda Liga,Regular Season - 14,Seixal,Tondela,218,Benfica B,229,,1.0,1.0,1
+2023,2023-12-16T15:30:00+00:00,Segunda Liga,Regular Season - 14,Ilha da Madeira,Nacional,225,CF Os Belenenses,17692,1.0,5.0,0.0,3
+2023,2023-12-16T15:30:00+00:00,Segunda Liga,Regular Season - 14,Ilha da Madeira,CF Os Belenenses,17692,Nacional,225,0.0,0.0,5.0,0
+2023,2023-12-16T18:00:00+00:00,Segunda Liga,Regular Season - 14,Vila das Aves,AVS,21595,Pacos Ferreira,234,1.0,2.0,0.0,3
+2023,2023-12-16T18:00:00+00:00,Segunda Liga,Regular Season - 14,Vila das Aves,Pacos Ferreira,234,AVS,21595,0.0,0.0,2.0,0
+2023,2023-12-17T12:00:00+00:00,Segunda Liga,Regular Season - 14,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,FC Porto B,243,1.0,2.0,1.0,3
+2023,2023-12-17T12:00:00+00:00,Segunda Liga,Regular Season - 14,"Ponta Delgada, Ilha de São Miguel, Açores",FC Porto B,243,Santa Clara,227,0.0,1.0,2.0,0
+2023,2023-12-17T14:00:00+00:00,Segunda Liga,Regular Season - 14,Santa Maria da Feira,Feirense,213,Maritimo,214,0.0,0.0,1.0,0
+2023,2023-12-17T14:00:00+00:00,Segunda Liga,Regular Season - 14,Santa Maria da Feira,Maritimo,214,Feirense,213,1.0,1.0,0.0,3
+2023,2023-12-30T18:00:00+00:00,Segunda Liga,Regular Season - 15,Leiria,União de Leiria,4662,Feirense,213,,1.0,1.0,1
+2023,2023-12-30T18:00:00+00:00,Segunda Liga,Regular Season - 15,Leiria,Feirense,213,União de Leiria,4662,,1.0,1.0,1
+2023,2023-12-30T14:00:00+00:00,Segunda Liga,Regular Season - 15,Tondela,Tondela,218,Oliveirense,233,1.0,1.0,0.0,3
+2023,2023-12-30T14:00:00+00:00,Segunda Liga,Regular Season - 15,Tondela,Oliveirense,233,Tondela,218,0.0,0.0,1.0,0
+2023,2023-12-30T11:00:00+00:00,Segunda Liga,Regular Season - 15,Vila Nova de Gaia,FC Porto B,243,Nacional,225,0.0,2.0,3.0,0
+2023,2023-12-30T11:00:00+00:00,Segunda Liga,Regular Season - 15,Vila Nova de Gaia,Nacional,225,FC Porto B,243,1.0,3.0,2.0,3
+2023,2023-12-30T14:00:00+00:00,Segunda Liga,Regular Season - 15,Paços de Ferreira,Pacos Ferreira,234,Benfica B,229,,2.0,2.0,1
+2023,2023-12-30T14:00:00+00:00,Segunda Liga,Regular Season - 15,Paços de Ferreira,Benfica B,229,Pacos Ferreira,234,,2.0,2.0,1
+2023,2023-12-31T11:00:00+00:00,Segunda Liga,Regular Season - 15,Mafra,Mafra,245,AVS,21595,0.0,0.0,2.0,0
+2023,2023-12-31T11:00:00+00:00,Segunda Liga,Regular Season - 15,Mafra,AVS,21595,Mafra,245,1.0,2.0,0.0,3
+2023,2023-12-22T20:45:00+00:00,Segunda Liga,Regular Season - 15,Lisboa,CF Os Belenenses,17692,Santa Clara,227,,0.0,0.0,1
+2023,2023-12-22T20:45:00+00:00,Segunda Liga,Regular Season - 15,Lisboa,Santa Clara,227,CF Os Belenenses,17692,,0.0,0.0,1
+2023,2023-12-21T18:00:00+00:00,Segunda Liga,Regular Season - 15,Torres Vedras,Torreense,4799,Vilaverdense,4814,1.0,3.0,1.0,3
+2023,2023-12-21T18:00:00+00:00,Segunda Liga,Regular Season - 15,Torres Vedras,Vilaverdense,4814,Torreense,4799,0.0,1.0,3.0,0
+2023,2023-12-23T12:45:00+00:00,Segunda Liga,Regular Season - 15,Ilha da Madeira,Maritimo,214,Penafiel,235,,0.0,0.0,1
+2023,2023-12-23T12:45:00+00:00,Segunda Liga,Regular Season - 15,Ilha da Madeira,Penafiel,235,Maritimo,214,,0.0,0.0,1
+2023,2023-12-30T11:00:00+00:00,Segunda Liga,Regular Season - 15,Matosinhos,Leixoes,244,Academico Viseu,238,0.0,1.0,2.0,0
+2023,2023-12-30T11:00:00+00:00,Segunda Liga,Regular Season - 15,Matosinhos,Academico Viseu,238,Leixoes,244,1.0,2.0,1.0,3
+2023,2024-01-06T11:00:00+00:00,Segunda Liga,Regular Season - 16,Ilha da Madeira,Nacional,225,Tondela,218,,1.0,1.0,1
+2023,2024-01-06T11:00:00+00:00,Segunda Liga,Regular Season - 16,Ilha da Madeira,Tondela,218,Nacional,225,,1.0,1.0,1
+2023,2024-01-06T15:30:00+00:00,Segunda Liga,Regular Season - 16,Seixal,Benfica B,229,CF Os Belenenses,17692,1.0,2.0,1.0,3
+2023,2024-01-06T15:30:00+00:00,Segunda Liga,Regular Season - 16,Seixal,CF Os Belenenses,17692,Benfica B,229,0.0,1.0,2.0,0
+2023,2024-01-06T11:00:00+00:00,Segunda Liga,Regular Season - 16,Oliveira de Azeméis,Oliveirense,233,Maritimo,214,,1.0,1.0,1
+2023,2024-01-06T11:00:00+00:00,Segunda Liga,Regular Season - 16,Oliveira de Azeméis,Maritimo,214,Oliveirense,233,,1.0,1.0,1
+2023,2024-01-06T18:00:00+00:00,Segunda Liga,Regular Season - 16,Viseu,Academico Viseu,238,União de Leiria,4662,1.0,1.0,0.0,3
+2023,2024-01-06T18:00:00+00:00,Segunda Liga,Regular Season - 16,Viseu,União de Leiria,4662,Academico Viseu,238,0.0,0.0,1.0,0
+2023,2024-01-06T14:00:00+00:00,Segunda Liga,Regular Season - 16,Penafiel,Penafiel,235,Vilaverdense,4814,1.0,2.0,1.0,3
+2023,2024-01-06T14:00:00+00:00,Segunda Liga,Regular Season - 16,Penafiel,Vilaverdense,4814,Penafiel,235,0.0,1.0,2.0,0
+2023,2024-01-07T15:30:00+00:00,Segunda Liga,Regular Season - 16,Santa Maria da Feira,Feirense,213,Torreense,4799,1.0,3.0,1.0,3
+2023,2024-01-07T15:30:00+00:00,Segunda Liga,Regular Season - 16,Santa Maria da Feira,Torreense,4799,Feirense,213,0.0,1.0,3.0,0
+2023,2024-01-06T15:30:00+00:00,Segunda Liga,Regular Season - 16,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Mafra,245,0.0,0.0,1.0,0
+2023,2024-01-06T15:30:00+00:00,Segunda Liga,Regular Season - 16,"Ponta Delgada, Ilha de São Miguel, Açores",Mafra,245,Santa Clara,227,1.0,1.0,0.0,3
+2023,2024-01-07T14:00:00+00:00,Segunda Liga,Regular Season - 16,Paços de Ferreira,Pacos Ferreira,234,FC Porto B,243,1.0,3.0,0.0,3
+2023,2024-01-07T14:00:00+00:00,Segunda Liga,Regular Season - 16,Paços de Ferreira,FC Porto B,243,Pacos Ferreira,234,0.0,0.0,3.0,0
+2023,2024-01-07T11:00:00+00:00,Segunda Liga,Regular Season - 16,Vila das Aves,AVS,21595,Leixoes,244,0.0,1.0,3.0,0
+2023,2024-01-07T11:00:00+00:00,Segunda Liga,Regular Season - 16,Vila das Aves,Leixoes,244,AVS,21595,1.0,3.0,1.0,3
+2023,2024-01-14T14:00:00+00:00,Segunda Liga,Regular Season - 17,Tondela,Tondela,218,AVS,21595,1.0,3.0,2.0,3
+2023,2024-01-14T14:00:00+00:00,Segunda Liga,Regular Season - 17,Tondela,AVS,21595,Tondela,218,0.0,2.0,3.0,0
+2023,2024-01-14T11:00:00+00:00,Segunda Liga,Regular Season - 17,Vila Verde,Vilaverdense,4814,Feirense,213,1.0,2.0,1.0,3
+2023,2024-01-14T11:00:00+00:00,Segunda Liga,Regular Season - 17,Vila Verde,Feirense,213,Vilaverdense,4814,0.0,1.0,2.0,0
+2023,2024-01-15T20:45:00+00:00,Segunda Liga,Regular Season - 17,Torres Vedras,Torreense,4799,Penafiel,235,1.0,1.0,0.0,3
+2023,2024-01-15T20:45:00+00:00,Segunda Liga,Regular Season - 17,Torres Vedras,Penafiel,235,Torreense,4799,0.0,0.0,1.0,0
+2023,2024-01-14T18:00:00+00:00,Segunda Liga,Regular Season - 17,Leiria,União de Leiria,4662,Santa Clara,227,0.0,0.0,1.0,0
+2023,2024-01-14T18:00:00+00:00,Segunda Liga,Regular Season - 17,Leiria,Santa Clara,227,União de Leiria,4662,1.0,1.0,0.0,3
+2023,2024-01-14T15:30:00+00:00,Segunda Liga,Regular Season - 17,Vila Nova de Gaia,FC Porto B,243,Benfica B,229,0.0,0.0,3.0,0
+2023,2024-01-14T15:30:00+00:00,Segunda Liga,Regular Season - 17,Vila Nova de Gaia,Benfica B,229,FC Porto B,243,1.0,3.0,0.0,3
+2023,2024-01-13T14:00:00+00:00,Segunda Liga,Regular Season - 17,Lisboa,CF Os Belenenses,17692,Pacos Ferreira,234,0.0,0.0,1.0,0
+2023,2024-01-13T14:00:00+00:00,Segunda Liga,Regular Season - 17,Lisboa,Pacos Ferreira,234,CF Os Belenenses,17692,1.0,1.0,0.0,3
+2023,2024-01-15T18:45:00+00:00,Segunda Liga,Regular Season - 17,Mafra,Mafra,245,Nacional,225,,0.0,0.0,1
+2023,2024-01-15T18:45:00+00:00,Segunda Liga,Regular Season - 17,Mafra,Nacional,225,Mafra,245,,0.0,0.0,1
+2023,2024-01-14T15:30:00+00:00,Segunda Liga,Regular Season - 17,Ilha da Madeira,Maritimo,214,Academico Viseu,238,,1.0,1.0,1
+2023,2024-01-14T15:30:00+00:00,Segunda Liga,Regular Season - 17,Ilha da Madeira,Academico Viseu,238,Maritimo,214,,1.0,1.0,1
+2023,2024-01-12T18:00:00+00:00,Segunda Liga,Regular Season - 17,Matosinhos,Leixoes,244,Oliveirense,233,0.0,0.0,2.0,0
+2023,2024-01-12T18:00:00+00:00,Segunda Liga,Regular Season - 17,Matosinhos,Oliveirense,233,Leixoes,244,1.0,2.0,0.0,3
+2023,2024-01-20T15:30:00+00:00,Segunda Liga,Regular Season - 18,Santa Maria da Feira,Feirense,213,Oliveirense,233,,0.0,0.0,1
+2023,2024-01-20T15:30:00+00:00,Segunda Liga,Regular Season - 18,Santa Maria da Feira,Oliveirense,233,Feirense,213,,0.0,0.0,1
+2023,2024-01-21T14:00:00+00:00,Segunda Liga,Regular Season - 18,Matosinhos,Leixoes,244,Penafiel,235,0.0,0.0,1.0,0
+2023,2024-01-21T14:00:00+00:00,Segunda Liga,Regular Season - 18,Matosinhos,Penafiel,235,Leixoes,244,1.0,1.0,0.0,3
+2023,2024-01-19T18:00:00+00:00,Segunda Liga,Regular Season - 18,Vila Verde,Vilaverdense,4814,Academico Viseu,238,0.0,0.0,2.0,0
+2023,2024-01-19T18:00:00+00:00,Segunda Liga,Regular Season - 18,Vila Verde,Academico Viseu,238,Vilaverdense,4814,1.0,2.0,0.0,3
+2023,2024-01-21T18:00:00+00:00,Segunda Liga,Regular Season - 18,Ilha da Madeira,Maritimo,214,Nacional,225,1.0,3.0,1.0,3
+2023,2024-01-21T18:00:00+00:00,Segunda Liga,Regular Season - 18,Ilha da Madeira,Nacional,225,Maritimo,214,0.0,1.0,3.0,0
+2023,2024-01-20T11:00:00+00:00,Segunda Liga,Regular Season - 18,Mafra,Mafra,245,Benfica B,229,0.0,1.0,2.0,0
+2023,2024-01-20T11:00:00+00:00,Segunda Liga,Regular Season - 18,Mafra,Benfica B,229,Mafra,245,1.0,2.0,1.0,3
+2023,2023-12-22T18:45:00+00:00,Segunda Liga,Regular Season - 18,Leiria,União de Leiria,4662,Pacos Ferreira,234,,1.0,1.0,1
+2023,2023-12-22T18:45:00+00:00,Segunda Liga,Regular Season - 18,Leiria,Pacos Ferreira,234,União de Leiria,4662,,1.0,1.0,1
+2023,2024-01-21T11:00:00+00:00,Segunda Liga,Regular Season - 18,Tondela,Tondela,218,FC Porto B,243,,0.0,0.0,1
+2023,2024-01-21T11:00:00+00:00,Segunda Liga,Regular Season - 18,Tondela,FC Porto B,243,Tondela,218,,0.0,0.0,1
+2023,2024-01-21T15:30:00+00:00,Segunda Liga,Regular Season - 18,Torres Vedras,Torreense,4799,Santa Clara,227,0.0,1.0,2.0,0
+2023,2024-01-21T15:30:00+00:00,Segunda Liga,Regular Season - 18,Torres Vedras,Santa Clara,227,Torreense,4799,1.0,2.0,1.0,3
+2023,2024-01-20T14:00:00+00:00,Segunda Liga,Regular Season - 18,Lisboa,CF Os Belenenses,17692,AVS,21595,0.0,1.0,3.0,0
+2023,2024-01-20T14:00:00+00:00,Segunda Liga,Regular Season - 18,Lisboa,AVS,21595,CF Os Belenenses,17692,1.0,3.0,1.0,3
+2023,2024-01-28T18:00:00+00:00,Segunda Liga,Regular Season - 19,Oliveira de Azeméis,Oliveirense,233,Vilaverdense,4814,0.0,0.0,1.0,0
+2023,2024-01-28T18:00:00+00:00,Segunda Liga,Regular Season - 19,Oliveira de Azeméis,Vilaverdense,4814,Oliveirense,233,1.0,1.0,0.0,3
+2023,2024-01-28T15:30:00+00:00,Segunda Liga,Regular Season - 19,Ilha da Madeira,Nacional,225,Torreense,4799,1.0,2.0,1.0,3
+2023,2024-01-28T15:30:00+00:00,Segunda Liga,Regular Season - 19,Ilha da Madeira,Torreense,4799,Nacional,225,0.0,1.0,2.0,0
+2023,2024-01-29T16:00:00+00:00,Segunda Liga,Regular Season - 19,Seixal,Benfica B,229,União de Leiria,4662,0.0,0.0,1.0,0
+2023,2024-01-29T16:00:00+00:00,Segunda Liga,Regular Season - 19,Seixal,União de Leiria,4662,Benfica B,229,1.0,1.0,0.0,3
+2023,2024-01-28T11:00:00+00:00,Segunda Liga,Regular Season - 19,Vila das Aves,AVS,21595,Maritimo,214,1.0,3.0,2.0,3
+2023,2024-01-28T11:00:00+00:00,Segunda Liga,Regular Season - 19,Vila das Aves,Maritimo,214,AVS,21595,0.0,2.0,3.0,0
+2023,2024-01-28T13:00:00+00:00,Segunda Liga,Regular Season - 19,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Leixoes,244,1.0,2.0,0.0,3
+2023,2024-01-28T13:00:00+00:00,Segunda Liga,Regular Season - 19,"Ponta Delgada, Ilha de São Miguel, Açores",Leixoes,244,Santa Clara,227,0.0,0.0,2.0,0
+2023,2024-01-29T18:00:00+00:00,Segunda Liga,Regular Season - 19,Penafiel,Penafiel,235,Feirense,213,1.0,2.0,1.0,3
+2023,2024-01-29T18:00:00+00:00,Segunda Liga,Regular Season - 19,Penafiel,Feirense,213,Penafiel,235,0.0,1.0,2.0,0
+2023,2024-01-28T15:30:00+00:00,Segunda Liga,Regular Season - 19,Vila Nova de Gaia,FC Porto B,243,CF Os Belenenses,17692,1.0,3.0,0.0,3
+2023,2024-01-28T15:30:00+00:00,Segunda Liga,Regular Season - 19,Vila Nova de Gaia,CF Os Belenenses,17692,FC Porto B,243,0.0,0.0,3.0,0
+2023,2024-01-30T20:15:00+00:00,Segunda Liga,Regular Season - 19,Viseu,Academico Viseu,238,Tondela,218,,1.0,1.0,1
+2023,2024-01-30T20:15:00+00:00,Segunda Liga,Regular Season - 19,Viseu,Tondela,218,Academico Viseu,238,,1.0,1.0,1
+2023,2024-01-28T12:45:00+00:00,Segunda Liga,Regular Season - 19,Paços de Ferreira,Pacos Ferreira,234,Mafra,245,0.0,0.0,1.0,0
+2023,2024-01-28T12:45:00+00:00,Segunda Liga,Regular Season - 19,Paços de Ferreira,Mafra,245,Pacos Ferreira,234,1.0,1.0,0.0,3
+2023,2024-02-21T18:00:00+00:00,Segunda Liga,Regular Season - 20,Santa Maria da Feira,Feirense,213,Academico Viseu,238,0.0,0.0,3.0,0
+2023,2024-02-21T18:00:00+00:00,Segunda Liga,Regular Season - 20,Santa Maria da Feira,Academico Viseu,238,Feirense,213,1.0,3.0,0.0,3
+2023,2024-02-28T20:15:00+00:00,Segunda Liga,Regular Season - 20,Matosinhos,Leixoes,244,Nacional,225,,1.0,1.0,1
+2023,2024-02-28T20:15:00+00:00,Segunda Liga,Regular Season - 20,Matosinhos,Nacional,225,Leixoes,244,,1.0,1.0,1
+2023,2024-02-03T11:00:00+00:00,Segunda Liga,Regular Season - 20,Leiria,União de Leiria,4662,FC Porto B,243,,1.0,1.0,1
+2023,2024-02-03T11:00:00+00:00,Segunda Liga,Regular Season - 20,Leiria,FC Porto B,243,União de Leiria,4662,,1.0,1.0,1
+2023,2024-02-02T20:45:00+00:00,Segunda Liga,Regular Season - 20,Mafra,Mafra,245,CF Os Belenenses,17692,,1.0,1.0,1
+2023,2024-02-02T20:45:00+00:00,Segunda Liga,Regular Season - 20,Mafra,CF Os Belenenses,17692,Mafra,245,,1.0,1.0,1
+2023,2024-02-04T14:00:00+00:00,Segunda Liga,Regular Season - 20,Ilha da Madeira,Maritimo,214,Benfica B,229,1.0,3.0,1.0,3
+2023,2024-02-04T14:00:00+00:00,Segunda Liga,Regular Season - 20,Ilha da Madeira,Benfica B,229,Maritimo,214,0.0,1.0,3.0,0
+2023,2024-02-05T18:00:00+00:00,Segunda Liga,Regular Season - 20,Tondela,Tondela,218,Pacos Ferreira,234,,1.0,1.0,1
+2023,2024-02-05T18:00:00+00:00,Segunda Liga,Regular Season - 20,Tondela,Pacos Ferreira,234,Tondela,218,,1.0,1.0,1
+2023,2024-02-03T14:00:00+00:00,Segunda Liga,Regular Season - 20,Torres Vedras,Torreense,4799,AVS,21595,1.0,2.0,1.0,3
+2023,2024-02-03T14:00:00+00:00,Segunda Liga,Regular Season - 20,Torres Vedras,AVS,21595,Torreense,4799,0.0,1.0,2.0,0
+2023,2024-02-02T18:45:00+00:00,Segunda Liga,Regular Season - 20,Coimbra,Vilaverdense,4814,Santa Clara,227,,1.0,1.0,1
+2023,2024-02-02T18:45:00+00:00,Segunda Liga,Regular Season - 20,Coimbra,Santa Clara,227,Vilaverdense,4814,,1.0,1.0,1
+2023,2024-02-03T15:30:00+00:00,Segunda Liga,Regular Season - 20,Penafiel,Penafiel,235,Oliveirense,233,,1.0,1.0,1
+2023,2024-02-03T15:30:00+00:00,Segunda Liga,Regular Season - 20,Penafiel,Oliveirense,233,Penafiel,235,,1.0,1.0,1
+2023,2024-02-09T18:00:00+00:00,Segunda Liga,Regular Season - 21,Oliveira de Azeméis,Oliveirense,233,Torreense,4799,0.0,1.0,2.0,0
+2023,2024-02-09T18:00:00+00:00,Segunda Liga,Regular Season - 21,Oliveira de Azeméis,Torreense,4799,Oliveirense,233,1.0,2.0,1.0,3
+2023,2024-02-10T14:00:00+00:00,Segunda Liga,Regular Season - 21,Ilha da Madeira,Nacional,225,Vilaverdense,4814,1.0,3.0,2.0,3
+2023,2024-02-10T14:00:00+00:00,Segunda Liga,Regular Season - 21,Ilha da Madeira,Vilaverdense,4814,Nacional,225,0.0,2.0,3.0,0
+2023,2024-02-10T15:30:00+00:00,Segunda Liga,Regular Season - 21,Seixal,Benfica B,229,Leixoes,244,,1.0,1.0,1
+2023,2024-02-10T15:30:00+00:00,Segunda Liga,Regular Season - 21,Seixal,Leixoes,244,Benfica B,229,,1.0,1.0,1
+2023,2024-02-11T11:00:00+00:00,Segunda Liga,Regular Season - 21,Vila das Aves,AVS,21595,União de Leiria,4662,1.0,2.0,1.0,3
+2023,2024-02-11T11:00:00+00:00,Segunda Liga,Regular Season - 21,Vila das Aves,União de Leiria,4662,AVS,21595,0.0,1.0,2.0,0
+2023,2024-02-11T15:30:00+00:00,Segunda Liga,Regular Season - 21,Lisboa,CF Os Belenenses,17692,Tondela,218,,0.0,0.0,1
+2023,2024-02-11T15:30:00+00:00,Segunda Liga,Regular Season - 21,Lisboa,Tondela,218,CF Os Belenenses,17692,,0.0,0.0,1
+2023,2024-02-12T18:00:00+00:00,Segunda Liga,Regular Season - 21,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Feirense,213,1.0,2.0,1.0,3
+2023,2024-02-12T18:00:00+00:00,Segunda Liga,Regular Season - 21,"Ponta Delgada, Ilha de São Miguel, Açores",Feirense,213,Santa Clara,227,0.0,1.0,2.0,0
+2023,2024-02-10T11:00:00+00:00,Segunda Liga,Regular Season - 21,Viseu,Academico Viseu,238,Penafiel,235,1.0,1.0,0.0,3
+2023,2024-02-10T11:00:00+00:00,Segunda Liga,Regular Season - 21,Viseu,Penafiel,235,Academico Viseu,238,0.0,0.0,1.0,0
+2023,2024-02-11T15:30:00+00:00,Segunda Liga,Regular Season - 21,Vila Nova de Gaia,FC Porto B,243,Mafra,245,,1.0,1.0,1
+2023,2024-02-11T15:30:00+00:00,Segunda Liga,Regular Season - 21,Vila Nova de Gaia,Mafra,245,FC Porto B,243,,1.0,1.0,1
+2023,2024-02-11T14:00:00+00:00,Segunda Liga,Regular Season - 21,Paços de Ferreira,Pacos Ferreira,234,Maritimo,214,0.0,1.0,2.0,0
+2023,2024-02-11T14:00:00+00:00,Segunda Liga,Regular Season - 21,Paços de Ferreira,Maritimo,214,Pacos Ferreira,234,1.0,2.0,1.0,3
+2023,2024-02-17T11:00:00+00:00,Segunda Liga,Regular Season - 22,Mafra,Mafra,245,Tondela,218,0.0,1.0,3.0,0
+2023,2024-02-17T11:00:00+00:00,Segunda Liga,Regular Season - 22,Mafra,Tondela,218,Mafra,245,1.0,3.0,1.0,3
+2023,2024-02-18T15:30:00+00:00,Segunda Liga,Regular Season - 22,Santa Maria da Feira,Feirense,213,Nacional,225,1.0,2.0,1.0,3
+2023,2024-02-18T15:30:00+00:00,Segunda Liga,Regular Season - 22,Santa Maria da Feira,Nacional,225,Feirense,213,0.0,1.0,2.0,0
+2023,2024-02-17T18:00:00+00:00,Segunda Liga,Regular Season - 22,Leiria,União de Leiria,4662,CF Os Belenenses,17692,1.0,4.0,2.0,3
+2023,2024-02-17T18:00:00+00:00,Segunda Liga,Regular Season - 22,Leiria,CF Os Belenenses,17692,União de Leiria,4662,0.0,2.0,4.0,0
+2023,2024-02-17T15:30:00+00:00,Segunda Liga,Regular Season - 22,Ilha da Madeira,Maritimo,214,FC Porto B,243,1.0,1.0,0.0,3
+2023,2024-02-17T15:30:00+00:00,Segunda Liga,Regular Season - 22,Ilha da Madeira,FC Porto B,243,Maritimo,214,0.0,0.0,1.0,0
+2023,2024-02-17T14:00:00+00:00,Segunda Liga,Regular Season - 22,Torres Vedras,Torreense,4799,Benfica B,229,1.0,3.0,1.0,3
+2023,2024-02-17T14:00:00+00:00,Segunda Liga,Regular Season - 22,Torres Vedras,Benfica B,229,Torreense,4799,0.0,1.0,3.0,0
+2023,2024-02-16T18:00:00+00:00,Segunda Liga,Regular Season - 22,Matosinhos,Leixoes,244,Pacos Ferreira,234,,1.0,1.0,1
+2023,2024-02-16T18:00:00+00:00,Segunda Liga,Regular Season - 22,Matosinhos,Pacos Ferreira,234,Leixoes,244,,1.0,1.0,1
+2023,2024-02-19T18:00:00+00:00,Segunda Liga,Regular Season - 22,Coimbra,Vilaverdense,4814,AVS,21595,0.0,2.0,3.0,0
+2023,2024-02-19T18:00:00+00:00,Segunda Liga,Regular Season - 22,Coimbra,AVS,21595,Vilaverdense,4814,1.0,3.0,2.0,3
+2023,2024-02-18T14:00:00+00:00,Segunda Liga,Regular Season - 22,Penafiel,Penafiel,235,Santa Clara,227,0.0,1.0,2.0,0
+2023,2024-02-18T14:00:00+00:00,Segunda Liga,Regular Season - 22,Penafiel,Santa Clara,227,Penafiel,235,1.0,2.0,1.0,3
+2023,2024-02-18T11:00:00+00:00,Segunda Liga,Regular Season - 22,Viseu,Academico Viseu,238,Oliveirense,233,,2.0,2.0,1
+2023,2024-02-18T11:00:00+00:00,Segunda Liga,Regular Season - 22,Viseu,Oliveirense,233,Academico Viseu,238,,2.0,2.0,1
+2023,2024-02-27T20:15:00+00:00,Segunda Liga,Regular Season - 23,Vila das Aves,AVS,21595,Academico Viseu,238,1.0,2.0,0.0,3
+2023,2024-02-27T20:15:00+00:00,Segunda Liga,Regular Season - 23,Vila das Aves,Academico Viseu,238,AVS,21595,0.0,0.0,2.0,0
+2023,2024-02-24T15:30:00+00:00,Segunda Liga,Regular Season - 23,Ilha da Madeira,Nacional,225,Penafiel,235,1.0,3.0,2.0,3
+2023,2024-02-24T15:30:00+00:00,Segunda Liga,Regular Season - 23,Ilha da Madeira,Penafiel,235,Nacional,225,0.0,2.0,3.0,0
+2023,2024-02-24T18:00:00+00:00,Segunda Liga,Regular Season - 23,Seixal,Benfica B,229,Vilaverdense,4814,1.0,2.0,0.0,3
+2023,2024-02-24T18:00:00+00:00,Segunda Liga,Regular Season - 23,Seixal,Vilaverdense,4814,Benfica B,229,0.0,0.0,2.0,0
+2023,2024-02-25T11:00:00+00:00,Segunda Liga,Regular Season - 23,Mafra,Mafra,245,Maritimo,214,,0.0,0.0,1
+2023,2024-02-25T11:00:00+00:00,Segunda Liga,Regular Season - 23,Mafra,Maritimo,214,Mafra,245,,0.0,0.0,1
+2023,2024-02-25T14:00:00+00:00,Segunda Liga,Regular Season - 23,Lisboa,CF Os Belenenses,17692,Torreense,4799,0.0,0.0,2.0,0
+2023,2024-02-25T14:00:00+00:00,Segunda Liga,Regular Season - 23,Lisboa,Torreense,4799,CF Os Belenenses,17692,1.0,2.0,0.0,3
+2023,2024-02-24T14:00:00+00:00,Segunda Liga,Regular Season - 23,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Oliveirense,233,1.0,3.0,0.0,3
+2023,2024-02-24T14:00:00+00:00,Segunda Liga,Regular Season - 23,"Ponta Delgada, Ilha de São Miguel, Açores",Oliveirense,233,Santa Clara,227,0.0,0.0,3.0,0
+2023,2024-02-24T15:30:00+00:00,Segunda Liga,Regular Season - 23,Vila Nova de Gaia,FC Porto B,243,Leixoes,244,0.0,0.0,2.0,0
+2023,2024-02-24T15:30:00+00:00,Segunda Liga,Regular Season - 23,Vila Nova de Gaia,Leixoes,244,FC Porto B,243,1.0,2.0,0.0,3
+2023,2024-02-26T18:00:00+00:00,Segunda Liga,Regular Season - 23,Paços de Ferreira,Pacos Ferreira,234,Feirense,213,1.0,1.0,0.0,3
+2023,2024-02-26T18:00:00+00:00,Segunda Liga,Regular Season - 23,Paços de Ferreira,Feirense,213,Pacos Ferreira,234,0.0,0.0,1.0,0
+2023,2024-02-24T11:00:00+00:00,Segunda Liga,Regular Season - 23,Tondela,Tondela,218,União de Leiria,4662,,1.0,1.0,1
+2023,2024-02-24T11:00:00+00:00,Segunda Liga,Regular Season - 23,Tondela,União de Leiria,4662,Tondela,218,,1.0,1.0,1
+2023,2024-03-02T14:00:00+00:00,Segunda Liga,Regular Season - 24,Santa Maria da Feira,Feirense,213,Benfica B,229,0.0,1.0,2.0,0
+2023,2024-03-02T14:00:00+00:00,Segunda Liga,Regular Season - 24,Santa Maria da Feira,Benfica B,229,Feirense,213,1.0,2.0,1.0,3
+2023,2024-03-05T18:00:00+00:00,Segunda Liga,Regular Season - 24,Ilha da Madeira,Maritimo,214,CF Os Belenenses,17692,,1.0,1.0,1
+2023,2024-03-05T18:00:00+00:00,Segunda Liga,Regular Season - 24,Ilha da Madeira,CF Os Belenenses,17692,Maritimo,214,,1.0,1.0,1
+2023,2024-03-03T15:30:00+00:00,Segunda Liga,Regular Season - 24,Matosinhos,Leixoes,244,Tondela,218,,1.0,1.0,1
+2023,2024-03-03T15:30:00+00:00,Segunda Liga,Regular Season - 24,Matosinhos,Tondela,218,Leixoes,244,,1.0,1.0,1
+2023,2024-03-03T11:00:00+00:00,Segunda Liga,Regular Season - 24,Oliveira de Azeméis,Oliveirense,233,Nacional,225,0.0,0.0,1.0,0
+2023,2024-03-03T11:00:00+00:00,Segunda Liga,Regular Season - 24,Oliveira de Azeméis,Nacional,225,Oliveirense,233,1.0,1.0,0.0,3
+2023,2024-03-02T11:00:00+00:00,Segunda Liga,Regular Season - 24,Leiria,União de Leiria,4662,Mafra,245,0.0,2.0,3.0,0
+2023,2024-03-02T11:00:00+00:00,Segunda Liga,Regular Season - 24,Leiria,Mafra,245,União de Leiria,4662,1.0,3.0,2.0,3
+2023,2024-03-03T14:00:00+00:00,Segunda Liga,Regular Season - 24,Penafiel,Penafiel,235,AVS,21595,0.0,0.0,1.0,0
+2023,2024-03-03T14:00:00+00:00,Segunda Liga,Regular Season - 24,Penafiel,AVS,21595,Penafiel,235,1.0,1.0,0.0,3
+2023,2024-03-04T18:00:00+00:00,Segunda Liga,Regular Season - 24,Viseu,Academico Viseu,238,Santa Clara,227,,1.0,1.0,1
+2023,2024-03-04T18:00:00+00:00,Segunda Liga,Regular Season - 24,Viseu,Santa Clara,227,Academico Viseu,238,,1.0,1.0,1
+2023,2024-03-04T20:15:00+00:00,Segunda Liga,Regular Season - 24,Coimbra,Vilaverdense,4814,Pacos Ferreira,234,0.0,0.0,1.0,0
+2023,2024-03-04T20:15:00+00:00,Segunda Liga,Regular Season - 24,Coimbra,Pacos Ferreira,234,Vilaverdense,4814,1.0,1.0,0.0,3
+2023,2024-03-03T12:45:00+00:00,Segunda Liga,Regular Season - 24,Torres Vedras,Torreense,4799,FC Porto B,243,0.0,0.0,1.0,0
+2023,2024-03-03T12:45:00+00:00,Segunda Liga,Regular Season - 24,Torres Vedras,FC Porto B,243,Torreense,4799,1.0,1.0,0.0,3
+2023,2024-03-11T20:15:00+00:00,Segunda Liga,Regular Season - 25,Vila das Aves,AVS,21595,Feirense,213,1.0,1.0,0.0,3
+2023,2024-03-11T20:15:00+00:00,Segunda Liga,Regular Season - 25,Vila das Aves,Feirense,213,AVS,21595,0.0,0.0,1.0,0
+2023,2024-03-09T14:00:00+00:00,Segunda Liga,Regular Season - 25,Ilha da Madeira,Nacional,225,Academico Viseu,238,,1.0,1.0,1
+2023,2024-03-09T14:00:00+00:00,Segunda Liga,Regular Season - 25,Ilha da Madeira,Academico Viseu,238,Nacional,225,,1.0,1.0,1
+2023,2024-03-09T15:30:00+00:00,Segunda Liga,Regular Season - 25,Seixal,Benfica B,229,Santa Clara,227,0.0,0.0,1.0,0
+2023,2024-03-09T15:30:00+00:00,Segunda Liga,Regular Season - 25,Seixal,Santa Clara,227,Benfica B,229,1.0,1.0,0.0,3
+2023,2024-03-08T20:45:00+00:00,Segunda Liga,Regular Season - 25,Leiria,União de Leiria,4662,Oliveirense,233,1.0,1.0,0.0,3
+2023,2024-03-08T20:45:00+00:00,Segunda Liga,Regular Season - 25,Leiria,Oliveirense,233,União de Leiria,4662,0.0,0.0,1.0,0
+2023,2024-03-09T11:00:00+00:00,Segunda Liga,Regular Season - 25,Mafra,Mafra,245,Penafiel,235,0.0,0.0,1.0,0
+2023,2024-03-09T11:00:00+00:00,Segunda Liga,Regular Season - 25,Mafra,Penafiel,235,Mafra,245,1.0,1.0,0.0,3
+2023,2024-03-09T15:30:00+00:00,Segunda Liga,Regular Season - 25,Vila Nova de Gaia,FC Porto B,243,Vilaverdense,4814,1.0,2.0,1.0,3
+2023,2024-03-09T15:30:00+00:00,Segunda Liga,Regular Season - 25,Vila Nova de Gaia,Vilaverdense,4814,FC Porto B,243,0.0,1.0,2.0,0
+2023,2024-03-11T18:00:00+00:00,Segunda Liga,Regular Season - 25,Lisboa,CF Os Belenenses,17692,Leixoes,244,0.0,1.0,2.0,0
+2023,2024-03-11T18:00:00+00:00,Segunda Liga,Regular Season - 25,Lisboa,Leixoes,244,CF Os Belenenses,17692,1.0,2.0,1.0,3
+2023,2024-03-10T11:00:00+00:00,Segunda Liga,Regular Season - 25,Tondela,Tondela,218,Maritimo,214,0.0,0.0,3.0,0
+2023,2024-03-10T11:00:00+00:00,Segunda Liga,Regular Season - 25,Tondela,Maritimo,214,Tondela,218,1.0,3.0,0.0,3
+2023,2024-03-09T15:30:00+00:00,Segunda Liga,Regular Season - 25,Paços de Ferreira,Pacos Ferreira,234,Torreense,4799,1.0,2.0,0.0,3
+2023,2024-03-09T15:30:00+00:00,Segunda Liga,Regular Season - 25,Paços de Ferreira,Torreense,4799,Pacos Ferreira,234,0.0,0.0,2.0,0
+2023,2024-03-17T14:00:00+00:00,Segunda Liga,Regular Season - 26,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Nacional,225,0.0,0.0,1.0,0
+2023,2024-03-17T14:00:00+00:00,Segunda Liga,Regular Season - 26,"Ponta Delgada, Ilha de São Miguel, Açores",Nacional,225,Santa Clara,227,1.0,1.0,0.0,3
+2023,2024-03-18T20:15:00+00:00,Segunda Liga,Regular Season - 26,Coimbra,Vilaverdense,4814,CF Os Belenenses,17692,,1.0,1.0,1
+2023,2024-03-18T20:15:00+00:00,Segunda Liga,Regular Season - 26,Coimbra,CF Os Belenenses,17692,Vilaverdense,4814,,1.0,1.0,1
+2023,2024-03-17T11:00:00+00:00,Segunda Liga,Regular Season - 26,Santa Maria da Feira,Feirense,213,FC Porto B,243,,1.0,1.0,1
+2023,2024-03-17T11:00:00+00:00,Segunda Liga,Regular Season - 26,Santa Maria da Feira,FC Porto B,243,Feirense,213,,1.0,1.0,1
+2023,2024-03-17T15:30:00+00:00,Segunda Liga,Regular Season - 26,Matosinhos,Leixoes,244,Mafra,245,,1.0,1.0,1
+2023,2024-03-17T15:30:00+00:00,Segunda Liga,Regular Season - 26,Matosinhos,Mafra,245,Leixoes,244,,1.0,1.0,1
+2023,2024-03-15T18:00:00+00:00,Segunda Liga,Regular Season - 26,Torres Vedras,Torreense,4799,Tondela,218,0.0,0.0,1.0,0
+2023,2024-03-15T18:00:00+00:00,Segunda Liga,Regular Season - 26,Torres Vedras,Tondela,218,Torreense,4799,1.0,1.0,0.0,3
+2023,2024-03-16T15:30:00+00:00,Segunda Liga,Regular Season - 26,Ilha da Madeira,Maritimo,214,União de Leiria,4662,1.0,2.0,0.0,3
+2023,2024-03-16T15:30:00+00:00,Segunda Liga,Regular Season - 26,Ilha da Madeira,União de Leiria,4662,Maritimo,214,0.0,0.0,2.0,0
+2023,2024-03-16T11:00:00+00:00,Segunda Liga,Regular Season - 26,Oliveira de Azeméis,Oliveirense,233,AVS,21595,,1.0,1.0,1
+2023,2024-03-16T11:00:00+00:00,Segunda Liga,Regular Season - 26,Oliveira de Azeméis,AVS,21595,Oliveirense,233,,1.0,1.0,1
+2023,2024-03-16T15:30:00+00:00,Segunda Liga,Regular Season - 26,Viseu,Academico Viseu,238,Pacos Ferreira,234,,1.0,1.0,1
+2023,2024-03-16T15:30:00+00:00,Segunda Liga,Regular Season - 26,Viseu,Pacos Ferreira,234,Academico Viseu,238,,1.0,1.0,1
+2023,2024-03-16T14:00:00+00:00,Segunda Liga,Regular Season - 26,Penafiel,Penafiel,235,Benfica B,229,0.0,0.0,1.0,0
+2023,2024-03-16T14:00:00+00:00,Segunda Liga,Regular Season - 26,Penafiel,Benfica B,229,Penafiel,235,1.0,1.0,0.0,3
+2023,2024-03-29T15:30:00+00:00,Segunda Liga,Regular Season - 27,Tondela,Tondela,218,Vilaverdense,4814,1.0,1.0,0.0,3
+2023,2024-03-29T15:30:00+00:00,Segunda Liga,Regular Season - 27,Tondela,Vilaverdense,4814,Tondela,218,0.0,0.0,1.0,0
+2023,2024-04-01T17:00:00+00:00,Segunda Liga,Regular Season - 27,Seixal,Benfica B,229,Academico Viseu,238,,1.0,1.0,1
+2023,2024-04-01T17:00:00+00:00,Segunda Liga,Regular Season - 27,Seixal,Academico Viseu,238,Benfica B,229,,1.0,1.0,1
+2023,2024-03-30T11:00:00+00:00,Segunda Liga,Regular Season - 27,Leiria,União de Leiria,4662,Nacional,225,,1.0,1.0,1
+2023,2024-03-30T11:00:00+00:00,Segunda Liga,Regular Season - 27,Leiria,Nacional,225,União de Leiria,4662,,1.0,1.0,1
+2023,2024-03-30T15:30:00+00:00,Segunda Liga,Regular Season - 27,Vila das Aves,AVS,21595,Santa Clara,227,0.0,1.0,2.0,0
+2023,2024-03-30T15:30:00+00:00,Segunda Liga,Regular Season - 27,Vila das Aves,Santa Clara,227,AVS,21595,1.0,2.0,1.0,3
+2023,2024-04-01T17:00:00+00:00,Segunda Liga,Regular Season - 27,Mafra,Mafra,245,Torreense,4799,1.0,2.0,1.0,3
+2023,2024-04-01T17:00:00+00:00,Segunda Liga,Regular Season - 27,Mafra,Torreense,4799,Mafra,245,0.0,1.0,2.0,0
+2023,2024-03-29T11:00:00+00:00,Segunda Liga,Regular Season - 27,Lisboa,CF Os Belenenses,17692,Feirense,213,1.0,3.0,1.0,3
+2023,2024-03-29T11:00:00+00:00,Segunda Liga,Regular Season - 27,Lisboa,Feirense,213,CF Os Belenenses,17692,0.0,1.0,3.0,0
+2023,2024-03-30T14:00:00+00:00,Segunda Liga,Regular Season - 27,Ilha da Madeira,Maritimo,214,Leixoes,244,,0.0,0.0,1
+2023,2024-03-30T14:00:00+00:00,Segunda Liga,Regular Season - 27,Ilha da Madeira,Leixoes,244,Maritimo,214,,0.0,0.0,1
+2023,2024-03-30T15:30:00+00:00,Segunda Liga,Regular Season - 27,Vila Nova de Gaia,FC Porto B,243,Penafiel,235,1.0,3.0,1.0,3
+2023,2024-03-30T15:30:00+00:00,Segunda Liga,Regular Season - 27,Vila Nova de Gaia,Penafiel,235,FC Porto B,243,0.0,1.0,3.0,0
+2023,2024-03-29T14:00:00+00:00,Segunda Liga,Regular Season - 27,Paços de Ferreira,Pacos Ferreira,234,Oliveirense,233,1.0,2.0,0.0,3
+2023,2024-03-29T14:00:00+00:00,Segunda Liga,Regular Season - 27,Paços de Ferreira,Oliveirense,233,Pacos Ferreira,234,0.0,0.0,2.0,0
+2023,2024-04-06T10:00:00+00:00,Segunda Liga,Regular Season - 28,Penafiel,Penafiel,235,CF Os Belenenses,17692,1.0,3.0,0.0,3
+2023,2024-04-06T10:00:00+00:00,Segunda Liga,Regular Season - 28,Penafiel,CF Os Belenenses,17692,Penafiel,235,0.0,0.0,3.0,0
+2023,2024-04-07T13:00:00+00:00,Segunda Liga,Regular Season - 28,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Pacos Ferreira,234,0.0,0.0,1.0,0
+2023,2024-04-07T13:00:00+00:00,Segunda Liga,Regular Season - 28,"Ponta Delgada, Ilha de São Miguel, Açores",Pacos Ferreira,234,Santa Clara,227,1.0,1.0,0.0,3
+2023,2024-04-06T14:30:00+00:00,Segunda Liga,Regular Season - 28,Santa Maria da Feira,Feirense,213,Tondela,218,0.0,1.0,3.0,0
+2023,2024-04-06T14:30:00+00:00,Segunda Liga,Regular Season - 28,Santa Maria da Feira,Tondela,218,Feirense,213,1.0,3.0,1.0,3
+2023,2024-04-06T13:00:00+00:00,Segunda Liga,Regular Season - 28,Matosinhos,Leixoes,244,União de Leiria,4662,,0.0,0.0,1
+2023,2024-04-06T13:00:00+00:00,Segunda Liga,Regular Season - 28,Matosinhos,União de Leiria,4662,Leixoes,244,,0.0,0.0,1
+2023,2024-04-07T17:00:00+00:00,Segunda Liga,Regular Season - 28,Oliveira de Azeméis,Oliveirense,233,Benfica B,229,1.0,3.0,1.0,3
+2023,2024-04-07T17:00:00+00:00,Segunda Liga,Regular Season - 28,Oliveira de Azeméis,Benfica B,229,Oliveirense,233,0.0,1.0,3.0,0
+2023,2024-04-07T14:30:00+00:00,Segunda Liga,Regular Season - 28,Torres Vedras,Torreense,4799,Maritimo,214,,0.0,0.0,1
+2023,2024-04-07T14:30:00+00:00,Segunda Liga,Regular Season - 28,Torres Vedras,Maritimo,214,Torreense,4799,,0.0,0.0,1
+2023,2024-04-07T10:00:00+00:00,Segunda Liga,Regular Season - 28,Coimbra,Vilaverdense,4814,Mafra,245,1.0,2.0,1.0,3
+2023,2024-04-07T10:00:00+00:00,Segunda Liga,Regular Season - 28,Coimbra,Mafra,245,Vilaverdense,4814,0.0,1.0,2.0,0
+2023,2024-04-08T17:00:00+00:00,Segunda Liga,Regular Season - 28,Viseu,Academico Viseu,238,FC Porto B,243,0.0,0.0,2.0,0
+2023,2024-04-08T17:00:00+00:00,Segunda Liga,Regular Season - 28,Viseu,FC Porto B,243,Academico Viseu,238,1.0,2.0,0.0,3
+2023,2024-04-06T14:30:00+00:00,Segunda Liga,Regular Season - 28,Ilha da Madeira,Nacional,225,AVS,21595,1.0,2.0,1.0,3
+2023,2024-04-06T14:30:00+00:00,Segunda Liga,Regular Season - 28,Ilha da Madeira,AVS,21595,Nacional,225,0.0,1.0,2.0,0
+2023,2024-04-14T14:30:00+00:00,Segunda Liga,Regular Season - 29,Matosinhos,Leixoes,244,Torreense,4799,,1.0,1.0,1
+2023,2024-04-14T14:30:00+00:00,Segunda Liga,Regular Season - 29,Matosinhos,Torreense,4799,Leixoes,244,,1.0,1.0,1
+2023,2024-04-13T13:00:00+00:00,Segunda Liga,Regular Season - 29,Leiria,União de Leiria,4662,Vilaverdense,4814,1.0,3.0,1.0,3
+2023,2024-04-13T13:00:00+00:00,Segunda Liga,Regular Season - 29,Leiria,Vilaverdense,4814,União de Leiria,4662,0.0,1.0,3.0,0
+2023,2024-04-13T10:00:00+00:00,Segunda Liga,Regular Season - 29,Lisboa,CF Os Belenenses,17692,Academico Viseu,238,1.0,1.0,0.0,3
+2023,2024-04-13T10:00:00+00:00,Segunda Liga,Regular Season - 29,Lisboa,Academico Viseu,238,CF Os Belenenses,17692,0.0,0.0,1.0,0
+2023,2024-04-14T10:00:00+00:00,Segunda Liga,Regular Season - 29,Paços de Ferreira,Pacos Ferreira,234,Nacional,225,,1.0,1.0,1
+2023,2024-04-14T10:00:00+00:00,Segunda Liga,Regular Season - 29,Paços de Ferreira,Nacional,225,Pacos Ferreira,234,,1.0,1.0,1
+2023,2024-04-13T14:30:00+00:00,Segunda Liga,Regular Season - 29,Tondela,Tondela,218,Penafiel,235,0.0,0.0,1.0,0
+2023,2024-04-13T14:30:00+00:00,Segunda Liga,Regular Season - 29,Tondela,Penafiel,235,Tondela,218,1.0,1.0,0.0,3
+2023,2024-04-14T19:30:00+00:00,Segunda Liga,Regular Season - 29,Ilha da Madeira,Maritimo,214,Santa Clara,227,,0.0,0.0,1
+2023,2024-04-14T19:30:00+00:00,Segunda Liga,Regular Season - 29,Ilha da Madeira,Santa Clara,227,Maritimo,214,,0.0,0.0,1
+2023,2024-04-14T13:00:00+00:00,Segunda Liga,Regular Season - 29,Mafra,Mafra,245,Feirense,213,,0.0,0.0,1
+2023,2024-04-14T13:00:00+00:00,Segunda Liga,Regular Season - 29,Mafra,Feirense,213,Mafra,245,,0.0,0.0,1
+2023,2024-04-13T14:30:00+00:00,Segunda Liga,Regular Season - 29,Seixal,Benfica B,229,AVS,21595,0.0,0.0,1.0,0
+2023,2024-04-13T14:30:00+00:00,Segunda Liga,Regular Season - 29,Seixal,AVS,21595,Benfica B,229,1.0,1.0,0.0,3
+2023,2024-04-14T14:30:00+00:00,Segunda Liga,Regular Season - 29,Vila Nova de Gaia,FC Porto B,243,Oliveirense,233,0.0,0.0,1.0,0
+2023,2024-04-14T14:30:00+00:00,Segunda Liga,Regular Season - 29,Vila Nova de Gaia,Oliveirense,233,FC Porto B,243,1.0,1.0,0.0,3
+2023,2024-04-20T14:30:00+00:00,Segunda Liga,Regular Season - 30,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,Tondela,218,1.0,1.0,0.0,3
+2023,2024-04-20T14:30:00+00:00,Segunda Liga,Regular Season - 30,"Ponta Delgada, Ilha de São Miguel, Açores",Tondela,218,Santa Clara,227,0.0,0.0,1.0,0
+2023,2024-04-19T17:00:00+00:00,Segunda Liga,Regular Season - 30,Santa Maria da Feira,Feirense,213,Leixoes,244,,1.0,1.0,1
+2023,2024-04-19T17:00:00+00:00,Segunda Liga,Regular Season - 30,Santa Maria da Feira,Leixoes,244,Feirense,213,,1.0,1.0,1
+2023,2024-04-21T10:00:00+00:00,Segunda Liga,Regular Season - 30,Oliveira de Azeméis,Oliveirense,233,CF Os Belenenses,17692,0.0,1.0,2.0,0
+2023,2024-04-21T10:00:00+00:00,Segunda Liga,Regular Season - 30,Oliveira de Azeméis,CF Os Belenenses,17692,Oliveirense,233,1.0,2.0,1.0,3
+2023,2024-04-20T13:00:00+00:00,Segunda Liga,Regular Season - 30,Torres Vedras,Torreense,4799,União de Leiria,4662,0.0,0.0,3.0,0
+2023,2024-04-20T13:00:00+00:00,Segunda Liga,Regular Season - 30,Torres Vedras,União de Leiria,4662,Torreense,4799,1.0,3.0,0.0,3
+2023,2024-04-24T19:15:00+00:00,Segunda Liga,Regular Season - 30,Vila das Aves,AVS,21595,FC Porto B,243,0.0,0.0,2.0,0
+2023,2024-04-24T19:15:00+00:00,Segunda Liga,Regular Season - 30,Vila das Aves,FC Porto B,243,AVS,21595,1.0,2.0,0.0,3
+2023,2024-04-22T17:00:00+00:00,Segunda Liga,Regular Season - 30,Ilha da Madeira,Nacional,225,Benfica B,229,1.0,3.0,1.0,3
+2023,2024-04-22T17:00:00+00:00,Segunda Liga,Regular Season - 30,Ilha da Madeira,Benfica B,229,Nacional,225,0.0,1.0,3.0,0
+2023,2024-04-20T10:00:00+00:00,Segunda Liga,Regular Season - 30,Penafiel,Penafiel,235,Pacos Ferreira,234,,1.0,1.0,1
+2023,2024-04-20T10:00:00+00:00,Segunda Liga,Regular Season - 30,Penafiel,Pacos Ferreira,234,Penafiel,235,,1.0,1.0,1
+2023,2024-04-21T14:30:00+00:00,Segunda Liga,Regular Season - 30,Coimbra,Vilaverdense,4814,Maritimo,214,0.0,0.0,2.0,0
+2023,2024-04-21T14:30:00+00:00,Segunda Liga,Regular Season - 30,Coimbra,Maritimo,214,Vilaverdense,4814,1.0,2.0,0.0,3
+2023,2024-04-21T13:00:00+00:00,Segunda Liga,Regular Season - 30,Viseu,Academico Viseu,238,Mafra,245,0.0,0.0,1.0,0
+2023,2024-04-21T13:00:00+00:00,Segunda Liga,Regular Season - 30,Viseu,Mafra,245,Academico Viseu,238,1.0,1.0,0.0,3
+2023,2024-04-28T10:00:00+00:00,Segunda Liga,Regular Season - 31,Torres Vedras,Torreense,4799,Academico Viseu,238,0.0,1.0,2.0,0
+2023,2024-04-28T10:00:00+00:00,Segunda Liga,Regular Season - 31,Torres Vedras,Academico Viseu,238,Torreense,4799,1.0,2.0,1.0,3
+2023,2024-04-27T14:30:00+00:00,Segunda Liga,Regular Season - 31,Matosinhos,Leixoes,244,Vilaverdense,4814,0.0,1.0,3.0,0
+2023,2024-04-27T14:30:00+00:00,Segunda Liga,Regular Season - 31,Matosinhos,Vilaverdense,4814,Leixoes,244,1.0,3.0,1.0,3
+2023,2024-04-25T17:00:00+00:00,Segunda Liga,Regular Season - 31,Leiria,União de Leiria,4662,Penafiel,235,0.0,0.0,2.0,0
+2023,2024-04-25T17:00:00+00:00,Segunda Liga,Regular Season - 31,Leiria,Penafiel,235,União de Leiria,4662,1.0,2.0,0.0,3
+2023,2024-04-27T10:00:00+00:00,Segunda Liga,Regular Season - 31,Mafra,Mafra,245,Oliveirense,233,,3.0,3.0,1
+2023,2024-04-27T10:00:00+00:00,Segunda Liga,Regular Season - 31,Mafra,Oliveirense,233,Mafra,245,,3.0,3.0,1
+2023,2024-04-28T13:00:00+00:00,Segunda Liga,Regular Season - 31,Tondela,Tondela,218,Benfica B,229,,1.0,1.0,1
+2023,2024-04-28T13:00:00+00:00,Segunda Liga,Regular Season - 31,Tondela,Benfica B,229,Tondela,218,,1.0,1.0,1
+2023,2024-04-28T14:30:00+00:00,Segunda Liga,Regular Season - 31,Vila Nova de Gaia,FC Porto B,243,Santa Clara,227,,2.0,2.0,1
+2023,2024-04-28T14:30:00+00:00,Segunda Liga,Regular Season - 31,Vila Nova de Gaia,Santa Clara,227,FC Porto B,243,,2.0,2.0,1
+2023,2024-04-27T13:00:00+00:00,Segunda Liga,Regular Season - 31,Ilha da Madeira,Maritimo,214,Feirense,213,1.0,3.0,2.0,3
+2023,2024-04-27T13:00:00+00:00,Segunda Liga,Regular Season - 31,Ilha da Madeira,Feirense,213,Maritimo,214,0.0,2.0,3.0,0
+2023,2024-04-30T18:45:00+00:00,Segunda Liga,Regular Season - 31,Paços de Ferreira,Pacos Ferreira,234,AVS,21595,0.0,0.0,4.0,0
+2023,2024-04-30T18:45:00+00:00,Segunda Liga,Regular Season - 31,Paços de Ferreira,AVS,21595,Pacos Ferreira,234,1.0,4.0,0.0,3
+2023,2024-04-28T14:30:00+00:00,Segunda Liga,Regular Season - 31,Lisboa,CF Os Belenenses,17692,Nacional,225,0.0,1.0,3.0,0
+2023,2024-04-28T14:30:00+00:00,Segunda Liga,Regular Season - 31,Lisboa,Nacional,225,CF Os Belenenses,17692,1.0,3.0,1.0,3
+2023,2024-05-04T10:00:00+00:00,Segunda Liga,Regular Season - 32,Santa Maria da Feira,Feirense,213,União de Leiria,4662,1.0,1.0,0.0,3
+2023,2024-05-04T10:00:00+00:00,Segunda Liga,Regular Season - 32,Santa Maria da Feira,União de Leiria,4662,Feirense,213,0.0,0.0,1.0,0
+2023,2024-05-05T13:00:00+00:00,Segunda Liga,Regular Season - 32,Ilha da Madeira,Nacional,225,FC Porto B,243,1.0,4.0,0.0,3
+2023,2024-05-05T13:00:00+00:00,Segunda Liga,Regular Season - 32,Ilha da Madeira,FC Porto B,243,Nacional,225,0.0,0.0,4.0,0
+2023,2024-05-05T17:00:00+00:00,Segunda Liga,Regular Season - 32,Seixal,Benfica B,229,Pacos Ferreira,234,,2.0,2.0,1
+2023,2024-05-05T17:00:00+00:00,Segunda Liga,Regular Season - 32,Seixal,Pacos Ferreira,234,Benfica B,229,,2.0,2.0,1
+2023,2024-05-06T19:15:00+00:00,Segunda Liga,Regular Season - 32,Vila das Aves,AVS,21595,Mafra,245,,3.0,3.0,1
+2023,2024-05-06T19:15:00+00:00,Segunda Liga,Regular Season - 32,Vila das Aves,Mafra,245,AVS,21595,,3.0,3.0,1
+2023,2024-05-04T14:30:00+00:00,Segunda Liga,Regular Season - 32,Oliveira de Azeméis,Oliveirense,233,Tondela,218,1.0,2.0,1.0,3
+2023,2024-05-04T14:30:00+00:00,Segunda Liga,Regular Season - 32,Oliveira de Azeméis,Tondela,218,Oliveirense,233,0.0,1.0,2.0,0
+2023,2024-05-03T17:00:00+00:00,Segunda Liga,Regular Season - 32,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,CF Os Belenenses,17692,1.0,2.0,0.0,3
+2023,2024-05-03T17:00:00+00:00,Segunda Liga,Regular Season - 32,"Ponta Delgada, Ilha de São Miguel, Açores",CF Os Belenenses,17692,Santa Clara,227,0.0,0.0,2.0,0
+2023,2024-05-05T14:30:00+00:00,Segunda Liga,Regular Season - 32,Coimbra,Vilaverdense,4814,Torreense,4799,0.0,0.0,1.0,0
+2023,2024-05-05T14:30:00+00:00,Segunda Liga,Regular Season - 32,Coimbra,Torreense,4799,Vilaverdense,4814,1.0,1.0,0.0,3
+2023,2024-05-05T10:00:00+00:00,Segunda Liga,Regular Season - 32,Penafiel,Penafiel,235,Maritimo,214,0.0,0.0,1.0,0
+2023,2024-05-05T10:00:00+00:00,Segunda Liga,Regular Season - 32,Penafiel,Maritimo,214,Penafiel,235,1.0,1.0,0.0,3
+2023,2024-05-04T13:00:00+00:00,Segunda Liga,Regular Season - 32,Viseu,Academico Viseu,238,Leixoes,244,,1.0,1.0,1
+2023,2024-05-04T13:00:00+00:00,Segunda Liga,Regular Season - 32,Viseu,Leixoes,244,Academico Viseu,238,,1.0,1.0,1
+2023,2024-05-12T10:00:00+00:00,Segunda Liga,Regular Season - 33,Tondela,Tondela,218,Nacional,225,0.0,2.0,3.0,0
+2023,2024-05-12T10:00:00+00:00,Segunda Liga,Regular Season - 33,Tondela,Nacional,225,Tondela,218,1.0,3.0,2.0,3
+2023,2024-05-12T14:30:00+00:00,Segunda Liga,Regular Season - 33,Ilha da Madeira,Maritimo,214,Oliveirense,233,1.0,2.0,1.0,3
+2023,2024-05-12T14:30:00+00:00,Segunda Liga,Regular Season - 33,Ilha da Madeira,Oliveirense,233,Maritimo,214,0.0,1.0,2.0,0
+2023,2024-05-13T19:15:00+00:00,Segunda Liga,Regular Season - 33,Leiria,União de Leiria,4662,Academico Viseu,238,1.0,3.0,0.0,3
+2023,2024-05-13T19:15:00+00:00,Segunda Liga,Regular Season - 33,Leiria,Academico Viseu,238,União de Leiria,4662,0.0,0.0,3.0,0
+2023,2024-05-11T14:30:00+00:00,Segunda Liga,Regular Season - 33,Coimbra,Vilaverdense,4814,Penafiel,235,1.0,2.0,1.0,3
+2023,2024-05-11T14:30:00+00:00,Segunda Liga,Regular Season - 33,Coimbra,Penafiel,235,Vilaverdense,4814,0.0,1.0,2.0,0
+2023,2024-05-10T17:00:00+00:00,Segunda Liga,Regular Season - 33,Lisboa,CF Os Belenenses,17692,Benfica B,229,0.0,2.0,3.0,0
+2023,2024-05-10T17:00:00+00:00,Segunda Liga,Regular Season - 33,Lisboa,Benfica B,229,CF Os Belenenses,17692,1.0,3.0,2.0,3
+2023,2024-05-11T13:00:00+00:00,Segunda Liga,Regular Season - 33,Torres Vedras,Torreense,4799,Feirense,213,1.0,2.0,1.0,3
+2023,2024-05-11T13:00:00+00:00,Segunda Liga,Regular Season - 33,Torres Vedras,Feirense,213,Torreense,4799,0.0,1.0,2.0,0
+2023,2024-05-12T13:00:00+00:00,Segunda Liga,Regular Season - 33,Mafra,Mafra,245,Santa Clara,227,0.0,0.0,2.0,0
+2023,2024-05-12T13:00:00+00:00,Segunda Liga,Regular Season - 33,Mafra,Santa Clara,227,Mafra,245,1.0,2.0,0.0,3
+2023,2024-05-12T14:30:00+00:00,Segunda Liga,Regular Season - 33,Vila Nova de Gaia,FC Porto B,243,Pacos Ferreira,234,0.0,1.0,3.0,0
+2023,2024-05-12T14:30:00+00:00,Segunda Liga,Regular Season - 33,Vila Nova de Gaia,Pacos Ferreira,234,FC Porto B,243,1.0,3.0,1.0,3
+2023,2024-05-12T10:00:00+00:00,Segunda Liga,Regular Season - 33,Matosinhos,Leixoes,244,AVS,21595,,0.0,0.0,1
+2023,2024-05-12T10:00:00+00:00,Segunda Liga,Regular Season - 33,Matosinhos,AVS,21595,Leixoes,244,,0.0,0.0,1
+2023,2024-05-18T10:00:00+00:00,Segunda Liga,Regular Season - 34,Santa Maria da Feira,Feirense,213,Vilaverdense,4814,,1.0,1.0,1
+2023,2024-05-18T10:00:00+00:00,Segunda Liga,Regular Season - 34,Santa Maria da Feira,Vilaverdense,4814,Feirense,213,,1.0,1.0,1
+2023,2024-05-16T19:15:00+00:00,Segunda Liga,Regular Season - 34,Penafiel,Penafiel,235,Torreense,4799,,1.0,1.0,1
+2023,2024-05-16T19:15:00+00:00,Segunda Liga,Regular Season - 34,Penafiel,Torreense,4799,Penafiel,235,,1.0,1.0,1
+2023,2024-05-17T17:00:00+00:00,Segunda Liga,Regular Season - 34,Seixal,Benfica B,229,FC Porto B,243,1.0,5.0,2.0,3
+2023,2024-05-17T17:00:00+00:00,Segunda Liga,Regular Season - 34,Seixal,FC Porto B,243,Benfica B,229,0.0,2.0,5.0,0
+2023,2024-05-19T10:00:00+00:00,Segunda Liga,Regular Season - 34,Vila das Aves,AVS,21595,Tondela,218,0.0,0.0,1.0,0
+2023,2024-05-19T10:00:00+00:00,Segunda Liga,Regular Season - 34,Vila das Aves,Tondela,218,AVS,21595,1.0,1.0,0.0,3
+2023,2024-05-19T13:00:00+00:00,Segunda Liga,Regular Season - 34,Oliveira de Azeméis,Oliveirense,233,Leixoes,244,0.0,1.0,3.0,0
+2023,2024-05-19T13:00:00+00:00,Segunda Liga,Regular Season - 34,Oliveira de Azeméis,Leixoes,244,Oliveirense,233,1.0,3.0,1.0,3
+2023,2024-05-19T10:00:00+00:00,Segunda Liga,Regular Season - 34,Viseu,Academico Viseu,238,Maritimo,214,,2.0,2.0,1
+2023,2024-05-19T10:00:00+00:00,Segunda Liga,Regular Season - 34,Viseu,Maritimo,214,Academico Viseu,238,,2.0,2.0,1
+2023,2024-05-19T15:30:00+00:00,Segunda Liga,Regular Season - 34,Ilha da Madeira,Nacional,225,Mafra,245,1.0,2.0,0.0,3
+2023,2024-05-19T15:30:00+00:00,Segunda Liga,Regular Season - 34,Ilha da Madeira,Mafra,245,Nacional,225,0.0,0.0,2.0,0
+2023,2024-05-17T17:00:00+00:00,Segunda Liga,Regular Season - 34,Paços de Ferreira,Pacos Ferreira,234,CF Os Belenenses,17692,1.0,2.0,1.0,3
+2023,2024-05-17T17:00:00+00:00,Segunda Liga,Regular Season - 34,Paços de Ferreira,CF Os Belenenses,17692,Pacos Ferreira,234,0.0,1.0,2.0,0
+2023,2024-05-19T15:30:00+00:00,Segunda Liga,Regular Season - 34,"Ponta Delgada, Ilha de São Miguel, Açores",Santa Clara,227,União de Leiria,4662,1.0,2.0,0.0,3
+2023,2024-05-19T15:30:00+00:00,Segunda Liga,Regular Season - 34,"Ponta Delgada, Ilha de São Miguel, Açores",União de Leiria,4662,Santa Clara,227,0.0,0.0,2.0,0
+2023,2024-05-26T10:00:00+00:00,Segunda Liga,Relegation Round,Lourosa,Lusitânia Lourosa,6358,Feirense,213,1.0,1.0,0.0,3
+2023,2024-05-26T10:00:00+00:00,Segunda Liga,Relegation Round,Lourosa,Feirense,213,Lusitânia Lourosa,6358,0.0,0.0,1.0,0
+2023,2024-06-02T16:00:00+00:00,Segunda Liga,Relegation Round,Santa Maria da Feira,Feirense,213,Lusitânia Lourosa,6358,1.0,3.0,0.0,3
+2023,2024-06-02T16:00:00+00:00,Segunda Liga,Relegation Round,Santa Maria da Feira,Lusitânia Lourosa,6358,Feirense,213,0.0,0.0,3.0,0

@@ -2897,3 +2897,251 @@ year,round,stage,fixture_id,fixture_date,team_name,team_id,opponent_name,opponen
 2022,Semi-finals,2,1017112,2023-04-22T15:45:00+00:00,Sheffield Utd,62,Manchester City,50,0.0,away,90,Wembley Stadium
 2022,Final,1,1023277,2023-06-03T14:00:00+00:00,Manchester City,50,Manchester United,33,1.0,home,90,Wembley Stadium
 2022,Final,1,1023277,2023-06-03T14:00:00+00:00,Manchester United,33,Manchester City,50,0.0,away,90,Wembley Stadium
+2023,1st Round,8,1138477,2023-11-04T15:00:00+00:00,Alfreton Town,4677,Worthing,7761,1.0,home,90,The Impact Arena
+2023,1st Round,8,1138477,2023-11-04T15:00:00+00:00,Worthing,7761,Alfreton Town,4677,0.0,away,90,The Impact Arena
+2023,1st Round,8,1138478,2023-11-05T12:15:00+00:00,Chesterfield,1345,Portsmouth,1355,1.0,home,90,SMH Group Stadium
+2023,1st Round,8,1138478,2023-11-05T12:15:00+00:00,Portsmouth,1355,Chesterfield,1345,0.0,away,90,SMH Group Stadium
+2023,1st Round,8,1138479,2023-11-04T15:00:00+00:00,Bolton,68,Solihull Moors,1834,1.0,home,90,Toughsheet Community Stadium
+2023,1st Round,8,1138479,2023-11-04T15:00:00+00:00,Solihull Moors,1834,Bolton,68,0.0,away,90,Toughsheet Community Stadium
+2023,1st Round,8,1138480,2023-11-04T15:00:00+00:00,Exeter City,1364,Wigan,61,0.0,home,90,St James Park
+2023,1st Round,8,1138480,2023-11-04T15:00:00+00:00,Wigan,61,Exeter City,1364,1.0,away,90,St James Park
+2023,1st Round,8,1138481,2023-11-04T15:00:00+00:00,Leyton Orient,1373,Carlisle,1371,1.0,home,90,Gaughan Group Stadium
+2023,1st Round,8,1138481,2023-11-04T15:00:00+00:00,Carlisle,1371,Leyton Orient,1373,0.0,away,90,Gaughan Group Stadium
+2023,1st Round,8,1138482,2023-11-05T14:00:00+00:00,Kidderminster Harriers,4695,Fleetwood Town,1336,0.0,home,90,Aggborough Stadium
+2023,1st Round,8,1138482,2023-11-05T14:00:00+00:00,Fleetwood Town,1336,Kidderminster Harriers,4695,1.0,away,90,Aggborough Stadium
+2023,1st Round,8,1138483,2023-11-04T15:00:00+00:00,Hereford,4692,Gillingham,1347,0.0,home,90,Edgar Street Athletic Ground
+2023,1st Round,8,1138483,2023-11-04T15:00:00+00:00,Gillingham,1347,Hereford,4692,1.0,away,90,Edgar Street Athletic Ground
+2023,1st Round,8,1138485,2023-11-04T15:00:00+00:00,Oxford United,1338,Maidenhead,1838,1.0,home,90,The Kassam Stadium
+2023,1st Round,8,1138485,2023-11-04T15:00:00+00:00,Maidenhead,1838,Oxford United,1338,0.0,away,90,The Kassam Stadium
+2023,1st Round,8,1138486,2023-11-04T15:00:00+00:00,Newport County,1367,Oldham,1349,1.0,home,90,Rodney Parade
+2023,1st Round,8,1138486,2023-11-04T15:00:00+00:00,Oldham,1349,Newport County,1367,0.0,away,90,Rodney Parade
+2023,1st Round,8,1138487,2023-11-04T15:00:00+00:00,Swindon Town,1353,Aldershot Town,1818,0.0,home,90,The County Ground
+2023,1st Round,8,1138487,2023-11-04T15:00:00+00:00,Aldershot Town,1818,Swindon Town,1353,1.0,away,90,The County Ground
+2023,1st Round,8,1138489,2023-11-04T19:45:00+00:00,Mansfield Town,1374,Wrexham,1837,0.0,home,90,One Call Stadium
+2023,1st Round,8,1138489,2023-11-04T19:45:00+00:00,Wrexham,1837,Mansfield Town,1374,1.0,away,90,One Call Stadium
+2023,1st Round,8,1138490,2023-11-04T15:00:00+00:00,Marine,7656,Harrogate Town,1842,0.0,home,90,The Marine Travel Arena
+2023,1st Round,8,1138490,2023-11-04T15:00:00+00:00,Harrogate Town,1842,Marine,7656,1.0,away,90,The Marine Travel Arena
+2023,1st Round,8,1138494,2023-11-04T15:00:00+00:00,Eastleigh,1822,Boreham Wood,1830,1.0,home,90,Silverlake Stadium
+2023,1st Round,8,1138494,2023-11-04T15:00:00+00:00,Boreham Wood,1830,Eastleigh,1822,0.0,away,90,Silverlake Stadium
+2023,1st Round,8,1138495,2023-11-04T15:00:00+00:00,Bradford,1343,Wycombe,1358,0.0,home,90,University of Bradford Stadium
+2023,1st Round,8,1138495,2023-11-04T15:00:00+00:00,Wycombe,1358,Bradford,1343,1.0,away,90,University of Bradford Stadium
+2023,1st Round,8,1138496,2023-11-04T15:00:00+00:00,Shrewsbury,1352,Colchester,1361,1.0,home,90,The Croud Meadow
+2023,1st Round,8,1138496,2023-11-04T15:00:00+00:00,Colchester,1361,Shrewsbury,1352,0.0,away,90,The Croud Meadow
+2023,1st Round,8,1138497,2023-11-04T15:00:00+00:00,Lincoln,1379,Morecambe,1375,0.0,home,90,LNER Stadium
+2023,1st Round,8,1138497,2023-11-04T15:00:00+00:00,Morecambe,1375,Lincoln,1379,1.0,away,90,LNER Stadium
+2023,1st Round,8,1138498,2023-11-04T15:00:00+00:00,Sutton Utd,1835,AFC Fylde,1839,1.0,home,90,VBS Community Stadium
+2023,1st Round,8,1138498,2023-11-04T15:00:00+00:00,AFC Fylde,1839,Sutton Utd,1835,0.0,away,90,VBS Community Stadium
+2023,1st Round,8,1138499,2023-11-04T15:00:00+00:00,Reading,53,Milton Keynes Dons,1348,1.0,home,90,Select Car Leasing Stadium
+2023,1st Round,8,1138499,2023-11-04T15:00:00+00:00,Milton Keynes Dons,1348,Reading,53,0.0,away,90,Select Car Leasing Stadium
+2023,1st Round,8,1138501,2023-11-04T15:00:00+00:00,Notts County,1376,Crawley Town,1362,1.0,home,90,Meadow Lane
+2023,1st Round,8,1138501,2023-11-04T15:00:00+00:00,Crawley Town,1362,Notts County,1376,0.0,away,90,Meadow Lane
+2023,1st Round,8,1138502,2023-11-04T15:00:00+00:00,Stockport County,4686,Worksop Town,7266,1.0,home,90,Edgeley Park
+2023,1st Round,8,1138502,2023-11-04T15:00:00+00:00,Worksop Town,7266,Stockport County,4686,0.0,away,90,Edgeley Park
+2023,1st Round,8,1138503,2023-11-04T15:00:00+00:00,Yeovil Town,1377,Gateshead,1823,1.0,home,90,Huish Park Stadium
+2023,1st Round,8,1138503,2023-11-04T15:00:00+00:00,Gateshead,1823,Yeovil Town,1377,0.0,away,90,Huish Park Stadium
+2023,1st Round,8,1138504,2023-11-04T15:00:00+00:00,Stevenage,1368,Tranmere,1381,1.0,home,90,The Lamex Stadium
+2023,1st Round,8,1138504,2023-11-04T15:00:00+00:00,Tranmere,1381,Stevenage,1368,0.0,away,90,The Lamex Stadium
+2023,1st Round,8,1138505,2023-11-04T17:45:00+00:00,Bromley,1832,Blackpool,1356,0.0,home,90,RELOC8 EM Community Stadium
+2023,1st Round,8,1138505,2023-11-04T17:45:00+00:00,Blackpool,1356,Bromley,1832,1.0,away,90,RELOC8 EM Community Stadium
+2023,1st Round,8,1138506,2023-11-04T15:00:00+00:00,AFC Wimbledon,1333,Cheltenham,1372,1.0,home,90,The Cherry Red Records Stadium
+2023,1st Round,8,1138506,2023-11-04T15:00:00+00:00,Cheltenham,1372,AFC Wimbledon,1333,0.0,away,90,The Cherry Red Records Stadium
+2023,1st Round,8,1138507,2023-11-04T15:00:00+00:00,Cambridge United,1370,Bracknell Town,7619,1.0,home,90,Abbey Stadium
+2023,1st Round,8,1138507,2023-11-04T15:00:00+00:00,Bracknell Town,7619,Cambridge United,1370,0.0,away,90,Abbey Stadium
+2023,1st Round,8,1138508,2023-11-04T13:30:00+00:00,Northampton,1337,Barrow,1819,0.0,home,90,Sixfields Stadium
+2023,1st Round,8,1138508,2023-11-04T13:30:00+00:00,Barrow,1819,Northampton,1337,1.0,away,90,Sixfields Stadium
+2023,1st Round,8,1139070,2023-11-04T15:00:00+00:00,Curzon Ashton,4703,Barnet,1369,0.0,home,90,Tameside Stadium
+2023,1st Round,8,1139070,2023-11-04T15:00:00+00:00,Barnet,1369,Curzon Ashton,4703,1.0,away,90,Tameside Stadium
+2023,1st Round,8,1139072,2023-11-03T19:45:00+00:00,Sheppey United,8928,Walsall,1342,0.0,home,90,The Total Power Stadium
+2023,1st Round,8,1139072,2023-11-03T19:45:00+00:00,Walsall,1342,Sheppey United,8928,1.0,away,90,The Total Power Stadium
+2023,1st Round,8,1139073,2023-11-04T15:00:00+00:00,Bristol Rovers,1334,Whitby Town,7757,1.0,home,90,Memorial Stadium
+2023,1st Round,8,1139073,2023-11-04T15:00:00+00:00,Whitby Town,7757,Bristol Rovers,1334,0.0,away,90,Memorial Stadium
+2023,1st Round,8,1139075,2023-12-12T19:45:00+00:00,Scarborough Athletic,7745,Forest Green,1378,0.0,home,90,Flamingo Land Stadium
+2023,1st Round,8,1139075,2023-12-12T19:45:00+00:00,Forest Green,1378,Scarborough Athletic,7745,1.0,away,90,Flamingo Land Stadium
+2023,1st Round,8,1139076,2023-11-04T15:00:00+00:00,Chesham United,4702,Maidstone Utd,1825,0.0,home,90,The Meadow
+2023,1st Round,8,1139076,2023-11-04T15:00:00+00:00,Maidstone Utd,1825,Chesham United,4702,1.0,away,90,The Meadow
+2023,1st Round,8,1139077,2023-11-04T15:00:00+00:00,Ramsgate,7665,Woking,1836,1.0,home,90,WW Martin Community Stadium
+2023,1st Round,8,1139077,2023-11-04T15:00:00+00:00,Woking,1836,Ramsgate,7665,0.0,away,90,WW Martin Community Stadium
+2023,1st Round Replays,8,1141281,2023-11-14T19:30:00+00:00,Horsham,7723,Barnsley,747,0.0,home,90,The Camping World Community Stadium
+2023,1st Round Replays,8,1141281,2023-11-14T19:30:00+00:00,Barnsley,747,Horsham,7723,1.0,away,90,The Camping World Community Stadium
+2023,1st Round Replays,8,1141282,2023-11-14T19:45:00+00:00,York,1828,Chester,1820,1.0,home,90,LNER Community Stadium
+2023,1st Round Replays,8,1141282,2023-11-14T19:45:00+00:00,Chester,1820,York,1828,0.0,away,90,LNER Community Stadium
+2023,1st Round Replays,8,1141283,2023-11-14T19:45:00+00:00,Forest Green,1378,Scarborough Athletic,7745,1.0,home,90,The Bolt New Lawn
+2023,1st Round Replays,8,1141283,2023-11-14T19:45:00+00:00,Scarborough Athletic,7745,Forest Green,1378,0.0,away,90,The Bolt New Lawn
+2023,1st Round Replays,8,1141284,2023-11-14T19:45:00+00:00,Burton Albion,748,Port Vale,1351,0.0,home,90,Pirelli Stadium
+2023,1st Round Replays,8,1141284,2023-11-14T19:45:00+00:00,Port Vale,1351,Burton Albion,748,1.0,away,90,Pirelli Stadium
+2023,1st Round Replays,8,1141285,2023-11-14T19:45:00+00:00,Accrington ST,1360,Doncaster,1354,0.0,home,120,Wham Stadium
+2023,1st Round Replays,8,1141285,2023-11-14T19:45:00+00:00,Doncaster,1354,Accrington ST,1360,1.0,away,120,Wham Stadium
+2023,1st Round Replays,8,1141286,2023-11-14T19:45:00+00:00,Salford City,1844,Peterborough,1350,0.0,home,120,The Peninsula Stadium
+2023,1st Round Replays,8,1141286,2023-11-14T19:45:00+00:00,Peterborough,1350,Salford City,1844,1.0,away,120,The Peninsula Stadium
+2023,2nd Round,7,1141456,2023-12-02T15:00:00+00:00,Maidstone Utd,1825,Barrow,1819,1.0,home,90,Gallagher Stadium
+2023,2nd Round,7,1141456,2023-12-02T15:00:00+00:00,Barrow,1819,Maidstone Utd,1825,0.0,away,90,Gallagher Stadium
+2023,2nd Round,7,1141457,2023-12-02T15:00:00+00:00,Wycombe,1358,Morecambe,1375,0.0,home,90,Adams Park
+2023,2nd Round,7,1141457,2023-12-02T15:00:00+00:00,Morecambe,1375,Wycombe,1358,1.0,away,90,Adams Park
+2023,2nd Round,7,1141458,2023-12-01T19:45:00+00:00,Notts County,1376,Shrewsbury,1352,0.0,home,90,Meadow Lane
+2023,2nd Round,7,1141458,2023-12-01T19:45:00+00:00,Shrewsbury,1352,Notts County,1376,1.0,away,90,Meadow Lane
+2023,2nd Round,7,1141459,2023-12-03T14:00:00+00:00,Chesterfield,1345,Leyton Orient,1373,1.0,home,90,SMH Group Stadium
+2023,2nd Round,7,1141459,2023-12-03T14:00:00+00:00,Leyton Orient,1373,Chesterfield,1345,0.0,away,90,SMH Group Stadium
+2023,2nd Round,7,1141462,2023-12-02T15:00:00+00:00,Cambridge United,1370,Fleetwood Town,1336,1.0,home,90,Abbey Stadium
+2023,2nd Round,7,1141462,2023-12-02T15:00:00+00:00,Fleetwood Town,1336,Cambridge United,1370,0.0,away,90,Abbey Stadium
+2023,2nd Round,7,1141463,2023-12-02T15:00:00+00:00,Bolton,68,Harrogate Town,1842,1.0,home,90,Toughsheet Community Stadium
+2023,2nd Round,7,1141463,2023-12-02T15:00:00+00:00,Harrogate Town,1842,Bolton,68,0.0,away,90,Toughsheet Community Stadium
+2023,2nd Round,7,1141464,2023-12-03T15:45:00+00:00,Wrexham,1837,Yeovil Town,1377,1.0,home,90,STōK Cae Ras
+2023,2nd Round,7,1141464,2023-12-03T15:45:00+00:00,Yeovil Town,1377,Wrexham,1837,0.0,away,90,STōK Cae Ras
+2023,2nd Round,7,1141465,2023-12-03T13:30:00+00:00,Eastleigh,1822,Reading,53,1.0,home,90,Silverlake Stadium
+2023,2nd Round,7,1141465,2023-12-03T13:30:00+00:00,Reading,53,Eastleigh,1822,0.0,away,90,Silverlake Stadium
+2023,2nd Round,7,1141467,2023-12-04T19:45:00+00:00,AFC Wimbledon,1333,Ramsgate,7665,1.0,home,90,The Cherry Red Records Stadium
+2023,2nd Round,7,1141467,2023-12-04T19:45:00+00:00,Ramsgate,7665,AFC Wimbledon,1333,0.0,away,90,The Cherry Red Records Stadium
+2023,1st Round Replays,8,1141468,2023-11-14T19:45:00+00:00,Grimsby,1365,Slough Town,4685,1.0,home,90,Blundell Park
+2023,1st Round Replays,8,1141468,2023-11-14T19:45:00+00:00,Slough Town,4685,Grimsby,1365,0.0,away,90,Blundell Park
+2023,1st Round Replays,8,1141469,2023-11-14T19:45:00+00:00,Derby,69,Crewe,1363,0.0,home,90,Pride Park Stadium
+2023,1st Round Replays,8,1141469,2023-11-14T19:45:00+00:00,Crewe,1363,Derby,69,1.0,away,90,Pride Park Stadium
+2023,1st Round Replays,8,1141470,2023-11-15T19:45:00+00:00,Cray Valley PM,7636,Charlton,1335,0.0,home,90,The Artic Stadium
+2023,1st Round Replays,8,1141470,2023-11-15T19:45:00+00:00,Charlton,1335,Cray Valley PM,7636,1.0,away,90,The Artic Stadium
+2023,2nd Round,7,1142249,2023-12-01T19:45:00+00:00,York,1828,Wigan,61,0.0,home,90,LNER Community Stadium
+2023,2nd Round,7,1142249,2023-12-01T19:45:00+00:00,Wigan,61,York,1828,1.0,away,90,LNER Community Stadium
+2023,2nd Round,7,1142250,2023-12-19T19:45:00+00:00,Blackpool,1356,Forest Green,1378,1.0,home,90,Bloomfield Road
+2023,2nd Round,7,1142250,2023-12-19T19:45:00+00:00,Forest Green,1378,Blackpool,1356,0.0,away,90,Bloomfield Road
+2023,2nd Round,7,1142251,2023-12-12T19:45:00+00:00,Crewe,1363,Bristol Rovers,1334,0.0,home,90,Mornflake Stadium
+2023,2nd Round,7,1142251,2023-12-12T19:45:00+00:00,Bristol Rovers,1334,Crewe,1363,1.0,away,90,Mornflake Stadium
+2023,2nd Round,7,1142252,2023-12-02T15:00:00+00:00,Peterborough,1350,Doncaster,1354,1.0,home,90,Weston Homes Stadium
+2023,2nd Round,7,1142252,2023-12-02T15:00:00+00:00,Doncaster,1354,Peterborough,1350,0.0,away,90,Weston Homes Stadium
+2023,2nd Round,7,1142253,2023-12-02T15:00:00+00:00,Gillingham,1347,Charlton,1335,1.0,home,90,Priestfield Stadium
+2023,2nd Round,7,1142253,2023-12-02T15:00:00+00:00,Charlton,1335,Gillingham,1347,0.0,away,90,Priestfield Stadium
+2023,2nd Round,7,1142255,2023-12-02T15:00:00+00:00,Oxford United,1338,Grimsby,1365,1.0,home,90,The Kassam Stadium
+2023,2nd Round,7,1142255,2023-12-02T15:00:00+00:00,Grimsby,1365,Oxford United,1338,0.0,away,90,The Kassam Stadium
+2023,2nd Round,7,1142256,2023-12-02T15:00:00+00:00,Sutton Utd,1835,Horsham,7723,1.0,home,90,VBS Community Stadium
+2023,2nd Round,7,1142256,2023-12-02T15:00:00+00:00,Horsham,7723,Sutton Utd,1835,0.0,away,90,VBS Community Stadium
+2023,2nd Round Replays,7,1145536,2023-12-12T19:45:00+00:00,Barnet,1369,Newport County,1367,0.0,home,90,The Hive Stadium
+2023,2nd Round Replays,7,1145536,2023-12-12T19:45:00+00:00,Newport County,1367,Barnet,1369,1.0,away,90,The Hive Stadium
+2023,2nd Round Replays,7,1145537,2023-12-12T19:45:00+00:00,Port Vale,1351,Stevenage,1368,0.0,home,120,Vale Park
+2023,2nd Round Replays,7,1145537,2023-12-12T19:45:00+00:00,Stevenage,1368,Port Vale,1351,1.0,away,120,Vale Park
+2023,3rd Round,6,1145549,2024-01-07T16:30:00+00:00,Arsenal,42,Liverpool,40,0.0,home,90,Emirates Stadium
+2023,3rd Round,6,1145549,2024-01-07T16:30:00+00:00,Liverpool,40,Arsenal,42,1.0,away,90,Emirates Stadium
+2023,3rd Round,6,1145550,2024-01-07T14:00:00+00:00,Shrewsbury,1352,Wrexham,1837,0.0,home,90,The Croud Meadow
+2023,3rd Round,6,1145550,2024-01-07T14:00:00+00:00,Wrexham,1837,Shrewsbury,1352,1.0,away,90,The Croud Meadow
+2023,3rd Round,6,1145551,2024-01-06T15:00:00+00:00,Stoke City,75,Brighton,51,0.0,home,90,bet365 Stadium
+2023,3rd Round,6,1145551,2024-01-06T15:00:00+00:00,Brighton,51,Stoke City,75,1.0,away,90,bet365 Stadium
+2023,3rd Round,6,1145553,2024-01-05T20:00:00+00:00,Tottenham,47,Burnley,44,1.0,home,90,Tottenham Hotspur Stadium
+2023,3rd Round,6,1145553,2024-01-05T20:00:00+00:00,Burnley,44,Tottenham,47,0.0,away,90,Tottenham Hotspur Stadium
+2023,3rd Round,6,1145554,2024-01-05T19:30:00+00:00,Fulham,36,Rotherham,73,1.0,home,90,Craven Cottage
+2023,3rd Round,6,1145554,2024-01-05T19:30:00+00:00,Rotherham,73,Fulham,36,0.0,away,90,Craven Cottage
+2023,3rd Round,6,1145555,2024-01-07T14:00:00+00:00,Peterborough,1350,Leeds,63,0.0,home,90,Weston Homes Stadium
+2023,3rd Round,6,1145555,2024-01-07T14:00:00+00:00,Leeds,63,Peterborough,1350,1.0,away,90,Weston Homes Stadium
+2023,3rd Round,6,1145556,2024-01-06T12:30:00+00:00,Millwall,58,Leicester,46,0.0,home,90,The Den
+2023,3rd Round,6,1145556,2024-01-06T12:30:00+00:00,Leicester,46,Millwall,58,1.0,away,90,The Den
+2023,3rd Round,6,1145557,2024-01-06T15:00:00+00:00,Watford,38,Chesterfield,1345,1.0,home,90,Vicarage Road
+2023,3rd Round,6,1145557,2024-01-06T15:00:00+00:00,Chesterfield,1345,Watford,38,0.0,away,90,Vicarage Road
+2023,3rd Round,6,1145558,2024-01-06T12:45:00+00:00,Sunderland,746,Newcastle,34,0.0,home,90,Stadium of Light
+2023,3rd Round,6,1145558,2024-01-06T12:45:00+00:00,Newcastle,34,Sunderland,746,1.0,away,90,Stadium of Light
+2023,3rd Round,6,1145559,2024-01-06T17:30:00+00:00,Sheffield Wednesday,74,Cardiff,43,1.0,home,90,Hillsborough
+2023,3rd Round,6,1145559,2024-01-06T17:30:00+00:00,Cardiff,43,Sheffield Wednesday,74,0.0,away,90,Hillsborough
+2023,3rd Round,6,1145561,2024-01-06T17:30:00+00:00,Middlesbrough,70,Aston Villa,66,0.0,home,90,Riverside Stadium
+2023,3rd Round,6,1145561,2024-01-06T17:30:00+00:00,Aston Villa,66,Middlesbrough,70,1.0,away,90,Riverside Stadium
+2023,3rd Round,6,1145562,2024-01-08T20:15:00+00:00,Wigan,61,Manchester United,33,0.0,home,90,DW Stadium
+2023,3rd Round,6,1145562,2024-01-08T20:15:00+00:00,Manchester United,33,Wigan,61,1.0,away,90,DW Stadium
+2023,3rd Round,6,1145563,2024-01-07T14:00:00+00:00,Manchester City,50,Huddersfield,37,1.0,home,90,Etihad Stadium
+2023,3rd Round,6,1145563,2024-01-07T14:00:00+00:00,Huddersfield,37,Manchester City,50,0.0,away,90,Etihad Stadium
+2023,3rd Round,6,1145564,2024-01-06T15:00:00+00:00,Blackburn,67,Cambridge United,1370,1.0,home,90,Ewood Park
+2023,3rd Round,6,1145564,2024-01-06T15:00:00+00:00,Cambridge United,1370,Blackburn,67,0.0,away,90,Ewood Park
+2023,3rd Round,6,1145565,2024-01-06T15:00:00+00:00,Gillingham,1347,Sheffield Utd,62,0.0,home,90,Priestfield Stadium
+2023,3rd Round,6,1145565,2024-01-06T15:00:00+00:00,Sheffield Utd,62,Gillingham,1347,1.0,away,90,Priestfield Stadium
+2023,3rd Round,6,1145566,2024-01-06T17:30:00+00:00,Swansea,76,Morecambe,1375,1.0,home,90,Swansea.com Stadium
+2023,3rd Round,6,1145566,2024-01-06T17:30:00+00:00,Morecambe,1375,Swansea,76,0.0,away,90,Swansea.com Stadium
+2023,3rd Round,6,1145567,2024-01-06T17:30:00+00:00,Chelsea,49,Preston,59,1.0,home,90,Stamford Bridge
+2023,3rd Round,6,1145567,2024-01-06T17:30:00+00:00,Preston,59,Chelsea,49,0.0,away,90,Stamford Bridge
+2023,3rd Round,6,1145568,2024-01-06T15:00:00+00:00,QPR,72,Bournemouth,35,0.0,home,90,MATRADE Loftus Road
+2023,3rd Round,6,1145568,2024-01-06T15:00:00+00:00,Bournemouth,35,QPR,72,1.0,away,90,MATRADE Loftus Road
+2023,3rd Round,6,1145569,2024-01-06T12:30:00+00:00,Coventry,1346,Oxford United,1338,1.0,home,90,The Coventry Building Society Arena
+2023,3rd Round,6,1145569,2024-01-06T12:30:00+00:00,Oxford United,1338,Coventry,1346,0.0,away,90,The Coventry Building Society Arena
+2023,3rd Round,6,1145571,2024-01-06T15:00:00+00:00,Plymouth,1357,Sutton Utd,1835,1.0,home,90,Home Park
+2023,3rd Round,6,1145571,2024-01-06T15:00:00+00:00,Sutton Utd,1835,Plymouth,1357,0.0,away,90,Home Park
+2023,3rd Round,6,1145609,2024-01-06T12:30:00+00:00,AFC Wimbledon,1333,Ipswich,57,0.0,home,90,The Cherry Red Records Stadium
+2023,3rd Round,6,1145609,2024-01-06T12:30:00+00:00,Ipswich,57,AFC Wimbledon,1333,1.0,away,90,The Cherry Red Records Stadium
+2023,2nd Round Replays,7,1145610,2023-12-12T19:45:00+00:00,Walsall,1342,Alfreton Town,4677,1.0,home,90,Poundland Bescot Stadium
+2023,2nd Round Replays,7,1145610,2023-12-12T19:45:00+00:00,Alfreton Town,4677,Walsall,1342,0.0,away,90,Poundland Bescot Stadium
+2023,2nd Round Replays,7,1145611,2023-12-13T19:45:00+00:00,Stockport County,4686,Aldershot Town,1818,0.0,home,90,Edgeley Park
+2023,2nd Round Replays,7,1145611,2023-12-13T19:45:00+00:00,Aldershot Town,1818,Stockport County,4686,1.0,away,90,Edgeley Park
+2023,3rd Round,6,1147359,2024-01-06T12:30:00+00:00,Maidstone Utd,1825,Stevenage,1368,1.0,home,90,Gallagher Stadium
+2023,3rd Round,6,1147359,2024-01-06T12:30:00+00:00,Stevenage,1368,Maidstone Utd,1825,0.0,away,90,Gallagher Stadium
+2023,3rd Round,6,1147361,2024-01-06T15:00:00+00:00,Southampton,41,Walsall,1342,1.0,home,90,St. Mary's Stadium
+2023,3rd Round,6,1147361,2024-01-06T15:00:00+00:00,Walsall,1342,Southampton,41,0.0,away,90,St. Mary's Stadium
+2023,3rd Round,6,1147618,2024-01-07T14:00:00+00:00,West Brom,60,Aldershot Town,1818,1.0,home,90,The Hawthorns
+2023,3rd Round,6,1147618,2024-01-07T14:00:00+00:00,Aldershot Town,1818,West Brom,60,0.0,away,90,The Hawthorns
+2023,3rd Round Replays,6,1155572,2024-01-17T19:45:00+00:00,Everton,45,Crystal Palace,52,1.0,home,90,Goodison Park
+2023,3rd Round Replays,6,1155572,2024-01-17T19:45:00+00:00,Crystal Palace,52,Everton,45,0.0,away,90,Goodison Park
+2023,3rd Round Replays,6,1155955,2024-01-16T19:30:00+00:00,Wolves,39,Brentford,55,1.0,home,120,Molineux Stadium
+2023,3rd Round Replays,6,1155955,2024-01-16T19:30:00+00:00,Brentford,55,Wolves,39,0.0,away,120,Molineux Stadium
+2023,3rd Round Replays,6,1156155,2024-01-16T19:45:00+00:00,Eastleigh,1822,Newport County,1367,0.0,home,90,Silverlake Stadium
+2023,3rd Round Replays,6,1156155,2024-01-16T19:45:00+00:00,Newport County,1367,Eastleigh,1822,1.0,away,90,Silverlake Stadium
+2023,3rd Round Replays,6,1156178,2024-01-17T19:45:00+00:00,Bristol Rovers,1334,Norwich,71,0.0,home,90,Memorial Stadium
+2023,3rd Round Replays,6,1156178,2024-01-17T19:45:00+00:00,Norwich,71,Bristol Rovers,1334,1.0,away,90,Memorial Stadium
+2023,3rd Round Replays,6,1156179,2024-01-16T19:45:00+00:00,Birmingham,54,Hull City,64,1.0,home,90,St Andrew's Stadium
+2023,3rd Round Replays,6,1156179,2024-01-16T19:45:00+00:00,Hull City,64,Birmingham,54,0.0,away,90,St Andrew's Stadium
+2023,3rd Round Replays,6,1156180,2024-01-16T19:45:00+00:00,Bolton,68,Luton,1359,0.0,home,90,Toughsheet Community Stadium
+2023,3rd Round Replays,6,1156180,2024-01-16T19:45:00+00:00,Luton,1359,Bolton,68,1.0,away,90,Toughsheet Community Stadium
+2023,3rd Round Replays,6,1156181,2024-01-17T19:45:00+00:00,Blackpool,1356,Nottingham Forest,65,0.0,home,120,Bloomfield Road
+2023,3rd Round Replays,6,1156181,2024-01-17T19:45:00+00:00,Nottingham Forest,65,Blackpool,1356,1.0,away,120,Bloomfield Road
+2023,3rd Round Replays,6,1156182,2024-01-16T19:45:00+00:00,Bristol City,56,West Ham,48,1.0,home,90,Ashton Gate Stadium
+2023,3rd Round Replays,6,1156182,2024-01-16T19:45:00+00:00,West Ham,48,Bristol City,56,0.0,away,90,Ashton Gate Stadium
+2023,4th Round,5,1156201,2024-01-29T19:30:00+00:00,Blackburn,67,Wrexham,1837,1.0,home,90,Ewood Park
+2023,4th Round,5,1156201,2024-01-29T19:30:00+00:00,Wrexham,1837,Blackburn,67,0.0,away,90,Ewood Park
+2023,4th Round,5,1156202,2024-01-25T19:45:00+00:00,Bournemouth,35,Swansea,76,1.0,home,90,Vitality Stadium
+2023,4th Round,5,1156202,2024-01-25T19:45:00+00:00,Swansea,76,Bournemouth,35,0.0,away,90,Vitality Stadium
+2023,4th Round,5,1156205,2024-01-27T12:30:00+00:00,Ipswich,57,Maidstone Utd,1825,0.0,home,90,Portman Road
+2023,4th Round,5,1156205,2024-01-27T12:30:00+00:00,Maidstone Utd,1825,Ipswich,57,1.0,away,90,Portman Road
+2023,4th Round,5,1156206,2024-01-26T20:00:00+00:00,Tottenham,47,Manchester City,50,0.0,home,90,Tottenham Hotspur Stadium
+2023,4th Round,5,1156206,2024-01-26T20:00:00+00:00,Manchester City,50,Tottenham,47,1.0,away,90,Tottenham Hotspur Stadium
+2023,4th Round,5,1156208,2024-01-27T15:00:00+00:00,Sheffield Utd,62,Brighton,51,0.0,home,90,Bramall Lane
+2023,4th Round,5,1156208,2024-01-27T15:00:00+00:00,Brighton,51,Sheffield Utd,62,1.0,away,90,Bramall Lane
+2023,4th Round,5,1156209,2024-01-27T19:00:00+00:00,Fulham,36,Newcastle,34,0.0,home,90,Craven Cottage
+2023,4th Round,5,1156209,2024-01-27T19:00:00+00:00,Newcastle,34,Fulham,36,1.0,away,90,Craven Cottage
+2023,4th Round,5,1160762,2024-01-27T15:00:00+00:00,Leicester,46,Birmingham,54,1.0,home,90,King Power Stadium
+2023,4th Round,5,1160762,2024-01-27T15:00:00+00:00,Birmingham,54,Leicester,46,0.0,away,90,King Power Stadium
+2023,4th Round,5,1160763,2024-01-28T11:45:00+00:00,West Brom,60,Wolves,39,0.0,home,90,The Hawthorns
+2023,4th Round,5,1160763,2024-01-28T11:45:00+00:00,Wolves,39,West Brom,60,1.0,away,90,The Hawthorns
+2023,4th Round,5,1160764,2024-01-28T16:30:00+00:00,Newport County,1367,Manchester United,33,0.0,home,90,Rodney Parade
+2023,4th Round,5,1160764,2024-01-28T16:30:00+00:00,Manchester United,33,Newport County,1367,1.0,away,90,Rodney Parade
+2023,4th Round,5,1161124,2024-01-27T15:00:00+00:00,Everton,45,Luton,1359,0.0,home,90,Goodison Park
+2023,4th Round,5,1161124,2024-01-27T15:00:00+00:00,Luton,1359,Everton,45,1.0,away,90,Goodison Park
+2023,4th Round,5,1161125,2024-01-28T14:30:00+00:00,Liverpool,40,Norwich,71,1.0,home,90,Anfield
+2023,4th Round,5,1161125,2024-01-28T14:30:00+00:00,Norwich,71,Liverpool,40,0.0,away,90,Anfield
+2023,4th Round Replays,5,1168363,2024-02-07T19:45:00+00:00,Nottingham Forest,65,Bristol City,56,1.0,home,120,The City Ground
+2023,4th Round Replays,5,1168363,2024-02-07T19:45:00+00:00,Bristol City,56,Nottingham Forest,65,0.0,away,120,The City Ground
+2023,5th Round,4,1169251,2024-02-27T19:30:00+00:00,Bournemouth,35,Leicester,46,0.0,home,90,Vitality Stadium
+2023,5th Round,4,1169251,2024-02-27T19:30:00+00:00,Leicester,46,Bournemouth,35,1.0,away,90,Vitality Stadium
+2023,5th Round,4,1169252,2024-02-28T19:45:00+00:00,Wolves,39,Brighton,51,1.0,home,90,Molineux Stadium
+2023,5th Round,4,1169252,2024-02-28T19:45:00+00:00,Brighton,51,Wolves,39,0.0,away,90,Molineux Stadium
+2023,5th Round,4,1169253,2024-02-27T20:00:00+00:00,Luton,1359,Manchester City,50,0.0,home,90,Kenilworth Road
+2023,5th Round,4,1169253,2024-02-27T20:00:00+00:00,Manchester City,50,Luton,1359,1.0,away,90,Kenilworth Road
+2023,4th Round Replays,5,1169254,2024-02-06T19:45:00+00:00,Coventry,1346,Sheffield Wednesday,74,1.0,home,90,The Coventry Building Society Arena
+2023,4th Round Replays,5,1169254,2024-02-06T19:45:00+00:00,Sheffield Wednesday,74,Coventry,1346,0.0,away,90,The Coventry Building Society Arena
+2023,4th Round Replays,5,1169255,2024-02-06T19:45:00+00:00,Plymouth,1357,Leeds,63,0.0,home,120,Home Park
+2023,4th Round Replays,5,1169255,2024-02-06T19:45:00+00:00,Leeds,63,Plymouth,1357,1.0,away,120,Home Park
+2023,4th Round Replays,5,1169256,2024-02-06T19:45:00+00:00,Southampton,41,Watford,38,1.0,home,90,St. Mary's Stadium
+2023,4th Round Replays,5,1169256,2024-02-06T19:45:00+00:00,Watford,38,Southampton,41,0.0,away,90,St. Mary's Stadium
+2023,4th Round Replays,5,1169257,2024-02-07T20:00:00+00:00,Aston Villa,66,Chelsea,49,0.0,home,90,Villa Park
+2023,4th Round Replays,5,1169257,2024-02-07T20:00:00+00:00,Chelsea,49,Aston Villa,66,1.0,away,90,Villa Park
+2023,5th Round,4,1169386,2024-02-27T19:45:00+00:00,Blackburn,67,Newcastle,34,0.0,home,120,Ewood Park
+2023,5th Round,4,1169386,2024-02-27T19:45:00+00:00,Newcastle,34,Blackburn,67,1.0,away,120,Ewood Park
+2023,5th Round,4,1171747,2024-02-26T19:45:00+00:00,Coventry,1346,Maidstone Utd,1825,1.0,home,90,The Coventry Building Society Arena
+2023,5th Round,4,1171747,2024-02-26T19:45:00+00:00,Maidstone Utd,1825,Coventry,1346,0.0,away,90,The Coventry Building Society Arena
+2023,5th Round,4,1171748,2024-02-28T20:00:00+00:00,Liverpool,40,Southampton,41,1.0,home,90,Anfield
+2023,5th Round,4,1171748,2024-02-28T20:00:00+00:00,Southampton,41,Liverpool,40,0.0,away,90,Anfield
+2023,5th Round,4,1172435,2024-02-28T19:30:00+00:00,Chelsea,49,Leeds,63,1.0,home,90,Stamford Bridge
+2023,5th Round,4,1172435,2024-02-28T19:30:00+00:00,Leeds,63,Chelsea,49,0.0,away,90,Stamford Bridge
+2023,5th Round,4,1172436,2024-02-28T19:45:00+00:00,Nottingham Forest,65,Manchester United,33,0.0,home,90,The City Ground
+2023,5th Round,4,1172436,2024-02-28T19:45:00+00:00,Manchester United,33,Nottingham Forest,65,1.0,away,90,The City Ground
+2023,Quarter-finals,3,1180022,2024-03-16T12:15:00+00:00,Wolves,39,Coventry,1346,0.0,home,90,Molineux Stadium
+2023,Quarter-finals,3,1180022,2024-03-16T12:15:00+00:00,Coventry,1346,Wolves,39,1.0,away,90,Molineux Stadium
+2023,Quarter-finals,3,1180023,2024-03-16T17:30:00+00:00,Manchester City,50,Newcastle,34,1.0,home,90,Etihad Stadium
+2023,Quarter-finals,3,1180023,2024-03-16T17:30:00+00:00,Newcastle,34,Manchester City,50,0.0,away,90,Etihad Stadium
+2023,Quarter-finals,3,1180024,2024-03-17T12:45:00+00:00,Chelsea,49,Leicester,46,1.0,home,90,Stamford Bridge
+2023,Quarter-finals,3,1180024,2024-03-17T12:45:00+00:00,Leicester,46,Chelsea,49,0.0,away,90,Stamford Bridge
+2023,Quarter-finals,3,1180025,2024-03-17T15:30:00+00:00,Manchester United,33,Liverpool,40,1.0,home,120,Old Trafford
+2023,Quarter-finals,3,1180025,2024-03-17T15:30:00+00:00,Liverpool,40,Manchester United,33,0.0,away,120,Old Trafford
+2023,Semi-finals,2,1185654,2024-04-21T14:30:00+00:00,Coventry,1346,Manchester United,33,0.0,home,120,Wembley Stadium
+2023,Semi-finals,2,1185654,2024-04-21T14:30:00+00:00,Manchester United,33,Coventry,1346,1.0,away,120,Wembley Stadium
+2023,Semi-finals,2,1185655,2024-04-20T16:15:00+00:00,Manchester City,50,Chelsea,49,1.0,home,90,Wembley Stadium
+2023,Semi-finals,2,1185655,2024-04-20T16:15:00+00:00,Chelsea,49,Manchester City,50,0.0,away,90,Wembley Stadium
+2023,Final,1,1197145,2024-05-25T14:00:00+00:00,Manchester City,50,Manchester United,33,0.0,home,90,Wembley Stadium
+2023,Final,1,1197145,2024-05-25T14:00:00+00:00,Manchester United,33,Manchester City,50,1.0,away,90,Wembley Stadium
