@@ -132,6 +132,6 @@ if __name__ == "__main__":
     results = analyze_2sls_by_stage(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, display)
 
     results_df = pd.DataFrame(results)
-    results_file_path = os.path.join("results", country, "2SLS_Results", "combined_2sls_results.csv")
+    results_file_path = os.path.join("results", country, "2SLS_Results", "combined_2sls_results_2023.csv")
     results_df.to_csv(results_file_path, index=False)
     print(f"Combined results saved to {results_file_path}")

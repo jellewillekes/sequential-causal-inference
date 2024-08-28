@@ -67,6 +67,30 @@ League_One,3,2011,21,Wycombe,1358,43,46,11,10,25,-23,65,88,65
 League_One,3,2011,22,Chesterfield,1345,42,46,10,12,24,-25,56,81,66
 League_One,3,2011,23,Exeter City,1364,42,46,10,12,24,-29,46,75,67
 League_One,3,2011,24,Rochdale,1339,38,46,8,14,24,-34,47,81,68
+League_Two,4,2011,1,Swindon Town,1353,93,46,29,6,11,43,75,32,69
+League_Two,4,2011,2,Shrewsbury,1352,88,46,26,10,10,25,66,41,70
+League_Two,4,2011,3,Crawley Town,1362,84,46,23,15,8,22,76,54,71
+League_Two,4,2011,4,Southend,1341,83,46,25,8,13,29,77,48,72
+League_Two,4,2011,5,Torquay,1827,81,46,23,12,11,13,63,50,73
+League_Two,4,2011,6,Cheltenham,1372,77,46,23,8,15,16,66,50,74
+League_Two,4,2011,7,Crewe,1363,72,46,20,12,14,8,67,59,75
+League_Two,4,2011,8,Gillingham,1347,70,46,20,10,16,17,79,62,76
+League_Two,4,2011,9,Oxford United,1338,68,46,17,17,12,11,59,48,77
+League_Two,4,2011,10,Rotherham,73,67,46,18,13,15,4,67,63,78
+League_Two,4,2011,11,Aldershot Town,1818,66,46,19,9,18,2,54,52,79
+League_Two,4,2011,12,Port Vale,1351,59,46,20,9,17,8,68,60,80
+League_Two,4,2011,13,Bristol Rovers,1334,57,46,15,12,19,-10,60,70,81
+League_Two,4,2011,14,Accrington ST,1360,57,46,14,15,17,-12,54,66,82
+League_Two,4,2011,15,Morecambe,1375,56,46,14,14,18,6,63,57,83
+League_Two,4,2011,16,AFC Wimbledon,1333,54,46,15,9,22,-16,62,78,84
+League_Two,4,2011,17,Burton Albion,748,54,46,14,12,20,-27,54,81,85
+League_Two,4,2011,18,Bradford,1343,50,46,12,14,20,-5,54,59,86
+League_Two,4,2011,19,Dagenham & Redbridge,1821,50,46,14,8,24,-22,50,72,87
+League_Two,4,2011,20,Northampton,1337,48,46,12,12,22,-23,56,79,88
+League_Two,4,2011,21,Plymouth,1357,46,46,10,16,20,-17,47,64,89
+League_Two,4,2011,22,Barnet,1369,46,46,12,10,24,-27,52,79,90
+League_Two,4,2011,23,Hereford United,11932,44,46,10,14,22,-20,50,70,91
+League_Two,4,2011,24,Macclesfield,1380,37,46,8,13,25,-25,39,64,92
 Premier_League,1,2012,1,Manchester United,33,89,38,28,5,5,43,86,43,1
 Premier_League,1,2012,2,Manchester City,50,78,38,23,9,6,32,66,34,2
 Premier_League,1,2012,3,Chelsea,49,75,38,22,9,7,36,75,39,3
@@ -135,6 +159,30 @@ League_One,3,2012,21,Scunthorpe,1340,48,46,13,9,24,-24,49,73,65
 League_One,3,2012,22,Bury,1344,41,46,9,14,23,-28,45,73,66
 League_One,3,2012,23,Hartlepool,1366,41,46,9,14,23,-28,39,67,67
 League_One,3,2012,24,Portsmouth,1355,32,46,10,12,24,-18,51,69,68
+League_Two,4,2012,1,Gillingham,1347,83,46,23,14,9,27,66,39,69
+League_Two,4,2012,2,Rotherham,73,79,46,24,7,15,15,74,59,70
+League_Two,4,2012,3,Port Vale,1351,78,46,21,15,10,35,87,52,71
+League_Two,4,2012,4,Burton Albion,748,76,46,22,10,14,6,71,65,72
+League_Two,4,2012,5,Cheltenham,1372,75,46,20,15,11,7,58,51,73
+League_Two,4,2012,6,Northampton,1337,73,46,21,10,15,9,64,55,74
+League_Two,4,2012,7,Bradford,1343,69,46,18,15,13,11,63,52,75
+League_Two,4,2012,8,Chesterfield,1345,67,46,18,13,15,15,60,45,76
+League_Two,4,2012,9,Oxford United,1338,65,46,19,8,19,-1,60,61,77
+League_Two,4,2012,10,Exeter City,1364,64,46,18,10,18,1,63,62,78
+League_Two,4,2012,11,Southend,1341,61,46,16,13,17,6,61,55,79
+League_Two,4,2012,12,Rochdale,1339,61,46,16,13,17,-2,68,70,80
+League_Two,4,2012,13,Fleetwood Town,1336,60,46,15,15,16,-2,55,57,81
+League_Two,4,2012,14,Bristol Rovers,1334,60,46,16,12,18,-9,60,69,82
+League_Two,4,2012,15,Wycombe,1358,60,46,17,9,20,-10,50,60,83
+League_Two,4,2012,16,Morecambe,1375,58,46,15,13,18,-6,55,61,84
+League_Two,4,2012,17,York,1828,55,46,12,19,15,-10,50,60,85
+League_Two,4,2012,18,Accrington ST,1360,54,46,14,12,20,-17,51,68,86
+League_Two,4,2012,19,Torquay,1827,53,46,13,14,19,-7,55,62,87
+League_Two,4,2012,20,AFC Wimbledon,1333,53,46,14,11,21,-22,54,76,88
+League_Two,4,2012,21,Plymouth,1357,52,46,13,13,20,-9,46,55,89
+League_Two,4,2012,22,Dagenham & Redbridge,1821,51,46,13,12,21,-7,55,62,90
+League_Two,4,2012,23,Barnet,1369,51,46,13,12,21,-12,47,59,91
+League_Two,4,2012,24,Aldershot Town,1818,48,46,11,15,20,-18,42,60,92
 Premier_League,1,2013,1,Manchester City,50,86,38,27,5,6,65,102,37,1
 Premier_League,1,2013,2,Liverpool,40,84,38,26,6,6,51,101,50,2
 Premier_League,1,2013,3,Chelsea,49,82,38,25,7,6,44,71,27,3
@@ -203,6 +251,30 @@ League_One,3,2013,21,Tranmere,1381,47,46,12,11,23,-27,52,79,65
 League_One,3,2013,22,Carlisle,1371,45,46,11,12,23,-33,43,76,66
 League_One,3,2013,23,Shrewsbury,1352,42,46,9,15,22,-21,44,65,67
 League_One,3,2013,24,Stevenage,1368,42,46,11,9,26,-26,46,72,68
+League_Two,4,2013,1,Chesterfield,1345,84,46,23,15,8,31,71,40,69
+League_Two,4,2013,2,Scunthorpe,1340,81,46,20,21,5,24,68,44,70
+League_Two,4,2013,3,Rochdale,1339,81,46,24,9,13,21,69,48,71
+League_Two,4,2013,4,Fleetwood Town,1336,76,46,22,10,14,14,66,52,72
+League_Two,4,2013,5,Southend,1341,72,46,19,15,12,17,56,39,73
+League_Two,4,2013,6,Burton Albion,748,72,46,19,15,12,5,47,42,74
+League_Two,4,2013,7,York,1828,71,46,18,17,11,11,52,41,75
+League_Two,4,2013,8,Oxford United,1338,62,46,16,14,16,3,53,50,76
+League_Two,4,2013,9,Dagenham & Redbridge,1821,60,46,15,15,16,-6,53,59,77
+League_Two,4,2013,10,Plymouth,1357,60,46,16,12,18,-7,51,58,78
+League_Two,4,2013,11,Mansfield Town,1374,60,46,15,15,16,-9,49,58,79
+League_Two,4,2013,12,Bury,1344,59,46,13,20,13,8,59,51,80
+League_Two,4,2013,13,Portsmouth,1355,59,46,14,17,15,-10,56,66,81
+League_Two,4,2013,14,Newport County,1367,58,46,14,16,16,-3,56,59,82
+League_Two,4,2013,15,Accrington ST,1360,57,46,14,15,17,-2,54,56,83
+League_Two,4,2013,16,AFC Wimbledon,1333,56,46,14,14,18,-8,49,57,84
+League_Two,4,2013,17,Exeter City,1364,55,46,14,13,19,-3,54,57,85
+League_Two,4,2013,18,Cheltenham,1372,55,46,13,16,17,-10,53,63,86
+League_Two,4,2013,19,Morecambe,1375,54,46,13,15,18,-12,52,64,87
+League_Two,4,2013,20,Hartlepool,1366,53,46,14,11,21,-6,50,56,88
+League_Two,4,2013,21,Northampton,1337,53,46,13,14,19,-15,42,57,89
+League_Two,4,2013,22,Wycombe,1358,50,46,12,14,20,-8,46,54,90
+League_Two,4,2013,23,Bristol Rovers,1334,50,46,12,14,20,-11,43,54,91
+League_Two,4,2013,24,Torquay,1827,45,46,12,9,25,-24,42,66,92
 Premier_League,1,2014,1,Chelsea,49,87,38,26,9,3,41,73,32,1
 Premier_League,1,2014,2,Manchester City,50,79,38,24,7,7,45,83,38,2
 Premier_League,1,2014,3,Arsenal,42,75,38,22,9,7,35,71,36,3
@@ -271,6 +343,30 @@ League_One,3,2014,21,Notts County,1376,50,46,12,14,20,-18,45,63,65
 League_One,3,2014,22,Crawley Town,1362,50,46,13,11,22,-26,53,79,66
 League_One,3,2014,23,Leyton Orient,1373,49,46,12,13,21,-10,59,69,67
 League_One,3,2014,24,Yeovil Town,1377,40,46,10,10,26,-39,36,75,68
+League_Two,4,2014,1,Burton Albion,748,94,46,28,10,8,30,69,39,69
+League_Two,4,2014,2,Shrewsbury,1352,89,46,27,8,11,36,67,31,70
+League_Two,4,2014,3,Bury,1344,85,46,26,7,13,20,60,40,71
+League_Two,4,2014,4,Wycombe,1358,84,46,23,15,8,22,67,45,72
+League_Two,4,2014,5,Southend,1341,84,46,24,12,10,16,54,38,73
+League_Two,4,2014,6,Stevenage,1368,72,46,20,12,14,8,62,54,74
+League_Two,4,2014,7,Plymouth,1357,71,46,20,11,15,18,55,37,75
+League_Two,4,2014,8,Luton,1359,68,46,19,11,16,10,54,44,76
+League_Two,4,2014,9,Newport County,1367,65,46,18,11,17,-3,51,54,77
+League_Two,4,2014,10,Exeter City,1364,64,46,17,13,16,-4,61,65,78
+League_Two,4,2014,11,Morecambe,1375,63,46,17,12,17,1,53,52,79
+League_Two,4,2014,12,Northampton,1337,61,46,18,7,21,5,67,62,80
+League_Two,4,2014,13,Oxford United,1338,61,46,15,16,15,1,50,49,81
+League_Two,4,2014,14,Dagenham & Redbridge,1821,59,46,17,8,21,-1,58,59,82
+League_Two,4,2014,15,AFC Wimbledon,1333,58,46,14,16,16,-6,54,60,83
+League_Two,4,2014,16,Portsmouth,1355,57,46,14,15,17,-2,52,54,84
+League_Two,4,2014,17,Accrington ST,1360,56,46,15,11,20,-19,58,77,85
+League_Two,4,2014,18,York,1828,52,46,11,19,16,-5,46,51,86
+League_Two,4,2014,19,Cambridge United,1370,51,46,13,12,21,-5,61,66,87
+League_Two,4,2014,20,Carlisle,1371,50,46,14,8,24,-18,56,74,88
+League_Two,4,2014,21,Mansfield Town,1374,48,46,13,9,24,-24,38,62,89
+League_Two,4,2014,22,Hartlepool,1366,45,46,12,9,25,-31,39,70,90
+League_Two,4,2014,23,Cheltenham,1372,41,46,9,14,23,-27,40,67,91
+League_Two,4,2014,24,Tranmere,1381,39,46,9,12,25,-22,45,67,92
 Premier_League,1,2015,1,Leicester,46,81,38,23,12,3,32,68,36,1
 Premier_League,1,2015,2,Arsenal,42,71,38,20,11,7,29,65,36,2
 Premier_League,1,2015,3,Tottenham,47,70,38,19,13,6,34,69,35,3
@@ -339,6 +435,30 @@ League_One,3,2015,21,Doncaster,1354,46,46,11,13,22,-16,48,64,65
 League_One,3,2015,22,Blackpool,1356,46,46,12,10,24,-23,40,63,66
 League_One,3,2015,23,Colchester,1361,40,46,9,13,24,-42,57,99,67
 League_One,3,2015,24,Crewe,1363,34,46,7,13,26,-37,46,83,68
+League_Two,4,2015,1,Northampton,1337,99,46,29,12,5,36,82,46,69
+League_Two,4,2015,2,Oxford United,1338,86,46,24,14,8,43,84,41,70
+League_Two,4,2015,3,Bristol Rovers,1334,85,46,26,7,13,31,77,46,71
+League_Two,4,2015,4,Accrington ST,1360,85,46,24,13,9,26,74,48,72
+League_Two,4,2015,5,Plymouth,1357,81,46,24,9,13,26,72,46,73
+League_Two,4,2015,6,Portsmouth,1355,78,46,21,15,10,31,75,44,74
+League_Two,4,2015,7,AFC Wimbledon,1333,75,46,21,12,13,14,64,50,75
+League_Two,4,2015,8,Leyton Orient,1373,69,46,19,12,15,-1,60,61,76
+League_Two,4,2015,9,Cambridge United,1370,68,46,18,14,14,11,66,55,77
+League_Two,4,2015,10,Carlisle,1371,67,46,17,16,13,5,67,62,78
+League_Two,4,2015,11,Luton,1359,66,46,19,9,18,2,63,61,79
+League_Two,4,2015,12,Mansfield Town,1374,64,46,17,13,16,8,61,53,80
+League_Two,4,2015,13,Wycombe,1358,64,46,17,13,16,1,45,44,81
+League_Two,4,2015,14,Exeter City,1364,64,46,17,13,16,-2,63,65,82
+League_Two,4,2015,15,Barnet,1369,62,46,17,11,18,-1,67,68,83
+League_Two,4,2015,16,Hartlepool,1366,51,46,15,6,25,-23,49,72,84
+League_Two,4,2015,17,Notts County,1376,51,46,14,9,23,-29,54,83,85
+League_Two,4,2015,18,Stevenage,1368,48,46,11,15,20,-15,52,67,86
+League_Two,4,2015,19,Yeovil Town,1377,48,46,11,15,20,-16,43,59,87
+League_Two,4,2015,20,Crawley Town,1362,47,46,13,8,25,-33,45,78,88
+League_Two,4,2015,21,Morecambe,1375,46,46,12,10,24,-22,69,91,89
+League_Two,4,2015,22,Newport County,1367,43,46,10,13,23,-21,43,64,90
+League_Two,4,2015,23,Dagenham & Redbridge,1821,34,46,8,10,28,-35,46,81,91
+League_Two,4,2015,24,York,1828,34,46,7,13,26,-36,51,87,92
 Premier_League,1,2016,1,Chelsea,49,93,38,30,3,5,52,85,33,1
 Premier_League,1,2016,2,Tottenham,47,86,38,26,8,4,60,86,26,2
 Premier_League,1,2016,3,Manchester City,50,78,38,23,9,6,41,80,39,3
@@ -407,6 +527,30 @@ League_One,3,2016,21,Port Vale,1351,49,46,12,13,21,-25,45,70,65
 League_One,3,2016,22,Swindon Town,1353,44,46,11,11,24,-22,44,66,66
 League_One,3,2016,23,Coventry,1346,39,46,9,12,25,-31,37,68,67
 League_One,3,2016,24,Chesterfield,1345,37,46,9,10,27,-35,43,78,68
+League_Two,4,2016,1,Portsmouth,1355,87,46,26,9,11,39,79,40,69
+League_Two,4,2016,2,Plymouth,1357,87,46,26,9,11,25,71,46,70
+League_Two,4,2016,3,Doncaster,1354,85,46,25,10,11,30,85,55,71
+League_Two,4,2016,4,Luton,1359,77,46,20,17,9,27,70,43,72
+League_Two,4,2016,5,Exeter City,1364,71,46,21,8,17,19,75,56,73
+League_Two,4,2016,6,Carlisle,1371,71,46,18,17,11,1,69,68,74
+League_Two,4,2016,7,Blackpool,1356,70,46,18,16,12,23,69,46,75
+League_Two,4,2016,8,Colchester,1361,69,46,19,12,15,10,67,57,76
+League_Two,4,2016,9,Wycombe,1358,69,46,19,12,15,5,58,53,77
+League_Two,4,2016,10,Stevenage,1368,67,46,20,7,19,4,67,63,78
+League_Two,4,2016,11,Cambridge United,1370,66,46,19,9,18,8,58,50,79
+League_Two,4,2016,12,Mansfield Town,1374,66,46,17,15,14,4,54,50,80
+League_Two,4,2016,13,Accrington ST,1360,65,46,17,14,15,3,59,56,81
+League_Two,4,2016,14,Grimsby,1365,62,46,17,11,18,-4,59,63,82
+League_Two,4,2016,15,Barnet,1369,57,46,14,15,17,-7,57,64,83
+League_Two,4,2016,16,Notts County,1376,56,46,16,8,22,-22,54,76,84
+League_Two,4,2016,17,Crewe,1363,55,46,14,13,19,-9,58,67,85
+League_Two,4,2016,18,Morecambe,1375,52,46,14,10,22,-20,53,73,86
+League_Two,4,2016,19,Crawley Town,1362,51,46,13,12,21,-18,53,71,87
+League_Two,4,2016,20,Yeovil Town,1377,50,46,11,17,18,-15,49,64,88
+League_Two,4,2016,21,Cheltenham,1372,50,46,12,14,20,-20,49,69,89
+League_Two,4,2016,22,Newport County,1367,48,46,12,12,22,-22,51,73,90
+League_Two,4,2016,23,Hartlepool,1366,46,46,11,13,22,-21,54,75,91
+League_Two,4,2016,24,Leyton Orient,1373,36,46,10,6,30,-40,47,87,92
 Premier_League,1,2017,1,Manchester City,50,100,38,32,4,2,79,106,27,1
 Premier_League,1,2017,2,Manchester United,33,81,38,25,6,7,40,68,28,2
 Premier_League,1,2017,3,Tottenham,47,77,38,23,8,7,38,74,36,3
@@ -475,6 +619,30 @@ League_One,3,2017,21,AFC Wimbledon,1333,34,32,9,7,16,-10,32,42,65
 League_One,3,2017,22,Milton Keynes Dons,1348,30,31,7,9,15,-14,30,44,66
 League_One,3,2017,23,Bury,1344,26,32,6,8,18,-21,26,47,67
 League_One,3,2017,24,Rochdale,1339,25,28,5,10,13,-11,29,40,68
+League_Two,4,2017,1,Luton,1359,67,33,20,7,6,40,72,32,69
+League_Two,4,2017,2,Accrington ST,1360,61,32,19,4,9,19,56,37,70
+League_Two,4,2017,3,Wycombe,1358,59,32,17,8,7,17,63,46,71
+League_Two,4,2017,4,Notts County,1376,57,32,16,9,7,19,54,35,72
+League_Two,4,2017,5,Mansfield Town,1374,56,32,15,11,6,17,51,34,73
+League_Two,4,2017,6,Swindon Town,1353,54,33,17,3,13,4,51,47,74
+League_Two,4,2017,7,Lincoln,1379,53,32,14,11,7,14,44,30,75
+League_Two,4,2017,8,Exeter City,1364,52,30,16,4,10,6,41,35,76
+League_Two,4,2017,9,Coventry,1346,50,32,15,5,12,9,36,27,77
+League_Two,4,2017,10,Colchester,1361,50,33,13,11,9,6,45,39,78
+League_Two,4,2017,11,Crawley Town,1362,48,33,14,6,13,-2,38,40,79
+League_Two,4,2017,12,Newport County,1367,46,32,12,10,10,-2,41,43,80
+League_Two,4,2017,13,Carlisle,1371,42,32,11,9,12,0,44,44,81
+League_Two,4,2017,14,Cambridge United,1370,42,32,11,9,12,-12,31,43,82
+League_Two,4,2017,15,Cheltenham,1372,39,33,10,9,14,-2,46,48,83
+League_Two,4,2017,16,Stevenage,1368,39,33,10,9,14,-6,42,48,84
+League_Two,4,2017,17,Yeovil Town,1377,38,32,10,8,14,-5,45,50,85
+League_Two,4,2017,18,Grimsby,1365,36,33,9,9,15,-18,29,47,86
+League_Two,4,2017,19,Port Vale,1351,34,32,9,7,16,-11,35,46,87
+League_Two,4,2017,20,Forest Green,1378,32,32,9,5,18,-19,36,55,88
+League_Two,4,2017,21,Morecambe,1375,31,31,7,10,14,-12,29,41,89
+League_Two,4,2017,22,Crewe,1363,30,32,9,3,20,-19,35,54,90
+League_Two,4,2017,23,Chesterfield,1345,27,32,7,6,19,-25,33,58,91
+League_Two,4,2017,24,Barnet,1369,25,32,6,7,19,-18,30,48,92
 Premier_League,1,2018,1,Manchester City,50,98,38,32,2,4,72,95,23,1
 Premier_League,1,2018,2,Liverpool,40,97,38,30,7,1,67,89,22,2
 Premier_League,1,2018,3,Chelsea,49,72,38,21,9,8,24,63,39,3
@@ -543,6 +711,30 @@ League_One,3,2018,21,Plymouth,1357,50,46,13,11,22,-24,56,80,65
 League_One,3,2018,22,Walsall,1342,47,46,12,11,23,-22,49,71,66
 League_One,3,2018,23,Scunthorpe,1340,46,46,12,10,24,-30,53,83,67
 League_One,3,2018,24,Bradford,1343,41,46,11,8,27,-28,49,77,68
+League_Two,4,2018,1,Lincoln,1379,85,46,23,16,7,30,73,43,69
+League_Two,4,2018,2,Bury,1344,79,46,22,13,11,26,82,56,70
+League_Two,4,2018,3,Milton Keynes Dons,1348,79,46,23,10,13,22,71,49,71
+League_Two,4,2018,4,Mansfield Town,1374,76,46,20,16,10,28,69,41,72
+League_Two,4,2018,5,Forest Green,1378,74,46,20,14,12,21,68,47,73
+League_Two,4,2018,6,Tranmere,1381,73,46,20,13,13,13,63,50,74
+League_Two,4,2018,7,Newport County,1367,71,46,20,11,15,0,59,59,75
+League_Two,4,2018,8,Colchester,1361,70,46,20,10,16,12,65,53,76
+League_Two,4,2018,9,Exeter City,1364,70,46,19,13,14,11,60,49,77
+League_Two,4,2018,10,Stevenage,1368,70,46,20,10,16,4,59,55,78
+League_Two,4,2018,11,Carlisle,1371,68,46,20,8,18,5,67,62,79
+League_Two,4,2018,12,Crewe,1363,65,46,19,8,19,1,60,59,80
+League_Two,4,2018,13,Swindon Town,1353,64,46,16,16,14,3,59,56,81
+League_Two,4,2018,14,Oldham,1349,62,46,16,14,16,7,67,60,82
+League_Two,4,2018,15,Northampton,1337,61,46,14,19,13,1,64,63,83
+League_Two,4,2018,16,Cheltenham,1372,57,46,15,12,19,-11,57,68,84
+League_Two,4,2018,17,Grimsby,1365,56,46,16,8,22,-11,45,56,85
+League_Two,4,2018,18,Morecambe,1375,54,46,14,12,20,-16,54,70,86
+League_Two,4,2018,19,Crawley Town,1362,53,46,15,8,23,-17,51,68,87
+League_Two,4,2018,20,Port Vale,1351,49,46,12,13,21,-16,39,55,88
+League_Two,4,2018,21,Cambridge United,1370,47,46,12,11,23,-26,40,66,89
+League_Two,4,2018,22,Macclesfield,1380,44,46,10,14,22,-26,48,74,90
+League_Two,4,2018,23,Notts County,1376,41,46,9,14,23,-36,48,84,91
+League_Two,4,2018,24,Yeovil Town,1377,40,46,9,13,24,-25,41,66,92
 Premier_League,1,2019,1,Liverpool,40,99,38,32,3,3,52,85,33,1
 Premier_League,1,2019,2,Manchester City,50,81,38,26,3,9,67,102,35,2
 Premier_League,1,2019,3,Manchester United,33,66,38,18,12,8,30,66,36,3
@@ -610,6 +802,30 @@ League_One,3,2019,20,AFC Wimbledon,1333,35,35,8,11,16,-13,39,52,64
 League_One,3,2019,21,Tranmere,1381,32,34,8,8,18,-24,36,60,65
 League_One,3,2019,22,Southend,1341,19,35,4,7,24,-46,39,85,66
 League_One,3,2019,23,Bolton,68,14,34,5,11,18,-39,27,66,67
+League_Two,4,2019,1,Swindon Town,1353,69,36,21,6,9,23,62,39,68
+League_Two,4,2019,2,Crewe,1363,69,37,20,9,8,24,67,43,69
+League_Two,4,2019,3,Plymouth,1357,68,37,20,8,9,22,61,39,70
+League_Two,4,2019,4,Cheltenham,1372,64,36,17,13,6,25,52,27,71
+League_Two,4,2019,5,Exeter City,1364,65,37,18,11,8,10,53,43,72
+League_Two,4,2019,6,Colchester,1361,58,37,15,13,9,15,52,37,73
+League_Two,4,2019,7,Northampton,1337,58,37,17,7,13,14,54,40,74
+League_Two,4,2019,8,Port Vale,1351,57,37,14,15,8,6,50,44,75
+League_Two,4,2019,9,Bradford,1343,54,37,14,12,11,4,44,40,76
+League_Two,4,2019,10,Forest Green,1378,49,36,13,10,13,3,43,40,77
+League_Two,4,2019,11,Salford City,1844,50,37,13,11,13,3,49,46,78
+League_Two,4,2019,12,Walsall,1342,47,36,13,8,15,-9,40,49,79
+League_Two,4,2019,13,Crawley Town,1362,48,37,11,15,11,4,51,47,80
+League_Two,4,2019,14,Newport County,1367,46,36,12,10,14,-7,32,39,81
+League_Two,4,2019,15,Grimsby,1365,47,37,12,11,14,-6,45,51,82
+League_Two,4,2019,16,Cambridge United,1370,45,37,12,9,16,-8,40,48,83
+League_Two,4,2019,17,Leyton Orient,1373,42,36,10,12,14,-8,47,55,84
+League_Two,4,2019,18,Carlisle,1371,42,37,10,12,15,-17,39,56,85
+League_Two,4,2019,19,Oldham,1349,41,37,9,14,14,-13,44,57,86
+League_Two,4,2019,20,Scunthorpe,1340,40,37,10,10,17,-12,44,56,87
+League_Two,4,2019,21,Mansfield Town,1374,38,36,9,11,16,-7,48,55,88
+League_Two,4,2019,22,Morecambe,1375,32,37,7,11,19,-25,35,60,89
+League_Two,4,2019,23,Macclesfield,1380,23,37,7,15,15,-15,32,47,90
+League_Two,4,2019,24,Stevenage,1368,22,36,3,13,20,-26,24,50,91
 Premier_League,1,2020,1,Manchester City,50,86,38,27,5,6,51,83,32,1
 Premier_League,1,2020,2,Manchester United,33,74,38,21,11,6,29,73,44,2
 Premier_League,1,2020,3,Liverpool,40,69,38,20,9,9,26,68,42,3
@@ -678,6 +894,30 @@ League_One,3,2020,21,Rochdale,1339,47,46,11,14,21,-17,61,78,65
 League_One,3,2020,22,Northampton,1337,45,46,11,12,23,-26,41,67,66
 League_One,3,2020,23,Swindon Town,1353,43,46,13,4,29,-34,55,89,67
 League_One,3,2020,24,Bristol Rovers,1334,38,46,10,8,28,-30,40,70,68
+League_Two,4,2020,1,Cheltenham,1372,82,46,24,10,12,22,61,39,69
+League_Two,4,2020,2,Cambridge United,1370,80,46,24,8,14,24,73,49,70
+League_Two,4,2020,3,Bolton,68,79,46,23,10,13,9,59,50,71
+League_Two,4,2020,4,Morecambe,1375,78,46,23,9,14,11,69,58,72
+League_Two,4,2020,5,Newport County,1367,73,46,20,13,13,15,57,42,73
+League_Two,4,2020,6,Forest Green,1378,73,46,20,13,13,8,59,51,74
+League_Two,4,2020,7,Tranmere,1381,73,46,20,13,13,5,55,50,75
+League_Two,4,2020,8,Salford City,1844,71,46,19,14,13,20,54,34,76
+League_Two,4,2020,9,Exeter City,1364,70,46,18,16,12,21,71,50,77
+League_Two,4,2020,10,Carlisle,1371,66,46,18,12,16,9,60,51,78
+League_Two,4,2020,11,Leyton Orient,1373,61,46,17,10,19,-2,53,55,79
+League_Two,4,2020,12,Crawley Town,1362,61,46,16,13,17,-6,56,62,80
+League_Two,4,2020,13,Port Vale,1351,60,46,17,9,20,0,57,57,81
+League_Two,4,2020,14,Stevenage,1368,60,46,14,18,14,0,41,41,82
+League_Two,4,2020,15,Bradford,1343,59,46,16,11,19,-5,48,53,83
+League_Two,4,2020,16,Mansfield Town,1374,58,46,13,19,14,2,57,55,84
+League_Two,4,2020,17,Harrogate Town,1842,57,46,16,9,21,-9,52,61,85
+League_Two,4,2020,18,Oldham,1349,54,46,15,9,22,-9,72,81,86
+League_Two,4,2020,19,Walsall,1342,53,46,11,20,15,-8,45,53,87
+League_Two,4,2020,20,Colchester,1361,51,46,11,18,17,-17,44,61,88
+League_Two,4,2020,21,Barrow,1819,50,46,13,11,22,-6,53,59,89
+League_Two,4,2020,22,Scunthorpe,1340,48,46,13,9,24,-23,41,64,90
+League_Two,4,2020,23,Southend,1341,45,46,10,15,21,-29,29,58,91
+League_Two,4,2020,24,Grimsby,1365,43,46,10,13,23,-32,37,69,92
 Premier_League,1,2021,1,Manchester City,50,93,38,29,6,3,73,99,26,1
 Premier_League,1,2021,2,Liverpool,40,92,38,28,8,2,68,94,26,2
 Premier_League,1,2021,3,Chelsea,49,74,38,21,11,6,43,76,33,3
@@ -746,6 +986,30 @@ League_One,3,2021,21,Gillingham,1347,40,46,8,16,22,-34,35,69,65
 League_One,3,2021,22,Doncaster,1354,38,46,10,8,28,-45,37,82,66
 League_One,3,2021,23,AFC Wimbledon,1333,37,46,6,19,21,-26,49,75,67
 League_One,3,2021,24,Crewe,1363,29,46,7,8,31,-46,37,83,68
+League_Two,4,2021,1,Forest Green,1378,84,46,23,15,8,31,75,44,69
+League_Two,4,2021,2,Exeter City,1364,84,46,23,15,8,24,65,41,70
+League_Two,4,2021,3,Bristol Rovers,1334,80,46,23,11,12,22,71,49,71
+League_Two,4,2021,4,Northampton,1337,80,46,23,11,12,22,60,38,72
+League_Two,4,2021,5,Port Vale,1351,78,46,22,12,12,21,67,46,73
+League_Two,4,2021,6,Swindon Town,1353,77,46,22,11,13,23,77,54,74
+League_Two,4,2021,7,Mansfield Town,1374,77,46,22,11,13,15,67,52,75
+League_Two,4,2021,8,Sutton Utd,1835,76,46,22,10,14,16,69,53,76
+League_Two,4,2021,9,Tranmere,1381,75,46,21,12,13,13,53,40,77
+League_Two,4,2021,10,Salford City,1844,70,46,19,13,14,14,60,46,78
+League_Two,4,2021,11,Newport County,1367,69,46,19,12,15,9,67,58,79
+League_Two,4,2021,12,Crawley Town,1362,61,46,17,10,19,-10,56,66,80
+League_Two,4,2021,13,Leyton Orient,1373,58,46,14,16,16,15,62,47,81
+League_Two,4,2021,14,Bradford,1343,58,46,14,16,16,-2,53,55,82
+League_Two,4,2021,15,Colchester,1361,55,46,14,13,19,-12,48,60,83
+League_Two,4,2021,16,Walsall,1342,54,46,14,12,20,-13,47,60,84
+League_Two,4,2021,17,Hartlepool,1366,54,46,14,12,20,-20,44,64,85
+League_Two,4,2021,18,Rochdale,1339,53,46,12,17,17,-8,51,59,86
+League_Two,4,2021,19,Harrogate Town,1842,53,46,14,11,21,-11,64,75,87
+League_Two,4,2021,20,Carlisle,1371,53,46,14,11,21,-23,39,62,88
+League_Two,4,2021,21,Stevenage,1368,47,46,11,14,21,-23,45,68,89
+League_Two,4,2021,22,Barrow,1819,44,46,10,14,22,-13,44,57,90
+League_Two,4,2021,23,Oldham,1349,38,46,9,11,26,-29,46,75,91
+League_Two,4,2021,24,Scunthorpe,1340,26,46,4,14,28,-61,29,90,92
 Premier_League,1,2022,1,Manchester City,50,89,38,28,5,5,61,94,33,1
 Premier_League,1,2022,2,Arsenal,42,84,38,26,6,6,45,88,43,2
 Premier_League,1,2022,3,Manchester United,33,75,38,23,6,9,15,58,43,3
@@ -814,6 +1078,30 @@ League_One,3,2022,21,Milton Keynes Dons,1348,45,46,11,12,23,-22,44,66,65
 League_One,3,2022,22,Morecambe,1375,44,46,10,14,22,-31,47,78,66
 League_One,3,2022,23,Accrington ST,1360,44,46,11,11,24,-37,40,77,67
 League_One,3,2022,24,Forest Green,1378,27,46,6,9,31,-58,31,89,68
+League_Two,4,2022,1,Leyton Orient,1373,91,46,26,13,7,27,61,34,69
+League_Two,4,2022,2,Stevenage,1368,85,46,24,13,9,22,61,39,70
+League_Two,4,2022,3,Northampton,1337,83,46,23,14,9,20,62,42,71
+League_Two,4,2022,4,Stockport County,4686,79,46,22,13,11,28,65,37,72
+League_Two,4,2022,5,Carlisle,1371,76,46,20,16,10,23,66,43,73
+League_Two,4,2022,6,Bradford,1343,76,46,20,16,10,18,61,43,74
+League_Two,4,2022,7,Salford City,1844,75,46,22,9,15,18,72,54,75
+League_Two,4,2022,8,Mansfield Town,1374,75,46,21,12,13,17,72,55,76
+League_Two,4,2022,9,Barrow,1819,62,46,18,8,20,-6,47,53,77
+League_Two,4,2022,10,Swindon Town,1353,61,46,16,13,17,6,61,55,78
+League_Two,4,2022,11,Grimsby,1365,61,46,16,13,17,-7,49,56,79
+League_Two,4,2022,12,Tranmere,1381,58,46,15,13,18,-3,45,48,80
+League_Two,4,2022,13,Crewe,1363,58,46,14,16,16,-12,48,60,81
+League_Two,4,2022,14,Sutton Utd,1835,58,46,15,13,18,-12,46,58,82
+League_Two,4,2022,15,Newport County,1367,57,46,14,15,17,-3,53,56,83
+League_Two,4,2022,16,Walsall,1342,55,46,12,19,15,-3,46,49,84
+League_Two,4,2022,17,Gillingham,1347,55,46,14,13,19,-13,36,49,85
+League_Two,4,2022,18,Doncaster,1354,55,46,16,7,23,-19,46,65,86
+League_Two,4,2022,19,Harrogate Town,1842,52,46,12,16,18,-9,59,68,87
+League_Two,4,2022,20,Colchester,1361,49,46,12,13,21,-7,44,51,88
+League_Two,4,2022,21,AFC Wimbledon,1333,48,46,11,15,20,-12,48,60,89
+League_Two,4,2022,22,Crawley Town,1362,46,46,11,13,22,-23,48,71,90
+League_Two,4,2022,23,Hartlepool,1366,43,46,9,16,21,-26,52,78,91
+League_Two,4,2022,24,Rochdale,1339,38,46,9,11,26,-24,46,70,92
 Premier_League,1,2023,1,Manchester City,50,91,38,28,7,3,62,96,34,1
 Premier_League,1,2023,2,Arsenal,42,89,38,28,5,5,62,91,29,2
 Premier_League,1,2023,3,Liverpool,40,82,38,24,10,4,45,86,41,3
@@ -882,3 +1170,27 @@ League_One,3,2023,21,Cheltenham,1372,44,46,12,8,26,-24,41,65,65
 League_One,3,2023,22,Fleetwood Town,1336,43,46,10,13,23,-23,49,72,66
 League_One,3,2023,23,Port Vale,1351,41,46,10,11,25,-33,41,74,67
 League_One,3,2023,24,Carlisle,1371,30,46,7,9,30,-40,41,81,68
+League_Two,4,2023,1,Stockport County,4686,92,46,27,11,8,48,96,48,69
+League_Two,4,2023,2,Wrexham,1837,88,46,26,10,10,37,89,52,70
+League_Two,4,2023,3,Mansfield Town,1374,86,46,24,14,8,43,90,47,71
+League_Two,4,2023,4,Milton Keynes Dons,1348,78,46,23,9,14,15,83,68,72
+League_Two,4,2023,5,Doncaster,1354,71,46,21,8,17,5,73,68,73
+League_Two,4,2023,6,Crewe,1363,71,46,19,14,13,4,69,65,74
+League_Two,4,2023,7,Crawley Town,1362,70,46,21,7,18,6,73,67,75
+League_Two,4,2023,8,Barrow,1819,69,46,18,15,13,6,62,56,76
+League_Two,4,2023,9,Bradford,1343,69,46,19,12,15,2,61,59,77
+League_Two,4,2023,10,AFC Wimbledon,1333,65,46,17,14,15,13,64,51,78
+League_Two,4,2023,11,Walsall,1342,65,46,18,11,17,-4,69,73,79
+League_Two,4,2023,12,Gillingham,1347,64,46,18,10,18,-11,46,57,80
+League_Two,4,2023,13,Harrogate Town,1842,63,46,17,12,17,-9,60,69,81
+League_Two,4,2023,14,Notts County,1376,61,46,18,7,21,3,89,86,82
+League_Two,4,2023,15,Morecambe,1375,58,46,17,10,19,-14,67,81,83
+League_Two,4,2023,16,Tranmere,1381,57,46,17,6,23,-3,67,70,84
+League_Two,4,2023,17,Accrington ST,1360,57,46,16,9,21,-8,63,71,85
+League_Two,4,2023,18,Newport County,1367,55,46,16,7,23,-14,62,76,86
+League_Two,4,2023,19,Swindon Town,1353,54,46,14,12,20,-6,77,83,87
+League_Two,4,2023,20,Salford City,1844,51,46,13,12,21,-16,66,82,88
+League_Two,4,2023,21,Grimsby,1365,49,46,11,16,19,-17,57,74,89
+League_Two,4,2023,22,Colchester,1361,45,46,11,12,23,-21,59,80,90
+League_Two,4,2023,23,Sutton Utd,1835,42,46,9,15,22,-25,59,84,91
+League_Two,4,2023,24,Forest Green,1378,42,46,11,9,26,-34,44,78,92

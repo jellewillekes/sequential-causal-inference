@@ -1343,3 +1343,187 @@ year,round,stage,fixture_id,fixture_date,team_name,team_id,opponent_name,opponen
 2022,Semi-finals,2,1017414,2023-04-12T18:30:00+00:00,SC Braga,217,Nacional,225,1.0,away,90,Estádio da Madeira
 2022,Final,1,1025280,2023-06-04T16:15:00+00:00,SC Braga,217,FC Porto,212,0.0,home,90,Estádio Nacional
 2022,Final,1,1025280,2023-06-04T16:15:00+00:00,FC Porto,212,SC Braga,217,1.0,away,90,Estádio Nacional
+2023,2nd Round,7,1115493,2023-09-23T16:00:00+00:00,Trofense,4801,Pevidem,6362,0.0,home,90,Estádio do Clube Desportivo Trofense
+2023,2nd Round,7,1115493,2023-09-23T16:00:00+00:00,Pevidem,6362,Trofense,4801,1.0,away,90,Estádio do Clube Desportivo Trofense
+2023,2nd Round,7,1115494,2023-09-24T10:00:00+00:00,Vilar de Perdizes,4896,Vasco da Gama Vidigueira,4808,1.0,home,90,Complexo Desportivo Francisco Carvalho
+2023,2nd Round,7,1115494,2023-09-24T10:00:00+00:00,Vasco da Gama Vidigueira,4808,Vilar de Perdizes,4896,0.0,away,90,Complexo Desportivo Francisco Carvalho
+2023,2nd Round,7,1115495,2023-09-24T14:00:00+00:00,Sertanense,4794,Amarante,4725,0.0,home,90,Campo de Jogos Dr. Marques dos Santos
+2023,2nd Round,7,1115495,2023-09-24T14:00:00+00:00,Amarante,4725,Sertanense,4794,1.0,away,90,Campo de Jogos Dr. Marques dos Santos
+2023,2nd Round,7,1115497,2023-09-24T14:00:00+00:00,Pedrógão São Pedro,20039,União de Leiria,4662,0.0,home,90,Estádio Municipal Penamacor
+2023,2nd Round,7,1115497,2023-09-24T14:00:00+00:00,União de Leiria,4662,Pedrógão São Pedro,20039,1.0,away,90,Estádio Municipal Penamacor
+2023,2nd Round,7,1115498,2023-09-24T14:00:00+00:00,Recreativa de Lamelas,20353,Tirsense,15128,0.0,home,90,Campo Padre José Tavares
+2023,2nd Round,7,1115498,2023-09-24T14:00:00+00:00,Tirsense,15128,Recreativa de Lamelas,20353,1.0,away,90,Campo Padre José Tavares
+2023,2nd Round,7,1115499,2023-09-24T14:00:00+00:00,FC Barreirense,4743,Mirandela,4769,0.0,home,90,Campo da Verderena
+2023,2nd Round,7,1115499,2023-09-24T14:00:00+00:00,Mirandela,4769,FC Barreirense,4743,1.0,away,90,Campo da Verderena
+2023,2nd Round,7,1115500,2023-09-23T14:00:00+00:00,Ponte,22165,Vilaverdense,4814,0.0,home,90,Parque de Jogos do Brito SC
+2023,2nd Round,7,1115500,2023-09-23T14:00:00+00:00,Vilaverdense,4814,Ponte,22165,1.0,away,90,Parque de Jogos do Brito SC
+2023,2nd Round,7,1115501,2023-09-24T14:00:00+00:00,Brito,15126,Feirense,213,0.0,home,90,Parque de Jogos do Brito SC
+2023,2nd Round,7,1115501,2023-09-24T14:00:00+00:00,Feirense,213,Brito,15126,1.0,away,90,Parque de Jogos do Brito SC
+2023,2nd Round,7,1115502,2023-09-23T13:00:00+00:00,São João Ver,6367,Leixoes,244,0.0,home,90,Estádio Clube São João de Ver
+2023,2nd Round,7,1115502,2023-09-23T13:00:00+00:00,Leixoes,244,São João Ver,6367,1.0,away,90,Estádio Clube São João de Ver
+2023,2nd Round,7,1115503,2023-09-24T14:00:00+00:00,Gafetense,4749,Mafra,245,0.0,home,90,Estadio Armando Pequito
+2023,2nd Round,7,1115503,2023-09-24T14:00:00+00:00,Mafra,245,Gafetense,4749,1.0,away,90,Estadio Armando Pequito
+2023,2nd Round,7,1115504,2023-09-23T14:00:00+00:00,O Elvas,17388,Lanheses,22160,1.0,home,90,Campo Domingos Carrilho Patalino
+2023,2nd Round,7,1115504,2023-09-23T14:00:00+00:00,Lanheses,22160,O Elvas,17388,0.0,away,90,Campo Domingos Carrilho Patalino
+2023,2nd Round,7,1115505,2023-09-24T11:00:00+00:00,Rabo Peixe,4787,CF Oliveira Douro,22090,1.0,home,90,Campo Bom Jesus
+2023,2nd Round,7,1115505,2023-09-24T11:00:00+00:00,CF Oliveira Douro,22090,Rabo Peixe,4787,0.0,away,90,Campo Bom Jesus
+2023,2nd Round,7,1115506,2023-09-24T10:00:00+00:00,Oriental Lisboa,4775,Torreense,4799,0.0,home,90,Campo Engenheiro Carlos Salema
+2023,2nd Round,7,1115506,2023-09-24T10:00:00+00:00,Torreense,4799,Oriental Lisboa,4775,1.0,away,90,Campo Engenheiro Carlos Salema
+2023,2nd Round,7,1115507,2023-09-27T10:00:00+00:00,Luzense,22162,Camacha,4828,0.0,home,90,Campo Municipal da Luz
+2023,2nd Round,7,1115507,2023-09-27T10:00:00+00:00,Camacha,4828,Luzense,22162,1.0,away,90,Campo Municipal da Luz
+2023,2nd Round,7,1115508,2023-09-24T14:00:00+00:00,1º Dezembro,4718,Pacos Ferreira,234,1.0,home,120,Campo Conde de Sucena
+2023,2nd Round,7,1115508,2023-09-24T14:00:00+00:00,Pacos Ferreira,234,1º Dezembro,4718,0.0,away,120,Campo Conde de Sucena
+2023,2nd Round,7,1115509,2023-09-24T11:00:00+00:00,Lusitânia,4763,Os Marialvas,20038,1.0,home,90,Campo de Jogos de São Mateus da Calheta
+2023,2nd Round,7,1115509,2023-09-24T11:00:00+00:00,Os Marialvas,20038,Lusitânia,4763,0.0,away,90,Campo de Jogos de São Mateus da Calheta
+2023,2nd Round,7,1132059,2023-09-24T14:00:00+00:00,Canelas 2010,4829,Fontinhas,6355,1.0,home,90,Estádio Clube Futebol Canelas 2010
+2023,2nd Round,7,1132059,2023-09-24T14:00:00+00:00,Fontinhas,6355,Canelas 2010,4829,0.0,away,90,Estádio Clube Futebol Canelas 2010
+2023,2nd Round,7,1132088,2023-09-24T13:00:00+00:00,Moncarapachense,4847,União Micaelense,22169,1.0,home,90,Estádio da Torrinha
+2023,2nd Round,7,1132088,2023-09-24T13:00:00+00:00,União Micaelense,22169,Moncarapachense,4847,0.0,away,90,Estádio da Torrinha
+2023,2nd Round,7,1132089,2023-09-24T13:00:00+00:00,Lusitânia Lourosa,6358,Academico Viseu,238,0.0,home,90,Estádio do Lusitânia FC
+2023,2nd Round,7,1132089,2023-09-24T13:00:00+00:00,Academico Viseu,238,Lusitânia Lourosa,6358,1.0,away,90,Estádio do Lusitânia FC
+2023,2nd Round,7,1132091,2023-09-24T14:00:00+00:00,Lusitano Évora 1911,15207,SC Covilha,236,0.0,home,120,Campo Estrela
+2023,2nd Round,7,1132091,2023-09-24T14:00:00+00:00,SC Covilha,236,Lusitano Évora 1911,15207,1.0,away,120,Campo Estrela
+2023,2nd Round,7,1132092,2023-09-23T10:00:00+00:00,Fabril Barreiro,4882,Maritimo,214,0.0,home,90,Estádio Alfredo da Silva
+2023,2nd Round,7,1132092,2023-09-23T10:00:00+00:00,Maritimo,214,Fabril Barreiro,4882,1.0,away,90,Estádio Alfredo da Silva
+2023,2nd Round,7,1132093,2023-09-24T14:00:00+00:00,Vitória de Sernache,4816,Vianense,4809,0.0,home,90,Estádio Municipal Nuno Álvares Pereira
+2023,2nd Round,7,1132093,2023-09-24T14:00:00+00:00,Vianense,4809,Vitória de Sernache,4816,1.0,away,90,Estádio Municipal Nuno Álvares Pereira
+2023,2nd Round,7,1132094,2023-09-24T14:00:00+00:00,Pombal,4853,Tondela,218,0.0,home,90,Estádio Municipal de Pombal
+2023,2nd Round,7,1132094,2023-09-24T14:00:00+00:00,Tondela,218,Pombal,4853,1.0,away,90,Estádio Municipal de Pombal
+2023,2nd Round,7,1132095,2023-09-24T14:00:00+00:00,Mortágua,4850,Amora,4726,1.0,home,90,Campo da Gandarada
+2023,2nd Round,7,1132095,2023-09-24T14:00:00+00:00,Amora,4726,Mortágua,4850,0.0,away,90,Campo da Gandarada
+2023,2nd Round,7,1132098,2023-09-24T14:00:00+00:00,Quarteirense SAD,22168,CF Os Belenenses,17692,0.0,home,90,Estádio Municipal de Quarteira
+2023,2nd Round,7,1132098,2023-09-24T14:00:00+00:00,CF Os Belenenses,17692,Quarteirense SAD,22168,1.0,away,90,Estádio Municipal de Quarteira
+2023,2nd Round,7,1132099,2023-09-24T19:00:00+00:00,Felgueiras 1932,4744,Os Limianos,4776,1.0,home,90,Estádio Dr. Machado de Matos
+2023,2nd Round,7,1132099,2023-09-24T19:00:00+00:00,Os Limianos,4776,Felgueiras 1932,4744,0.0,away,90,Estádio Dr. Machado de Matos
+2023,2nd Round,7,1132100,2023-09-24T14:00:00+00:00,Sanjoanense,4792,Vitoria Setubal,219,0.0,home,90,Estádio Conde Dias Garcia
+2023,2nd Round,7,1132100,2023-09-24T14:00:00+00:00,Vitoria Setubal,219,Sanjoanense,4792,1.0,away,90,Estádio Conde Dias Garcia
+2023,2nd Round,7,1132101,2023-09-24T14:00:00+00:00,FC Serpa,17442,Gouveia,4751,1.0,home,90,Campo Sintético Complexo Desportivo Manuel Baião
+2023,2nd Round,7,1132101,2023-09-24T14:00:00+00:00,Gouveia,4751,FC Serpa,17442,0.0,away,90,Campo Sintético Complexo Desportivo Manuel Baião
+2023,2nd Round,7,1132102,2023-09-23T14:00:00+00:00,Louletano,4758,AVS,21595,0.0,home,90,Estádio Do Algarve
+2023,2nd Round,7,1132102,2023-09-23T14:00:00+00:00,AVS,21595,Louletano,4758,1.0,away,90,Estádio Do Algarve
+2023,2nd Round,7,1132103,2023-09-24T13:00:00+00:00,Castrense,4830,Vila Meã,15211,0.0,home,90,Estádio Municipal 25 de Abril
+2023,2nd Round,7,1132103,2023-09-24T13:00:00+00:00,Vila Meã,15211,Castrense,4830,1.0,away,90,Estádio Municipal 25 de Abril
+2023,2nd Round,7,1132104,2023-09-24T14:00:00+00:00,União de Tomar,4804,Pêro Pinheiro,4854,0.0,home,90,Estádio Municipal de Tomar
+2023,2nd Round,7,1132104,2023-09-24T14:00:00+00:00,Pêro Pinheiro,4854,União de Tomar,4804,1.0,away,90,Estádio Municipal de Tomar
+2023,2nd Round,7,1132105,2023-09-24T14:00:00+00:00,Dumiense,20036,União Santarém,6369,1.0,home,120,Campo Celestino Lobo
+2023,2nd Round,7,1132105,2023-09-24T14:00:00+00:00,União Santarém,6369,Dumiense,20036,0.0,away,120,Campo Celestino Lobo
+2023,2nd Round,7,1132106,2023-09-24T14:00:00+00:00,Ribeirão,17778,Santa Clara,227,0.0,home,90,Estádio do Passal
+2023,2nd Round,7,1132106,2023-09-24T14:00:00+00:00,Santa Clara,227,Ribeirão,17778,1.0,away,90,Estádio do Passal
+2023,2nd Round,7,1132107,2023-09-24T14:00:00+00:00,Alqueidão da Serra,15202,AD Marco 09,22089,0.0,home,90,Campo da Manga Branca
+2023,2nd Round,7,1132107,2023-09-24T14:00:00+00:00,AD Marco 09,22089,Alqueidão da Serra,15202,1.0,away,90,Campo da Manga Branca
+2023,2nd Round,7,1132108,2023-09-24T16:00:00+00:00,Academica,239,Oliveira Hospital,4773,1.0,home,90,Estádio EFAPEL
+2023,2nd Round,7,1132108,2023-09-24T16:00:00+00:00,Oliveira Hospital,4773,Academica,239,0.0,away,90,Estádio EFAPEL
+2023,2nd Round,7,1132109,2023-09-24T14:00:00+00:00,Paredes,4778,Florgrade,22091,1.0,home,90,Cidade Desportiva De Paredes
+2023,2nd Round,7,1132109,2023-09-24T14:00:00+00:00,Florgrade,22091,Paredes,4778,0.0,away,90,Cidade Desportiva De Paredes
+2023,2nd Round,7,1132110,2023-09-23T14:00:00+00:00,Portosantense,22087,Nacional,225,0.0,home,90,Estádio Municipal de Camara de Lobos
+2023,2nd Round,7,1132110,2023-09-23T14:00:00+00:00,Nacional,225,Portosantense,22087,1.0,away,90,Estádio Municipal de Camara de Lobos
+2023,2nd Round,7,1132111,2023-09-23T14:00:00+00:00,Tocha,4863,Rebordosa,6365,0.0,home,90,Complexo Desportivo da Tocha
+2023,2nd Round,7,1132111,2023-09-23T14:00:00+00:00,Rebordosa,6365,Tocha,4863,1.0,away,90,Complexo Desportivo da Tocha
+2023,2nd Round,7,1132112,2023-09-24T14:00:00+00:00,Atlético CP,4872,Alverca,4724,1.0,home,120,Estádio Da Tapadinha
+2023,2nd Round,7,1132112,2023-09-24T14:00:00+00:00,Alverca,4724,Atlético CP,4872,0.0,away,120,Estádio Da Tapadinha
+2023,2nd Round,7,1132113,2023-09-24T14:00:00+00:00,Sandinenses,22088,CD Olivais e Moscavide,17776,0.0,home,90,Campo Jogos D. Maria Teresa
+2023,2nd Round,7,1132113,2023-09-24T14:00:00+00:00,CD Olivais e Moscavide,17776,Sandinenses,22088,1.0,away,90,Campo Jogos D. Maria Teresa
+2023,2nd Round,7,1132350,2023-09-24T14:00:00+00:00,Juventude Évora,4755,Sintrense,4796,0.0,home,90,Estádio Sanches de Miranda
+2023,2nd Round,7,1132350,2023-09-24T14:00:00+00:00,Sintrense,4796,Juventude Évora,4755,1.0,away,90,Estádio Sanches de Miranda
+2023,2nd Round,7,1134241,2023-09-24T14:00:00+00:00,Salgueiros,4859,Santa Maria FC,22495,0.0,home,90,Complexo Desportivo de Campanhã
+2023,2nd Round,7,1134241,2023-09-24T14:00:00+00:00,Santa Maria FC,22495,Salgueiros,4859,1.0,away,90,Complexo Desportivo de Campanhã
+2023,3rd Round,6,1136289,2023-10-21T14:30:00+00:00,Vila Meã,15211,Estrela,15130,0.0,home,90,Estádio Municipal de Vila Meã
+2023,3rd Round,6,1136289,2023-10-21T14:30:00+00:00,Estrela,15130,Vila Meã,15211,1.0,away,90,Estádio Municipal de Vila Meã
+2023,3rd Round,6,1136290,2023-10-21T18:00:00+00:00,Felgueiras 1932,4744,Arouca,240,0.0,home,90,Estádio Dr. Machado de Matos
+2023,3rd Round,6,1136290,2023-10-21T18:00:00+00:00,Arouca,240,Felgueiras 1932,4744,1.0,away,90,Estádio Dr. Machado de Matos
+2023,3rd Round,6,1136291,2023-10-21T19:45:00+00:00,CD Olivais e Moscavide,17776,Sporting CP,228,0.0,home,90,Estádio José Gomes
+2023,3rd Round,6,1136291,2023-10-21T19:45:00+00:00,Sporting CP,228,CD Olivais e Moscavide,17776,1.0,away,90,Estádio José Gomes
+2023,3rd Round,6,1136292,2023-10-21T14:00:00+00:00,Atlético CP,4872,Vizela,810,0.0,home,90,Estádio Da Tapadinha
+2023,3rd Round,6,1136292,2023-10-21T14:00:00+00:00,Vizela,810,Atlético CP,4872,1.0,away,90,Estádio Da Tapadinha
+2023,3rd Round,6,1136293,2023-10-22T19:00:00+00:00,Oliveirense,233,Boavista,222,0.0,home,90,Estádio Carlos Osório
+2023,3rd Round,6,1136293,2023-10-22T19:00:00+00:00,Boavista,222,Oliveirense,233,1.0,away,90,Estádio Carlos Osório
+2023,3rd Round,6,1136294,2023-11-18T14:15:00+00:00,Camacha,4828,Famalicao,242,0.0,home,90,Complexo Desportivo da Camacha Campo B
+2023,3rd Round,6,1136294,2023-11-18T14:15:00+00:00,Famalicao,242,Camacha,4828,1.0,away,90,Complexo Desportivo da Camacha Campo B
+2023,3rd Round,6,1136295,2023-10-19T19:00:00+00:00,Rebordosa,6365,SC Braga,217,0.0,home,90,Estádio Monte de Azevido
+2023,3rd Round,6,1136295,2023-10-19T19:00:00+00:00,SC Braga,217,Rebordosa,6365,1.0,away,90,Estádio Monte de Azevido
+2023,3rd Round,6,1136296,2023-10-21T13:00:00+00:00,Paredes,4778,Moreirense,215,1.0,home,90,Estádio Municipal das Laranjeiras
+2023,3rd Round,6,1136296,2023-10-21T13:00:00+00:00,Moreirense,215,Paredes,4778,0.0,away,90,Estádio Municipal das Laranjeiras
+2023,3rd Round,6,1136297,2023-10-22T14:00:00+00:00,Vilaverdense,4814,Farense,231,1.0,home,90,Campo Cruz Do Reguengo
+2023,3rd Round,6,1136297,2023-10-22T14:00:00+00:00,Farense,231,Vilaverdense,4814,0.0,away,90,Campo Cruz Do Reguengo
+2023,3rd Round,6,1136298,2023-10-20T19:45:00+00:00,Vilar de Perdizes,4896,FC Porto,212,0.0,home,90,Estádio Municipal Eng. Manuel Branco Teixeira
+2023,3rd Round,6,1136298,2023-10-20T19:45:00+00:00,FC Porto,212,Vilar de Perdizes,4896,1.0,away,90,Estádio Municipal Eng. Manuel Branco Teixeira
+2023,3rd Round,6,1136299,2023-10-22T14:00:00+00:00,Moncarapachense,4847,Guimaraes,224,0.0,home,90,Estádio Do Algarve
+2023,3rd Round,6,1136299,2023-10-22T14:00:00+00:00,Guimaraes,224,Moncarapachense,4847,1.0,away,90,Estádio Do Algarve
+2023,3rd Round,6,1136300,2023-10-22T10:00:00+00:00,Sintrense,4796,Estoril,230,0.0,home,90,Estadio do Sport União Sintrense
+2023,3rd Round,6,1136300,2023-10-22T10:00:00+00:00,Estoril,230,Sintrense,4796,1.0,away,90,Estadio do Sport União Sintrense
+2023,3rd Round,6,1136301,2023-10-21T15:00:00+00:00,Rabo Peixe,4787,Casa Pia,4716,0.0,home,90,Campo Bom Jesus
+2023,3rd Round,6,1136301,2023-10-21T15:00:00+00:00,Casa Pia,4716,Rabo Peixe,4787,1.0,away,90,Campo Bom Jesus
+2023,3rd Round,6,1136302,2023-10-22T14:00:00+00:00,Canelas 2010,4829,Chaves,223,1.0,home,120,Estádio Clube Futebol Canelas 2010
+2023,3rd Round,6,1136302,2023-10-22T14:00:00+00:00,Chaves,223,Canelas 2010,4829,0.0,away,120,Estádio Clube Futebol Canelas 2010
+2023,3rd Round,6,1136303,2023-10-22T13:00:00+00:00,Torreense,4799,Rio Ave,226,1.0,home,90,Campo Manuel Marques
+2023,3rd Round,6,1136303,2023-10-22T13:00:00+00:00,Rio Ave,226,Torreense,4799,0.0,away,90,Campo Manuel Marques
+2023,3rd Round,6,1136304,2023-10-22T16:00:00+00:00,CF Os Belenenses,17692,GIL Vicente,762,0.0,home,90,Estádio do Restelo
+2023,3rd Round,6,1136304,2023-10-22T16:00:00+00:00,GIL Vicente,762,CF Os Belenenses,17692,1.0,away,90,Estádio do Restelo
+2023,3rd Round,6,1136305,2023-10-22T14:00:00+00:00,Tondela,218,1º Dezembro,4718,1.0,home,90,Estádio João Cardoso
+2023,3rd Round,6,1136305,2023-10-22T14:00:00+00:00,1º Dezembro,4718,Tondela,218,0.0,away,90,Estádio João Cardoso
+2023,3rd Round,6,1136306,2023-10-20T18:00:00+00:00,SC Covilha,236,Portimonense,216,0.0,home,90,Estádio Municipal José Santos Pinto
+2023,3rd Round,6,1136306,2023-10-20T18:00:00+00:00,Portimonense,216,SC Covilha,236,1.0,away,90,Estádio Municipal José Santos Pinto
+2023,3rd Round,6,1136307,2023-10-21T19:00:00+00:00,Academico Viseu,238,União de Leiria,4662,0.0,home,90,Estádio Municipal do Fontelo
+2023,3rd Round,6,1136307,2023-10-21T19:00:00+00:00,União de Leiria,4662,Academico Viseu,238,1.0,away,90,Estádio Municipal do Fontelo
+2023,3rd Round,6,1136308,2023-10-22T14:00:00+00:00,Amarante,4725,Academica,239,1.0,home,90,Estádio Municipal de Amarante
+2023,3rd Round,6,1136308,2023-10-22T14:00:00+00:00,Academica,239,Amarante,4725,0.0,away,90,Estádio Municipal de Amarante
+2023,3rd Round,6,1136309,2023-10-22T14:00:00+00:00,Dumiense,20036,AVS,21595,1.0,home,90,Campo Celestino Lobo
+2023,3rd Round,6,1136309,2023-10-22T14:00:00+00:00,AVS,21595,Dumiense,20036,0.0,away,90,Campo Celestino Lobo
+2023,3rd Round,6,1136310,2023-10-21T14:00:00+00:00,Nacional,225,Mirandela,4769,1.0,home,90,Estádio da Madeira
+2023,3rd Round,6,1136310,2023-10-21T14:00:00+00:00,Mirandela,4769,Nacional,225,0.0,away,90,Estádio da Madeira
+2023,3rd Round,6,1136312,2023-10-22T14:00:00+00:00,Pêro Pinheiro,4854,FC Serpa,17442,0.0,home,120,Parque de Jogos Pardal Monteiro
+2023,3rd Round,6,1136312,2023-10-22T14:00:00+00:00,FC Serpa,17442,Pêro Pinheiro,4854,1.0,away,120,Parque de Jogos Pardal Monteiro
+2023,3rd Round,6,1136313,2023-10-22T14:00:00+00:00,Mafra,245,Feirense,213,1.0,home,120,Estádio Municipal de Mafra
+2023,3rd Round,6,1136313,2023-10-22T14:00:00+00:00,Feirense,213,Mafra,245,0.0,away,120,Estádio Municipal de Mafra
+2023,3rd Round,6,1136315,2023-10-22T14:00:00+00:00,Maritimo,214,Mortágua,4850,1.0,home,90,Estádio dos Barreiros
+2023,3rd Round,6,1136315,2023-10-22T14:00:00+00:00,Mortágua,4850,Maritimo,214,0.0,away,90,Estádio dos Barreiros
+2023,3rd Round,6,1136317,2023-10-22T14:00:00+00:00,Montalegre,4770,Pevidem,6362,1.0,home,90,Estádio Dr. Diogo Alves Vaz Pereira
+2023,3rd Round,6,1136317,2023-10-22T14:00:00+00:00,Pevidem,6362,Montalegre,4770,0.0,away,90,Estádio Dr. Diogo Alves Vaz Pereira
+2023,3rd Round,6,1136318,2023-10-22T14:00:00+00:00,Penafiel,235,Santa Maria FC,22495,1.0,home,90,Estádio Municipal 25 de Abril
+2023,3rd Round,6,1136318,2023-10-22T14:00:00+00:00,Santa Maria FC,22495,Penafiel,235,0.0,away,90,Estádio Municipal 25 de Abril
+2023,3rd Round,6,1136319,2023-10-20T15:30:00+00:00,Lusitânia,4763,Benfica,211,0.0,home,90,Estádio João Paulo II
+2023,3rd Round,6,1136319,2023-10-20T15:30:00+00:00,Benfica,211,Lusitânia,4763,1.0,away,90,Estádio João Paulo II
+2023,3rd Round,6,1136320,2023-10-21T11:00:00+00:00,Santa Clara,227,Vianense,4809,1.0,home,120,Estádio de São Miguel
+2023,3rd Round,6,1136320,2023-10-21T11:00:00+00:00,Vianense,4809,Santa Clara,227,0.0,away,120,Estádio de São Miguel
+2023,4th Round,5,1140452,2023-11-26T17:00:00+00:00,Estoril,230,Mafra,245,1.0,home,90,Estádio António Coimbra da Mota
+2023,4th Round,5,1140452,2023-11-26T17:00:00+00:00,Mafra,245,Estoril,230,0.0,away,90,Estádio António Coimbra da Mota
+2023,4th Round,5,1140453,2023-11-26T15:00:00+00:00,União de Leiria,4662,Atlético Malveira,4873,1.0,home,90,Estádio Dr. Magalhães Pessoa
+2023,4th Round,5,1140453,2023-11-26T15:00:00+00:00,Atlético Malveira,4873,União de Leiria,4662,0.0,away,90,Estádio Dr. Magalhães Pessoa
+2023,4th Round,5,1140454,2023-11-25T14:00:00+00:00,FC Serpa,17442,GIL Vicente,762,0.0,home,90,Campo Sintético Complexo Desportivo Manuel Baião
+2023,4th Round,5,1140454,2023-11-25T14:00:00+00:00,GIL Vicente,762,FC Serpa,17442,1.0,away,90,Campo Sintético Complexo Desportivo Manuel Baião
+2023,4th Round,5,1140455,2023-11-24T19:30:00+00:00,Vizela,810,Estrela,15130,1.0,home,120,Estádio Do Vizela
+2023,4th Round,5,1140455,2023-11-24T19:30:00+00:00,Estrela,15130,Vizela,810,0.0,away,120,Estádio Do Vizela
+2023,4th Round,5,1140456,2023-11-25T15:30:00+00:00,Portimonense,216,SC Braga,217,0.0,home,90,Estádio Municipal de Portimão
+2023,4th Round,5,1140456,2023-11-25T15:30:00+00:00,SC Braga,217,Portimonense,216,1.0,away,90,Estádio Municipal de Portimão
+2023,4th Round,5,1140457,2023-11-26T15:00:00+00:00,Paredes,4778,Amarante,4725,0.0,home,90,Estádio Municipal das Laranjeiras
+2023,4th Round,5,1140457,2023-11-26T15:00:00+00:00,Amarante,4725,Paredes,4778,1.0,away,90,Estádio Municipal das Laranjeiras
+2023,4th Round,5,1140460,2023-11-25T17:00:00+00:00,Penafiel,235,Vitoria Setubal,219,1.0,home,120,Estádio Municipal 25 de Abril
+2023,4th Round,5,1140460,2023-11-25T17:00:00+00:00,Vitoria Setubal,219,Penafiel,235,0.0,away,120,Estádio Municipal 25 de Abril
+2023,4th Round,5,1140461,2023-11-25T11:00:00+00:00,Canelas 2010,4829,Maritimo,214,0.0,home,90,Estádio Clube Futebol Canelas 2010
+2023,4th Round,5,1140461,2023-11-25T11:00:00+00:00,Maritimo,214,Canelas 2010,4829,1.0,away,90,Estádio Clube Futebol Canelas 2010
+2023,4th Round,5,1140462,2023-11-25T20:00:00+00:00,Guimaraes,224,Vilaverdense,4814,1.0,home,90,Estádio Dom Afonso Henriques
+2023,4th Round,5,1140462,2023-11-25T20:00:00+00:00,Vilaverdense,4814,Guimaraes,224,0.0,away,90,Estádio Dom Afonso Henriques
+2023,4th Round,5,1140463,2023-11-24T20:45:00+00:00,FC Porto,212,Montalegre,4770,1.0,home,90,Estádio Do Dragão
+2023,4th Round,5,1140463,2023-11-24T20:45:00+00:00,Montalegre,4770,FC Porto,212,0.0,away,90,Estádio Do Dragão
+2023,4th Round,5,1140464,2023-11-25T15:00:00+00:00,Nacional,225,Casa Pia,4716,1.0,home,120,Estádio da Madeira
+2023,4th Round,5,1140464,2023-11-25T15:00:00+00:00,Casa Pia,4716,Nacional,225,0.0,away,120,Estádio da Madeira
+2023,4th Round,5,1140465,2023-11-26T18:00:00+00:00,Sporting CP,228,Dumiense,20036,1.0,home,90,Estádio José Alvalade
+2023,4th Round,5,1140465,2023-11-26T18:00:00+00:00,Dumiense,20036,Sporting CP,228,0.0,away,90,Estádio José Alvalade
+2023,4th Round,5,1143621,2023-11-25T20:45:00+00:00,Benfica,211,Famalicao,242,1.0,home,90,Estádio do Sport Lisboa e Benfica
+2023,4th Round,5,1143621,2023-11-25T20:45:00+00:00,Famalicao,242,Benfica,211,0.0,away,90,Estádio do Sport Lisboa e Benfica
+2023,Quarter-finals,3,1160847,2024-02-08T18:45:00+00:00,Guimaraes,224,GIL Vicente,762,1.0,home,90,Estádio Dom Afonso Henriques
+2023,Quarter-finals,3,1160847,2024-02-08T18:45:00+00:00,GIL Vicente,762,Guimaraes,224,0.0,away,90,Estádio Dom Afonso Henriques
+2023,Quarter-finals,3,1160848,2024-02-08T20:45:00+00:00,Vizela,810,Benfica,211,0.0,home,90,Estádio Do Vizela
+2023,Quarter-finals,3,1160848,2024-02-08T20:45:00+00:00,Benfica,211,Vizela,810,1.0,away,90,Estádio Do Vizela
+2023,Quarter-finals,3,1160849,2024-02-07T20:45:00+00:00,União de Leiria,4662,Sporting CP,228,0.0,home,90,Estádio Dr. Magalhães Pessoa
+2023,Quarter-finals,3,1160849,2024-02-07T20:45:00+00:00,Sporting CP,228,União de Leiria,4662,1.0,away,90,Estádio Dr. Magalhães Pessoa
+2023,Quarter-finals,3,1160850,2024-02-29T16:00:00+00:00,Santa Clara,227,FC Porto,212,0.0,home,90,Estádio de São Miguel
+2023,Quarter-finals,3,1160850,2024-02-29T16:00:00+00:00,FC Porto,212,Santa Clara,227,1.0,away,90,Estádio de São Miguel
+2023,Semi-finals,2,1172712,2024-02-29T20:45:00+00:00,Sporting CP,228,Benfica,211,1.0,home,90,Estádio José Alvalade
+2023,Semi-finals,2,1172712,2024-02-29T20:45:00+00:00,Benfica,211,Sporting CP,228,0.0,away,90,Estádio José Alvalade
+2023,Semi-finals,2,1180029,2024-04-03T19:15:00+00:00,Guimaraes,224,FC Porto,212,0.0,home,90,Estádio Dom Afonso Henriques
+2023,Semi-finals,2,1180029,2024-04-03T19:15:00+00:00,FC Porto,212,Guimaraes,224,1.0,away,90,Estádio Dom Afonso Henriques
+2023,Semi-finals,2,1180030,2024-04-17T19:15:00+00:00,FC Porto,212,Guimaraes,224,1.0,home,90,Estádio Do Dragão
+2023,Semi-finals,2,1180030,2024-04-17T19:15:00+00:00,Guimaraes,224,FC Porto,212,0.0,away,90,Estádio Do Dragão
+2023,Final,1,1196805,2024-05-26T16:15:00+00:00,FC Porto,212,Sporting CP,228,1.0,home,120,Estádio Nacional
+2023,Final,1,1196805,2024-05-26T16:15:00+00:00,Sporting CP,228,FC Porto,212,0.0,away,120,Estádio Nacional

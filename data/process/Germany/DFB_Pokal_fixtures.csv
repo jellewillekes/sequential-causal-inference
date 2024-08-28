@@ -359,3 +359,33 @@ year,round,stage,fixture_id,fixture_date,team_name,team_id,opponent_name,opponen
 2022,Semi-finals,2,1021523,2023-05-03T18:45:00+00:00,Eintracht Frankfurt,169,VfB Stuttgart,172,1,away,90,Mercedes-Benz-Arena
 2022,Final,1,1025223,2023-06-03T18:00:00+00:00,RB Leipzig,173,Eintracht Frankfurt,169,1,home,90,Olympiastadion Berlin
 2022,Final,1,1025223,2023-06-03T18:00:00+00:00,Eintracht Frankfurt,169,RB Leipzig,173,0,away,90,Olympiastadion Berlin
+2023,Round of 16,4,1141474,2023-12-06T19:45:00+00:00,VfB Stuttgart,172,Borussia Dortmund,165,1,home,90,MHP Arena
+2023,Round of 16,4,1141474,2023-12-06T19:45:00+00:00,Borussia Dortmund,165,VfB Stuttgart,172,0,away,90,MHP Arena
+2023,Round of 16,4,1141475,2023-12-06T17:00:00+00:00,FC Saarbrücken,1639,Eintracht Frankfurt,169,1,home,90,Stadion Ludwigspark
+2023,Round of 16,4,1141475,2023-12-06T17:00:00+00:00,Eintracht Frankfurt,169,FC Saarbrücken,1639,0,away,90,Stadion Ludwigspark
+2023,Round of 16,4,1141476,2023-12-05T19:45:00+00:00,Borussia Monchengladbach,163,VfL Wolfsburg,161,1,home,120,Stadion im BORUSSIA-PARK
+2023,Round of 16,4,1141476,2023-12-05T19:45:00+00:00,VfL Wolfsburg,161,Borussia Monchengladbach,163,0,away,120,Stadion im BORUSSIA-PARK
+2023,Round of 16,4,1141477,2023-12-06T19:45:00+00:00,Hertha Berlin,159,Hamburger SV,175,1,home,120,Olympiastadion Berlin
+2023,Round of 16,4,1141477,2023-12-06T19:45:00+00:00,Hamburger SV,175,Hertha Berlin,159,0,away,120,Olympiastadion Berlin
+2023,Round of 16,4,1141478,2023-12-05T19:45:00+00:00,FC 08 Homburg,1634,FC St. Pauli,186,0,home,90,Waldstadion Homburg
+2023,Round of 16,4,1141478,2023-12-05T19:45:00+00:00,FC St. Pauli,186,FC 08 Homburg,1634,1,away,90,Waldstadion Homburg
+2023,Round of 16,4,1141479,2023-12-06T17:00:00+00:00,Bayer Leverkusen,168,SC Paderborn 07,185,1,home,90,BayArena
+2023,Round of 16,4,1141479,2023-12-06T17:00:00+00:00,SC Paderborn 07,185,Bayer Leverkusen,168,0,away,90,BayArena
+2023,Round of 16,4,1141480,2023-12-05T17:00:00+00:00,FC Kaiserslautern,745,FC Nurnberg,171,1,home,90,Fritz-Walter-Stadion
+2023,Round of 16,4,1141480,2023-12-05T17:00:00+00:00,FC Nurnberg,171,FC Kaiserslautern,745,0,away,90,Fritz-Walter-Stadion
+2023,Round of 16,4,1141481,2023-12-05T17:00:00+00:00,FC Magdeburg,179,Fortuna Dusseldorf,158,0,home,90,MDCC-Arena
+2023,Round of 16,4,1141481,2023-12-05T17:00:00+00:00,Fortuna Dusseldorf,158,FC Magdeburg,179,1,away,90,MDCC-Arena
+2023,Quarter-finals,3,1147021,2024-03-12T19:30:00+00:00,FC Saarbrücken,1639,Borussia Monchengladbach,163,1,home,90,Stadion Ludwigspark
+2023,Quarter-finals,3,1147021,2024-03-12T19:30:00+00:00,Borussia Monchengladbach,163,FC Saarbrücken,1639,0,away,90,Stadion Ludwigspark
+2023,Quarter-finals,3,1147022,2024-01-31T19:45:00+00:00,Hertha Berlin,159,FC Kaiserslautern,745,0,home,90,Olympiastadion Berlin
+2023,Quarter-finals,3,1147022,2024-01-31T19:45:00+00:00,FC Kaiserslautern,745,Hertha Berlin,159,1,away,90,Olympiastadion Berlin
+2023,Quarter-finals,3,1147023,2024-02-06T19:45:00+00:00,Bayer Leverkusen,168,VfB Stuttgart,172,1,home,90,BayArena
+2023,Quarter-finals,3,1147023,2024-02-06T19:45:00+00:00,VfB Stuttgart,172,Bayer Leverkusen,168,0,away,90,BayArena
+2023,Quarter-finals,3,1147024,2024-01-30T19:45:00+00:00,FC St. Pauli,186,Fortuna Dusseldorf,158,0,home,120,Millerntor-Stadion
+2023,Quarter-finals,3,1147024,2024-01-30T19:45:00+00:00,Fortuna Dusseldorf,158,FC St. Pauli,186,1,away,120,Millerntor-Stadion
+2023,Semi-finals,2,1173883,2024-04-03T18:45:00+00:00,Bayer Leverkusen,168,Fortuna Dusseldorf,158,1,home,90,BayArena
+2023,Semi-finals,2,1173883,2024-04-03T18:45:00+00:00,Fortuna Dusseldorf,158,Bayer Leverkusen,168,0,away,90,BayArena
+2023,Semi-finals,2,1184565,2024-04-02T18:45:00+00:00,FC Saarbrücken,1639,FC Kaiserslautern,745,0,home,90,Stadion Ludwigspark
+2023,Semi-finals,2,1184565,2024-04-02T18:45:00+00:00,FC Kaiserslautern,745,FC Saarbrücken,1639,1,away,90,Stadion Ludwigspark
+2023,Final,1,1193082,2024-05-25T18:00:00+00:00,FC Kaiserslautern,745,Bayer Leverkusen,168,0,home,90,Olympiastadion Berlin
+2023,Final,1,1193082,2024-05-25T18:00:00+00:00,Bayer Leverkusen,168,FC Kaiserslautern,745,1,away,90,Olympiastadion Berlin

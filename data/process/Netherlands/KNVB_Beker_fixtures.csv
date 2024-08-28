@@ -791,3 +791,119 @@ year,round,stage,fixture_id,fixture_date,team_name,team_id,opponent_name,opponen
 2022,Semi-finals,2,1012127,2023-04-04T18:00:00+00:00,PSV Eindhoven,197,Spakenburg,1249,1.0,away,90.0,Sportpark De Westmaat
 2022,Final,1,1020792,2023-04-30T16:00:00+00:00,Ajax,194,PSV Eindhoven,197,0.0,home,120.0,Stadion Feijenoord
 2022,Final,1,1020792,2023-04-30T16:00:00+00:00,PSV Eindhoven,197,Ajax,194,1.0,away,120.0,Stadion Feijenoord
+2023,1st Round,6,1135681,2023-11-02T20:00:00+00:00,NEC Nijmegen,413,Roda,414,1.0,home,90.0,Goffertstadion
+2023,1st Round,6,1135681,2023-11-02T20:00:00+00:00,Roda,414,NEC Nijmegen,413,0.0,away,90.0,Goffertstadion
+2023,1st Round,6,1135682,2023-10-31T19:00:00+00:00,De Treffers,1277,UNA,1284,1.0,home,90.0,Sportpark Zuid veld 1
+2023,1st Round,6,1135682,2023-10-31T19:00:00+00:00,UNA,1284,De Treffers,1277,0.0,away,90.0,Sportpark Zuid veld 1
+2023,1st Round,6,1135683,2023-11-01T19:00:00+00:00,Rijnsburgse Boys,1248,Groningen,202,0.0,home,90.0,Sportpark Middelmors Veld 8
+2023,1st Round,6,1135683,2023-11-01T19:00:00+00:00,Groningen,202,Rijnsburgse Boys,1248,1.0,away,90.0,Sportpark Middelmors Veld 8
+2023,1st Round,6,1135684,2023-11-01T20:00:00+00:00,Den Bosch,421,Excelsior,196,0.0,home,120.0,Stadion De Vliert
+2023,1st Round,6,1135684,2023-11-01T20:00:00+00:00,Excelsior,196,Den Bosch,421,1.0,away,120.0,Stadion De Vliert
+2023,1st Round,6,1135685,2023-10-31T19:00:00+00:00,Spakenburg,1249,Helmond Sport,424,1.0,home,90.0,Sportpark De Westmaat
+2023,1st Round,6,1135685,2023-10-31T19:00:00+00:00,Helmond Sport,424,Spakenburg,1249,0.0,away,90.0,Sportpark De Westmaat
+2023,1st Round,6,1135686,2023-10-31T20:00:00+00:00,Utrecht,207,Waalwijk,417,1.0,home,90.0,Stadion Galgenwaard
+2023,1st Round,6,1135686,2023-10-31T20:00:00+00:00,Waalwijk,417,Utrecht,207,0.0,away,90.0,Stadion Galgenwaard
+2023,1st Round,6,1135687,2023-10-31T19:00:00+00:00,Koninklijke HFC,1246,GO Ahead Eagles,410,0.0,home,120.0,Sportpark Spanjaardslaan
+2023,1st Round,6,1135687,2023-10-31T19:00:00+00:00,GO Ahead Eagles,410,Koninklijke HFC,1246,1.0,away,120.0,Sportpark Spanjaardslaan
+2023,1st Round,6,1135688,2023-10-31T19:00:00+00:00,OJC Rosmalen,1241,Almere City FC,419,0.0,home,90.0,Complex Groote Wielen
+2023,1st Round,6,1135688,2023-10-31T19:00:00+00:00,Almere City FC,419,OJC Rosmalen,1241,1.0,away,90.0,Complex Groote Wielen
+2023,1st Round,6,1135689,2023-11-01T19:00:00+00:00,SVV Scheveningen,1250,Hercules,1264,0.0,home,120.0,Sportpark Houtrust
+2023,1st Round,6,1135689,2023-11-01T19:00:00+00:00,Hercules,1264,SVV Scheveningen,1250,1.0,away,120.0,Sportpark Houtrust
+2023,1st Round,6,1135690,2023-11-01T17:45:00+00:00,HHC,1278,Heracles,206,1.0,home,90.0,Sportpark de Boshoek
+2023,1st Round,6,1135690,2023-11-01T17:45:00+00:00,Heracles,206,HHC,1278,0.0,away,90.0,Sportpark de Boshoek
+2023,1st Round,6,1135691,2023-11-01T19:00:00+00:00,Ijsselmeervogels,1280,Sparta Rotterdam,426,0.0,home,90.0,Sportpark De Westmaat
+2023,1st Round,6,1135691,2023-11-01T19:00:00+00:00,Sparta Rotterdam,426,Ijsselmeervogels,1280,1.0,away,90.0,Sportpark De Westmaat
+2023,1st Round,6,1135692,2023-11-01T19:00:00+00:00,DEM,6260,Hoogeveen,14235,1.0,home,90.0,Sportpark Adrichem
+2023,1st Round,6,1135692,2023-11-01T19:00:00+00:00,Hoogeveen,14235,DEM,6260,0.0,away,90.0,Sportpark Adrichem
+2023,1st Round,6,1135693,2023-10-31T19:00:00+00:00,Noordwijk,1247,ADO Den Haag,198,0.0,home,90.0,Sportpark Duinwetering
+2023,1st Round,6,1135693,2023-10-31T19:00:00+00:00,ADO Den Haag,198,Noordwijk,1247,1.0,away,90.0,Sportpark Duinwetering
+2023,1st Round,6,1135694,2023-10-31T17:45:00+00:00,De Graafschap,199,Emmen,208,1.0,home,90.0,Stadion De Vijverberg
+2023,1st Round,6,1135694,2023-10-31T17:45:00+00:00,Emmen,208,De Graafschap,199,0.0,away,90.0,Stadion De Vijverberg
+2023,1st Round,6,1135695,2023-10-31T19:00:00+00:00,Groene Ster,1236,Vitesse,200,0.0,home,90.0,Sportpark Pronsenbroek
+2023,1st Round,6,1135695,2023-10-31T19:00:00+00:00,Vitesse,200,Groene Ster,1236,1.0,away,90.0,Sportpark Pronsenbroek
+2023,1st Round,6,1135696,2023-11-16T19:00:00+00:00,Excelsior Maassluis,17129,FC Volendam,416,1.0,home,90.0,Sportpark Dijkpolder
+2023,1st Round,6,1135696,2023-11-16T19:00:00+00:00,FC Volendam,416,Excelsior Maassluis,17129,0.0,away,90.0,Sportpark Dijkpolder
+2023,1st Round,6,1135697,2023-11-02T17:45:00+00:00,Cambuur,420,MVV,412,1.0,home,90.0,Cambuur Stadion
+2023,1st Round,6,1135697,2023-11-02T17:45:00+00:00,MVV,412,Cambuur,420,0.0,away,90.0,Cambuur Stadion
+2023,1st Round,6,1135698,2023-11-02T19:00:00+00:00,FC OSS,423,FC Eindhoven,422,0.0,home,90.0,Frans Heesen Stadion
+2023,1st Round,6,1135698,2023-11-02T19:00:00+00:00,FC Eindhoven,422,FC OSS,423,1.0,away,90.0,Frans Heesen Stadion
+2023,1st Round,6,1135699,2023-11-01T19:00:00+00:00,Sparta Nijkerk,1274,Fortuna Sittard,205,0.0,home,90.0,Sportpark De Ebbenhorst
+2023,1st Round,6,1135699,2023-11-01T19:00:00+00:00,Fortuna Sittard,205,Sparta Nijkerk,1274,1.0,away,90.0,Sportpark De Ebbenhorst
+2023,1st Round,6,1135700,2023-11-02T19:00:00+00:00,SJC Noordwijk,3903,Willem II,195,0.0,home,90.0,Gemeentelijk Sportpark SJC
+2023,1st Round,6,1135700,2023-11-02T19:00:00+00:00,Willem II,195,SJC Noordwijk,3903,1.0,away,90.0,Gemeentelijk Sportpark SJC
+2023,1st Round,6,1135701,2023-11-01T19:00:00+00:00,AFC Amsterdam,1252,PEC Zwolle,193,1.0,home,90.0,Sportpark Goed Genoeg
+2023,1st Round,6,1135701,2023-11-01T19:00:00+00:00,PEC Zwolle,193,AFC Amsterdam,1252,0.0,away,90.0,Sportpark Goed Genoeg
+2023,1st Round,6,1135702,2023-10-31T19:00:00+00:00,GVVV Veenendaal,1261,Telstar,427,1.0,home,90.0,Sportpark Panhuis
+2023,1st Round,6,1135702,2023-10-31T19:00:00+00:00,Telstar,427,GVVV Veenendaal,1261,0.0,away,90.0,Sportpark Panhuis
+2023,1st Round,6,1135703,2023-10-31T19:00:00+00:00,Heerenveen,210,VVV Venlo,204,1.0,home,90.0,Abe Lenstra Stadion
+2023,1st Round,6,1135703,2023-10-31T19:00:00+00:00,VVV Venlo,204,Heerenveen,210,0.0,away,90.0,Abe Lenstra Stadion
+2023,1st Round,6,1135704,2023-10-31T19:00:00+00:00,Quick Boys,1272,NAC Breda,203,1.0,home,90.0,Sportpark Nieuw Zuid
+2023,1st Round,6,1135704,2023-10-31T19:00:00+00:00,NAC Breda,203,Quick Boys,1272,0.0,away,90.0,Sportpark Nieuw Zuid
+2023,1st Round,6,1135705,2023-11-01T19:00:00+00:00,RKAV Volendam,1238,Eemdijk,1235,1.0,home,90.0,Kras Stadion
+2023,1st Round,6,1135705,2023-11-01T19:00:00+00:00,Eemdijk,1235,RKAV Volendam,1238,0.0,away,90.0,Kras Stadion
+2023,1st Round,6,1135706,2023-10-31T19:00:00+00:00,FC Lisse,1257,Dordrecht,409,0.0,home,90.0,Sportpark Ter Specke
+2023,1st Round,6,1135706,2023-10-31T19:00:00+00:00,Dordrecht,409,FC Lisse,1257,1.0,away,90.0,Sportpark Ter Specke
+2023,1st Round,6,1135707,2023-11-01T19:00:00+00:00,Katwijk,1237,TEC,1255,1.0,home,90.0,Sportpark de Krom
+2023,1st Round,6,1135707,2023-11-01T19:00:00+00:00,TEC,1255,Katwijk,1237,0.0,away,90.0,Sportpark de Krom
+2023,2nd Round,5,1141423,2023-12-20T20:00:00+00:00,Feyenoord,209,Utrecht,207,1.0,home,90.0,Stadion Feijenoord
+2023,2nd Round,5,1141423,2023-12-20T20:00:00+00:00,Utrecht,207,Feyenoord,209,0.0,away,90.0,Stadion Feijenoord
+2023,2nd Round,5,1141424,2023-12-20T19:00:00+00:00,HHC,1278,AZ Alkmaar,201,0.0,home,120.0,Sportpark de Boshoek
+2023,2nd Round,5,1141424,2023-12-20T19:00:00+00:00,AZ Alkmaar,201,HHC,1278,1.0,away,120.0,Sportpark de Boshoek
+2023,2nd Round,5,1141425,2023-12-21T17:45:00+00:00,Hercules,1264,Ajax,194,1.0,home,90.0,Stadion Galgenwaard
+2023,2nd Round,5,1141425,2023-12-21T17:45:00+00:00,Ajax,194,Hercules,1264,0.0,away,90.0,Stadion Galgenwaard
+2023,2nd Round,5,1141426,2023-12-19T19:00:00+00:00,Dordrecht,409,Cambuur,420,0.0,home,90.0,Matchoholic Stadion
+2023,2nd Round,5,1141426,2023-12-19T19:00:00+00:00,Cambuur,420,Dordrecht,409,1.0,away,90.0,Matchoholic Stadion
+2023,2nd Round,5,1141427,2023-12-19T17:45:00+00:00,Quick Boys,1272,De Graafschap,199,1.0,home,90.0,Sportpark Nieuw Zuid
+2023,2nd Round,5,1141427,2023-12-19T17:45:00+00:00,De Graafschap,199,Quick Boys,1272,0.0,away,90.0,Sportpark Nieuw Zuid
+2023,2nd Round,5,1141428,2023-12-19T19:00:00+00:00,FC Eindhoven,422,Fortuna Sittard,205,0.0,home,90.0,Jan Louwers Stadion
+2023,2nd Round,5,1141428,2023-12-19T19:00:00+00:00,Fortuna Sittard,205,FC Eindhoven,422,1.0,away,90.0,Jan Louwers Stadion
+2023,2nd Round,5,1141429,2023-12-19T19:00:00+00:00,Spakenburg,1249,Excelsior,196,0.0,home,120.0,Sportpark De Westmaat
+2023,2nd Round,5,1141429,2023-12-19T19:00:00+00:00,Excelsior,196,Spakenburg,1249,1.0,away,120.0,Sportpark De Westmaat
+2023,2nd Round,5,1141430,2023-12-20T19:00:00+00:00,GVVV Veenendaal,1261,NEC Nijmegen,413,0.0,home,90.0,Sportpark Panhuis
+2023,2nd Round,5,1141430,2023-12-20T19:00:00+00:00,NEC Nijmegen,413,GVVV Veenendaal,1261,1.0,away,90.0,Sportpark Panhuis
+2023,2nd Round,5,1141431,2023-12-19T20:00:00+00:00,Willem II,195,Groningen,202,0.0,home,90.0,Koning Willem II Stadion
+2023,2nd Round,5,1141431,2023-12-19T20:00:00+00:00,Groningen,202,Willem II,195,1.0,away,90.0,Koning Willem II Stadion
+2023,2nd Round,5,1141432,2023-12-20T19:00:00+00:00,RKAV Volendam,1238,AFC Amsterdam,1252,0.0,home,90.0,Kras Stadion
+2023,2nd Round,5,1141432,2023-12-20T19:00:00+00:00,AFC Amsterdam,1252,RKAV Volendam,1238,1.0,away,90.0,Kras Stadion
+2023,2nd Round,5,1141433,2023-12-21T19:00:00+00:00,GO Ahead Eagles,410,De Treffers,1277,1.0,home,90.0,De Adelaarshorst
+2023,2nd Round,5,1141433,2023-12-21T19:00:00+00:00,De Treffers,1277,GO Ahead Eagles,410,0.0,away,90.0,De Adelaarshorst
+2023,2nd Round,5,1141434,2024-01-17T20:00:00+00:00,PSV Eindhoven,197,Twente,415,1.0,home,90.0,Philips Stadion
+2023,2nd Round,5,1141434,2024-01-17T20:00:00+00:00,Twente,415,PSV Eindhoven,197,0.0,away,90.0,Philips Stadion
+2023,2nd Round,5,1141435,2023-12-21T19:00:00+00:00,Katwijk,1237,Almere City FC,419,0.0,home,90.0,Sportpark de Krom
+2023,2nd Round,5,1141435,2023-12-21T19:00:00+00:00,Almere City FC,419,Katwijk,1237,1.0,away,90.0,Sportpark de Krom
+2023,2nd Round,5,1141436,2023-12-21T19:00:00+00:00,Vitesse,200,Heerenveen,210,1.0,home,90.0,GelreDome
+2023,2nd Round,5,1141436,2023-12-21T19:00:00+00:00,Heerenveen,210,Vitesse,200,0.0,away,90.0,GelreDome
+2023,2nd Round,5,1141437,2023-12-20T17:45:00+00:00,ADO Den Haag,198,Sparta Rotterdam,426,1.0,home,90.0,Bingoal Stadion
+2023,2nd Round,5,1141437,2023-12-20T17:45:00+00:00,Sparta Rotterdam,426,ADO Den Haag,198,0.0,away,90.0,Bingoal Stadion
+2023,2nd Round,5,1142552,2023-12-19T19:00:00+00:00,DEM,6260,Excelsior Maassluis,17129,0.0,home,90.0,Sportpark Adrichem
+2023,2nd Round,5,1142552,2023-12-19T19:00:00+00:00,Excelsior Maassluis,17129,DEM,6260,1.0,away,90.0,Sportpark Adrichem
+2023,Round of 16,4,1151454,2024-01-25T19:00:00+00:00,Hercules,1264,Cambuur,420,0.0,home,120.0,Sportcomplex Zoudenbalch
+2023,Round of 16,4,1151454,2024-01-25T19:00:00+00:00,Cambuur,420,Hercules,1264,1.0,away,120.0,Sportcomplex Zoudenbalch
+2023,Round of 16,4,1151455,2024-01-16T20:00:00+00:00,AZ Alkmaar,201,Quick Boys,1272,1.0,home,120.0,AFAS Stadion
+2023,Round of 16,4,1151455,2024-01-16T20:00:00+00:00,Quick Boys,1272,AZ Alkmaar,201,0.0,away,120.0,AFAS Stadion
+2023,Round of 16,4,1151456,2024-01-16T17:45:00+00:00,Excelsior Maassluis,17129,ADO Den Haag,198,0.0,home,90.0,Sparta-Stadion Het Kasteel
+2023,Round of 16,4,1151456,2024-01-16T17:45:00+00:00,ADO Den Haag,198,Excelsior Maassluis,17129,1.0,away,90.0,Sparta-Stadion Het Kasteel
+2023,Round of 16,4,1151457,2024-01-18T17:45:00+00:00,Vitesse,200,AFC Amsterdam,1252,1.0,home,90.0,GelreDome
+2023,Round of 16,4,1151457,2024-01-18T17:45:00+00:00,AFC Amsterdam,1252,Vitesse,200,0.0,away,90.0,GelreDome
+2023,Round of 16,4,1151458,2024-01-17T17:45:00+00:00,NEC Nijmegen,413,GO Ahead Eagles,410,1.0,home,90.0,Goffertstadion
+2023,Round of 16,4,1151458,2024-01-17T17:45:00+00:00,GO Ahead Eagles,410,NEC Nijmegen,413,0.0,away,90.0,Goffertstadion
+2023,Round of 16,4,1151459,2024-01-17T19:00:00+00:00,Almere City FC,419,Fortuna Sittard,205,0.0,home,90.0,Yanmar Stadion
+2023,Round of 16,4,1151459,2024-01-17T19:00:00+00:00,Fortuna Sittard,205,Almere City FC,419,1.0,away,90.0,Yanmar Stadion
+2023,Round of 16,4,1151460,2024-01-16T19:00:00+00:00,Excelsior,196,Groningen,202,0.0,home,90.0,Van Donge & De Roo Stadion
+2023,Round of 16,4,1151460,2024-01-16T19:00:00+00:00,Groningen,202,Excelsior,196,1.0,away,90.0,Van Donge & De Roo Stadion
+2023,Round of 16,4,1161709,2024-01-24T19:00:00+00:00,Feyenoord,209,PSV Eindhoven,197,1.0,home,90.0,Stadion Feijenoord
+2023,Round of 16,4,1161709,2024-01-24T19:00:00+00:00,PSV Eindhoven,197,Feyenoord,209,0.0,away,90.0,Stadion Feijenoord
+2023,Quarter-finals,3,1162484,2024-02-06T19:00:00+00:00,NEC Nijmegen,413,ADO Den Haag,198,1.0,home,90.0,Goffertstadion
+2023,Quarter-finals,3,1162484,2024-02-06T19:00:00+00:00,ADO Den Haag,198,NEC Nijmegen,413,0.0,away,90.0,Goffertstadion
+2023,Quarter-finals,3,1162485,2024-02-08T19:00:00+00:00,Groningen,202,Fortuna Sittard,205,1.0,home,120.0,Euroborg
+2023,Quarter-finals,3,1162485,2024-02-08T19:00:00+00:00,Fortuna Sittard,205,Groningen,202,0.0,away,120.0,Euroborg
+2023,Quarter-finals,3,1167792,2024-02-07T17:45:00+00:00,Cambuur,420,Vitesse,200,1.0,home,90.0,Cambuur Stadion
+2023,Quarter-finals,3,1167792,2024-02-07T17:45:00+00:00,Vitesse,200,Cambuur,420,0.0,away,90.0,Cambuur Stadion
+2023,Quarter-finals,3,1167793,2024-02-07T20:00:00+00:00,Feyenoord,209,AZ Alkmaar,201,1.0,home,90.0,Stadion Feijenoord
+2023,Quarter-finals,3,1167793,2024-02-07T20:00:00+00:00,AZ Alkmaar,201,Feyenoord,209,0.0,away,90.0,Stadion Feijenoord
+2023,Semi-finals,2,1173881,2024-02-29T19:00:00+00:00,Feyenoord,209,Groningen,202,1.0,home,90.0,Stadion Feijenoord
+2023,Semi-finals,2,1173881,2024-02-29T19:00:00+00:00,Groningen,202,Feyenoord,209,0.0,away,90.0,Stadion Feijenoord
+2023,Semi-finals,2,1173882,2024-02-27T19:00:00+00:00,Cambuur,420,NEC Nijmegen,413,0.0,home,120.0,Cambuur Stadion
+2023,Semi-finals,2,1173882,2024-02-27T19:00:00+00:00,NEC Nijmegen,413,Cambuur,420,1.0,away,120.0,Cambuur Stadion
+2023,Final,1,1180074,2024-04-21T16:00:00+00:00,Feyenoord,209,NEC Nijmegen,413,1.0,home,90.0,Stadion Feijenoord
+2023,Final,1,1180074,2024-04-21T16:00:00+00:00,NEC Nijmegen,413,Feyenoord,209,0.0,away,90.0,Stadion Feijenoord

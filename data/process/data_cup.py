@@ -74,7 +74,7 @@ def construct_cup_data(country, cup):
     all_fixtures = []
     project_root_path = project_root()
 
-    for season in range(season_start, season_end):
+    for season in range(season_start, season_end + 1):
         season_path = os.path.join(project_root_path, 'data', 'raw', country, cup, str(season), 'fixtures_data.json')
         if os.path.isfile(season_path):
             with open(season_path, 'r') as file:
@@ -91,10 +91,10 @@ def construct_cup_data(country, cup):
     cup_fixtures = cup_fixtures[cup_fixtures['stage'] <= start_round]
 
     save_to_csv(cup_fixtures, country, cup)
-    print(cup_fixtures.head())
+    print(cup_fixtures['year'].max())
 
 
 if __name__ == "__main__":
-    country = 'Portugal'
-    cup = 'Taca_de_Portugal'
+    country = 'England'
+    cup = 'FA_Cup'
     construct_cup_data(country, cup)
