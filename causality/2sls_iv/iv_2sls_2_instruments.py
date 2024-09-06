@@ -135,3 +135,4 @@ if __name__ == "__main__":
     results_file_path = os.path.join("results", country, "2SLS_Results", "combined_2sls_results_2023_distance.csv")
     results_df.to_csv(results_file_path, index=False)
     print(f"Combined results saved to {results_file_path}")
+    

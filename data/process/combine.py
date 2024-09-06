@@ -108,7 +108,6 @@ def load_and_process_cup_data():
 
     combined_data = pd.concat(all_data, ignore_index=True)
 
-    combined_data = combined_data[combined_data['next_fixture_days'] <= 5]
 
     combined_data = combined_data.dropna(subset=['team_size', 'distance'])
 
