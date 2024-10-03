@@ -54,42 +54,35 @@ def perform_2sls_analysis(data, outcome_var, instr_vars, treatment_var, control_
     return first_stage_stats, second_stage_stats
 
 
-def analyze_2sls_by_stage(stages_df, outcome_var, instr_vars, treatment_var, control_vars_list, display="none"):
-    unique_stages = stages_df['stage'].unique()
-    unique_stages.sort()
-
+def analyze_2sls_combined(data, outcome_var, instr_vars, treatment_var, control_vars_list, display="none"):
     results = []
 
-    for stage in unique_stages:
-        df_stage = stages_df[stages_df['stage'] == stage].copy()
+    for i, current_controls in enumerate(control_vars_list):
+        if "summary" in display:
+            print(f'Running combined analysis, Model {i + 1} with controls: {current_controls}')
 
-        for i, current_controls in enumerate(control_vars_list):
-            if "summary" in display:
-                print(f'Running Stage {stage}, Model {i + 1} with controls: {current_controls}')
+        first_stage_stats, second_stage_stats = perform_2sls_analysis(data, outcome_var, instr_vars,
+                                                                      treatment_var, current_controls, display)
 
-            first_stage_stats, second_stage_stats = perform_2sls_analysis(df_stage, outcome_var, instr_vars,
-                                                                          treatment_var, current_controls, display)
-
-            for j, instr in enumerate(instr_vars):
-                results.append({
-                    'stage': stage,
-                    'model': f'Model {i + 1}',
-                    'instrument': instr,
-                    'first_stage_coefficient': first_stage_stats['instrument_coefficients'][j],
-                    'first_stage_std_error': first_stage_stats['instrument_std_errors'][j],
-                    'first_stage_t_value': first_stage_stats['instrument_t_values'][j],
-                    'first_stage_p_value': first_stage_stats['instrument_p_values'][j],
-                    'first_stage_r_squared': first_stage_stats['r_squared'],
-                    'first_stage_f_stat': first_stage_stats['f_stat'],
-                    'first_stage_f_p_value': first_stage_stats['f_p_value'],
-                    'first_stage_nobs': first_stage_stats['nobs'],  # Adding first stage nobs
-                    'second_stage_coefficient': second_stage_stats['endogenous_coefficient'],
-                    'second_stage_std_error': second_stage_stats['endogenous_std_error'],
-                    'second_stage_t_value': second_stage_stats['endogenous_t_value'],
-                    'second_stage_p_value': second_stage_stats['endogenous_p_value'],
-                    'second_stage_r_squared': second_stage_stats['r_squared'],
-                    'second_stage_nobs': second_stage_stats['nobs']  # Adding second stage nobs
-                })
+        for j, instr in enumerate(instr_vars):
+            results.append({
+                'model': f'Model {i + 1}',
+                'instrument': instr,
+                'first_stage_coefficient': first_stage_stats['instrument_coefficients'][j],
+                'first_stage_std_error': first_stage_stats['instrument_std_errors'][j],
+                'first_stage_t_value': first_stage_stats['instrument_t_values'][j],
+                'first_stage_p_value': first_stage_stats['instrument_p_values'][j],
+                'first_stage_r_squared': first_stage_stats['r_squared'],
+                'first_stage_f_stat': first_stage_stats['f_stat'],
+                'first_stage_f_p_value': first_stage_stats['f_p_value'],
+                'first_stage_nobs': first_stage_stats['nobs'],  # Adding first stage nobs
+                'second_stage_coefficient': second_stage_stats['endogenous_coefficient'],
+                'second_stage_std_error': second_stage_stats['endogenous_std_error'],
+                'second_stage_t_value': second_stage_stats['endogenous_t_value'],
+                'second_stage_p_value': second_stage_stats['endogenous_p_value'],
+                'second_stage_r_squared': second_stage_stats['r_squared'],
+                'second_stage_nobs': second_stage_stats['nobs']  # Adding second stage nobs
+            })
 
     return results
 
@@ -105,7 +98,7 @@ if __name__ == "__main__":
     cup = 'combined_cup'
     display = "summary"
 
-    outcome_var = 'next_team_points_round_plus'
+    outcome_var = 'next_team_points_round'
 
     cup_fixtures = load_processed_data(country, cup)
 
@@ -138,10 +131,10 @@ if __name__ == "__main__":
     print("NaN counts for all variables used in the models:")
     print(nan_summary)
 
-    results = analyze_2sls_by_stage(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, display)
+    results = analyze_2sls_combined(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, display)
 
     results_df = pd.DataFrame(results)
-    results_file_path = os.path.join("results", country, "2SLS_Results", f"combined_2sls_results_"
+    results_file_path = os.path.join("results", country, "2SLS_Results", f"combined_2sls_results_no_rounds_"
                                                                          f"{outcome_var}.csv")
     results_df.to_csv(results_file_path, index=False)
     print(f"Combined results saved to {results_file_path}")

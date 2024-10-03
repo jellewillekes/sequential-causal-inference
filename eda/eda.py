@@ -4,8 +4,8 @@ from utils.load import project_root, load_csv
 from plot import *
 
 # Load data
-country = 'Germany'
-cup = 'DFB_Pokal'
+country = 'Combined'
+cup = 'combined_cup'
 data = load_csv(os.path.join(project_root(), 'data', 'process', country, f'{cup}_processed.csv'))
 
 # Directory to save plots

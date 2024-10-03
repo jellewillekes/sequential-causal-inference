@@ -13,7 +13,18 @@ def generate_country_code_mapping(mapping):
     return country_codes
 
 
-def generate_summary_statistics(combined_data):
+def winsorize_distance_by_country(data, country_column, distance_column, quantile=0.95):
+    countries = data[country_column].unique()
+    for country in countries:
+        country_data = data[data[country_column] == country]
+        # Calculate the 95th percentile for the distance variable for this country
+        percentile_value = country_data[distance_column].quantile(quantile)
+        # Apply winsorizing: set all values above the percentile_value to the percentile_value
+        data.loc[data[country_column] == country, distance_column] = country_data[distance_column].clip(upper=percentile_value)
+    return data
+
+
+def generate_cup_statistics(combined_data):
     # Calculate the latest year in the dataset
     latest_year = combined_data['year'].max()
 
@@ -108,16 +119,22 @@ def load_and_process_cup_data():
 
     combined_data = pd.concat(all_data, ignore_index=True)
 
+    # Display rows where 'team_size' or 'distance' has NaN values
+    na_rows = combined_data[combined_data[['team_size', 'distance']].isna().any(axis=1)]
+    print(na_rows)
 
     combined_data = combined_data.dropna(subset=['team_size', 'distance'])
+
+    # Apply winsorizing to the distance variable by country
+    combined_data = winsorize_distance_by_country(combined_data, 'country_name', 'distance', quantile=0.95)
 
     output_path = os.path.join(project_root(), 'data/process/combined', 'combined_cup_processed.csv')
     combined_data.to_csv(output_path, index=False)
 
     print(f"Combined data saved to {output_path}")
 
-    summary_statistics = generate_summary_statistics(combined_data)
-    output_path = os.path.join(project_root(), 'data/process/combined', 'cup_summary_statistics.csv')
+    summary_statistics = generate_cup_statistics(combined_data)
+    output_path = os.path.join(project_root(), 'data/process/combined', 'cup_statistics.csv')
     summary_statistics.to_csv(output_path, index=False)
     print(f"Summary statistics saved to {output_path}")
 
