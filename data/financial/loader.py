@@ -42,7 +42,7 @@ def request_financial_data(country, cup):
 
 
 if __name__ == "__main__":
-    country = 'Netherlands'
-    cup = 'KNVB_Beker'
+    country = 'Germany'
+    cup = 'DFB_Pokal'
     financial_data = request_financial_data(country, cup)
     print(financial_data.head())

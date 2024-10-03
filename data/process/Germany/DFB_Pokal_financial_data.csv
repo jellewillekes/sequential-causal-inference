@@ -49,7 +49,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2012,Bundesliga,Eintracht Frankfurt,31,25.4,13,2.21,68.4
 2012,Bundesliga,SC Freiburg,32,24.1,15,2.06,65.8
 2012,Bundesliga,1.FSV Mainz 05,32,26.4,18,1.64,52.43
-2012,Bundesliga,1.FC Nuremberg,32,24.1,13,1.46,46.83
+2012,Bundesliga,1.FC Nuremberg,32,24.1,14,1.46,46.83
 2012,Bundesliga,FC Augsburg,33,26.2,18,1.17,38.45
 2012,Bundesliga,SpVgg Greuther Fürth,37,24.8,18,0.901,33.33
 2012,Bundesliga,Fortuna Düsseldorf,35,25.7,20,0.89,31.15
@@ -68,7 +68,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2013,Bundesliga,Hertha BSC,32,25.9,14,2.13,68.08
 2013,Bundesliga,SV Werder Bremen,39,23.7,18,1.7,66.4
 2013,Bundesliga,1.FSV Mainz 05,32,26.6,16,1.86,59.45
-2013,Bundesliga,1.FC Nuremberg,33,24.2,16,1.71,56.45
+2013,Bundesliga,1.FC Nuremberg,33,24.2,17,1.71,56.45
 2013,Bundesliga,FC Augsburg,35,25.2,20,1.31,45.95
 2013,Bundesliga,Eintracht Braunschweig,33,25.9,11,0.866,28.58
 2014,Bundesliga,Bayern Munich,33,25.5,17,17.43,575.13
@@ -103,7 +103,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2015,Bundesliga,FC Augsburg,39,25.9,21,1.94,75.83
 2015,Bundesliga,1.FC Köln,25,25.0,12,2.75,68.63
 2015,Bundesliga,SV Werder Bremen,39,24.6,19,1.66,64.68
-2015,Bundesliga,Hamburger SV,35,25.8,18,1.81,63.2
+2015,Bundesliga,Hamburger SV,35,25.8,19,1.81,63.2
 2015,Bundesliga,Hannover 96,39,24.5,21,1.56,60.83
 2015,Bundesliga,FC Ingolstadt 04,29,25.2,16,1.23,35.65
 2015,Bundesliga,SV Darmstadt 98,30,27.3,8,0.838,25.15
@@ -121,7 +121,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2016,Bundesliga,SV Werder Bremen,41,25.5,21,2.18,89.45
 2016,Bundesliga,SC Freiburg,36,25.0,14,2.41,86.73
 2016,Bundesliga,Hamburger SV,38,24.6,21,2.12,80.48
-2016,Bundesliga,Eintracht Frankfurt,35,24.1,22,2.06,72.25
+2016,Bundesliga,Eintracht Frankfurt,35,24.1,22,2.07,72.3
 2016,Bundesliga,FC Augsburg,37,26.3,21,1.78,65.85
 2016,Bundesliga,FC Ingolstadt 04,32,24.8,15,1.21,38.63
 2016,Bundesliga,SV Darmstadt 98,39,26.7,17,0.666,25.98
@@ -130,7 +130,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2017,Bundesliga,RB Leipzig,28,24.1,19,13.33,373.3
 2017,Bundesliga,Bayer 04 Leverkusen,27,25.3,14,13.24,357.35
 2017,Bundesliga,FC Schalke 04,29,25.5,18,9.46,274.35
-2017,Bundesliga,TSG 1899 Hoffenheim,36,24.1,13,5.91,212.75
+2017,Bundesliga,TSG 1899 Hoffenheim,36,24.1,14,5.91,212.75
 2017,Bundesliga,Borussia Mönchengladbach,35,24.6,19,5.52,193.25
 2017,Bundesliga,VfL Wolfsburg,33,24.3,20,4.35,143.6
 2017,Bundesliga,VfB Stuttgart,34,24.7,18,3.96,134.7
@@ -158,7 +158,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2018,Bundesliga,VfB Stuttgart,34,24.9,17,4.23,143.75
 2018,Bundesliga,FC Augsburg,40,24.9,19,3.48,139.25
 2018,Bundesliga,SC Freiburg,34,25.0,8,3.59,122.1
-2018,Bundesliga,Fortuna Düsseldorf,34,26.3,17,2.79,94.9
+2018,Bundesliga,Fortuna Düsseldorf,34,26.3,17,2.79,94.95
 2018,Bundesliga,Hannover 96,37,25.7,18,2.47,91.43
 2018,Bundesliga,1.FC Nuremberg,29,25.2,12,1.88,54.4
 2019,Bundesliga,Bayern Munich,38,23.7,21,20.46,777.33
@@ -176,7 +176,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2019,Bundesliga,1.FSV Mainz 05,35,23.9,19,3.47,121.58
 2019,Bundesliga,FC Augsburg,37,25.4,18,3.05,112.95
 2019,Bundesliga,1.FC Köln,35,25.3,15,2.81,98.48
-2019,Bundesliga,Fortuna Düsseldorf,37,26.2,17,1.94,71.73
+2019,Bundesliga,Fortuna Düsseldorf,37,26.2,17,1.94,71.78
 2019,Bundesliga,1.FC Union Berlin,34,26.2,11,1.21,41.2
 2019,Bundesliga,SC Paderborn 07,32,25.3,15,0.903,28.9
 2020,Bundesliga,Bayern Munich,45,23.9,22,19.07,858.23
@@ -193,7 +193,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2020,Bundesliga,SC Freiburg,30,25.2,13,4.64,139.1
 2020,Bundesliga,FC Schalke 04,45,24.8,27,2.73,123.05
 2020,Bundesliga,1.FC Köln,36,24.9,18,3.28,118.2
-2020,Bundesliga,SV Werder Bremen,33,25.2,15,3.39,111.98
+2020,Bundesliga,SV Werder Bremen,33,25.2,16,3.39,111.98
 2020,Bundesliga,FC Augsburg,31,25.8,20,3.0,93.05
 2020,Bundesliga,1.FC Union Berlin,33,25.8,10,2.49,82.05
 2020,Bundesliga,Arminia Bielefeld,33,24.9,15,1.72,56.73
@@ -204,7 +204,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2021,Bundesliga,VfL Wolfsburg,37,25.3,24,7.28,269.3
 2021,Bundesliga,Borussia Mönchengladbach,31,25.4,14,7.64,236.8
 2021,Bundesliga,Eintracht Frankfurt,36,25.2,23,6.35,228.75
-2021,Bundesliga,TSG 1899 Hoffenheim,40,24.9,21,5.29,211.43
+2021,Bundesliga,TSG 1899 Hoffenheim,40,24.9,22,5.29,211.43
 2021,Bundesliga,SC Freiburg,32,25.0,12,5.51,176.35
 2021,Bundesliga,VfB Stuttgart,39,23.5,21,4.47,174.23
 2021,Bundesliga,Hertha BSC,45,24.7,22,3.46,155.78
@@ -223,34 +223,34 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2022,Bundesliga,Borussia Mönchengladbach,35,25.4,16,6.91,241.68
 2022,Bundesliga,VfL Wolfsburg,33,24.7,20,7.22,238.3
 2022,Bundesliga,SC Freiburg,29,26.0,11,6.93,200.95
-2022,Bundesliga,TSG 1899 Hoffenheim,37,25.8,21,4.83,178.8
+2022,Bundesliga,TSG 1899 Hoffenheim,37,25.8,22,4.83,178.8
 2022,Bundesliga,1.FC Union Berlin,36,26.9,17,4.39,157.95
 2022,Bundesliga,VfB Stuttgart,39,23.2,21,3.87,151.05
 2022,Bundesliga,1.FSV Mainz 05,34,24.7,17,3.99,135.8
 2022,Bundesliga,FC Augsburg,42,25.0,25,3.15,132.23
-2022,Bundesliga,1.FC Köln,39,24.9,16,2.97,115.65
+2022,Bundesliga,1.FC Köln,39,24.9,15,2.97,115.65
 2022,Bundesliga,Hertha BSC,41,25.4,23,2.29,94.0
-2022,Bundesliga,SV Werder Bremen,33,24.7,10,2.71,89.5
+2022,Bundesliga,SV Werder Bremen,33,24.7,11,2.71,89.5
 2022,Bundesliga,FC Schalke 04,43,26.4,22,2.04,87.78
 2022,Bundesliga,VfL Bochum,32,27.7,18,1.68,53.7
-2010,Bundesliga_2,Hertha BSC,31,25.3,18,1.24,38.45
-2010,Bundesliga_2,FC Augsburg,32,25.7,14,0.95,30.4
-2010,Bundesliga_2,VfL Bochum,31,25.8,13,0.879,27.25
-2010,Bundesliga_2,TSV 1860 Munich,37,23.1,13,0.726,26.85
-2010,Bundesliga_2,SpVgg Greuther Fürth,34,24.3,13,0.697,23.7
-2010,Bundesliga_2,FC Energie Cottbus,31,24.5,13,0.655,20.3
-2010,Bundesliga_2,Alemannia Aachen,34,25.0,12,0.586,19.93
-2010,Bundesliga_2,MSV Duisburg,29,25.1,18,0.672,19.48
-2010,Bundesliga_2,Fortuna Düsseldorf,26,26.4,8,0.656,17.05
-2010,Bundesliga_2,Karlsruher SC,43,25.0,12,0.394,16.93
-2010,Bundesliga_2,Arminia Bielefeld,44,25.0,18,0.312,13.73
-2010,Bundesliga_2,FC Erzgebirge Aue,29,25.9,5,0.459,13.3
-2010,Bundesliga_2,FC Ingolstadt 04,32,26.5,9,0.391,12.5
-2010,Bundesliga_2,1.FC Union Berlin,32,25.0,9,0.38,12.15
-2010,Bundesliga_2,SC Paderborn 07,29,25.2,8,0.402,11.65
-2010,Bundesliga_2,FSV Frankfurt,28,25.4,10,0.416,11.65
-2010,Bundesliga_2,VfL Osnabrück,28,26.1,9,0.357,10.0
-2010,Bundesliga_2,Rot-Weiß Oberhausen,33,25.7,5,0.298,9.85
+2023,Bundesliga,Bayern Munich,39,24.7,23,24.75,965.15
+2023,Bundesliga,Bayer 04 Leverkusen,32,24.3,23,20.57,658.35
+2023,Bundesliga,RB Leipzig,32,24.8,22,17.04,545.4
+2023,Bundesliga,Borussia Dortmund,36,25.1,17,13.74,494.8
+2023,Bundesliga,VfB Stuttgart,38,23.9,18,9.12,346.63
+2023,Bundesliga,Eintracht Frankfurt,46,24.2,28,7.1,326.65
+2023,Bundesliga,VfL Wolfsburg,33,24.6,20,6.26,206.45
+2023,Bundesliga,SC Freiburg,34,25.9,13,5.3,180.35
+2023,Bundesliga,TSG 1899 Hoffenheim,34,25.7,14,5.18,176.0
+2023,Bundesliga,Borussia Mönchengladbach,33,25.5,18,5.01,165.23
+2023,Bundesliga,1.FC Union Berlin,35,27.0,20,4.6,160.95
+2023,Bundesliga,1.FSV Mainz 05,34,25.9,13,4.2,142.88
+2023,Bundesliga,FC Augsburg,38,25.0,24,3.71,140.8
+2023,Bundesliga,SV Werder Bremen,35,25.9,18,3.86,134.93
+2023,Bundesliga,1.FC Köln,33,25.6,10,2.47,81.45
+2023,Bundesliga,1.FC Heidenheim 1846,28,26.3,6,2.37,66.45
+2023,Bundesliga,VfL Bochum,34,27.7,15,1.9,64.53
+2023,Bundesliga,SV Darmstadt 98,34,26.4,14,1.14,38.7
 2011,Bundesliga_2,Eintracht Frankfurt,37,25.2,17,1.18,43.53
 2011,Bundesliga_2,SpVgg Greuther Fürth,28,25.2,10,0.934,26.15
 2011,Bundesliga_2,Fortuna Düsseldorf,29,25.2,11,0.814,23.6
@@ -272,12 +272,12 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2012,Bundesliga_2,Hertha BSC,33,24.3,15,1.14,37.68
 2012,Bundesliga_2,1.FC Kaiserslautern,38,25.3,17,0.929,35.3
 2012,Bundesliga_2,1.FC Köln,31,24.0,14,0.785,24.35
-2012,Bundesliga_2,FC St. Pauli,33,24.6,6,0.686,22.65
+2012,Bundesliga_2,FC St. Pauli,33,24.6,5,0.686,22.65
 2012,Bundesliga_2,Eintracht Braunschweig,28,25.5,10,0.702,19.65
 2012,Bundesliga_2,VfL Bochum,33,25.0,12,0.56,18.48
 2012,Bundesliga_2,TSV 1860 Munich,33,25.5,11,0.525,17.33
 2012,Bundesliga_2,MSV Duisburg,31,25.6,14,0.545,16.9
-2012,Bundesliga_2,1.FC Union Berlin,30,25.0,9,0.511,15.33
+2012,Bundesliga_2,1.FC Union Berlin,30,25.0,9,0.51,15.3
 2012,Bundesliga_2,FC Energie Cottbus,34,25.5,11,0.444,15.1
 2012,Bundesliga_2,FSV Frankfurt,33,24.0,12,0.439,14.5
 2012,Bundesliga_2,FC Ingolstadt 04,31,27.2,12,0.465,14.43
@@ -340,7 +340,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2015,Bundesliga_2,1.FC Heidenheim 1846,28,25.4,4,0.488,13.65
 2015,Bundesliga_2,Arminia Bielefeld,31,26.3,6,0.425,13.18
 2015,Bundesliga_2,SV Sandhausen,30,26.4,8,0.43,12.9
-2015,Bundesliga_2,MSV Duisburg,35,26.4,14,0.328,11.48
+2015,Bundesliga_2,MSV Duisburg,35,26.4,15,0.328,11.48
 2016,Bundesliga_2,VfB Stuttgart,32,24.4,20,1.59,50.9
 2016,Bundesliga_2,Hannover 96,33,24.2,14,1.19,39.18
 2016,Bundesliga_2,1.FC Nuremberg,36,25.4,16,0.735,26.48
@@ -375,7 +375,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2017,Bundesliga_2,SV Sandhausen,34,25.9,12,0.471,16.0
 2017,Bundesliga_2,1.FC Heidenheim 1846,29,25.1,5,0.499,14.48
 2017,Bundesliga_2,FC Erzgebirge Aue,30,25.9,11,0.443,13.28
-2017,Bundesliga_2,MSV Duisburg,28,25.9,12,0.468,13.1
+2017,Bundesliga_2,MSV Duisburg,28,25.9,13,0.468,13.1
 2017,Bundesliga_2,SSV Jahn Regensburg,28,25.8,5,0.443,12.4
 2018,Bundesliga_2,Hamburger SV,39,23.2,22,2.23,86.85
 2018,Bundesliga_2,1.FC Köln,34,25.0,13,2.46,83.5
@@ -394,11 +394,11 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2018,Bundesliga_2,SpVgg Greuther Fürth,29,24.3,9,0.511,14.83
 2018,Bundesliga_2,FC Erzgebirge Aue,35,25.0,7,0.422,14.78
 2018,Bundesliga_2,1.FC Magdeburg,32,25.8,8,0.395,12.65
-2018,Bundesliga_2,MSV Duisburg,31,25.5,11,0.386,11.98
+2018,Bundesliga_2,MSV Duisburg,31,25.5,12,0.386,11.98
 2019,Bundesliga_2,VfB Stuttgart,34,24.0,16,2.08,70.8
 2019,Bundesliga_2,Hamburger SV,33,24.9,18,1.51,49.9
 2019,Bundesliga_2,Hannover 96,38,25.8,12,1.02,38.93
-2019,Bundesliga_2,1.FC Nuremberg,39,25.1,13,0.815,31.8
+2019,Bundesliga_2,1.FC Nuremberg,39,25.1,14,0.815,31.8
 2019,Bundesliga_2,FC St. Pauli,42,24.7,17,0.523,21.98
 2019,Bundesliga_2,Arminia Bielefeld,29,25.7,10,0.702,20.35
 2019,Bundesliga_2,1.FC Heidenheim 1846,30,25.7,1,0.657,19.7
@@ -417,13 +417,13 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2020,Bundesliga_2,Hamburger SV,31,25.2,11,1.15,35.6
 2020,Bundesliga_2,VfL Bochum,31,26.0,13,1.09,33.9
 2020,Bundesliga_2,SpVgg Greuther Fürth,27,23.7,12,1.13,30.53
-2020,Bundesliga_2,1.FC Nuremberg,35,25.1,9,0.782,27.38
+2020,Bundesliga_2,1.FC Nuremberg,35,25.1,10,0.782,27.38
 2020,Bundesliga_2,Hannover 96,31,26.0,15,0.776,24.05
 2020,Bundesliga_2,FC St. Pauli,36,25.4,18,0.645,23.23
 2020,Bundesliga_2,SC Paderborn 07,35,25.3,10,0.648,22.68
-2020,Bundesliga_2,Holstein Kiel,28,25.9,5,0.763,21.35
+2020,Bundesliga_2,Holstein Kiel,28,25.9,6,0.763,21.35
 2020,Bundesliga_2,1.FC Heidenheim 1846,31,25.5,2,0.661,20.5
-2020,Bundesliga_2,SV Darmstadt 98,32,25.1,11,0.532,17.03
+2020,Bundesliga_2,SV Darmstadt 98,32,25.1,10,0.532,17.03
 2020,Bundesliga_2,Karlsruher SC,32,25.1,9,0.481,15.4
 2020,Bundesliga_2,SV Sandhausen,34,27.8,10,0.427,14.53
 2020,Bundesliga_2,FC Erzgebirge Aue,28,26.6,6,0.494,13.83
@@ -431,19 +431,19 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2020,Bundesliga_2,SSV Jahn Regensburg,30,25.6,5,0.433,12.98
 2020,Bundesliga_2,Würzburger Kickers,39,25.9,15,0.283,11.03
 2020,Bundesliga_2,Eintracht Braunschweig,33,26.3,7,0.308,10.18
-2021,Bundesliga_2,SV Werder Bremen,37,24.3,12,1.68,62.1
+2021,Bundesliga_2,SV Werder Bremen,37,24.3,13,1.68,62.1
 2021,Bundesliga_2,FC Schalke 04,39,25.2,22,1.12,43.83
 2021,Bundesliga_2,Hamburger SV,35,24.0,13,1.25,43.73
-2021,Bundesliga_2,1.FC Nuremberg,30,25.5,5,0.961,28.83
+2021,Bundesliga_2,1.FC Nuremberg,30,25.5,6,0.961,28.83
 2021,Bundesliga_2,Hannover 96,35,26.3,13,0.817,28.6
 2021,Bundesliga_2,Fortuna Düsseldorf,40,25.2,17,0.682,27.28
 2021,Bundesliga_2,FC St. Pauli,32,25.4,14,0.802,25.68
-2021,Bundesliga_2,SV Darmstadt 98,32,24.5,10,0.635,20.33
+2021,Bundesliga_2,SV Darmstadt 98,32,24.5,9,0.635,20.33
 2021,Bundesliga_2,SC Paderborn 07,35,25.3,9,0.569,19.9
 2021,Bundesliga_2,1.FC Heidenheim 1846,31,25.0,3,0.592,18.35
 2021,Bundesliga_2,Karlsruher SC,35,25.3,8,0.503,17.6
 2021,Bundesliga_2,SV Sandhausen,38,27.3,13,0.447,16.98
-2021,Bundesliga_2,Holstein Kiel,34,26.2,7,0.496,16.85
+2021,Bundesliga_2,Holstein Kiel,34,26.2,8,0.496,16.85
 2021,Bundesliga_2,SSV Jahn Regensburg,30,26.0,6,0.559,16.78
 2021,Bundesliga_2,SG Dynamo Dresden,35,25.2,11,0.406,14.2
 2021,Bundesliga_2,FC Ingolstadt 04,50,24.6,16,0.277,13.83
@@ -451,7 +451,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2021,Bundesliga_2,FC Erzgebirge Aue,34,25.9,11,0.324,11.0
 2022,Bundesliga_2,Hamburger SV,36,23.8,16,1.08,38.78
 2022,Bundesliga_2,Fortuna Düsseldorf,33,25.5,15,0.888,29.3
-2022,Bundesliga_2,1.FC Nuremberg,40,24.6,10,0.713,28.53
+2022,Bundesliga_2,1.FC Nuremberg,40,24.6,11,0.713,28.53
 2022,Bundesliga_2,SV Darmstadt 98,29,25.3,11,0.961,27.88
 2022,Bundesliga_2,SC Paderborn 07,34,25.0,9,0.761,25.88
 2022,Bundesliga_2,1.FC Heidenheim 1846,28,25.6,4,0.9,25.2
@@ -467,26 +467,24 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2022,Bundesliga_2,1.FC Kaiserslautern,30,27.1,5,0.486,14.58
 2022,Bundesliga_2,FC Hansa Rostock,35,26.1,13,0.409,14.3
 2022,Bundesliga_2,SSV Jahn Regensburg,31,25.7,8,0.46,14.28
-2010,Bundesliga_3,FC Bayern Munich II,37,22.0,14,0.499,18.48
-2010,Bundesliga_3,SV Werder Bremen II,45,21.6,6,0.283,12.73
-2010,Bundesliga_3,FC Hansa Rostock,29,24.2,3,0.342,9.93
-2010,Bundesliga_3,VfB Stuttgart II,37,20.6,7,0.239,8.85
-2010,Bundesliga_3,SG Dynamo Dresden,30,24.9,2,0.286,8.58
-2010,Bundesliga_3,SV Wehen Wiesbaden,35,25.2,10,0.241,8.43
-2010,Bundesliga_3,Eintracht Braunschweig,25,24.7,6,0.31,7.75
-2010,Bundesliga_3,Kickers Offenbach,31,24.8,11,0.236,7.33
-2010,Bundesliga_3,1.FC Heidenheim 1846,27,25.1,1,0.236,6.38
-2010,Bundesliga_3,SpVgg Unterhaching,35,24.9,12,0.175,6.13
-2010,Bundesliga_3,Rot-Weiß Erfurt,39,24.3,5,0.143,5.58
-2010,Bundesliga_3,SV Sandhausen,29,26.3,6,0.185,5.38
-2010,Bundesliga_3,SV Wacker Burghausen,34,23.7,4,0.154,5.25
-2010,Bundesliga_3,1.FC Saarbrücken,27,25.1,8,0.191,5.15
-2010,Bundesliga_3,VfR Aalen,37,23.8,1,0.139,5.13
-2010,Bundesliga_3,Rot Weiss Ahlen,44,23.0,7,0.116,5.13
-2010,Bundesliga_3,TuS Koblenz,25,23.9,1,0.183,4.58
-2010,Bundesliga_3,SSV Jahn Regensburg,34,25.7,8,0.131,4.45
-2010,Bundesliga_3,FC Carl Zeiss Jena,37,24.9,6,0.118,4.38
-2010,Bundesliga_3,SV Babelsberg 03,24,24.6,9,0.153,3.68
+2023,Bundesliga_2,Hertha BSC,45,24.4,19,1.38,62.18
+2023,Bundesliga_2,Fortuna Düsseldorf,34,24.4,11,1.32,44.9
+2023,Bundesliga_2,Hamburger SV,35,24.2,20,1.2,42.15
+2023,Bundesliga_2,FC St. Pauli,32,25.9,18,1.31,42.08
+2023,Bundesliga_2,1.FC Nuremberg,34,26.0,10,1.19,40.3
+2023,Bundesliga_2,Holstein Kiel,32,25.4,8,1.2,38.48
+2023,Bundesliga_2,FC Schalke 04,39,25.9,17,0.967,37.7
+2023,Bundesliga_2,Hannover 96,30,25.3,5,1.18,35.33
+2023,Bundesliga_2,SpVgg Greuther Fürth,32,24.3,9,1.02,32.63
+2023,Bundesliga_2,SC Paderborn 07,41,24.3,6,0.622,25.5
+2023,Bundesliga_2,SV 07 Elversberg,30,27.1,7,0.843,25.28
+2023,Bundesliga_2,1.FC Kaiserslautern,35,27.1,10,0.698,24.43
+2023,Bundesliga_2,Karlsruher SC,33,25.7,10,0.699,23.08
+2023,Bundesliga_2,1.FC Magdeburg,33,25.8,16,0.547,18.05
+2023,Bundesliga_2,Eintracht Braunschweig,35,26.2,14,0.504,17.63
+2023,Bundesliga_2,SV Wehen Wiesbaden,31,25.6,15,0.541,16.78
+2023,Bundesliga_2,FC Hansa Rostock,35,25.7,14,0.419,14.65
+2023,Bundesliga_2,VfL Osnabrück,32,26.0,7,0.441,14.1
 2011,Bundesliga_3,VfB Stuttgart II,34,21.1,8,0.52,17.68
 2011,Bundesliga_3,SV Werder Bremen II,38,21.6,7,0.284,10.78
 2011,Bundesliga_3,SV Sandhausen,29,25.3,5,0.269,7.8
@@ -558,7 +556,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2014,Bundesliga_3,VfL Osnabrück,30,25.5,7,0.218,6.55
 2014,Bundesliga_3,Chemnitzer FC,27,24.6,3,0.242,6.53
 2014,Bundesliga_3,SSV Jahn Regensburg,37,24.7,10,0.172,6.38
-2014,Bundesliga_3,MSV Duisburg,39,24.3,6,0.161,6.28
+2014,Bundesliga_3,MSV Duisburg,39,24.3,7,0.161,6.28
 2014,Bundesliga_3,Hallescher FC,29,25.0,8,0.207,6.0
 2014,Bundesliga_3,FC Energie Cottbus,39,23.6,10,0.151,5.9
 2014,Bundesliga_3,Preußen Münster,27,27.3,4,0.219,5.9
@@ -590,15 +588,15 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2016,Bundesliga_3,SV Werder Bremen II,37,22.3,12,0.439,16.23
 2016,Bundesliga_3,1.FSV Mainz 05 II,38,22.3,11,0.394,14.98
 2016,Bundesliga_3,Holstein Kiel,32,25.1,9,0.277,8.85
-2016,Bundesliga_3,MSV Duisburg,30,25.3,9,0.243,7.3
+2016,Bundesliga_3,MSV Duisburg,30,25.3,10,0.243,7.3
 2016,Bundesliga_3,SV Wehen Wiesbaden,33,25.4,6,0.216,7.13
 2016,Bundesliga_3,SSV Jahn Regensburg,32,24.5,5,0.22,7.03
 2016,Bundesliga_3,1.FC Magdeburg,31,25.5,5,0.214,6.63
-2016,Bundesliga_3,VfL Osnabrück,30,25.5,11,0.218,6.53
+2016,Bundesliga_3,VfL Osnabrück,30,25.5,12,0.218,6.53
 2016,Bundesliga_3,FC Hansa Rostock,31,25.5,6,0.21,6.53
 2016,Bundesliga_3,Preußen Münster,30,25.7,6,0.202,6.05
 2016,Bundesliga_3,Hallescher FC,30,23.9,7,0.198,5.95
-2016,Bundesliga_3,Chemnitzer FC,28,24.5,2,0.21,5.88
+2016,Bundesliga_3,Chemnitzer FC,28,24.5,3,0.21,5.88
 2016,Bundesliga_3,SG Sonnenhof Großaspach,32,24.9,9,0.183,5.85
 2016,Bundesliga_3,VfR Aalen,28,23.8,6,0.201,5.63
 2016,Bundesliga_3,SC Paderborn 07,34,25.2,5,0.163,5.55
@@ -611,8 +609,8 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2017,Bundesliga_3,SC Paderborn 07,36,24.3,8,0.258,9.3
 2017,Bundesliga_3,1.FC Magdeburg,27,26.3,2,0.278,7.5
 2017,Bundesliga_3,SV Wehen Wiesbaden,29,25.1,3,0.243,7.05
-2017,Bundesliga_3,Karlsruher SC,45,24.1,11,0.148,6.68
-2017,Bundesliga_3,VfL Osnabrück,34,24.7,10,0.192,6.53
+2017,Bundesliga_3,Karlsruher SC,45,24.1,10,0.148,6.68
+2017,Bundesliga_3,VfL Osnabrück,34,24.7,11,0.192,6.53
 2017,Bundesliga_3,FC Hansa Rostock,29,24.4,7,0.217,6.3
 2017,Bundesliga_3,Würzburger Kickers,28,24.2,3,0.22,6.15
 2017,Bundesliga_3,Hallescher FC,29,24.2,5,0.195,5.65
@@ -625,7 +623,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2017,Bundesliga_3,FC Carl Zeiss Jena,30,23.8,5,0.166,4.98
 2017,Bundesliga_3,Chemnitzer FC,30,24.2,3,0.164,4.93
 2017,Bundesliga_3,VfR Aalen,24,24.6,4,0.205,4.93
-2017,Bundesliga_3,Rot-Weiß Erfurt,35,23.9,9,0.136,4.75
+2017,Bundesliga_3,Rot-Weiß Erfurt,35,23.9,10,0.136,4.75
 2017,Bundesliga_3,SV Meppen,29,25.9,4,0.161,4.68
 2018,Bundesliga_3,Eintracht Braunschweig,41,24.7,14,0.265,10.85
 2018,Bundesliga_3,Karlsruher SC,31,25.0,9,0.321,9.95
@@ -640,11 +638,11 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2018,Bundesliga_3,Sportfreunde Lotte,33,24.9,5,0.17,5.6
 2018,Bundesliga_3,Preußen Münster,28,24.3,4,0.197,5.53
 2018,Bundesliga_3,Hallescher FC,26,24.2,3,0.206,5.35
-2018,Bundesliga_3,FC Energie Cottbus,35,25.3,7,0.151,5.28
+2018,Bundesliga_3,FC Energie Cottbus,35,25.3,7,0.15,5.25
 2018,Bundesliga_3,FC Carl Zeiss Jena,34,24.1,6,0.154,5.23
 2018,Bundesliga_3,SG Sonnenhof Großaspach,29,25.1,2,0.175,5.08
 2018,Bundesliga_3,SV Meppen,31,26.1,2,0.163,5.05
-2018,Bundesliga_3,VfR Aalen,31,24.8,7,0.161,5.0
+2018,Bundesliga_3,VfR Aalen,31,24.8,7,0.163,5.05
 2018,Bundesliga_3,SC Fortuna Köln,32,25.9,7,0.151,4.83
 2018,Bundesliga_3,FSV Zwickau,27,25.1,5,0.174,4.7
 2019,Bundesliga_3,FC Bayern Munich II,40,21.0,13,1.95,78.1
@@ -656,11 +654,11 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2019,Bundesliga_3,SpVgg Unterhaching,35,24.8,1,0.195,6.83
 2019,Bundesliga_3,Eintracht Braunschweig,29,26.3,3,0.231,6.7
 2019,Bundesliga_3,Chemnitzer FC,47,25.1,12,0.137,6.43
-2019,Bundesliga_3,FC Carl Zeiss Jena,52,23.6,9,0.118,6.15
+2019,Bundesliga_3,FC Carl Zeiss Jena,52,23.6,10,0.118,6.15
 2019,Bundesliga_3,TSV 1860 Munich,34,24.4,4,0.179,6.08
 2019,Bundesliga_3,SV Waldhof Mannheim,40,25.1,11,0.152,6.08
 2019,Bundesliga_3,Hallescher FC,28,24.9,1,0.216,6.05
-2019,Bundesliga_3,MSV Duisburg,28,25.0,5,0.215,6.03
+2019,Bundesliga_3,MSV Duisburg,28,25.0,6,0.215,6.03
 2019,Bundesliga_3,1.FC Magdeburg,32,23.9,6,0.184,5.9
 2019,Bundesliga_3,SG Sonnenhof Großaspach,42,24.5,9,0.131,5.5
 2019,Bundesliga_3,FC Viktoria Köln,34,25.3,3,0.161,5.48
@@ -676,8 +674,8 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2020,Bundesliga_3,FC Hansa Rostock,30,25.7,4,0.236,7.08
 2020,Bundesliga_3,SpVgg Unterhaching,37,24.8,4,0.177,6.55
 2020,Bundesliga_3,SV Waldhof Mannheim,34,24.4,6,0.188,6.4
-2020,Bundesliga_3,MSV Duisburg,32,25.2,8,0.195,6.25
 2020,Bundesliga_3,TSV 1860 Munich,28,24.4,6,0.223,6.25
+2020,Bundesliga_3,MSV Duisburg,32,25.2,9,0.195,6.23
 2020,Bundesliga_3,KFC Uerdingen 05,34,24.8,13,0.183,6.23
 2020,Bundesliga_3,1.FC Magdeburg,35,25.2,6,0.174,6.08
 2020,Bundesliga_3,1.FC Saarbrücken,30,25.8,5,0.197,5.9
@@ -686,7 +684,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2020,Bundesliga_3,SC Verl,30,26.7,4,0.174,5.23
 2020,Bundesliga_3,SV Meppen,29,26.8,5,0.174,5.05
 2020,Bundesliga_3,FSV Zwickau,26,26.0,3,0.173,4.5
-2020,Bundesliga_3,VfB Lübeck,44,23.9,7,0.095,4.18
+2020,Bundesliga_3,VfB Lübeck,44,23.9,8,0.095,4.18
 2021,Bundesliga_3,Borussia Dortmund II,39,21.7,12,1.23,47.98
 2021,Bundesliga_3,SC Freiburg II,43,22.0,16,0.703,30.25
 2021,Bundesliga_3,1.FC Magdeburg,35,23.9,8,0.256,8.98
@@ -696,7 +694,7 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2021,Bundesliga_3,SV Wehen Wiesbaden,33,25.8,10,0.212,7.0
 2021,Bundesliga_3,FC Viktoria Köln,41,23.5,6,0.17,6.98
 2021,Bundesliga_3,TSV 1860 Munich,34,24.0,6,0.185,6.28
-2021,Bundesliga_3,VfL Osnabrück,33,24.0,5,0.186,6.15
+2021,Bundesliga_3,VfL Osnabrück,33,24.0,6,0.186,6.15
 2021,Bundesliga_3,SV Waldhof Mannheim,35,24.9,4,0.175,6.13
 2021,Bundesliga_3,MSV Duisburg,30,25.4,8,0.199,5.98
 2021,Bundesliga_3,1.FC Saarbrücken,32,25.7,1,0.184,5.88
@@ -710,10 +708,10 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2022,Bundesliga_3,SC Freiburg II,45,22.2,16,1.18,53.03
 2022,Bundesliga_3,Borussia Dortmund II,39,22.2,12,0.671,26.18
 2022,Bundesliga_3,SV Wehen Wiesbaden,37,24.2,12,0.282,10.43
-2022,Bundesliga_3,SG Dynamo Dresden,37,24.5,5,0.269,9.95
+2022,Bundesliga_3,SG Dynamo Dresden,37,24.5,6,0.269,9.95
 2022,Bundesliga_3,FC Ingolstadt 04,33,24.0,11,0.286,9.45
 2022,Bundesliga_3,SV 07 Elversberg,33,25.6,7,0.268,8.85
-2022,Bundesliga_3,TSV 1860 Munich,33,24.8,9,0.263,8.68
+2022,Bundesliga_3,TSV 1860 Munich,33,24.8,10,0.263,8.68
 2022,Bundesliga_3,VfL Osnabrück,31,25.0,4,0.262,8.13
 2022,Bundesliga_3,FC Viktoria Köln,35,24.7,2,0.202,7.08
 2022,Bundesliga_3,SV Waldhof Mannheim,34,25.4,6,0.2,6.8
@@ -727,3 +725,23 @@ year,league,team_name,team_size,mean_age,foreigners,mean_value,total_value
 2022,Bundesliga_3,SV Meppen,38,25.9,3,0.114,4.35
 2022,Bundesliga_3,VfB Oldenburg,32,26.9,8,0.12,3.84
 2022,Bundesliga_3,SpVgg Bayreuth,31,25.9,2,0.123,3.83
+2023,Bundesliga_3,SC Freiburg II,43,22.5,20,0.556,23.9
+2023,Bundesliga_3,Borussia Dortmund II,37,22.3,9,0.558,20.65
+2023,Bundesliga_3,SSV Jahn Regensburg,31,24.1,2,0.276,8.55
+2023,Bundesliga_3,SG Dynamo Dresden,35,24.1,9,0.23,8.05
+2023,Bundesliga_3,SpVgg Unterhaching,42,23.0,6,0.192,8.05
+2023,Bundesliga_3,TSV 1860 Munich,36,24.4,13,0.221,7.95
+2023,Bundesliga_3,SV Sandhausen,29,25.5,9,0.262,7.6
+2023,Bundesliga_3,FC Ingolstadt 04,38,23.6,14,0.199,7.58
+2023,Bundesliga_3,SSV Ulm 1846,32,25.6,2,0.228,7.3
+2023,Bundesliga_3,FC Viktoria Köln,38,23.7,4,0.191,7.25
+2023,Bundesliga_3,1.FC Saarbrücken,30,26.3,4,0.24,7.2
+2023,Bundesliga_3,Preußen Münster,35,26.1,6,0.203,7.1
+2023,Bundesliga_3,MSV Duisburg,34,25.4,7,0.191,6.5
+2023,Bundesliga_3,SC Verl,33,24.7,3,0.196,6.48
+2023,Bundesliga_3,Arminia Bielefeld,33,23.2,4,0.192,6.35
+2023,Bundesliga_3,SV Waldhof Mannheim,31,25.6,8,0.202,6.25
+2023,Bundesliga_3,Rot-Weiss Essen,30,24.6,4,0.205,6.15
+2023,Bundesliga_3,Hallescher FC,31,25.6,6,0.175,5.43
+2023,Bundesliga_3,FC Erzgebirge Aue,31,24.0,5,0.167,5.18
+2023,Bundesliga_3,VfB Lübeck,37,26.4,2,0.109,4.03

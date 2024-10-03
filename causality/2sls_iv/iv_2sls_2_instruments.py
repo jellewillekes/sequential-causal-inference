@@ -120,7 +120,8 @@ if __name__ == "__main__":
         ['team_league_rank_prev', 'opponent_division', 'next_fixture_days', 'extra_time'],  # Model 5
         ['team_league_rank_prev', 'opponent_division', 'next_fixture_days', 'extra_time', 'team_size', 'total_value',
          'mean_age'],  # Model 6
-        ['team_league_rank_prev', 'opponent_division', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age',
+        ['team_league_rank_prev', 'opponent_division', 'next_fixture_days', 'extra_time', 'team_size', 'total_value',
+         'mean_age',
          'country_code'],  # Model 7
     ]
 
@@ -135,4 +136,3 @@ if __name__ == "__main__":
     results_file_path = os.path.join("results", country, "2SLS_Results", "combined_2sls_results_2023_distance.csv")
     results_df.to_csv(results_file_path, index=False)
     print(f"Combined results saved to {results_file_path}")
-    

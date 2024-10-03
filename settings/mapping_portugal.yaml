@@ -22,11 +22,10 @@ Taca_de_Portugal:
   data_types: [ fixtures ]
   transfermarkt_name: none
   rounds:
-    1st Round: 8
-    2nd Round: 7
-    3rd Round: 6
-    4th Round: 5
-    5th Round: 4
+    1st Round: 7
+    2nd Round: 6
+    3rd Round: 5
+    4th Round: 4
     Quarter-finals: 3
     Semi-finals: 2
     Final: 1
