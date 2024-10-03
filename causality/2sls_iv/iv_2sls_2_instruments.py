@@ -110,17 +110,17 @@ if __name__ == "__main__":
     cup_fixtures = cup_fixtures.dropna(subset='distance')
 
     outcome_var = 'next_team_points'
-    instr_vars = ['opponent_league_rank_prev', 'opponent_division']
+    instr_vars = ['distance']
     treatment_var = 'team_win'
     control_vars_list = [
         [],  # Model 1: No control variables
         ['team_league_rank_prev'],  # Model 2
-        ['team_league_rank_prev', 'distance'],  # Model 3
-        ['team_league_rank_prev', 'distance', 'next_fixture_days'],  # Model 4
-        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time'],  # Model 5
-        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value',
+        ['team_league_rank_prev', 'opponent_division'],  # Model 3
+        ['team_league_rank_prev', 'opponent_division', 'next_fixture_days'],  # Model 4
+        ['team_league_rank_prev', 'opponent_division', 'next_fixture_days', 'extra_time'],  # Model 5
+        ['team_league_rank_prev', 'opponent_division', 'next_fixture_days', 'extra_time', 'team_size', 'total_value',
          'mean_age'],  # Model 6
-        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age',
+        ['team_league_rank_prev', 'opponent_division', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age',
          'country_code'],  # Model 7
     ]
 
@@ -132,6 +132,6 @@ if __name__ == "__main__":
     results = analyze_2sls_by_stage(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, display)
 
     results_df = pd.DataFrame(results)
-    results_file_path = os.path.join("results", country, "2SLS_Results", "combined_2sls_results_2023_.csv")
+    results_file_path = os.path.join("results", country, "2SLS_Results", "combined_2sls_results_2023_distance.csv")
     results_df.to_csv(results_file_path, index=False)
     print(f"Combined results saved to {results_file_path}")

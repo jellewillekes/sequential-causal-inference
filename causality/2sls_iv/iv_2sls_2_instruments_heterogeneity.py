@@ -82,42 +82,69 @@ def analyze_2sls_by_stage(stages_df, outcome_var, instr_vars, treatment_var, con
                     'first_stage_r_squared': first_stage_stats['r_squared'],
                     'first_stage_f_stat': first_stage_stats['f_stat'],
                     'first_stage_f_p_value': first_stage_stats['f_p_value'],
-                    'first_stage_nobs': first_stage_stats['nobs'],  # Adding first stage nobs
+                    'first_stage_nobs': first_stage_stats['nobs'],
                     'second_stage_coefficient': second_stage_stats['endogenous_coefficient'],
                     'second_stage_std_error': second_stage_stats['endogenous_std_error'],
                     'second_stage_t_value': second_stage_stats['endogenous_t_value'],
                     'second_stage_p_value': second_stage_stats['endogenous_p_value'],
                     'second_stage_r_squared': second_stage_stats['r_squared'],
-                    'second_stage_nobs': second_stage_stats['nobs']  # Adding second stage nobs
+                    'second_stage_nobs': second_stage_stats['nobs']
                 })
 
     return results
 
 
-def get_top_bottom_teams_by_market_value(data, country_col, value_col, top_pct=0.2, bottom_pct=0.2):
+def get_top_bottom_teams_by_value(data, country_col, value_col, top_pct=0.2, bottom_pct=0.2):
     data = data.copy()
     top_teams = []
     bottom_teams = []
     border_values = {}
 
-    # Process per country
     for country in data[country_col].unique():
         country_data = data[data[country_col] == country]
-
-        # Get the top and bottom percentile border values
         top_value = country_data[value_col].quantile(1 - top_pct)
         bottom_value = country_data[value_col].quantile(bottom_pct)
         border_values[country] = {'top_value': top_value, 'bottom_value': bottom_value}
 
-        # Select top and bottom teams
         top_teams.append(country_data[country_data[value_col] >= top_value])
         bottom_teams.append(country_data[country_data[value_col] <= bottom_value])
 
-    # Concatenate the results
     top_teams = pd.concat(top_teams)
     bottom_teams = pd.concat(bottom_teams)
 
     return top_teams, bottom_teams, border_values
+
+
+def run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col, value_type):
+    # Split data into top and bottom 20% by specified value (market value or team size)
+    top_teams, bottom_teams, value_borders = get_top_bottom_teams_by_value(
+        cup_fixtures, country_col='country_code', value_col=value_col, top_pct=0.2, bottom_pct=0.2)
+
+    # Print the border values for each country
+    print(f"\n{value_type} borders per country (top 20% and bottom 20%):")
+    for country, values in value_borders.items():
+        print(f"{country}: Top 20% >= {values['top_value']}, Bottom 20% <= {values['bottom_value']}")
+
+    # Perform 2SLS analysis for top 20% teams
+    print(f"\nRunning 2SLS analysis for top 20% {value_type} teams:")
+    top_results = analyze_2sls_by_stage(top_teams, outcome_var, instr_vars, treatment_var, control_vars_list)
+
+    # Perform 2SLS analysis for bottom 20% teams
+    print(f"\nRunning 2SLS analysis for bottom 20% {value_type} teams:")
+    bottom_results = analyze_2sls_by_stage(bottom_teams, outcome_var, instr_vars, treatment_var, control_vars_list)
+
+    # Save results to CSV
+    results_top_df = pd.DataFrame(top_results)
+    results_bottom_df = pd.DataFrame(bottom_results)
+
+    top_results_file_path = os.path.join("results", "combined", "2SLS_Results", f"top_20_{value_type}_2sls_results.csv")
+    results_top_df.to_csv(top_results_file_path, index=False)
+
+    bottom_results_file_path = os.path.join("results", "combined", "2SLS_Results", f"bottom_20_{value_type}_2sls_results.csv")
+    results_bottom_df.to_csv(bottom_results_file_path, index=False)
+
+    print(f"\nTop 20% {value_type} results saved to {top_results_file_path}")
+    print(f"Bottom 20% {value_type} results saved to {bottom_results_file_path}")
 
 
 if __name__ == "__main__":
@@ -126,7 +153,6 @@ if __name__ == "__main__":
     display = "summary"
 
     cup_fixtures = load_processed_data(country, cup)
-
     cup_fixtures = cup_fixtures.dropna(subset='distance')
 
     outcome_var = 'next_team_points'
@@ -138,38 +164,12 @@ if __name__ == "__main__":
         ['team_league_rank_prev', 'distance'],  # Model 3
         ['team_league_rank_prev', 'distance', 'next_fixture_days'],  # Model 4
         ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time'],  # Model 5
-        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value',
-         'mean_age'],  # Model 6
-        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age',
-         'country_code'],  # Model 7
+        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age'],  # Model 6
+        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age', 'country_code'],  # Model 7
     ]
 
-    # Split the data into top 20% and bottom 20% based on market value
-    top_teams, bottom_teams, market_value_borders = get_top_bottom_teams_by_market_value(
-        cup_fixtures, country_col='country_code', value_col='total_value', top_pct=0.2, bottom_pct=0.2)
+    # Run analysis for market value
+    run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col='total_value', value_type='market_value')
 
-    # Print the border values for each country
-    print("Market value borders per country (top 20% and bottom 20%):")
-    for country, values in market_value_borders.items():
-        print(f"{country}: Top 20% >= {values['top_value']}, Bottom 20% <= {values['bottom_value']}")
-
-    # Perform 2SLS analysis for top 20% teams
-    print("\nRunning 2SLS analysis for top 20% market value teams:")
-    top_results = analyze_2sls_by_stage(top_teams, outcome_var, instr_vars, treatment_var, control_vars_list, display)
-
-    # Perform 2SLS analysis for bottom 20% teams
-    print("\nRunning 2SLS analysis for bottom 20% market value teams:")
-    bottom_results = analyze_2sls_by_stage(bottom_teams, outcome_var, instr_vars, treatment_var, control_vars_list, display)
-
-    # Save results to CSV
-    results_top_df = pd.DataFrame(top_results)
-    results_bottom_df = pd.DataFrame(bottom_results)
-
-    top_results_file_path = os.path.join("results", "combined", "2SLS_Results", "top_20_market_value_2sls_results.csv")
-    results_top_df.to_csv(top_results_file_path, index=False)
-
-    bottom_results_file_path = os.path.join("results", "combined", "2SLS_Results", "bottom_20_market_value_2sls_results.csv")
-    results_bottom_df.to_csv(bottom_results_file_path, index=False)
-
-    print(f"Top 20% results saved to {top_results_file_path}")
-    print(f"Bottom 20% results saved to {bottom_results_file_path}")
+    # Run analysis for team size
+    run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col='team_size', value_type='team_size')
