@@ -26,17 +26,6 @@ def filter_by_market_value(data, percentile=20):
     return top_market_value, bottom_market_value
 
 
-def filter_by_team_size(data, percentile=20):
-    """Split data into top and bottom 20% by team size."""
-    top_cutoff = data['team_size'].quantile(1 - percentile / 100)
-    bottom_cutoff = data['team_size'].quantile(percentile / 100)
-
-    top_team_size = data[data['team_size'] >= top_cutoff]
-    bottom_team_size = data[data['team_size'] <= bottom_cutoff]
-
-    return top_team_size, bottom_team_size
-
-
 def perform_2sls_analysis(data, outcome_var, instr_vars, treatment_var, control_vars, display="none"):
     X1 = sm.add_constant(data[instr_vars + control_vars])
     first_stage_model = sm.OLS(data[treatment_var], X1).fit()
@@ -171,26 +160,6 @@ if __name__ == "__main__":
     results_bottom = analyze_2sls_by_stage(bottom_market_value, outcome_var, instr_vars, treatment_var, control_vars_list, display)
     results_df_bottom = pd.DataFrame(results_bottom)
     bottom_file_path = os.path.join("results", country, "2SLS_Results", f"combined_2sls_bottom20_market_value_{outcome_var}.csv")
-    results_df_bottom.to_csv(bottom_file_path, index=False)
-    print(f"Bottom 20% results saved to {bottom_file_path}")
-
-
-    # Split data by team size (Top 20% and Bottom 20%)
-    top_team_size, bottom_team_size = filter_by_team_size(cup_fixtures)
-
-    # Analyze Top 20%
-    print("Analyzing Top 20% Team Size:")
-    results_top = analyze_2sls_by_stage(top_team_size, outcome_var, instr_vars, treatment_var, control_vars_list, display)
-    results_df_top = pd.DataFrame(results_top)
-    top_file_path = os.path.join("results", country, "2SLS_Results", f"combined_2sls_top20_team_size_{outcome_var}.csv")
-    results_df_top.to_csv(top_file_path, index=False)
-    print(f"Top 20% results saved to {top_file_path}")
-
-    # Analyze Bottom 20%
-    print("Analyzing Bottom 20% Team Size:")
-    results_bottom = analyze_2sls_by_stage(bottom_team_size, outcome_var, instr_vars, treatment_var, control_vars_list, display)
-    results_df_bottom = pd.DataFrame(results_bottom)
-    bottom_file_path = os.path.join("results", country, "2SLS_Results", f"combined_2sls_bottom20_team_size_{outcome_var}.csv")
     results_df_bottom.to_csv(bottom_file_path, index=False)
     print(f"Bottom 20% results saved to {bottom_file_path}")
 
