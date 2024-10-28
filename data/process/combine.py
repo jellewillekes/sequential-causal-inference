@@ -112,7 +112,7 @@ def load_and_process_cup_data():
 
     combined_data = combined_data.dropna(subset=['team_size', 'distance'])
 
-    output_path = os.path.join(project_root(), 'data/process/combined', 'combined_cup_processed.csv')
+    output_path = os.path.join(project_root(), 'data/process/combined', 'combined_cup_processed_win.csv')
     combined_data.to_csv(output_path, index=False)
 
     print(f"Combined data saved to {output_path}")
