@@ -140,7 +140,8 @@ def run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_v
     top_results_file_path = os.path.join("results", "combined", "2SLS_Results", f"top_20_{value_type}_2sls_results.csv")
     results_top_df.to_csv(top_results_file_path, index=False)
 
-    bottom_results_file_path = os.path.join("results", "combined", "2SLS_Results", f"bottom_20_{value_type}_2sls_results.csv")
+    bottom_results_file_path = os.path.join("results", "combined", "2SLS_Results",
+                                            f"bottom_20_{value_type}_2sls_results.csv")
     results_bottom_df.to_csv(bottom_results_file_path, index=False)
 
     print(f"\nTop 20% {value_type} results saved to {top_results_file_path}")
@@ -164,12 +165,16 @@ if __name__ == "__main__":
         ['team_league_rank_prev', 'distance'],  # Model 3
         ['team_league_rank_prev', 'distance', 'next_fixture_days'],  # Model 4
         ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time'],  # Model 5
-        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age'],  # Model 6
-        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age', 'country_code'],  # Model 7
+        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value',
+         'mean_age'],  # Model 6
+        ['team_league_rank_prev', 'distance', 'next_fixture_days', 'extra_time', 'team_size', 'total_value', 'mean_age',
+         'country_code'],  # Model 7
     ]
 
     # Run analysis for market value
-    run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col='total_value', value_type='market_value')
+    run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col='total_value',
+                 value_type='market_value')
 
     # Run analysis for team size
-    run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col='team_size', value_type='team_size')
+    run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col='team_size',
+                 value_type='team_size')
