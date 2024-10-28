@@ -15,6 +15,28 @@ def ensure_results_dir(country):
     return results_dir
 
 
+def filter_by_market_value(data, percentile=20):
+    """Split data into top and bottom 20% by market value (total_value)."""
+    top_cutoff = data['total_value'].quantile(1 - percentile / 100)
+    bottom_cutoff = data['total_value'].quantile(percentile / 100)
+
+    top_market_value = data[data['total_value'] >= top_cutoff]
+    bottom_market_value = data[data['total_value'] <= bottom_cutoff]
+
+    return top_market_value, bottom_market_value
+
+
+def filter_by_team_size(data, percentile=20):
+    """Split data into top and bottom 20% by team size."""
+    top_cutoff = data['team_size'].quantile(1 - percentile / 100)
+    bottom_cutoff = data['team_size'].quantile(percentile / 100)
+
+    top_team_size = data[data['team_size'] >= top_cutoff]
+    bottom_team_size = data[data['team_size'] <= bottom_cutoff]
+
+    return top_team_size, bottom_team_size
+
+
 def perform_2sls_analysis(data, outcome_var, instr_vars, treatment_var, control_vars, display="none"):
     X1 = sm.add_constant(data[instr_vars + control_vars])
     first_stage_model = sm.OLS(data[treatment_var], X1).fit()
@@ -153,10 +175,11 @@ if __name__ == "__main__":
     cup = 'combined_cup'
     display = "summary"
 
+    outcome_var = 'next_team_points_round'
+
     cup_fixtures = load_processed_data(country, cup)
     cup_fixtures = cup_fixtures.dropna(subset='distance')
 
-    outcome_var = 'next_team_points'
     instr_vars = ['opponent_league_rank_prev', 'opponent_division']
     treatment_var = 'team_win'
     control_vars_list = [
@@ -171,10 +194,47 @@ if __name__ == "__main__":
          'country_code'],  # Model 7
     ]
 
-    # Run analysis for market value
-    run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col='total_value',
-                 value_type='market_value')
+    # Split data by market value (Top 20% and Bottom 20%)
+    top_market_value, bottom_market_value = filter_by_market_value(cup_fixtures)
 
-    # Run analysis for team size
-    run_analysis(cup_fixtures, outcome_var, instr_vars, treatment_var, control_vars_list, value_col='team_size',
-                 value_type='team_size')
+    # Analyze Top 20%
+    print("Analyzing Top 20% Market Value Teams:")
+    results_top = analyze_2sls_by_stage(top_market_value, outcome_var, instr_vars, treatment_var, control_vars_list,
+                                        display)
+    results_df_top = pd.DataFrame(results_top)
+    top_file_path = os.path.join("results", country, "2SLS_Results",
+                                 f"combined_2sls_top20_market_value_{outcome_var}.csv")
+    results_df_top.to_csv(top_file_path, index=False)
+    print(f"Top 20% results saved to {top_file_path}")
+
+    # Analyze Bottom 20%
+    print("Analyzing Bottom 20% Market Value Teams:")
+    results_bottom = analyze_2sls_by_stage(bottom_market_value, outcome_var, instr_vars, treatment_var,
+                                           control_vars_list, display)
+    results_df_bottom = pd.DataFrame(results_bottom)
+    bottom_file_path = os.path.join("results", country, "2SLS_Results",
+                                    f"combined_2sls_bottom20_market_value_{outcome_var}.csv")
+    results_df_bottom.to_csv(bottom_file_path, index=False)
+    print(f"Bottom 20% results saved to {bottom_file_path}")
+
+    # Split data by team size (Top 20% and Bottom 20%)
+    top_team_size, bottom_team_size = filter_by_team_size(cup_fixtures)
+
+    # Analyze Top 20%
+    print("Analyzing Top 20% Team Size:")
+    results_top = analyze_2sls_by_stage(top_team_size, outcome_var, instr_vars, treatment_var, control_vars_list,
+                                        display)
+    results_df_top = pd.DataFrame(results_top)
+    top_file_path = os.path.join("results", country, "2SLS_Results", f"combined_2sls_top20_team_size_{outcome_var}.csv")
+    results_df_top.to_csv(top_file_path, index=False)
+    print(f"Top 20% results saved to {top_file_path}")
+
+    # Analyze Bottom 20%
+    print("Analyzing Bottom 20% Team Size:")
+    results_bottom = analyze_2sls_by_stage(bottom_team_size, outcome_var, instr_vars, treatment_var, control_vars_list,
+                                           display)
+    results_df_bottom = pd.DataFrame(results_bottom)
+    bottom_file_path = os.path.join("results", country, "2SLS_Results",
+                                    f"combined_2sls_bottom20_team_size_{outcome_var}.csv")
+    results_df_bottom.to_csv(bottom_file_path, index=False)
+    print(f"Bottom 20% results saved to {bottom_file_path}")
