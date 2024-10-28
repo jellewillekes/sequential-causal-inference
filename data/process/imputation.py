@@ -11,51 +11,62 @@ import matplotlib.pyplot as plt
 def minmax_impute(match_df):
     non_league_division = match_df['team_division'].max()
     max_division = non_league_division - 1
+    lowest_known_division = match_df['team_division'].min()
 
     # Define columns to impute
     min_value_columns = ['team_size', 'foreigners', 'mean_value', 'total_value']
     max_value_columns = ['mean_age']
 
-    # Calculate the mean values of the lowest and highest 10% for each year and division
-    def calc_percentile_mean(df, col, lower_percentile, upper_percentile):
-        lower_bound = df[col].quantile(lower_percentile)
-        upper_bound = df[col].quantile(upper_percentile)
-        lower_mean = df[df[col] <= lower_bound][col].mean()
-        upper_mean = df[df[col] >= upper_bound][col].mean()
-        return lower_mean, upper_mean
+    # Function to adjust lower mean with a Z-score adjustment
+    def adjusted_lower_mean_zscore(df, col, percentile=0.05, z_score=-1):
+        if df[col].notna().sum() == 0:  # Handle cases where no data is available
+            return np.nan
+        lower_bound = df[col].quantile(percentile)
+        subset = df[df[col] <= lower_bound][col]
+        lower_mean = subset.mean()
+        lower_std = subset.std()
+        adjusted_mean = lower_mean + z_score * lower_std
+        return max(adjusted_mean, 0)
 
     for col in min_value_columns:
         # Impute missing values with the mean for league teams
         means = match_df.groupby(['year', 'team_division'])[col].transform('mean')
         match_df[col] = match_df[col].fillna(means)
 
-        # Use the mean value of the lowest 10% of division 3 for non-league teams
-        non_league_teams = match_df['team_division'] == non_league_division
-        match_df.loc[non_league_teams, col] = match_df[non_league_teams].apply(
+        # Debugging: Print out missing values before non-league imputation
+        print(f"Missing {col} before non-league imputation:", match_df[col].isna().sum())
+
+        # Adjust non-league teams and NaN division values
+        non_league_or_nan_teams = (match_df['team_division'] == non_league_division) | (
+            match_df['team_division'].isna())
+        match_df.loc[non_league_or_nan_teams, col] = match_df[non_league_or_nan_teams].apply(
             lambda row:
-            calc_percentile_mean(
-                match_df[(match_df['year'] == row['year']) & (match_df['team_division'] == max_division)], col, 0.05,
-                0.95)[0]
+            adjusted_lower_mean_zscore(
+                match_df[(match_df['year'] == row['year']) & (match_df['team_division'] == max_division)], col
+            )
             if row['year'] in match_df['year'].unique() else np.nan,
             axis=1
         )
 
+        # Fallback: Take the mean of the lowest known division for any remaining NaNs
+        lowest_division_mean = match_df[match_df['team_division'] == lowest_known_division][col].mean()
+        match_df[col] = match_df[col].fillna(lowest_division_mean)
+
+        # Debugging: Print out missing values after fallback imputation
+        print(f"Missing {col} after using lowest division mean:", match_df[col].isna().sum())
+
+    # Handle max_value_columns, specifically 'mean_age'
     for col in max_value_columns:
         # Impute missing values with the mean for league teams
         means = match_df.groupby(['year', 'team_division'])[col].transform('mean')
         match_df[col] = match_df[col].fillna(means)
 
-        # Use the mean value of the highest 10% of division 3 for non-league teams
-        non_league_teams = match_df['team_division'] == non_league_division
-        match_df.loc[non_league_teams, col] = match_df[non_league_teams].apply(
-            lambda row:
-            calc_percentile_mean(
-                match_df[(match_df['year'] == row['year']) & (match_df['team_division'] == max_division)], col,
-                0.05,
-                0.95)[1]
-            if row['year'] in match_df['year'].unique() else np.nan,
-            axis=1
-        )
+        # Fallback: Use the mean of the lowest known division for any remaining NaNs
+        lowest_division_mean = match_df[match_df['team_division'] == lowest_known_division][col].mean()
+        match_df[col] = match_df[col].fillna(lowest_division_mean)
+
+        # Debugging: Print out missing values after fallback imputation
+        print(f"Missing {col} after using lowest division mean:", match_df[col].isna().sum())
 
     return match_df
 

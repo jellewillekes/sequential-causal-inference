@@ -1,23 +1,31 @@
 team_name,opponent_name,team_city,opponent_city,distance
 ACV,MVV,Assen,Maastricht,245
 ADO '20,Barendrecht,Heemskerk,Barendrecht,74
-ADO '20,Emmen,Heemskerk,Emmen,156
+ADO '20,Emmen,Heemskerk,Emmen,154
 ADO Den Haag,GO Ahead Eagles,The Hague,Deventer,129
 ADO Den Haag,Gemert,The Hague,Gemert,106
 ADO Den Haag,Sparta Rotterdam,The Hague,Rotterdam,16
+ADO Den Haag,Telstar,The Hague,Velsen,47
 AFC Amsterdam,FC OSS,Amsterdam,Oss,78
-AFC Amsterdam,HSV ODIN 59,Amsterdam,Heemskerk,26
+AFC Amsterdam,HSV ODIN 59,Amsterdam,Heemskerk,24
 AFC Amsterdam,Heerenveen,Amsterdam,Heerenveen,99
+AFC Amsterdam,PEC Zwolle,Amsterdam,Zwolle,87
 AFC Amsterdam,Telstar,Amsterdam,Velsen,21
 ASV De Dijk,Ajax,Amsterdam,Amsterdam,5
 ASV De Dijk,HHC,Amsterdam,Hardenberg,117
-ASWH,Heracles,Hendrik-Ido-Ambacht,Almelo,151
+ASV De Dijk,Vitesse,Amsterdam,Arnhem,75
+ASWH,Heracles,Hendrik-Ido-Ambacht,Almelo,152
+AZ Alkmaar,ASWH,Alkmaar,Hendrik-Ido-Ambacht,86
 AZ Alkmaar,Ajax,Alkmaar,Amsterdam,33
+AZ Alkmaar,Cambuur,Alkmaar,Leeuwarden,97
+AZ Alkmaar,Emmen,Alkmaar,Emmen,147
 AZ Alkmaar,Feyenoord,Alkmaar,Rotterdam,81
 AZ Alkmaar,Groene Ster,Alkmaar,Heerlerheide,207
+AZ Alkmaar,Heerenveen,Alkmaar,Heerenveen,89
 AZ Alkmaar,Heracles,Alkmaar,Almelo,135
 AZ Alkmaar,NAC Breda,Alkmaar,Breda,113
 AZ Alkmaar,PEC Zwolle,Alkmaar,Zwolle,94
+AZ Alkmaar,Quick Boys,Alkmaar,Katwijk,52
 AZ Alkmaar,Twente,Alkmaar,Enschede,151
 AZ Alkmaar,Utrecht,Alkmaar,Utrecht,64
 AZ Alkmaar,VVV Venlo,Alkmaar,Venlo,170
@@ -26,82 +34,116 @@ Achilles 29,NAC Breda,Groesbeek,Breda,86
 Achilles Veen,DVS 33 Ermelo,Veen,Ermelo,67
 Achilles Veen,GVV Unitas,Veen,Gorinchem,13
 Achilles Veen,Roda,Veen,Kerkrade,120
+Achilles Veen,Vvsb,Veen,Noordwijkerhout,69
 Ajax,Barendrecht,Amsterdam,Barendrecht,62
 Ajax,Excelsior Maassluis,Amsterdam,Maassluis,66
 Ajax,GO Ahead Eagles,Amsterdam,Deventer,88
 Ajax,Heerenveen,Amsterdam,Heerenveen,95
 Ajax,PSV Eindhoven,Amsterdam,Eindhoven,107
 Ajax,Spakenburg,Amsterdam,Bunschoten-Spakenburg,31
+Ajax,Willem II,Amsterdam,Tilburg,90
 Ajax Amateurs,Cambuur,Amsterdam,Leeuwarden,111
 Ajax Amateurs,OFC Oostzaan,Amsterdam,Oostzaan,8
 Ajax Amateurs,Utrecht,Amsterdam,Utrecht,35
 Alcides,AZ Alkmaar,Meppel,Alkmaar,99
 Almere City FC,AZ Alkmaar,Almere,Alkmaar,42
 Almere City FC,Dordrecht,Almere,Dordrecht,76
+Almere City FC,Fortuna Sittard,Almere,Sittard,161
 Almere City FC,GO Ahead Eagles,Almere,Deventer,69
 Almere City FC,NEC Nijmegen,Almere,Nijmegen,74
 Almere City FC,VVV Venlo,Almere,Venlo,131
 Avv Swift,Vitesse,Amsterdam,Arnhem,75
+Barendrecht,Excelsior,Barendrecht,Noordwijk,47
 Barendrecht,GO Ahead Eagles,Barendrecht,Deventer,126
 Blauw Geel,Utrecht,Veghel,Utrecht,59
 Blauw Geel,VVV Venlo,Veghel,Venlo,53
+Cambuur,Ajax,Leeuwarden,Amsterdam,112
 Cambuur,Feyenoord,Leeuwarden,Rotterdam,170
 Cambuur,GO Ahead Eagles,Leeuwarden,Deventer,108
-Cambuur,GVVV Veenendaal,Leeuwarden,Veenendaal,132
+Cambuur,GVVV Veenendaal,Leeuwarden,Veenendaal,133
 Cambuur,Koninklijke HFC,Leeuwarden,Haarlem,123
+Cambuur,MVV,Leeuwarden,Maastricht,262
 Cambuur,NEC Nijmegen,Leeuwarden,Nijmegen,151
+Cambuur,Vitesse,Leeuwarden,Arnhem,133
+Capelle,Groningen,Capelle aan den IJssel,Groningen,196
 Capelle,NEC Nijmegen,Capelle aan den IJssel,Nijmegen,88
 Capelle,Roda,Capelle aan den IJssel,Kerkrade,155
 Csv Apeldoorn,Willem II,Apeldoorn,Tilburg,94
 DEM,Blauw Geel,Beverwijk,Veghel,113
+DEM,Excelsior Maassluis,Beverwijk,Maassluis,69
+DEM,Hoogeveen,Beverwijk,,56
 DVS 33 Ermelo,FC Eindhoven,Ermelo,Eindhoven,95
+DVS 33 Ermelo,PEC Zwolle,Ermelo,Zwolle,42
 DVS 33 Ermelo,Roda,Ermelo,Kerkrade,162
 De Graafschap,Ajax,Doetinchem,Amsterdam,101
 De Graafschap,De Treffers,Doetinchem,Groesbeek,34
+De Graafschap,Emmen,Doetinchem,Emmen,99
 De Graafschap,PEC Zwolle,Doetinchem,Zwolle,61
 De Graafschap,PSV Eindhoven,Doetinchem,Eindhoven,83
+De Treffers,ASWH,Groesbeek,Hendrik-Ido-Ambacht,91
 De Treffers,Cambuur,Groesbeek,Leeuwarden,160
 De Treffers,Rijnsburgse Boys,Groesbeek,Rijnsburg,114
 De Treffers,Twente,Groesbeek,Enschede,86
+De Treffers,UNA,Groesbeek,,93
 Den Bosch,Ajax,Den Bosch,Amsterdam,77
 Den Bosch,Cambuur,Den Bosch,Leeuwarden,172
+Den Bosch,Excelsior,Den Bosch,Noordwijk,87
+Den Bosch,FC Eindhoven,Den Bosch,Eindhoven,30
 Den Bosch,Heracles,Den Bosch,Almelo,120
+Dongen,GO Ahead Eagles,Dongen,Deventer,115
 Dongen,VVV Venlo,Dongen,Venlo,90
+Dordrecht,Cambuur,Dordrecht,Leeuwarden,174
 Dordrecht,Groningen,Dordrecht,Groningen,203
 Dordrecht,MVV,Dordrecht,Maastricht,128
 Dordrecht,Utrecht,Dordrecht,Utrecht,44
 Dovo,URK,Veenendaal,Urk,71
+EVV,Waalwijk,,Waalwijk,49
 Eemdijk,ASWH,Bunschoten-Spakenburg,Hendrik-Ido-Ambacht,68
 Emmen,Excelsior Maassluis,Emmen,Maassluis,204
 Emmen,FC Eindhoven,Emmen,Eindhoven,179
 Emmen,Groningen,Emmen,Groningen,53
-Emmen,HSV ODIN 59,Emmen,Heemskerk,156
+Emmen,HSV ODIN 59,Emmen,Heemskerk,154
 Emmen,Heerenveen,Emmen,Heerenveen,68
 Emmen,NEC Nijmegen,Emmen,Nijmegen,126
-Excelsior,AZ Alkmaar,Noordwijk,Alkmaar,46
+Excelsior,AZ Alkmaar,Noordwijk,Alkmaar,43
 Excelsior,FC Eindhoven,Noordwijk,Eindhoven,114
 Excelsior,Groningen,Noordwijk,Groningen,180
 Excelsior,Heerenveen,Noordwijk,Heerenveen,128
-Excelsior,Helmond Sport,Noordwijk,Helmond,120
+Excelsior,Helmond Sport,Noordwijk,Helmond,119
+Excelsior,Heracles,Noordwijk,Almelo,153
 Excelsior,NEC Nijmegen,Noordwijk,Nijmegen,107
 Excelsior,PEC Zwolle,Noordwijk,Zwolle,118
 Excelsior,PSV Eindhoven,Noordwijk,Eindhoven,114
 Excelsior,Vitesse,Noordwijk,Arnhem,97
 Excelsior '31,ADO Den Haag,Rijssen,The Hague,148
 Excelsior '31,Utrecht,Rijssen,Utrecht,98
+Excelsior Maassluis,ADO Den Haag,Maassluis,The Hague,17
+Excelsior Maassluis,FC Volendam,Maassluis,Volendam,84
 FC 's-Gravenzande,SteDoCo,Gravenzande,Hoornaar,56
+FC Eindhoven,Fortuna Sittard,Eindhoven,Sittard,56
+FC Eindhoven,Heerenveen,Eindhoven,Heerenveen,172
 FC Eindhoven,Utrecht,Eindhoven,Utrecht,77
 FC Eindhoven,Willem II,Eindhoven,Tilburg,31
-FC Lisse,Hoek,Lisse,Hoek,106
+FC Lienden,AZ Alkmaar,,Alkmaar,79
+FC Lisse,Dordrecht,Lisse,Dordrecht,51
+FC Lisse,Hoek,Lisse,Hoek,88
 FC OSS,AZ Alkmaar,Oss,Alkmaar,109
 FC OSS,Almere City FC,Oss,Almere,73
+FC OSS,FC Eindhoven,Oss,Eindhoven,37
+FC Volendam,Almere City FC,Volendam,Almere,16
 FC Volendam,Emmen,Volendam,Emmen,128
+FC Volendam,MVV,Volendam,Maastricht,188
 FC Volendam,PSV Eindhoven,Volendam,Eindhoven,121
+FC Volendam,Sparta Rotterdam,Volendam,Rotterdam,77
+FC Volendam,Vvsb,Volendam,Noordwijkerhout,46
 FC Volendam,Willem II,Volendam,Tilburg,106
 Feyenoord,ADO Den Haag,Rotterdam,The Hague,21
 Feyenoord,Ajax,Rotterdam,Amsterdam,58
 Feyenoord,Avv Swift,Rotterdam,Amsterdam,56
+Feyenoord,Excelsior,Rotterdam,Noordwijk,39
+Feyenoord,FC OSS,Rotterdam,Oss,72
 Feyenoord,Fortuna Sittard,Rotterdam,Sittard,136
+Feyenoord,Groningen,Rotterdam,Groningen,202
 Feyenoord,Heracles,Rotterdam,Almelo,156
 Feyenoord,NAC Breda,Rotterdam,Breda,37
 Feyenoord,NEC Nijmegen,Rotterdam,Nijmegen,92
@@ -116,8 +158,10 @@ Fortuna Sittard,Cambuur,Sittard,Leeuwarden,246
 Fortuna Sittard,FC OSS,Sittard,Oss,89
 Fortuna Sittard,GO Ahead Eagles,Sittard,Deventer,145
 Fortuna Sittard,PEC Zwolle,Sittard,Zwolle,171
+GO Ahead Eagles,De Treffers,Deventer,Groesbeek,59
 GO Ahead Eagles,FC Eindhoven,Deventer,Eindhoven,106
 GO Ahead Eagles,Helmond Sport,Deventer,Helmond,97
+GO Ahead Eagles,Jodan Boys,Deventer,,126
 GO Ahead Eagles,NAC Breda,Deventer,Breda,127
 GO Ahead Eagles,PSV Eindhoven,Deventer,Eindhoven,106
 GO Ahead Eagles,Roda,Deventer,Kerkrade,158
@@ -125,22 +169,28 @@ GO Ahead Eagles,Utrecht,Deventer,Utrecht,79
 GOES,Cambuur,Goes,Leeuwarden,230
 GVVV Veenendaal,Den Bosch,Veenendaal,Den Bosch,41
 GVVV Veenendaal,Dordrecht,Veenendaal,Dordrecht,66
-GVVV Veenendaal,Helmond Sport,Veenendaal,Helmond,62
+GVVV Veenendaal,Helmond Sport,Veenendaal,Helmond,61
 GVVV Veenendaal,Koninklijke HFC,Veenendaal,Haarlem,74
+GVVV Veenendaal,NEC Nijmegen,Veenendaal,Nijmegen,29
 GVVV Veenendaal,PSV Eindhoven,Veenendaal,Eindhoven,65
 GVVV Veenendaal,Sparta Rotterdam,Veenendaal,Rotterdam,78
+GVVV Veenendaal,Telstar,Veenendaal,Velsen,79
 Gemert,Feyenoord,Gemert,Rotterdam,89
 Groene Ster,Heerenveen,Heerlerheide,Heerenveen,227
 Groene Ster,TEC,Heerlerheide,Tiel,116
 Groene Ster,VVV Venlo,Heerlerheide,Venlo,53
-Groningen,Helmond Sport,Groningen,Helmond,204
+Groene Ster,Vitesse,Heerlerheide,Arnhem,122
+Groningen,Fortuna Sittard,Groningen,Sittard,253
+Groningen,Helmond Sport,Groningen,Helmond,203
 Groningen,NEC Nijmegen,Groningen,Nijmegen,160
 Groningen,Spakenburg,Groningen,Bunschoten-Spakenburg,133
 Groningen,Twente,Groningen,Enschede,108
-Groningen,Utrecht,Groningen,Utrecht,159
+HHC,AZ Alkmaar,Hardenberg,Alkmaar,125
+HHC,Heracles,Hardenberg,Almelo,26
+HHC,Jodan Boys,Hardenberg,,161
 HHC,PEC Zwolle,Hardenberg,Zwolle,32
 HSV ODIN 59,FC Lisse,Heemskerk,Lisse,29
-HSV ODIN 59,Heerenveen,Heemskerk,Heerenveen,100
+HSV ODIN 59,Heerenveen,Heemskerk,Heerenveen,98
 HV & CV Quick,De Graafschap,The Hague,Doetinchem,137
 HV & CV Quick,Willem II,The Hague,Tilburg,79
 HVV Te Werve,Ajax,Rijswijk,Amsterdam,55
@@ -148,38 +198,56 @@ Harkemase Boys,Dovo,Harkema,Veenendaal,135
 Harkemase Boys,FC Volendam,Harkema,Volendam,105
 Harkemase Boys,Groningen,Harkema,Groningen,30
 Harkemase Boys,Waalwijk,Harkema,Waalwijk,182
+Heerenveen,De Graafschap,Heerenveen,Doetinchem,112
 Heerenveen,De Treffers,Heerenveen,Groesbeek,132
 Heerenveen,FC OSS,Heerenveen,Oss,135
 Heerenveen,FC Volendam,Heerenveen,Volendam,78
 Heerenveen,Feyenoord,Heerenveen,Rotterdam,152
 Heerenveen,GO Ahead Eagles,Heerenveen,Deventer,79
 Heerenveen,Roda,Heerenveen,Kerkrade,234
-Helmond Sport,Cambuur,Helmond,Leeuwarden,193
-Helmond Sport,Fortuna Sittard,Helmond,Sittard,55
+Heerenveen,VVV Venlo,Heerenveen,Venlo,177
+Helmond Sport,Cambuur,Helmond,Leeuwarden,192
+Helmond Sport,Fortuna Sittard,Helmond,Sittard,56
 Heracles,Dordrecht,Almelo,Dordrecht,151
 Heracles,GO Ahead Eagles,Almelo,Deventer,32
-Heracles,Hoek,Almelo,Hoek,111
+Heracles,Hoek,Almelo,Hoek,117
+Heracles,Sparta Rotterdam,Almelo,Rotterdam,161
 Heracles,Telstar,Almelo,Velsen,140
+Heracles,UNA,Almelo,,150
 Heracles,Vitesse,Almelo,Arnhem,70
 Heracles,Waalwijk,Almelo,Waalwijk,133
+Hercules,Ajax,Utrecht,Amsterdam,55
+Hercules,Cambuur,Utrecht,Leeuwarden,132
 Hercules,Groningen,Utrecht,Groningen,149
 Hercules,NAC Breda,Utrecht,Breda,74
-Hoek,Heerenveen,Hoek,Heerenveen,154
-Hoek,PEC Zwolle,Hoek,Zwolle,108
+Hoek,Heerenveen,Hoek,Heerenveen,148
+Hoek,PEC Zwolle,Hoek,Zwolle,107
+Hsc 21,TEC,,Tiel,66
+Ijsselmeervogels,Achilles 29,Bunschoten-Spakenburg,Groesbeek,66
 Ijsselmeervogels,Den Bosch,Bunschoten-Spakenburg,Den Bosch,63
 Ijsselmeervogels,Excelsior,Bunschoten-Spakenburg,Noordwijk,64
 Ijsselmeervogels,GO Ahead Eagles,Bunschoten-Spakenburg,Deventer,59
+Ijsselmeervogels,Heerenveen,Bunschoten-Spakenburg,Heerenveen,86
+Ijsselmeervogels,Koninklijke HFC,Bunschoten-Spakenburg,Haarlem,53
+Ijsselmeervogels,Sparta Rotterdam,Bunschoten-Spakenburg,Rotterdam,75
 Ijsselmeervogels,SteDoCo,Bunschoten-Spakenburg,Hoornaar,52
+JVC Cuijk,Telstar,,Velsen,60
+Katwijk,Almere City FC,Katwijk,Almere,60
 Katwijk,DVS 33 Ermelo,Katwijk,Ermelo,83
 Katwijk,FC OSS,Katwijk,Oss,91
+Katwijk,Harkemase Boys,Katwijk,Harkema,159
 Katwijk,Heerenveen,Katwijk,Heerenveen,133
+Katwijk,TEC,Katwijk,Tiel,78
 Katwijk,Ter Leede,Katwijk,Sassenheim,6
-Katwijk,Vvsb,Katwijk,Noordwijkerhout,9
+Koninklijke HFC,GO Ahead Eagles,Haarlem,Deventer,110
 Koninklijke HFC,Harkemase Boys,Haarlem,Harkema,136
+Koninklijke HFC,OJC Rosmalen,Haarlem,Rosmalen,87
 Koninklijke HFC,Telstar,Haarlem,Velsen,10
 Kozakken Boys,ADO Den Haag,Werkendam,The Hague,45
+Kozakken Boys,Ajax,Werkendam,Amsterdam,60
 Kozakken Boys,Almere City FC,Werkendam,Almere,69
-Kozakken Boys,De Graafschap,Werkendam,Doetinchem,98
+Kozakken Boys,De Graafschap,Werkendam,Doetinchem,99
+Kozakken Boys,Helmond Sport,Werkendam,Helmond,64
 Kozakken Boys,ONS Sneek,Werkendam,Sneek,146
 Kozakken Boys,Telstar,Werkendam,Velsen,74
 Kozakken Boys,Vitesse,Werkendam,Arnhem,67
@@ -192,62 +260,85 @@ NAC Breda,PEC Zwolle,Breda,Zwolle,139
 NAC Breda,PSV Eindhoven,Breda,Eindhoven,53
 NAC Breda,Utrecht,Breda,Utrecht,61
 NAC Breda,VVV Venlo,Breda,Venlo,102
+NEC Nijmegen,ADO Den Haag,Nijmegen,The Hague,105
 NEC Nijmegen,Achilles 29,Nijmegen,Groesbeek,9
 NEC Nijmegen,Fortuna Sittard,Nijmegen,Sittard,95
 NEC Nijmegen,GO Ahead Eagles,Nijmegen,Deventer,53
+NEC Nijmegen,Roda,Nijmegen,Kerkrade,111
 NEC Nijmegen,VVV Venlo,Nijmegen,Venlo,57
+Noordwijk,ADO Den Haag,Noordwijk,The Hague,24
 Noordwijk,Fortuna Sittard,Noordwijk,Sittard,172
 Noordwijk,Sparta Rotterdam,Noordwijk,Rotterdam,39
 OFC Oostzaan,Emmen,Oostzaan,Emmen,142
 OFC Oostzaan,Spakenburg,Oostzaan,Bunschoten-Spakenburg,40
 OFC Oostzaan,Sparta Rotterdam,Oostzaan,Rotterdam,66
 OJC Rosmalen,ADO Den Haag,Rosmalen,The Hague,77
+OJC Rosmalen,Almere City FC,Rosmalen,Almere,74
 ONS Sneek,Twente,Sneek,Enschede,119
 OSS '20,FC OSS,Oss,Oss,2
 OSS '20,Twente,Oss,Enschede,110
 PEC Zwolle,Kozakken Boys,Zwolle,Werkendam,115
 PEC Zwolle,MVV,Zwolle,Maastricht,188
 PEC Zwolle,NEC Nijmegen,Zwolle,Nijmegen,77
+PEC Zwolle,Utrecht,Zwolle,Utrecht,83
+PEC Zwolle,VVV Venlo,Zwolle,Venlo,128
 PSV Eindhoven,ADO Den Haag,Eindhoven,The Hague,103
 PSV Eindhoven,Emmen,Eindhoven,Emmen,179
 PSV Eindhoven,Fortuna Sittard,Eindhoven,Sittard,56
+PSV Eindhoven,Roda,Eindhoven,Kerkrade,75
 PSV Eindhoven,Telstar,Eindhoven,Velsen,127
+PSV Eindhoven,Twente,Eindhoven,Enschede,134
 PSV Eindhoven,VVV Venlo,Eindhoven,Venlo,49
 PSV Eindhoven,Waalwijk,Eindhoven,Waalwijk,39
+Quick Boys,De Graafschap,Katwijk,Doetinchem,133
 Quick Boys,FC Volendam,Katwijk,Volendam,57
-RKAV Volendam,HV & CV Quick,Volendam,The Hague,69
+Quick Boys,NAC Breda,Katwijk,Breda,71
+RKAV Volendam,AFC Amsterdam,Volendam,Amsterdam,22
+RKAV Volendam,Eemdijk,Volendam,Bunschoten-Spakenburg,32
+RKAV Volendam,HV & CV Quick,Volendam,The Hague,72
 RKAV Volendam,Vitesse,Volendam,Arnhem,74
+Rijnsburgse Boys,Almere City FC,Rijnsburg,Almere,58
 Rijnsburgse Boys,De Graafschap,Rijnsburg,Doetinchem,130
 Rijnsburgse Boys,FC Eindhoven,Rijnsburg,Eindhoven,111
 Rijnsburgse Boys,FC OSS,Rijnsburg,Oss,90
+Rijnsburgse Boys,Groningen,Rijnsburg,Groningen,183
 Rijnsburgse Boys,Heracles,Rijnsburg,Almelo,154
 Rijnvogels,Cambuur,Katwijk,Leeuwarden,148
 Roda,Ajax,Kerkrade,Amsterdam,181
 Roda,Den Bosch,Kerkrade,Den Bosch,105
 Roda,Fortuna Sittard,Kerkrade,Sittard,19
-Roda,Groningen,Kerkrade,Groningen,265
+Roda,Groningen,Kerkrade,Groningen,266
 Roda,Heracles,Kerkrade,Almelo,172
 SC Genemuiden,De Treffers,Genemuiden,Groesbeek,95
 SDC Putten,PSV Eindhoven,Putten,Eindhoven,91
-SVV Scheveningen,Ajax,The Hague,Amsterdam,53
-SVV Scheveningen,Cambuur,The Hague,Leeuwarden,161
+SJC Noordwijk,Willem II,,Tilburg,87
+SVV Scheveningen,Ajax,The Hague,Amsterdam,55
+SVV Scheveningen,Cambuur,The Hague,Leeuwarden,163
+SVV Scheveningen,Emmen,The Hague,Emmen,195
+SVV Scheveningen,Hercules,The Hague,Utrecht,89
 Spakenburg,ASWH,Bunschoten-Spakenburg,Hendrik-Ido-Ambacht,69
 Spakenburg,DFS,Bunschoten-Spakenburg,Opheusden,40
 Spakenburg,Dordrecht,Bunschoten-Spakenburg,Dordrecht,70
+Spakenburg,Excelsior,Bunschoten-Spakenburg,Noordwijk,64
+Spakenburg,Fortuna Sittard,Bunschoten-Spakenburg,Sittard,145
+Spakenburg,Helmond Sport,Bunschoten-Spakenburg,Helmond,89
 Spakenburg,Katwijk,Bunschoten-Spakenburg,Katwijk,66
 Spakenburg,PSV Eindhoven,Bunschoten-Spakenburg,Eindhoven,92
 Spakenburg,TEC,Bunschoten-Spakenburg,Tiel,41
 Sparta Nijkerk,ADO Den Haag,Nijkerk,The Hague,78
 Sparta Nijkerk,FC Eindhoven,Nijkerk,Eindhoven,87
+Sparta Nijkerk,Fortuna Sittard,Nijkerk,Sittard,139
 Sparta Nijkerk,Fortuna Wormerveer,Nijkerk,Wormerveer,57
 Sparta Nijkerk,NAC Breda,Nijkerk,Breda,87
-Sparta Rotterdam,FC Volendam,Rotterdam,Volendam,77
+Sparta Rotterdam,Dordrecht,Rotterdam,Dordrecht,20
 Sparta Rotterdam,PSV Eindhoven,Rotterdam,Eindhoven,90
+Sparta Rotterdam,Vitesse,Rotterdam,Arnhem,96
 Sportlust '46,Utrecht,Woerden,Utrecht,17
 Staphorst,Gemert,Staphorst,Gemert,126
 Staphorst,Koninklijke HFC,Staphorst,Haarlem,112
 Staphorst,PEC Zwolle,Staphorst,Zwolle,16
 SteDoCo,Utrecht,Hoornaar,Utrecht,27
+TEC,Cambuur,Tiel,Leeuwarden,148
 Telstar,Ajax,Velsen,Amsterdam,25
 Telstar,Spakenburg,Velsen,Bunschoten-Spakenburg,55
 Twente,Ajax,Enschede,Amsterdam,133
@@ -258,29 +349,39 @@ Twente,Feyenoord,Enschede,Rotterdam,168
 Twente,GO Ahead Eagles,Enschede,Deventer,45
 Twente,Noordwijk,Enschede,Noordwijk,166
 Twente,Telstar,Enschede,Velsen,155
+Twente,Utrecht,Enschede,Utrecht,123
 Twente,Waalwijk,Enschede,Waalwijk,141
 Twente,Willem II,Enschede,Tilburg,150
+UNA,Huizen,,,21
 URK,Katwijk,Urk,Katwijk,96
 URK,Roda,Urk,Kerkrade,203
 URK,Staphorst,Urk,Staphorst,41
 Utrecht,ASWH,Utrecht,Hendrik-Ido-Ambacht,43
 Utrecht,Ajax,Utrecht,Amsterdam,31
+Utrecht,Cambuur,Utrecht,Leeuwarden,132
+Utrecht,Groningen,Utrecht,Groningen,159
 Utrecht,MVV,Utrecht,Maastricht,143
 Utrecht,Spakenburg,Utrecht,Bunschoten-Spakenburg,26
+Utrecht,Waalwijk,Utrecht,Waalwijk,45
 VVV Venlo,Den Bosch,Venlo,Den Bosch,70
 VVV Venlo,Emmen,Venlo,Emmen,166
 VVV Venlo,GO Ahead Eagles,Venlo,Deventer,100
 VVV Venlo,Utrecht,Venlo,Utrecht,108
 Vitesse,ADO Den Haag,Arnhem,The Hague,99
+Vitesse,AFC Amsterdam,Arnhem,Amsterdam,74
 Vitesse,Ajax,Arnhem,Amsterdam,70
 Vitesse,DVS 33 Ermelo,Arnhem,Ermelo,34
 Vitesse,De Graafschap,Arnhem,Doetinchem,34
+Vitesse,Feyenoord,Arnhem,Rotterdam,90
 Vitesse,HSV ODIN 59,Arnhem,Heemskerk,96
-Vitesse,Sparta Rotterdam,Arnhem,Rotterdam,96
+Vitesse,Heerenveen,Arnhem,Heerenveen,106
+Vitesse,Jodan Boys,Arnhem,,93
 Vitesse,VVV Venlo,Arnhem,Venlo,75
+Vitesse,Waalwijk,Arnhem,Waalwijk,63
 Vv De Meern,PEC Zwolle,De Meern,Zwolle,88
 Vvsb,De Graafschap,Noordwijkerhout,Doetinchem,128
-Vvsb,Roda,Noordwijkerhout,Kerkrade,188
+Vvsb,Katwijk,Noordwijkerhout,Katwijk,9
+Vvsb,Roda,Noordwijkerhout,Kerkrade,189
 Vvsb,Telstar,Noordwijkerhout,Velsen,23
 Waalwijk,ADO Den Haag,Waalwijk,The Hague,63
 Waalwijk,AZ Alkmaar,Waalwijk,Alkmaar,106
@@ -292,9 +393,9 @@ Westlandia,Excelsior Maassluis,Naaldwijk,Maassluis,7
 Westlandia,VVV Venlo,Naaldwijk,Venlo,151
 Willem II,AFC Amsterdam,Tilburg,Amsterdam,89
 Willem II,AZ Alkmaar,Tilburg,Alkmaar,121
-Willem II,Ajax,Tilburg,Amsterdam,90
+Willem II,Groningen,Tilburg,Groningen,213
 Willem II,Heerenveen,Tilburg,Heerenveen,168
-Willem II,Roda,Tilburg,Kerkrade,100
+Willem II,Roda,Tilburg,Kerkrade,101
 Willem II,Spakenburg,Tilburg,Bunschoten-Spakenburg,83
 Willem II,Sparta Rotterdam,Tilburg,Rotterdam,61
 Willem II,Vitesse,Tilburg,Arnhem,73

@@ -1,19 +1,30 @@
 team_name,opponent_name,team_city,opponent_city,distance
 1º Dezembro,Benfica,Sintra,Lisbon,16
+1º Dezembro,Pacos Ferreira,Sintra,Paços de Ferreira,289
+1º Dezembro,Sintrense,Sintra,Sintra,1
 1º Dezembro,Sporting de Lourel,Sintra,Sintra,2
 1º Dezembro,União de Leiria,Sintra,Leiria,155
 1º Maio Funchal,FC Serpa,"Funchal, Madeira",Serpa,1029
+AD Fornos Algodres,Oliveira Hospital,Fornos de Algodres,Oliveira do Hospital,36
+AD Nogueirense,Gafanha,Nogueira do Cravo,Gafanha da Nazaré,36
 AD Portomosense,Alverca,Porto de Mós,Alverca do Ribatejo,81
 AD Portomosense,Real,Porto de Mós,Queluz,101
-AR São Martinho,Benfica Castelo Branco,São Martinho,Castelo Branco,1161
-AR São Martinho,Casa Pia,São Martinho,Lisbon,972
-AR São Martinho,Moreirense,São Martinho,Moreira de Cónegos,1232
+AR São Martinho,Benfica Castelo Branco,São Martinho,Castelo Branco,136
+AR São Martinho,Casa Pia,São Martinho,Lisbon,229
+AR São Martinho,Machico,São Martinho,Machico,1151
+AR São Martinho,Moreirense,São Martinho,Moreira de Cónegos,73
 AR São Martinho,Paredes,São Martinho,Paredes,56
+AR São Martinho,Pevidem,São Martinho,Guimarães,79
+AR São Martinho,Raimonda,São Martinho,Paços de Ferreira,67
 AR São Martinho,SC Braga,São Martinho,Braga,93
+AR São Martinho,Vila Real,São Martinho,Vila Real,93
+Abrantes e Benfica,Caldas,Abrantes,Caldas da Rainha,81
 Academica,Belenenses,Coimbra,Lisbon,178
 Academica,Nacional,Coimbra,Funchal,1132
+Academica,Oliveira Hospital,Coimbra,Oliveira do Hospital,55
 Academica,Pacos Ferreira,Coimbra,Paços de Ferreira,119
-Academica,Portimonense,Coimbra,Portimão,342
+Academica,Portimonense,Coimbra,Portimão,341
+Academica,União de Coimbra,Coimbra,Coimbra,44
 Academica,Varzim,Coimbra,Póvoa de Varzim,133
 Academico Viseu,Academica,Viseu,Coimbra,67
 Academico Viseu,Camacha,Viseu,Camacha,1192
@@ -21,56 +32,103 @@ Academico Viseu,Canelas 2010,Viseu,Vila Nova de Gaia,75
 Academico Viseu,Feirense,Viseu,Santa Maria da Feira,62
 Academico Viseu,Oriental Lisboa,Viseu,Lisbon,241
 Academico Viseu,Real,Viseu,Queluz,241
+Academico Viseu,União de Leiria,Viseu,Leiria,91
+Académico do Fundão,Vitória de Sernache,Fundão,Cernache do Bonjardim,70
+Aguiar da Beira,Vila Cortez,Aguiar da Beira,Guarda,33
+Alcains,Oleiros,Alcains,Oleiros,190
 Alcains,Os Limianos,Alcains,Ponte de Lima,227
+Alcains,Sertanense,Alcains,Sertã,58
+Alcains,Águias do Moradal,Alcains,Estreito,29
 Alcanenense,Feirense,Alcanena,Santa Maria da Feira,163
+Alcanenense,Oleiros,Alcanena,Oleiros,224
 Alcanenense,Sendim,Alcanena,Sendim,203
 Alcochetense,Leixoes,Alcochete,Matosinhos,271
+Aliados Lordelo,Vianense,,Viana do Castelo,7829
+Aliança de Gandra,Santa Eulália,Paredes,Vizela,21
 Aljustrelense,Casa Pia,Aljustrel,Lisbon,132
 Aljustrelense,Os Limianos,Aljustrel,Ponte de Lima,434
 Aljustrelense,Tondela,Aljustrel,Tondela,292
+Almancilense,Amora,Almancil,Amora,196
 Almancilense,Merelinense,Almancil,Braga,500
+Almancilense,Moura,Almancil,Moura,128
+Almodôvar,Quarteirense,Almodôvar,Quarteira,49
 Alpendorada,Academica,Marco de Canaveses,Coimbra,99
+Alpendorada,Paredes,Marco de Canaveses,Paredes,16
+Alqueidão da Serra,AD Marco 09,Porto de Mós,,7640
+Alqueidão da Serra,CD Torres Novas,Porto de Mós,Torres Novas,27
 Alta Lisboa,Famalicao,Lisbon,Famalicão,298
+Alta Lisboa,Flamengos,Lisbon,Horta,1694
 Alta Lisboa,Salgueiros,Lisbon,Porto,271
 Alverca,Academico Viseu,Alverca do Ribatejo,Viseu,219
 Alverca,Anadia,Alverca do Ribatejo,Anadia,180
 Alverca,Camacha,Alverca do Ribatejo,Camacha,986
+Alverca,Eléctrico,Alverca do Ribatejo,Ponte de Sor,97
 Alverca,Famalicao,Alverca do Ribatejo,Famalicão,283
+Alverca,Gavionenses,Alverca do Ribatejo,Gavião,115
+Alverca,Guadalupe,Alverca do Ribatejo,"Guadalupe, Azores",1643
 Alverca,Sporting CP,Alverca do Ribatejo,Lisbon,22
+Alverca,UD Rio Maior,Alverca do Ribatejo,Rio Maior,50
 Alverca,Vila Real,Alverca do Ribatejo,Vila Real,289
+Amarante,Academica,Amarante,Coimbra,122
 Amarante,Ideal,Amarante,Ponta Delgada,1559
+Amarante,Oliveirense,Amarante,Oliveira de Azeméis,60
+Amarante,Trofense,Amarante,Trofa,40
 Amarante,Varzim,Amarante,Póvoa de Varzim,58
+Amares,Vianense,Amares,Viana do Castelo,41
+Amiense,Benfica Castelo Branco,,Castelo Branco,7719
 Amora,Belenenses,Amora,Lisbon,9
 Amora,Estoril,Amora,Estoril,25
 Amora,Farense,Amora,Faro,208
 Amora,Ferreiras,Amora,Albufeira,184
-Amora,Lamego,Amora,Lamego,297
+Amora,Lamego,Amora,Lamego,296
+Amora,Louletano,Amora,Loulé,192
 Amora,Sanjoanense,Amora,São João da Madeira,257
 Amora,São João Ver,Amora,Santa Maria da Feira,263
+Amora,Vitória do Pico,Amora,,7533
 Anadia,Aljustrelense,Anadia,Aljustrel,286
 Anadia,Beira-Mar,Anadia,Aveiro,29
+Anadia,Condeixa,Anadia,Condeixa-a-Nova,36
 Anadia,Coruchense,Anadia,Coruche,165
 Anadia,Estrela,Anadia,Amadora,200
 Anadia,FC Porto,Anadia,Porto,70
+Anadia,Penalva Castelo,Anadia,Penalva do Castelo,71
 Anadia,Pinhalnovense,Anadia,Pinhal Novo,205
 Anadia,Varzim,Anadia,Póvoa de Varzim,108
+Anadia,Águeda,Anadia,Águeda,16
 Angrense,Farense,Angra do Heroísmo,Faro,1703
+Angrense,Marítimo Graciosa,Angra do Heroísmo,Santa Cruz da Graciosa,83
 Angrense,Nacional,Angra do Heroísmo,Funchal,1146
+Angrense,São Roque (Açores),Angra do Heroísmo,"São Roque, Azores",96
+Ançã,Sanjoanense,Cantanhede,São João da Madeira,70
+Ançã,Tocha,Cantanhede,Tocha,21
 Armacenenses,Aljustrelense,Armação de Pêra,Aljustrel,87
+Armacenenses,Moncarapachense,Armação de Pêra,Moncarapacho,51
+Armacenenses,Redondense,Armação de Pêra,Redondo,186
 Armacenenses,Vitoria Setubal,Armação de Pêra,Setúbal,164
 Arouca,Coruchense,Arouca,Coruche,220
 Arouca,Guimaraes,Arouca,Guimarães,56
 Arouca,Merelinense,Arouca,Braga,74
+Arouca,Rebordosa,Arouca,Paredes,35
+Arronches e Benfica,Mosteirense,Arronches,Mosteirô,224
 Arronches e Benfica,Vianense,Arronches,Viana do Castelo,314
 Atlético Arcos,Gafanha,Arcos de Valdevez,Gafanha da Nazaré,137
+Atlético Arcos,Minas de Argozelo,Arcos de Valdevez,Vimioso,152
 Atlético Arcos,Praiense,Arcos de Valdevez,Praia da Vitória,1620
+Atlético Arcos,Torcatense,Arcos de Valdevez,Guimarães,42
+Atlético CP,Alverca,Lisbon,Alverca do Ribatejo,22
+Atlético CP,Vizela,Lisbon,Vizela,305
+Atlético Reguengos,Olhanense,Reguengos de Monsaraz,Olhão,157
+Atlético Reguengos,Quarteirense SAD,Reguengos de Monsaraz,,7593
+Atlético Riachense,União Idanhense,Riachos,Idanha-a-Nova,122
 Aves,Caldas,Vila das Aves,Caldas da Rainha,226
-Aves,Pacos Ferreira,Vila das Aves,Paços de Ferreira,10
+Aves,Pacos Ferreira,Vila das Aves,Paços de Ferreira,11
 Aves,SC Braga,Vila das Aves,Braga,22
 Aves,Sporting CP,Vila das Aves,Lisbon,302
 Barrosas,Oliveirense,Felgueiras,Oliveira de Azeméis,58
-Beira-Mar,AR São Martinho,Aveiro,São Martinho,13
+Beira-Mar,AR São Martinho,Aveiro,São Martinho,1155
 Beira-Mar,Bustelo,Aveiro,Oliveira de Azeméis,29
+Beira-Mar,Oliveira Hospital,Aveiro,Oliveira do Hospital,79
+Beira-Mar,Pampilhosense,Aveiro,Pampilhosa da Serra,89
 Beira-Mar,Pevidem,Aveiro,Guimarães,91
 Beira-Mar,Santa Clara,Aveiro,Ponta Delgada,1504
 Belenenses,Espinho,Lisbon,Espinho,259
@@ -91,18 +149,29 @@ Benfica,Sporting CP,Lisbon,Lisbon,7
 Benfica,Vilafranquense,Lisbon,Vila Franca de Xira,29
 Benfica,Vitoria Setubal,Lisbon,Setúbal,37
 Benfica Castelo Branco,Farense,Castelo Branco,Faro,314
+Benfica Castelo Branco,Leiria e Marrazes,Castelo Branco,Leiria,112
+Benfica Castelo Branco,Matamourisquense,Castelo Branco,Mação,50
+Benfica Castelo Branco,Naval 1º de Maio,Castelo Branco,Figueira da Foz,121
 Benfica Castelo Branco,Olhanense,Castelo Branco,Olhão,310
 Benfica Castelo Branco,Penafiel,Castelo Branco,Penafiel,168
 Benfica Castelo Branco,Santa Eulália,Castelo Branco,Vizela,184
 Benfica Castelo Branco,União de Leiria,Castelo Branco,Leiria,66
 Benfica Castelo Branco,Vitoria Setubal,Castelo Branco,Setúbal,186
+Benfica Castelo Branco,Águias do Moradal,Castelo Branco,Estreito,26
 Berço,Belenenses,Guimarães,Lisbon,312
 Berço,Feirense,Guimarães,Santa Maria da Feira,61
+Berço,Joane,Guimarães,Famalicão,10
+Berço,Vilaverdense,Guimarães,Vila Verde,26
 Boavista,Guimaraes,Porto,Guimarães,42
 Bragança,Alcains,Bragança,Alcains,217
+Bragança,Monção,Bragança,Monção,146
 Bragança,Olímpico do Montijo,Bragança,Montijo,392
+Bragança,Os Limianos,Bragança,Ponte de Lima,152
 Bragança,Pevidem,Bragança,Guimarães,140
-CD Torres Novas,Maria da Fonte,Torres Novas,Póvoa de Lanhoso,229
+Brito,Feirense,Guimarães,Santa Maria da Feira,61
+CD Olivais e Moscavide,Sporting CP,Lisbon,Lisbon,0
+CD Torres Novas,Maria da Fonte,Torres Novas,Póvoa de Lanhoso,235
+CF Os Belenenses,GIL Vicente,Lisbon,Barcelos,317
 CF Os Belenenses,Sporting CP,Lisbon,Lisbon,0
 CF Os Belenenses,Torreense,Lisbon,Torres Vedras,54
 Caldas,Amora,Caldas da Rainha,Amora,86
@@ -114,85 +183,141 @@ Caldas,Gafanha,Caldas da Rainha,Gafanha da Nazaré,141
 Caldas,Olímpico do Montijo,Caldas da Rainha,Montijo,78
 Caldas,SC Covilha,Caldas da Rainha,Covilhã,170
 Caldas,Varzim,Caldas da Rainha,Póvoa de Varzim,222
+Calvão,Carapinheirense,Vagos,Carapinheira,31
+Camacha,Amarante,Camacha,Amarante,1231
+Camacha,Famalicao,Camacha,Famalicão,1217
+Camacha,Felgueiras 1932,Camacha,Felgueiras,1222
 Camacha,Ribeirão,Camacha,Vila Nova de Famalicão,1212
 Camacha,Tondela,Camacha,Tondela,1169
 Camacha,Vitória de Sernache,Camacha,Cernache do Bonjardim,1108
 Canelas 2010,Ançã,Vila Nova de Gaia,Cantanhede,90
 Canelas 2010,Casa Pia,Vila Nova de Gaia,Lisbon,265
+Canelas 2010,Chaves,Vila Nova de Gaia,Chaves,113
+Canelas 2010,Fontinhas,Vila Nova de Gaia,Praia da Vitória,1600
+Canelas 2010,Foz,Vila Nova de Gaia,Porto,10
 Canelas 2010,Guimaraes,Vila Nova de Gaia,Guimarães,47
+Canelas 2010,Maritimo,Vila Nova de Gaia,Funchal,1193
 Canelas 2010,Moreirense,Vila Nova de Gaia,Moreira de Cónegos,39
 Canelas 2010,Resende,Vila Nova de Gaia,Resende,91
+Canelas 2010,Régua,Vila Nova de Gaia,Peso da Régua,70
+Canelas 2010,União Lamas,Vila Nova de Gaia,Santa Maria de Lamas,12
+Canelas 2010,Valadares Gaia,Vila Nova de Gaia,Vila Nova de Gaia,3
 Carapinheirense,Pinhalnovense,Carapinheira,Pinhal Novo,176
+Cartaxo,Mosteirense,Cartaxo,Mosteirô,194
 Carção,Vilafranquense,Vimioso,Vila Franca de Xira,357
 Casa Pia,Angrense,Lisbon,Angra do Heroísmo,1565
+Casa Pia,Fabril Barreiro,Lisbon,Barreiro,16
 Casa Pia,Farense,Lisbon,Faro,222
+Casa Pia,Graciosa,Lisbon,Santa Cruz da Graciosa,1629
 Casa Pia,Nacional,Lisbon,Funchal,970
 Casa Pia,Olímpico do Montijo,Lisbon,Montijo,21
 Casa Pia,Pinhalnovense,Lisbon,Pinhal Novo,28
 Casa Pia,Recreativo Canaviais,Lisbon,Évora,114
 Casa Pia,Vizela,Lisbon,Vizela,303
+Castrense,Penedo Gordo,Castro Verde,Beja,35
+Castrense,Vila Meã,Castro Verde,Amarante,394
+Castro Daire,Trancoso,Castro Daire,Trancoso,51
 Caçadores das Taipas,Arouca,Guimarães,Arouca,62
+Caçadores das Taipas,Fafe,Guimarães,Fafe,14
+Cerva,Amarante,Ribeira de Pena,Amarante,30
 Cerva,Freamunde,Ribeira de Pena,Freamunde,47
+Cerva,Maria da Fonte,Ribeira de Pena,Póvoa de Lanhoso,37
+Cerveira,Brito,Vila Nova de Cerveira,Guimarães,62
 Cerveira,Oriental Lisboa,Vila Nova de Cerveira,Lisbon,360
 Cesarense,Caldas,Oliveira de Azeméis,Caldas da Rainha,176
+Cesarense,Moimenta da Beira,Oliveira de Azeméis,Moimenta da Beira,71
 Cesarense,SC Covilha,Oliveira de Azeméis,Covilhã,105
-Cesarense,Águias do Moradal,Oliveira de Azeméis,Estreito,118
+Cesarense,Sporting Mêda,Oliveira de Azeméis,Mêda,100
+Cesarense,Águias do Moradal,Oliveira de Azeméis,Estreito,122
+Charneca Caparica,Operário,Almada,"Lagoa, Azores",1437
 Chaves,Belenenses,Chaves,Lisbon,360
 Chaves,FC Porto,Chaves,Porto,109
 Chaves,Sporting CP,Chaves,Lisbon,360
 Cinfães,Benfica Castelo Branco,Cinfães,Castelo Branco,148
+Cinfães,Espinho,Cinfães,Espinho,47
 Cinfães,Farense,Cinfães,Faro,452
+Cinfães,Salgueiros,Cinfães,Porto,44
 Coimbrões,FC Porto,Vila Nova de Gaia,Porto,12
 Coimbrões,Famalicao,Vila Nova de Gaia,Famalicão,32
 Coimbrões,GD Prado,Vila Nova de Gaia,Vila Verde,61
+Coimbrões,Gondomar,Vila Nova de Gaia,Gondomar,72
 Coimbrões,Praiense,Vila Nova de Gaia,Praia da Vitória,1595
+Coimbrões,Rio Tinto,Vila Nova de Gaia,Gondomar,9
+Coimbrões,Régua,Vila Nova de Gaia,Peso da Régua,71
+Coimbrões,Valadares Gaia,Vila Nova de Gaia,Vila Nova de Gaia,3
 Condeixa,GIL Vicente,Condeixa-a-Nova,Barcelos,157
 Condeixa,Lagos,Condeixa-a-Nova,Lagos,334
+Condeixa,Mação,Condeixa-a-Nova,Mação,75
 Condeixa,Nacional,Condeixa-a-Nova,Funchal,1120
 Condeixa,Pacos Ferreira,Condeixa-a-Nova,Paços de Ferreira,129
+Condeixa,Pombal,Condeixa-a-Nova,Pombal,25
 Condeixa,Rio Ave,Condeixa-a-Nova,Vila do Conde,139
 Coruchense,Mondinense,Coruche,Mondim de Basto,276
 Coruchense,Olímpico do Montijo,Coruche,Montijo,48
 Coruchense,Trofense,Coruche,Trofa,264
 Courense,Camacha,Paredes de Coura,Camacha,1259
+Coutada,Fayal,Viseu,Horta,1785
 Cova De Piedade,Anadia,Cova da Piedade,Anadia,206
 Cova De Piedade,Aves,Cova da Piedade,Vila das Aves,306
 Cova De Piedade,Benfica,Cova da Piedade,Lisbon,9
 Cova De Piedade,Moreirense,Cova da Piedade,Moreira de Cónegos,309
 Cova De Piedade,Portimonense,Cova da Piedade,Portimão,179
 Cova De Piedade,Sporting CP,Cova da Piedade,Lisbon,5
+Crato,Sintrense,Crato,Sintra,160
+Cruzado Canicense,Pedras Rubras,Caniço,Maia,1198
+Culatrense,Louletano,Faro,Loulé,23
+Câmara de Lobos,Felgueiras 1932,Câmara de Lobos,Felgueiras,1232
+Câmara de Lobos,Freamunde,Câmara de Lobos,Freamunde,1227
+Câmara de Lobos,Leça,Câmara de Lobos,Leça da Palmeira,1200
 Câmara de Lobos,Vizela,Câmara de Lobos,Vizela,1236
+Damaiense,Lusitânia,Amadora,Angra do Heroísmo,1564
+Desportos de Glória,Sintrense,Glória do Ribatejo,Sintra,70
+Dumiense,AVS,Braga,,7836
+Dumiense,Brito,Braga,Guimarães,14
 Dumiense,Real,Braga,Queluz,320
+Dumiense,União Santarém,Braga,Santarém,232
+Eirense,Gouveia,Coimbra,Gouveia,81
 Eirense,Torreense,Coimbra,Torres Vedras,131
 Eléctrico,Arouca,Ponte de Sor,Arouca,188
+Eléctrico,Benfica Castelo Branco,Ponte de Sor,Castelo Branco,75
 Esmoriz,Vilaverdense,Esmoriz,Vila Verde,78
 Espinho,Academico Viseu,Espinho,Viseu,73
+Espinho,Aliança de Gandra,Espinho,Paredes,28
 Espinho,Arouca,Espinho,Arouca,35
 Espinho,Boavista,Espinho,Porto,17
 Espinho,Caldas,Espinho,Caldas da Rainha,183
+Espinho,Castro Daire,Espinho,Castro Daire,62
 Espinho,Chaves,Espinho,Chaves,121
-Espinho,Gondomar,Espinho,Gondomar,17
+Espinho,Gondomar,Espinho,Gondomar,85
 Espinho,Merelinense,Espinho,Braga,65
 Espinho,Moncarapachense,Espinho,Moncarapacho,442
 Espinho,Nacional,Espinho,Funchal,1183
 Espinho,Sintrense,Espinho,Sintra,253
 Espinho,Vilafranquense,Espinho,Vila Franca de Xira,229
+Esposende,Torcatense,Esposende,Guimarães,44
 Estarreja,Nacional,Estarreja,Funchal,1166
+Estarreja,Pampilhosa,Estarreja,Pampilhosa,47
 Estarreja,Ponte da Barca,Estarreja,Ponte da Barca,118
+Estarreja,Águias do Moradal,Estarreja,Estreito,114
 Estoril,Academica,Estoril,Coimbra,186
 Estoril,Benfica,Estoril,Lisbon,17
 Estoril,Boavista,Estoril,Porto,279
 Estoril,Cova De Piedade,Estoril,Cova da Piedade,21
 Estoril,Lusitano GC Évora,Estoril,Évora,129
+Estoril,Mafra,Estoril,Mafra,23
 Estoril,Tondela,Estoril,Tondela,229
 Estrela,Farense,Amadora,Faro,222
 Estrela,Lusitano FCV,Amadora,Vildemoinhos,240
 Estrela Vendas Novas,Paredes,Vendas Novas,Paredes,282
 Estudantes Africanos,Arouca,Coimbra,Arouca,82
+FC Barreirense,Madalena,Barreiro,"Madalena, Pico Island",
+FC Barreirense,Mirandela,Barreiro,Mirandela,352
+FC Barreirense,Operário,Barreiro,"Lagoa, Azores",1447
 FC Barreirense,Valadares Gaia,Barreiro,Vila Nova de Gaia,273
-FC Porto,Academico Viseu,Porto,Viseu,68
+FC Porto,Academico Viseu,Porto,Viseu,69
 FC Porto,Belenenses,Porto,Lisbon,267
 FC Porto,Feirense,Porto,Santa Maria da Feira,16
+FC Porto,Montalegre,Porto,Montalegre,104
 FC Porto,Portimonense,Porto,Portimão,436
 FC Porto,SC Braga,Porto,Braga,56
 FC Porto,Sporting CP,Porto,Lisbon,267
@@ -200,15 +325,23 @@ FC Porto,Tondela,Porto,Tondela,72
 FC Porto,Varzim,Porto,Póvoa de Varzim,40
 FC Porto,Vitoria Setubal,Porto,Setúbal,284
 FC Serpa,CD Olivais e Moscavide,Serpa,Lisbon,159
+FC Serpa,Castrense,Serpa,Castro Verde,51
 FC Serpa,Estoril,Serpa,Estoril,178
 FC Serpa,GIL Vicente,Serpa,Barcelos,408
+FC Serpa,Gouveia,Serpa,Gouveia,281
 FC Serpa,SC Covilha,Serpa,Covilhã,260
 Fabril Barreiro,Academico Viseu,Barreiro,Viseu,243
 Fabril Barreiro,FC Porto,Barreiro,Porto,271
+Fabril Barreiro,Maritimo,Barreiro,Funchal,976
 Fabril Barreiro,Moreirense,Barreiro,Moreira de Cónegos,308
+Fabril Barreiro,Rabo Peixe,Barreiro,Rabo de Peixe,1448
+Fafe,Amarante,Fafe,Amarante,21
 Fafe,Anadia,Fafe,Anadia,114
+Fafe,Felgueiras 1932,Fafe,Felgueiras,47
 Fafe,Ideal,Fafe,Ponta Delgada,1555
 Fafe,Penafiel,Fafe,Penafiel,29
+Fafe,Rebordelo,Fafe,Bragança,91
+Fafe,Ribeira Brava,Fafe,"Ribeira Brava, Madeira",1249
 Fafe,Vilar de Perdizes,Fafe,Montalegre,64
 Famalicao,Academica,Famalicão,Coimbra,133
 Famalicao,Belenenses,Famalicão,Lisbon,304
@@ -218,67 +351,121 @@ Famalicao,Sporting CP,Famalicão,Lisbon,304
 Farense,Arouca,Faro,Arouca,437
 Farense,Aves,Faro,Vila das Aves,486
 Farense,Estoril,Faro,Estoril,228
+Farense,Estrela Vendas Novas,Faro,Vendas Novas,191
 Farense,Leixoes,Faro,Matosinhos,469
+Fazendense,1º Dezembro,Fazendas de Almeirim,Sintra,81
+Fazendense,Caldas,Fazendas de Almeirim,Caldas da Rainha,54
 Feirense,Academica,Santa Maria da Feira,Coimbra,80
 Feirense,Amora,Santa Maria da Feira,Amora,260
 Feirense,Nacional,Santa Maria da Feira,Funchal,1182
 Feirense,Sporting CP,Santa Maria da Feira,Lisbon,252
 Feirense,Tondela,Santa Maria da Feira,Tondela,60
+Felgueiras 1932,Arouca,Felgueiras,Arouca,30
+Felgueiras 1932,Aves,Felgueiras,Vila das Aves,52
 Felgueiras 1932,Chaves,Felgueiras,Chaves,79
 Felgueiras 1932,Estoril,Felgueiras,Estoril,290
 Felgueiras 1932,Joane,Felgueiras,Famalicão,58
+Felgueiras 1932,Machico,Felgueiras,Machico,1214
+Felgueiras 1932,Mondinense,Felgueiras,Mondim de Basto,38
+Felgueiras 1932,Os Limianos,Felgueiras,Ponte de Lima,95
 Felgueiras 1932,Pedras Salgadas,Felgueiras,Pedras Salgadas,60
 Felgueiras 1932,SC Braga,Felgueiras,Braga,69
 Felgueiras 1932,Tondela,Felgueiras,Tondela,63
 Felgueiras 1932,Valadares Gaia,Felgueiras,Vila Nova de Gaia,59
+Felgueiras 1932,Vila Flor,Felgueiras,Vila Flor,73
 Ferreira de Aves,Academico Viseu,Sátão,Viseu,26
+Ferreira de Aves,Cesarense,Sátão,Oliveira de Azeméis,66
+Ferreira de Aves,Sanjoanense,Sátão,São João da Madeira,71
+Ferreiras,Culatrense,Albufeira,Faro,39
 Ferreiras,Estrela,Albufeira,Amadora,198
+Ferreiras,Lusitano GC Évora,Albufeira,Évora,162
+Ferreiras,Moura,Albufeira,Moura,134
+Ferreiras,Penedo Gordo,Albufeira,Beja,100
+Flamengos,Fontinhas,Horta,Praia da Vitória,136
+Flamengos,Oriental Lisboa,Horta,Lisbon,1696
+Florgrade,Beira-Mar,,Aveiro,7741
 Fontinhas,Arouca,Praia da Vitória,Arouca,1630
-Fontinhas,Mafra,Praia da Vitória,Mafra,1540
+Fontinhas,Mafra,Praia da Vitória,Mafra,1545
+Fontinhas,Pinhalnovense,Praia da Vitória,Pinhal Novo,1580
 Fontinhas,Praiense,Praia da Vitória,Praia da Vitória,3
 Fontinhas,Torreense,Praia da Vitória,Torres Vedras,1552
-Freamunde,Maria da Fonte,Freamunde,Póvoa de Lanhoso,29
+Freamunde,Joane,Freamunde,Famalicão,18
+Freamunde,Maria da Fonte,Freamunde,Póvoa de Lanhoso,34
 Fátima,Boavista,Fátima,Porto,5826
-Fátima,Chaves,Fátima,Chaves,5931
+Fátima,Carapinheirense,Fátima,Carapinheira,5743
+Fátima,Chaves,Fátima,Chaves,5932
 Fátima,Coutada,Fátima,Viseu,5802
 Fátima,Eléctrico,Fátima,Ponte de Sor,5697
+Fátima,Mação,Fátima,Mação,5725
 Fátima,Olhanense,Fátima,Olhão,5521
 Fátima,Oliveirense,Fátima,Oliveira de Azeméis,5805
 Fátima,Pampilhosa,Fátima,Pampilhosa,5766
+GD Prado,Carção,Vila Verde,Vimioso,154
 GIL Vicente,Arouca,Barcelos,Arouca,74
 GIL Vicente,Casa Pia,Barcelos,Lisbon,314
 GIL Vicente,Chaves,Barcelos,Chaves,92
 GIL Vicente,FC Porto,Barcelos,Porto,52
+GR Vigor Mocidade,União de Coimbra,Coimbra,Coimbra,44
+GRAP,AD Portomosense,Leiria,Porto de Mós,16
+GRAP,Alqueidão da Serra,Leiria,Porto de Mós,14
+GRAP,CD Torres Novas,Leiria,Torres Novas,36
 GRAP,Cova De Piedade,Leiria,Cova da Piedade,123
-GRAP,União Santiago,Leiria,Santiago do Cacém,193
+GRAP,União Santiago,Leiria,Santiago do Cacém,194
+Gafanha,Anadia,Gafanha da Nazaré,Anadia,32
 Gafanha,FC Porto,Gafanha da Nazaré,Porto,51
 Gafanha,Freamunde,Gafanha da Nazaré,Freamunde,79
 Gafetense,Academico Viseu,Gáfete,Viseu,140
-Gavionenses,Mortágua,Gavião,Mortágua,106
+Gafetense,Mafra,Gáfete,Mafra,150
+Gafetense,Santa Iria,Gáfete,Santa Iria de Azóia,136
+Gavionenses,Mortágua,Gavião,Mortágua,108
+Ginásio Figueirense,Mortágua,Figueira da Foz,Mortágua,58
+Ginásio de Alcobaça,Sourense,Alcobaça,Soure,64
 Ginásio de Alcobaça,Vizela,Alcobaça,Vizela,211
-Gondomar,Cova De Piedade,Gondomar,Cova da Piedade,279
-Gondomar,Penafiel,Gondomar,Penafiel,22
-Gondomar,Santa Clara,Gondomar,Ponta Delgada,1521
-Gondomar,Valadares Gaia,Gondomar,Vila Nova de Gaia,10
+Gondomar,Cova De Piedade,Gondomar,Cova da Piedade,348
+Gondomar,Leça,Gondomar,Leça da Palmeira,66
+Gondomar,Penafiel,Gondomar,Penafiel,60
+Gondomar,Rebordosa,Gondomar,Paredes,58
+Gondomar,Salgueiros,Gondomar,Porto,67
+Gondomar,Santa Clara,Gondomar,Ponta Delgada,1547
+Gondomar,Sporting Mêda,Gondomar,Mêda,130
+Gondomar,Valadares Gaia,Gondomar,Vila Nova de Gaia,75
 Gouveia,Academica,Gouveia,Coimbra,80
+Gouveia,Beira-Mar,Gouveia,Aveiro,96
+Guadalupe,Fabril Barreiro,"Guadalupe, Azores",Barreiro,1645
 Guadalupe,Operário,"Guadalupe, Azores","Lagoa, Azores",259
 Guimaraes,Chaves,Guimarães,Chaves,70
+Guimaraes,FC Porto,Guimarães,Porto,45
 Guimaraes,Feirense,Guimarães,Santa Maria da Feira,60
+Guimaraes,GIL Vicente,Guimarães,Barcelos,29
 Guimaraes,Santa Clara,Guimarães,Ponta Delgada,1546
+Guimaraes,Vilaverdense,Guimarães,Vila Verde,27
 Guimaraes,Vizela,Guimarães,Vizela,6
 Ideal,Almodôvar,Ponta Delgada,Almodôvar,1552
 Ideal,Cova De Piedade,Ponta Delgada,Cova da Piedade,1448
 Ideal,Merelinense,Ponta Delgada,Braga,1534
+Ideal,Praiense,Ponta Delgada,Praia da Vitória,165
+Ideal,Real,Ponta Delgada,Queluz,1439
 Ideal,Valadares Gaia,Ponta Delgada,Vila Nova de Gaia,1510
+Ideal,Vale Formoso,Ponta Delgada,Covilhã,1607
 Imortal Albufeira,Farense,Albufeira,Faro,29
 Imortal Albufeira,Vilafranquense,Albufeira,Vila Franca de Xira,219
+Joane,Barrosas,Famalicão,Felgueiras,18
 Joane,Belenenses,Famalicão,Lisbon,309
+Joane,Fafe,Famalicão,Fafe,20
 Joane,SC Covilha,Famalicão,Covilhã,150
 Juventude Évora,Academica,Évora,Coimbra,196
+Juventude Évora,Armacenenses,Évora,Armação de Pêra,186
+Juventude Évora,Moncarapachense,Évora,Moncarapacho,173
+Juventude Évora,Portel,Évora,,7614
+Juventude Évora,Sintrense,Évora,Sintra,169
 Juventude Évora,Vilafranquense,Évora,Vila Franca de Xira,142
+Lagos,Comércio Indústria,Lagos,Setúbal,182
+Lagos,Lusitano GC Évora,Lagos,Évora,175
 Lagos,Penafiel,Lagos,Penafiel,456
 Lagos,Pevidem,Lagos,Guimarães,481
 Lajense,Moreirense,"São Jorge, Azores",Moreira de Cónegos,1705
+Lajense,São Roque (Açores),"São Jorge, Azores","São Roque, Azores",27
+Lamego,Régua,Lamego,Peso da Régua,7
 Leixoes,Amarante,Matosinhos,Amarante,52
 Leixoes,Anadia,Matosinhos,Anadia,85
 Leixoes,FC Porto,Matosinhos,Porto,20
@@ -288,56 +475,111 @@ Leixoes,Tondela,Matosinhos,Tondela,91
 Leixoes,Vilaverdense,Matosinhos,Vila Verde,56
 Leça,GIL Vicente,Leça da Palmeira,Barcelos,37
 Leça,Leixoes,Leça da Palmeira,Matosinhos,2
+Leça,Lusitânia Lourosa,Leça da Palmeira,Santa Maria da Feira,27
+Leça,Resende,Leça da Palmeira,Resende,78
 Leça,SC Braga,Leça da Palmeira,Braga,47
 Leça,Sporting CP,Leça da Palmeira,Lisbon,279
+Louletano,AVS,Loulé,,7451
+Louletano,Castrense,Loulé,Castro Verde,63
 Louletano,Estrela,Loulé,Amadora,208
+Louletano,Ferreiras,Loulé,Albufeira,20
+Louletano,Imortal Albufeira,Loulé,Albufeira,20
 Louletano,Salgueiros,Loulé,Porto,450
 Loures,Beira-Mar,Loures,Aveiro,205
-Loures,Gondomar,Loures,Gondomar,261
+Loures,Gondomar,Loures,Gondomar,330
 Loures,Oleiros,Loures,Oleiros,299
 Loures,Oriental Lisboa,Loures,Lisbon,16
+Loures,Portalegrense,Loures,Portalegre,162
 Loures,Sporting CP,Loures,Lisbon,16
+Loures,Vilafranquense,Loures,Vila Franca de Xira,21
+Lourinhanense,Caldas,Lourinhã,Caldas da Rainha,23
 Lourinhanense,Gafanha,Lourinhã,Gafanha da Nazaré,163
+Lourinhanense,Peniche,Lourinhã,Peniche,15
+Lourinhanense,União Santarém,Lourinhã,Santarém,43
+Lusitano FCV,AD Fornos Algodres,Vildemoinhos,Fornos de Algodres,33
+Lusitano FCV,AD Satao,Vildemoinhos,Sátão,18
 Lusitano FCV,Academica,Vildemoinhos,Coimbra,65
 Lusitano FCV,Academico Viseu,Vildemoinhos,Viseu,2
+Lusitano FCV,Ançã,Vildemoinhos,Cantanhede,66
+Lusitano FCV,Beira-Mar,Vildemoinhos,Aveiro,61
 Lusitano FCV,Nacional,Vildemoinhos,Funchal,1196
+Lusitano FCV,Sanjoanense,Vildemoinhos,São João da Madeira,55
 Lusitano FCV,Sporting CP,Vildemoinhos,Lisbon,240
+Lusitano FCV,Tocha,Vildemoinhos,Tocha,80
+Lusitano FCV,Águias do Moradal,Vildemoinhos,Estreito,82
 Lusitano GC Évora,FC Porto,Évora,Porto,283
+Lusitano GC Évora,Farense,Évora,Faro,174
 Lusitano GC Évora,Mortágua,Évora,Mortágua,205
 Lusitano GC Évora,Oriental Lisboa,Évora,Lisbon,107
 Lusitano GC Évora,Pêro Pinheiro,Évora,Sintra,126
 Lusitano GC Évora,Santa Clara,Évora,Ponta Delgada,1558
+Lusitano GC Évora,Vasco da Gama,Évora,Sines,110
 Lusitano VRSA,Fabril Barreiro,Vila Real de Santo António,Barreiro,217
+Lusitano VRSA,Louletano,Vila Real de Santo António,Loulé,54
+Lusitano Évora 1911,Comércio Indústria,Évora,Setúbal,68
+Lusitano Évora 1911,Fontinhas,Évora,Praia da Vitória,1667
+Lusitano Évora 1911,Moncarapachense,Évora,Moncarapacho,165
+Lusitano Évora 1911,Oriental Dragon,Évora,Lisbon,107
+Lusitano Évora 1911,SC Covilha,Évora,Covilhã,194
+Lusitânia,1º Dezembro,Angra do Heroísmo,Sintra,1550
+Lusitânia,Amora,Angra do Heroísmo,Amora,1574
+Lusitânia,Benfica,Angra do Heroísmo,Lisbon,1565
+Lusitânia,Os Marialvas,Angra do Heroísmo,Cantanhede,1611
+Lusitânia,Praiense,Angra do Heroísmo,Praia da Vitória,16
+Lusitânia Lourosa,Academico Viseu,Santa Maria da Feira,Viseu,65
+Lusitânia Lourosa,Régua,Santa Maria da Feira,Peso da Régua,67
+Luzense,Camacha,,Camacha,6607
+Macedo Cavaleiros,Forjães SC,Macedo de Cavaleiros,Esposende,148
 Machico,Boavista,Machico,Porto,1182
-Mafra,FC Porto,Mafra,Porto,244
-Mafra,Maritimo,Mafra,Funchal,980
-Mafra,União de Coimbra,Mafra,Coimbra,192
+Mafra,FC Porto,Mafra,Porto,250
+Mafra,Feirense,Mafra,Santa Maria da Feira,234
+Mafra,Maritimo,Mafra,Funchal,978
+Mafra,União de Coimbra,Mafra,Coimbra,195
+Manteigas,Bustelo,Manteigas,Oliveira de Azeméis,95
+Maria da Fonte,Bragança,Póvoa de Lanhoso,Bragança,130
+Maria da Fonte,Merelinense,Póvoa de Lanhoso,Braga,14
+Maria da Fonte,Mirandês,Póvoa de Lanhoso,Miranda do Douro,168
+Maria da Fonte,Montalegre,Póvoa de Lanhoso,Montalegre,50
 Maria da Fonte,Pedras Salgadas,Póvoa de Lanhoso,Pedras Salgadas,58
 Maria da Fonte,Penafiel,Póvoa de Lanhoso,Penafiel,43
 Maria da Fonte,Santa Clara,Póvoa de Lanhoso,Ponta Delgada,1549
 Maria da Fonte,Torreense,Póvoa de Lanhoso,Torres Vedras,277
 Marinhense,Fátima,Marinha Grande,Fátima,5689
 Marinhense,Oriental Lisboa,Marinha Grande,Lisbon,116
+Marinhense,União Idanhense,Marinha Grande,Idanha-a-Nova,145
+Marinhense,União de Leiria,Marinha Grande,Leiria,58
 Maritimo,Estoril,Funchal,Estoril,958
 Maritimo,Feirense,Funchal,Santa Maria da Feira,1184
+Maritimo,Mortágua,Funchal,Mortágua,1158
 Maritimo,Salgueiros,Funchal,Porto,1201
+Merelinense,Cerveira,Braga,Vila Nova de Cerveira,47
 Merelinense,Leixoes,Braga,Matosinhos,48
 Merelinense,Moreirense,Braga,Moreira de Cónegos,24
 Merelinense,Rabo Peixe,Braga,Rabo de Peixe,1525
 Merelinense,Real,Braga,Queluz,320
 Merelinense,U. Madeira,Braga,Funchal,1241
+Merelinense,Vieira,Braga,Vieira do Minho,26
 Minas de Argozelo,Cova De Piedade,Vimioso,Cova da Piedade,395
 Mirandela,Academica,Mirandela,Coimbra,176
+Mirandela,Atlético Arcos,Mirandela,Arcos de Valdevez,111
 Mirandela,Chaves,Mirandela,Chaves,40
+Mirandela,Fafe,Mirandela,Fafe,84
 Mirandela,Feirense,Mirandela,Santa Maria da Feira,130
-Mirandês,Coimbrões,Miranda do Douro,Vila Nova de Gaia,202
+Mirandela,Maria da Fonte,Mirandela,Póvoa de Lanhoso,94
+Mirandês,Coimbrões,Miranda do Douro,Vila Nova de Gaia,201
+Moimenta da Beira,Cinfães,Moimenta da Beira,Cinfães,42
 Moimenta da Beira,U. Madeira,Moimenta da Beira,Funchal,1241
 Moitense,Ançã,Moita,Cantanhede,184
 Moitense,SC Braga,Moita,Braga,327
 Moncarapachense,Anadia,Moncarapacho,Anadia,378
+Moncarapachense,Guimaraes,Moncarapacho,Guimarães,485
+Moncarapachense,União Micaelense,Moncarapacho,,7458
+Mondinense,Montalegre,Mondim de Basto,Montalegre,48
 Montalegre,Academico Viseu,Montalegre,Viseu,129
+Montalegre,Cerveira,Montalegre,Vila Nova de Cerveira,80
 Montalegre,Marinhense,Montalegre,Marinha Grande,250
 Montalegre,Oriental Lisboa,Montalegre,Lisbon,364
+Montalegre,Pevidem,Montalegre,Guimarães,65
 Montalegre,São João Ver,Montalegre,Santa Maria da Feira,116
 Montalegre,Vila Cortez,Montalegre,Guarda,134
 Montalegre,Águeda,Montalegre,Águeda,148
@@ -346,115 +588,203 @@ Monção,Rio Ave,Monção,Vila do Conde,83
 Moreirense,FC Porto,Moreira de Cónegos,Porto,37
 Moreirense,Felgueiras 1932,Moreira de Cónegos,Felgueiras,50
 Moreirense,Guimaraes,Moreira de Cónegos,Guimarães,8
-Moreirense,Mafra,Moreira de Cónegos,Mafra,281
+Moreirense,Mafra,Moreira de Cónegos,Mafra,287
 Moreirense,Vilafranquense,Moreira de Cónegos,Vila Franca de Xira,273
+Mortágua,AD Nogueirense,Mortágua,Nogueira do Cravo,59
+Mortágua,Amora,Mortágua,Amora,210
+Mortágua,Anadia,Mortágua,Anadia,17
 Mortágua,Cova De Piedade,Mortágua,Cova da Piedade,207
 Mortágua,Torreense,Mortágua,Torres Vedras,156
+Mosteirense,Eléctrico,Mosteirô,Ponte de Sor,188
 Mosteirense,Famalicao,Mosteirô,Famalicão,56
 Moura,Aves,Moura,Vila das Aves,370
 Moura,Beira-Mar,Moura,Aveiro,300
+Moura,Beira-Mar Almada,Moura,Almada,165
+Moura,Culatrense,Moura,Faro,131
 Moura,Dumiense,Moura,Braga,393
 Moura,GIL Vicente,Moura,Barcelos,392
 Moura,Maritimo,Moura,Funchal,1057
 Moura,Portimonense,Moura,Portimão,149
 Nacional,Leixoes,Funchal,Matosinhos,1196
 Nacional,Merelinense,Funchal,Braga,1242
+Nacional,Mirandela,Funchal,Mirandela,1305
 Nacional,Oliveirense,Funchal,Oliveira de Azeméis,1178
 Nacional,SC Braga,Funchal,Braga,1243
 Nacional,Tondela,Funchal,Tondela,1175
 Naval 1º de Maio,Fafe,Figueira da Foz,Fafe,154
 Naval 1º de Maio,Maritimo,Figueira da Foz,Funchal,1103
+O Elvas,Lanheses,Elvas,,7653
+O Elvas,Sacavenense,Elvas,Sacavém,169
+Oleiros,Fátima,Oleiros,Fátima,5865
 Oleiros,GIL Vicente,Oleiros,Barcelos,19
 Oleiros,Mirandela,Oleiros,Mirandela,102
 Oleiros,Sousense,Oleiros,Gondomar,42
 Oleiros,Sporting CP,Oleiros,Lisbon,313
 Oleiros,Varzim,Oleiros,Póvoa de Varzim,31
+Olhanense,Almancilense,Olhão,Almancil,17
+Olhanense,Armacenenses,Olhão,Armação de Pêra,46
 Olhanense,Belenenses,Olhão,Lisbon,218
 Olhanense,Benfica,Olhão,Lisbon,225
+Olhanense,Juventude Évora,Olhão,Évora,180
 Olhanense,Lamego,Olhão,Lamego,452
+Olhanense,Lusitano GC Évora,Olhão,Évora,171
 Olhanense,Monte Trigo,Olhão,Portel,152
 Olhanense,Santa Cruz de Alvarenga,Olhão,Arouca,438
+Olhanense,Silves,Olhão,Silves,58
 Oliveira Hospital,Guimaraes,Oliveira do Hospital,Guimarães,126
 Oliveira Hospital,Lusitano FCV,Oliveira do Hospital,Vildemoinhos,35
+Oliveira Hospital,Lusitânia Lourosa,Oliveira do Hospital,Santa Maria da Feira,94
 Oliveira Hospital,Rio Ave,Oliveira do Hospital,Vila do Conde,136
 Oliveira Hospital,U. Madeira,Oliveira do Hospital,Funchal,1180
 Oliveirense,Arronches e Benfica,Oliveira de Azeméis,Arronches,216
-Oliveirense,Mafra,Oliveira de Azeméis,Mafra,220
+Oliveirense,Boavista,Oliveira de Azeméis,Porto,38
+Oliveirense,Guarda Desportiva,Oliveira de Azeméis,Guarda,110
+Oliveirense,Mafra,Oliveira de Azeméis,Mafra,225
 Oliveirense,Maritimo,Oliveira de Azeméis,Funchal,1179
 Oliveirense,Pacos Ferreira,Oliveira de Azeméis,Paços de Ferreira,50
 Oliveirense,Penafiel,Oliveira de Azeméis,Penafiel,45
 Oliveirense,SC Braga,Oliveira de Azeméis,Braga,82
 Oliveirense,Santa Clara,Oliveira de Azeméis,Ponta Delgada,1521
+Oliveirense,Sendim,Oliveira de Azeméis,Sendim,86
 Oliveirense,Torreense,Oliveira de Azeméis,Torres Vedras,192
 Olímpico do Montijo,Anadia,Montijo,Anadia,197
+Olímpico do Montijo,Lusitânia,Montijo,Angra do Heroísmo,1586
 Olímpico do Montijo,SC Braga,Montijo,Braga,320
 Operário,Felgueiras 1932,"Lagoa, Azores",Felgueiras,1561
+Oriental Dragon,1º Dezembro,Lisbon,Sintra,23
 Oriental Dragon,Canelas 2010,Lisbon,Vila Nova de Gaia,267
+Oriental Dragon,Fayal,Lisbon,Horta,1695
 Oriental Dragon,Leixoes,Lisbon,Matosinhos,278
 Oriental Dragon,Moreirense,Lisbon,Moreira de Cónegos,304
 Oriental Lisboa,FC Barreirense,Lisbon,Barreiro,7
 Oriental Lisboa,Famalicao,Lisbon,Famalicão,304
+Oriental Lisboa,Ideal,Lisbon,Ponta Delgada,1450
 Oriental Lisboa,Leixoes,Lisbon,Matosinhos,277
+Oriental Lisboa,Lusitano VRSA,Lisbon,Vila Real de Santo António,226
+Oriental Lisboa,Madalena,Lisbon,"Madalena, Pico Island",
+Oriental Lisboa,Torreense,Lisbon,Torres Vedras,53
 Os Limianos,Berço,Ponte de Lima,Guimarães,43
 Os Limianos,Fontinhas,Ponte de Lima,Praia da Vitória,1608
-Os Limianos,Mafra,Ponte de Lima,Mafra,318
+Os Limianos,Mafra,Ponte de Lima,Mafra,324
+Os Limianos,Montalegre,Ponte de Lima,Montalegre,67
 Os Limianos,SC Covilha,Ponte de Lima,Covilhã,188
+Os Limianos,Valenciano,Ponte de Lima,Valença,30
+Os Marialvas,Vila Cortez,Cantanhede,Guarda,125
+Os Vilanovenses,Pombal,,Pombal,7675
 Ovarense,Oriental Dragon,Ovar,Lisbon,243
 Pacos Ferreira,Casa Pia,Paços de Ferreira,Lisbon,290
 Pacos Ferreira,Famalicao,Paços de Ferreira,Famalicão,19
 Pacos Ferreira,Gafanha,Paços de Ferreira,Gafanha da Nazaré,76
 Pacos Ferreira,Sanjoanense,Paços de Ferreira,São João da Madeira,43
+Padernense,FC Serpa,,Serpa,7546
+Pampilhosa,Oliveira Hospital,Pampilhosa,Oliveira do Hospital,54
 Paredes,Academico Viseu,Paredes,Viseu,72
+Paredes,Amarante,Paredes,Amarante,23
 Paredes,Benfica,Paredes,Lisbon,283
+Paredes,Castro Daire,Paredes,Castro Daire,49
+Paredes,Florgrade,Paredes,,7807
+Paredes,Moreirense,Paredes,Moreira de Cónegos,18
 Paredes,Torreense,Paredes,Torres Vedras,236
+Pedras Rubras,Amarante,Maia,Amarante,48
 Pedras Rubras,Anadia,Maia,Anadia,91
+Pedras Rubras,Camacha,Maia,Camacha,1197
 Pedras Rubras,Leixoes,Maia,Matosinhos,7
+Pedras Rubras,Mirandela,Maia,Mirandela,127
 Pedras Rubras,Salgueiros,Maia,Porto,10
-Pedras Salgadas,Academica,Pedras Salgadas,Coimbra,164
-Pedras Salgadas,Chaves,Pedras Salgadas,Chaves,19
+Pedras Rubras,Vizela,Maia,Vizela,33
+Pedras Salgadas,Academica,Pedras Salgadas,Coimbra,163
+Pedras Salgadas,Bragança,Pedras Salgadas,Bragança,76
+Pedras Salgadas,Chaves,Pedras Salgadas,Chaves,20
+Pedras Salgadas,Montalegre,Pedras Salgadas,Montalegre,34
+Pedras Salgadas,Vila Pouca,Pedras Salgadas,Vila Pouca de Aguiar,5
 Pedras Salgadas,Águeda,Pedras Salgadas,Águeda,127
+Pedroso,Paredes,Vila Nova de Gaia,Paredes,24
+Pedrógão São Pedro,União de Leiria,Penamacor,Leiria,91
 Penafiel,Amarante,Penafiel,Amarante,19
 Penafiel,GIL Vicente,Penafiel,Barcelos,46
 Penafiel,Maritimo,Penafiel,Funchal,1221
-Penafiel,Portimonense,Penafiel,Portimão,452
+Penafiel,Portimonense,Penafiel,Portimão,453
+Penafiel,Santa Maria FC,Penafiel,,9143
 Penafiel,Vitoria Setubal,Penafiel,Setúbal,302
+Penalva Castelo,Acad. Coimbra/S.Futebol,Penalva do Castelo,Coimbra,83
 Penalva Castelo,Amarante,Penalva do Castelo,Amarante,77
 Penedo Gordo,Fabril Barreiro,Beja,Barreiro,124
+Penedo Gordo,Praia Milfontes,Beja,Vila Nova de Milfontes,79
 Peniche,Montalegre,Peniche,Montalegre,305
 Pevidem,Belenenses,Guimarães,Lisbon,310
+Pevidem,Berço,Guimarães,Guimarães,5
 Pevidem,Trofense,Guimarães,Trofa,20
+Pinhalnovense,Amora,Pinhal Novo,Amora,18
+Pinhalnovense,Atlético CP,Pinhal Novo,Lisbon,21
 Pinhalnovense,Estoril,Pinhal Novo,Estoril,42
+Pinhalnovense,Lagoa,Pinhal Novo,Lagoa,1461
 Pinhalnovense,Leiria e Marrazes,Pinhal Novo,Leiria,124
+Pinhalnovense,Vale Formoso,Pinhal Novo,Covilhã,234
 Pinhalnovense,Vitoria Setubal,Pinhal Novo,Setúbal,12
 Pombal,GR Vigor Mocidade,Pombal,Coimbra,37
 Pombal,Leça,Pombal,Leça da Palmeira,142
+Pombal,Tondela,Pombal,Tondela,80
+Ponte,Vilaverdense,,Vila Verde,9017
+Ponte da Barca,Montalegre,Ponte da Barca,Montalegre,52
 Portalegrense,Farense,Portalegre,Faro,261
-Portimonense,Mafra,Portimão,Mafra,215
-Praia Milfontes,Valenciano,Vila Nova de Milfontes,Valença,478
+Portalegrense,Marinhense,Portalegre,Marinha Grande,136
+Portimonense,Mafra,Portimão,Mafra,207
+Portimonense,SC Braga,Portimão,Braga,493
+Porto Cruz,AR São Martinho,Porto Moniz,São Martinho,32
+Porto Cruz,Camacha,Porto Moniz,Camacha,37
+Portosantense,Gondomar,,Gondomar,7855
+Portosantense,Nacional,,Funchal,6601
+Praia Milfontes,Aljustrelense,Vila Nova de Milfontes,Aljustrel,56
+Praia Milfontes,Valenciano,Vila Nova de Milfontes,Valença,468
 Praiense,Alcains,Praia da Vitória,Alcains,1695
+Praiense,Fabril Barreiro,Praia da Vitória,Barreiro,1565
 Praiense,Farense,Praia da Vitória,Faro,1690
 Praiense,Louletano,Praia da Vitória,Loulé,1681
 Praiense,Pinhalnovense,Praia da Vitória,Pinhal Novo,1577
+Praiense,Redondense,Praia da Vitória,Redondo,1695
+Praiense,Vale Formoso,Praia da Vitória,Covilhã,1699
 Praiense,Vilafranquense,Praia da Vitória,Vila Franca de Xira,1565
+Pêro Pinheiro,AD Portomosense,Sintra,Porto de Mós,95
+Pêro Pinheiro,Coruchense,Sintra,Coruche,70
+Pêro Pinheiro,FC Serpa,Sintra,Serpa,180
 Pêro Pinheiro,Fafe,Sintra,Fafe,305
 Pêro Pinheiro,Ferreiras,Sintra,Albufeira,212
 Pêro Pinheiro,Pombal,Sintra,Pombal,134
+Pêro Pinheiro,Praiense,Sintra,Praia da Vitória,1540
 Pêro Pinheiro,Vitoria Setubal,Sintra,Setúbal,51
+Quarteirense SAD,CF Os Belenenses,,Lisbon,7539
 Rabo Peixe,Academico Viseu,Rabo de Peixe,Viseu,1556
+Rabo Peixe,CF Oliveira Douro,Rabo de Peixe,,6814
+Rabo Peixe,Casa Pia,Rabo de Peixe,Lisbon,1435
 Rabo Peixe,Castro Daire,Rabo de Peixe,Castro Daire,1558
 Rabo Peixe,GIL Vicente,Rabo de Peixe,Barcelos,1510
+Rabo Peixe,Ideal,Rabo de Peixe,Ponta Delgada,11
+Rabo Peixe,Olímpico do Montijo,Rabo de Peixe,Montijo,1456
 Rabo Peixe,Sanjoanense,Rabo de Peixe,São João da Madeira,1509
 Rabo Peixe,Sertanense,Rabo de Peixe,Sertã,1533
 Real,AR São Martinho,Queluz,São Martinho,971
 Real,Arouca,Queluz,Arouca,256
 Real,Belenenses,Queluz,Lisbon,12
+Real,CD Olivais e Moscavide,Queluz,Lisbon,12
 Real,Cova De Piedade,Queluz,Cova da Piedade,13
+Real,Estrela Vendas Novas,Queluz,Vendas Novas,70
+Real,FC Barreirense,Queluz,Barreiro,19
+Real,Lusitânia,Queluz,Angra do Heroísmo,1560
 Real,Mirandela,Queluz,Mirandela,350
 Real,Olhanense,Queluz,Olhão,229
+Real,Rabo Peixe,Queluz,Rabo de Peixe,1431
 Rebordelo,Cinfães,Bragança,Cinfães,107
+Rebordelo,Montalegre,Bragança,Montalegre,52
+Rebordelo,Sandinenses,Bragança,,7912
 Rebordelo,Varzim,Bragança,Póvoa de Varzim,139
+Rebordosa,Lobão,Paredes,,7805
+Rebordosa,SC Braga,Paredes,Braga,39
 Recreativa de Lamelas,Camacha,Castro Daire,Camacha,1209
+Recreativa de Lamelas,Tirsense,Castro Daire,Santo Tirso,68
+Recreativo Canaviais,Guadalupe,Évora,"Guadalupe, Azores",1745
 Resende,Felgueiras 1932,Resende,Felgueiras,107
+Resende,Lamego,Resende,Lamego,108
+Ribeirão,Santa Clara,Vila Nova de Famalicão,Ponta Delgada,1523
 Rio Ave,Alverca,Vila do Conde,Alverca do Ribatejo,275
 Rio Ave,Aves,Vila do Conde,Vila das Aves,28
 Rio Ave,Boavista,Vila do Conde,Porto,24
@@ -464,6 +794,7 @@ Rio Ave,SC Braga,Vila do Conde,Braga,36
 Rio Ave,Silves,Vila do Conde,Silves,440
 Rio Ave,Tondela,Vila do Conde,Tondela,109
 Rio Tinto,Moura,Gondomar,Moura,354
+Régua,Gondomar,Peso da Régua,Gondomar,81
 SC Braga,Benfica,Braga,Lisbon,320
 SC Braga,GIL Vicente,Braga,Barcelos,17
 SC Braga,Moreirense,Braga,Moreira de Cónegos,22
@@ -472,14 +803,23 @@ SC Braga,Santa Clara,Braga,Ponta Delgada,1538
 SC Covilha,Freamunde,Covilhã,Freamunde,132
 SC Covilha,Guimaraes,Covilhã,Guimarães,145
 SC Covilha,Moreirense,Covilhã,Moreira de Cónegos,141
+SC Covilha,Portimonense,Covilhã,Portimão,361
 SC Paivense,Tirsense,Castelo de Paiva,Santo Tirso,38
+Sacavenense,1º Dezembro,Sacavém,Sintra,23
+Sacavenense,Alverca,Sacavém,Alverca do Ribatejo,13
 Sacavenense,Arouca,Sacavém,Arouca,249
+Sacavenense,Atlético CP,Sacavém,Lisbon,9
 Sacavenense,Aves,Sacavém,Vila das Aves,292
 Sacavenense,Fafe,Sacavém,Fafe,306
 Sacavenense,Olhanense,Sacavém,Olhão,225
+Sacavenense,Sintrense,Sacavém,Sintra,23
 Sacavenense,Sporting CP,Sacavém,Lisbon,9
 Sacavenense,Varzim,Sacavém,Póvoa de Varzim,289
+Salgueiros,Foz,Porto,Porto,7
 Salgueiros,SC Covilha,Porto,Covilhã,135
+Salgueiros,Santa Maria FC,Porto,,9124
+Sandinenses,CD Olivais e Moscavide,,Lisbon,7539
+Sanjoanense,AD Nogueirense,São João da Madeira,Nogueira do Cravo,3
 Sanjoanense,CF Os Belenenses,São João da Madeira,Lisbon,249
 Sanjoanense,Canelas 2010,São João da Madeira,Vila Nova de Gaia,22
 Sanjoanense,Crato,São João da Madeira,Crato,195
@@ -489,154 +829,258 @@ Sanjoanense,Lusitano VRSA,São João da Madeira,Vila Real de Santo António,422
 Sanjoanense,Os Marialvas,São João da Madeira,Cantanhede,62
 Sanjoanense,Pedras Salgadas,São João da Madeira,Pedras Salgadas,104
 Sanjoanense,Rio Ave,São João da Madeira,Vila do Conde,55
+Sanjoanense,Sabugal,São João da Madeira,Sabugal,134
+Sanjoanense,Salgueiros,São João da Madeira,Porto,31
+Sanjoanense,Vitoria Setubal,São João da Madeira,Setúbal,266
 Santa Clara,Belenenses,Ponta Delgada,Lisbon,1451
 Santa Clara,Chaves,Ponta Delgada,Chaves,1614
+Santa Clara,FC Porto,Ponta Delgada,Porto,1522
 Santa Clara,Rio Ave,Ponta Delgada,Vila do Conde,1508
+Santa Clara,Vianense,Ponta Delgada,Viana do Castelo,1507
+Santa Cruz de Alvarenga,Gouveia,Arouca,Gouveia,76
+Santa Eulália,Tirsense,Vizela,Santo Tirso,15
+Santa Iria,Atlético Malveira,Santa Iria de Azóia,Malveira,19
 Santa Iria,Guimaraes,Santa Iria de Azóia,Guimarães,296
 Santa Iria,Lourinhanense,Santa Iria de Azóia,Lourinhã,49
 Santa Iria,Praiense,Santa Iria de Azóia,Praia da Vitória,1561
+Santa Marta Penaguião,Camacha,Vila Real,Camacha,1243
+Santa Marta Penaguião,Cinfães,Vila Real,Cinfães,30
 Santa Marta Penaguião,Leixoes,Vila Real,Matosinhos,76
+Sertanense,Amarante,Sertã,Amarante,164
+Sertanense,Beneditense,Sertã,Benedita,86
 Sertanense,Benfica,Sertã,Lisbon,150
+Sertanense,Benfica Castelo Branco,Sertã,Castelo Branco,50
 Sertanense,Castro Daire,Sertã,Castro Daire,125
 Sertanense,Estoril,Sertã,Estoril,164
 Sertanense,Farense,Sertã,Faro,311
 Sertanense,Lusitano FCV,Sertã,Vildemoinhos,97
-Sertanense,Mafra,Sertã,Mafra,142
-Sertanense,Tondela,Sertã,Tondela,79
+Sertanense,Mafra,Sertã,Mafra,143
+Sertanense,Marinhense,Sertã,Marinha Grande,71
+Sertanense,Peniche,Sertã,Peniche,121
+Sertanense,Tondela,Sertã,Tondela,80
 Sertanense,U. Madeira,Sertã,Funchal,1119
 Sesimbra,Oliveirense,Sesimbra,Oliveira de Azeméis,269
 Silves,Chaves II,Silves,Chaves,487
 Silves,Courense,Silves,Paredes de Coura,501
 Silves,Paredes,Silves,Paredes,423
-Sintra,Amarante,Sintra,Amarante,298
-Sintra,Marinhense,Sintra,Marinha Grande,114
+Sintra,Amarante,Sintra,Amarante,300
+Sintra,Loures,Sintra,Loures,18
+Sintra,Marinhense,Sintra,Marinha Grande,116
+Sintrense,Estoril,Sintra,Estoril,10
 Sintrense,FC Porto,Sintra,Porto,262
+Sintrense,Fazendense,Sintra,Fazendas de Almeirim,81
+Sintrense,Gafetense,Sintra,Gáfete,161
+Sintrense,Operário,Sintra,"Lagoa, Azores",1421
 Sintrense,Real,Sintra,Queluz,11
 Sourense,Leixoes,Soure,Matosinhos,125
+Sousense,Paredes,Gondomar,Paredes,18
+Sporting CP,Dumiense,Lisbon,Braga,324
 Sporting CP,Pacos Ferreira,Lisbon,Paços de Ferreira,292
 Sporting CP,Praiense,Lisbon,Praia da Vitória,1557
 Sporting CP,Varzim,Lisbon,Póvoa de Varzim,299
+Sporting Mêda,Beira-Mar,Mêda,Aveiro,123
+Sporting de Lourel,Beneditense,Sintra,Benedita,78
 São João Ver,Lagos,Santa Maria da Feira,Lagos,427
 São João Ver,Leixoes,Santa Maria da Feira,Matosinhos,28
+São João Ver,Lusitânia Lourosa,Santa Maria da Feira,Santa Maria da Feira,4
 São João Ver,Marinhense,Santa Maria da Feira,Marinha Grande,138
+São João Ver,Mortágua,Santa Maria da Feira,Mortágua,68
+São João Ver,Sanjoanense,Santa Maria da Feira,São João da Madeira,8
 São Roque,Farense,"São Roque, São Miguel Island",Faro,
 São Roque (Açores),Caldas,"São Roque, Azores",Caldas da Rainha,1661
+São Roque (Açores),Estrela,"São Roque, Azores",Amadora,1659
+São Roque (Açores),Torreense,"São Roque, Azores",Torres Vedras,1659
 Tirsense,Leixoes,Santo Tirso,Matosinhos,25
 Tirsense,Olímpico do Montijo,Santo Tirso,Montijo,295
-Tondela,Mafra,Tondela,Mafra,202
+Tocha,Esmoriz,Tocha,Esmoriz,72
+Tocha,Rebordosa,Tocha,Paredes,104
+Tondela,1º Dezembro,Tondela,Sintra,221
+Tondela,Mafra,Tondela,Mafra,207
 Tondela,Santa Clara,Tondela,Ponta Delgada,1550
-Tondela,Vale Formoso,Tondela,Covilhã,62
+Tondela,Vale Formoso,Tondela,Covilhã,63
 Torcatense,Lusitano VRSA,Guimarães,Vila Real de Santo António,482
-Torcatense,Maritimo,Guimarães,Funchal,1247
+Torcatense,Maritimo,Guimarães,Funchal,1246
+Torre de Moncorvo,Aguiar da Beira,Torre de Moncorvo,Aguiar da Beira,58
 Torre de Moncorvo,Cinfães,Torre de Moncorvo,Cinfães,87
-Torreense,Academico Viseu,Torres Vedras,Viseu,197
+Torreense,Academico Viseu,Torres Vedras,Viseu,196
 Torreense,Alverca,Torres Vedras,Alverca do Ribatejo,36
 Torreense,Amora,Torres Vedras,Amora,63
+Torreense,Coutada,Torres Vedras,Viseu,175
+Torreense,Loures,Torres Vedras,Loures,38
+Torreense,Mafra,Torres Vedras,Mafra,34
 Torreense,Nacional,Torres Vedras,Funchal,1006
 Torreense,Rio Ave,Torres Vedras,Vila do Conde,243
+Torreense,União Almeirim,Torres Vedras,Almeirim,53
+Trancoso,Oliveirense,Trancoso,Oliveira de Azeméis,96
+Trofense,Arões,Trofa,Fafe,32
 Trofense,Beira-Mar,Trofa,Aveiro,77
 Trofense,Benfica,Trofa,Lisbon,292
+Trofense,Caniçal,Trofa,Machico,1199
 Trofense,Famalicao,Trofa,Famalicão,8
 Trofense,Penafiel,Trofa,Penafiel,27
 Trofense,SC Braga,Trofa,Braga,28
 Trofense,Sintrense,Trofa,Sintra,290
+Trofense,Vila Meã,Trofa,Amarante,33
 Trofense,Vitoria Setubal,Trofa,Setúbal,313
+Trofense,Vizela,Trofa,Vizela,21
 Trofense,Águeda,Trofa,Águeda,84
-U. Madeira,Chaves,Funchal,Chaves,1302
+U. Madeira,Chaves,Funchal,Chaves,1303
 U. Madeira,Freamunde,Funchal,Freamunde,1222
 U. Madeira,Guimaraes,Funchal,Guimarães,1238
+U. Madeira,Lusitânia,Funchal,Angra do Heroísmo,1144
 U. Madeira,Oriental Lisboa,Funchal,Lisbon,972
+U. Madeira,Tirsense,Funchal,Santo Tirso,1220
 U. Madeira,União Santiago,Funchal,Santiago do Cacém,953
-UD da Serra,Oliveirense,Marinha Grande,Oliveira de Azeméis,126
-União Idanhense,AR São Martinho,Idanha-a-Nova,São Martinho,143
+U. Madeira,Vila Real,Funchal,Vila Real,1257
+UD da Serra,Oliveirense,Marinha Grande,Oliveira de Azeméis,123
+UD da Serra,Pedrógão São Pedro,Marinha Grande,Penamacor,151
+União Almeirim,União Santarém,Almeirim,Santarém,41
+União Ericeirense,Loures,Mafra,Loures,22
+União Idanhense,AR São Martinho,Idanha-a-Nova,São Martinho,1187
 União Idanhense,SC Covilha,Idanha-a-Nova,Covilhã,44
 União Idanhense,Torreense,Idanha-a-Nova,Torres Vedras,186
+União Idanhense,União de Tomar,Idanha-a-Nova,Tomar,106
+União Micaelense,Alcochetense,,Alcochete,7552
 União Montemor,Feirense,Montemor-o-Novo,Santa Maria da Feira,255
 União Montemor,Vilaverdense,Montemor-o-Novo,Vila Verde,334
-União Santarém,Farense,Santarém,Faro,291
-União Santarém,Mafra,Santarém,Mafra,108
+União Santarém,Farense,Santarém,Faro,268
+União Santarém,Gavionenses,Santarém,Gavião,26
+União Santarém,Loures,Santarém,Loures,107
+União Santarém,Mafra,Santarém,Mafra,110
+União Santarém,Proença-a-Nova,Santarém,,7649
+União Santiago,Vasco da Gama Vidigueira,Santiago do Cacém,Vidigueira,81
 União de Coimbra,Graciosa,Coimbra,Santa Cruz da Graciosa,1726
+União de Leiria,Atlético Malveira,Leiria,Malveira,136
 União de Leiria,Aves,Leiria,Vila das Aves,165
 União de Leiria,Boavista,Leiria,Porto,144
+União de Leiria,Crato,Leiria,Crato,88
 União de Leiria,Espinho,Leiria,Espinho,128
 União de Leiria,GIL Vicente,Leiria,Barcelos,185
+União de Leiria,Gavionenses,Leiria,Gavião,58
 União de Leiria,Montalegre,Leiria,Montalegre,219
-União de Leiria,Portimonense,Leiria,Portimão,306
+União de Leiria,Portimonense,Leiria,Portimão,307
 União de Leiria,Real,Leiria,Queluz,151
 União de Leiria,Santa Clara,Leiria,Ponta Delgada,1529
+União de Leiria,Sourense,Leiria,Soure,36
+União de Leiria,Sporting CP,Leiria,Lisbon,151
+União de Tomar,AD Portomosense,Tomar,Porto de Mós,36
+União de Tomar,Pêro Pinheiro,Tomar,Sintra,116
 União de Tomar,Vilafranquense,Tomar,Vila Franca de Xira,88
 Valadares Gaia,CD Olivais e Moscavide,Vila Nova de Gaia,Lisbon,269
 Valadares Gaia,Casa Pia,Vila Nova de Gaia,Lisbon,266
-Valadares Gaia,Chaves,Vila Nova de Gaia,Chaves,114
+Valadares Gaia,Chaves,Vila Nova de Gaia,Chaves,115
 Valadares Gaia,Louletano,Vila Nova de Gaia,Loulé,443
+Valadares Gaia,Paredes,Vila Nova de Gaia,Paredes,28
+Valadares Gaia,Salgueiros,Vila Nova de Gaia,Porto,9
+Valadares Gaia,Sousense,Vila Nova de Gaia,Gondomar,13
+Valadares Gaia,Torre de Moncorvo,Vila Nova de Gaia,Torre de Moncorvo,133
 Vale Formoso,Coimbrões,Covilhã,Vila Nova de Gaia,135
 Vale Formoso,União de Leiria,Covilhã,Leiria,93
 Valenciano,Guimaraes,Valença,Guimarães,72
+Valenciano,Merelinense,Valença,Braga,53
 Varzim,Estoril,Póvoa de Varzim,Estoril,301
 Varzim,Feirense,Póvoa de Varzim,Santa Maria da Feira,53
 Varzim,Loures,Póvoa de Varzim,Loures,284
 Varzim,SC Covilha,Póvoa de Varzim,Covilhã,162
 Varzim,São João Ver,Póvoa de Varzim,Santa Maria da Feira,50
+Varzim,Vila Meã,Póvoa de Varzim,Amarante,50
 Varzim,Águeda,Póvoa de Varzim,Águeda,93
 Vasco Gama VF do Campo,Imortal Albufeira,Vidigueira,Albufeira,129
 Vasco da Gama,Guimaraes,Sines,Guimarães,400
 Vasco da Gama AC,Cova De Piedade,Vidigueira,Cova da Piedade,136
 Vasco da Gama Vidigueira,Estoril,Vidigueira,Estoril,156
+Vasco da Gama Vidigueira,Imortal Albufeira,Vidigueira,Albufeira,124
+Vasco da Gama Vidigueira,Juventude Évora,Vidigueira,Évora,59
 Vasco da Gama Vidigueira,Leixoes,Vidigueira,Matosinhos,347
+Velense,Alcochetense,"São Jorge, Azores",Alcochete,1671
 Viana Alentejo,Cova De Piedade,Viana do Alentejo,Cova da Piedade,108
+Viana Alentejo,Quarteirense,Viana do Alentejo,Quarteira,140
 Vianense,Beira-Mar,Viana do Castelo,Aveiro,117
+Vianense,GIL Vicente,Viana do Castelo,Barcelos,25
 Vianense,Vilar de Perdizes,Viana do Castelo,Montalegre,101
 Vianense,Vitoria Setubal,Viana do Castelo,Setúbal,352
+Vianense,Âncora Praia,Viana do Castelo,Caminha,14
 Vidago,Vilafranquense,Chaves,Vila Franca de Xira,321
 Vila Caíz,Amora,Amarante,Amora,301
+Vila Cortez,Ginásio Figueirense,Guarda,Figueira da Foz,154
 Vila Flor,Amarante,Vila Flor,Amarante,81
+Vila Meã,Estrela,Amarante,Amadora,291
 Vila Meã,Feirense,Amarante,Santa Maria da Feira,47
-Vila Pouca,Mafra,Vila Pouca de Aguiar,Mafra,317
+Vila Pouca,Mafra,Vila Pouca de Aguiar,Mafra,322
 Vila Real,Aves,Vila Real,Vila das Aves,56
 Vila Real,Casa Pia,Vila Real,Lisbon,310
 Vila Real,FC Porto,Vila Real,Porto,70
+Vila Real,Mondinense,Vila Real,Mondim de Basto,21
 Vila Real,Oliveirense,Vila Real,Oliveira de Azeméis,81
+Vila Real,Ribeirão,Vila Real,Vila Nova de Famalicão,68
 Vila Real,Sanjoanense,Vila Real,São João da Madeira,77
+Vila Real,Torcatense,Vila Real,Guimarães,47
 Vila Silgueiros,Angrense,Viseu,Angra do Heroísmo,1668
+Vila Silgueiros,Gafanha,Viseu,Gafanha da Nazaré,68
+Vila Velha de Ródão,Caldas,Vila Velha de Ródão,Caldas da Rainha,130
+Vila Velha de Ródão,Vitória de Sernache,Vila Velha de Ródão,Cernache do Bonjardim,47
 Vilafranquense,Anadia,Vila Franca de Xira,Anadia,171
+Vilafranquense,Caldas,Vila Franca de Xira,Caldas da Rainha,50
 Vilafranquense,Casa Pia,Vila Franca de Xira,Lisbon,30
-Vilafranquense,Mafra,Vila Franca de Xira,Mafra,28
+Vilafranquense,Mafra,Vila Franca de Xira,Mafra,25
 Vilafranquense,Pacos Ferreira,Vila Franca de Xira,Paços de Ferreira,262
 Vilafranquense,Penafiel,Vila Franca de Xira,Penafiel,256
 Vilafranquense,Real,Vila Franca de Xira,Queluz,31
 Vilafranquense,Sanjoanense,Vila Franca de Xira,São João da Madeira,219
 Vilafranquense,Vilaverdense,Vila Franca de Xira,Vila Verde,302
+Vilar de Perdizes,FC Porto,Montalegre,Porto,114
+Vilar de Perdizes,Vasco da Gama Vidigueira,Montalegre,Vidigueira,412
+Vilar de Perdizes,Vilaverdense,Montalegre,Vila Verde,71
+Vilarinho,Oliveirense,Santo Tirso,Oliveira de Azeméis,60
+Vilaverdense,Atlético Arcos,Vila Verde,Arcos de Valdevez,22
 Vilaverdense,Atlético CP,Vila Verde,Lisbon,332
 Vilaverdense,Boavista,Vila Verde,Porto,57
+Vilaverdense,Bragança,Vila Verde,Bragança,141
+Vilaverdense,Caçadores das Taipas,Vila Verde,Guimarães,20
+Vilaverdense,Farense,Vila Verde,Faro,518
 Vilaverdense,Oliveira Hospital,Vila Verde,Oliveira do Hospital,153
 Vilaverdense,Olímpico do Montijo,Vila Verde,Montijo,330
 Vilaverdense,Portimonense,Vila Verde,Portimão,502
+Vinha da Rainha,Alcanenense,Soure,Alcanena,67
+Vinhais,Chaves II,Bragança,Chaves,40
 Vinhais,Nacional,Bragança,Funchal,1344
+Vinhais,Vianense,Bragança,Viana do Castelo,153
 Vitoria Setubal,Academico Viseu,Setúbal,Viseu,252
 Vitoria Setubal,Pacos Ferreira,Setúbal,Paços de Ferreira,309
 Vitoria Setubal,Vilar de Perdizes,Setúbal,Montalegre,385
 Vitoria Setubal,Vizela,Setúbal,Vizela,321
+Vitória Horta,Amora,Horta,Amora,105
+Vitória de Sernache,Alcains,Cernache do Bonjardim,Alcains,66
 Vitória de Sernache,Fabril Barreiro,Cernache do Bonjardim,Barreiro,148
 Vitória de Sernache,Rio Ave,Cernache do Bonjardim,Vila do Conde,178
 Vitória de Sernache,Sertanense,Cernache do Bonjardim,Sertã,8
+Vitória de Sernache,Vianense,Cernache do Bonjardim,Viana do Castelo,216
 Vitória de Sernache,Vilafranquense,Cernache do Bonjardim,Vila Franca de Xira,117
 Vizela,Benfica,Vizela,Lisbon,302
 Vizela,Boavista,Vizela,Porto,37
 Vizela,Estrela,Vizela,Amadora,302
 Vizela,FC Porto,Vizela,Porto,39
 Vizela,Fontinhas,Vizela,Praia da Vitória,1627
+Vizela,Mondinense,Vizela,Mondim de Basto,30
 Vizela,Moreirense,Vizela,Moreira de Cónegos,4
 Vizela,Penafiel,Vizela,Penafiel,20
 Vizela,SC Covilha,Vizela,Covilhã,140
-Vizela,Sintrense,Vizela,Sintra,300
+Vizela,Sintrense,Vizela,Sintra,301
 Vizela,Vilaverdense,Vizela,Vila Verde,32
 Águeda,Famalicao,Águeda,Famalicão,92
+Águeda,Ferreira de Aves,Águeda,Sátão,69
 Águeda,Louletano,Águeda,Loulé,384
 Águeda,Oriental Lisboa,Águeda,Lisbon,217
 Águeda,Pevidem,Águeda,Guimarães,94
 Águeda,Sousense,Águeda,Gondomar,57
+Águeda,Tourizense,Águeda,Tábua,42
+Águeda,Trancoso,Águeda,Trancoso,94
+Águia FC Vimioso,Mirandela,Vimioso,Mirandela,56
+Águia FC Vimioso,Monção,Vimioso,Monção,171
+Águia FC Vimioso,Os Limianos,Vimioso,Ponte de Lima,172
 Águia FC Vimioso,Vasco da Gama,Vimioso,Sines,458
 Águias do Moradal,Damaiense,Estreito,Amadora,181
-Águias do Moradal,Pacos Ferreira,Estreito,Paços de Ferreira,154
-Águias do Moradal,Torreense,Estreito,Torres Vedras,145
-Águias do Moradal,Vitoria Setubal,Estreito,Setúbal,184
+Águias do Moradal,Pacos Ferreira,Estreito,Paços de Ferreira,158
+Águias do Moradal,Torreense,Estreito,Torres Vedras,146
+Águias do Moradal,Vitoria Setubal,Estreito,Setúbal,183
+Águias do Moradal,Vitória de Sernache,Estreito,Cernache do Bonjardim,38

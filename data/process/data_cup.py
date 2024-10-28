@@ -95,6 +95,6 @@ def construct_cup_data(country, cup):
 
 
 if __name__ == "__main__":
-    country = 'England'
-    cup = 'FA_Cup'
+    country = 'Portugal'
+    cup = 'Taca_de_Portugal'
     construct_cup_data(country, cup)

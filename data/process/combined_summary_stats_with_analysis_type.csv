@@ -1,0 +1,89 @@
+Analysis Type,Variable,Category,Group,Mean (SE),Observations,p-value
+Participation,total_value_bins,Low,No Win,86.17 (4.81),466.0,6.323105996849105e-05
+Participation,total_value_bins,Low,Win,115.14 (5.37),518.0,6.323105996849105e-05
+Participation,total_value_bins,Medium,No Win,536.42 (24.15),20.0,0.6135746799249915
+Participation,total_value_bins,Medium,Win,550.24 (12.23),88.0,0.6135746799249915
+Participation,total_value_bins,High,No Win,969.79 (40.82),11.0,0.4017718802892061
+Participation,total_value_bins,High,Win,929.83 (21.99),14.0,0.4017718802892061
+Cup Win,total_value_bins,Low,No Win,86.39 (5.15),399.0,7.867132612891967e-05
+Cup Win,total_value_bins,Low,Win,115.96 (5.38),503.0,7.867132612891967e-05
+Cup Win,total_value_bins,Medium,No Win,540.20 (20.60),20.0,0.7614599970738096
+Cup Win,total_value_bins,Medium,Win,533.09 (10.73),92.0,0.7614599970738096
+Cup Win,total_value_bins,High,No Win,974.26 (35.83),10.0,0.04774899744042159
+Cup Win,total_value_bins,High,Win,878.25 (27.67),14.0,0.04774899744042159
+Participation,mean_value_bins,Low,No Win,2.26 (0.12),462.0,3.7293785783556574e-05
+Participation,mean_value_bins,Low,Win,3.04 (0.14),515.0,3.7293785783556574e-05
+Participation,mean_value_bins,Medium,No Win,13.92 (0.55),25.0,0.2732745848886702
+Participation,mean_value_bins,Medium,Win,14.63 (0.32),89.0,0.2732745848886702
+Participation,mean_value_bins,High,No Win,25.16 (1.12),10.0,0.12539674144726032
+Participation,mean_value_bins,High,Win,23.17 (0.45),16.0,0.12539674144726032
+Cup Win,mean_value_bins,Low,No Win,2.32 (0.14),398.0,6.947180862916476e-07
+Cup Win,mean_value_bins,Low,Win,3.33 (0.15),517.0,6.947180862916476e-07
+Cup Win,mean_value_bins,Medium,No Win,15.20 (0.65),24.0,0.5821378371986299
+Cup Win,mean_value_bins,Medium,Win,15.61 (0.34),85.0,0.5821378371986299
+Cup Win,mean_value_bins,High,No Win,26.54 (1.58),7.0,0.19798757552480772
+Cup Win,mean_value_bins,High,Win,24.16 (0.59),7.0,0.19798757552480772
+Participation,team_size_bins,Low,No Win,31.69 (0.17),162.0,0.3047346326898616
+Participation,team_size_bins,Low,Win,31.92 (0.14),208.0,0.3047346326898616
+Participation,team_size_bins,Medium,No Win,38.87 (0.17),315.0,0.6116352960735569
+Participation,team_size_bins,Medium,Win,38.98 (0.14),386.0,0.6116352960735569
+Participation,team_size_bins,High,No Win,48.10 (0.65),20.0,0.02784891114791342
+Participation,team_size_bins,High,Win,50.23 (0.68),26.0,0.02784891114791342
+Cup Win,team_size_bins,Low,No Win,31.74 (0.18),149.0,0.8689840919226438
+Cup Win,team_size_bins,Low,Win,31.78 (0.14),205.0,0.8689840919226438
+Cup Win,team_size_bins,Medium,No Win,38.86 (0.18),267.0,0.6716990213419363
+Cup Win,team_size_bins,Medium,Win,38.95 (0.15),373.0,0.6716990213419363
+Cup Win,team_size_bins,High,No Win,49.54 (1.02),13.0,0.850546270798864
+Cup Win,team_size_bins,High,Win,49.32 (0.49),31.0,0.850546270798864
+Participation,foreigners_bins,Low,No Win,11.63 (0.24),163.0,0.0073784561682154965
+Participation,foreigners_bins,Low,Win,12.49 (0.21),157.0,0.0073784561682154965
+Participation,foreigners_bins,Medium,No Win,20.51 (0.18),315.0,0.20652983402912053
+Participation,foreigners_bins,Medium,Win,20.82 (0.16),415.0,0.20652983402912053
+Participation,foreigners_bins,High,No Win,30.74 (0.58),19.0,0.432308264218941
+Participation,foreigners_bins,High,Win,31.31 (0.43),48.0,0.432308264218941
+Cup Win,foreigners_bins,Low,No Win,11.52 (0.26),146.0,0.0028576736276621265
+Cup Win,foreigners_bins,Low,Win,12.52 (0.20),164.0,0.0028576736276621265
+Cup Win,foreigners_bins,Medium,No Win,20.62 (0.20),264.0,0.7966088949687211
+Cup Win,foreigners_bins,Medium,Win,20.55 (0.16),397.0,0.7966088949687211
+Cup Win,foreigners_bins,High,No Win,30.79 (0.56),19.0,0.3676769005645002
+Cup Win,foreigners_bins,High,Win,31.46 (0.47),48.0,0.3676769005645002
+Participation,mean_age_bins,Low,No Win,23.57 (0.04),177.0,0.3142981497466129
+Participation,mean_age_bins,Low,Win,23.62 (0.03),248.0,0.3142981497466129
+Participation,mean_age_bins,Medium,No Win,25.28 (0.04),291.0,0.9422710777423373
+Participation,mean_age_bins,Medium,Win,25.28 (0.03),346.0,0.9422710777423373
+Participation,mean_age_bins,High,No Win,27.30 (0.07),29.0,0.46230227526594836
+Participation,mean_age_bins,High,Win,27.40 (0.11),26.0,0.46230227526594836
+Cup Win,mean_age_bins,Low,No Win,23.44 (0.04),131.0,0.4585273632272544
+Cup Win,mean_age_bins,Low,Win,23.48 (0.03),216.0,0.4585273632272544
+Cup Win,mean_age_bins,Medium,No Win,25.12 (0.04),266.0,0.8167707266732923
+Cup Win,mean_age_bins,Medium,Win,25.11 (0.03),360.0,0.8167707266732923
+Cup Win,mean_age_bins,High,No Win,27.06 (0.09),32.0,0.6252467860083193
+Cup Win,mean_age_bins,High,Win,27.12 (0.09),33.0,0.6252467860083193
+Participation,distance_bins,Home,No Win,0.00 (0.00),225.0,
+Participation,distance_bins,Home,Win,0.00 (0.00),300.0,
+Participation,distance_bins,Low,No Win,55.98 (2.75),94.0,0.957193617931366
+Participation,distance_bins,Low,Win,55.77 (2.65),106.0,0.957193617931366
+Participation,distance_bins,Medium,No Win,156.44 (3.54),86.0,0.9761759537518183
+Participation,distance_bins,Medium,Win,156.59 (3.33),109.0,0.9761759537518183
+Participation,distance_bins,High,No Win,381.40 (22.78),92.0,0.2966133417019203
+Participation,distance_bins,High,Win,416.40 (24.48),105.0,0.2966133417019203
+Cup Win,distance_bins,Home,No Win,0.00 (0.00),206.0,
+Cup Win,distance_bins,Home,Win,0.00 (0.00),292.0,
+Cup Win,distance_bins,Low,No Win,56.22 (3.22),73.0,0.898366965881822
+Cup Win,distance_bins,Low,Win,56.74 (2.44),110.0,0.898366965881822
+Cup Win,distance_bins,Medium,No Win,144.67 (3.43),72.0,0.9151669976792316
+Cup Win,distance_bins,Medium,Win,144.20 (2.71),105.0,0.9151669976792316
+Cup Win,distance_bins,High,No Win,348.86 (22.23),78.0,0.5436852211172769
+Cup Win,distance_bins,High,Win,332.66 (14.63),102.0,0.5436852211172769
+Participation,next_fixture_days_round_plus,All,No Win,2.73 (0.05),497.0,2.5013161442389145e-10
+Participation,next_fixture_days_round_plus,All,Win,3.13 (0.03),620.0,2.5013161442389145e-10
+Participation,extra_time,All,No Win,0.14 (0.02),497.0,0.5245231458284474
+Participation,extra_time,All,Win,0.13 (0.01),620.0,0.5245231458284474
+Cup Win,next_fixture_days_round,All,No Win,3.04 (0.04),429.0,0.04095248574231617
+Cup Win,next_fixture_days_round,All,Win,3.15 (0.03),609.0,0.04095248574231617
+Cup Win,extra_time,All,No Win,0.16 (0.02),429.0,0.27679986358192193
+Cup Win,extra_time,All,Win,0.14 (0.01),609.0,0.27679986358192193
+Participation,next_team_points_round_plus,All,No Win,1.20 (0.06),497.0,
+Participation,next_team_points_round_plus,All,Win,1.57 (0.05),620.0,
+Cup Win,next_team_points_round,All,No Win,1.34 (0.06),429.0,
+Cup Win,next_team_points_round,All,Win,1.53 (0.05),609.0,

@@ -1,7 +1,7 @@
 import os
-import numpy as np
 import pandas as pd
-import Levenshtein
+
+from datetime import timedelta
 
 from utils.load import project_root, load_csv
 
@@ -25,7 +25,7 @@ def set_non_league_rank(team_data: pd.DataFrame, divisions: int = 4):
     team_data['opponent_rank_prev'] = team_data['opponent_rank_prev'].fillna(non_national_rank)
 
     total_teams_lowest_division = \
-    team_data[(team_data['year'] == latest_year) & (team_data['team_division'] == divisions)]['team_id'].nunique()
+        team_data[(team_data['year'] == latest_year) & (team_data['team_division'] == divisions)]['team_id'].nunique()
     non_league_rank = total_teams_lowest_division // 2
 
     team_data['team_league_rank'] = team_data['team_league_rank'].fillna(non_league_rank)
@@ -36,6 +36,20 @@ def set_non_league_rank(team_data: pd.DataFrame, divisions: int = 4):
     team_data['opponent_division'] = team_data['opponent_division'].apply(lambda x: divisions + 1 if pd.isna(x) else x)
 
     return team_data
+
+
+def find_next_cup_round(winning_team_id, current_round_date, cup_fixtures):
+    """
+    Find the next cup round date for the winning team based on their cup fixtures.
+    """
+    next_round_fixtures = cup_fixtures[
+        (cup_fixtures['team_id'] == winning_team_id) &
+        (cup_fixtures['fixture_date'] > current_round_date)
+        ].sort_values(by='fixture_date')
+
+    if not next_round_fixtures.empty:
+        return next_round_fixtures.iloc[0]['fixture_date']
+    return None
 
 
 def merge_cup_and_league_data(cup_fixtures: pd.DataFrame, league_standings: pd.DataFrame):
@@ -102,50 +116,87 @@ def merge_cup_and_league_data(cup_fixtures: pd.DataFrame, league_standings: pd.D
 
 
 def merge_with_next_fixture_data(cup_fixtures, league_fixtures):
-    """
-    Merge cup fixtures dataframe with next league fixture data,
-    adding information about the next opponent, fixture date,
-    days until next fixture, match result, and points.
-
-    Returns:
-    - pd.DataFrame: Merged dataframe with next fixture data.
-    """
+    # Ensure that dates are in datetime format
     cup_fixtures['fixture_date'] = pd.to_datetime(cup_fixtures['fixture_date'])
     league_fixtures['fixture_date'] = pd.to_datetime(league_fixtures['fixture_date'])
 
-    cup_fixtures = cup_fixtures.sort_values(by=['team_id', 'fixture_date']).reset_index(drop=True)
-    league_fixtures = league_fixtures.sort_values(by=['team_id', 'fixture_date']).reset_index(drop=True)
-
     result_rows = []
 
-    for index, row in cup_fixtures.iterrows():
-        team_id = row['team_id']
-        fixture_date = row['fixture_date']
+    def find_next_cup_round(team_id, current_fixture_date, cup_fixtures):
+        next_cup_fixtures = cup_fixtures[
+            (cup_fixtures['team_id'] == team_id) &
+            (cup_fixtures['fixture_date'] > current_fixture_date)
+        ].sort_values(by='fixture_date')
 
-        next_matches = league_fixtures[
-            (league_fixtures['team_id'] == team_id) &
-            (league_fixtures['fixture_date'] > fixture_date)]
+        if not next_cup_fixtures.empty:
+            return next_cup_fixtures.iloc[0]['fixture_date']
+        else:
+            return None
 
-        if not next_matches.empty:
-            next_match = next_matches.iloc[0]
-            next_fixture_date = next_match['fixture_date']
-            next_opponent_name = next_match['opponent_name']
-            next_fixture_days = (next_fixture_date - fixture_date).days
-            next_team_win = next_match['team_win']
-            next_team_points = next_match['team_points_match']
+    fixture_groups = cup_fixtures.groupby('fixture_id')
+
+    for fixture_id, fixture_data in fixture_groups:
+        fixture_date = fixture_data.iloc[0]['fixture_date']
+        teams_in_fixture = fixture_data['team_id'].unique()
+        winning_team_id = fixture_data[fixture_data['team_win'] == 1]['team_id'].values[0]
+
+        for team_id in teams_in_fixture:
+            next_matches_after_round_t = league_fixtures[
+                (league_fixtures['team_id'] == team_id) &
+                (league_fixtures['fixture_date'] > fixture_date)
+            ]
+
+            if not next_matches_after_round_t.empty:
+                next_match_after_t = next_matches_after_round_t.iloc[0]
+                next_fixture_date_after_t = next_match_after_t['fixture_date']
+                next_fixture_days_after_t = (next_fixture_date_after_t - fixture_date).days
+                next_team_points_after_t = next_match_after_t['team_points_match']
+            else:
+                next_fixture_date_after_t = None
+                next_fixture_days_after_t = None
+                next_team_points_after_t = None
+
+            next_fixture_date_after_t1 = None
+            next_fixture_days_after_t1 = None
+            next_team_points_after_t1 = None
+
+            if team_id == winning_team_id:
+                next_cup_round_date = find_next_cup_round(team_id, fixture_date, cup_fixtures)
+            else:
+                next_cup_round_date = find_next_cup_round(winning_team_id, fixture_date, cup_fixtures)
+                # Check if next_cup_round_date is not None before subtracting timedelta
+                if next_cup_round_date is not None:
+                    next_cup_round_date = next_cup_round_date - timedelta(days=0)
+                else:
+                    print(f"Next cup round date is None for team_id: {team_id} and fixture_date: {fixture_date}")
+
+            if next_cup_round_date is not None:
+                next_matches_after_round_t1 = league_fixtures[
+                    (league_fixtures['team_id'] == team_id) &
+                    (league_fixtures['fixture_date'] > next_cup_round_date)
+                ]
+
+                if not next_matches_after_round_t1.empty:
+                    next_match_after_t1 = next_matches_after_round_t1.iloc[0]
+                    next_fixture_date_after_t1 = next_match_after_t1['fixture_date']
+                    next_fixture_days_after_t1 = (next_fixture_date_after_t1 - next_cup_round_date).days
+                    next_team_points_after_t1 = next_match_after_t1['team_points_match']
 
             result_rows.append({
-                **row,
-                'next_fixture_date': next_fixture_date,
-                'next_opponent_name': next_opponent_name,
-                'next_fixture_days': next_fixture_days,
-                'next_team_win': next_team_win,
-                'next_team_points': next_team_points
+                'fixture_id': fixture_id,
+                'team_id': team_id,
+                'next_fixture_date_round': next_fixture_date_after_t,
+                'next_fixture_days_round': next_fixture_days_after_t,
+                'next_team_points_round': next_team_points_after_t,
+                'next_fixture_date_round_plus': next_fixture_date_after_t1,
+                'next_fixture_days_round_plus': next_fixture_days_after_t1,
+                'next_team_points_round_plus': next_team_points_after_t1
             })
 
-    result = pd.DataFrame(result_rows)
+    result_df = pd.DataFrame(result_rows)
+    merged_cup_fixtures = cup_fixtures.merge(result_df, on=['fixture_id', 'team_id'], how='left')
 
-    return result
+    return merged_cup_fixtures
 
 
 def merge_with_distance_data(cup_fixtures, distance_data):
@@ -253,8 +304,8 @@ def check_name_matches(data):
 
 
 if __name__ == "__main__":
-    country = 'England'
-    cup = 'FA_Cup'
+    country = 'Netherlands'
+    cup = 'KNVB_Beker'
     processed_data = preprocess_data(country, cup)
 
     print(processed_data)
