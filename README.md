@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the analysis code for the thesis *"Evaluating the Effect of Cup Participation on League Performance: Evidence from European Domestic Cups"* by Jelle Willekes. The study investigates the impact of domestic cup participation and winning on subsequent league performance, using random cup draws as an exogenous variation source. The analysis spans the FA Cup (England), DFB Pokal (Germany), KNVB Beker (Netherlands), and Taca de Portugal (Portugal).
+This repository contains the analysis code for the paper *"Evaluating the Effect of Cup Participation on League Performance: Evidence from European Domestic Cups"* by Jelle Willekes. The study investigates the impact of domestic cup participation and winning on subsequent league performance, using random cup draws as an exogenous variation source. The analysis spans the FA Cup (England), DFB Pokal (Germany), KNVB Beker (Netherlands), and Taca de Portugal (Portugal).
 
 ## Key Objectives
 
